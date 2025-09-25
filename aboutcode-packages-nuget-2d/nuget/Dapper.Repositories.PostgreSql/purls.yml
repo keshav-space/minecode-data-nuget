@@ -1,0 +1,6 @@
+- pkg:nuget/Dapper.Repositories.PostgreSql@1.0.0
+- pkg:nuget/Dapper.Repositories.PostgreSql@1.0.1
+- pkg:nuget/Dapper.Repositories.PostgreSql@1.0.2
+- pkg:nuget/Dapper.Repositories.PostgreSql@1.1.0
+- pkg:nuget/Dapper.Repositories.PostgreSql@1.1.1
+- pkg:nuget/Dapper.Repositories.PostgreSql@1.2.0

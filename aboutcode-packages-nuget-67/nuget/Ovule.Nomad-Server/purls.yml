@@ -1,0 +1,4 @@
+- pkg:nuget/Ovule.Nomad-Server@0.7.1
+- pkg:nuget/Ovule.Nomad-Server@0.8.0
+- pkg:nuget/Ovule.Nomad-Server@0.8.1
+- pkg:nuget/Ovule.Nomad-Server@0.8.2

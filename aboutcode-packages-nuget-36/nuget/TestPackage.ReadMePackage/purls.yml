@@ -1,0 +1,3 @@
+- pkg:nuget/TestPackage.ReadMePackage@1.0.0
+- pkg:nuget/TestPackage.ReadMePackage@1.1.0
+- pkg:nuget/TestPackage.ReadMePackage@1.2.0

@@ -1,0 +1,5 @@
+- pkg:nuget/AspNet.Security.OAuth.Extensions@1.0.0-alpha2
+- pkg:nuget/AspNet.Security.OAuth.Extensions@1.0.0-alpha3
+- pkg:nuget/AspNet.Security.OAuth.Extensions@1.0.0-alpha4-final
+- pkg:nuget/AspNet.Security.OAuth.Extensions@1.0.0-beta1-final
+- pkg:nuget/AspNet.Security.OAuth.Extensions@1.0.0-rc1-final

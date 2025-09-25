@@ -1,0 +1,5 @@
+- pkg:nuget/TimeTracer@1.0.0
+- pkg:nuget/TimeTracer@1.0.0-alpha
+- pkg:nuget/TimeTracer@2.0.0
+- pkg:nuget/TimeTracer@2.0.0-beta
+- pkg:nuget/TimeTracer@2.0.0-beta.2

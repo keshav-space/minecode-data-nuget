@@ -1,0 +1,15 @@
+- pkg:nuget/C1.DataEngine.Collection@5.0.20213.235
+- pkg:nuget/C1.DataEngine.Collection@5.0.20213.237
+- pkg:nuget/C1.DataEngine.Collection@5.0.20221.247
+- pkg:nuget/C1.DataEngine.Collection@5.0.20221.252
+- pkg:nuget/C1.DataEngine.Collection@5.0.20221.254
+- pkg:nuget/C1.DataEngine.Collection@5.0.20222.264
+- pkg:nuget/C1.DataEngine.Collection@5.0.20222.270
+- pkg:nuget/C1.DataEngine.Collection@5.0.20223.290
+- pkg:nuget/C1.DataEngine.Collection@5.0.20231.300
+- pkg:nuget/C1.DataEngine.Collection@5.0.20232.306
+- pkg:nuget/C1.DataEngine.Collection@5.0.20233.320
+- pkg:nuget/C1.DataEngine.Collection@8.0.20241.331
+- pkg:nuget/C1.DataEngine.Collection@8.0.20242.340
+- pkg:nuget/C1.DataEngine.Collection@8.0.20242.343
+- pkg:nuget/C1.DataEngine.Collection@9.0.20251.347

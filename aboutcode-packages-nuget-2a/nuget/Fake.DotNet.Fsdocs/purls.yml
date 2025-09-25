@@ -1,0 +1,10 @@
+- pkg:nuget/Fake.DotNet.Fsdocs@6.0.0
+- pkg:nuget/Fake.DotNet.Fsdocs@6.0.0-alpha001
+- pkg:nuget/Fake.DotNet.Fsdocs@6.0.0-alpha002
+- pkg:nuget/Fake.DotNet.Fsdocs@6.0.0-alpha003
+- pkg:nuget/Fake.DotNet.Fsdocs@6.0.0-alpha004
+- pkg:nuget/Fake.DotNet.Fsdocs@6.0.0-beta001
+- pkg:nuget/Fake.DotNet.Fsdocs@6.1.0
+- pkg:nuget/Fake.DotNet.Fsdocs@6.1.1
+- pkg:nuget/Fake.DotNet.Fsdocs@6.1.2
+- pkg:nuget/Fake.DotNet.Fsdocs@6.1.3

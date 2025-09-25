@@ -1,0 +1,5 @@
+- pkg:nuget/Kite.CQRS.InMemory@0.0.8
+- pkg:nuget/Kite.CQRS.InMemory@0.0.81
+- pkg:nuget/Kite.CQRS.InMemory@0.0.83
+- pkg:nuget/Kite.CQRS.InMemory@0.0.84
+- pkg:nuget/Kite.CQRS.InMemory@0.0.85

@@ -1,0 +1,3 @@
+- pkg:nuget/mu_nasm@2.13.3
+- pkg:nuget/mu_nasm@2.14.2
+- pkg:nuget/mu_nasm@2.15.5

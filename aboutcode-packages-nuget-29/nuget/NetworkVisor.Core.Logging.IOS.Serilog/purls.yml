@@ -1,0 +1,2 @@
+- pkg:nuget/NetworkVisor.Core.Logging.IOS.Serilog@2.0.3-prerelease
+- pkg:nuget/NetworkVisor.Core.Logging.IOS.Serilog@2.1.3-prerelease

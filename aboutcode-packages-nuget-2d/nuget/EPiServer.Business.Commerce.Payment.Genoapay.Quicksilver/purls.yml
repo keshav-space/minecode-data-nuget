@@ -1,0 +1,4 @@
+- pkg:nuget/EPiServer.Business.Commerce.Payment.Genoapay.Quicksilver@1.0.83-beta
+- pkg:nuget/EPiServer.Business.Commerce.Payment.Genoapay.Quicksilver@1.0.85-beta
+- pkg:nuget/EPiServer.Business.Commerce.Payment.Genoapay.Quicksilver@1.0.86-beta
+- pkg:nuget/EPiServer.Business.Commerce.Payment.Genoapay.Quicksilver@1.0.88-beta

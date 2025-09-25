@@ -1,0 +1,3 @@
+- pkg:nuget/prometheus-net.WebApi@1.0.0
+- pkg:nuget/prometheus-net.WebApi@1.0.0-a
+- pkg:nuget/prometheus-net.WebApi@1.0.2

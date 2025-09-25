@@ -1,0 +1,4 @@
+- pkg:nuget/EF6.Commands@1.0.0
+- pkg:nuget/EF6.Commands@1.1.0-beta
+- pkg:nuget/EF6.Commands@1.1.1-beta
+- pkg:nuget/EF6.Commands@1.1.1-beta4

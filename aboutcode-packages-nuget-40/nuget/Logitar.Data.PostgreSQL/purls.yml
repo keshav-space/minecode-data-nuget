@@ -1,0 +1,7 @@
+- pkg:nuget/Logitar.Data.PostgreSQL@2.0.0
+- pkg:nuget/Logitar.Data.PostgreSQL@2.1.0
+- pkg:nuget/Logitar.Data.PostgreSQL@3.0.0
+- pkg:nuget/Logitar.Data.PostgreSQL@3.1.0
+- pkg:nuget/Logitar.Data.PostgreSQL@3.1.1
+- pkg:nuget/Logitar.Data.PostgreSQL@7.0.0
+- pkg:nuget/Logitar.Data.PostgreSQL@7.0.1

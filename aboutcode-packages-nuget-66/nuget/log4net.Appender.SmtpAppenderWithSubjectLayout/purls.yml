@@ -1,0 +1,1 @@
+- pkg:nuget/log4net.Appender.SmtpAppenderWithSubjectLayout@1.0.0

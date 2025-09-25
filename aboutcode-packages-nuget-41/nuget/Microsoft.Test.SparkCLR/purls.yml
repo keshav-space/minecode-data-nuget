@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Test.SparkCLR@1.4.1-SNAPSHOT
+- pkg:nuget/Microsoft.Test.SparkCLR@1.4.1-snapshot-001
+- pkg:nuget/Microsoft.Test.SparkCLR@1.4.1-snapshot-002

@@ -1,0 +1,10 @@
+- pkg:nuget/dotnet-eventgrid@0.2.3
+- pkg:nuget/dotnet-eventgrid@0.2.4
+- pkg:nuget/dotnet-eventgrid@0.2.5
+- pkg:nuget/dotnet-eventgrid@0.2.6
+- pkg:nuget/dotnet-eventgrid@0.2.8
+- pkg:nuget/dotnet-eventgrid@0.2.9
+- pkg:nuget/dotnet-eventgrid@1.0.0
+- pkg:nuget/dotnet-eventgrid@1.0.0-alpha
+- pkg:nuget/dotnet-eventgrid@1.1.0
+- pkg:nuget/dotnet-eventgrid@1.1.1

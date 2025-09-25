@@ -1,0 +1,2 @@
+- pkg:nuget/Teronis.AspNetCore.Authentication.JwtBearer@3.1.0
+- pkg:nuget/Teronis.AspNetCore.Authentication.JwtBearer@3.1.1

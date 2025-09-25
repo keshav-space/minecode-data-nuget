@@ -1,0 +1,3 @@
+- pkg:nuget/EntityFrameworkCore.Seeding@1.0.0
+- pkg:nuget/EntityFrameworkCore.Seeding@1.0.1
+- pkg:nuget/EntityFrameworkCore.Seeding@1.1.1

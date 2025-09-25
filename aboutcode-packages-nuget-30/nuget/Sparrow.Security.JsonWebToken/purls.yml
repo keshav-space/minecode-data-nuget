@@ -1,0 +1,5 @@
+- pkg:nuget/Sparrow.Security.JsonWebToken@1.0.0
+- pkg:nuget/Sparrow.Security.JsonWebToken@2.0.0
+- pkg:nuget/Sparrow.Security.JsonWebToken@2.1.0
+- pkg:nuget/Sparrow.Security.JsonWebToken@2.2.0
+- pkg:nuget/Sparrow.Security.JsonWebToken@2.2.1

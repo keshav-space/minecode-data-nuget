@@ -1,0 +1,14 @@
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.0.0
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.0.1
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.0.2
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.0.3
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.1.4
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.1.5
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.2.4
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.2.5
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.2.6
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.2.8
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.2.9
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.3.2
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.3.3
+- pkg:nuget/Coconut.NetCore.RabbitMQ@0.3.4

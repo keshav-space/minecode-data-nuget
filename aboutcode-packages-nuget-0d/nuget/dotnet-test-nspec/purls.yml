@@ -1,0 +1,4 @@
+- pkg:nuget/dotnet-test-nspec@0.1.0
+- pkg:nuget/dotnet-test-nspec@0.1.1
+- pkg:nuget/dotnet-test-nspec@0.2.0
+- pkg:nuget/dotnet-test-nspec@0.2.1

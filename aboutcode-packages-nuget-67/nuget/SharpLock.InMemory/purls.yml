@@ -1,0 +1,5 @@
+- pkg:nuget/SharpLock.InMemory@1.0.0
+- pkg:nuget/SharpLock.InMemory@1.0.1
+- pkg:nuget/SharpLock.InMemory@1.0.25
+- pkg:nuget/SharpLock.InMemory@1.1.0
+- pkg:nuget/SharpLock.InMemory@1.1.1

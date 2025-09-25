@@ -1,0 +1,11 @@
+- pkg:nuget/NsqSharp@0.3.0
+- pkg:nuget/NsqSharp@0.3.1
+- pkg:nuget/NsqSharp@0.3.2
+- pkg:nuget/NsqSharp@0.3.3
+- pkg:nuget/NsqSharp@0.3.4
+- pkg:nuget/NsqSharp@0.4.0
+- pkg:nuget/NsqSharp@0.5.0-beta1
+- pkg:nuget/NsqSharp@0.5.1-beta1
+- pkg:nuget/NsqSharp@0.5.2
+- pkg:nuget/NsqSharp@0.5.3
+- pkg:nuget/NsqSharp@0.5.4

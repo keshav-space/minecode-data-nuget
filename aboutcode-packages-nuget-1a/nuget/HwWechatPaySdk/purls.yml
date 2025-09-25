@@ -1,0 +1,4 @@
+- pkg:nuget/HwWechatPaySdk@1.0.0
+- pkg:nuget/HwWechatPaySdk@2.0.0
+- pkg:nuget/HwWechatPaySdk@2.0.1
+- pkg:nuget/HwWechatPaySdk@3.0.0

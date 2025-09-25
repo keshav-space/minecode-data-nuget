@@ -1,0 +1,11 @@
+- pkg:nuget/FreeStack.Redis@4.0.0
+- pkg:nuget/FreeStack.Redis@4.1.0
+- pkg:nuget/FreeStack.Redis@4.1.1
+- pkg:nuget/FreeStack.Redis@4.2.0
+- pkg:nuget/FreeStack.Redis@4.3.0
+- pkg:nuget/FreeStack.Redis@4.3.1
+- pkg:nuget/FreeStack.Redis@4.3.3
+- pkg:nuget/FreeStack.Redis@4.3.4
+- pkg:nuget/FreeStack.Redis@4.3.5
+- pkg:nuget/FreeStack.Redis@4.3.6
+- pkg:nuget/FreeStack.Redis@4.4.2

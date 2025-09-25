@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFrameworkCore.SqlServer.JsonExtention@1.0.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.JsonExtention@2.0.0

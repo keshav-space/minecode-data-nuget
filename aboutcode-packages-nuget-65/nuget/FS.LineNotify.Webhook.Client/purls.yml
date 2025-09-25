@@ -1,0 +1,4 @@
+- pkg:nuget/FS.LineNotify.Webhook.Client@420.0.1
+- pkg:nuget/FS.LineNotify.Webhook.Client@422.0.1
+- pkg:nuget/FS.LineNotify.Webhook.Client@422.0.2
+- pkg:nuget/FS.LineNotify.Webhook.Client@422.0.3

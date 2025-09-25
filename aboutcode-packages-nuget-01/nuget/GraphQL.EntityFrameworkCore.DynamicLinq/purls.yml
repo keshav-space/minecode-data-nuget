@@ -1,0 +1,7 @@
+- pkg:nuget/GraphQL.EntityFrameworkCore.DynamicLinq@0.0.1
+- pkg:nuget/GraphQL.EntityFrameworkCore.DynamicLinq@0.0.2
+- pkg:nuget/GraphQL.EntityFrameworkCore.DynamicLinq@1.0.0
+- pkg:nuget/GraphQL.EntityFrameworkCore.DynamicLinq@1.0.0-preview00
+- pkg:nuget/GraphQL.EntityFrameworkCore.DynamicLinq@1.0.1
+- pkg:nuget/GraphQL.EntityFrameworkCore.DynamicLinq@1.0.2
+- pkg:nuget/GraphQL.EntityFrameworkCore.DynamicLinq@1.0.3
