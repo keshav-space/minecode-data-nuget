@@ -1,0 +1,3 @@
+- pkg:nuget/Quesify.SharedKernel.MongoDB@1.0.0
+- pkg:nuget/Quesify.SharedKernel.MongoDB@1.0.1
+- pkg:nuget/Quesify.SharedKernel.MongoDB@1.0.2

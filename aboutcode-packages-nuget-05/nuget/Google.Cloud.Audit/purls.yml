@@ -1,0 +1,9 @@
+- pkg:nuget/Google.Cloud.Audit@1.0.0
+- pkg:nuget/Google.Cloud.Audit@1.0.0-beta02
+- pkg:nuget/Google.Cloud.Audit@1.1.0
+- pkg:nuget/Google.Cloud.Audit@2.0.0
+- pkg:nuget/Google.Cloud.Audit@2.1.0
+- pkg:nuget/Google.Cloud.Audit@2.2.0
+- pkg:nuget/Google.Cloud.Audit@2.3.0
+- pkg:nuget/Google.Cloud.Audit@2.4.0
+- pkg:nuget/Google.Cloud.Audit@2.5.0

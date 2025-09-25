@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Management.Marketplace@1.0.1
+- pkg:nuget/Microsoft.Azure.Management.Marketplace@1.1.0
+- pkg:nuget/Microsoft.Azure.Management.Marketplace@2.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Marketplace@3.0.0

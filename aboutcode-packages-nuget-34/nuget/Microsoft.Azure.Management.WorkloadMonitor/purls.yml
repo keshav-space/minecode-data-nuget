@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.Management.WorkloadMonitor@0.9.2-preview
+- pkg:nuget/Microsoft.Azure.Management.WorkloadMonitor@1.0.0-preview

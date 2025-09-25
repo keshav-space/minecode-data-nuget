@@ -1,0 +1,5 @@
+- pkg:nuget/Akka.Persistence.RavenDB@1.0.0-beta
+- pkg:nuget/Akka.Persistence.RavenDB@1.1.0-beta
+- pkg:nuget/Akka.Persistence.RavenDB@1.1.1-beta
+- pkg:nuget/Akka.Persistence.RavenDB@1.5.22
+- pkg:nuget/Akka.Persistence.RavenDB@1.5.37

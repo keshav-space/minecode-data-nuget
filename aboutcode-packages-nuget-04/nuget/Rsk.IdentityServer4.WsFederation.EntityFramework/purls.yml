@@ -1,0 +1,15 @@
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@2.0.0.1
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@2.0.0.5
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@2.2.0-preview1
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@2.2.0.3
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@2.3.0.34
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@2.4.0
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@2.4.0-preview1
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@2.4.0-preview2
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@3.0.0-preview1
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@3.0.0-preview2
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@3.0.0-preview3
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@3.0.1
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@3.0.1-preview1
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@3.0.1-preview2
+- pkg:nuget/Rsk.IdentityServer4.WsFederation.EntityFramework@4.0.0

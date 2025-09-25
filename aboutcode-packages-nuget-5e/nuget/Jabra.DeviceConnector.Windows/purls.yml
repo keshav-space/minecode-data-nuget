@@ -1,0 +1,9 @@
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.1.7
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.1.8
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.1.9
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.2.10
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.2.5
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.2.7
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.2.8
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.2.9
+- pkg:nuget/Jabra.DeviceConnector.Windows@2.3.0

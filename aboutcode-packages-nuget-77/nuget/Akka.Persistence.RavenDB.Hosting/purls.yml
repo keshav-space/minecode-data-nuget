@@ -1,0 +1,2 @@
+- pkg:nuget/Akka.Persistence.RavenDB.Hosting@1.5.22
+- pkg:nuget/Akka.Persistence.RavenDB.Hosting@1.5.37

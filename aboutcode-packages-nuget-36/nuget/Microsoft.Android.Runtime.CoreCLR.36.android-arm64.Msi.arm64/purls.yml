@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Android.Runtime.CoreCLR.36.android-arm64.Msi.arm64@36.0.0-preview.4.80
+- pkg:nuget/Microsoft.Android.Runtime.CoreCLR.36.android-arm64.Msi.arm64@36.0.0-preview.5.116
+- pkg:nuget/Microsoft.Android.Runtime.CoreCLR.36.android-arm64.Msi.arm64@36.0.0-preview.6.169
+- pkg:nuget/Microsoft.Android.Runtime.CoreCLR.36.android-arm64.Msi.arm64@36.0.0-preview.7.229
+- pkg:nuget/Microsoft.Android.Runtime.CoreCLR.36.android-arm64.Msi.arm64@36.0.0-rc.1.285

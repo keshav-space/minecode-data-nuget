@@ -1,0 +1,9 @@
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@6.6.0
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@6.6.1
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@6.6.2
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@6.6.3
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@6.6.4
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@7.0.0
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@9.0.0
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@9.0.1
+- pkg:nuget/Impeto.Framework.DependencyInjection.ServiceProvider.Web@9.0.2

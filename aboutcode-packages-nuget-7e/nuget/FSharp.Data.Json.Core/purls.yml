@@ -1,0 +1,11 @@
+- pkg:nuget/FSharp.Data.Json.Core@5.0.1
+- pkg:nuget/FSharp.Data.Json.Core@6.0.1-beta001
+- pkg:nuget/FSharp.Data.Json.Core@6.0.1-beta002
+- pkg:nuget/FSharp.Data.Json.Core@6.1.0-beta
+- pkg:nuget/FSharp.Data.Json.Core@6.1.1-beta
+- pkg:nuget/FSharp.Data.Json.Core@6.2.0
+- pkg:nuget/FSharp.Data.Json.Core@6.3.0
+- pkg:nuget/FSharp.Data.Json.Core@6.4.0
+- pkg:nuget/FSharp.Data.Json.Core@6.4.1
+- pkg:nuget/FSharp.Data.Json.Core@6.5.0
+- pkg:nuget/FSharp.Data.Json.Core@6.6.0

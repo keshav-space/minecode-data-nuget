@@ -1,0 +1,3 @@
+- pkg:nuget/Tool.AWS.CodeDeploy@1.0.0
+- pkg:nuget/Tool.AWS.CodeDeploy@1.0.1
+- pkg:nuget/Tool.AWS.CodeDeploy@1.0.2

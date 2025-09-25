@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@2.0.1
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@2.0.2
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@3.0.0
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@3.1.0
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@4.0.0
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@5.0.0
+- pkg:nuget/Microsoft.Azure.Management.PolicyInsights@5.1.0

@@ -1,0 +1,4 @@
+- pkg:nuget/TBB.AspNetCore@0.0.1
+- pkg:nuget/TBB.AspNetCore@0.0.2
+- pkg:nuget/TBB.AspNetCore@0.0.3
+- pkg:nuget/TBB.AspNetCore@0.0.3.1

@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Azure.Management.RedisEnterprise@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.RedisEnterprise@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.RedisEnterprise@3.0.0

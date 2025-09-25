@@ -1,0 +1,5 @@
+- pkg:nuget/Serilog.Sinks.LogDNA.Mod@1.0.2
+- pkg:nuget/Serilog.Sinks.LogDNA.Mod@1.0.2.1
+- pkg:nuget/Serilog.Sinks.LogDNA.Mod@1.0.2.2
+- pkg:nuget/Serilog.Sinks.LogDNA.Mod@1.0.2.3
+- pkg:nuget/Serilog.Sinks.LogDNA.Mod@1.0.2.4

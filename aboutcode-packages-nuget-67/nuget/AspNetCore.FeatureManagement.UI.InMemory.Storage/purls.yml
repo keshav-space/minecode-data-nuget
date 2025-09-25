@@ -1,0 +1,7 @@
+- pkg:nuget/AspNetCore.FeatureManagement.UI.InMemory.Storage@3.1.0-preview001
+- pkg:nuget/AspNetCore.FeatureManagement.UI.InMemory.Storage@3.1.0-preview002
+- pkg:nuget/AspNetCore.FeatureManagement.UI.InMemory.Storage@3.1.0-preview003
+- pkg:nuget/AspNetCore.FeatureManagement.UI.InMemory.Storage@3.1.0-preview004
+- pkg:nuget/AspNetCore.FeatureManagement.UI.InMemory.Storage@5.0.0-preview001
+- pkg:nuget/AspNetCore.FeatureManagement.UI.InMemory.Storage@5.0.0-preview002
+- pkg:nuget/AspNetCore.FeatureManagement.UI.InMemory.Storage@6.0.0-preview001

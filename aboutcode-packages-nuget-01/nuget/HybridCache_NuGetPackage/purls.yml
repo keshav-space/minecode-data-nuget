@@ -1,0 +1,10 @@
+- pkg:nuget/HybridCache_NuGetPackage@1.0.0
+- pkg:nuget/HybridCache_NuGetPackage@2.0.0
+- pkg:nuget/HybridCache_NuGetPackage@3.0.0
+- pkg:nuget/HybridCache_NuGetPackage@5.0.0
+- pkg:nuget/HybridCache_NuGetPackage@6.0.0
+- pkg:nuget/HybridCache_NuGetPackage@7.0.0
+- pkg:nuget/HybridCache_NuGetPackage@9.0.0
+- pkg:nuget/HybridCache_NuGetPackage@9.1.0
+- pkg:nuget/HybridCache_NuGetPackage@9.3.0
+- pkg:nuget/HybridCache_NuGetPackage@9.4.0

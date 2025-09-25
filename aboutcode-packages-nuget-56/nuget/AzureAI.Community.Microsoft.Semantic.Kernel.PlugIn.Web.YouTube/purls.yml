@@ -1,0 +1,4 @@
+- pkg:nuget/AzureAI.Community.Microsoft.Semantic.Kernel.PlugIn.Web.YouTube@0.0.3-preview
+- pkg:nuget/AzureAI.Community.Microsoft.Semantic.Kernel.PlugIn.Web.YouTube@0.0.4-preview
+- pkg:nuget/AzureAI.Community.Microsoft.Semantic.Kernel.PlugIn.Web.YouTube@0.0.5-preview
+- pkg:nuget/AzureAI.Community.Microsoft.Semantic.Kernel.PlugIn.Web.YouTube@1.0.0-beta1

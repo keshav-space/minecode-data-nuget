@@ -1,0 +1,16 @@
+- pkg:nuget/Heroic.Web.IoC@1.0.0
+- pkg:nuget/Heroic.Web.IoC@1.0.0-alpha1
+- pkg:nuget/Heroic.Web.IoC@1.0.0-alpha2
+- pkg:nuget/Heroic.Web.IoC@1.0.1
+- pkg:nuget/Heroic.Web.IoC@2.0.0
+- pkg:nuget/Heroic.Web.IoC@2.1.0
+- pkg:nuget/Heroic.Web.IoC@2.2.0
+- pkg:nuget/Heroic.Web.IoC@2.3.0
+- pkg:nuget/Heroic.Web.IoC@3.0.0
+- pkg:nuget/Heroic.Web.IoC@3.1.0
+- pkg:nuget/Heroic.Web.IoC@3.2.0
+- pkg:nuget/Heroic.Web.IoC@3.2.1
+- pkg:nuget/Heroic.Web.IoC@4.0.0
+- pkg:nuget/Heroic.Web.IoC@4.1.0
+- pkg:nuget/Heroic.Web.IoC@4.1.1
+- pkg:nuget/Heroic.Web.IoC@4.1.2

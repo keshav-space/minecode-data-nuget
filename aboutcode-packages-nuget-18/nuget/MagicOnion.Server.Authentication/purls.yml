@@ -1,0 +1,17 @@
+- pkg:nuget/MagicOnion.Server.Authentication@3.0.10-preview
+- pkg:nuget/MagicOnion.Server.Authentication@3.0.11-preview
+- pkg:nuget/MagicOnion.Server.Authentication@3.0.12-preview
+- pkg:nuget/MagicOnion.Server.Authentication@3.0.13-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.0.0-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.0.0-preview.1-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.0.0-preview.2-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.0.1-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.0.2-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.0.3-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.0.4-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.1.0-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.1.1-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.1.2-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.2.0-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.3.0-preview
+- pkg:nuget/MagicOnion.Server.Authentication@4.3.1-preview

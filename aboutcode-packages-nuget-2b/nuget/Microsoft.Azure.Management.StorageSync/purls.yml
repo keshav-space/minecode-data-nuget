@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@2.8.0-preview
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@3.0.0
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@3.1.0
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@4.0.0
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@5.0.0
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@5.0.1
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@6.0.0
+- pkg:nuget/Microsoft.Azure.Management.StorageSync@7.0.0

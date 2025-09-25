@@ -1,0 +1,5 @@
+- pkg:nuget/Affecto.IdentityManagement.Interfaces@8.0.0
+- pkg:nuget/Affecto.IdentityManagement.Interfaces@9.0.0
+- pkg:nuget/Affecto.IdentityManagement.Interfaces@9.1.0
+- pkg:nuget/Affecto.IdentityManagement.Interfaces@9.2.0
+- pkg:nuget/Affecto.IdentityManagement.Interfaces@9.3.0

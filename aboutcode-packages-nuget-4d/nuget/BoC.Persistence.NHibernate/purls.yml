@@ -1,0 +1,5 @@
+- pkg:nuget/BoC.Persistence.NHibernate@2.4.0
+- pkg:nuget/BoC.Persistence.NHibernate@4.0.0
+- pkg:nuget/BoC.Persistence.NHibernate@4.0.1
+- pkg:nuget/BoC.Persistence.NHibernate@4.0.2
+- pkg:nuget/BoC.Persistence.NHibernate@4.0.3

@@ -1,0 +1,6 @@
+- pkg:nuget/Madd0.AzureStorageDriver@1.0.0-beta
+- pkg:nuget/Madd0.AzureStorageDriver@1.0.1-beta
+- pkg:nuget/Madd0.AzureStorageDriver@2.0.0
+- pkg:nuget/Madd0.AzureStorageDriver@2.1.0
+- pkg:nuget/Madd0.AzureStorageDriver@2.1.1
+- pkg:nuget/Madd0.AzureStorageDriver@2.1.2

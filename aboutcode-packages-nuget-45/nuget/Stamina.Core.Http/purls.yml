@@ -1,0 +1,15 @@
+- pkg:nuget/Stamina.Core.Http@1.0.0
+- pkg:nuget/Stamina.Core.Http@1.0.1
+- pkg:nuget/Stamina.Core.Http@1.0.1-20200309.4
+- pkg:nuget/Stamina.Core.Http@1.0.2
+- pkg:nuget/Stamina.Core.Http@1.0.2-20200309.5
+- pkg:nuget/Stamina.Core.Http@1.0.4
+- pkg:nuget/Stamina.Core.Http@1.0.4-20200310.2
+- pkg:nuget/Stamina.Core.Http@1.0.5
+- pkg:nuget/Stamina.Core.Http@1.0.5-20200310.3
+- pkg:nuget/Stamina.Core.Http@1.1.0
+- pkg:nuget/Stamina.Core.Http@1.1.0-20200401.1
+- pkg:nuget/Stamina.Core.Http@2.0.0
+- pkg:nuget/Stamina.Core.Http@2.0.0-20200406.1
+- pkg:nuget/Stamina.Core.Http@2.0.1
+- pkg:nuget/Stamina.Core.Http@2.0.1-20200407.1

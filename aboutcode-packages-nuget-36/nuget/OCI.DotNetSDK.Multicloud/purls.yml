@@ -1,0 +1,9 @@
+- pkg:nuget/OCI.DotNetSDK.Multicloud@1.119.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@116.1.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@117.0.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@118.0.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@118.1.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@118.2.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@119.0.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@119.1.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@120.0.0

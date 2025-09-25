@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@0.11.0-preview
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@1.1.0
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@1.1.1
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@1.1.2
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@1.1.3
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@2.1.0
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@2.2.0
+- pkg:nuget/Microsoft.Azure.Management.SecurityCenter@3.0.0

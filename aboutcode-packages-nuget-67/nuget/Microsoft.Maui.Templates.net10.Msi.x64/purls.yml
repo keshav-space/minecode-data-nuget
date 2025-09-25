@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Maui.Templates.net10.Msi.x64@10.0.0-preview.1.25122.6
+- pkg:nuget/Microsoft.Maui.Templates.net10.Msi.x64@10.0.0-preview.2.25165.1
+- pkg:nuget/Microsoft.Maui.Templates.net10.Msi.x64@10.0.0-preview.3.25208.1
+- pkg:nuget/Microsoft.Maui.Templates.net10.Msi.x64@10.0.0-preview.4.25263.4
+- pkg:nuget/Microsoft.Maui.Templates.net10.Msi.x64@10.0.0-preview.5.25306.5
+- pkg:nuget/Microsoft.Maui.Templates.net10.Msi.x64@10.0.0-preview.6.25359.8
+- pkg:nuget/Microsoft.Maui.Templates.net10.Msi.x64@10.0.0-preview.7.25406.3
+- pkg:nuget/Microsoft.Maui.Templates.net10.Msi.x64@10.0.0-rc.1.25452.6

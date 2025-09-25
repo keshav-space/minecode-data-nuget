@@ -1,0 +1,5 @@
+- pkg:nuget/Dapper.Instance@1.0.0-preview
+- pkg:nuget/Dapper.Instance@1.1.0-preview
+- pkg:nuget/Dapper.Instance@1.2.0-preview
+- pkg:nuget/Dapper.Instance@1.3.0
+- pkg:nuget/Dapper.Instance@1.3.1

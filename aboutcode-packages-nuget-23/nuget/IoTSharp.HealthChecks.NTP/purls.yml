@@ -1,0 +1,4 @@
+- pkg:nuget/IoTSharp.HealthChecks.NTP@1.0.18
+- pkg:nuget/IoTSharp.HealthChecks.NTP@1.0.22
+- pkg:nuget/IoTSharp.HealthChecks.NTP@1.0.29
+- pkg:nuget/IoTSharp.HealthChecks.NTP@1.0.32

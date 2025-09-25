@@ -1,0 +1,11 @@
+- pkg:nuget/HotChocolate.Data.Extensions@0.0.1-preview-01
+- pkg:nuget/HotChocolate.Data.Extensions@0.1.0
+- pkg:nuget/HotChocolate.Data.Extensions@0.1.1
+- pkg:nuget/HotChocolate.Data.Extensions@0.1.2
+- pkg:nuget/HotChocolate.Data.Extensions@0.2.0
+- pkg:nuget/HotChocolate.Data.Extensions@0.3.0
+- pkg:nuget/HotChocolate.Data.Extensions@0.4.0
+- pkg:nuget/HotChocolate.Data.Extensions@0.5.0
+- pkg:nuget/HotChocolate.Data.Extensions@0.6.0
+- pkg:nuget/HotChocolate.Data.Extensions@0.7.0
+- pkg:nuget/HotChocolate.Data.Extensions@0.8.0

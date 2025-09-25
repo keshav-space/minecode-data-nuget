@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Psi.Data@0.10.16.1-beta
+- pkg:nuget/Microsoft.Psi.Data@0.11.82.2-beta
+- pkg:nuget/Microsoft.Psi.Data@0.12.53.2-beta
+- pkg:nuget/Microsoft.Psi.Data@0.13.38.2-beta
+- pkg:nuget/Microsoft.Psi.Data@0.14.35.3-beta
+- pkg:nuget/Microsoft.Psi.Data@0.15.49.1-beta
+- pkg:nuget/Microsoft.Psi.Data@0.16.92.1-beta
+- pkg:nuget/Microsoft.Psi.Data@0.17.52.1-beta
+- pkg:nuget/Microsoft.Psi.Data@0.18.72.1-beta
+- pkg:nuget/Microsoft.Psi.Data@0.19.100.1-beta
+- pkg:nuget/Microsoft.Psi.Data@0.4.216.3-beta
+- pkg:nuget/Microsoft.Psi.Data@0.5.48.2-beta
+- pkg:nuget/Microsoft.Psi.Data@0.6.48.2-beta
+- pkg:nuget/Microsoft.Psi.Data@0.7.57.2-beta
+- pkg:nuget/Microsoft.Psi.Data@0.8.32.1-beta
+- pkg:nuget/Microsoft.Psi.Data@0.9.6.1-beta

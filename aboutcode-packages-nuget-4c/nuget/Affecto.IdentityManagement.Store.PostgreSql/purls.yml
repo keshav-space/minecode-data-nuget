@@ -1,0 +1,6 @@
+- pkg:nuget/Affecto.IdentityManagement.Store.PostgreSql@8.0.0
+- pkg:nuget/Affecto.IdentityManagement.Store.PostgreSql@8.1.0
+- pkg:nuget/Affecto.IdentityManagement.Store.PostgreSql@8.1.1
+- pkg:nuget/Affecto.IdentityManagement.Store.PostgreSql@8.2.0
+- pkg:nuget/Affecto.IdentityManagement.Store.PostgreSql@8.2.1
+- pkg:nuget/Affecto.IdentityManagement.Store.PostgreSql@8.2.2

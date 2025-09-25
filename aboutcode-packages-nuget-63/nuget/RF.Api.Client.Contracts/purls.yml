@@ -1,0 +1,8 @@
+- pkg:nuget/RF.Api.Client.Contracts@6.118.0
+- pkg:nuget/RF.Api.Client.Contracts@6.118.10
+- pkg:nuget/RF.Api.Client.Contracts@6.203.5
+- pkg:nuget/RF.Api.Client.Contracts@6.205.0-rc.2
+- pkg:nuget/RF.Api.Client.Contracts@6.207.0
+- pkg:nuget/RF.Api.Client.Contracts@6.209.0
+- pkg:nuget/RF.Api.Client.Contracts@6.260.0-rc.34
+- pkg:nuget/RF.Api.Client.Contracts@6.312.0-rc.34

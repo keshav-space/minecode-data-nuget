@@ -1,0 +1,11 @@
+- pkg:nuget/Scf.InMemoryLockeProvider@1.0.0
+- pkg:nuget/Scf.InMemoryLockeProvider@1.0.1
+- pkg:nuget/Scf.InMemoryLockeProvider@1.0.2
+- pkg:nuget/Scf.InMemoryLockeProvider@2.0.3
+- pkg:nuget/Scf.InMemoryLockeProvider@3.0.0
+- pkg:nuget/Scf.InMemoryLockeProvider@3.1.0
+- pkg:nuget/Scf.InMemoryLockeProvider@3.7.0
+- pkg:nuget/Scf.InMemoryLockeProvider@3.9.10
+- pkg:nuget/Scf.InMemoryLockeProvider@3.9.3
+- pkg:nuget/Scf.InMemoryLockeProvider@4.0.0
+- pkg:nuget/Scf.InMemoryLockeProvider@5.0.0

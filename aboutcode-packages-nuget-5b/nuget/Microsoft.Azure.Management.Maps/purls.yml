@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Azure.Management.Maps@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.Maps@1.0.1
+- pkg:nuget/Microsoft.Azure.Management.Maps@1.0.2

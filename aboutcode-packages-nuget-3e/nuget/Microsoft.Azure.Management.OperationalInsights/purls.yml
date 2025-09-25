@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.11.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.12.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.13.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.14.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.15.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.16.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.17.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.18.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.19.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.20.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.21.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.22.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.23.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.24.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.25.0-preview
+- pkg:nuget/Microsoft.Azure.Management.OperationalInsights@0.9.0-preview

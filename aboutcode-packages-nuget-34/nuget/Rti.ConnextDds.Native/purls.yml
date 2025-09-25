@@ -1,0 +1,12 @@
+- pkg:nuget/Rti.ConnextDds.Native@6.1.0
+- pkg:nuget/Rti.ConnextDds.Native@6.1.0-alpha01
+- pkg:nuget/Rti.ConnextDds.Native@6.1.0.3
+- pkg:nuget/Rti.ConnextDds.Native@6.1.1%2BBUILD-6.1.1.0-20220323T000000Z-RTI-REL
+- pkg:nuget/Rti.ConnextDds.Native@6.1.2%2BBUILD-6.1.2.0-20221111T000000Z-RTI-REL
+- pkg:nuget/Rti.ConnextDds.Native@7.0.0%2BBUILD-7.0.0.0-20220811T000000Z-RTI-REL
+- pkg:nuget/Rti.ConnextDds.Native@7.1.0%2BBUILD-7.1.0.0-20230314T000000Z-RTI-REL
+- pkg:nuget/Rti.ConnextDds.Native@7.2.0%2BBUILD-7.2.0.0-20230913T000000Z-RTI-REL
+- pkg:nuget/Rti.ConnextDds.Native@7.3.0%2BBUILD-7.3.0.0-20240308T000000Z-RTI-REL
+- pkg:nuget/Rti.ConnextDds.Native@7.4.0%2BBUILD-7.4.0.0-20240904T000000Z-RTI-REL
+- pkg:nuget/Rti.ConnextDds.Native@7.5.0%2BBUILD-7.5.0.0-20250313T000000Z-RTI-REL
+- pkg:nuget/Rti.ConnextDds.Native@7.5.0.1%2BBUILD-7.5.0.1-20250514T000000Z-RTI-REL

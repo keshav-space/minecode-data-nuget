@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Azure.Management.Peering@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Peering@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Peering@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Peering@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Peering@2.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Peering@2.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Peering@2.1.0
+- pkg:nuget/Microsoft.Azure.Management.Peering@2.1.1

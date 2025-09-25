@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Maui.Controls.SourceGen@10.0.0-preview.7.25406.3
+- pkg:nuget/Microsoft.Maui.Controls.SourceGen@10.0.0-rc.1.25452.6
+- pkg:nuget/Microsoft.Maui.Controls.SourceGen@6.0.100-preview.5.753%2Bsha.f1de30513-azdo.4862597
+- pkg:nuget/Microsoft.Maui.Controls.SourceGen@6.0.100-preview.5.760%2Bsha.37f0b2829-azdo.4864672
+- pkg:nuget/Microsoft.Maui.Controls.SourceGen@6.0.100-preview.5.794%2Bsha.5ee505113-azdo.4873803

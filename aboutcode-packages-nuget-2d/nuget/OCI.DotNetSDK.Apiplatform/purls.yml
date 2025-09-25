@@ -1,0 +1,10 @@
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@1.119.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@116.0.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@116.1.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@117.0.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@118.0.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@118.1.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@118.2.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@119.0.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@119.1.0
+- pkg:nuget/OCI.DotNetSDK.Apiplatform@120.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Management.ManagementGroups@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.ManagementGroups@1.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.ManagementGroups@1.1.1-preview
+- pkg:nuget/Microsoft.Azure.Management.ManagementGroups@2.0.0-beta

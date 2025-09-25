@@ -1,0 +1,7 @@
+- pkg:nuget/Stamina.Core.Database.SqlClient@1.0.0
+- pkg:nuget/Stamina.Core.Database.SqlClient@1.0.1
+- pkg:nuget/Stamina.Core.Database.SqlClient@1.0.1-20200310.1
+- pkg:nuget/Stamina.Core.Database.SqlClient@1.1.0
+- pkg:nuget/Stamina.Core.Database.SqlClient@1.1.0-20200401.1
+- pkg:nuget/Stamina.Core.Database.SqlClient@2.0.0
+- pkg:nuget/Stamina.Core.Database.SqlClient@2.0.1

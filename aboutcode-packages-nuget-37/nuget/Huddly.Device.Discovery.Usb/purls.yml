@@ -1,0 +1,14 @@
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.22.5
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.22.6
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.23.0
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.23.1
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.23.2
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.24.0
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.24.1
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.25.0
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.25.1
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.26.0
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.26.1
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.26.2
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.26.3
+- pkg:nuget/Huddly.Device.Discovery.Usb@2.26.4

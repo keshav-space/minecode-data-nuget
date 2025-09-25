@@ -1,0 +1,11 @@
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.10.1
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.10.2
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.10.2-ext1
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.10.2-ext2
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.10.3
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.10.3-ext
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.11.0
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.11.1
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.11.2
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.11.2-ext1
+- pkg:nuget/WiX.Toolset.UnofficialFork@3.11.2-ext2

@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.Management.ResourceGraph@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.Management.ResourceGraph@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.ResourceGraph@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.ResourceGraph@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.ResourceGraph@2.1.0

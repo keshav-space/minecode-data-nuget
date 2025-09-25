@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.Services@0.6.56.3
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.Services@0.7.0
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.Services@0.7.1
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.Services@0.8.0-build10578

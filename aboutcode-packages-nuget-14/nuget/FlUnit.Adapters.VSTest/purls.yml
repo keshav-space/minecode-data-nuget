@@ -1,0 +1,2 @@
+- pkg:nuget/FlUnit.Adapters.VSTest@0.8.0
+- pkg:nuget/FlUnit.Adapters.VSTest@0.9.0

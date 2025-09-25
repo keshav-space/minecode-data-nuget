@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Management.Relay@0.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Relay@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.Relay@2.0.1
+- pkg:nuget/Microsoft.Azure.Management.Relay@2.0.2

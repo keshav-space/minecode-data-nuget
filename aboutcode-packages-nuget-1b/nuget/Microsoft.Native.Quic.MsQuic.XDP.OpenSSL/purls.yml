@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.XDP.OpenSSL@2.2.0-ci.359107
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.XDP.OpenSSL@2.2.0-ci.359653
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.XDP.OpenSSL@2.2.2%2B377087
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.XDP.OpenSSL@2.2.3%2B415752

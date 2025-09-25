@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Azure.Management.MySQL@0.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.MySQL@0.1.1-preview
+- pkg:nuget/Microsoft.Azure.Management.MySQL@1.0.0

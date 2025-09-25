@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Android.Runtime.Mono.36.android-x64.Msi.x64@35.99.0-preview.1.140
+- pkg:nuget/Microsoft.Android.Runtime.Mono.36.android-x64.Msi.x64@35.99.0-preview.2.205
+- pkg:nuget/Microsoft.Android.Runtime.Mono.36.android-x64.Msi.x64@36.0.0-preview.3.22
+- pkg:nuget/Microsoft.Android.Runtime.Mono.36.android-x64.Msi.x64@36.0.0-preview.4.80
+- pkg:nuget/Microsoft.Android.Runtime.Mono.36.android-x64.Msi.x64@36.0.0-preview.5.116
+- pkg:nuget/Microsoft.Android.Runtime.Mono.36.android-x64.Msi.x64@36.0.0-preview.6.169
+- pkg:nuget/Microsoft.Android.Runtime.Mono.36.android-x64.Msi.x64@36.0.0-preview.7.229
+- pkg:nuget/Microsoft.Android.Runtime.Mono.36.android-x64.Msi.x64@36.0.0-rc.1.285

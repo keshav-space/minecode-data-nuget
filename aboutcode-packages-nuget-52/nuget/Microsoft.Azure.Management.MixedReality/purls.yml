@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Management.MixedReality@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.MixedReality@0.9.0-preview.1
+- pkg:nuget/Microsoft.Azure.Management.MixedReality@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.MixedReality@3.0.0

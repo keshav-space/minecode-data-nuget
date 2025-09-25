@@ -1,0 +1,10 @@
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@2.0.3
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@2.1.1
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@2.1.2
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@3.0.0
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@4.0.0
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@4.0.1
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@4.0.2
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@5.0.0
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@5.0.1
+- pkg:nuget/Octopus.Client.Extensibility.IssueTracker.GitHub@5.0.2

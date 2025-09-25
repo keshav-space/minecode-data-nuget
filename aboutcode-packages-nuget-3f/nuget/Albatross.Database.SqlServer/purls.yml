@@ -1,0 +1,9 @@
+- pkg:nuget/Albatross.Database.SqlServer@1.0.2
+- pkg:nuget/Albatross.Database.SqlServer@1.0.3
+- pkg:nuget/Albatross.Database.SqlServer@1.1.4.14
+- pkg:nuget/Albatross.Database.SqlServer@1.1.5
+- pkg:nuget/Albatross.Database.SqlServer@1.1.6
+- pkg:nuget/Albatross.Database.SqlServer@1.1.7
+- pkg:nuget/Albatross.Database.SqlServer@2.0.0
+- pkg:nuget/Albatross.Database.SqlServer@2.8.0
+- pkg:nuget/Albatross.Database.SqlServer@3.0.1

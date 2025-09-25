@@ -1,0 +1,14 @@
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.1
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.2
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.3
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.4
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5.1
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5.2
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5.3
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5.4
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5.5
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5.6
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5.8
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.5.9
+- pkg:nuget/TBB.EntityFrameworkCore.SqlServer@0.0.6

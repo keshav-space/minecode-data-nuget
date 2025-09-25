@@ -1,0 +1,3 @@
+- pkg:nuget/OpenApiContracts.AspNetCore@0.1.0-preview-1
+- pkg:nuget/OpenApiContracts.AspNetCore@0.1.0-preview-2
+- pkg:nuget/OpenApiContracts.AspNetCore@0.1.0-preview-3

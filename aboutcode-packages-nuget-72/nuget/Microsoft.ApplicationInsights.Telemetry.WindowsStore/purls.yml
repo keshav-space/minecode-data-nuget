@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.WindowsStore@0.6.56.3
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.WindowsStore@0.7.0
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.WindowsStore@0.7.1
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.WindowsStore@0.7.2
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.WindowsStore@0.7.3
+- pkg:nuget/Microsoft.ApplicationInsights.Telemetry.WindowsStore@0.8.0-build10578

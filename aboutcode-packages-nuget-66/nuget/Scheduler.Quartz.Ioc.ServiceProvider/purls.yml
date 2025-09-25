@@ -1,0 +1,4 @@
+- pkg:nuget/Scheduler.Quartz.Ioc.ServiceProvider@1.0.1-alpha26
+- pkg:nuget/Scheduler.Quartz.Ioc.ServiceProvider@1.1.0-alpha28
+- pkg:nuget/Scheduler.Quartz.Ioc.ServiceProvider@1.1.0-alpha30
+- pkg:nuget/Scheduler.Quartz.Ioc.ServiceProvider@1.1.0-alpha32

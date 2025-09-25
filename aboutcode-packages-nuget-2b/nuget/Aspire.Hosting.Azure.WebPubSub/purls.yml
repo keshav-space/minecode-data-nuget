@@ -1,0 +1,14 @@
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@8.1.0-preview.1.24373.2
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@8.2.0-preview.1.24428.5
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@8.2.1-preview.1.24473.4
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@8.2.2-preview.1.24521.5
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.0.0
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.0.0-preview.4.24511.1
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.1.0
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.2.0
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.2.1
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.3.0
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.3.1
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.4.0
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.4.1
+- pkg:nuget/Aspire.Hosting.Azure.WebPubSub@9.4.2

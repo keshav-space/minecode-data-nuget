@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Management.Migrate.ResourceMover@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Migrate.ResourceMover@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Migrate.ResourceMover@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.Migrate.ResourceMover@3.0.0

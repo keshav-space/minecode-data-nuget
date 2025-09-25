@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.Management.SecurityInsights@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.SecurityInsights@1.0.0-preview.1
+- pkg:nuget/Microsoft.Azure.Management.SecurityInsights@1.0.0-preview.2
+- pkg:nuget/Microsoft.Azure.Management.SecurityInsights@1.1.0
+- pkg:nuget/Microsoft.Azure.Management.SecurityInsights@2.0.0
