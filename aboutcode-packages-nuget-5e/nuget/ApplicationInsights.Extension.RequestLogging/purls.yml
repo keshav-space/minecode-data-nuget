@@ -1,0 +1,2 @@
+- pkg:nuget/ApplicationInsights.Extension.RequestLogging@1.0.0
+- pkg:nuget/ApplicationInsights.Extension.RequestLogging@1.1.0

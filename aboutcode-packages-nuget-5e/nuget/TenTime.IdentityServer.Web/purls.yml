@@ -1,0 +1,4 @@
+- pkg:nuget/TenTime.IdentityServer.Web@1.0.0
+- pkg:nuget/TenTime.IdentityServer.Web@1.1.0
+- pkg:nuget/TenTime.IdentityServer.Web@2.0.0
+- pkg:nuget/TenTime.IdentityServer.Web@3.0.0

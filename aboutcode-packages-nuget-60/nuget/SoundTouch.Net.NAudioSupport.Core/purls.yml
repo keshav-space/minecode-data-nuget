@@ -1,0 +1,4 @@
+- pkg:nuget/SoundTouch.Net.NAudioSupport.Core@2.3.2
+- pkg:nuget/SoundTouch.Net.NAudioSupport.Core@2.3.2-prerelease.0
+- pkg:nuget/SoundTouch.Net.NAudioSupport.Core@2.4.0-beta.5
+- pkg:nuget/SoundTouch.Net.NAudioSupport.Core@2.4.0-beta.9

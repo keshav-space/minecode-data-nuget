@@ -1,0 +1,4 @@
+- pkg:nuget/ZarDevs.DependencyInjection.Ninject@0.1.0
+- pkg:nuget/ZarDevs.DependencyInjection.Ninject@0.1.0-prerelease.1
+- pkg:nuget/ZarDevs.DependencyInjection.Ninject@1.0.0
+- pkg:nuget/ZarDevs.DependencyInjection.Ninject@1.0.1

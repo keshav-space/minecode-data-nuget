@@ -1,0 +1,3 @@
+- pkg:nuget/Katana.Boot.AspNet@0.20.0-alpha-20220-81
+- pkg:nuget/Katana.Boot.AspNet@0.20.0-alpha-20220-88
+- pkg:nuget/Katana.Boot.AspNet@0.8.0

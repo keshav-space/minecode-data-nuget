@@ -1,0 +1,2 @@
+- pkg:nuget/Ziv.Serilog.Sinks.Grafana.Loki@8.0.1
+- pkg:nuget/Ziv.Serilog.Sinks.Grafana.Loki@8.0.2

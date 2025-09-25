@@ -1,0 +1,4 @@
+- pkg:nuget/Cave.Windows@2.0.0
+- pkg:nuget/Cave.Windows@2.0.0-ci-20210627-2
+- pkg:nuget/Cave.Windows@2.0.1
+- pkg:nuget/Cave.Windows@2.0.1-ci-20221101-1

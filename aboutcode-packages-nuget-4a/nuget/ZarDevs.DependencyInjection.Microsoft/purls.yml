@@ -1,0 +1,4 @@
+- pkg:nuget/ZarDevs.DependencyInjection.Microsoft@0.1.0
+- pkg:nuget/ZarDevs.DependencyInjection.Microsoft@0.1.0-prerelease.1
+- pkg:nuget/ZarDevs.DependencyInjection.Microsoft@1.0.0
+- pkg:nuget/ZarDevs.DependencyInjection.Microsoft@1.0.1
