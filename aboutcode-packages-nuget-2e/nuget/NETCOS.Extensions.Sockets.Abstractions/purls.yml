@@ -1,0 +1,5 @@
+- pkg:nuget/NETCOS.Extensions.Sockets.Abstractions@1.0.0.1
+- pkg:nuget/NETCOS.Extensions.Sockets.Abstractions@1.0.0.2
+- pkg:nuget/NETCOS.Extensions.Sockets.Abstractions@1.0.0.3
+- pkg:nuget/NETCOS.Extensions.Sockets.Abstractions@2.0.0-preview3
+- pkg:nuget/NETCOS.Extensions.Sockets.Abstractions@2.0.0-preview5

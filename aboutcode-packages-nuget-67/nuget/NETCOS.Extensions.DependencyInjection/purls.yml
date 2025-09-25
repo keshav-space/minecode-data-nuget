@@ -1,0 +1,5 @@
+- pkg:nuget/NETCOS.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/NETCOS.Extensions.DependencyInjection@1.0.0.1
+- pkg:nuget/NETCOS.Extensions.DependencyInjection@1.0.0.2
+- pkg:nuget/NETCOS.Extensions.DependencyInjection@2.0.0-preview3-240519-1
+- pkg:nuget/NETCOS.Extensions.DependencyInjection@2.0.0-preview5

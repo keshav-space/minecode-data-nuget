@@ -1,0 +1,13 @@
+- pkg:nuget/AspNetCore.Client.MessagePack@0.15.0
+- pkg:nuget/AspNetCore.Client.MessagePack@0.15.1
+- pkg:nuget/AspNetCore.Client.MessagePack@0.15.2
+- pkg:nuget/AspNetCore.Client.MessagePack@0.16.0
+- pkg:nuget/AspNetCore.Client.MessagePack@0.16.1
+- pkg:nuget/AspNetCore.Client.MessagePack@0.17.0
+- pkg:nuget/AspNetCore.Client.MessagePack@0.17.1
+- pkg:nuget/AspNetCore.Client.MessagePack@0.17.2
+- pkg:nuget/AspNetCore.Client.MessagePack@0.18.0
+- pkg:nuget/AspNetCore.Client.MessagePack@0.18.1
+- pkg:nuget/AspNetCore.Client.MessagePack@0.18.2
+- pkg:nuget/AspNetCore.Client.MessagePack@0.19.0
+- pkg:nuget/AspNetCore.Client.MessagePack@0.19.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Watson.SDK.LanguageTranslation@1.0.0-alpha
+- pkg:nuget/Watson.SDK.LanguageTranslation@1.0.0-beta
+- pkg:nuget/Watson.SDK.LanguageTranslation@1.0.1-alpha
+- pkg:nuget/Watson.SDK.LanguageTranslation@1.0.2-alpha
+- pkg:nuget/Watson.SDK.LanguageTranslation@1.0.3-alpha

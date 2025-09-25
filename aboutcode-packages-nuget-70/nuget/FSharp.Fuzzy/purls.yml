@@ -1,0 +1,4 @@
+- pkg:nuget/FSharp.Fuzzy@0.0.0-beta
+- pkg:nuget/FSharp.Fuzzy@0.0.3
+- pkg:nuget/FSharp.Fuzzy@1.0.0
+- pkg:nuget/FSharp.Fuzzy@1.0.1

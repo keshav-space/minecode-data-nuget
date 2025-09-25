@@ -1,0 +1,5 @@
+- pkg:nuget/BigBeer.Core.Extensions.ITQueryable@1.0.0
+- pkg:nuget/BigBeer.Core.Extensions.ITQueryable@2.0.0
+- pkg:nuget/BigBeer.Core.Extensions.ITQueryable@3.0.0
+- pkg:nuget/BigBeer.Core.Extensions.ITQueryable@3.0.1
+- pkg:nuget/BigBeer.Core.Extensions.ITQueryable@3.0.2

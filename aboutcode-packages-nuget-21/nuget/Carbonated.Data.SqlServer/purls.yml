@@ -1,0 +1,15 @@
+- pkg:nuget/Carbonated.Data.SqlServer@1.0.0
+- pkg:nuget/Carbonated.Data.SqlServer@1.0.1
+- pkg:nuget/Carbonated.Data.SqlServer@1.0.2
+- pkg:nuget/Carbonated.Data.SqlServer@1.1.0
+- pkg:nuget/Carbonated.Data.SqlServer@1.1.1
+- pkg:nuget/Carbonated.Data.SqlServer@1.1.2
+- pkg:nuget/Carbonated.Data.SqlServer@1.1.3
+- pkg:nuget/Carbonated.Data.SqlServer@1.2.0
+- pkg:nuget/Carbonated.Data.SqlServer@1.3.0
+- pkg:nuget/Carbonated.Data.SqlServer@2.0.0
+- pkg:nuget/Carbonated.Data.SqlServer@2.1.0
+- pkg:nuget/Carbonated.Data.SqlServer@2.2.0
+- pkg:nuget/Carbonated.Data.SqlServer@2.3.0
+- pkg:nuget/Carbonated.Data.SqlServer@2.4.0
+- pkg:nuget/Carbonated.Data.SqlServer@2.5.0

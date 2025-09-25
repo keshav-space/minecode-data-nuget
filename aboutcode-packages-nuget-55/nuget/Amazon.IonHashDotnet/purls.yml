@@ -1,0 +1,4 @@
+- pkg:nuget/Amazon.IonHashDotnet@0.9.0-beta
+- pkg:nuget/Amazon.IonHashDotnet@1.0.0
+- pkg:nuget/Amazon.IonHashDotnet@1.0.1
+- pkg:nuget/Amazon.IonHashDotnet@1.1.1

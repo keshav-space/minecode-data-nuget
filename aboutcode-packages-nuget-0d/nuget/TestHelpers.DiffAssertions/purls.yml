@@ -1,0 +1,13 @@
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20180221-163706
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20180222-091008
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20180422-195654
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20180909-092340
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20181214-110929
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20181214-111502
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20200208-102746
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20201023-062207
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20220912-172854
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20240310-155204
+- pkg:nuget/TestHelpers.DiffAssertions@1.0.0-CI-20241004-095626
+- pkg:nuget/TestHelpers.DiffAssertions@1.1.0-CI-20241010-143159
+- pkg:nuget/TestHelpers.DiffAssertions@2.0.0

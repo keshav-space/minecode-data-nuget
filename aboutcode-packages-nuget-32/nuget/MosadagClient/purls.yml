@@ -1,0 +1,13 @@
+- pkg:nuget/MosadagClient@1.0.0
+- pkg:nuget/MosadagClient@1.6.0
+- pkg:nuget/MosadagClient@1.7.0
+- pkg:nuget/MosadagClient@1.8.0
+- pkg:nuget/MosadagClient@1.9.0
+- pkg:nuget/MosadagClient@1.9.1
+- pkg:nuget/MosadagClient@1.9.2
+- pkg:nuget/MosadagClient@1.9.5
+- pkg:nuget/MosadagClient@2.0.0
+- pkg:nuget/MosadagClient@2.1.0
+- pkg:nuget/MosadagClient@2.1.0.1
+- pkg:nuget/MosadagClient@2.1.0.2
+- pkg:nuget/MosadagClient@2.1.0.3

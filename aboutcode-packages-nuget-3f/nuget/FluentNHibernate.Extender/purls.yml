@@ -1,0 +1,14 @@
+- pkg:nuget/FluentNHibernate.Extender@1.7.0.1
+- pkg:nuget/FluentNHibernate.Extender@1.7.1
+- pkg:nuget/FluentNHibernate.Extender@1.7.3
+- pkg:nuget/FluentNHibernate.Extender@1.8.0
+- pkg:nuget/FluentNHibernate.Extender@1.8.1
+- pkg:nuget/FluentNHibernate.Extender@1.9.0
+- pkg:nuget/FluentNHibernate.Extender@2.0.0
+- pkg:nuget/FluentNHibernate.Extender@2.1.0
+- pkg:nuget/FluentNHibernate.Extender@2.2.0
+- pkg:nuget/FluentNHibernate.Extender@3.0.0
+- pkg:nuget/FluentNHibernate.Extender@3.0.1
+- pkg:nuget/FluentNHibernate.Extender@3.0.2
+- pkg:nuget/FluentNHibernate.Extender@3.0.2.1
+- pkg:nuget/FluentNHibernate.Extender@4.0.0

@@ -1,0 +1,9 @@
+- pkg:nuget/linq2db.Oracle.managed@0.0.8
+- pkg:nuget/linq2db.Oracle.managed@0.0.9
+- pkg:nuget/linq2db.Oracle.managed@0.1.0
+- pkg:nuget/linq2db.Oracle.managed@1.0.0
+- pkg:nuget/linq2db.Oracle.managed@1.0.1
+- pkg:nuget/linq2db.Oracle.managed@1.0.5
+- pkg:nuget/linq2db.Oracle.managed@1.0.6
+- pkg:nuget/linq2db.Oracle.managed@1.0.7
+- pkg:nuget/linq2db.Oracle.managed@1.0.7.2

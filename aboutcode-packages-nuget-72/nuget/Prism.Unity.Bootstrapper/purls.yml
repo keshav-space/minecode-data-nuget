@@ -1,0 +1,4 @@
+- pkg:nuget/Prism.Unity.Bootstrapper@2.0.0
+- pkg:nuget/Prism.Unity.Bootstrapper@2.0.1-prerelease
+- pkg:nuget/Prism.Unity.Bootstrapper@2.0.2-prerelease
+- pkg:nuget/Prism.Unity.Bootstrapper@2.0.3

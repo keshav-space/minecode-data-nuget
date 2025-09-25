@@ -1,0 +1,5 @@
+- pkg:nuget/StrEnum.AspNetCore@1.0.0
+- pkg:nuget/StrEnum.AspNetCore@2.0.0
+- pkg:nuget/StrEnum.AspNetCore@3.0.0
+- pkg:nuget/StrEnum.AspNetCore@3.1.0
+- pkg:nuget/StrEnum.AspNetCore@3.2.0

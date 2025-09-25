@@ -1,0 +1,4 @@
+- pkg:nuget/App.Web.Framework@0.0.2
+- pkg:nuget/App.Web.Framework@1.0.0
+- pkg:nuget/App.Web.Framework@1.0.1
+- pkg:nuget/App.Web.Framework@1.0.3

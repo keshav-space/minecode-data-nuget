@@ -1,0 +1,14 @@
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@1.0.0
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@1.0.1
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@1.1.0
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@1.1.1-beta
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@1.2.0
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@1.2.0-beta
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@1.2.1
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@1.2.1-beta
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@2.0.0
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@2.0.0-beta
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@2.0.0-beta2
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@2.1.0-beta
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@3.0.0-beta
+- pkg:nuget/Lindhart.Analyser.MissingAwaitWarning@3.1.0-beta

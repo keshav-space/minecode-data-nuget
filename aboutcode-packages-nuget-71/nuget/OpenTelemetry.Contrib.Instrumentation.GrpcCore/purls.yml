@@ -1,0 +1,2 @@
+- pkg:nuget/OpenTelemetry.Contrib.Instrumentation.GrpcCore@1.0.0-beta2
+- pkg:nuget/OpenTelemetry.Contrib.Instrumentation.GrpcCore@1.0.0-beta3

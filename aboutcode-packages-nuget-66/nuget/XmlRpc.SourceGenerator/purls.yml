@@ -1,0 +1,4 @@
+- pkg:nuget/XmlRpc.SourceGenerator@0.1.0-pre
+- pkg:nuget/XmlRpc.SourceGenerator@1.0.0
+- pkg:nuget/XmlRpc.SourceGenerator@1.0.1
+- pkg:nuget/XmlRpc.SourceGenerator@2022.87.0-pre

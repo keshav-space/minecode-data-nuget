@@ -1,0 +1,9 @@
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@13.0.0
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@13.1.0
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@13.1.1
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@13.2.0
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@13.2.1
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@14.0.1
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@14.0.2
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@15.0.0
+- pkg:nuget/Shuttle.Esb.AzureStorageQueues@20.0.0

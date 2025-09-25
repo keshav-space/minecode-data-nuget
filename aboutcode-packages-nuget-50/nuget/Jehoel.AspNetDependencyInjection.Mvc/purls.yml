@@ -1,0 +1,6 @@
+- pkg:nuget/Jehoel.AspNetDependencyInjection.Mvc@3.2.0
+- pkg:nuget/Jehoel.AspNetDependencyInjection.Mvc@3.3.0
+- pkg:nuget/Jehoel.AspNetDependencyInjection.Mvc@3.4.0
+- pkg:nuget/Jehoel.AspNetDependencyInjection.Mvc@4.0.0
+- pkg:nuget/Jehoel.AspNetDependencyInjection.Mvc@5.0.0-beta01
+- pkg:nuget/Jehoel.AspNetDependencyInjection.Mvc@5.0.0-beta2

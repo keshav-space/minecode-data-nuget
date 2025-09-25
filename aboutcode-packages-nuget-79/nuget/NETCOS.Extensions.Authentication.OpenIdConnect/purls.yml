@@ -1,0 +1,4 @@
+- pkg:nuget/NETCOS.Extensions.Authentication.OpenIdConnect@2.0.0-preview3-1
+- pkg:nuget/NETCOS.Extensions.Authentication.OpenIdConnect@2.0.0-preview5
+- pkg:nuget/NETCOS.Extensions.Authentication.OpenIdConnect@2.0.0-preview5-20190819-1
+- pkg:nuget/NETCOS.Extensions.Authentication.OpenIdConnect@2.0.0-preview5-20190821-1

@@ -1,0 +1,13 @@
+- pkg:nuget/dotnet-codegen@0.4.11
+- pkg:nuget/dotnet-codegen@0.4.37
+- pkg:nuget/dotnet-codegen@0.4.42
+- pkg:nuget/dotnet-codegen@0.4.49
+- pkg:nuget/dotnet-codegen@0.4.6
+- pkg:nuget/dotnet-codegen@0.4.62
+- pkg:nuget/dotnet-codegen@0.4.65
+- pkg:nuget/dotnet-codegen@0.4.74
+- pkg:nuget/dotnet-codegen@0.4.88
+- pkg:nuget/dotnet-codegen@0.4.9
+- pkg:nuget/dotnet-codegen@0.5.13
+- pkg:nuget/dotnet-codegen@0.6.1
+- pkg:nuget/dotnet-codegen@0.7.5-alpha

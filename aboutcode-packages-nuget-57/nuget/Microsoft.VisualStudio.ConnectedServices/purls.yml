@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@15.0.30028
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@15.3.47
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@15.7.111-preview-g28b775fb96
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@15.7.57-preview-g172855bcc2
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@15.8.525
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@16.0.189-g83e7c53a57
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@16.0.342-g758a0a97e0
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@16.0.428
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@16.0.467
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@16.1.89
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@16.2.45
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@2.0.0
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@2.0.0-beta
+- pkg:nuget/Microsoft.VisualStudio.ConnectedServices@2.0.0-beta-630618297

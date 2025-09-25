@@ -1,0 +1,9 @@
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.0.0-preview
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.0.0-preview1
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.0.0-preview2
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.0.0-preview3
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.0.0-preview4
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.0.1-preview
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.0.2-preview
+- pkg:nuget/XLogger.Microsoft.Extensions.DependencyInjection@1.1.0

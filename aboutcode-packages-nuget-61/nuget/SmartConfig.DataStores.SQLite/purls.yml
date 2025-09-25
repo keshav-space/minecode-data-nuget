@@ -1,0 +1,16 @@
+- pkg:nuget/SmartConfig.DataStores.SQLite@5.0.0-beta1
+- pkg:nuget/SmartConfig.DataStores.SQLite@5.0.1-beta
+- pkg:nuget/SmartConfig.DataStores.SQLite@5.0.2
+- pkg:nuget/SmartConfig.DataStores.SQLite@6.0.0
+- pkg:nuget/SmartConfig.DataStores.SQLite@6.0.1
+- pkg:nuget/SmartConfig.DataStores.SQLite@6.0.2
+- pkg:nuget/SmartConfig.DataStores.SQLite@7.0.0-beta
+- pkg:nuget/SmartConfig.DataStores.SQLite@7.0.1-beta
+- pkg:nuget/SmartConfig.DataStores.SQLite@7.0.2-beta
+- pkg:nuget/SmartConfig.DataStores.SQLite@7.0.3
+- pkg:nuget/SmartConfig.DataStores.SQLite@8.0.0
+- pkg:nuget/SmartConfig.DataStores.SQLite@8.0.1
+- pkg:nuget/SmartConfig.DataStores.SQLite@8.0.2
+- pkg:nuget/SmartConfig.DataStores.SQLite@9.0.1
+- pkg:nuget/SmartConfig.DataStores.SQLite@9.0.2
+- pkg:nuget/SmartConfig.DataStores.SQLite@9.0.3

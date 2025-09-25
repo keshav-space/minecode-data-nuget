@@ -1,0 +1,6 @@
+- pkg:nuget/PhantomJS@1.9.2
+- pkg:nuget/PhantomJS@1.9.6
+- pkg:nuget/PhantomJS@1.9.7
+- pkg:nuget/PhantomJS@1.9.8
+- pkg:nuget/PhantomJS@2.0.0
+- pkg:nuget/PhantomJS@2.1.1

@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@0.9.34-prerelease
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@0.9.35-prerelease
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@0.9.36-prerelease
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@0.9.37-prerelease
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.0.0
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.0.0-prerelease
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.0.1
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.0.1-prerelease.5
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.0.1-prerelease.6
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.1.0
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.1.0-prerelease.0
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.1.0-prerelease.2
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.1.0-prerelease.4
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.1.0-prerelease.5
+- pkg:nuget/Microsoft.AzureHealth.DataServices.Storage@1.1.0-prerelease.6

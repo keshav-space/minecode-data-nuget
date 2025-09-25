@@ -1,0 +1,6 @@
+- pkg:nuget/XNode.ServiceDiscovery.Zookeeper@0.5.0
+- pkg:nuget/XNode.ServiceDiscovery.Zookeeper@0.5.1
+- pkg:nuget/XNode.ServiceDiscovery.Zookeeper@0.5.2
+- pkg:nuget/XNode.ServiceDiscovery.Zookeeper@0.5.3
+- pkg:nuget/XNode.ServiceDiscovery.Zookeeper@0.5.5
+- pkg:nuget/XNode.ServiceDiscovery.Zookeeper@0.5.6

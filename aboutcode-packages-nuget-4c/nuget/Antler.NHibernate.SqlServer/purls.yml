@@ -1,0 +1,5 @@
+- pkg:nuget/Antler.NHibernate.SqlServer@1.12.0
+- pkg:nuget/Antler.NHibernate.SqlServer@1.13.0
+- pkg:nuget/Antler.NHibernate.SqlServer@1.14.0
+- pkg:nuget/Antler.NHibernate.SqlServer@1.15.0
+- pkg:nuget/Antler.NHibernate.SqlServer@1.16.0

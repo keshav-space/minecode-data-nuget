@@ -1,0 +1,7 @@
+- pkg:nuget/NETCOS.EntityFrameworkCore@1.0.0
+- pkg:nuget/NETCOS.EntityFrameworkCore@1.0.0.1
+- pkg:nuget/NETCOS.EntityFrameworkCore@1.0.0.6
+- pkg:nuget/NETCOS.EntityFrameworkCore@2.0.0-preview3
+- pkg:nuget/NETCOS.EntityFrameworkCore@2.0.0-preview5
+- pkg:nuget/NETCOS.EntityFrameworkCore@2.0.0-preview5-20190821-1
+- pkg:nuget/NETCOS.EntityFrameworkCore@2.0.0-preview5-20190821-2

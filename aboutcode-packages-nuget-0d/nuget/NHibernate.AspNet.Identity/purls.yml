@@ -1,0 +1,14 @@
+- pkg:nuget/NHibernate.AspNet.Identity@1.0.2000
+- pkg:nuget/NHibernate.AspNet.Identity@1.0.2001
+- pkg:nuget/NHibernate.AspNet.Identity@1.0.2002
+- pkg:nuget/NHibernate.AspNet.Identity@1.0.2003
+- pkg:nuget/NHibernate.AspNet.Identity@1.0.2004
+- pkg:nuget/NHibernate.AspNet.Identity@1.0.2005
+- pkg:nuget/NHibernate.AspNet.Identity@1.0.4000
+- pkg:nuget/NHibernate.AspNet.Identity@1.1.4000
+- pkg:nuget/NHibernate.AspNet.Identity@2.1.0
+- pkg:nuget/NHibernate.AspNet.Identity@2.2.0
+- pkg:nuget/NHibernate.AspNet.Identity@2.2.1
+- pkg:nuget/NHibernate.AspNet.Identity@5.0.0%2BBranch.master.Sha.d6ae899f742391a4cdc7720d6e595592e457cded
+- pkg:nuget/NHibernate.AspNet.Identity@5.0.1
+- pkg:nuget/NHibernate.AspNet.Identity@5.0.2

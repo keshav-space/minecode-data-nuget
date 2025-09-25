@@ -1,0 +1,2 @@
+- pkg:nuget/NETCOS.EntityFrameworkCore.SqlServer.Abstractions@2.0.0-preview3
+- pkg:nuget/NETCOS.EntityFrameworkCore.SqlServer.Abstractions@2.0.0-preview5

@@ -1,0 +1,5 @@
+- pkg:nuget/Sitecore.Azure.Diagnostics@7.2.0
+- pkg:nuget/Sitecore.Azure.Diagnostics@7.2.0-preview
+- pkg:nuget/Sitecore.Azure.Diagnostics@7.2.1
+- pkg:nuget/Sitecore.Azure.Diagnostics@7.5.0
+- pkg:nuget/Sitecore.Azure.Diagnostics@8.1.0

@@ -1,0 +1,4 @@
+- pkg:nuget/NETCOS.EntityFrameworkCore.Abstractions@1.0.0
+- pkg:nuget/NETCOS.EntityFrameworkCore.Abstractions@1.0.0.1
+- pkg:nuget/NETCOS.EntityFrameworkCore.Abstractions@2.0.0-preview3
+- pkg:nuget/NETCOS.EntityFrameworkCore.Abstractions@2.0.0-preview5

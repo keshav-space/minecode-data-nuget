@@ -1,0 +1,7 @@
+- pkg:nuget/SimplePersistence.Model.EF@1.0.0
+- pkg:nuget/SimplePersistence.Model.EF@3.0.0
+- pkg:nuget/SimplePersistence.Model.EF@3.0.0-alpha1
+- pkg:nuget/SimplePersistence.Model.EF@3.0.0-alpha2
+- pkg:nuget/SimplePersistence.Model.EF@3.0.0-rc1
+- pkg:nuget/SimplePersistence.Model.EF@3.0.1
+- pkg:nuget/SimplePersistence.Model.EF@3.2.0
