@@ -1,0 +1,4 @@
+- pkg:nuget/AppCore.Extensions.Http.Authentication.OAuth.AspNetCore.OpenIdConnect@0.4.0
+- pkg:nuget/AppCore.Extensions.Http.Authentication.OAuth.AspNetCore.OpenIdConnect@0.4.1
+- pkg:nuget/AppCore.Extensions.Http.Authentication.OAuth.AspNetCore.OpenIdConnect@0.4.2
+- pkg:nuget/AppCore.Extensions.Http.Authentication.OAuth.AspNetCore.OpenIdConnect@0.4.3

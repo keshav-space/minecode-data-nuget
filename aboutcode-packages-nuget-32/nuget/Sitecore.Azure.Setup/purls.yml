@@ -1,0 +1,7 @@
+- pkg:nuget/Sitecore.Azure.Setup@7.2.0
+- pkg:nuget/Sitecore.Azure.Setup@7.5.0
+- pkg:nuget/Sitecore.Azure.Setup@7.5.0-preview
+- pkg:nuget/Sitecore.Azure.Setup@8.0.0
+- pkg:nuget/Sitecore.Azure.Setup@8.0.1
+- pkg:nuget/Sitecore.Azure.Setup@8.0.2
+- pkg:nuget/Sitecore.Azure.Setup@8.1.0

@@ -1,0 +1,9 @@
+- pkg:nuget/Serilog.Enrichers.MassTransit@0.1.0-unstable0025
+- pkg:nuget/Serilog.Enrichers.MassTransit@0.1.0-unstable0026
+- pkg:nuget/Serilog.Enrichers.MassTransit@1.0.0
+- pkg:nuget/Serilog.Enrichers.MassTransit@1.0.1
+- pkg:nuget/Serilog.Enrichers.MassTransit@1.1.0
+- pkg:nuget/Serilog.Enrichers.MassTransit@1.1.0-unstable0004
+- pkg:nuget/Serilog.Enrichers.MassTransit@1.1.0-unstable0007
+- pkg:nuget/Serilog.Enrichers.MassTransit@1.1.0-unstable0009
+- pkg:nuget/Serilog.Enrichers.MassTransit@2.0.4

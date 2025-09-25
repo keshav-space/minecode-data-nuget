@@ -1,0 +1,8 @@
+- pkg:nuget/RabbitMQ.Migrations@0.1.0
+- pkg:nuget/RabbitMQ.Migrations@0.2.0
+- pkg:nuget/RabbitMQ.Migrations@0.3.0
+- pkg:nuget/RabbitMQ.Migrations@0.4.0
+- pkg:nuget/RabbitMQ.Migrations@0.4.1
+- pkg:nuget/RabbitMQ.Migrations@0.5.0
+- pkg:nuget/RabbitMQ.Migrations@0.8.0
+- pkg:nuget/RabbitMQ.Migrations@0.9.0

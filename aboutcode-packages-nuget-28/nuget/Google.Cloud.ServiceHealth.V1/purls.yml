@@ -1,0 +1,6 @@
+- pkg:nuget/Google.Cloud.ServiceHealth.V1@1.0.0
+- pkg:nuget/Google.Cloud.ServiceHealth.V1@1.0.0-beta01
+- pkg:nuget/Google.Cloud.ServiceHealth.V1@1.0.0-beta02
+- pkg:nuget/Google.Cloud.ServiceHealth.V1@1.1.0
+- pkg:nuget/Google.Cloud.ServiceHealth.V1@1.2.0
+- pkg:nuget/Google.Cloud.ServiceHealth.V1@1.3.0

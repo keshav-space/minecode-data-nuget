@@ -1,0 +1,5 @@
+- pkg:nuget/DatabaseSandboxer.SQlServer@1.0.0
+- pkg:nuget/DatabaseSandboxer.SQlServer@1.0.2
+- pkg:nuget/DatabaseSandboxer.SQlServer@1.1.0
+- pkg:nuget/DatabaseSandboxer.SQlServer@1.1.2
+- pkg:nuget/DatabaseSandboxer.SQlServer@1.1.3

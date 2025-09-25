@@ -1,0 +1,5 @@
+- pkg:nuget/MSBuild.CSharp.DefineConstants@1.0.0
+- pkg:nuget/MSBuild.CSharp.DefineConstants@1.1.0
+- pkg:nuget/MSBuild.CSharp.DefineConstants@1.2.0
+- pkg:nuget/MSBuild.CSharp.DefineConstants@1.3.0
+- pkg:nuget/MSBuild.CSharp.DefineConstants@2.0.0.2

@@ -1,0 +1,14 @@
+- pkg:nuget/Irony.Interpreter@0.9.0
+- pkg:nuget/Irony.Interpreter@0.9.0-beta1
+- pkg:nuget/Irony.Interpreter@0.9.0-net40
+- pkg:nuget/Irony.Interpreter@0.9.1
+- pkg:nuget/Irony.Interpreter@0.9.1-net40
+- pkg:nuget/Irony.Interpreter@0.9.1-net40-1
+- pkg:nuget/Irony.Interpreter@1.0.0-beta1
+- pkg:nuget/Irony.Interpreter@1.0.1
+- pkg:nuget/Irony.Interpreter@1.1.0
+- pkg:nuget/Irony.Interpreter@1.2.0
+- pkg:nuget/Irony.Interpreter@1.5.0
+- pkg:nuget/Irony.Interpreter@1.5.1
+- pkg:nuget/Irony.Interpreter@1.5.2
+- pkg:nuget/Irony.Interpreter@1.5.3

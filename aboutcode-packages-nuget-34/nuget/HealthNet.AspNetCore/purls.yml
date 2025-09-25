@@ -1,0 +1,10 @@
+- pkg:nuget/HealthNet.AspNetCore@1.2.61
+- pkg:nuget/HealthNet.AspNetCore@1.2.65-dotnet-core-beta
+- pkg:nuget/HealthNet.AspNetCore@1.2.66-dotnet-core-beta
+- pkg:nuget/HealthNet.AspNetCore@1.2.67-dotnet-core-beta
+- pkg:nuget/HealthNet.AspNetCore@1.2.68-dotnet-core-beta
+- pkg:nuget/HealthNet.AspNetCore@1.2.69-dotnet-core-beta
+- pkg:nuget/HealthNet.AspNetCore@1.2.70-dotnet-core-beta
+- pkg:nuget/HealthNet.AspNetCore@1.2.71-dotnet-core-beta
+- pkg:nuget/HealthNet.AspNetCore@1.2.74
+- pkg:nuget/HealthNet.AspNetCore@1.2.81

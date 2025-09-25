@@ -1,0 +1,14 @@
+- pkg:nuget/IntacctClient@0.0.1.21
+- pkg:nuget/IntacctClient@0.0.2.22
+- pkg:nuget/IntacctClient@0.0.3.23
+- pkg:nuget/IntacctClient@0.1.0.27
+- pkg:nuget/IntacctClient@0.2.0.28
+- pkg:nuget/IntacctClient@0.2.1.30
+- pkg:nuget/IntacctClient@0.2.2.33
+- pkg:nuget/IntacctClient@0.3.0.35
+- pkg:nuget/IntacctClient@0.3.1.37
+- pkg:nuget/IntacctClient@0.3.2.40
+- pkg:nuget/IntacctClient@0.3.5.42
+- pkg:nuget/IntacctClient@0.4.0.44
+- pkg:nuget/IntacctClient@0.4.1.45
+- pkg:nuget/IntacctClient@0.4.2.46

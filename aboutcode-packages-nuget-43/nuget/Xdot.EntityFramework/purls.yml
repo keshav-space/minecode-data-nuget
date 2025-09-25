@@ -1,0 +1,11 @@
+- pkg:nuget/Xdot.EntityFramework@3.10.1-preview.0.2
+- pkg:nuget/Xdot.EntityFramework@3.10.21
+- pkg:nuget/Xdot.EntityFramework@3.10.22-preview.0.7
+- pkg:nuget/Xdot.EntityFramework@3.5.0
+- pkg:nuget/Xdot.EntityFramework@3.6.0
+- pkg:nuget/Xdot.EntityFramework@3.7.0
+- pkg:nuget/Xdot.EntityFramework@3.8.0
+- pkg:nuget/Xdot.EntityFramework@3.8.1
+- pkg:nuget/Xdot.EntityFramework@3.9.0
+- pkg:nuget/Xdot.EntityFramework@3.9.1
+- pkg:nuget/Xdot.EntityFramework@3.9.2-preview.0.3

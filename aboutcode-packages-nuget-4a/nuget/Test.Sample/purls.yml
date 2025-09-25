@@ -1,0 +1,12 @@
+- pkg:nuget/Test.Sample@1.0.13-AddingClass
+- pkg:nuget/Test.Sample@1.0.13-AddingEnum
+- pkg:nuget/Test.Sample@1.0.13-AddingMethod
+- pkg:nuget/Test.Sample@1.0.13-AddingPrivateMethod
+- pkg:nuget/Test.Sample@1.0.13-AddingProperty
+- pkg:nuget/Test.Sample@1.0.13-ChangingComments
+- pkg:nuget/Test.Sample@1.0.13-ChangingGenericType
+- pkg:nuget/Test.Sample@1.0.13-ChangingMethodSig
+- pkg:nuget/Test.Sample@1.0.13-ChangingNamespace
+- pkg:nuget/Test.Sample@1.0.13-ControlGroup
+- pkg:nuget/Test.Sample@1.0.13-DeletingClass
+- pkg:nuget/Test.Sample@1.0.13-RefactoringMethod

@@ -1,0 +1,10 @@
+- pkg:nuget/System.Data.HashFunction.Blake2@1.7.1
+- pkg:nuget/System.Data.HashFunction.Blake2@1.8.1
+- pkg:nuget/System.Data.HashFunction.Blake2@1.8.2
+- pkg:nuget/System.Data.HashFunction.Blake2@1.8.2.2
+- pkg:nuget/System.Data.HashFunction.Blake2@2.0.0
+- pkg:nuget/System.Data.HashFunction.Blake2@2.0.0-ci-00012
+- pkg:nuget/System.Data.HashFunction.Blake2@2.0.0-ci-00027
+- pkg:nuget/System.Data.HashFunction.Blake2@2.0.0-ci-00033
+- pkg:nuget/System.Data.HashFunction.Blake2@2.0.0-ci-00043
+- pkg:nuget/System.Data.HashFunction.Blake2@2.0.0-ci-00044

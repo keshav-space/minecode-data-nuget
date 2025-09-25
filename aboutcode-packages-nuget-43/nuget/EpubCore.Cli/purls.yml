@@ -1,0 +1,5 @@
+- pkg:nuget/EpubCore.Cli@0.8.0
+- pkg:nuget/EpubCore.Cli@0.9.0
+- pkg:nuget/EpubCore.Cli@0.9.1
+- pkg:nuget/EpubCore.Cli@0.9.2
+- pkg:nuget/EpubCore.Cli@0.9.3

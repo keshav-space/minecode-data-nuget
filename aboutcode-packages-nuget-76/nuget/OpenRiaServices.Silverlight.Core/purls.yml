@@ -1,0 +1,9 @@
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.3.0
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.4.0
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.4.0-Beta1
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.4.0-Beta2
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.4.0-Beta6
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.4.0.3
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.5.0
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.5.0-rc2
+- pkg:nuget/OpenRiaServices.Silverlight.Core@4.6.0

@@ -1,0 +1,9 @@
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@3.1.0
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@3.2.0
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@4.0.0
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@4.0.1
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@4.1.1
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@4.1.2
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@4.2.2
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@4.2.3
+- pkg:nuget/Skyward.Api.Popcorn.EntityFrameworkCore@6.2.3
