@@ -1,0 +1,3 @@
+- pkg:nuget/FastSharp.DependencyInjection@1.0.0-CI-20220425-231628
+- pkg:nuget/FastSharp.DependencyInjection@1.0.1
+- pkg:nuget/FastSharp.DependencyInjection@1.0.2

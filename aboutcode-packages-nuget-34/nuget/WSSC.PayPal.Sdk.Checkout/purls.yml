@@ -1,0 +1,5 @@
+- pkg:nuget/WSSC.PayPal.Sdk.Checkout@1.0.0
+- pkg:nuget/WSSC.PayPal.Sdk.Checkout@2.5.0
+- pkg:nuget/WSSC.PayPal.Sdk.Checkout@2.5.1
+- pkg:nuget/WSSC.PayPal.Sdk.Checkout@2.5.2
+- pkg:nuget/WSSC.PayPal.Sdk.Checkout@2.5.3

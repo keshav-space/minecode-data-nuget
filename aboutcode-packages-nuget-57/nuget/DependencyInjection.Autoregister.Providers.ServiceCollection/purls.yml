@@ -1,0 +1,3 @@
+- pkg:nuget/DependencyInjection.Autoregister.Providers.ServiceCollection@0.0.1-preview01
+- pkg:nuget/DependencyInjection.Autoregister.Providers.ServiceCollection@0.0.1-preview02
+- pkg:nuget/DependencyInjection.Autoregister.Providers.ServiceCollection@0.0.1-preview02-071219
