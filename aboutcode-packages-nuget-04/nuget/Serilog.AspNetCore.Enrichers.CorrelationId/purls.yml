@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.AspNetCore.Enrichers.CorrelationId@1.0.0

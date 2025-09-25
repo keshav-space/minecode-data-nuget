@@ -1,0 +1,2 @@
+- pkg:nuget/RavenDB.Client.Contrib@2.0.0
+- pkg:nuget/RavenDB.Client.Contrib@2.5.0

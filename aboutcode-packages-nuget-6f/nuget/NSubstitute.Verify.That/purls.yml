@@ -1,0 +1,4 @@
+- pkg:nuget/NSubstitute.Verify.That@1.0.0
+- pkg:nuget/NSubstitute.Verify.That@2.0.0
+- pkg:nuget/NSubstitute.Verify.That@2.0.0-beta
+- pkg:nuget/NSubstitute.Verify.That@3.0.0

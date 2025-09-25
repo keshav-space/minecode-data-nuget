@@ -1,0 +1,4 @@
+- pkg:nuget/Reusable.Logging.NLog.Tools@2.12.2
+- pkg:nuget/Reusable.Logging.NLog.Tools@2.13.2
+- pkg:nuget/Reusable.Logging.NLog.Tools@2.27.0
+- pkg:nuget/Reusable.Logging.NLog.Tools@2.27.1

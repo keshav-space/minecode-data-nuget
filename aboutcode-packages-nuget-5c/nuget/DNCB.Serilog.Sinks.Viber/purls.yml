@@ -1,0 +1,4 @@
+- pkg:nuget/DNCB.Serilog.Sinks.Viber@0.0.1
+- pkg:nuget/DNCB.Serilog.Sinks.Viber@0.0.1-alpha
+- pkg:nuget/DNCB.Serilog.Sinks.Viber@0.0.1-beta
+- pkg:nuget/DNCB.Serilog.Sinks.Viber@0.0.2-alpha

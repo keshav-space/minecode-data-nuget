@@ -1,0 +1,4 @@
+- pkg:nuget/JetBrains.MSBuild.Xplat.Engine@20160719.1.0
+- pkg:nuget/JetBrains.MSBuild.Xplat.Engine@20160922.1.0
+- pkg:nuget/JetBrains.MSBuild.Xplat.Engine@20161013.1.0
+- pkg:nuget/JetBrains.MSBuild.Xplat.Engine@20161013.1.1

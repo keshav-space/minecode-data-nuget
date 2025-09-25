@@ -1,0 +1,5 @@
+- pkg:nuget/MathNet.Numerics.MKL.Linux-x86@1.3.0
+- pkg:nuget/MathNet.Numerics.MKL.Linux-x86@1.7.0
+- pkg:nuget/MathNet.Numerics.MKL.Linux-x86@1.8.0
+- pkg:nuget/MathNet.Numerics.MKL.Linux-x86@2.0.0
+- pkg:nuget/MathNet.Numerics.MKL.Linux-x86@3.0.0-beta3

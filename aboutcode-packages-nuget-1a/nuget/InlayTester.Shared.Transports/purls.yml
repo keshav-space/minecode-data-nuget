@@ -1,0 +1,9 @@
+- pkg:nuget/InlayTester.Shared.Transports@3.0.0
+- pkg:nuget/InlayTester.Shared.Transports@4.0.0
+- pkg:nuget/InlayTester.Shared.Transports@4.1.0
+- pkg:nuget/InlayTester.Shared.Transports@5.0.0
+- pkg:nuget/InlayTester.Shared.Transports@5.1.0
+- pkg:nuget/InlayTester.Shared.Transports@6.0.0
+- pkg:nuget/InlayTester.Shared.Transports@6.1.0
+- pkg:nuget/InlayTester.Shared.Transports@6.2.0
+- pkg:nuget/InlayTester.Shared.Transports@6.3.0

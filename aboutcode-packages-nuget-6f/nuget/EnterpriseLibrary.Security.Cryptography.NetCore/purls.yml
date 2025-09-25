@@ -1,0 +1,5 @@
+- pkg:nuget/EnterpriseLibrary.Security.Cryptography.NetCore@5.0.505
+- pkg:nuget/EnterpriseLibrary.Security.Cryptography.NetCore@5.0.506
+- pkg:nuget/EnterpriseLibrary.Security.Cryptography.NetCore@5.0.510
+- pkg:nuget/EnterpriseLibrary.Security.Cryptography.NetCore@5.0.511
+- pkg:nuget/EnterpriseLibrary.Security.Cryptography.NetCore@5.0.512

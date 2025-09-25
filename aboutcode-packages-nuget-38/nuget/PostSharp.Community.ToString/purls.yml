@@ -1,0 +1,4 @@
+- pkg:nuget/PostSharp.Community.ToString@1.0.0-preview
+- pkg:nuget/PostSharp.Community.ToString@1.1.0
+- pkg:nuget/PostSharp.Community.ToString@1.2.0
+- pkg:nuget/PostSharp.Community.ToString@1.3.0

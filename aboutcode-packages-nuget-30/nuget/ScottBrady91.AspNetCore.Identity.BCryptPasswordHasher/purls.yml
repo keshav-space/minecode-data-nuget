@@ -1,0 +1,5 @@
+- pkg:nuget/ScottBrady91.AspNetCore.Identity.BCryptPasswordHasher@1.0.0
+- pkg:nuget/ScottBrady91.AspNetCore.Identity.BCryptPasswordHasher@1.1.0
+- pkg:nuget/ScottBrady91.AspNetCore.Identity.BCryptPasswordHasher@1.1.1
+- pkg:nuget/ScottBrady91.AspNetCore.Identity.BCryptPasswordHasher@1.2.0
+- pkg:nuget/ScottBrady91.AspNetCore.Identity.BCryptPasswordHasher@1.3.0

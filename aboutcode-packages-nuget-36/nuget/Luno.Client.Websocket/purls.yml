@@ -1,0 +1,4 @@
+- pkg:nuget/Luno.Client.Websocket@6.0.0
+- pkg:nuget/Luno.Client.Websocket@7.0.0
+- pkg:nuget/Luno.Client.Websocket@8.0.0
+- pkg:nuget/Luno.Client.Websocket@8.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.1.0-alpha
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.2.0-alpha.1

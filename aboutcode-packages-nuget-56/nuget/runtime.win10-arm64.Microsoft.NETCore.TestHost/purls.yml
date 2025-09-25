@@ -1,0 +1,4 @@
+- pkg:nuget/runtime.win10-arm64.Microsoft.NETCore.TestHost@1.1.0-preview1-24608-01
+- pkg:nuget/runtime.win10-arm64.Microsoft.NETCore.TestHost@1.1.11
+- pkg:nuget/runtime.win10-arm64.Microsoft.NETCore.TestHost@1.1.12
+- pkg:nuget/runtime.win10-arm64.Microsoft.NETCore.TestHost@1.1.13

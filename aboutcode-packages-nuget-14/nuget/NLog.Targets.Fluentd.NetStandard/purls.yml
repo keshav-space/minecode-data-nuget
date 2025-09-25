@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.Targets.Fluentd.NetStandard@1.0.5
+- pkg:nuget/NLog.Targets.Fluentd.NetStandard@1.0.6

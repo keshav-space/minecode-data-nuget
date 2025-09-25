@@ -1,0 +1,7 @@
+- pkg:nuget/RafaelKallis.Extensions.Caching.Postgres.OpenTelemetry@8.0.0
+- pkg:nuget/RafaelKallis.Extensions.Caching.Postgres.OpenTelemetry@8.0.0-preview.1
+- pkg:nuget/RafaelKallis.Extensions.Caching.Postgres.OpenTelemetry@8.0.1
+- pkg:nuget/RafaelKallis.Extensions.Caching.Postgres.OpenTelemetry@8.0.2
+- pkg:nuget/RafaelKallis.Extensions.Caching.Postgres.OpenTelemetry@8.1.0
+- pkg:nuget/RafaelKallis.Extensions.Caching.Postgres.OpenTelemetry@9.0.0
+- pkg:nuget/RafaelKallis.Extensions.Caching.Postgres.OpenTelemetry@9.1.0

@@ -1,0 +1,15 @@
+- pkg:nuget/Azure.MsBuild.Tasks@0.12.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.13.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.15.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.16.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.17.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.18.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.20.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.21.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.22.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.23.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.24.0-dev
+- pkg:nuget/Azure.MsBuild.Tasks@0.26.0
+- pkg:nuget/Azure.MsBuild.Tasks@0.27.0
+- pkg:nuget/Azure.MsBuild.Tasks@0.28.0
+- pkg:nuget/Azure.MsBuild.Tasks@0.29.0

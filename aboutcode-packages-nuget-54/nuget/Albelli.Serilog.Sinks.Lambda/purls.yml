@@ -1,0 +1,7 @@
+- pkg:nuget/Albelli.Serilog.Sinks.Lambda@0.1.0
+- pkg:nuget/Albelli.Serilog.Sinks.Lambda@0.1.0-b0005
+- pkg:nuget/Albelli.Serilog.Sinks.Lambda@0.1.0-b0006
+- pkg:nuget/Albelli.Serilog.Sinks.Lambda@0.2.0-a-netstandard20-0001
+- pkg:nuget/Albelli.Serilog.Sinks.Lambda@0.2.0-a-pr-1-merge000-0002
+- pkg:nuget/Albelli.Serilog.Sinks.Lambda@0.2.0-b0002
+- pkg:nuget/Albelli.Serilog.Sinks.Lambda@1.0.0

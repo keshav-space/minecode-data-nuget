@@ -1,0 +1,3 @@
+- pkg:nuget/HulkV2.Database@1.0.0-CI-20190115-024751
+- pkg:nuget/HulkV2.Database@2019.1.15.2
+- pkg:nuget/HulkV2.Database@2019.1.15.3

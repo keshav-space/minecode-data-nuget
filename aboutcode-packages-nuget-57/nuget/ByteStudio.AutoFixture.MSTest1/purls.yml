@@ -1,0 +1,5 @@
+- pkg:nuget/ByteStudio.AutoFixture.MSTest1@1.0.0
+- pkg:nuget/ByteStudio.AutoFixture.MSTest1@1.0.1
+- pkg:nuget/ByteStudio.AutoFixture.MSTest1@2.0.0
+- pkg:nuget/ByteStudio.AutoFixture.MSTest1@2.0.1
+- pkg:nuget/ByteStudio.AutoFixture.MSTest1@2.1.0

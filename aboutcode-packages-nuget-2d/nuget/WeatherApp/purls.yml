@@ -1,0 +1,3 @@
+- pkg:nuget/WeatherApp@1.0.0
+- pkg:nuget/WeatherApp@2.0.0
+- pkg:nuget/WeatherApp@3.0.0

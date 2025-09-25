@@ -1,0 +1,7 @@
+- pkg:nuget/Dotnettency.AspNetCore.Modules.Nancy@1.4.0-seperate-http.1%2B48
+- pkg:nuget/Dotnettency.AspNetCore.Modules.Nancy@1.4.0-seperate-http0001
+- pkg:nuget/Dotnettency.AspNetCore.Modules.Nancy@2.0.0-routing.1%2B93
+- pkg:nuget/Dotnettency.AspNetCore.Modules.Nancy@2.0.0-seperate-http.1%2B89
+- pkg:nuget/Dotnettency.AspNetCore.Modules.Nancy@2.0.0-unstable.91
+- pkg:nuget/Dotnettency.AspNetCore.Modules.Nancy@2.0.0-unstable.96
+- pkg:nuget/Dotnettency.AspNetCore.Modules.Nancy@2.0.0-unstable.97

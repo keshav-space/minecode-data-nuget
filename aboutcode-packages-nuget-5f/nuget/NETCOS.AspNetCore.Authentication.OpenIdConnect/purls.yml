@@ -1,0 +1,2 @@
+- pkg:nuget/NETCOS.AspNetCore.Authentication.OpenIdConnect@1.0.0.5
+- pkg:nuget/NETCOS.AspNetCore.Authentication.OpenIdConnect@2.0.0-preview1-1

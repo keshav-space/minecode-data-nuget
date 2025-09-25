@@ -1,0 +1,4 @@
+- pkg:nuget/KakarooEntity.SqlServer@2018.11.1
+- pkg:nuget/KakarooEntity.SqlServer@2018.11.3
+- pkg:nuget/KakarooEntity.SqlServer@2018.11.4
+- pkg:nuget/KakarooEntity.SqlServer@2019.8.17

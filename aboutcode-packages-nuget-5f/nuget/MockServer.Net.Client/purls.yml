@@ -1,0 +1,5 @@
+- pkg:nuget/MockServer.Net.Client@1.0.0
+- pkg:nuget/MockServer.Net.Client@1.0.28
+- pkg:nuget/MockServer.Net.Client@1.0.29
+- pkg:nuget/MockServer.Net.Client@1.0.31
+- pkg:nuget/MockServer.Net.Client@1.0.32

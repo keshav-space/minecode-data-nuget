@@ -1,0 +1,6 @@
+- pkg:nuget/Nightingale.MsSql@1.0.0
+- pkg:nuget/Nightingale.MsSql@1.1.0
+- pkg:nuget/Nightingale.MsSql@2.0.0
+- pkg:nuget/Nightingale.MsSql@2.0.0-alpha
+- pkg:nuget/Nightingale.MsSql@2.0.1
+- pkg:nuget/Nightingale.MsSql@2.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/Raven.Serializer.WithNewtonsoft@1.0.0
+- pkg:nuget/Raven.Serializer.WithNewtonsoft@1.1.0
+- pkg:nuget/Raven.Serializer.WithNewtonsoft@2.0.0
+- pkg:nuget/Raven.Serializer.WithNewtonsoft@2.0.2
+- pkg:nuget/Raven.Serializer.WithNewtonsoft@2.0.3

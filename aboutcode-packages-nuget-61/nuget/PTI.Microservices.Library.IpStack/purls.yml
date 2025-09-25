@@ -1,0 +1,4 @@
+- pkg:nuget/PTI.Microservices.Library.IpStack@2.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.IpStack@2.0.0.1-preview
+- pkg:nuget/PTI.Microservices.Library.IpStack@7.0.0
+- pkg:nuget/PTI.Microservices.Library.IpStack@7.0.0.1

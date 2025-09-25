@@ -1,0 +1,3 @@
+- pkg:nuget/Loom.Azure.Functions.Extensions.Amazon.SQS@0.0.1
+- pkg:nuget/Loom.Azure.Functions.Extensions.Amazon.SQS@0.0.2
+- pkg:nuget/Loom.Azure.Functions.Extensions.Amazon.SQS@0.0.3

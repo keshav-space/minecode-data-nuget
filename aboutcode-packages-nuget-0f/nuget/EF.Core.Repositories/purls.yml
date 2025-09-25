@@ -1,0 +1,4 @@
+- pkg:nuget/EF.Core.Repositories@1.0.0
+- pkg:nuget/EF.Core.Repositories@1.0.1
+- pkg:nuget/EF.Core.Repositories@1.1.0
+- pkg:nuget/EF.Core.Repositories@1.1.1

@@ -1,0 +1,6 @@
+- pkg:nuget/FastestNuGet@0.0.1%2Bbuild.4
+- pkg:nuget/FastestNuGet@0.0.2%2Bbuild.5
+- pkg:nuget/FastestNuGet@0.0.3%2Bbuild.17
+- pkg:nuget/FastestNuGet@0.0.6%2Bbuild.9
+- pkg:nuget/FastestNuGet@0.0.7%2Bbuild.15
+- pkg:nuget/FastestNuGet@1.0.0%2Bbuild.5

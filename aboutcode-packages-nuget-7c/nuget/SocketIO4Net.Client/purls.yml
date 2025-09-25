@@ -1,0 +1,5 @@
+- pkg:nuget/SocketIO4Net.Client@0.2.29
+- pkg:nuget/SocketIO4Net.Client@0.2.6
+- pkg:nuget/SocketIO4Net.Client@0.4.8
+- pkg:nuget/SocketIO4Net.Client@0.6.26
+- pkg:nuget/SocketIO4Net.Client@0.6.3

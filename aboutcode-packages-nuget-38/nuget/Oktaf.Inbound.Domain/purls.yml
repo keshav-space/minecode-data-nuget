@@ -1,0 +1,3 @@
+- pkg:nuget/Oktaf.Inbound.Domain@5.0.0
+- pkg:nuget/Oktaf.Inbound.Domain@7.0.0
+- pkg:nuget/Oktaf.Inbound.Domain@7.1.0

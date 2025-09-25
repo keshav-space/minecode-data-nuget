@@ -1,0 +1,4 @@
+- pkg:nuget/Dewey.Net.Redis@1.0.0
+- pkg:nuget/Dewey.Net.Redis@3.0.0
+- pkg:nuget/Dewey.Net.Redis@3.1.0
+- pkg:nuget/Dewey.Net.Redis@3.2.0

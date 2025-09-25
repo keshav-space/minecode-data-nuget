@@ -1,0 +1,4 @@
+- pkg:nuget/OpenDota.NET@1.0.0
+- pkg:nuget/OpenDota.NET@2.0.0
+- pkg:nuget/OpenDota.NET@2.1.0
+- pkg:nuget/OpenDota.NET@2.2.0

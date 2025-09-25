@@ -1,0 +1,3 @@
+- pkg:nuget/SqlSugarCore_NetCore2@5.0.9.8
+- pkg:nuget/SqlSugarCore_NetCore2@5.0.9.9
+- pkg:nuget/SqlSugarCore_NetCore2@5.2.0

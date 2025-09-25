@@ -1,0 +1,2 @@
+- pkg:nuget/Oktaf.AuditTrail.Api.Client@5.0.3
+- pkg:nuget/Oktaf.AuditTrail.Api.Client@7.0.0

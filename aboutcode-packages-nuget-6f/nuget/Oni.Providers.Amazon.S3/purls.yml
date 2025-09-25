@@ -1,0 +1,3 @@
+- pkg:nuget/Oni.Providers.Amazon.S3@1.0.2
+- pkg:nuget/Oni.Providers.Amazon.S3@2.0.1
+- pkg:nuget/Oni.Providers.Amazon.S3@2.1.3

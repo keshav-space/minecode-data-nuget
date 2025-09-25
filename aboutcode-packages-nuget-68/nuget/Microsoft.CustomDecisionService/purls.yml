@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.CustomDecisionService@1.0.0
+- pkg:nuget/Microsoft.CustomDecisionService@2.0.0
+- pkg:nuget/Microsoft.CustomDecisionService@2.0.1
+- pkg:nuget/Microsoft.CustomDecisionService@2.0.2

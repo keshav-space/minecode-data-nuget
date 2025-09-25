@@ -1,0 +1,8 @@
+- pkg:nuget/EntityFrameworkApp@1.4.10
+- pkg:nuget/EntityFrameworkApp@1.5.0
+- pkg:nuget/EntityFrameworkApp@1.5.1
+- pkg:nuget/EntityFrameworkApp@1.6.0
+- pkg:nuget/EntityFrameworkApp@1.6.1
+- pkg:nuget/EntityFrameworkApp@1.6.2
+- pkg:nuget/EntityFrameworkApp@1.6.3
+- pkg:nuget/EntityFrameworkApp@2.0.0

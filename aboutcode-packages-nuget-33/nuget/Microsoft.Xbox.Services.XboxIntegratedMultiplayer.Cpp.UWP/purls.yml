@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Xbox.Services.XboxIntegratedMultiplayer.Cpp.UWP@1610.4.0
+- pkg:nuget/Microsoft.Xbox.Services.XboxIntegratedMultiplayer.Cpp.UWP@1703.1.0
+- pkg:nuget/Microsoft.Xbox.Services.XboxIntegratedMultiplayer.Cpp.UWP@1703.2.0
+- pkg:nuget/Microsoft.Xbox.Services.XboxIntegratedMultiplayer.Cpp.UWP@1703.3.0
+- pkg:nuget/Microsoft.Xbox.Services.XboxIntegratedMultiplayer.Cpp.UWP@1706.0.0
+- pkg:nuget/Microsoft.Xbox.Services.XboxIntegratedMultiplayer.Cpp.UWP@2017.4.20170323.1

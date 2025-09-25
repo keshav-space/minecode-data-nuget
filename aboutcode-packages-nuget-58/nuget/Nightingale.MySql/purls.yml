@@ -1,0 +1,4 @@
+- pkg:nuget/Nightingale.MySql@1.0.0
+- pkg:nuget/Nightingale.MySql@2.0.0
+- pkg:nuget/Nightingale.MySql@2.0.1
+- pkg:nuget/Nightingale.MySql@2.0.2

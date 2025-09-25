@@ -1,0 +1,13 @@
+- pkg:nuget/Eto.Containers@0.1.0-ci.2
+- pkg:nuget/Eto.Containers@0.1.0-ci.7
+- pkg:nuget/Eto.Containers@0.1.0-ci.9
+- pkg:nuget/Eto.Containers@1.0.0
+- pkg:nuget/Eto.Containers@1.0.1-ci.13
+- pkg:nuget/Eto.Containers@1.0.1-ci.2
+- pkg:nuget/Eto.Containers@1.0.1-ci.4
+- pkg:nuget/Eto.Containers@1.1.0
+- pkg:nuget/Eto.Containers@1.1.1-ci.2
+- pkg:nuget/Eto.Containers@1.1.1-ci.4
+- pkg:nuget/Eto.Containers@1.1.1-ci.5
+- pkg:nuget/Eto.Containers@1.1.1-ci.7
+- pkg:nuget/Eto.Containers@1.1.1-ci.8

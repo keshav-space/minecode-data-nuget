@@ -1,0 +1,5 @@
+- pkg:nuget/AzureFunctions.MongoDBDriver@1.0.0
+- pkg:nuget/AzureFunctions.MongoDBDriver@1.0.0-CI-20200118-144858
+- pkg:nuget/AzureFunctions.MongoDBDriver@1.0.0-CI-20200118-152814
+- pkg:nuget/AzureFunctions.MongoDBDriver@1.0.0-CI-20200118-152926
+- pkg:nuget/AzureFunctions.MongoDBDriver@1.0.1

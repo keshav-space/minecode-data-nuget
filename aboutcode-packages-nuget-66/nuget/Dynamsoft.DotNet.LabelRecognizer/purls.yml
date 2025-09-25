@@ -1,0 +1,4 @@
+- pkg:nuget/Dynamsoft.DotNet.LabelRecognizer@2.0.0
+- pkg:nuget/Dynamsoft.DotNet.LabelRecognizer@3.2.30
+- pkg:nuget/Dynamsoft.DotNet.LabelRecognizer@3.2.31
+- pkg:nuget/Dynamsoft.DotNet.LabelRecognizer@3.2.32

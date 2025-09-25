@@ -1,0 +1,3 @@
+- pkg:nuget/Ngs.Common.AspNetCore.Infrastructure@1.0.0
+- pkg:nuget/Ngs.Common.AspNetCore.Infrastructure@1.0.1
+- pkg:nuget/Ngs.Common.AspNetCore.Infrastructure@2.0.0
