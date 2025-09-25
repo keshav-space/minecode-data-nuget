@@ -1,0 +1,3 @@
+- pkg:nuget/SqlClient.RequestHelper@1.0.0
+- pkg:nuget/SqlClient.RequestHelper@1.1.0
+- pkg:nuget/SqlClient.RequestHelper@1.2.0

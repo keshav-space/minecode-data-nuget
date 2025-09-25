@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.AmazonSqs@0.0.1-alpha

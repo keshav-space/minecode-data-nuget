@@ -1,0 +1,2 @@
+- pkg:nuget/Zenith.Providers.SQLite@1.0.0-local
+- pkg:nuget/Zenith.Providers.SQLite@1.0.1

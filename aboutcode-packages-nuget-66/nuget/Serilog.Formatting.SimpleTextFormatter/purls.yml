@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Formatting.SimpleTextFormatter@0.1.4%2Bfd01a5d1b7f406c180a57ea153dcf359661a1fdf
+- pkg:nuget/Serilog.Formatting.SimpleTextFormatter@0.1.5%2B5063e6c4d6a5914016ce12c9430ea1de7c12b655

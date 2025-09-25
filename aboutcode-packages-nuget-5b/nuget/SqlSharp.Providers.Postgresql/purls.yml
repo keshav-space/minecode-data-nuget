@@ -1,0 +1,2 @@
+- pkg:nuget/SqlSharp.Providers.Postgresql@1.0.0
+- pkg:nuget/SqlSharp.Providers.Postgresql@1.0.1

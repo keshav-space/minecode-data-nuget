@@ -1,0 +1,1 @@
+- pkg:nuget/AspNetCore.ApplicationBlocks.TestSupport.TestTransitiveDependencyContext@0.0.1
