@@ -1,0 +1,4 @@
+- pkg:nuget/Avalonia.OpenGL@0.7.0
+- pkg:nuget/Avalonia.OpenGL@0.7.0-build445-beta
+- pkg:nuget/Avalonia.OpenGL@0.7.0-build446-beta
+- pkg:nuget/Avalonia.OpenGL@0.7.0-build451-beta

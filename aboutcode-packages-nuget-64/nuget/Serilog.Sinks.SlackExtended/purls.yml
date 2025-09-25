@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Sinks.SlackExtended@2.2.3
+- pkg:nuget/Serilog.Sinks.SlackExtended@2.2.4
