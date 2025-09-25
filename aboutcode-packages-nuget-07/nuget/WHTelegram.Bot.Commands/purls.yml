@@ -1,0 +1,4 @@
+- pkg:nuget/WHTelegram.Bot.Commands@1.0.0-PreAlpha
+- pkg:nuget/WHTelegram.Bot.Commands@1.0.1-PreAlpha
+- pkg:nuget/WHTelegram.Bot.Commands@1.1.0-PreAlpha
+- pkg:nuget/WHTelegram.Bot.Commands@1.1.1-PreAlpha

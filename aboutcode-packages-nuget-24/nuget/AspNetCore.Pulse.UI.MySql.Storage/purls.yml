@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.Pulse.UI.MySql.Storage@8.0.1-preview1
+- pkg:nuget/AspNetCore.Pulse.UI.MySql.Storage@8.0.2-preview1
+- pkg:nuget/AspNetCore.Pulse.UI.MySql.Storage@8.0.3-preview1
+- pkg:nuget/AspNetCore.Pulse.UI.MySql.Storage@8.0.4-preview1
+- pkg:nuget/AspNetCore.Pulse.UI.MySql.Storage@8.0.5-preview1

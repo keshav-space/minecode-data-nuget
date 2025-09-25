@@ -1,0 +1,4 @@
+- pkg:nuget/EntityFrameworkCore.GraphManager@7.0.5-beta.1
+- pkg:nuget/EntityFrameworkCore.GraphManager@7.1.0
+- pkg:nuget/EntityFrameworkCore.GraphManager@7.1.0-beta.1
+- pkg:nuget/EntityFrameworkCore.GraphManager@9.0.0

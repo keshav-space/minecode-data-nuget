@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@16.10.0
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@16.10.0-beta.21163.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@16.10.0-beta.21214.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@16.9.0-beta.20604.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@17.0.0-beta.21255.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@17.2.0
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@17.2.0-beta.21262.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@17.2.0-beta.21371.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts@17.2.0-beta.21417.1

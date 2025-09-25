@@ -1,0 +1,5 @@
+- pkg:nuget/QuickSetup.Swagger@1.0.0
+- pkg:nuget/QuickSetup.Swagger@1.0.1
+- pkg:nuget/QuickSetup.Swagger@5.0.0
+- pkg:nuget/QuickSetup.Swagger@5.0.1
+- pkg:nuget/QuickSetup.Swagger@6.0.0

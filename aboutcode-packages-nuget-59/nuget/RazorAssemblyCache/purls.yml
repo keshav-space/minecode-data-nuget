@@ -1,0 +1,4 @@
+- pkg:nuget/RazorAssemblyCache@0.0.1-alpha
+- pkg:nuget/RazorAssemblyCache@0.0.2-alpha
+- pkg:nuget/RazorAssemblyCache@0.0.5-alpha
+- pkg:nuget/RazorAssemblyCache@0.1.0-beta

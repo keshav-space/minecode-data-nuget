@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Extensions.Grafana.Loki@7.1.1
+- pkg:nuget/Serilog.Extensions.Grafana.Loki@7.1.2

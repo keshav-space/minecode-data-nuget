@@ -1,0 +1,11 @@
+- pkg:nuget/IdentityServer.LdapExtension@0.0.1
+- pkg:nuget/IdentityServer.LdapExtension@0.0.2
+- pkg:nuget/IdentityServer.LdapExtension@1.0.0
+- pkg:nuget/IdentityServer.LdapExtension@2.0.0
+- pkg:nuget/IdentityServer.LdapExtension@2.1.0
+- pkg:nuget/IdentityServer.LdapExtension@2.1.13
+- pkg:nuget/IdentityServer.LdapExtension@2.1.29
+- pkg:nuget/IdentityServer.LdapExtension@2.1.49
+- pkg:nuget/IdentityServer.LdapExtension@2.1.7
+- pkg:nuget/IdentityServer.LdapExtension@2.1.8
+- pkg:nuget/IdentityServer.LdapExtension@3.1.0

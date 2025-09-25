@@ -1,0 +1,5 @@
+- pkg:nuget/NServiceBus.AttributeConventions@0.0.1
+- pkg:nuget/NServiceBus.AttributeConventions@0.0.2
+- pkg:nuget/NServiceBus.AttributeConventions@1.0.0
+- pkg:nuget/NServiceBus.AttributeConventions@2.0.0
+- pkg:nuget/NServiceBus.AttributeConventions@3.0.0

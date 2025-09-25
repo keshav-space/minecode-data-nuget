@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.AppService@0.1.2-alpha
+- pkg:nuget/Microsoft.Azure.AppService@0.1.4-alpha
+- pkg:nuget/Microsoft.Azure.AppService@0.2.0-alpha
+- pkg:nuget/Microsoft.Azure.AppService@0.2.1-alpha
+- pkg:nuget/Microsoft.Azure.AppService@0.2.2-alpha

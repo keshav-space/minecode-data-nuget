@@ -1,0 +1,10 @@
+- pkg:nuget/SitecoreSerilog@0.0.1-preview
+- pkg:nuget/SitecoreSerilog@0.0.2-preview
+- pkg:nuget/SitecoreSerilog@0.0.3-preview
+- pkg:nuget/SitecoreSerilog@0.0.4-preview
+- pkg:nuget/SitecoreSerilog@0.0.5-preview
+- pkg:nuget/SitecoreSerilog@0.0.5.1-preview
+- pkg:nuget/SitecoreSerilog@0.0.5.2-preview
+- pkg:nuget/SitecoreSerilog@0.0.5.3-preview
+- pkg:nuget/SitecoreSerilog@0.1.0
+- pkg:nuget/SitecoreSerilog@0.1.1

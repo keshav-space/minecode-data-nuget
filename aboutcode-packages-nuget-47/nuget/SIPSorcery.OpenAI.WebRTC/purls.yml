@@ -1,0 +1,4 @@
+- pkg:nuget/SIPSorcery.OpenAI.WebRTC@8.0.1-pre
+- pkg:nuget/SIPSorcery.OpenAI.WebRTC@8.0.2-pre
+- pkg:nuget/SIPSorcery.OpenAI.WebRTC@8.0.3
+- pkg:nuget/SIPSorcery.OpenAI.WebRTC@8.0.4

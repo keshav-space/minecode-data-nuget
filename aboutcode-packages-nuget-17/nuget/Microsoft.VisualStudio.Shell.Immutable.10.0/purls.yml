@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.VisualStudio.Shell.Immutable.10.0@10.0.30319
+- pkg:nuget/Microsoft.VisualStudio.Shell.Immutable.10.0@10.0.30319-pre
+- pkg:nuget/Microsoft.VisualStudio.Shell.Immutable.10.0@15.0.25413-Preview5
+- pkg:nuget/Microsoft.VisualStudio.Shell.Immutable.10.0@15.0.25414
+- pkg:nuget/Microsoft.VisualStudio.Shell.Immutable.10.0@15.0.25415
+- pkg:nuget/Microsoft.VisualStudio.Shell.Immutable.10.0@16.10.31321.278
+- pkg:nuget/Microsoft.VisualStudio.Shell.Immutable.10.0@16.9.31024.71

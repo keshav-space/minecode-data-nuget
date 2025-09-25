@@ -1,0 +1,3 @@
+- pkg:nuget/Util.Extensions.Logging.BreadcrumbConsoleFormatter@0.0.1-beta.0
+- pkg:nuget/Util.Extensions.Logging.BreadcrumbConsoleFormatter@0.1.0
+- pkg:nuget/Util.Extensions.Logging.BreadcrumbConsoleFormatter@0.2.0

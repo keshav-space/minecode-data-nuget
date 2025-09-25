@@ -1,0 +1,3 @@
+- pkg:nuget/AccidentalFish.Strava.TokenManager.RedisCache@1.0.1
+- pkg:nuget/AccidentalFish.Strava.TokenManager.RedisCache@1.0.2
+- pkg:nuget/AccidentalFish.Strava.TokenManager.RedisCache@2.0.0

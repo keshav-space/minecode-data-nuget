@@ -1,0 +1,11 @@
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2024.11.1
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2024.11.2
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2024.11.3
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2024.11.4
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2024.7.1
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2024.7.3
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2024.7.5
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2025.1.1
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2025.1.2
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2025.1.3
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Deps.Windows@2025.3.1

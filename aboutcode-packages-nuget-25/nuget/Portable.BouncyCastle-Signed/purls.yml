@@ -1,0 +1,3 @@
+- pkg:nuget/Portable.BouncyCastle-Signed@1.7.0.1
+- pkg:nuget/Portable.BouncyCastle-Signed@1.7.0.2
+- pkg:nuget/Portable.BouncyCastle-Signed@1.8.0-beta4

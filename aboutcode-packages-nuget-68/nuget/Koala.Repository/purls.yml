@@ -1,0 +1,4 @@
+- pkg:nuget/Koala.Repository@1.0.0
+- pkg:nuget/Koala.Repository@2.0.0-rc
+- pkg:nuget/Koala.Repository@2.0.1-rc
+- pkg:nuget/Koala.Repository@2.0.2-rc

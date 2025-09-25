@@ -1,0 +1,8 @@
+- pkg:nuget/SignalR.ConnectionManager@0.8.0
+- pkg:nuget/SignalR.ConnectionManager@0.8.0-PreRelease
+- pkg:nuget/SignalR.ConnectionManager@0.8.0.1-PreRelease
+- pkg:nuget/SignalR.ConnectionManager@0.8.0.2-PreRelease
+- pkg:nuget/SignalR.ConnectionManager@0.8.0.3-PreRelease
+- pkg:nuget/SignalR.ConnectionManager@0.8.0.4-PreRelease
+- pkg:nuget/SignalR.ConnectionManager@0.8.0.5-PreRelease
+- pkg:nuget/SignalR.ConnectionManager@0.8.0.6-PreRelease

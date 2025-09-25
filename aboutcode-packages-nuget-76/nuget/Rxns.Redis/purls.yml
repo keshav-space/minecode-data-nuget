@@ -1,0 +1,4 @@
+- pkg:nuget/Rxns.Redis@1.0.0
+- pkg:nuget/Rxns.Redis@2.0.5
+- pkg:nuget/Rxns.Redis@3.0.0
+- pkg:nuget/Rxns.Redis@3.0.1

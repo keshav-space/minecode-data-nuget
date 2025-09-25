@@ -1,0 +1,4 @@
+- pkg:nuget/ricaun.Revit.UI.StatusBar@1.0.0
+- pkg:nuget/ricaun.Revit.UI.StatusBar@1.0.0-alpha.4
+- pkg:nuget/ricaun.Revit.UI.StatusBar@1.0.0-beta
+- pkg:nuget/ricaun.Revit.UI.StatusBar@1.0.0-rc

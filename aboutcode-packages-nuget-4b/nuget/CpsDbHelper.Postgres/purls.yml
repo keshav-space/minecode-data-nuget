@@ -1,0 +1,3 @@
+- pkg:nuget/CpsDbHelper.Postgres@1.0.0
+- pkg:nuget/CpsDbHelper.Postgres@1.0.1
+- pkg:nuget/CpsDbHelper.Postgres@2.0.0

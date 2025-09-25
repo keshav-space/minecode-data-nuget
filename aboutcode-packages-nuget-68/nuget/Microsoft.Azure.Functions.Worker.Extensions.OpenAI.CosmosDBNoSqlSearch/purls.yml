@@ -1,0 +1,1 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.OpenAI.CosmosDBNoSqlSearch@0.1.0-alpha

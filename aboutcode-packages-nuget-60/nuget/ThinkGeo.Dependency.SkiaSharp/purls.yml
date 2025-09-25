@@ -1,0 +1,13 @@
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@0.0.1-beta001
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@1.0.0-beta001
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@1.0.0-beta020
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@12.0.0
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@12.1.0
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@12.1.1
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@12.2.0
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@12.2.1
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@12.3.0
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@13.0.1
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@13.0.2
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@13.0.3
+- pkg:nuget/ThinkGeo.Dependency.SkiaSharp@13.0.4

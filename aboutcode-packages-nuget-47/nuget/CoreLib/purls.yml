@@ -1,0 +1,6 @@
+- pkg:nuget/CoreLib@0.5.0-alpha0006
+- pkg:nuget/CoreLib@0.5.0-beta0002
+- pkg:nuget/CoreLib@0.5.12-ci0001
+- pkg:nuget/CoreLib@0.5.12-ci0003
+- pkg:nuget/CoreLib@0.5.12-fix0001
+- pkg:nuget/CoreLib@0.6.0

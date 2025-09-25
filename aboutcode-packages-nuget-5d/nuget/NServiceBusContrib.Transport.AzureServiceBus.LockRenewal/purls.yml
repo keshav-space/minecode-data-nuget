@@ -1,0 +1,1 @@
+- pkg:nuget/NServiceBusContrib.Transport.AzureServiceBus.LockRenewal@2.0.0-preview

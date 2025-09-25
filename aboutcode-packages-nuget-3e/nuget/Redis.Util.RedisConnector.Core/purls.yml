@@ -1,0 +1,5 @@
+- pkg:nuget/Redis.Util.RedisConnector.Core@1.0.0
+- pkg:nuget/Redis.Util.RedisConnector.Core@1.0.8
+- pkg:nuget/Redis.Util.RedisConnector.Core@1.1.0
+- pkg:nuget/Redis.Util.RedisConnector.Core@1.1.1
+- pkg:nuget/Redis.Util.RedisConnector.Core@1.1.2

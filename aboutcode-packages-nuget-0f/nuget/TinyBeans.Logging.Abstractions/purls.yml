@@ -1,0 +1,9 @@
+- pkg:nuget/TinyBeans.Logging.Abstractions@1.0.0
+- pkg:nuget/TinyBeans.Logging.Abstractions@1.0.1
+- pkg:nuget/TinyBeans.Logging.Abstractions@1.0.1-prerelease01
+- pkg:nuget/TinyBeans.Logging.Abstractions@1.0.1-prerelease02
+- pkg:nuget/TinyBeans.Logging.Abstractions@2.0.0
+- pkg:nuget/TinyBeans.Logging.Abstractions@2.0.0-prerelease01
+- pkg:nuget/TinyBeans.Logging.Abstractions@2.0.0-prerelease02
+- pkg:nuget/TinyBeans.Logging.Abstractions@3.1.0
+- pkg:nuget/TinyBeans.Logging.Abstractions@5.0.0

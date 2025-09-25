@@ -1,0 +1,5 @@
+- pkg:nuget/Forge.Application@1.0.0
+- pkg:nuget/Forge.Application@1.0.1
+- pkg:nuget/Forge.Application@2.20190123.2-ci
+- pkg:nuget/Forge.Application@2.20200601.1-manual
+- pkg:nuget/Forge.Application@2.20200601.2

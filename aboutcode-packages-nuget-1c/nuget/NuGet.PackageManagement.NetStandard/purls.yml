@@ -1,0 +1,7 @@
+- pkg:nuget/NuGet.PackageManagement.NetStandard@4.3.0
+- pkg:nuget/NuGet.PackageManagement.NetStandard@4.3.0-preview4
+- pkg:nuget/NuGet.PackageManagement.NetStandard@4.3.0-preview4a
+- pkg:nuget/NuGet.PackageManagement.NetStandard@4.6.0
+- pkg:nuget/NuGet.PackageManagement.NetStandard@4.7.0
+- pkg:nuget/NuGet.PackageManagement.NetStandard@4.9.1
+- pkg:nuget/NuGet.PackageManagement.NetStandard@4.9.2

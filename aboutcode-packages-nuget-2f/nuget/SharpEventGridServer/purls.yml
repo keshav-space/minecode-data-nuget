@@ -1,0 +1,3 @@
+- pkg:nuget/SharpEventGridServer@0.1.0-beta
+- pkg:nuget/SharpEventGridServer@1.0.0
+- pkg:nuget/SharpEventGridServer@1.1.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.HttpJob.Ext.CommonUtils@1.0.0
+- pkg:nuget/Hangfire.HttpJob.Ext.CommonUtils@1.0.1

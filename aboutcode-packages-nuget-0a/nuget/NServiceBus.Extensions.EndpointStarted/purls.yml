@@ -1,0 +1,5 @@
+- pkg:nuget/NServiceBus.Extensions.EndpointStarted@0.0.1
+- pkg:nuget/NServiceBus.Extensions.EndpointStarted@0.0.2
+- pkg:nuget/NServiceBus.Extensions.EndpointStarted@1.0.0
+- pkg:nuget/NServiceBus.Extensions.EndpointStarted@2.0.0
+- pkg:nuget/NServiceBus.Extensions.EndpointStarted@3.0.0

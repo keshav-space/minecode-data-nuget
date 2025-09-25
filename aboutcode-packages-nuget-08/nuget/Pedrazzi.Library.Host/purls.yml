@@ -1,0 +1,4 @@
+- pkg:nuget/Pedrazzi.Library.Host@1.0.0-alpha
+- pkg:nuget/Pedrazzi.Library.Host@1.0.1
+- pkg:nuget/Pedrazzi.Library.Host@1.0.1-alpha
+- pkg:nuget/Pedrazzi.Library.Host@1.0.9-prerelease

@@ -1,0 +1,6 @@
+- pkg:nuget/CorshamScience.MessageDispatch.ProtobufSnapshotting@1.0.2-company-change-u0001
+- pkg:nuget/CorshamScience.MessageDispatch.ProtobufSnapshotting@2.0.0-company-change-u0001
+- pkg:nuget/CorshamScience.MessageDispatch.ProtobufSnapshotting@3.0.0
+- pkg:nuget/CorshamScience.MessageDispatch.ProtobufSnapshotting@4.0.0
+- pkg:nuget/CorshamScience.MessageDispatch.ProtobufSnapshotting@4.0.1-eventstore-clien0001
+- pkg:nuget/CorshamScience.MessageDispatch.ProtobufSnapshotting@5.0.0

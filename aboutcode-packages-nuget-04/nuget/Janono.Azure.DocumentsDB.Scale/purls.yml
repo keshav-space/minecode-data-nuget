@@ -1,0 +1,11 @@
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.0.0
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.0.0-ci-20190401-104444
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.0.0-ci-20190401-120753
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.0.0-ci-20190401-130122
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.0.0-ci-20190410-120530
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.0.0-ci-20190410-121636
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.0.0-ci-20190410-122051
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.1.0-ci-20190410-055016
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.1.0-ci-20190410-071136
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.1.0-ci-20190410-075804
+- pkg:nuget/Janono.Azure.DocumentsDB.Scale@1.1.0-ci-20190418-091851

@@ -1,0 +1,4 @@
+- pkg:nuget/RSABlindSignature.NET@1.0.0
+- pkg:nuget/RSABlindSignature.NET@2.0.1
+- pkg:nuget/RSABlindSignature.NET@3.0.0
+- pkg:nuget/RSABlindSignature.NET@3.0.1

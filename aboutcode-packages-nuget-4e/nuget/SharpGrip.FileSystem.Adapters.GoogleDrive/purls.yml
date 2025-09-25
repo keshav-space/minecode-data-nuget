@@ -1,0 +1,3 @@
+- pkg:nuget/SharpGrip.FileSystem.Adapters.GoogleDrive@1.1.0
+- pkg:nuget/SharpGrip.FileSystem.Adapters.GoogleDrive@1.2.0
+- pkg:nuget/SharpGrip.FileSystem.Adapters.GoogleDrive@1.2.1

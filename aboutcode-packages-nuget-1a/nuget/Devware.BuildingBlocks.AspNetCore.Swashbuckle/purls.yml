@@ -1,0 +1,3 @@
+- pkg:nuget/Devware.BuildingBlocks.AspNetCore.Swashbuckle@0.0.3
+- pkg:nuget/Devware.BuildingBlocks.AspNetCore.Swashbuckle@0.1.0
+- pkg:nuget/Devware.BuildingBlocks.AspNetCore.Swashbuckle@0.1.1

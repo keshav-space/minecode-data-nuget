@@ -1,0 +1,10 @@
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@4.0.0
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@4.0.1
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@4.0.2
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@5.0.0
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@5.0.2
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@6.0.0
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@6.0.1
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@6.0.2
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@7.0.0
+- pkg:nuget/Octopus.Client.Extensibility.JiraIntegration@7.0.1

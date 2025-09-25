@@ -1,0 +1,4 @@
+- pkg:nuget/PommaLabs.Aspire.Hosting.MinIO@9.2.0%2B2f7386c0
+- pkg:nuget/PommaLabs.Aspire.Hosting.MinIO@9.2.1%2B43e267c7
+- pkg:nuget/PommaLabs.Aspire.Hosting.MinIO@9.3.0%2B06bd2548
+- pkg:nuget/PommaLabs.Aspire.Hosting.MinIO@9.3.1%2B0c773f4a

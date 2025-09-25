@@ -1,0 +1,8 @@
+- pkg:nuget/OLT.Core.Exception.Abstractions@8.4.0-beta-0005
+- pkg:nuget/OLT.Core.Exception.Abstractions@8.4.0-beta-0010
+- pkg:nuget/OLT.Core.Exception.Abstractions@9.0.0
+- pkg:nuget/OLT.Core.Exception.Abstractions@9.0.0-beta-0005
+- pkg:nuget/OLT.Core.Exception.Abstractions@9.0.0-beta-0007
+- pkg:nuget/OLT.Core.Exception.Abstractions@9.0.0-beta-0009
+- pkg:nuget/OLT.Core.Exception.Abstractions@9.0.0-beta-0011
+- pkg:nuget/OLT.Core.Exception.Abstractions@9.0.0-beta-0013
