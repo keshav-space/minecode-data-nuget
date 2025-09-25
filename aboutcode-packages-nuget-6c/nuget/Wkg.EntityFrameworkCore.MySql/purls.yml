@@ -1,0 +1,5 @@
+- pkg:nuget/Wkg.EntityFrameworkCore.MySql@0.0.0-CI-INJECTED
+- pkg:nuget/Wkg.EntityFrameworkCore.MySql@8.2.17562
+- pkg:nuget/Wkg.EntityFrameworkCore.MySql@9.0.17856
+- pkg:nuget/Wkg.EntityFrameworkCore.MySql@9.0.18000-dev
+- pkg:nuget/Wkg.EntityFrameworkCore.MySql@9.0.18640

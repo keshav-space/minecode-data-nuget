@@ -1,0 +1,2 @@
+- pkg:nuget/PublicFunction.Security.User.Authentication.JwtTokenAlgorithm_HMACSHA256@1.0.0
+- pkg:nuget/PublicFunction.Security.User.Authentication.JwtTokenAlgorithm_HMACSHA256@1.0.1

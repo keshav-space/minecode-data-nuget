@@ -1,0 +1,15 @@
+- pkg:nuget/Flaminco.MinimalMediatR@0.0.1
+- pkg:nuget/Flaminco.MinimalMediatR@0.0.2
+- pkg:nuget/Flaminco.MinimalMediatR@0.0.3
+- pkg:nuget/Flaminco.MinimalMediatR@0.0.4
+- pkg:nuget/Flaminco.MinimalMediatR@0.0.5
+- pkg:nuget/Flaminco.MinimalMediatR@0.0.6
+- pkg:nuget/Flaminco.MinimalMediatR@2.0.0
+- pkg:nuget/Flaminco.MinimalMediatR@2.1.0
+- pkg:nuget/Flaminco.MinimalMediatR@2.1.1
+- pkg:nuget/Flaminco.MinimalMediatR@2.1.2
+- pkg:nuget/Flaminco.MinimalMediatR@2.1.3
+- pkg:nuget/Flaminco.MinimalMediatR@2.1.4
+- pkg:nuget/Flaminco.MinimalMediatR@2.1.6
+- pkg:nuget/Flaminco.MinimalMediatR@2.1.7
+- pkg:nuget/Flaminco.MinimalMediatR@2.1.8

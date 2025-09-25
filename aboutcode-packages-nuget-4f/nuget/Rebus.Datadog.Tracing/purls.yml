@@ -1,0 +1,10 @@
+- pkg:nuget/Rebus.Datadog.Tracing@0.0.9
+- pkg:nuget/Rebus.Datadog.Tracing@0.1.10
+- pkg:nuget/Rebus.Datadog.Tracing@0.1.9
+- pkg:nuget/Rebus.Datadog.Tracing@1.0.0
+- pkg:nuget/Rebus.Datadog.Tracing@1.1.0
+- pkg:nuget/Rebus.Datadog.Tracing@2.0.0
+- pkg:nuget/Rebus.Datadog.Tracing@3.0.0
+- pkg:nuget/Rebus.Datadog.Tracing@4.0.0
+- pkg:nuget/Rebus.Datadog.Tracing@4.0.0-beta
+- pkg:nuget/Rebus.Datadog.Tracing@4.0.2

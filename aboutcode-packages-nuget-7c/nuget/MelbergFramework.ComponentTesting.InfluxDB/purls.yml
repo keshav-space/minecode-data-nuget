@@ -1,0 +1,3 @@
+- pkg:nuget/MelbergFramework.ComponentTesting.InfluxDB@8.0.1
+- pkg:nuget/MelbergFramework.ComponentTesting.InfluxDB@8.0.2
+- pkg:nuget/MelbergFramework.ComponentTesting.InfluxDB@8.0.3

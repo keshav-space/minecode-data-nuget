@@ -1,0 +1,10 @@
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@5.0.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@5.0.1
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@5.0.2
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@6.0.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@6.1.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@7.0.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@7.1.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@7.2.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@7.3.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Server@7.4.0

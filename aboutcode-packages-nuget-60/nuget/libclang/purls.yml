@@ -1,0 +1,16 @@
+- pkg:nuget/libclang@10.0.0
+- pkg:nuget/libclang@11.0.0
+- pkg:nuget/libclang@12.0.0
+- pkg:nuget/libclang@13.0.0
+- pkg:nuget/libclang@13.0.1
+- pkg:nuget/libclang@14.0.0
+- pkg:nuget/libclang@15.0.0
+- pkg:nuget/libclang@16.0.0
+- pkg:nuget/libclang@16.0.6
+- pkg:nuget/libclang@17.0.4
+- pkg:nuget/libclang@18.1.3
+- pkg:nuget/libclang@18.1.3.1
+- pkg:nuget/libclang@18.1.3.2
+- pkg:nuget/libclang@20.1.2
+- pkg:nuget/libclang@8.0.0
+- pkg:nuget/libclang@9.0.0

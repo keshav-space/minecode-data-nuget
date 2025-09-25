@@ -1,0 +1,9 @@
+- pkg:nuget/ColumnStore@2020.12.27
+- pkg:nuget/ColumnStore@2021.10.6
+- pkg:nuget/ColumnStore@2021.4.24
+- pkg:nuget/ColumnStore@2023.2.9
+- pkg:nuget/ColumnStore@2023.5.12
+- pkg:nuget/ColumnStore@2023.6.10
+- pkg:nuget/ColumnStore@2023.6.12
+- pkg:nuget/ColumnStore@2023.6.15
+- pkg:nuget/ColumnStore@2024.11.26

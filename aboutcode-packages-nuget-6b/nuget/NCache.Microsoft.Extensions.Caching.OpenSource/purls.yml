@@ -1,0 +1,6 @@
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.OpenSource@5.0.2
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.OpenSource@5.0.3
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.OpenSource@5.0.3.1
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.OpenSource@5.0.4
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.OpenSource@5.0.4.1
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.OpenSource@5.0.5

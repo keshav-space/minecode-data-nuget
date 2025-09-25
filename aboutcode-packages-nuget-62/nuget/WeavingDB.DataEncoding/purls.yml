@@ -1,0 +1,11 @@
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20190223-1
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20190303-1
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20190305-1
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20190305-2
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20190305-3
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20190311-1
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20190526-01
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20190703-01
+- pkg:nuget/WeavingDB.DataEncoding@1.0.0-preview-20191118-01
+- pkg:nuget/WeavingDB.DataEncoding@2.0.0
+- pkg:nuget/WeavingDB.DataEncoding@2.0.1

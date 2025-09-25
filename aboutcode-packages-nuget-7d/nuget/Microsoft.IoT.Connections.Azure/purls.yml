@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.IoT.Connections.Azure@0.6.1
+- pkg:nuget/Microsoft.IoT.Connections.Azure@0.6.2
+- pkg:nuget/Microsoft.IoT.Connections.Azure@0.7.0
+- pkg:nuget/Microsoft.IoT.Connections.Azure@0.7.1
+- pkg:nuget/Microsoft.IoT.Connections.Azure@0.7.5.12
+- pkg:nuget/Microsoft.IoT.Connections.Azure@0.7.5.13

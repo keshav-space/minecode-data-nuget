@@ -1,0 +1,7 @@
+- pkg:nuget/cloudscribe.Messaging.Sms@1.0.0-rc20160704
+- pkg:nuget/cloudscribe.Messaging.Sms@1.0.0-rc20160916
+- pkg:nuget/cloudscribe.Messaging.Sms@1.1.0
+- pkg:nuget/cloudscribe.Messaging.Sms@1.1.1
+- pkg:nuget/cloudscribe.Messaging.Sms@1.1.2
+- pkg:nuget/cloudscribe.Messaging.Sms@2.0.0
+- pkg:nuget/cloudscribe.Messaging.Sms@2.0.0-preview20170725

@@ -1,0 +1,11 @@
+- pkg:nuget/APF.Core.Vendors.Common@6.0.0.1
+- pkg:nuget/APF.Core.Vendors.Common@6.0.0.2
+- pkg:nuget/APF.Core.Vendors.Common@6.0.0.2-Beta-01
+- pkg:nuget/APF.Core.Vendors.Common@6.0.0.2-Beta-02
+- pkg:nuget/APF.Core.Vendors.Common@8.0.0.1
+- pkg:nuget/APF.Core.Vendors.Common@8.0.0.1-Beta-01
+- pkg:nuget/APF.Core.Vendors.Common@8.0.0.1-Beta-02
+- pkg:nuget/APF.Core.Vendors.Common@8.0.0.1-Beta-03
+- pkg:nuget/APF.Core.Vendors.Common@8.0.0.12-beta-migration
+- pkg:nuget/APF.Core.Vendors.Common@8.0.0.2
+- pkg:nuget/APF.Core.Vendors.Common@8.0.0.2-migration

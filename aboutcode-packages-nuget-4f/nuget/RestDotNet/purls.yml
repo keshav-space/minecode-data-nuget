@@ -1,0 +1,4 @@
+- pkg:nuget/RestDotNet@1.0.0-alpha
+- pkg:nuget/RestDotNet@1.0.0-beta
+- pkg:nuget/RestDotNet@1.0.0-beta2
+- pkg:nuget/RestDotNet@1.0.0-beta3

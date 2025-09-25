@@ -1,0 +1,6 @@
+- pkg:nuget/DogmaSolutions.EntityFrameworkCore.Checks@4.4.319
+- pkg:nuget/DogmaSolutions.EntityFrameworkCore.Checks@4.4.322
+- pkg:nuget/DogmaSolutions.EntityFrameworkCore.Checks@4.4.323
+- pkg:nuget/DogmaSolutions.EntityFrameworkCore.Checks@5.0.323
+- pkg:nuget/DogmaSolutions.EntityFrameworkCore.Checks@5.1.325
+- pkg:nuget/DogmaSolutions.EntityFrameworkCore.Checks@5.1.327

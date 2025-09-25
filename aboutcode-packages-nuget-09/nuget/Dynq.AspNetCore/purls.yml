@@ -1,0 +1,4 @@
+- pkg:nuget/Dynq.AspNetCore@0.0.1
+- pkg:nuget/Dynq.AspNetCore@0.0.2
+- pkg:nuget/Dynq.AspNetCore@0.0.3
+- pkg:nuget/Dynq.AspNetCore@2023.9.30.1

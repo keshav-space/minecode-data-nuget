@@ -1,0 +1,4 @@
+- pkg:nuget/Boswell.Client@0.10.0
+- pkg:nuget/Boswell.Client@0.11.0
+- pkg:nuget/Boswell.Client@0.12.0
+- pkg:nuget/Boswell.Client@0.13.0

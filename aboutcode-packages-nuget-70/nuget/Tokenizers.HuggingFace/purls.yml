@@ -1,0 +1,7 @@
+- pkg:nuget/Tokenizers.HuggingFace@0.1.0
+- pkg:nuget/Tokenizers.HuggingFace@1.0.0
+- pkg:nuget/Tokenizers.HuggingFace@1.0.1-experimental.1
+- pkg:nuget/Tokenizers.HuggingFace@1.21.4
+- pkg:nuget/Tokenizers.HuggingFace@1.21.4-rc.1
+- pkg:nuget/Tokenizers.HuggingFace@2.21.4
+- pkg:nuget/Tokenizers.HuggingFace@2.21.4-rc.0

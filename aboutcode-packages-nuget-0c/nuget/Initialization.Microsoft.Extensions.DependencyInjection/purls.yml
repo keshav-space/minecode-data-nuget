@@ -1,0 +1,2 @@
+- pkg:nuget/Initialization.Microsoft.Extensions.DependencyInjection@1.1.2
+- pkg:nuget/Initialization.Microsoft.Extensions.DependencyInjection@1.1.44

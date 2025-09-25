@@ -1,0 +1,5 @@
+- pkg:nuget/Extensions.Options.AutoBinder@0.0.7-beta.3c310e2
+- pkg:nuget/Extensions.Options.AutoBinder@1.0.0
+- pkg:nuget/Extensions.Options.AutoBinder@1.0.1
+- pkg:nuget/Extensions.Options.AutoBinder@1.1.0
+- pkg:nuget/Extensions.Options.AutoBinder@1.2.0-dev.9

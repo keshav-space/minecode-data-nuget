@@ -1,0 +1,13 @@
+- pkg:nuget/DevAccelerateIdentityAspNet@2.0.0
+- pkg:nuget/DevAccelerateIdentityAspNet@3.0.0
+- pkg:nuget/DevAccelerateIdentityAspNet@4.0.0-beta
+- pkg:nuget/DevAccelerateIdentityAspNet@4.2.0
+- pkg:nuget/DevAccelerateIdentityAspNet@4.3.0
+- pkg:nuget/DevAccelerateIdentityAspNet@4.3.1
+- pkg:nuget/DevAccelerateIdentityAspNet@4.3.2
+- pkg:nuget/DevAccelerateIdentityAspNet@5.0.0
+- pkg:nuget/DevAccelerateIdentityAspNet@6.0.0-preview1
+- pkg:nuget/DevAccelerateIdentityAspNet@6.0.0-preview2
+- pkg:nuget/DevAccelerateIdentityAspNet@6.0.0-preview3
+- pkg:nuget/DevAccelerateIdentityAspNet@6.0.0-preview4
+- pkg:nuget/DevAccelerateIdentityAspNet@6.0.0-preview5

@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.106
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.118
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.131
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.184
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.33
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.36
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.4
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.40
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.46
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.74
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.86
+- pkg:nuget/Microsoft.CrmSdk.XrmTooling.PackageDeployment.Core@9.1.0.90

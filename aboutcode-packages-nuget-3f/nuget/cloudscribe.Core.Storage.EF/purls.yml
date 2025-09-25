@@ -1,0 +1,5 @@
+- pkg:nuget/cloudscribe.Core.Storage.EF@1.0.0-rc20160704
+- pkg:nuget/cloudscribe.Core.Storage.EF@1.0.0-rc20160803
+- pkg:nuget/cloudscribe.Core.Storage.EF@1.0.0-rc20160821
+- pkg:nuget/cloudscribe.Core.Storage.EF@1.0.0-rc20160828
+- pkg:nuget/cloudscribe.Core.Storage.EF@1.0.0-rc20160916

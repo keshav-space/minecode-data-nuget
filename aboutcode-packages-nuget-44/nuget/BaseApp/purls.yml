@@ -1,0 +1,4 @@
+- pkg:nuget/BaseApp@1.0.0
+- pkg:nuget/BaseApp@2.0.0
+- pkg:nuget/BaseApp@3.0.0
+- pkg:nuget/BaseApp@5.0.0

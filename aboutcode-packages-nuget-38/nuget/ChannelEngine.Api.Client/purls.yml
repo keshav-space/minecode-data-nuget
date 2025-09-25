@@ -1,0 +1,5 @@
+- pkg:nuget/ChannelEngine.Api.Client@1.2.3
+- pkg:nuget/ChannelEngine.Api.Client@1.3.0
+- pkg:nuget/ChannelEngine.Api.Client@2.3.0
+- pkg:nuget/ChannelEngine.Api.Client@2.4.0
+- pkg:nuget/ChannelEngine.Api.Client@2.4.1

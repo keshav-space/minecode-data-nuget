@@ -1,0 +1,14 @@
+- pkg:nuget/AshLib@1.0.0
+- pkg:nuget/AshLib@2.0.0
+- pkg:nuget/AshLib@2.0.1
+- pkg:nuget/AshLib@2.1.0
+- pkg:nuget/AshLib@2.2.0
+- pkg:nuget/AshLib@3.0.1
+- pkg:nuget/AshLib@3.1.0
+- pkg:nuget/AshLib@3.2.0
+- pkg:nuget/AshLib@3.2.1
+- pkg:nuget/AshLib@3.2.2
+- pkg:nuget/AshLib@3.2.3
+- pkg:nuget/AshLib@3.3.0
+- pkg:nuget/AshLib@3.3.1
+- pkg:nuget/AshLib@3.4.0

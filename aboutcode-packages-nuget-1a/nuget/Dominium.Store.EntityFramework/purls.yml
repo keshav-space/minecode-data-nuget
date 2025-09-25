@@ -1,0 +1,3 @@
+- pkg:nuget/Dominium.Store.EntityFramework@1.0.0
+- pkg:nuget/Dominium.Store.EntityFramework@1.0.1
+- pkg:nuget/Dominium.Store.EntityFramework@2.0.0

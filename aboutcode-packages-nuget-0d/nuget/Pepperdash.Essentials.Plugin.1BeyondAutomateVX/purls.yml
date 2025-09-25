@@ -1,0 +1,8 @@
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.0.0
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.0.0-4series-csproj-updates.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.0.0-4series-csproj-updates.2
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.0.0-4series-csproj-updates.3
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.0.1-feature-add-interfaces-and-messengers.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.1.0-feature-add-IHasCameras.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.1.0-feature-add-interfaces-and-messengers.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.1BeyondAutomateVX@2.1.0-feature-add-interfaces-and-messengers.2

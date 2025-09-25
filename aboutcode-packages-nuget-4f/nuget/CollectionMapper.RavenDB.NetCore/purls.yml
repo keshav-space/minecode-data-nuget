@@ -1,0 +1,11 @@
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@1.0.0
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@1.0.1
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@2.0.0
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@2.0.1
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@2.0.2
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@2.1.0
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@2.2.0
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@5.0.0
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@5.0.1
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@5.4.100
+- pkg:nuget/CollectionMapper.RavenDB.NetCore@6.0.1

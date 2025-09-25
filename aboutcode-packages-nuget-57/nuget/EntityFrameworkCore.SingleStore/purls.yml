@@ -1,0 +1,6 @@
+- pkg:nuget/EntityFrameworkCore.SingleStore@6.0.2
+- pkg:nuget/EntityFrameworkCore.SingleStore@6.0.2-beta
+- pkg:nuget/EntityFrameworkCore.SingleStore@6.0.2-servicing
+- pkg:nuget/EntityFrameworkCore.SingleStore@7.0.0
+- pkg:nuget/EntityFrameworkCore.SingleStore@7.0.1
+- pkg:nuget/EntityFrameworkCore.SingleStore@8.0.0

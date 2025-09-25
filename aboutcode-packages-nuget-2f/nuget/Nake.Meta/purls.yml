@@ -1,0 +1,16 @@
+- pkg:nuget/Nake.Meta@3.0.0
+- pkg:nuget/Nake.Meta@3.0.0-RC2
+- pkg:nuget/Nake.Meta@3.0.0-RC3
+- pkg:nuget/Nake.Meta@3.0.0-alpha
+- pkg:nuget/Nake.Meta@3.0.0-alpha-10
+- pkg:nuget/Nake.Meta@3.0.0-alpha-3
+- pkg:nuget/Nake.Meta@3.0.0-alpha-5
+- pkg:nuget/Nake.Meta@3.0.0-alpha-6
+- pkg:nuget/Nake.Meta@3.0.0-alpha-7
+- pkg:nuget/Nake.Meta@3.0.0-alpha-8
+- pkg:nuget/Nake.Meta@3.0.0-alpha-9
+- pkg:nuget/Nake.Meta@3.0.0-beta-01
+- pkg:nuget/Nake.Meta@3.0.0-beta-02
+- pkg:nuget/Nake.Meta@3.2.1
+- pkg:nuget/Nake.Meta@4.0.0
+- pkg:nuget/Nake.Meta@4.0.0-dev

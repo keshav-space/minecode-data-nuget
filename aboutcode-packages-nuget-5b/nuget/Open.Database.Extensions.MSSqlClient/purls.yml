@@ -1,0 +1,10 @@
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@8.0.0
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@8.0.1
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@9.0.0
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@9.0.0-debug
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@9.0.1
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@9.0.1-debug
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@9.0.2
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@9.0.2-debug
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@9.0.3
+- pkg:nuget/Open.Database.Extensions.MSSqlClient@9.0.3-debug

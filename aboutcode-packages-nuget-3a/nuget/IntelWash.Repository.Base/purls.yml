@@ -1,0 +1,9 @@
+- pkg:nuget/IntelWash.Repository.Base@1.0.0.1-alpha
+- pkg:nuget/IntelWash.Repository.Base@1.0.1-alpha
+- pkg:nuget/IntelWash.Repository.Base@2.0.0
+- pkg:nuget/IntelWash.Repository.Base@2.0.0.1
+- pkg:nuget/IntelWash.Repository.Base@6.0.0
+- pkg:nuget/IntelWash.Repository.Base@6.2.0
+- pkg:nuget/IntelWash.Repository.Base@6.3.0
+- pkg:nuget/IntelWash.Repository.Base@6.5.0
+- pkg:nuget/IntelWash.Repository.Base@6.5.0.1

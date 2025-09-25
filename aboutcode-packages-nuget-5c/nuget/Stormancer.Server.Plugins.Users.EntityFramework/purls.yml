@@ -1,0 +1,8 @@
+- pkg:nuget/Stormancer.Server.Plugins.Users.EntityFramework@1.0.0-pre
+- pkg:nuget/Stormancer.Server.Plugins.Users.EntityFramework@1.0.0.1-pre
+- pkg:nuget/Stormancer.Server.Plugins.Users.EntityFramework@1.0.0.2-pre
+- pkg:nuget/Stormancer.Server.Plugins.Users.EntityFramework@1.0.0.4-pre
+- pkg:nuget/Stormancer.Server.Plugins.Users.EntityFramework@1.0.0.5-pre
+- pkg:nuget/Stormancer.Server.Plugins.Users.EntityFramework@1.0.0.6
+- pkg:nuget/Stormancer.Server.Plugins.Users.EntityFramework@1.0.0.6-pre
+- pkg:nuget/Stormancer.Server.Plugins.Users.EntityFramework@1.0.0.7-pre

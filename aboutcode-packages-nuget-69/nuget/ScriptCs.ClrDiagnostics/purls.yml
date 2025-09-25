@@ -1,0 +1,4 @@
+- pkg:nuget/ScriptCs.ClrDiagnostics@0.1.0-beta1
+- pkg:nuget/ScriptCs.ClrDiagnostics@0.1.2-beta
+- pkg:nuget/ScriptCs.ClrDiagnostics@0.1.3-beta
+- pkg:nuget/ScriptCs.ClrDiagnostics@0.1.4-beta

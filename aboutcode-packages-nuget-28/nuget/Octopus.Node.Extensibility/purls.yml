@@ -1,0 +1,9 @@
+- pkg:nuget/Octopus.Node.Extensibility@3.0.0
+- pkg:nuget/Octopus.Node.Extensibility@3.0.1
+- pkg:nuget/Octopus.Node.Extensibility@4.0.0
+- pkg:nuget/Octopus.Node.Extensibility@4.0.1
+- pkg:nuget/Octopus.Node.Extensibility@5.0.0
+- pkg:nuget/Octopus.Node.Extensibility@5.0.1
+- pkg:nuget/Octopus.Node.Extensibility@5.0.2
+- pkg:nuget/Octopus.Node.Extensibility@5.0.3
+- pkg:nuget/Octopus.Node.Extensibility@5.1.0

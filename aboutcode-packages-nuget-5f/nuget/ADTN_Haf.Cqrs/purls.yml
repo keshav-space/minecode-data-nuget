@@ -1,0 +1,4 @@
+- pkg:nuget/ADTN_Haf.Cqrs@0.0.0.1-alpha1
+- pkg:nuget/ADTN_Haf.Cqrs@1.0.0
+- pkg:nuget/ADTN_Haf.Cqrs@1.0.0.1
+- pkg:nuget/ADTN_Haf.Cqrs@1.0.0.2

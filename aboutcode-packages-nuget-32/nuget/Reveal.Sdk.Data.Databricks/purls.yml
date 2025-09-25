@@ -1,0 +1,4 @@
+- pkg:nuget/Reveal.Sdk.Data.Databricks@1.7.4
+- pkg:nuget/Reveal.Sdk.Data.Databricks@1.7.5
+- pkg:nuget/Reveal.Sdk.Data.Databricks@1.7.6
+- pkg:nuget/Reveal.Sdk.Data.Databricks@1.8.0

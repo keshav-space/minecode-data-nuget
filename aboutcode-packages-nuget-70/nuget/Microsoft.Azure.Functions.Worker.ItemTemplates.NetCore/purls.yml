@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.2941
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.2945
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.3038
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.3041
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.3062
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5006
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5022
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5032
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5035
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5040
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5044
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5049
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5051
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5086
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5192
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5196
+- pkg:nuget/Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore@4.0.5212

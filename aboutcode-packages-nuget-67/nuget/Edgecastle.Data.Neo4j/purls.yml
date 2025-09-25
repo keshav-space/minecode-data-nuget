@@ -1,0 +1,3 @@
+- pkg:nuget/Edgecastle.Data.Neo4j@1.0.0
+- pkg:nuget/Edgecastle.Data.Neo4j@1.0.1
+- pkg:nuget/Edgecastle.Data.Neo4j@1.0.2

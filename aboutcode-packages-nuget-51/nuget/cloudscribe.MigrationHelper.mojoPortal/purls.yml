@@ -1,0 +1,14 @@
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@1.0.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@3.0.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@3.0.0-preview20190901
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@3.1.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@3.1.1
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@3.1.2
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@5.0.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@6.0.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@8.0.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@8.0.1
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@8.1.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@8.2.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@8.3.0
+- pkg:nuget/cloudscribe.MigrationHelper.mojoPortal@8.4.0

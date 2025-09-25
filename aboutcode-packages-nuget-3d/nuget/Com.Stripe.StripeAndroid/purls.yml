@@ -1,0 +1,5 @@
+- pkg:nuget/Com.Stripe.StripeAndroid@20.40.4
+- pkg:nuget/Com.Stripe.StripeAndroid@20.46.0
+- pkg:nuget/Com.Stripe.StripeAndroid@20.48.0
+- pkg:nuget/Com.Stripe.StripeAndroid@20.48.3
+- pkg:nuget/Com.Stripe.StripeAndroid@21.3.1

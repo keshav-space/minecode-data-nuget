@@ -1,0 +1,11 @@
+- pkg:nuget/cloudscribe.DateTimeUtils@1.0.0
+- pkg:nuget/cloudscribe.DateTimeUtils@1.0.1
+- pkg:nuget/cloudscribe.DateTimeUtils@3.0.0
+- pkg:nuget/cloudscribe.DateTimeUtils@3.0.0-preview20190901
+- pkg:nuget/cloudscribe.DateTimeUtils@5.0.0
+- pkg:nuget/cloudscribe.DateTimeUtils@6.0.0
+- pkg:nuget/cloudscribe.DateTimeUtils@8.0.0
+- pkg:nuget/cloudscribe.DateTimeUtils@8.1.0
+- pkg:nuget/cloudscribe.DateTimeUtils@8.2.0
+- pkg:nuget/cloudscribe.DateTimeUtils@8.3.0
+- pkg:nuget/cloudscribe.DateTimeUtils@8.4.0

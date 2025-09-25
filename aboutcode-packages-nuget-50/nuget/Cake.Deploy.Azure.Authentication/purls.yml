@@ -1,0 +1,3 @@
+- pkg:nuget/Cake.Deploy.Azure.Authentication@0.1.0
+- pkg:nuget/Cake.Deploy.Azure.Authentication@0.2.0
+- pkg:nuget/Cake.Deploy.Azure.Authentication@0.3.0

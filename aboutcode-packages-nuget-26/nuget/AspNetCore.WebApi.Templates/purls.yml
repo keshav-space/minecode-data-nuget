@@ -1,0 +1,3 @@
+- pkg:nuget/AspNetCore.WebApi.Templates@1.0.0
+- pkg:nuget/AspNetCore.WebApi.Templates@1.0.0-beta
+- pkg:nuget/AspNetCore.WebApi.Templates@1.1.0

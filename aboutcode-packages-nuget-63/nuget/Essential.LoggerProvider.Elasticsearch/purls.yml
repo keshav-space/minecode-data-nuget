@@ -1,0 +1,4 @@
+- pkg:nuget/Essential.LoggerProvider.Elasticsearch@1.1.1
+- pkg:nuget/Essential.LoggerProvider.Elasticsearch@1.2.0
+- pkg:nuget/Essential.LoggerProvider.Elasticsearch@1.3.0
+- pkg:nuget/Essential.LoggerProvider.Elasticsearch@1.3.2

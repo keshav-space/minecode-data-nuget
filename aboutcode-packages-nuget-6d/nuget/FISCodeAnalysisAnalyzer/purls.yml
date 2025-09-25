@@ -1,0 +1,5 @@
+- pkg:nuget/FISCodeAnalysisAnalyzer@1.0.0
+- pkg:nuget/FISCodeAnalysisAnalyzer@1.0.1-rc
+- pkg:nuget/FISCodeAnalysisAnalyzer@10.0.0
+- pkg:nuget/FISCodeAnalysisAnalyzer@8.0.0
+- pkg:nuget/FISCodeAnalysisAnalyzer@9.0.0

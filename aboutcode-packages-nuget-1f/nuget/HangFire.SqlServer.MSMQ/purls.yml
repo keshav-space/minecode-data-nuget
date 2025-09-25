@@ -1,0 +1,6 @@
+- pkg:nuget/HangFire.SqlServer.MSMQ@0.8.1
+- pkg:nuget/HangFire.SqlServer.MSMQ@0.8.2
+- pkg:nuget/HangFire.SqlServer.MSMQ@0.8.3
+- pkg:nuget/HangFire.SqlServer.MSMQ@0.9.0
+- pkg:nuget/HangFire.SqlServer.MSMQ@0.9.1
+- pkg:nuget/HangFire.SqlServer.MSMQ@1.0.0-alpha1

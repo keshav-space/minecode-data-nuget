@@ -1,0 +1,14 @@
+- pkg:nuget/AspNetCore.ClassicBundles@1.0.0-tc-19
+- pkg:nuget/AspNetCore.ClassicBundles@1.0.0-tc-20
+- pkg:nuget/AspNetCore.ClassicBundles@1.0.0-tc-22
+- pkg:nuget/AspNetCore.ClassicBundles@1.0.0-tc-23
+- pkg:nuget/AspNetCore.ClassicBundles@1.0.0-tc-24
+- pkg:nuget/AspNetCore.ClassicBundles@1.0.0-tc-28
+- pkg:nuget/AspNetCore.ClassicBundles@1.0.0-tc-29
+- pkg:nuget/AspNetCore.ClassicBundles@2.0.0
+- pkg:nuget/AspNetCore.ClassicBundles@2.0.1
+- pkg:nuget/AspNetCore.ClassicBundles@2.0.2
+- pkg:nuget/AspNetCore.ClassicBundles@3.1.0
+- pkg:nuget/AspNetCore.ClassicBundles@5.0.0
+- pkg:nuget/AspNetCore.ClassicBundles@5.0.1
+- pkg:nuget/AspNetCore.ClassicBundles@5.0.2

@@ -1,0 +1,7 @@
+- pkg:nuget/JK.Common.EntityFrameworkCore.SqlServer@2.0.6
+- pkg:nuget/JK.Common.EntityFrameworkCore.SqlServer@2.0.9
+- pkg:nuget/JK.Common.EntityFrameworkCore.SqlServer@3.0.0
+- pkg:nuget/JK.Common.EntityFrameworkCore.SqlServer@3.0.1
+- pkg:nuget/JK.Common.EntityFrameworkCore.SqlServer@3.1.0
+- pkg:nuget/JK.Common.EntityFrameworkCore.SqlServer@3.2.0
+- pkg:nuget/JK.Common.EntityFrameworkCore.SqlServer@4.0.0

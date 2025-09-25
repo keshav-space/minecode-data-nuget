@@ -1,0 +1,8 @@
+- pkg:nuget/Lib.AspNetCore.Security@2.0.0
+- pkg:nuget/Lib.AspNetCore.Security@2.1.0
+- pkg:nuget/Lib.AspNetCore.Security@2.2.0
+- pkg:nuget/Lib.AspNetCore.Security@2.3.0
+- pkg:nuget/Lib.AspNetCore.Security@3.0.0
+- pkg:nuget/Lib.AspNetCore.Security@3.1.0
+- pkg:nuget/Lib.AspNetCore.Security@3.2.0
+- pkg:nuget/Lib.AspNetCore.Security@3.2.1

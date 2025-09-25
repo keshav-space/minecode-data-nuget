@@ -1,0 +1,11 @@
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@1.0.0
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@1.0.1
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@1.0.2
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@2.0.0
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@2.0.1
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@2.1.0
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@2.2.0
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@2.2.1
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@2.2.1.1
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@2.2.2
+- pkg:nuget/SparkyTestHelpers.AspNetMvc.Core@2.2.3

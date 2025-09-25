@@ -1,0 +1,6 @@
+- pkg:nuget/CoreSharp.Templates.Blazor.Wasm@5.0.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Wasm@5.0.1
+- pkg:nuget/CoreSharp.Templates.Blazor.Wasm@5.0.2
+- pkg:nuget/CoreSharp.Templates.Blazor.Wasm@6.0.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Wasm@6.1.0
+- pkg:nuget/CoreSharp.Templates.Blazor.Wasm@7.0.0

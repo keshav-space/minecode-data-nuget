@@ -1,0 +1,4 @@
+- pkg:nuget/SemVerTemplate@1.0.0
+- pkg:nuget/SemVerTemplate@1.0.0-beta.1
+- pkg:nuget/SemVerTemplate@1.0.0-beta.20
+- pkg:nuget/SemVerTemplate@1.0.0-beta.3

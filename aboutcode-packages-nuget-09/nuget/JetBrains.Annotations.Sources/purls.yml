@@ -1,0 +1,5 @@
+- pkg:nuget/JetBrains.Annotations.Sources@2025.1.0-eap3
+- pkg:nuget/JetBrains.Annotations.Sources@2025.1.0-eap4
+- pkg:nuget/JetBrains.Annotations.Sources@2025.2.0
+- pkg:nuget/JetBrains.Annotations.Sources@2025.2.1
+- pkg:nuget/JetBrains.Annotations.Sources@2025.2.2

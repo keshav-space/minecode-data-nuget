@@ -1,0 +1,16 @@
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@1.0.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@1.0.1
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@1.0.2
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@3.0.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@3.0.0-preview20190901
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@3.0.0-preview20190922
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@3.0.1
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@3.0.2
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@4.1.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@5.0.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@6.0.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@8.0.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@8.1.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@8.2.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@8.3.0
+- pkg:nuget/cloudscribe.EFCore.PostgreSql.Conventions@8.4.0

@@ -1,0 +1,13 @@
+- pkg:nuget/Shuttle.Esb.AmazonSqs@11.0.0
+- pkg:nuget/Shuttle.Esb.AmazonSqs@11.0.1
+- pkg:nuget/Shuttle.Esb.AmazonSqs@12.0.0
+- pkg:nuget/Shuttle.Esb.AmazonSqs@12.0.1
+- pkg:nuget/Shuttle.Esb.AmazonSqs@13.0.0
+- pkg:nuget/Shuttle.Esb.AmazonSqs@13.1.0
+- pkg:nuget/Shuttle.Esb.AmazonSqs@13.2.0
+- pkg:nuget/Shuttle.Esb.AmazonSqs@13.2.1
+- pkg:nuget/Shuttle.Esb.AmazonSqs@14.0.0
+- pkg:nuget/Shuttle.Esb.AmazonSqs@14.0.1
+- pkg:nuget/Shuttle.Esb.AmazonSqs@14.0.2
+- pkg:nuget/Shuttle.Esb.AmazonSqs@15.0.0
+- pkg:nuget/Shuttle.Esb.AmazonSqs@20.0.0

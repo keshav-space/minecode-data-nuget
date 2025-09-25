@@ -1,0 +1,16 @@
+- pkg:nuget/SharedNet2Library@1.0.0
+- pkg:nuget/SharedNet2Library@1.0.1
+- pkg:nuget/SharedNet2Library@1.0.2-alpha1
+- pkg:nuget/SharedNet2Library@1.1.0-rc
+- pkg:nuget/SharedNet2Library@1.2.0-beta
+- pkg:nuget/SharedNet2Library@1.2.1-beta
+- pkg:nuget/SharedNet2Library@1.2.2-beta
+- pkg:nuget/SharedNet2Library@1.2.3-beta
+- pkg:nuget/SharedNet2Library@1.2.4-beta
+- pkg:nuget/SharedNet2Library@1.2.5-beta
+- pkg:nuget/SharedNet2Library@1.2.6-beta
+- pkg:nuget/SharedNet2Library@19.10.14-beta1
+- pkg:nuget/SharedNet2Library@19.12.2-beta1
+- pkg:nuget/SharedNet2Library@19.9.23-beta1
+- pkg:nuget/SharedNet2Library@19.9.23-beta2
+- pkg:nuget/SharedNet2Library@19.9.9

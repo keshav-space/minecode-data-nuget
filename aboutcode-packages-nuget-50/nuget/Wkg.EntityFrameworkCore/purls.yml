@@ -1,0 +1,12 @@
+- pkg:nuget/Wkg.EntityFrameworkCore@0.0.0-CI-INJECTED
+- pkg:nuget/Wkg.EntityFrameworkCore@8.2.17545
+- pkg:nuget/Wkg.EntityFrameworkCore@8.2.17555
+- pkg:nuget/Wkg.EntityFrameworkCore@8.2.17585
+- pkg:nuget/Wkg.EntityFrameworkCore@8.2.17590
+- pkg:nuget/Wkg.EntityFrameworkCore@9.0.17800
+- pkg:nuget/Wkg.EntityFrameworkCore@9.0.17804-dev
+- pkg:nuget/Wkg.EntityFrameworkCore@9.0.17809-dev
+- pkg:nuget/Wkg.EntityFrameworkCore@9.0.17812
+- pkg:nuget/Wkg.EntityFrameworkCore@9.0.17995-dev
+- pkg:nuget/Wkg.EntityFrameworkCore@9.0.17998-dev
+- pkg:nuget/Wkg.EntityFrameworkCore@9.0.18636

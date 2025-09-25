@@ -1,0 +1,9 @@
+- pkg:nuget/Ubiquity.NET.Llvm@10.0.0
+- pkg:nuget/Ubiquity.NET.Llvm@10.0.0-alpha
+- pkg:nuget/Ubiquity.NET.Llvm@10.0.0-alpha.2
+- pkg:nuget/Ubiquity.NET.Llvm@10.0.0-alpha.3
+- pkg:nuget/Ubiquity.NET.Llvm@20.1.8-alpha
+- pkg:nuget/Ubiquity.NET.Llvm@20.1.8-alpha.0.1
+- pkg:nuget/Ubiquity.NET.Llvm@20.1.8-alpha.0.2
+- pkg:nuget/Ubiquity.NET.Llvm@20.1.8-beta
+- pkg:nuget/Ubiquity.NET.Llvm@20.1.8-delta

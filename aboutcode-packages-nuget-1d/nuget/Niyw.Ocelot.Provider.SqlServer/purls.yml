@@ -1,0 +1,5 @@
+- pkg:nuget/Niyw.Ocelot.Provider.SqlServer@0.1.0-alpha
+- pkg:nuget/Niyw.Ocelot.Provider.SqlServer@0.2.0
+- pkg:nuget/Niyw.Ocelot.Provider.SqlServer@0.2.0-alpha
+- pkg:nuget/Niyw.Ocelot.Provider.SqlServer@0.3.0
+- pkg:nuget/Niyw.Ocelot.Provider.SqlServer@0.4.0

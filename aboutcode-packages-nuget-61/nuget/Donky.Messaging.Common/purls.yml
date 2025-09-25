@@ -1,0 +1,4 @@
+- pkg:nuget/Donky.Messaging.Common@1.0.0-beta
+- pkg:nuget/Donky.Messaging.Common@1.1.1-beta
+- pkg:nuget/Donky.Messaging.Common@2.2.0
+- pkg:nuget/Donky.Messaging.Common@2.3.1

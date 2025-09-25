@@ -1,0 +1,10 @@
+- pkg:nuget/Pulumi.Std@0.1.0
+- pkg:nuget/Pulumi.Std@1.0.0
+- pkg:nuget/Pulumi.Std@1.1.0
+- pkg:nuget/Pulumi.Std@1.4.0
+- pkg:nuget/Pulumi.Std@1.6.2
+- pkg:nuget/Pulumi.Std@1.7.1
+- pkg:nuget/Pulumi.Std@1.7.2
+- pkg:nuget/Pulumi.Std@1.7.3
+- pkg:nuget/Pulumi.Std@2.1.0
+- pkg:nuget/Pulumi.Std@2.2.0

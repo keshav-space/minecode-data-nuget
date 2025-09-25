@@ -1,0 +1,8 @@
+- pkg:nuget/Dapper.MoqTests.Core@1.0.0
+- pkg:nuget/Dapper.MoqTests.Core@1.0.17
+- pkg:nuget/Dapper.MoqTests.Core@1.0.18
+- pkg:nuget/Dapper.MoqTests.Core@1.0.19
+- pkg:nuget/Dapper.MoqTests.Core@1.6.29
+- pkg:nuget/Dapper.MoqTests.Core@1.7.0
+- pkg:nuget/Dapper.MoqTests.Core@1.7.6
+- pkg:nuget/Dapper.MoqTests.Core@1.7.7

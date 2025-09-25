@@ -1,0 +1,6 @@
+- pkg:nuget/Hyperbee.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/Hyperbee.Extensions.DependencyInjection@2.0.1
+- pkg:nuget/Hyperbee.Extensions.DependencyInjection@2.0.1-null
+- pkg:nuget/Hyperbee.Extensions.DependencyInjection@2.0.2-null
+- pkg:nuget/Hyperbee.Extensions.DependencyInjection@2.0.3
+- pkg:nuget/Hyperbee.Extensions.DependencyInjection@2.0.3-develop.250414144300

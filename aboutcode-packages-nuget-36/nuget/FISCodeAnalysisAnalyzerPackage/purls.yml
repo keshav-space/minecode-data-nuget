@@ -1,0 +1,6 @@
+- pkg:nuget/FISCodeAnalysisAnalyzerPackage@2.0.0
+- pkg:nuget/FISCodeAnalysisAnalyzerPackage@3.0.0
+- pkg:nuget/FISCodeAnalysisAnalyzerPackage@4.0.0
+- pkg:nuget/FISCodeAnalysisAnalyzerPackage@5.0.0
+- pkg:nuget/FISCodeAnalysisAnalyzerPackage@6.0.0
+- pkg:nuget/FISCodeAnalysisAnalyzerPackage@7.0.0

@@ -1,0 +1,16 @@
+- pkg:nuget/Atlas.Common.AspNetCore@1.0.0
+- pkg:nuget/Atlas.Common.AspNetCore@1.1.0
+- pkg:nuget/Atlas.Common.AspNetCore@1.2.0
+- pkg:nuget/Atlas.Common.AspNetCore@2.0.0
+- pkg:nuget/Atlas.Common.AspNetCore@3.0.0
+- pkg:nuget/Atlas.Common.AspNetCore@4.0.0
+- pkg:nuget/Atlas.Common.AspNetCore@4.0.0-rc1
+- pkg:nuget/Atlas.Common.AspNetCore@4.0.0-rc2
+- pkg:nuget/Atlas.Common.AspNetCore@4.0.0-rc3
+- pkg:nuget/Atlas.Common.AspNetCore@4.0.0-rc4
+- pkg:nuget/Atlas.Common.AspNetCore@4.0.1
+- pkg:nuget/Atlas.Common.AspNetCore@4.0.2
+- pkg:nuget/Atlas.Common.AspNetCore@4.1.0-DEV-416
+- pkg:nuget/Atlas.Common.AspNetCore@4.1.0-DEV-416-2
+- pkg:nuget/Atlas.Common.AspNetCore@4.1.0-DEV-416-3
+- pkg:nuget/Atlas.Common.AspNetCore@4.1.1

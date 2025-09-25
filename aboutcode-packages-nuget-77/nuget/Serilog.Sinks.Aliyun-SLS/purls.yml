@@ -1,0 +1,6 @@
+- pkg:nuget/Serilog.Sinks.Aliyun-SLS@0.1.0
+- pkg:nuget/Serilog.Sinks.Aliyun-SLS@0.2.0
+- pkg:nuget/Serilog.Sinks.Aliyun-SLS@1.0.0
+- pkg:nuget/Serilog.Sinks.Aliyun-SLS@1.1.0
+- pkg:nuget/Serilog.Sinks.Aliyun-SLS@1.2.0
+- pkg:nuget/Serilog.Sinks.Aliyun-SLS@1.2.1

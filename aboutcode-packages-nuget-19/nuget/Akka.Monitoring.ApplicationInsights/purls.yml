@@ -1,0 +1,7 @@
+- pkg:nuget/Akka.Monitoring.ApplicationInsights@0.4.0
+- pkg:nuget/Akka.Monitoring.ApplicationInsights@0.5.0
+- pkg:nuget/Akka.Monitoring.ApplicationInsights@0.5.1
+- pkg:nuget/Akka.Monitoring.ApplicationInsights@0.5.3
+- pkg:nuget/Akka.Monitoring.ApplicationInsights@0.7.0
+- pkg:nuget/Akka.Monitoring.ApplicationInsights@1.0.1
+- pkg:nuget/Akka.Monitoring.ApplicationInsights@1.1.0

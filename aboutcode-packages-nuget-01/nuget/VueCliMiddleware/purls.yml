@@ -1,0 +1,12 @@
+- pkg:nuget/VueCliMiddleware@2.1.1
+- pkg:nuget/VueCliMiddleware@2.2.0
+- pkg:nuget/VueCliMiddleware@2.2.1
+- pkg:nuget/VueCliMiddleware@3.0.0
+- pkg:nuget/VueCliMiddleware@3.0.0-preview6
+- pkg:nuget/VueCliMiddleware@3.0.0-preview7
+- pkg:nuget/VueCliMiddleware@3.0.0-preview7-1
+- pkg:nuget/VueCliMiddleware@3.1.0
+- pkg:nuget/VueCliMiddleware@3.1.1
+- pkg:nuget/VueCliMiddleware@3.1.2
+- pkg:nuget/VueCliMiddleware@5.0.0
+- pkg:nuget/VueCliMiddleware@6.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Wkg.AspNetCore.TestAdapters@0.0.0-CI-INJECTED
+- pkg:nuget/Wkg.AspNetCore.TestAdapters@8.2.17541
+- pkg:nuget/Wkg.AspNetCore.TestAdapters@8.2.17559
+- pkg:nuget/Wkg.AspNetCore.TestAdapters@8.2.17560
+- pkg:nuget/Wkg.AspNetCore.TestAdapters@9.0.17799

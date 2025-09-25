@@ -1,0 +1,2 @@
+- pkg:nuget/Raven.Serializer.WithMsgPack@1.0.1
+- pkg:nuget/Raven.Serializer.WithMsgPack@2.1.0

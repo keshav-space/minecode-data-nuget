@@ -1,0 +1,14 @@
+- pkg:nuget/cloudscribe.Core.Ldap@1.0.0
+- pkg:nuget/cloudscribe.Core.Ldap@3.0.0
+- pkg:nuget/cloudscribe.Core.Ldap@3.0.0-preview20190901
+- pkg:nuget/cloudscribe.Core.Ldap@4.1.0
+- pkg:nuget/cloudscribe.Core.Ldap@5.0.0
+- pkg:nuget/cloudscribe.Core.Ldap@6.0.0
+- pkg:nuget/cloudscribe.Core.Ldap@6.0.2
+- pkg:nuget/cloudscribe.Core.Ldap@6.0.3
+- pkg:nuget/cloudscribe.Core.Ldap@8.0.0
+- pkg:nuget/cloudscribe.Core.Ldap@8.0.1
+- pkg:nuget/cloudscribe.Core.Ldap@8.1.0
+- pkg:nuget/cloudscribe.Core.Ldap@8.2.0
+- pkg:nuget/cloudscribe.Core.Ldap@8.3.0
+- pkg:nuget/cloudscribe.Core.Ldap@8.4.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Wkg.EntityFrameworkCore.Oracle@0.0.0-CI-INJECTED
+- pkg:nuget/Wkg.EntityFrameworkCore.Oracle@8.2.17563
+- pkg:nuget/Wkg.EntityFrameworkCore.Oracle@9.0.17957
+- pkg:nuget/Wkg.EntityFrameworkCore.Oracle@9.0.18001-dev
+- pkg:nuget/Wkg.EntityFrameworkCore.Oracle@9.0.18639

@@ -1,0 +1,5 @@
+- pkg:nuget/GLaDOS.Hangfire@3.0.0.8
+- pkg:nuget/GLaDOS.Hangfire@3.0.0.9
+- pkg:nuget/GLaDOS.Hangfire@3.0.1
+- pkg:nuget/GLaDOS.Hangfire@4.0.0
+- pkg:nuget/GLaDOS.Hangfire@4.0.0.1

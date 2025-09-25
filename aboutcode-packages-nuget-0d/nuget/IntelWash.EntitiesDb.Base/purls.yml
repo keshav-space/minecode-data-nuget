@@ -1,0 +1,6 @@
+- pkg:nuget/IntelWash.EntitiesDb.Base@1.0.0.1-alpha
+- pkg:nuget/IntelWash.EntitiesDb.Base@2.0.0
+- pkg:nuget/IntelWash.EntitiesDb.Base@2.1.0
+- pkg:nuget/IntelWash.EntitiesDb.Base@6.0.0
+- pkg:nuget/IntelWash.EntitiesDb.Base@6.5.0
+- pkg:nuget/IntelWash.EntitiesDb.Base@6.5.0.1

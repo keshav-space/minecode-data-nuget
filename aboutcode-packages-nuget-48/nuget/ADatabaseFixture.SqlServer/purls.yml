@@ -1,0 +1,4 @@
+- pkg:nuget/ADatabaseFixture.SqlServer@0.1.0
+- pkg:nuget/ADatabaseFixture.SqlServer@0.3.0
+- pkg:nuget/ADatabaseFixture.SqlServer@0.4.0
+- pkg:nuget/ADatabaseFixture.SqlServer@0.4.1

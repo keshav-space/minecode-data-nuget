@@ -1,0 +1,7 @@
+- pkg:nuget/JK.Common.EntityFrameworkCore@2.0.6
+- pkg:nuget/JK.Common.EntityFrameworkCore@2.0.9
+- pkg:nuget/JK.Common.EntityFrameworkCore@3.0.0
+- pkg:nuget/JK.Common.EntityFrameworkCore@3.0.1
+- pkg:nuget/JK.Common.EntityFrameworkCore@4.0.0
+- pkg:nuget/JK.Common.EntityFrameworkCore@4.1.0
+- pkg:nuget/JK.Common.EntityFrameworkCore@5.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Samhammer.AspNetCore.HealthChecks.FilesystemDirectory@6.0.0
+- pkg:nuget/Samhammer.AspNetCore.HealthChecks.FilesystemDirectory@8.0.0
+- pkg:nuget/Samhammer.AspNetCore.HealthChecks.FilesystemDirectory@8.0.1
+- pkg:nuget/Samhammer.AspNetCore.HealthChecks.FilesystemDirectory@8.0.2

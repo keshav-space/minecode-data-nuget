@@ -1,0 +1,4 @@
+- pkg:nuget/Ktos.Build.GitVersion@1.0.0
+- pkg:nuget/Ktos.Build.GitVersion@1.0.1
+- pkg:nuget/Ktos.Build.GitVersion@1.0.2
+- pkg:nuget/Ktos.Build.GitVersion@1.1.0

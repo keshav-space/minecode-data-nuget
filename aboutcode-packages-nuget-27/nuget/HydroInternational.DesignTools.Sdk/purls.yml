@@ -1,0 +1,15 @@
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.0.0
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.0.0-beta
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.0.0-rc
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.0.0-rc2
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.0.0-rc3
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.0.0-rc4
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.0.1
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.1.0
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.1.0-rc
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.1.1
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.1.2
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.1.3
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.2.0%2B20c9a8afa798af5e603a66ea403903143e62d1e4
+- pkg:nuget/HydroInternational.DesignTools.Sdk@1.2.1-prerelease%2B52773606fc4d283ce68cf6c7a666d1828879a4b6
+- pkg:nuget/HydroInternational.DesignTools.Sdk@2.0.0

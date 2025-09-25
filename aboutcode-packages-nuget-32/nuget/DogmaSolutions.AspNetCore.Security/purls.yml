@@ -1,0 +1,14 @@
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@4.3.245
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@4.3.246
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@4.3.251
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@4.4.263
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@4.4.319
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@4.4.322
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@4.4.323
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@5.0.255
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@5.0.261
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@5.0.262
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@5.0.321
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@5.0.323
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@5.1.325
+- pkg:nuget/DogmaSolutions.AspNetCore.Security@5.1.327
