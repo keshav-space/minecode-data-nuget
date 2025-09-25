@@ -1,0 +1,4 @@
+- pkg:nuget/Marsonsoft.ApiClient@1.0.0
+- pkg:nuget/Marsonsoft.ApiClient@1.1.0
+- pkg:nuget/Marsonsoft.ApiClient@2.0.0
+- pkg:nuget/Marsonsoft.ApiClient@3.0.0

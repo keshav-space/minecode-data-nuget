@@ -1,0 +1,5 @@
+- pkg:nuget/OpenVision.Server.EntityFramework.SqlServer@1.0.0.3-alpha
+- pkg:nuget/OpenVision.Server.EntityFramework.SqlServer@1.0.0.4-alpha
+- pkg:nuget/OpenVision.Server.EntityFramework.SqlServer@1.0.0.5-alpha
+- pkg:nuget/OpenVision.Server.EntityFramework.SqlServer@1.0.0.6-alpha
+- pkg:nuget/OpenVision.Server.EntityFramework.SqlServer@1.0.0.7-alpha

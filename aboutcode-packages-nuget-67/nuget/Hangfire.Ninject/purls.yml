@@ -1,0 +1,6 @@
+- pkg:nuget/Hangfire.Ninject@1.0.0
+- pkg:nuget/Hangfire.Ninject@1.1.0
+- pkg:nuget/Hangfire.Ninject@1.2.0
+- pkg:nuget/Hangfire.Ninject@1.2.0-beta1
+- pkg:nuget/Hangfire.Ninject@2.0.0
+- pkg:nuget/Hangfire.Ninject@2.0.1

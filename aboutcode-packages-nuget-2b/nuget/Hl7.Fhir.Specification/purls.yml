@@ -1,0 +1,4 @@
+- pkg:nuget/Hl7.Fhir.Specification@0.11.2
+- pkg:nuget/Hl7.Fhir.Specification@0.11.3
+- pkg:nuget/Hl7.Fhir.Specification@0.11.4
+- pkg:nuget/Hl7.Fhir.Specification@0.11.5

@@ -1,0 +1,4 @@
+- pkg:nuget/FCP.Swashbuckle.AspNetCore.SwaggerUI.Versioning@1.0.0
+- pkg:nuget/FCP.Swashbuckle.AspNetCore.SwaggerUI.Versioning@1.0.1
+- pkg:nuget/FCP.Swashbuckle.AspNetCore.SwaggerUI.Versioning@1.1.0
+- pkg:nuget/FCP.Swashbuckle.AspNetCore.SwaggerUI.Versioning@2.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@8.1.0
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@8.2.0
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@8.2.1
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@8.3.0
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@8.3.1
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@8.4.0
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@8.5.0
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@9.0.0
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@9.0.1
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@9.1.0
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@9.2.0
+- pkg:nuget/DNVGL.One.Compute.WorkerHost.Kernel.Universal@9.3.0

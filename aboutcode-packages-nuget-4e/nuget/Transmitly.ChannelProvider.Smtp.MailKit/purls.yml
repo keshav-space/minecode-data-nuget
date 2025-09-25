@@ -1,0 +1,4 @@
+- pkg:nuget/Transmitly.ChannelProvider.Smtp.MailKit@0.1.0-6.e59e2a0
+- pkg:nuget/Transmitly.ChannelProvider.Smtp.MailKit@0.1.0-7.baf325e
+- pkg:nuget/Transmitly.ChannelProvider.Smtp.MailKit@0.2.0
+- pkg:nuget/Transmitly.ChannelProvider.Smtp.MailKit@0.2.1

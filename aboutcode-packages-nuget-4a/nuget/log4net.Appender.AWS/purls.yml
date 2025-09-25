@@ -1,0 +1,7 @@
+- pkg:nuget/log4net.Appender.AWS@1.0.4625
+- pkg:nuget/log4net.Appender.AWS@1.1.0
+- pkg:nuget/log4net.Appender.AWS@1.2.0
+- pkg:nuget/log4net.Appender.AWS@1.2.1
+- pkg:nuget/log4net.Appender.AWS@1.2.2
+- pkg:nuget/log4net.Appender.AWS@1.2.3
+- pkg:nuget/log4net.Appender.AWS@1.2.4

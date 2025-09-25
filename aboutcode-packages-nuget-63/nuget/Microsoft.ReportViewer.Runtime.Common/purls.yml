@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.ReportViewer.Runtime.Common@10.0.30319.1
+- pkg:nuget/Microsoft.ReportViewer.Runtime.Common@11.0.3452
+- pkg:nuget/Microsoft.ReportViewer.Runtime.Common@12.0.2402.15
+- pkg:nuget/Microsoft.ReportViewer.Runtime.Common@8.0.50727.42
+- pkg:nuget/Microsoft.ReportViewer.Runtime.Common@9.0.21022.8

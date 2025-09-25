@@ -1,0 +1,12 @@
+- pkg:nuget/Rook.Framework.MongoDb@1.0.0
+- pkg:nuget/Rook.Framework.MongoDb@2019.10.11.18
+- pkg:nuget/Rook.Framework.MongoDb@2019.10.11.20
+- pkg:nuget/Rook.Framework.MongoDb@2019.10.11.22
+- pkg:nuget/Rook.Framework.MongoDb@2019.10.13.24
+- pkg:nuget/Rook.Framework.MongoDb@2019.11.1.15
+- pkg:nuget/Rook.Framework.MongoDb@2019.11.2.26
+- pkg:nuget/Rook.Framework.MongoDb@2019.11.3.27
+- pkg:nuget/Rook.Framework.MongoDb@2019.11.3.28
+- pkg:nuget/Rook.Framework.MongoDb@2019.3.20.1
+- pkg:nuget/Rook.Framework.MongoDb@2019.3.24.2
+- pkg:nuget/Rook.Framework.MongoDb@2019.4.5.3

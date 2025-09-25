@@ -1,0 +1,4 @@
+- pkg:nuget/SharpZipLib.JetBrains.Stripped@0.86.0
+- pkg:nuget/SharpZipLib.JetBrains.Stripped@0.86.20150204.1
+- pkg:nuget/SharpZipLib.JetBrains.Stripped@0.87.20160802
+- pkg:nuget/SharpZipLib.JetBrains.Stripped@0.87.20161027.6

@@ -1,0 +1,4 @@
+- pkg:nuget/Prism.MEFExtensions@4.0.0
+- pkg:nuget/Prism.MEFExtensions@4.1.0
+- pkg:nuget/Prism.MEFExtensions@4.2.0-beta
+- pkg:nuget/Prism.MEFExtensions@5.0.0

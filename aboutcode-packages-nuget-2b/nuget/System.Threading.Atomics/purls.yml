@@ -1,0 +1,9 @@
+- pkg:nuget/System.Threading.Atomics@1.0.100
+- pkg:nuget/System.Threading.Atomics@1.0.141
+- pkg:nuget/System.Threading.Atomics@1.0.74-alpha
+- pkg:nuget/System.Threading.Atomics@1.0.78-beta
+- pkg:nuget/System.Threading.Atomics@1.0.80-rc1
+- pkg:nuget/System.Threading.Atomics@1.0.81-rc1
+- pkg:nuget/System.Threading.Atomics@1.0.82-rc2
+- pkg:nuget/System.Threading.Atomics@1.0.90-rc3
+- pkg:nuget/System.Threading.Atomics@1.0.98-rc4

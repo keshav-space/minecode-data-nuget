@@ -1,0 +1,13 @@
+- pkg:nuget/NaCl.Core@1.0.0
+- pkg:nuget/NaCl.Core@1.0.1
+- pkg:nuget/NaCl.Core@1.0.2
+- pkg:nuget/NaCl.Core@1.0.3
+- pkg:nuget/NaCl.Core@1.1.0
+- pkg:nuget/NaCl.Core@1.2.0
+- pkg:nuget/NaCl.Core@2.0.0%2Bbuild.56
+- pkg:nuget/NaCl.Core@2.0.1%2Bbuild.60
+- pkg:nuget/NaCl.Core@2.0.2%2Bbuild.65
+- pkg:nuget/NaCl.Core@2.0.3%2Bbuild.78
+- pkg:nuget/NaCl.Core@2.0.4%2Bbuild.81
+- pkg:nuget/NaCl.Core@2.0.5%2Bbuild.123
+- pkg:nuget/NaCl.Core@2.0.6

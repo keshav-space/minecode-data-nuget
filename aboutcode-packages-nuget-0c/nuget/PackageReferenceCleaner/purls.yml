@@ -1,0 +1,6 @@
+- pkg:nuget/PackageReferenceCleaner@1.0.0
+- pkg:nuget/PackageReferenceCleaner@1.0.0-alpha
+- pkg:nuget/PackageReferenceCleaner@1.0.0-beta
+- pkg:nuget/PackageReferenceCleaner@1.0.0-rc
+- pkg:nuget/PackageReferenceCleaner@1.0.1
+- pkg:nuget/PackageReferenceCleaner@1.1.0

@@ -1,0 +1,13 @@
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@1.0.0
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@1.0.1
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@1.1.1
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@1.2.1
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@2.0.0
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@2.1.0
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@2.2.0
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@2.2.1
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@2.2.2
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@3.0.0
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@3.1.0
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@3.2.0
+- pkg:nuget/JqueryDataTables.ServerSide.AspNetCoreWeb@4.0.0

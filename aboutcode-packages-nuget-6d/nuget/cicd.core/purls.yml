@@ -1,0 +1,7 @@
+- pkg:nuget/cicd.core@1.0.0
+- pkg:nuget/cicd.core@1.0.17
+- pkg:nuget/cicd.core@1.0.18
+- pkg:nuget/cicd.core@1.0.19-alpha
+- pkg:nuget/cicd.core@1.0.20-alpha
+- pkg:nuget/cicd.core@1.0.21-alpha
+- pkg:nuget/cicd.core@16.0.0

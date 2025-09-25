@@ -1,0 +1,13 @@
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.0.0
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.0.1
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.0.2
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.0.3
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.1.0
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.1.0-vt-billing
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.1.0-x5post
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.1.1-vt-billing
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.1.1-x5post
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.1.2-vt-billing
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.1.2-x5post
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.2.0-vt-billing
+- pkg:nuget/MobSv.Customer.EASSync.Core@1.2.1-vt-billing

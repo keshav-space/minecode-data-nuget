@@ -1,0 +1,15 @@
+- pkg:nuget/extent.netcore@0.0.1-beta
+- pkg:nuget/extent.netcore@0.0.2-beta
+- pkg:nuget/extent.netcore@0.0.3-beta
+- pkg:nuget/extent.netcore@0.0.4-beta
+- pkg:nuget/extent.netcore@1.0.0
+- pkg:nuget/extent.netcore@1.1.0
+- pkg:nuget/extent.netcore@1.2.0
+- pkg:nuget/extent.netcore@1.3.0
+- pkg:nuget/extent.netcore@1.4.0
+- pkg:nuget/extent.netcore@1.5.0
+- pkg:nuget/extent.netcore@1.6.0
+- pkg:nuget/extent.netcore@1.6.1-beta
+- pkg:nuget/extent.netcore@1.7.0
+- pkg:nuget/extent.netcore@1.8.0
+- pkg:nuget/extent.netcore@1.9.0

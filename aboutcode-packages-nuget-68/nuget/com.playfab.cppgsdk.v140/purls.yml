@@ -1,0 +1,11 @@
+- pkg:nuget/com.playfab.cppgsdk.v140@0.1.181029-beta
+- pkg:nuget/com.playfab.cppgsdk.v140@0.1.181030-beta
+- pkg:nuget/com.playfab.cppgsdk.v140@0.2.181031-beta
+- pkg:nuget/com.playfab.cppgsdk.v140@0.3.181106
+- pkg:nuget/com.playfab.cppgsdk.v140@0.4.181110
+- pkg:nuget/com.playfab.cppgsdk.v140@0.5.181213
+- pkg:nuget/com.playfab.cppgsdk.v140@0.6.190103
+- pkg:nuget/com.playfab.cppgsdk.v140@0.7.190715
+- pkg:nuget/com.playfab.cppgsdk.v140@0.7.190918
+- pkg:nuget/com.playfab.cppgsdk.v140@0.7.200221
+- pkg:nuget/com.playfab.cppgsdk.v140@0.7.210520

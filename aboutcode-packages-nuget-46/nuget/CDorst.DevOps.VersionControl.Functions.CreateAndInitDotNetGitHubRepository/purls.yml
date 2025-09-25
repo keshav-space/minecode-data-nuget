@@ -1,0 +1,3 @@
+- pkg:nuget/CDorst.DevOps.VersionControl.Functions.CreateAndInitDotNetGitHubRepository@1.0.0
+- pkg:nuget/CDorst.DevOps.VersionControl.Functions.CreateAndInitDotNetGitHubRepository@1.0.1
+- pkg:nuget/CDorst.DevOps.VersionControl.Functions.CreateAndInitDotNetGitHubRepository@2.0.0

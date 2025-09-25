@@ -1,0 +1,4 @@
+- pkg:nuget/K9Nano.EfCore.MySql@1.0.0
+- pkg:nuget/K9Nano.EfCore.MySql@1.1.0
+- pkg:nuget/K9Nano.EfCore.MySql@1.1.1
+- pkg:nuget/K9Nano.EfCore.MySql@1.1.2

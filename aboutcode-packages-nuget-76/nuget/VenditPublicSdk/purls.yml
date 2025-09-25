@@ -1,0 +1,8 @@
+- pkg:nuget/VenditPublicSdk@2024.5.7.1
+- pkg:nuget/VenditPublicSdk@2024.5.7.2
+- pkg:nuget/VenditPublicSdk@2024.6.21.1
+- pkg:nuget/VenditPublicSdk@2025.1.20.1
+- pkg:nuget/VenditPublicSdk@2025.3.14.1
+- pkg:nuget/VenditPublicSdk@2025.5.23.1
+- pkg:nuget/VenditPublicSdk@2025.7.23.1
+- pkg:nuget/VenditPublicSdk@2025.9.2.1

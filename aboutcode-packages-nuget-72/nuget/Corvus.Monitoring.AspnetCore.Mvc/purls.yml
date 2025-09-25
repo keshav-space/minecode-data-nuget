@@ -1,0 +1,4 @@
+- pkg:nuget/Corvus.Monitoring.AspnetCore.Mvc@2.0.1
+- pkg:nuget/Corvus.Monitoring.AspnetCore.Mvc@2.0.1-aspnet-core-monitoring.7
+- pkg:nuget/Corvus.Monitoring.AspnetCore.Mvc@3.0.1
+- pkg:nuget/Corvus.Monitoring.AspnetCore.Mvc@4.0.0

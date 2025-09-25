@@ -1,0 +1,11 @@
+- pkg:nuget/AVOSCloud.NetFx45@0.0.1-beta
+- pkg:nuget/AVOSCloud.NetFx45@0.0.2-beta
+- pkg:nuget/AVOSCloud.NetFx45@0.0.2.1-beta
+- pkg:nuget/AVOSCloud.NetFx45@1.0.0-beta
+- pkg:nuget/AVOSCloud.NetFx45@1.0.0.1-beta
+- pkg:nuget/AVOSCloud.NetFx45@1.0.0.2-beta
+- pkg:nuget/AVOSCloud.NetFx45@1.0.0.4-beta
+- pkg:nuget/AVOSCloud.NetFx45@1.0.0.8-pre
+- pkg:nuget/AVOSCloud.NetFx45@1.0.0.9-pre
+- pkg:nuget/AVOSCloud.NetFx45@1.0.1-pre
+- pkg:nuget/AVOSCloud.NetFx45@1.0.1.1-pre

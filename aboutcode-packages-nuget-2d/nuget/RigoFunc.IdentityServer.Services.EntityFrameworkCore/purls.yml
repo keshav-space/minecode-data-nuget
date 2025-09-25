@@ -1,0 +1,5 @@
+- pkg:nuget/RigoFunc.IdentityServer.Services.EntityFrameworkCore@1.0.0
+- pkg:nuget/RigoFunc.IdentityServer.Services.EntityFrameworkCore@1.0.1
+- pkg:nuget/RigoFunc.IdentityServer.Services.EntityFrameworkCore@1.0.2
+- pkg:nuget/RigoFunc.IdentityServer.Services.EntityFrameworkCore@1.1.0-rc1
+- pkg:nuget/RigoFunc.IdentityServer.Services.EntityFrameworkCore@1.1.0-rc1-update1

@@ -1,0 +1,9 @@
+- pkg:nuget/SwaggerUI.OpenApi@0.7.0-alpha.4
+- pkg:nuget/SwaggerUI.OpenApi@1.0.0
+- pkg:nuget/SwaggerUI.OpenApi@1.1.0
+- pkg:nuget/SwaggerUI.OpenApi@1.2.0
+- pkg:nuget/SwaggerUI.OpenApi@2.0.0
+- pkg:nuget/SwaggerUI.OpenApi@2.1.1
+- pkg:nuget/SwaggerUI.OpenApi@2.2.0
+- pkg:nuget/SwaggerUI.OpenApi@2.3.0
+- pkg:nuget/SwaggerUI.OpenApi@2.4.0

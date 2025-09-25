@@ -1,0 +1,4 @@
+- pkg:nuget/KvalitetsIT.Prometheus.NetRuntime@0.0.1
+- pkg:nuget/KvalitetsIT.Prometheus.NetRuntime@0.0.2
+- pkg:nuget/KvalitetsIT.Prometheus.NetRuntime@0.0.3
+- pkg:nuget/KvalitetsIT.Prometheus.NetRuntime@1.0.0

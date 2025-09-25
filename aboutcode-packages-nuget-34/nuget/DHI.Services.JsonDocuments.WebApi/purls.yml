@@ -1,0 +1,8 @@
+- pkg:nuget/DHI.Services.JsonDocuments.WebApi@3.0.0
+- pkg:nuget/DHI.Services.JsonDocuments.WebApi@3.1.0
+- pkg:nuget/DHI.Services.JsonDocuments.WebApi@4.0.0
+- pkg:nuget/DHI.Services.JsonDocuments.WebApi@4.0.0-rc1
+- pkg:nuget/DHI.Services.JsonDocuments.WebApi@5.0.0-rc01
+- pkg:nuget/DHI.Services.JsonDocuments.WebApi@5.0.1
+- pkg:nuget/DHI.Services.JsonDocuments.WebApi@5.1.0
+- pkg:nuget/DHI.Services.JsonDocuments.WebApi@5.1.1

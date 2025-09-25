@@ -1,0 +1,12 @@
+- pkg:nuget/WebServicesTest.Core@0.1.0-ci0002
+- pkg:nuget/WebServicesTest.Core@1.0.0
+- pkg:nuget/WebServicesTest.Core@1.0.1-ci0001
+- pkg:nuget/WebServicesTest.Core@1.0.1-ci0002
+- pkg:nuget/WebServicesTest.Core@1.0.1-ci0003
+- pkg:nuget/WebServicesTest.Core@1.0.2
+- pkg:nuget/WebServicesTest.Core@1.0.3
+- pkg:nuget/WebServicesTest.Core@1.0.4-ci0002
+- pkg:nuget/WebServicesTest.Core@1.0.4-ci0003
+- pkg:nuget/WebServicesTest.Core@1.0.4-ci0004
+- pkg:nuget/WebServicesTest.Core@1.0.4-ci0006
+- pkg:nuget/WebServicesTest.Core@1.0.4-ci0008

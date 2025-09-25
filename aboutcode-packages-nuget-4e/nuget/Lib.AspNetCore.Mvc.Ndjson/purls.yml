@@ -1,0 +1,5 @@
+- pkg:nuget/Lib.AspNetCore.Mvc.Ndjson@1.0.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Ndjson@1.0.0-preview
+- pkg:nuget/Lib.AspNetCore.Mvc.Ndjson@1.1.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Ndjson@2.0.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Ndjson@3.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/RmBus.AzureServiceBus@0.0.3
+- pkg:nuget/RmBus.AzureServiceBus@7.0.1
+- pkg:nuget/RmBus.AzureServiceBus@7.0.2
+- pkg:nuget/RmBus.AzureServiceBus@7.0.3

@@ -1,0 +1,9 @@
+- pkg:nuget/ElectrumSharp@0.0.0.1
+- pkg:nuget/ElectrumSharp@0.0.0.2--date20240408-1045.git-5faa700
+- pkg:nuget/ElectrumSharp@0.0.0.2--date20240409-1035.git-f370ea1
+- pkg:nuget/ElectrumSharp@0.0.0.2--date20240409-1036.git-b076495
+- pkg:nuget/ElectrumSharp@0.0.0.2--date20240415-0102.git-b9d7841
+- pkg:nuget/ElectrumSharp@0.0.0.2--date20240415-0820.git-fcc7558
+- pkg:nuget/ElectrumSharp@0.0.0.2--date20240415-0926.git-5fea907
+- pkg:nuget/ElectrumSharp@0.0.0.2--date20240415-1231.git-fc9c478
+- pkg:nuget/ElectrumSharp@0.0.0.2--date20240416-0821.git-3367808

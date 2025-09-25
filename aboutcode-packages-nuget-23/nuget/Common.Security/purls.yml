@@ -1,0 +1,4 @@
+- pkg:nuget/Common.Security@1.0.0
+- pkg:nuget/Common.Security@2.0.0
+- pkg:nuget/Common.Security@2.1.0
+- pkg:nuget/Common.Security@3.0.0

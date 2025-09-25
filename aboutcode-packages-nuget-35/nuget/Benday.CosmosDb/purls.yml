@@ -1,0 +1,13 @@
+- pkg:nuget/Benday.CosmosDb@1.0.0
+- pkg:nuget/Benday.CosmosDb@2.0.0
+- pkg:nuget/Benday.CosmosDb@2.1.0
+- pkg:nuget/Benday.CosmosDb@3.0.0
+- pkg:nuget/Benday.CosmosDb@4.0.0
+- pkg:nuget/Benday.CosmosDb@4.2.0
+- pkg:nuget/Benday.CosmosDb@4.2.2
+- pkg:nuget/Benday.CosmosDb@4.3.0
+- pkg:nuget/Benday.CosmosDb@4.4.0
+- pkg:nuget/Benday.CosmosDb@4.5.0
+- pkg:nuget/Benday.CosmosDb@4.6.1
+- pkg:nuget/Benday.CosmosDb@4.7.1
+- pkg:nuget/Benday.CosmosDb@4.8.0

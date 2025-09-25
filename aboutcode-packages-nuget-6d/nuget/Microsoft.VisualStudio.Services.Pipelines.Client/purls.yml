@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.VisualStudio.Services.Pipelines.Client@16.176.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.Pipelines.Client@16.177.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.Pipelines.Client@16.177.1-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.Pipelines.Client@16.178.0-preview
