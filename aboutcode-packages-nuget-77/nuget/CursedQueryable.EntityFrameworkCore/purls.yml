@@ -1,0 +1,4 @@
+- pkg:nuget/CursedQueryable.EntityFrameworkCore@5.0.0
+- pkg:nuget/CursedQueryable.EntityFrameworkCore@6.0.0
+- pkg:nuget/CursedQueryable.EntityFrameworkCore@7.0.0
+- pkg:nuget/CursedQueryable.EntityFrameworkCore@8.0.0

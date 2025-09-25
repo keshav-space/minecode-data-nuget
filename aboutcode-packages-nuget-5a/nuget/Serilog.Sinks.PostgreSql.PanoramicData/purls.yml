@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Sinks.PostgreSql.PanoramicData@2.2.4
+- pkg:nuget/Serilog.Sinks.PostgreSql.PanoramicData@2.2.5
+- pkg:nuget/Serilog.Sinks.PostgreSql.PanoramicData@3.1.0
+- pkg:nuget/Serilog.Sinks.PostgreSql.PanoramicData@3.1.1

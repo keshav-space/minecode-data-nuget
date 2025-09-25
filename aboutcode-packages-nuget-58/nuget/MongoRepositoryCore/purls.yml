@@ -1,0 +1,4 @@
+- pkg:nuget/MongoRepositoryCore@0.10.1
+- pkg:nuget/MongoRepositoryCore@0.10.2
+- pkg:nuget/MongoRepositoryCore@0.9.0
+- pkg:nuget/MongoRepositoryCore@0.9.1

@@ -1,0 +1,4 @@
+- pkg:nuget/FunctionalIT.AzureFunction@0.0.1
+- pkg:nuget/FunctionalIT.AzureFunction@0.0.2
+- pkg:nuget/FunctionalIT.AzureFunction@0.0.2-alpha
+- pkg:nuget/FunctionalIT.AzureFunction@0.0.3

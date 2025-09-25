@@ -1,0 +1,3 @@
+- pkg:nuget/StackNucleus.DDD.Jobs.Quartz@1.0.0
+- pkg:nuget/StackNucleus.DDD.Jobs.Quartz@2.0.0
+- pkg:nuget/StackNucleus.DDD.Jobs.Quartz@3.0.0

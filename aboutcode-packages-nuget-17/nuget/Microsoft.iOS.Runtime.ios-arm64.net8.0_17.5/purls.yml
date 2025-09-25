@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.iOS.Runtime.ios-arm64.net8.0_17.5@17.5.8018%2Bsha.271132311
+- pkg:nuget/Microsoft.iOS.Runtime.ios-arm64.net8.0_17.5@17.5.8020%2Bsha.700c59ad0
+- pkg:nuget/Microsoft.iOS.Runtime.ios-arm64.net8.0_17.5@17.5.8030

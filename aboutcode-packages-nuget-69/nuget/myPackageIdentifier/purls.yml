@@ -1,0 +1,3 @@
+- pkg:nuget/myPackageIdentifier@1.0.0
+- pkg:nuget/myPackageIdentifier@2.0.0
+- pkg:nuget/myPackageIdentifier@3.0.0
