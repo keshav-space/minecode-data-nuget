@@ -1,0 +1,12 @@
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@0.1.0-alpha
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@0.1.2-alpha
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@0.2.601-alpha
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@0.3.291-beta
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@0.3.858-beta
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@0.3.860-beta
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@1.0.0
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@1.1.0
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@1.2.0
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@1.2.1
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@1.3.0
+- pkg:nuget/NewRelic.OpenTracing.AmazonLambda.Tracer@1.3.1

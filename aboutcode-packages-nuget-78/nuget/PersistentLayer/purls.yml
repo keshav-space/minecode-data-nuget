@@ -1,0 +1,17 @@
+- pkg:nuget/PersistentLayer@3.1.0.10
+- pkg:nuget/PersistentLayer@3.1.0.11
+- pkg:nuget/PersistentLayer@3.1.1.11
+- pkg:nuget/PersistentLayer@3.1.1.12
+- pkg:nuget/PersistentLayer@3.2.1.12
+- pkg:nuget/PersistentLayer@3.3.2.15
+- pkg:nuget/PersistentLayer@3.3.3.15
+- pkg:nuget/PersistentLayer@3.4.4.15
+- pkg:nuget/PersistentLayer@3.4.5.15
+- pkg:nuget/PersistentLayer@4.2.1.10
+- pkg:nuget/PersistentLayer@4.2.1.11
+- pkg:nuget/PersistentLayer@4.2.2.10
+- pkg:nuget/PersistentLayer@4.2.2.11
+- pkg:nuget/PersistentLayer@5.2.2.12
+- pkg:nuget/PersistentLayer@5.2.3.12
+- pkg:nuget/PersistentLayer@5.3.3.12
+- pkg:nuget/PersistentLayer@5.3.4.12

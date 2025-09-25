@@ -1,0 +1,8 @@
+- pkg:nuget/VL.Nvidia.CUDA@0.1.0-alpha1
+- pkg:nuget/VL.Nvidia.CUDA@0.1.0-alpha2
+- pkg:nuget/VL.Nvidia.CUDA@0.1.0-alpha3
+- pkg:nuget/VL.Nvidia.CUDA@0.1.0-alpha4
+- pkg:nuget/VL.Nvidia.CUDA@0.1.0-alpha5
+- pkg:nuget/VL.Nvidia.CUDA@0.1.0-beta1
+- pkg:nuget/VL.Nvidia.CUDA@0.2.0-beta1
+- pkg:nuget/VL.Nvidia.CUDA@0.2.1-beta1

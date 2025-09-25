@@ -1,0 +1,4 @@
+- pkg:nuget/Commander.Fody@0.0.1
+- pkg:nuget/Commander.Fody@0.0.2
+- pkg:nuget/Commander.Fody@0.8.0
+- pkg:nuget/Commander.Fody@0.8.1.2

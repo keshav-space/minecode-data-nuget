@@ -1,0 +1,12 @@
+- pkg:nuget/Aicrosoft.Extensions.NLog@6.1.1-beta.221203.1
+- pkg:nuget/Aicrosoft.Extensions.NLog@6.1.3
+- pkg:nuget/Aicrosoft.Extensions.NLog@6.1.4
+- pkg:nuget/Aicrosoft.Extensions.NLog@6.1.5
+- pkg:nuget/Aicrosoft.Extensions.NLog@6.1.7
+- pkg:nuget/Aicrosoft.Extensions.NLog@6.2.1
+- pkg:nuget/Aicrosoft.Extensions.NLog@6.3.2
+- pkg:nuget/Aicrosoft.Extensions.NLog@6.4.0
+- pkg:nuget/Aicrosoft.Extensions.NLog@8.2.0
+- pkg:nuget/Aicrosoft.Extensions.NLog@8.3.0
+- pkg:nuget/Aicrosoft.Extensions.NLog@8.5.0
+- pkg:nuget/Aicrosoft.Extensions.NLog@8.6.0

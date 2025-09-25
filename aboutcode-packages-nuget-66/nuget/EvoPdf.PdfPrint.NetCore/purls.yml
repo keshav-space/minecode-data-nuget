@@ -1,0 +1,3 @@
+- pkg:nuget/EvoPdf.PdfPrint.NetCore@10.0.0
+- pkg:nuget/EvoPdf.PdfPrint.NetCore@8.0.0
+- pkg:nuget/EvoPdf.PdfPrint.NetCore@9.0.0

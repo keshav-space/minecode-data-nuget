@@ -1,0 +1,16 @@
+- pkg:nuget/Noggin.NetCoreAuth@0.1.2
+- pkg:nuget/Noggin.NetCoreAuth@0.1.2-beta
+- pkg:nuget/Noggin.NetCoreAuth@0.1.3-beta
+- pkg:nuget/Noggin.NetCoreAuth@0.1.4-beta
+- pkg:nuget/Noggin.NetCoreAuth@0.2.0-beta
+- pkg:nuget/Noggin.NetCoreAuth@0.2.1-beta
+- pkg:nuget/Noggin.NetCoreAuth@0.3.0-beta
+- pkg:nuget/Noggin.NetCoreAuth@0.4.0
+- pkg:nuget/Noggin.NetCoreAuth@0.5.0
+- pkg:nuget/Noggin.NetCoreAuth@0.5.2
+- pkg:nuget/Noggin.NetCoreAuth@1.0.0-beta
+- pkg:nuget/Noggin.NetCoreAuth@1.1.0
+- pkg:nuget/Noggin.NetCoreAuth@1.1.0-beta
+- pkg:nuget/Noggin.NetCoreAuth@1.1.1
+- pkg:nuget/Noggin.NetCoreAuth@1.2.0
+- pkg:nuget/Noggin.NetCoreAuth@1.3.0

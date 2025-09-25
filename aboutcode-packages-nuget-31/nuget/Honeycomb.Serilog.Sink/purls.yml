@@ -1,0 +1,13 @@
+- pkg:nuget/Honeycomb.Serilog.Sink@0.5.5
+- pkg:nuget/Honeycomb.Serilog.Sink@0.6.0
+- pkg:nuget/Honeycomb.Serilog.Sink@0.7.0-beta.1
+- pkg:nuget/Honeycomb.Serilog.Sink@1.0.0
+- pkg:nuget/Honeycomb.Serilog.Sink@1.0.0-beta.1
+- pkg:nuget/Honeycomb.Serilog.Sink@1.0.0-beta.2
+- pkg:nuget/Honeycomb.Serilog.Sink@1.0.1-alpha.0.2
+- pkg:nuget/Honeycomb.Serilog.Sink@1.1.0
+- pkg:nuget/Honeycomb.Serilog.Sink@1.2.1
+- pkg:nuget/Honeycomb.Serilog.Sink@2.0.0
+- pkg:nuget/Honeycomb.Serilog.Sink@2.0.1
+- pkg:nuget/Honeycomb.Serilog.Sink@2.1.0
+- pkg:nuget/Honeycomb.Serilog.Sink@2.2.0

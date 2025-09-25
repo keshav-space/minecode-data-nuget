@@ -1,0 +1,6 @@
+- pkg:nuget/EvoPdf.HtmlToPdf.NetCore@10.0.0
+- pkg:nuget/EvoPdf.HtmlToPdf.NetCore@11.0.0
+- pkg:nuget/EvoPdf.HtmlToPdf.NetCore@12.0.0
+- pkg:nuget/EvoPdf.HtmlToPdf.NetCore@12.0.2
+- pkg:nuget/EvoPdf.HtmlToPdf.NetCore@8.0.0
+- pkg:nuget/EvoPdf.HtmlToPdf.NetCore@9.0.0

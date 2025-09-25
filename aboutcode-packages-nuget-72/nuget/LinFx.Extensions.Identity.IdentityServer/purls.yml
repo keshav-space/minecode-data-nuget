@@ -1,0 +1,9 @@
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@0.2.0
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@0.3.0
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@0.3.1
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@0.3.2
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@0.4.0-alpha3
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@4.5.0
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@4.6.0
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@4.6.1
+- pkg:nuget/LinFx.Extensions.Identity.IdentityServer@4.8.2

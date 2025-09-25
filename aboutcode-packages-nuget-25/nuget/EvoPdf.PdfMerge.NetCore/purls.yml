@@ -1,0 +1,3 @@
+- pkg:nuget/EvoPdf.PdfMerge.NetCore@10.0.0
+- pkg:nuget/EvoPdf.PdfMerge.NetCore@8.0.0
+- pkg:nuget/EvoPdf.PdfMerge.NetCore@9.0.0

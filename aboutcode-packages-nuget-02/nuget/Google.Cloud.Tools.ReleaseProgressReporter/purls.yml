@@ -1,0 +1,5 @@
+- pkg:nuget/Google.Cloud.Tools.ReleaseProgressReporter@0.2.1
+- pkg:nuget/Google.Cloud.Tools.ReleaseProgressReporter@0.3.0
+- pkg:nuget/Google.Cloud.Tools.ReleaseProgressReporter@0.4.0
+- pkg:nuget/Google.Cloud.Tools.ReleaseProgressReporter@0.4.1
+- pkg:nuget/Google.Cloud.Tools.ReleaseProgressReporter@0.4.2

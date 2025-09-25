@@ -1,0 +1,17 @@
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.0.0.1-beta1
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.0.0.1-beta2
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.0.0.1-beta3
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.0.0.1-beta4
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.0.0.1-beta5
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.0.0.1-beta6
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.0.0.2-beta6
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.0.0.3-beta6
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.0
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.0-beta1
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.0-beta2
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.0-beta3
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.0-beta4
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.0-beta5
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.0-beta6
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.0-beta7
+- pkg:nuget/eQuantic.Core.Data.MongoDb@1.1.1

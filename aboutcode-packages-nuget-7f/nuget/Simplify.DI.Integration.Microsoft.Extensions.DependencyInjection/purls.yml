@@ -1,0 +1,8 @@
+- pkg:nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection@1.0.0-pre01
+- pkg:nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection@1.0.0-pre02
+- pkg:nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection@1.0.0-pre03
+- pkg:nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection@1.1.0
+- pkg:nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection@1.1.1
+- pkg:nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection@1.2.0
+- pkg:nuget/Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection@1.3.0

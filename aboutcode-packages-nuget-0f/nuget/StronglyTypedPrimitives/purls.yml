@@ -1,0 +1,13 @@
+- pkg:nuget/StronglyTypedPrimitives@0.0.0-alpha.0.10
+- pkg:nuget/StronglyTypedPrimitives@0.0.0-alpha.0.23
+- pkg:nuget/StronglyTypedPrimitives@0.0.0-alpha.0.24
+- pkg:nuget/StronglyTypedPrimitives@0.0.0-alpha.0.26
+- pkg:nuget/StronglyTypedPrimitives@0.0.0-alpha.0.27
+- pkg:nuget/StronglyTypedPrimitives@0.0.0-alpha.0.32
+- pkg:nuget/StronglyTypedPrimitives@0.0.0-alpha.0.33
+- pkg:nuget/StronglyTypedPrimitives@1.0.1-alpha.0.2
+- pkg:nuget/StronglyTypedPrimitives@1.0.2
+- pkg:nuget/StronglyTypedPrimitives@1.0.3-alpha.0.1
+- pkg:nuget/StronglyTypedPrimitives@1.0.3-alpha.0.2
+- pkg:nuget/StronglyTypedPrimitives@1.0.3-alpha.0.3
+- pkg:nuget/StronglyTypedPrimitives@1.1.0

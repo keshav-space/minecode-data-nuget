@@ -1,0 +1,6 @@
+- pkg:nuget/MessageStorage.SqlServer.DependencyInjection@4.0.0
+- pkg:nuget/MessageStorage.SqlServer.DependencyInjection@4.0.0-develop-637599992653119649
+- pkg:nuget/MessageStorage.SqlServer.DependencyInjection@4.0.1
+- pkg:nuget/MessageStorage.SqlServer.DependencyInjection@4.0.4
+- pkg:nuget/MessageStorage.SqlServer.DependencyInjection@4.0.5
+- pkg:nuget/MessageStorage.SqlServer.DependencyInjection@5.0.0

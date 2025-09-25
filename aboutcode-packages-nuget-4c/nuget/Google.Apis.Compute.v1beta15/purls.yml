@@ -1,0 +1,14 @@
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.10-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.11-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.12-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.13-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.14-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.17-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.18-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.19-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.5.0.20-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.6.0.21-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.6.0.22-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.6.0.24-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.7.0.25-beta
+- pkg:nuget/Google.Apis.Compute.v1beta15@1.7.0.26-beta

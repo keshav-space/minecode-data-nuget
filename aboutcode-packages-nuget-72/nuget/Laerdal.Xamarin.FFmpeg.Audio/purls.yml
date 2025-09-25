@@ -1,0 +1,11 @@
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.1
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.13
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.17
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.23
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.23-beta.1
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.23-beta.2
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.23-beta.5
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.23-beta.9
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.4
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.8
+- pkg:nuget/Laerdal.Xamarin.FFmpeg.Audio@4.4.9

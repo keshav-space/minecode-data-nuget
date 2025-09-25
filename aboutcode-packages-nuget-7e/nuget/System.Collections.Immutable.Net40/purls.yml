@@ -1,0 +1,4 @@
+- pkg:nuget/System.Collections.Immutable.Net40@1.0.27
+- pkg:nuget/System.Collections.Immutable.Net40@1.0.27.14
+- pkg:nuget/System.Collections.Immutable.Net40@1.0.30.15
+- pkg:nuget/System.Collections.Immutable.Net40@1.0.30.17

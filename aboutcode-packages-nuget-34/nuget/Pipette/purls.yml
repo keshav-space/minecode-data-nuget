@@ -1,0 +1,5 @@
+- pkg:nuget/Pipette@8.0.0
+- pkg:nuget/Pipette@9.0.0
+- pkg:nuget/Pipette@9.1.0
+- pkg:nuget/Pipette@9.2.0
+- pkg:nuget/Pipette@9.3.0

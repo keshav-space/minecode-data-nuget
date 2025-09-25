@@ -1,0 +1,9 @@
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@0.1.5-alpha
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@7.0.0
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@7.0.1
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@7.2.1
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@8.0.0
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@8.0.1
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@8.2.0
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@8.2.1
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Abstractions@8.2.2

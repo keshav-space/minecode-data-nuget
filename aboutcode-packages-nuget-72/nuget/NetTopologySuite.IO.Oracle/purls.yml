@@ -1,0 +1,6 @@
+- pkg:nuget/NetTopologySuite.IO.Oracle@1.15.0
+- pkg:nuget/NetTopologySuite.IO.Oracle@1.15.1
+- pkg:nuget/NetTopologySuite.IO.Oracle@2.0.0
+- pkg:nuget/NetTopologySuite.IO.Oracle@2.0.0-pre001
+- pkg:nuget/NetTopologySuite.IO.Oracle@3.0.0
+- pkg:nuget/NetTopologySuite.IO.Oracle@4.0.0

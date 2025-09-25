@@ -1,0 +1,5 @@
+- pkg:nuget/EntityFramework.Patterns@0.2.0
+- pkg:nuget/EntityFramework.Patterns@0.5.0
+- pkg:nuget/EntityFramework.Patterns@0.6.0
+- pkg:nuget/EntityFramework.Patterns@0.7.0
+- pkg:nuget/EntityFramework.Patterns@0.8.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.ServiceFabric.Telemetry.ApplicationInsights@0.2.4-pre
+- pkg:nuget/Microsoft.ServiceFabric.Telemetry.ApplicationInsights@0.3.193-preview2

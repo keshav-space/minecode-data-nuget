@@ -1,0 +1,6 @@
+- pkg:nuget/EvoPdf.Client@1.0.0-alpha
+- pkg:nuget/EvoPdf.Client@1.0.1-alpha
+- pkg:nuget/EvoPdf.Client@10.0.0
+- pkg:nuget/EvoPdf.Client@10.0.2
+- pkg:nuget/EvoPdf.Client@11.0.0
+- pkg:nuget/EvoPdf.Client@12.0.0

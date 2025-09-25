@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.ServiceFabric.ReliableCollection.AspNetCore.Mesh@1.0.1951-beta
+- pkg:nuget/Microsoft.ServiceFabric.ReliableCollection.AspNetCore.Mesh@1.0.2841-beta
+- pkg:nuget/Microsoft.ServiceFabric.ReliableCollection.AspNetCore.Mesh@1.0.2941-beta
+- pkg:nuget/Microsoft.ServiceFabric.ReliableCollection.AspNetCore.Mesh@1.0.2978-beta
+- pkg:nuget/Microsoft.ServiceFabric.ReliableCollection.AspNetCore.Mesh@1.0.3008-beta

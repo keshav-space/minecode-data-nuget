@@ -1,0 +1,16 @@
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@1.2.9.3
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@1.2.9.4
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@1.2.9.7
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@1.2.9.8
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@1.3.1.9
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.11.1.12
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.11.1.13
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.14.1.13
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.16.1.14
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.2.1.10
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.2.1.9
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.6.1.11
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.6.2.11
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.7.1.11
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.8.1.11
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.VsTest@2.9.1.12

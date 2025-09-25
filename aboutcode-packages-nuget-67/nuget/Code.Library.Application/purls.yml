@@ -1,0 +1,16 @@
+- pkg:nuget/Code.Library.Application@1.0.0
+- pkg:nuget/Code.Library.Application@2.10.0
+- pkg:nuget/Code.Library.Application@2.11.0
+- pkg:nuget/Code.Library.Application@2.12.0
+- pkg:nuget/Code.Library.Application@2.12.1
+- pkg:nuget/Code.Library.Application@2.13.0
+- pkg:nuget/Code.Library.Application@2.13.1
+- pkg:nuget/Code.Library.Application@2.13.2
+- pkg:nuget/Code.Library.Application@2.13.3
+- pkg:nuget/Code.Library.Application@2.5.2
+- pkg:nuget/Code.Library.Application@2.6.0
+- pkg:nuget/Code.Library.Application@2.7.0
+- pkg:nuget/Code.Library.Application@2.8.0
+- pkg:nuget/Code.Library.Application@2.8.1
+- pkg:nuget/Code.Library.Application@2.9.0
+- pkg:nuget/Code.Library.Application@3.0.0

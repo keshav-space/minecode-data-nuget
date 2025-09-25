@@ -1,0 +1,15 @@
+- pkg:nuget/LinqToLdap@2.0.2
+- pkg:nuget/LinqToLdap@2.5.0
+- pkg:nuget/LinqToLdap@3.0.0
+- pkg:nuget/LinqToLdap@3.0.1
+- pkg:nuget/LinqToLdap@3.1.0
+- pkg:nuget/LinqToLdap@3.2.0
+- pkg:nuget/LinqToLdap@3.3.0
+- pkg:nuget/LinqToLdap@3.3.1
+- pkg:nuget/LinqToLdap@3.3.2
+- pkg:nuget/LinqToLdap@4.0.0
+- pkg:nuget/LinqToLdap@4.0.0-beta
+- pkg:nuget/LinqToLdap@4.1.0-preview
+- pkg:nuget/LinqToLdap@5.0.0
+- pkg:nuget/LinqToLdap@5.0.0-preview
+- pkg:nuget/LinqToLdap@5.0.0-preview2

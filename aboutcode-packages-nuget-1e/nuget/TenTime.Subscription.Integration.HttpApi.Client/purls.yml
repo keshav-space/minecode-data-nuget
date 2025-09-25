@@ -1,0 +1,3 @@
+- pkg:nuget/TenTime.Subscription.Integration.HttpApi.Client@1.0.0
+- pkg:nuget/TenTime.Subscription.Integration.HttpApi.Client@1.0.1
+- pkg:nuget/TenTime.Subscription.Integration.HttpApi.Client@2.0.0

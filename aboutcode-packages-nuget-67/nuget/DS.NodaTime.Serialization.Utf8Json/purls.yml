@@ -1,0 +1,6 @@
+- pkg:nuget/DS.NodaTime.Serialization.Utf8Json@0.1.0
+- pkg:nuget/DS.NodaTime.Serialization.Utf8Json@0.1.0-alpha0006
+- pkg:nuget/DS.NodaTime.Serialization.Utf8Json@0.1.0-alpha0007
+- pkg:nuget/DS.NodaTime.Serialization.Utf8Json@0.2.0
+- pkg:nuget/DS.NodaTime.Serialization.Utf8Json@0.3.0
+- pkg:nuget/DS.NodaTime.Serialization.Utf8Json@0.4.0

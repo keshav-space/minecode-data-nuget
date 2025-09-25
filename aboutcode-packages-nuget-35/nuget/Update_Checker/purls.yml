@@ -1,0 +1,6 @@
+- pkg:nuget/Update_Checker@0.1.0-beta
+- pkg:nuget/Update_Checker@0.2.0-beta
+- pkg:nuget/Update_Checker@0.2.1-SR
+- pkg:nuget/Update_Checker@0.2.11-SR
+- pkg:nuget/Update_Checker@0.3.0
+- pkg:nuget/Update_Checker@0.3.0-SR2

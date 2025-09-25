@@ -1,0 +1,11 @@
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@0.1.3-alpha
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@0.1.4-alpha
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@0.1.5-alpha
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@7.0.0
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@7.0.1
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@7.2.1
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@8.0.0
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@8.0.1
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@8.2.0
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@8.2.1
+- pkg:nuget/UFX.Orleans.SignalRBackplane.Client@8.2.2

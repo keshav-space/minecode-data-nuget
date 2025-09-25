@@ -1,0 +1,11 @@
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.0.0-alpha1
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.0.1
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.3.0
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.3.1
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.3.4
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.3.5
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.4.0-beta1
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.4.0-beta2
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.4.0-beta3
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.4.1
+- pkg:nuget/Porticle.Grpc.TypeMapper@1.5.0

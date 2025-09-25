@@ -1,0 +1,13 @@
+- pkg:nuget/Amg.Build.Cake@0.27.0
+- pkg:nuget/Amg.Build.Cake@0.28.0
+- pkg:nuget/Amg.Build.Cake@0.29.0
+- pkg:nuget/Amg.Build.Cake@0.29.10-ci0001
+- pkg:nuget/Amg.Build.Cake@0.29.11
+- pkg:nuget/Amg.Build.Cake@0.29.2
+- pkg:nuget/Amg.Build.Cake@0.29.3
+- pkg:nuget/Amg.Build.Cake@0.30.0
+- pkg:nuget/Amg.Build.Cake@0.32.1
+- pkg:nuget/Amg.Build.Cake@0.34.0
+- pkg:nuget/Amg.Build.Cake@0.35.0
+- pkg:nuget/Amg.Build.Cake@0.36.4
+- pkg:nuget/Amg.Build.Cake@0.43.0

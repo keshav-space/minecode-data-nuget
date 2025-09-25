@@ -1,0 +1,4 @@
+- pkg:nuget/Neolution.Extensions.Configuration.GoogleSecrets.AspNetCore@1.4.0
+- pkg:nuget/Neolution.Extensions.Configuration.GoogleSecrets.AspNetCore@1.4.0-alpha.0
+- pkg:nuget/Neolution.Extensions.Configuration.GoogleSecrets.AspNetCore@1.5.0
+- pkg:nuget/Neolution.Extensions.Configuration.GoogleSecrets.AspNetCore@1.6.0

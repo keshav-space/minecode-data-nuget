@@ -1,0 +1,8 @@
+- pkg:nuget/Fellowmind.OData.Client@4.2.0
+- pkg:nuget/Fellowmind.OData.Client@4.2.1
+- pkg:nuget/Fellowmind.OData.Client@4.2.2
+- pkg:nuget/Fellowmind.OData.Client@4.2.4-preview
+- pkg:nuget/Fellowmind.OData.Client@4.2.5-preview
+- pkg:nuget/Fellowmind.OData.Client@8.0.0
+- pkg:nuget/Fellowmind.OData.Client@8.0.0-preview
+- pkg:nuget/Fellowmind.OData.Client@8.1.0-preview

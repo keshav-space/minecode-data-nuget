@@ -1,0 +1,8 @@
+- pkg:nuget/OdataToEntity.EfCore.DynamicDataContext@2.4.0
+- pkg:nuget/OdataToEntity.EfCore.DynamicDataContext@2.5.0
+- pkg:nuget/OdataToEntity.EfCore.DynamicDataContext@2.5.0.2
+- pkg:nuget/OdataToEntity.EfCore.DynamicDataContext@2.5.1
+- pkg:nuget/OdataToEntity.EfCore.DynamicDataContext@2.6.0
+- pkg:nuget/OdataToEntity.EfCore.DynamicDataContext@2.6.1
+- pkg:nuget/OdataToEntity.EfCore.DynamicDataContext@2.7.0
+- pkg:nuget/OdataToEntity.EfCore.DynamicDataContext@2.8.0

@@ -1,0 +1,6 @@
+- pkg:nuget/LG.Microsoft.ML.TimeSeries@1.5.6-rc.1
+- pkg:nuget/LG.Microsoft.ML.TimeSeries@1.6.0
+- pkg:nuget/LG.Microsoft.ML.TimeSeries@1.6.0.1
+- pkg:nuget/LG.Microsoft.ML.TimeSeries@1.6.0.2
+- pkg:nuget/LG.Microsoft.ML.TimeSeries@1.6.0.3
+- pkg:nuget/LG.Microsoft.ML.TimeSeries@1.6.0.4

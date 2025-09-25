@@ -1,0 +1,5 @@
+- pkg:nuget/Ondo.Logging@1.0.0
+- pkg:nuget/Ondo.Logging@1.0.0-dev-00019
+- pkg:nuget/Ondo.Logging@2.0.0-appveyor-00014
+- pkg:nuget/Ondo.Logging@2.0.0-appveyor-local00004
+- pkg:nuget/Ondo.Logging@2.0.0-dev-00016

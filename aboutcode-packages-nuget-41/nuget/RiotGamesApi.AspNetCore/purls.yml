@@ -1,0 +1,15 @@
+- pkg:nuget/RiotGamesApi.AspNetCore@1.10.4.10
+- pkg:nuget/RiotGamesApi.AspNetCore@1.7.16.1134
+- pkg:nuget/RiotGamesApi.AspNetCore@1.7.18.1614
+- pkg:nuget/RiotGamesApi.AspNetCore@1.7.18.431
+- pkg:nuget/RiotGamesApi.AspNetCore@1.7.23.1609
+- pkg:nuget/RiotGamesApi.AspNetCore@1.7.23.2304
+- pkg:nuget/RiotGamesApi.AspNetCore@1.7.25.2125
+- pkg:nuget/RiotGamesApi.AspNetCore@1.7.27.339
+- pkg:nuget/RiotGamesApi.AspNetCore@1.8.10.306
+- pkg:nuget/RiotGamesApi.AspNetCore@1.8.11.2309
+- pkg:nuget/RiotGamesApi.AspNetCore@1.8.12.1606
+- pkg:nuget/RiotGamesApi.AspNetCore@1.8.6.2220
+- pkg:nuget/RiotGamesApi.AspNetCore@1.9.1.1804
+- pkg:nuget/RiotGamesApi.AspNetCore@1.9.29.2204
+- pkg:nuget/RiotGamesApi.AspNetCore@2.2.1.9999

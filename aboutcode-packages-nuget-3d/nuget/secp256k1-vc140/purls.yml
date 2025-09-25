@@ -1,0 +1,5 @@
+- pkg:nuget/secp256k1-vc140@0.1.0.16
+- pkg:nuget/secp256k1-vc140@0.1.0.17
+- pkg:nuget/secp256k1-vc140@0.1.0.18
+- pkg:nuget/secp256k1-vc140@0.1.0.19
+- pkg:nuget/secp256k1-vc140@0.1.0.20

@@ -1,0 +1,4 @@
+- pkg:nuget/Ondo.Logging.SerilogAdapter@1.0.0
+- pkg:nuget/Ondo.Logging.SerilogAdapter@1.0.0-dev-00019
+- pkg:nuget/Ondo.Logging.SerilogAdapter@2.0.0-appveyor-00014
+- pkg:nuget/Ondo.Logging.SerilogAdapter@2.0.0-dev-00016

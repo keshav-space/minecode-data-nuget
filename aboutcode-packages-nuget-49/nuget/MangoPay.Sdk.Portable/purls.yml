@@ -1,0 +1,4 @@
+- pkg:nuget/MangoPay.Sdk.Portable@1.0.0
+- pkg:nuget/MangoPay.Sdk.Portable@1.0.1
+- pkg:nuget/MangoPay.Sdk.Portable@1.0.1.1-beta
+- pkg:nuget/MangoPay.Sdk.Portable@1.0.1.2-beta

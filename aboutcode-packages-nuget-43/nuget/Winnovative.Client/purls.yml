@@ -1,0 +1,4 @@
+- pkg:nuget/Winnovative.Client@1.0.0-alpha
+- pkg:nuget/Winnovative.Client@17.0.0
+- pkg:nuget/Winnovative.Client@18.0.0
+- pkg:nuget/Winnovative.Client@19.0.0

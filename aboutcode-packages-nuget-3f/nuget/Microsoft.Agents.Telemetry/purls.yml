@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.137-alpha
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.141-alpha
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.146-alpha
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.151-alpha
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.153-alpha
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.154-alpha
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.162-alpha
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.171-alpha
+- pkg:nuget/Microsoft.Agents.Telemetry@0.2.180-alpha

@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.CrmSdk.Extensions@5.0.17
+- pkg:nuget/Microsoft.CrmSdk.Extensions@5.0.18
+- pkg:nuget/Microsoft.CrmSdk.Extensions@6.0.0
+- pkg:nuget/Microsoft.CrmSdk.Extensions@6.0.2
+- pkg:nuget/Microsoft.CrmSdk.Extensions@6.0.4
+- pkg:nuget/Microsoft.CrmSdk.Extensions@6.0.4.1
+- pkg:nuget/Microsoft.CrmSdk.Extensions@7.0.0.1
+- pkg:nuget/Microsoft.CrmSdk.Extensions@7.1.0
+- pkg:nuget/Microsoft.CrmSdk.Extensions@7.1.0-preview
+- pkg:nuget/Microsoft.CrmSdk.Extensions@7.1.0.1

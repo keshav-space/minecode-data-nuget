@@ -1,0 +1,5 @@
+- pkg:nuget/Dalamud.Extensions.MicrosoftLogging@1.0.0
+- pkg:nuget/Dalamud.Extensions.MicrosoftLogging@2.0.0
+- pkg:nuget/Dalamud.Extensions.MicrosoftLogging@3.0.0
+- pkg:nuget/Dalamud.Extensions.MicrosoftLogging@4.0.0
+- pkg:nuget/Dalamud.Extensions.MicrosoftLogging@4.0.1

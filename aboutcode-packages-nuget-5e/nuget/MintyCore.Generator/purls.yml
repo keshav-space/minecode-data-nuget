@@ -1,0 +1,5 @@
+- pkg:nuget/MintyCore.Generator@0.5.0-alpha2
+- pkg:nuget/MintyCore.Generator@0.5.1
+- pkg:nuget/MintyCore.Generator@0.5.3
+- pkg:nuget/MintyCore.Generator@0.6.0
+- pkg:nuget/MintyCore.Generator@0.7.5

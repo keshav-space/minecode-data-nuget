@@ -1,0 +1,15 @@
+- pkg:nuget/MFramework.Services.Business.Mongo@1.0.0
+- pkg:nuget/MFramework.Services.Business.Mongo@1.0.1
+- pkg:nuget/MFramework.Services.Business.Mongo@1.1.0
+- pkg:nuget/MFramework.Services.Business.Mongo@1.2.0
+- pkg:nuget/MFramework.Services.Business.Mongo@1.3.0
+- pkg:nuget/MFramework.Services.Business.Mongo@1.4.0
+- pkg:nuget/MFramework.Services.Business.Mongo@2.1.0
+- pkg:nuget/MFramework.Services.Business.Mongo@2.2.0
+- pkg:nuget/MFramework.Services.Business.Mongo@2.3.0
+- pkg:nuget/MFramework.Services.Business.Mongo@2.3.2
+- pkg:nuget/MFramework.Services.Business.Mongo@3.0.0
+- pkg:nuget/MFramework.Services.Business.Mongo@3.5.0
+- pkg:nuget/MFramework.Services.Business.Mongo@3.6.0
+- pkg:nuget/MFramework.Services.Business.Mongo@3.7.0
+- pkg:nuget/MFramework.Services.Business.Mongo@3.8.0

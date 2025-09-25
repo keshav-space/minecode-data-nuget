@@ -1,0 +1,7 @@
+- pkg:nuget/Maxsys.Core.Web@10.0.0
+- pkg:nuget/Maxsys.Core.Web@10.1.0
+- pkg:nuget/Maxsys.Core.Web@11.0.0
+- pkg:nuget/Maxsys.Core.Web@13.0.0
+- pkg:nuget/Maxsys.Core.Web@14.0.0
+- pkg:nuget/Maxsys.Core.Web@14.1.0
+- pkg:nuget/Maxsys.Core.Web@15.0.0

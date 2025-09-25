@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.0.0
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.0.0-beta2
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.0.0-rc1
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.0.1
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.0.2
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.0.3
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.1.0
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.1.1
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.1.2
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.2.0
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.2.1
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.2.2
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.2.2-preview1
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.2.3
+- pkg:nuget/Microsoft.AspNet.SignalR.i18n@2.3.0

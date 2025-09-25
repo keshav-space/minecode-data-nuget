@@ -1,0 +1,8 @@
+- pkg:nuget/igloo15.Serilog.Microsoft.Logging.Console@1.2.0-dev0007
+- pkg:nuget/igloo15.Serilog.Microsoft.Logging.Console@1.2.0-dev0008
+- pkg:nuget/igloo15.Serilog.Microsoft.Logging.Console@1.2.0-dev0010
+- pkg:nuget/igloo15.Serilog.Microsoft.Logging.Console@2.0.0
+- pkg:nuget/igloo15.Serilog.Microsoft.Logging.Console@2.0.1
+- pkg:nuget/igloo15.Serilog.Microsoft.Logging.Console@2.1.0
+- pkg:nuget/igloo15.Serilog.Microsoft.Logging.Console@2.1.0-alpha0005
+- pkg:nuget/igloo15.Serilog.Microsoft.Logging.Console@2.1.0-dev0003

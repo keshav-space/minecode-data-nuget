@@ -1,0 +1,3 @@
+- pkg:nuget/AspNetCoreRuntime.2.2.x86@2.2.0-preview1-35029
+- pkg:nuget/AspNetCoreRuntime.2.2.x86@2.2.0-preview2-35157
+- pkg:nuget/AspNetCoreRuntime.2.2.x86@2.2.0-preview3-35497

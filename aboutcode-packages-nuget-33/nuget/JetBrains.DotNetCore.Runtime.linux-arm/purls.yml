@@ -1,0 +1,14 @@
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@6.0.20220913.69
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@7.0.20221021.24
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@7.0.20221113.25
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@7.0.20221126.30
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@7.0.20230115.31
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@7.0.20230324.32
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@7.0.20230324.33
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@7.0.20230614.34
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@7.0.20230816.35
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@8.0.20240117.5
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@8.0.20240218.8
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@8.0.20240428.9
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@8.0.20241125.13
+- pkg:nuget/JetBrains.DotNetCore.Runtime.linux-arm@9.0.20250811.10

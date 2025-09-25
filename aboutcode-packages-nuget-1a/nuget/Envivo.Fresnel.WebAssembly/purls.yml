@@ -1,0 +1,9 @@
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.92.4-preview
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.92.5-preview
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.94.0-preview
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.94.2-preview
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.95.0-preview
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.96.0-preview
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.97.0-preview
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.98.0-preview
+- pkg:nuget/Envivo.Fresnel.WebAssembly@0.99.9-preview

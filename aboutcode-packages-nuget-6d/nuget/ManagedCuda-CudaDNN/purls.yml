@@ -1,0 +1,6 @@
+- pkg:nuget/ManagedCuda-CudaDNN@10.2.40
+- pkg:nuget/ManagedCuda-CudaDNN@10.2.41
+- pkg:nuget/ManagedCuda-CudaDNN@3.0.0
+- pkg:nuget/ManagedCuda-CudaDNN@5.0.0
+- pkg:nuget/ManagedCuda-CudaDNN@5.0.1
+- pkg:nuget/ManagedCuda-CudaDNN@8.0.22

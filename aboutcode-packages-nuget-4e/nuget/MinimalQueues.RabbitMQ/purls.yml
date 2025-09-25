@@ -1,0 +1,9 @@
+- pkg:nuget/MinimalQueues.RabbitMQ@0.0.1
+- pkg:nuget/MinimalQueues.RabbitMQ@0.0.1-alpha2
+- pkg:nuget/MinimalQueues.RabbitMQ@0.0.1-alpha3
+- pkg:nuget/MinimalQueues.RabbitMQ@1.0.0-rc-3
+- pkg:nuget/MinimalQueues.RabbitMQ@1.0.0-rc2
+- pkg:nuget/MinimalQueues.RabbitMQ@1.0.0-rc3
+- pkg:nuget/MinimalQueues.RabbitMQ@1.1.0
+- pkg:nuget/MinimalQueues.RabbitMQ@1.1.0-rc1
+- pkg:nuget/MinimalQueues.RabbitMQ@1.1.1

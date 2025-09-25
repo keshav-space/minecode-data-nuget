@@ -1,0 +1,11 @@
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@1.0.0
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@2.2.0
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@2.3.0
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@2.3.2
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@3.0.0
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@3.5.0
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@3.6.0
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@3.7.0
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@3.8.0
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@3.8.1
+- pkg:nuget/MFramework.Services.DataAccess.EntityFrameworkCore@3.8.2

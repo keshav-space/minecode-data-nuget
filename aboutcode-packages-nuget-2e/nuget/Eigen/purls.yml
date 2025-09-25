@@ -1,0 +1,11 @@
+- pkg:nuget/Eigen@3.2.0
+- pkg:nuget/Eigen@3.2.1
+- pkg:nuget/Eigen@3.2.2
+- pkg:nuget/Eigen@3.2.3
+- pkg:nuget/Eigen@3.2.4
+- pkg:nuget/Eigen@3.2.5
+- pkg:nuget/Eigen@3.2.6
+- pkg:nuget/Eigen@3.2.7
+- pkg:nuget/Eigen@3.2.8
+- pkg:nuget/Eigen@3.2.9
+- pkg:nuget/Eigen@3.3.3

@@ -1,0 +1,4 @@
+- pkg:nuget/NMoneys.Serialization.Raven_DB@2.0.0
+- pkg:nuget/NMoneys.Serialization.Raven_DB@3.0.0
+- pkg:nuget/NMoneys.Serialization.Raven_DB@4.0.0
+- pkg:nuget/NMoneys.Serialization.Raven_DB@4.0.0.1
