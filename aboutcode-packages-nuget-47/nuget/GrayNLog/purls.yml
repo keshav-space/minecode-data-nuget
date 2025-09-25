@@ -1,0 +1,11 @@
+- pkg:nuget/GrayNLog@1.0.0
+- pkg:nuget/GrayNLog@1.0.0-alpha.3
+- pkg:nuget/GrayNLog@1.0.0-alpha.4
+- pkg:nuget/GrayNLog@1.0.0-alpha.5
+- pkg:nuget/GrayNLog@1.0.0-beta.0
+- pkg:nuget/GrayNLog@1.0.0-beta.1
+- pkg:nuget/GrayNLog@1.0.1
+- pkg:nuget/GrayNLog@2.0.0
+- pkg:nuget/GrayNLog@2.0.0-alpha.0
+- pkg:nuget/GrayNLog@2.0.0-alpha.1
+- pkg:nuget/GrayNLog@2.0.0-beta.0

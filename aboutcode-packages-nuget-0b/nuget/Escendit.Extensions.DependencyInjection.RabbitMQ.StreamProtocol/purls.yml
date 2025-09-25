@@ -1,0 +1,5 @@
+- pkg:nuget/Escendit.Extensions.DependencyInjection.RabbitMQ.StreamProtocol@0.1.0-rc.160
+- pkg:nuget/Escendit.Extensions.DependencyInjection.RabbitMQ.StreamProtocol@0.1.0-rc.166
+- pkg:nuget/Escendit.Extensions.DependencyInjection.RabbitMQ.StreamProtocol@0.1.0-rc.169
+- pkg:nuget/Escendit.Extensions.DependencyInjection.RabbitMQ.StreamProtocol@0.1.0-rc.171
+- pkg:nuget/Escendit.Extensions.DependencyInjection.RabbitMQ.StreamProtocol@0.2.0

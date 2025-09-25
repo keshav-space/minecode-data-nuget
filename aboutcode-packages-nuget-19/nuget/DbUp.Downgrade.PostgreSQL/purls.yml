@@ -1,0 +1,10 @@
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@1.1.0
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.0.0
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.0.0-pre
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.0.1
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.1.0
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.2.0
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.3.0
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.3.1
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.4.0
+- pkg:nuget/DbUp.Downgrade.PostgreSQL@2.5.0

@@ -1,0 +1,17 @@
+- pkg:nuget/T4.FileManager.VisualStudio@1.0.1
+- pkg:nuget/T4.FileManager.VisualStudio@1.2.1
+- pkg:nuget/T4.FileManager.VisualStudio@1.2.4
+- pkg:nuget/T4.FileManager.VisualStudio@1.3.0
+- pkg:nuget/T4.FileManager.VisualStudio@1.3.1
+- pkg:nuget/T4.FileManager.VisualStudio@1.3.2
+- pkg:nuget/T4.FileManager.VisualStudio@1.3.3
+- pkg:nuget/T4.FileManager.VisualStudio@1.3.4
+- pkg:nuget/T4.FileManager.VisualStudio@2.0.0
+- pkg:nuget/T4.FileManager.VisualStudio@3.0.0
+- pkg:nuget/T4.FileManager.VisualStudio@3.1.0
+- pkg:nuget/T4.FileManager.VisualStudio@3.1.1
+- pkg:nuget/T4.FileManager.VisualStudio@3.1.2
+- pkg:nuget/T4.FileManager.VisualStudio@3.1.3
+- pkg:nuget/T4.FileManager.VisualStudio@4.0.0
+- pkg:nuget/T4.FileManager.VisualStudio@4.0.1
+- pkg:nuget/T4.FileManager.VisualStudio@4.0.2

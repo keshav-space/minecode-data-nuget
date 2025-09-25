@@ -1,0 +1,10 @@
+- pkg:nuget/Intelligent.Dal.MongoDb@5.0.0
+- pkg:nuget/Intelligent.Dal.MongoDb@5.0.1
+- pkg:nuget/Intelligent.Dal.MongoDb@5.0.2
+- pkg:nuget/Intelligent.Dal.MongoDb@5.0.3
+- pkg:nuget/Intelligent.Dal.MongoDb@6.0.1
+- pkg:nuget/Intelligent.Dal.MongoDb@6.0.2
+- pkg:nuget/Intelligent.Dal.MongoDb@8.0.0
+- pkg:nuget/Intelligent.Dal.MongoDb@8.1.0
+- pkg:nuget/Intelligent.Dal.MongoDb@8.5.0
+- pkg:nuget/Intelligent.Dal.MongoDb@8.6.0

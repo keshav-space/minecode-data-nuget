@@ -1,0 +1,7 @@
+- pkg:nuget/AspNet.Metrics@1.0.0
+- pkg:nuget/AspNet.Metrics@1.0.0-alpha
+- pkg:nuget/AspNet.Metrics@1.0.0-alpha-8
+- pkg:nuget/AspNet.Metrics@1.0.0-beta-1
+- pkg:nuget/AspNet.Metrics@1.0.0-rtm-1
+- pkg:nuget/AspNet.Metrics@1.0.0-rtm-2
+- pkg:nuget/AspNet.Metrics@1.0.0-rtm-3

@@ -1,0 +1,4 @@
+- pkg:nuget/Plugin.SpeechRecognition@1.0.0
+- pkg:nuget/Plugin.SpeechRecognition@1.0.0-beta1
+- pkg:nuget/Plugin.SpeechRecognition@1.0.0-beta2
+- pkg:nuget/Plugin.SpeechRecognition@1.0.0-beta3

@@ -1,0 +1,7 @@
+- pkg:nuget/Serilog.Sinks.MSSqlServerCoreEx@1.0.1-beta1
+- pkg:nuget/Serilog.Sinks.MSSqlServerCoreEx@1.0.1-beta2
+- pkg:nuget/Serilog.Sinks.MSSqlServerCoreEx@1.0.1-beta3
+- pkg:nuget/Serilog.Sinks.MSSqlServerCoreEx@1.0.1-beta4
+- pkg:nuget/Serilog.Sinks.MSSqlServerCoreEx@1.0.1-beta5
+- pkg:nuget/Serilog.Sinks.MSSqlServerCoreEx@1.0.1-beta6
+- pkg:nuget/Serilog.Sinks.MSSqlServerCoreEx@1.0.1-beta7

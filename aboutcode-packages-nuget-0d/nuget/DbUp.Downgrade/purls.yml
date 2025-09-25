@@ -1,0 +1,11 @@
+- pkg:nuget/DbUp.Downgrade@1.0.0
+- pkg:nuget/DbUp.Downgrade@1.1.0
+- pkg:nuget/DbUp.Downgrade@1.1.1-pre
+- pkg:nuget/DbUp.Downgrade@2.0.0
+- pkg:nuget/DbUp.Downgrade@2.0.1
+- pkg:nuget/DbUp.Downgrade@2.1.0
+- pkg:nuget/DbUp.Downgrade@2.2.0
+- pkg:nuget/DbUp.Downgrade@2.3.0
+- pkg:nuget/DbUp.Downgrade@2.3.1
+- pkg:nuget/DbUp.Downgrade@2.4.0
+- pkg:nuget/DbUp.Downgrade@2.5.0

@@ -1,0 +1,10 @@
+- pkg:nuget/FHIRbase.Net@1.0.2-alpha
+- pkg:nuget/FHIRbase.Net@1.0.3-alpha
+- pkg:nuget/FHIRbase.Net@1.0.4-alpha
+- pkg:nuget/FHIRbase.Net@1.0.5-alpha
+- pkg:nuget/FHIRbase.Net@1.1.0-beta
+- pkg:nuget/FHIRbase.Net@1.2.0
+- pkg:nuget/FHIRbase.Net@1.2.1
+- pkg:nuget/FHIRbase.Net@1.2.2
+- pkg:nuget/FHIRbase.Net@1.2.2-alpha3
+- pkg:nuget/FHIRbase.Net@1.2.3-alpha3

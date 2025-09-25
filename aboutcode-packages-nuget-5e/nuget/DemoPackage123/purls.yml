@@ -1,0 +1,7 @@
+- pkg:nuget/DemoPackage123@1.0.0
+- pkg:nuget/DemoPackage123@2.0.0
+- pkg:nuget/DemoPackage123@2.1.0
+- pkg:nuget/DemoPackage123@2.2.0
+- pkg:nuget/DemoPackage123@3.0.0
+- pkg:nuget/DemoPackage123@3.1.0
+- pkg:nuget/DemoPackage123@4.0.0

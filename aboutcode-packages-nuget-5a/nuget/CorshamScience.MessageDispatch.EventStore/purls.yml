@@ -1,0 +1,9 @@
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@10.0.0
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@2.0.1-company-change-u0001
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@3.0.0
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@3.0.1
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@5.0.0
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@6.0.0
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@7.0.0
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@8.0.0
+- pkg:nuget/CorshamScience.MessageDispatch.EventStore@9.0.0

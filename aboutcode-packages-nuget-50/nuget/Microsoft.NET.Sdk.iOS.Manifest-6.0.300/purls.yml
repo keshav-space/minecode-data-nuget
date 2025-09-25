@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.NET.Sdk.iOS.Manifest-6.0.300@15.4.100-rc.1.125%2Bsha.4b11b5ca0
+- pkg:nuget/Microsoft.NET.Sdk.iOS.Manifest-6.0.300@15.4.200-rc.2.191%2Bsha.0c1be0150
+- pkg:nuget/Microsoft.NET.Sdk.iOS.Manifest-6.0.300@15.4.300-rc.3.83%2Bsha.8fcb97a07
+- pkg:nuget/Microsoft.NET.Sdk.iOS.Manifest-6.0.300@15.4.303%2Bsha.ce10c913a
+- pkg:nuget/Microsoft.NET.Sdk.iOS.Manifest-6.0.300@15.4.311%2Bsha.170684c4a
+- pkg:nuget/Microsoft.NET.Sdk.iOS.Manifest-6.0.300@15.4.315%2Bsha.879be51c6
+- pkg:nuget/Microsoft.NET.Sdk.iOS.Manifest-6.0.300@15.4.328%2Bsha.75b8bcdf7

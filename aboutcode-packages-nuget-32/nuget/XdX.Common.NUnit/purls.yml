@@ -1,0 +1,6 @@
+- pkg:nuget/XdX.Common.NUnit@1.0.0
+- pkg:nuget/XdX.Common.NUnit@1.0.0-prerelease-26
+- pkg:nuget/XdX.Common.NUnit@1.0.0-prerelease-27
+- pkg:nuget/XdX.Common.NUnit@1.0.1
+- pkg:nuget/XdX.Common.NUnit@1.0.2
+- pkg:nuget/XdX.Common.NUnit@1.0.3

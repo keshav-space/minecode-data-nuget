@@ -1,0 +1,3 @@
+- pkg:nuget/InterlockLedger.Rest.Client@6.0.2
+- pkg:nuget/InterlockLedger.Rest.Client@7.0.0
+- pkg:nuget/InterlockLedger.Rest.Client@7.0.1

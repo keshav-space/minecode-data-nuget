@@ -1,0 +1,6 @@
+- pkg:nuget/WinFrame.Authentication.JwtBearer@23.5.5
+- pkg:nuget/WinFrame.Authentication.JwtBearer@23.5.5.1
+- pkg:nuget/WinFrame.Authentication.JwtBearer@23.7.25
+- pkg:nuget/WinFrame.Authentication.JwtBearer@23.7.26
+- pkg:nuget/WinFrame.Authentication.JwtBearer@23.7.27
+- pkg:nuget/WinFrame.Authentication.JwtBearer@23.7.28

@@ -1,0 +1,5 @@
+- pkg:nuget/Gcp.SecretManager.Provider@1.0.0
+- pkg:nuget/Gcp.SecretManager.Provider@1.0.1
+- pkg:nuget/Gcp.SecretManager.Provider@1.0.2
+- pkg:nuget/Gcp.SecretManager.Provider@1.1.0
+- pkg:nuget/Gcp.SecretManager.Provider@2.0.0

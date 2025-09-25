@@ -1,0 +1,6 @@
+- pkg:nuget/Thinktecture.Runtime.Extensions.AspNetCore.SourceGenerator@3.0.0-beta03
+- pkg:nuget/Thinktecture.Runtime.Extensions.AspNetCore.SourceGenerator@3.0.0-beta04
+- pkg:nuget/Thinktecture.Runtime.Extensions.AspNetCore.SourceGenerator@3.0.0-beta05
+- pkg:nuget/Thinktecture.Runtime.Extensions.AspNetCore.SourceGenerator@3.0.0-beta06
+- pkg:nuget/Thinktecture.Runtime.Extensions.AspNetCore.SourceGenerator@3.0.0-beta07
+- pkg:nuget/Thinktecture.Runtime.Extensions.AspNetCore.SourceGenerator@3.0.0-beta08

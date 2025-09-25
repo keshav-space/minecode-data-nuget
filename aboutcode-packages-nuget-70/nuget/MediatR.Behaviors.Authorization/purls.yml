@@ -1,0 +1,15 @@
+- pkg:nuget/MediatR.Behaviors.Authorization@1.0.0
+- pkg:nuget/MediatR.Behaviors.Authorization@1.0.1
+- pkg:nuget/MediatR.Behaviors.Authorization@1.0.2
+- pkg:nuget/MediatR.Behaviors.Authorization@1.0.3
+- pkg:nuget/MediatR.Behaviors.Authorization@1.1.0
+- pkg:nuget/MediatR.Behaviors.Authorization@1.2.0
+- pkg:nuget/MediatR.Behaviors.Authorization@10.0.0
+- pkg:nuget/MediatR.Behaviors.Authorization@11.1.0
+- pkg:nuget/MediatR.Behaviors.Authorization@11.1.1
+- pkg:nuget/MediatR.Behaviors.Authorization@12.0.0
+- pkg:nuget/MediatR.Behaviors.Authorization@12.0.1
+- pkg:nuget/MediatR.Behaviors.Authorization@12.0.2
+- pkg:nuget/MediatR.Behaviors.Authorization@12.1.1
+- pkg:nuget/MediatR.Behaviors.Authorization@12.2.0
+- pkg:nuget/MediatR.Behaviors.Authorization@12.5.0

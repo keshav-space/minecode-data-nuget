@@ -1,0 +1,5 @@
+- pkg:nuget/PlatformSpellCheck@0.0.2-alpha
+- pkg:nuget/PlatformSpellCheck@0.0.3-alpha
+- pkg:nuget/PlatformSpellCheck@0.1.0-beta
+- pkg:nuget/PlatformSpellCheck@1.0.0
+- pkg:nuget/PlatformSpellCheck@1.1.0

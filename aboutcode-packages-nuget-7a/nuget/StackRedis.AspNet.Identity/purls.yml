@@ -1,0 +1,6 @@
+- pkg:nuget/StackRedis.AspNet.Identity@1.0.0
+- pkg:nuget/StackRedis.AspNet.Identity@1.0.0-beta
+- pkg:nuget/StackRedis.AspNet.Identity@1.0.1
+- pkg:nuget/StackRedis.AspNet.Identity@1.0.2
+- pkg:nuget/StackRedis.AspNet.Identity@1.0.3
+- pkg:nuget/StackRedis.AspNet.Identity@1.0.4

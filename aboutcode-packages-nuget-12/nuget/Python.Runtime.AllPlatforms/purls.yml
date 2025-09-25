@@ -1,0 +1,5 @@
+- pkg:nuget/Python.Runtime.AllPlatforms@3.7.2
+- pkg:nuget/Python.Runtime.AllPlatforms@3.7.2.1
+- pkg:nuget/Python.Runtime.AllPlatforms@3.7.2.2
+- pkg:nuget/Python.Runtime.AllPlatforms@3.7.2.3
+- pkg:nuget/Python.Runtime.AllPlatforms@3.7.2.4

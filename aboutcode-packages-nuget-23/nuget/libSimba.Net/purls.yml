@@ -1,0 +1,5 @@
+- pkg:nuget/libSimba.Net@1.0.0
+- pkg:nuget/libSimba.Net@1.0.3
+- pkg:nuget/libSimba.Net@1.0.4-CI-20190930-151936
+- pkg:nuget/libSimba.Net@1.0.8
+- pkg:nuget/libSimba.Net@1.0.9

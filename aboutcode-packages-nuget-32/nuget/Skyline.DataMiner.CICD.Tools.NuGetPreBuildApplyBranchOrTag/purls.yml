@@ -1,0 +1,13 @@
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.0.2
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.0.3
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.0.4
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.1-1.0.0.X.19
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.1-1.0.0.X.20
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.1-1.0.0.X.7
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.1-1.0.0.X.8
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.2-beta1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@1.0.2-beta2
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@2.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetPreBuildApplyBranchOrTag@2.0.2

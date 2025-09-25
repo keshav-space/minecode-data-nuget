@@ -1,0 +1,13 @@
+- pkg:nuget/mlnet-win-arm64@16.13.4
+- pkg:nuget/mlnet-win-arm64@16.13.5
+- pkg:nuget/mlnet-win-arm64@16.13.6
+- pkg:nuget/mlnet-win-arm64@16.13.9
+- pkg:nuget/mlnet-win-arm64@16.14.0
+- pkg:nuget/mlnet-win-arm64@16.14.1
+- pkg:nuget/mlnet-win-arm64@16.14.2
+- pkg:nuget/mlnet-win-arm64@16.14.3
+- pkg:nuget/mlnet-win-arm64@16.15.0
+- pkg:nuget/mlnet-win-arm64@16.15.1
+- pkg:nuget/mlnet-win-arm64@16.17.17
+- pkg:nuget/mlnet-win-arm64@16.18.0
+- pkg:nuget/mlnet-win-arm64@16.18.2

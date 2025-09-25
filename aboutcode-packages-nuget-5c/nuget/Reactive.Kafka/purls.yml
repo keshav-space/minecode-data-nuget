@@ -1,0 +1,4 @@
+- pkg:nuget/Reactive.Kafka@1.0.0
+- pkg:nuget/Reactive.Kafka@1.0.14
+- pkg:nuget/Reactive.Kafka@1.0.15
+- pkg:nuget/Reactive.Kafka@1.0.16

@@ -1,0 +1,12 @@
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@0.1.0
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@0.1.0-rc1
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0-pre.1
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0-pre.2
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0-pre.3
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0-pre.4
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0-pre.5
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0-rc.1
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0-rc.2
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.0.0-rc.3
+- pkg:nuget/RSMassTransit.Client.AzureServiceBus.Core@1.1.0-pre.1

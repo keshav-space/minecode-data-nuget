@@ -1,0 +1,11 @@
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@0.6.0
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@0.7.0
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@0.7.1
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@0.8.0
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@2.0.0
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@5.0.0
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@5.0.1-ci0005-3010001
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@5.0.1-ci0006-d813ed5
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@6.0.0
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@6.0.0-ci0007-1428fc9
+- pkg:nuget/RetireNet.Runtimes.BackgroundServices@6.0.0-ci0010-363f59e

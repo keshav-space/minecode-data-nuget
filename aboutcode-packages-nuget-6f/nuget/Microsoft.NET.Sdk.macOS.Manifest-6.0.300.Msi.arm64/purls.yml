@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.300.Msi.arm64@12.3.200-rc.2.191
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.300.Msi.arm64@12.3.300-rc.3.83
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.300.Msi.arm64@12.3.303
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.300.Msi.arm64@12.3.311
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.300.Msi.arm64@12.3.315
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.300.Msi.arm64@12.3.328

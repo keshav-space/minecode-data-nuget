@@ -1,0 +1,5 @@
+- pkg:nuget/Anymate.Dotnet.Template.Worker@1.0.0
+- pkg:nuget/Anymate.Dotnet.Template.Worker@1.0.0-CI-20210207-165721
+- pkg:nuget/Anymate.Dotnet.Template.Worker@1.0.1
+- pkg:nuget/Anymate.Dotnet.Template.Worker@1.0.1-CI-20210207-175524
+- pkg:nuget/Anymate.Dotnet.Template.Worker@1.0.2

@@ -1,0 +1,17 @@
+- pkg:nuget/Rebus.Msmq@1.0.0-a01
+- pkg:nuget/Rebus.Msmq@2.0.0
+- pkg:nuget/Rebus.Msmq@2.0.0-b01
+- pkg:nuget/Rebus.Msmq@2.0.0-b02
+- pkg:nuget/Rebus.Msmq@2.0.1
+- pkg:nuget/Rebus.Msmq@3.0.0
+- pkg:nuget/Rebus.Msmq@4.0.0
+- pkg:nuget/Rebus.Msmq@4.0.0-b02
+- pkg:nuget/Rebus.Msmq@4.0.0-b03
+- pkg:nuget/Rebus.Msmq@4.0.0-b04
+- pkg:nuget/Rebus.Msmq@5.0.0
+- pkg:nuget/Rebus.Msmq@5.1.0
+- pkg:nuget/Rebus.Msmq@5.1.1
+- pkg:nuget/Rebus.Msmq@6.0.0
+- pkg:nuget/Rebus.Msmq@6.1.0
+- pkg:nuget/Rebus.Msmq@7.0.0
+- pkg:nuget/Rebus.Msmq@7.0.0-alpha01

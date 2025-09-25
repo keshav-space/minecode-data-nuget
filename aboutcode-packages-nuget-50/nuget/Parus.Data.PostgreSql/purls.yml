@@ -1,0 +1,4 @@
+- pkg:nuget/Parus.Data.PostgreSql@1.0.0
+- pkg:nuget/Parus.Data.PostgreSql@1.0.0-preview.1.189612951.15
+- pkg:nuget/Parus.Data.PostgreSql@1.0.0-preview.1.189619369.16
+- pkg:nuget/Parus.Data.PostgreSql@1.0.1

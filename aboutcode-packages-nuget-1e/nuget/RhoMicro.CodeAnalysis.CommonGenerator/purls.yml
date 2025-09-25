@@ -1,0 +1,13 @@
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@1.0.0
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@2.0.0
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@2.0.1
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@2.0.2
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@2.0.3
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@5.0.0
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@5.0.1
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@5.0.2
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@5.0.3
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@6.0.0
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@6.1.0
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@7.0.0
+- pkg:nuget/RhoMicro.CodeAnalysis.CommonGenerator@8.0.0

@@ -1,0 +1,11 @@
+- pkg:nuget/TestContainers@0.0.1
+- pkg:nuget/TestContainers@0.0.1-alpha
+- pkg:nuget/TestContainers@0.0.2-alpha
+- pkg:nuget/TestContainers@0.0.2.101
+- pkg:nuget/TestContainers@0.0.2.106
+- pkg:nuget/TestContainers@0.0.2.107
+- pkg:nuget/TestContainers@0.0.2.53
+- pkg:nuget/TestContainers@0.0.2.55
+- pkg:nuget/TestContainers@0.0.2.57
+- pkg:nuget/TestContainers@0.0.2.64
+- pkg:nuget/TestContainers@0.0.2.65-xbnhwdey

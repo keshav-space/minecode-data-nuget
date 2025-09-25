@@ -1,0 +1,17 @@
+- pkg:nuget/SharpDL@1.0.0.16
+- pkg:nuget/SharpDL@1.0.0.17
+- pkg:nuget/SharpDL@1.0.0.18
+- pkg:nuget/SharpDL@2.0.0
+- pkg:nuget/SharpDL@2.0.1
+- pkg:nuget/SharpDL@2.0.13
+- pkg:nuget/SharpDL@2.0.14
+- pkg:nuget/SharpDL@2.0.2
+- pkg:nuget/SharpDL@2.0.3
+- pkg:nuget/SharpDL@2.0.4
+- pkg:nuget/SharpDL@2.0.5
+- pkg:nuget/SharpDL@2.0.6
+- pkg:nuget/SharpDL@2.0.7
+- pkg:nuget/SharpDL@2.1.0
+- pkg:nuget/SharpDL@3.0.0
+- pkg:nuget/SharpDL@3.0.1
+- pkg:nuget/SharpDL@3.0.2

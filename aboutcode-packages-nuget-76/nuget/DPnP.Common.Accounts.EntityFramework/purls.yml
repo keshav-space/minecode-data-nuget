@@ -1,0 +1,5 @@
+- pkg:nuget/DPnP.Common.Accounts.EntityFramework@0.0.1
+- pkg:nuget/DPnP.Common.Accounts.EntityFramework@1.0.0
+- pkg:nuget/DPnP.Common.Accounts.EntityFramework@5.0.2
+- pkg:nuget/DPnP.Common.Accounts.EntityFramework@5.0.2-pre1
+- pkg:nuget/DPnP.Common.Accounts.EntityFramework@5.0.2-preview1

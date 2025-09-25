@@ -1,0 +1,4 @@
+- pkg:nuget/ToDoLater.Containerized.Infrastructure.Docker@1.0.0
+- pkg:nuget/ToDoLater.Containerized.Infrastructure.Docker@1.0.0-preview
+- pkg:nuget/ToDoLater.Containerized.Infrastructure.Docker@1.0.0-preview01
+- pkg:nuget/ToDoLater.Containerized.Infrastructure.Docker@1.0.0-preview03

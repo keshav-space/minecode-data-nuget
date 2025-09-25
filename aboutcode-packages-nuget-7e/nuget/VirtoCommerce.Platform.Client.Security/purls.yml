@@ -1,0 +1,6 @@
+- pkg:nuget/VirtoCommerce.Platform.Client.Security@2.10.2
+- pkg:nuget/VirtoCommerce.Platform.Client.Security@2.11.0
+- pkg:nuget/VirtoCommerce.Platform.Client.Security@2.11.0-rc1
+- pkg:nuget/VirtoCommerce.Platform.Client.Security@2.11.1
+- pkg:nuget/VirtoCommerce.Platform.Client.Security@2.11.2
+- pkg:nuget/VirtoCommerce.Platform.Client.Security@2.11.4

@@ -1,0 +1,6 @@
+- pkg:nuget/SQLDatabase.Net@1.0.0
+- pkg:nuget/SQLDatabase.Net@2.0.0
+- pkg:nuget/SQLDatabase.Net@2.0.1
+- pkg:nuget/SQLDatabase.Net@2.5.0
+- pkg:nuget/SQLDatabase.Net@2.6.0
+- pkg:nuget/SQLDatabase.Net@2.7.0

@@ -1,0 +1,17 @@
+- pkg:nuget/MicroLite.Testing@1.0.0
+- pkg:nuget/MicroLite.Testing@1.1.0
+- pkg:nuget/MicroLite.Testing@2.0.0
+- pkg:nuget/MicroLite.Testing@2.1.0
+- pkg:nuget/MicroLite.Testing@3.0.0
+- pkg:nuget/MicroLite.Testing@3.0.1
+- pkg:nuget/MicroLite.Testing@3.1.0
+- pkg:nuget/MicroLite.Testing@4.0.0-rc
+- pkg:nuget/MicroLite.Testing@6.0.0
+- pkg:nuget/MicroLite.Testing@6.3.0
+- pkg:nuget/MicroLite.Testing@6.4.0
+- pkg:nuget/MicroLite.Testing@6.5.0-preview20200216.1
+- pkg:nuget/MicroLite.Testing@7.0.0
+- pkg:nuget/MicroLite.Testing@7.0.0-preview20200220.1
+- pkg:nuget/MicroLite.Testing@7.0.0-preview20200313.1
+- pkg:nuget/MicroLite.Testing@7.0.0-preview20200326.1
+- pkg:nuget/MicroLite.Testing@7.0.0-preview20200327.1

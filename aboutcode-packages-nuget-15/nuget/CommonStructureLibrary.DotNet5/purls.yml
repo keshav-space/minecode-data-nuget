@@ -1,0 +1,11 @@
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.10.9
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.11.4
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.11.4.1
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.11.4.2
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.11.5
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.11.5.1
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.11.6
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.11.6.1
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.12.15-alpha
+- pkg:nuget/CommonStructureLibrary.DotNet5@2021.12.16-alpha
+- pkg:nuget/CommonStructureLibrary.DotNet5@2022.1.21

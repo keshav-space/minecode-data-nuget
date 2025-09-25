@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@1.0.200122001-prerelease
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@1.0.200205001-prerelease
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@1.0.200213002-prerelease
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@4.1.200311001-prerelease
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.1.200317001-prerelease
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.1.200326002-prerelease
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.1.200401003
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.1.200402003
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.3.200512001-prerelease
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.3.200522001-prerelease
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.3.200605002
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.6.210414002
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@5.8.220627001
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@6.1.240122001
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@7.2.240903001
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@7.2.241028002
+- pkg:nuget/Microsoft.Gaming.XboxGameBar@7.3.2506120

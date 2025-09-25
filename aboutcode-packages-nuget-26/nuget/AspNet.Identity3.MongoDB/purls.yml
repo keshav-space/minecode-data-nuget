@@ -1,0 +1,8 @@
+- pkg:nuget/AspNet.Identity3.MongoDB@0.0.1
+- pkg:nuget/AspNet.Identity3.MongoDB@0.0.2
+- pkg:nuget/AspNet.Identity3.MongoDB@0.0.3
+- pkg:nuget/AspNet.Identity3.MongoDB@1.0.0-beta7
+- pkg:nuget/AspNet.Identity3.MongoDB@1.0.0-rc1-final
+- pkg:nuget/AspNet.Identity3.MongoDB@1.0.0-rc1-final-u1
+- pkg:nuget/AspNet.Identity3.MongoDB@1.0.0-rc1-final-u2
+- pkg:nuget/AspNet.Identity3.MongoDB@1.0.0-rc2-final

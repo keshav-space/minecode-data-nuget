@@ -1,0 +1,3 @@
+- pkg:nuget/NuGet.Analyze@1.0.0
+- pkg:nuget/NuGet.Analyze@1.1.0
+- pkg:nuget/NuGet.Analyze@2.0.0-alpha

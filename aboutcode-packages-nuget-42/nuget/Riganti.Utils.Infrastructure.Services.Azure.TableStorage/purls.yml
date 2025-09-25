@@ -1,0 +1,13 @@
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@0.0.2-lab03
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.0.0
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.0.1
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.0.10
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.0.12
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.0.2
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.0.5
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.0.7
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.0.9
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.1.0
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.1.1
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.1.2
+- pkg:nuget/Riganti.Utils.Infrastructure.Services.Azure.TableStorage@2.1.3

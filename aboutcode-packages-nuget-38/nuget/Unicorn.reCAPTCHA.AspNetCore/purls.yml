@@ -1,0 +1,4 @@
+- pkg:nuget/Unicorn.reCAPTCHA.AspNetCore@2.2.0.1
+- pkg:nuget/Unicorn.reCAPTCHA.AspNetCore@2.2.0.2
+- pkg:nuget/Unicorn.reCAPTCHA.AspNetCore@2.2.0.3
+- pkg:nuget/Unicorn.reCAPTCHA.AspNetCore@2.2.1

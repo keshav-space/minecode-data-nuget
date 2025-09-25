@@ -1,0 +1,5 @@
+- pkg:nuget/VSConsole@0.1.1-pre
+- pkg:nuget/VSConsole@0.1.2-pre
+- pkg:nuget/VSConsole@1.0.0
+- pkg:nuget/VSConsole@1.1.0
+- pkg:nuget/VSConsole@1.2.0

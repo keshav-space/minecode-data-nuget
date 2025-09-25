@@ -1,0 +1,12 @@
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@3.2.0
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@3.2.1
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@3.2.2
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@4.0.0
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@4.0.0-rc.2
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@4.0.1
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@5.0.0
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@5.0.1
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@5.0.2
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@6.0.0
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@6.0.1
+- pkg:nuget/NServiceBus.Persistence.AzureTable.TransactionalSession@6.1.0
