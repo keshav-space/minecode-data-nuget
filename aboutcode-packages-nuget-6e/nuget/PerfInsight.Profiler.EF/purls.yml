@@ -1,0 +1,4 @@
+- pkg:nuget/PerfInsight.Profiler.EF@0.1.0
+- pkg:nuget/PerfInsight.Profiler.EF@0.1.1
+- pkg:nuget/PerfInsight.Profiler.EF@5.0.0
+- pkg:nuget/PerfInsight.Profiler.EF@6.0.0

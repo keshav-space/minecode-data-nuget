@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.LazyGoogleCloudLogging@1.0.0

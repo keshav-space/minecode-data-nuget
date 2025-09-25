@@ -1,0 +1,3 @@
+- pkg:nuget/VSSDK.Threading@12.0.3
+- pkg:nuget/VSSDK.Threading@12.0.4
+- pkg:nuget/VSSDK.Threading@14.0.4-preview

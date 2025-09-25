@@ -1,0 +1,6 @@
+- pkg:nuget/SimpleXmpLib.FileEmbedding@0.0.0
+- pkg:nuget/SimpleXmpLib.FileEmbedding@0.0.0-test
+- pkg:nuget/SimpleXmpLib.FileEmbedding@0.0.1-test
+- pkg:nuget/SimpleXmpLib.FileEmbedding@0.0.2-test
+- pkg:nuget/SimpleXmpLib.FileEmbedding@0.0.3-test
+- pkg:nuget/SimpleXmpLib.FileEmbedding@1.0.0

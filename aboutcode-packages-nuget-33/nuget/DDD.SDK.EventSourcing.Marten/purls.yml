@@ -1,0 +1,3 @@
+- pkg:nuget/DDD.SDK.EventSourcing.Marten@1.0.0
+- pkg:nuget/DDD.SDK.EventSourcing.Marten@2.0.0
+- pkg:nuget/DDD.SDK.EventSourcing.Marten@2.0.1

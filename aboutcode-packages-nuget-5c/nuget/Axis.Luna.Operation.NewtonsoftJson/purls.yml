@@ -1,0 +1,4 @@
+- pkg:nuget/Axis.Luna.Operation.NewtonsoftJson@5.1.1
+- pkg:nuget/Axis.Luna.Operation.NewtonsoftJson@6.0.0
+- pkg:nuget/Axis.Luna.Operation.NewtonsoftJson@6.0.1
+- pkg:nuget/Axis.Luna.Operation.NewtonsoftJson@6.0.2

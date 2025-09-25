@@ -1,0 +1,5 @@
+- pkg:nuget/DuckDbSharp@0.9.0.1
+- pkg:nuget/DuckDbSharp@1.1.3
+- pkg:nuget/DuckDbSharp@1.2.1
+- pkg:nuget/DuckDbSharp@1.2.1.1
+- pkg:nuget/DuckDbSharp@1.2.1.4

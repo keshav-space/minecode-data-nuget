@@ -1,0 +1,3 @@
+- pkg:nuget/vocaluxe.dependencies.gstreamer@1.0.1
+- pkg:nuget/vocaluxe.dependencies.gstreamer@1.0.2
+- pkg:nuget/vocaluxe.dependencies.gstreamer@1.0.3

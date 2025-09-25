@@ -1,0 +1,5 @@
+- pkg:nuget/JKS.Infra.Redis@1.0.0
+- pkg:nuget/JKS.Infra.Redis@2.0.0.10
+- pkg:nuget/JKS.Infra.Redis@2.1.0.10
+- pkg:nuget/JKS.Infra.Redis@2.2.0.10
+- pkg:nuget/JKS.Infra.Redis@2.3.0

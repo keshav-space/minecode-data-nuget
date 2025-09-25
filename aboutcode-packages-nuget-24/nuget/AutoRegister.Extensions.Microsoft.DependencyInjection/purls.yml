@@ -1,0 +1,2 @@
+- pkg:nuget/AutoRegister.Extensions.Microsoft.DependencyInjection@1.0.0
+- pkg:nuget/AutoRegister.Extensions.Microsoft.DependencyInjection@1.0.1

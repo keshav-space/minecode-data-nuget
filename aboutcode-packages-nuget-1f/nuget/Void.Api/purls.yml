@@ -1,0 +1,3 @@
+- pkg:nuget/Void.Api@0.2.5.1-prerelease
+- pkg:nuget/Void.Api@0.2.7
+- pkg:nuget/Void.Api@0.2.8

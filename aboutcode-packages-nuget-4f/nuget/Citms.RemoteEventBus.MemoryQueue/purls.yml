@@ -1,0 +1,3 @@
+- pkg:nuget/Citms.RemoteEventBus.MemoryQueue@1.0.0
+- pkg:nuget/Citms.RemoteEventBus.MemoryQueue@1.0.1
+- pkg:nuget/Citms.RemoteEventBus.MemoryQueue@1.0.2

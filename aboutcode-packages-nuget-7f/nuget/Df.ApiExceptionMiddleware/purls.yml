@@ -1,0 +1,4 @@
+- pkg:nuget/Df.ApiExceptionMiddleware@1.0.0.10-beta
+- pkg:nuget/Df.ApiExceptionMiddleware@1.0.0.11
+- pkg:nuget/Df.ApiExceptionMiddleware@1.0.0.12
+- pkg:nuget/Df.ApiExceptionMiddleware@1.0.0.13

@@ -1,0 +1,4 @@
+- pkg:nuget/GRTeam.ResourceManager@1.0.0-alpha
+- pkg:nuget/GRTeam.ResourceManager@1.0.0-beta
+- pkg:nuget/GRTeam.ResourceManager@2.0.0-beta
+- pkg:nuget/GRTeam.ResourceManager@2.0.1-beta

@@ -1,0 +1,7 @@
+- pkg:nuget/inxton.nuget.test.package@1.0.0
+- pkg:nuget/inxton.nuget.test.package@1.0.1-CI-20200116-113514
+- pkg:nuget/inxton.nuget.test.package@1.0.2-CI-20200116-114917
+- pkg:nuget/inxton.nuget.test.package@1.0.3-CI-20200117-082709
+- pkg:nuget/inxton.nuget.test.package@1.0.3-CI-20200117-083618
+- pkg:nuget/inxton.nuget.test.package@1.1.0
+- pkg:nuget/inxton.nuget.test.package@1.1.1

@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Enrichers.Xperience@0.0.2
+- pkg:nuget/Serilog.Enrichers.Xperience@0.0.3

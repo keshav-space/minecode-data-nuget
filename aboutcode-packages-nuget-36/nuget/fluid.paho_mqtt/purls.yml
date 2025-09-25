@@ -1,0 +1,3 @@
+- pkg:nuget/fluid.paho_mqtt@1.0.3
+- pkg:nuget/fluid.paho_mqtt@1.0.4
+- pkg:nuget/fluid.paho_mqtt@1.0.5
