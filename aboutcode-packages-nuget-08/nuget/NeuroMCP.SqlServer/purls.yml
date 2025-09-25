@@ -1,0 +1,4 @@
+- pkg:nuget/NeuroMCP.SqlServer@1.0.0-azdevops
+- pkg:nuget/NeuroMCP.SqlServer@1.1.5-SQL
+- pkg:nuget/NeuroMCP.SqlServer@1.1.6
+- pkg:nuget/NeuroMCP.SqlServer@1.1.7-AzureDevOps

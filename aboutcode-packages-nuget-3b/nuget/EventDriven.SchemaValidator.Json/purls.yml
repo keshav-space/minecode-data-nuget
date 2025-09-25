@@ -1,0 +1,4 @@
+- pkg:nuget/EventDriven.SchemaValidator.Json@1.0.0-beta1
+- pkg:nuget/EventDriven.SchemaValidator.Json@1.1.0
+- pkg:nuget/EventDriven.SchemaValidator.Json@1.1.1
+- pkg:nuget/EventDriven.SchemaValidator.Json@2.0.0

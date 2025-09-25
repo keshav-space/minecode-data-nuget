@@ -1,0 +1,3 @@
+- pkg:nuget/Xunit.Runner.Http@0.1.0
+- pkg:nuget/Xunit.Runner.Http@2.0.0-latest-xunit.17
+- pkg:nuget/Xunit.Runner.Http@2.0.0-merge.18

@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.Datadog.Logs.WithProxy@0.0.2

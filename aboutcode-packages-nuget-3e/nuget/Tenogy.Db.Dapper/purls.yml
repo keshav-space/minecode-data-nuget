@@ -1,0 +1,4 @@
+- pkg:nuget/Tenogy.Db.Dapper@4.0.0
+- pkg:nuget/Tenogy.Db.Dapper@6.0.0
+- pkg:nuget/Tenogy.Db.Dapper@6.0.1
+- pkg:nuget/Tenogy.Db.Dapper@7.0.0

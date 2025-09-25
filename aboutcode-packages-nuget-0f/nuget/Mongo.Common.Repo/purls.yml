@@ -1,0 +1,4 @@
+- pkg:nuget/Mongo.Common.Repo@1.0.0
+- pkg:nuget/Mongo.Common.Repo@1.1.0
+- pkg:nuget/Mongo.Common.Repo@2.0.0
+- pkg:nuget/Mongo.Common.Repo@2.0.0-rc1

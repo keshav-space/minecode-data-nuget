@@ -1,0 +1,3 @@
+- pkg:nuget/CqrsEase.Common@1.0.0
+- pkg:nuget/CqrsEase.Common@1.0.0-rc
+- pkg:nuget/CqrsEase.Common@1.0.1

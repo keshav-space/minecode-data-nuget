@@ -1,0 +1,6 @@
+- pkg:nuget/Druware.Server@1.0.0
+- pkg:nuget/Druware.Server@1.0.5-release%2Bfbeb19335058c86680876c5b89ff21d283b98ef7
+- pkg:nuget/Druware.Server@1.0.6
+- pkg:nuget/Druware.Server@1.0.7
+- pkg:nuget/Druware.Server@1.0.8
+- pkg:nuget/Druware.Server@1.1.0

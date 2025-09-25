@@ -1,0 +1,4 @@
+- pkg:nuget/PassKit.Grpc.DotNet@1.1.139
+- pkg:nuget/PassKit.Grpc.DotNet@1.1.140
+- pkg:nuget/PassKit.Grpc.DotNet@1.1.142
+- pkg:nuget/PassKit.Grpc.DotNet@1.1.144

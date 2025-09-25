@@ -1,0 +1,10 @@
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@2.2.0
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@2.2.0-beta-00000
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@3.1.0
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@3.1.1
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@5.0.0
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@5.0.1
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@6.0.0
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@6.0.1
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@8.0.0
+- pkg:nuget/Extensions.EntityFrameworkCore.DataMigration@9.0.0

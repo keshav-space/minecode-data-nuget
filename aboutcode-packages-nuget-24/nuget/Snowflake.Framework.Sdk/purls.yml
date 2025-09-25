@@ -1,0 +1,4 @@
+- pkg:nuget/Snowflake.Framework.Sdk@1.0.0-alpha.latest
+- pkg:nuget/Snowflake.Framework.Sdk@3.0.0
+- pkg:nuget/Snowflake.Framework.Sdk@5.0.0
+- pkg:nuget/Snowflake.Framework.Sdk@6.0.0

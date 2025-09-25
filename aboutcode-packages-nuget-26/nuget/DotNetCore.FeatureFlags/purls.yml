@@ -1,0 +1,6 @@
+- pkg:nuget/DotNetCore.FeatureFlags@1.0.0-preview5
+- pkg:nuget/DotNetCore.FeatureFlags@1.0.1-preview5
+- pkg:nuget/DotNetCore.FeatureFlags@1.0.2-preview5
+- pkg:nuget/DotNetCore.FeatureFlags@3.0.0
+- pkg:nuget/DotNetCore.FeatureFlags@3.0.1
+- pkg:nuget/DotNetCore.FeatureFlags@3.1.0

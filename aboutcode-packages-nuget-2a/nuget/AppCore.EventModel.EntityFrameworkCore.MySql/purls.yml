@@ -1,0 +1,2 @@
+- pkg:nuget/AppCore.EventModel.EntityFrameworkCore.MySql@0.3.0
+- pkg:nuget/AppCore.EventModel.EntityFrameworkCore.MySql@0.4.0

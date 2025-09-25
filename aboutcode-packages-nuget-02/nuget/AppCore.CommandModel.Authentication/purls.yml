@@ -1,0 +1,3 @@
+- pkg:nuget/AppCore.CommandModel.Authentication@0.3.0
+- pkg:nuget/AppCore.CommandModel.Authentication@0.4.0
+- pkg:nuget/AppCore.CommandModel.Authentication@0.4.1

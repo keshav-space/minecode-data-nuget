@@ -1,0 +1,3 @@
+- pkg:nuget/LithUSS.Native.win-x64@0.2.0
+- pkg:nuget/LithUSS.Native.win-x64@0.2.1
+- pkg:nuget/LithUSS.Native.win-x64@0.2.2

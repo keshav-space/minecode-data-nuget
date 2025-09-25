@@ -1,0 +1,4 @@
+- pkg:nuget/Tenogy.App.Contracts@3.0.0
+- pkg:nuget/Tenogy.App.Contracts@4.0.0
+- pkg:nuget/Tenogy.App.Contracts@6.0.0
+- pkg:nuget/Tenogy.App.Contracts@7.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/GuardCop.Analyzers@1.0.0
+- pkg:nuget/GuardCop.Analyzers@1.1.0
+- pkg:nuget/GuardCop.Analyzers@1.2.0

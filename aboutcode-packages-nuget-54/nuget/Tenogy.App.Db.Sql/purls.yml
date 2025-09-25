@@ -1,0 +1,4 @@
+- pkg:nuget/Tenogy.App.Db.Sql@4.0.0
+- pkg:nuget/Tenogy.App.Db.Sql@5.0.0
+- pkg:nuget/Tenogy.App.Db.Sql@6.0.0
+- pkg:nuget/Tenogy.App.Db.Sql@6.0.1
