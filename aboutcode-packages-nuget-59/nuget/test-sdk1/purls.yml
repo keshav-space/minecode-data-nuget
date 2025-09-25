@@ -1,0 +1,5 @@
+- pkg:nuget/test-sdk1@0.0.1
+- pkg:nuget/test-sdk1@0.0.11
+- pkg:nuget/test-sdk1@0.0.12
+- pkg:nuget/test-sdk1@0.0.33
+- pkg:nuget/test-sdk1@1.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/TrueCommerce.Extensions.Logging@4.0.0%2B4747
+- pkg:nuget/TrueCommerce.Extensions.Logging@5.0.0%2B4942
+- pkg:nuget/TrueCommerce.Extensions.Logging@5.1.0%2B5091
+- pkg:nuget/TrueCommerce.Extensions.Logging@6.0.0%2B0003
+- pkg:nuget/TrueCommerce.Extensions.Logging@6.0.0-preview.1%2B0002
+- pkg:nuget/TrueCommerce.Extensions.Logging@6.1.0%2B0004

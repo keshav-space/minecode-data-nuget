@@ -1,0 +1,10 @@
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00001
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00002
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00003
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00005
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00012
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00015
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00018
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00019
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00021
+- pkg:nuget/Serilog.AspNetCore.Ingestion@1.0.0-dev-00032

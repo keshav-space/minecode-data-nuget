@@ -1,0 +1,13 @@
+- pkg:nuget/Plainscope.Tests.Core@0.1.13-beta
+- pkg:nuget/Plainscope.Tests.Core@1.0.17
+- pkg:nuget/Plainscope.Tests.Core@1.0.18
+- pkg:nuget/Plainscope.Tests.Core@1.0.19
+- pkg:nuget/Plainscope.Tests.Core@1.0.20
+- pkg:nuget/Plainscope.Tests.Core@1.0.21
+- pkg:nuget/Plainscope.Tests.Core@1.0.22
+- pkg:nuget/Plainscope.Tests.Core@1.0.23-beta
+- pkg:nuget/Plainscope.Tests.Core@1.0.24
+- pkg:nuget/Plainscope.Tests.Core@1.1.25
+- pkg:nuget/Plainscope.Tests.Core@2.0.26
+- pkg:nuget/Plainscope.Tests.Core@2.0.28
+- pkg:nuget/Plainscope.Tests.Core@2.1.29

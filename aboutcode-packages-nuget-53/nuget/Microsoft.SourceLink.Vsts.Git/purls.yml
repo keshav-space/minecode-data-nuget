@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta-62905-03
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta-62908-01
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta-62909-01
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta-62925-02
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta-63102-01
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta-63127-02
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta2-18618-05
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta2-19270-01
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta2-19324-01
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta2-19351-01
+- pkg:nuget/Microsoft.SourceLink.Vsts.Git@1.0.0-beta2-19367-01

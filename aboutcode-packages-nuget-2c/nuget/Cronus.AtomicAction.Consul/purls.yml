@@ -1,0 +1,11 @@
+- pkg:nuget/Cronus.AtomicAction.Consul@1.0.0-preview.1
+- pkg:nuget/Cronus.AtomicAction.Consul@1.0.0-preview.2
+- pkg:nuget/Cronus.AtomicAction.Consul@6.0.0
+- pkg:nuget/Cronus.AtomicAction.Consul@6.0.1
+- pkg:nuget/Cronus.AtomicAction.Consul@6.0.2-preview.1
+- pkg:nuget/Cronus.AtomicAction.Consul@7.0.0
+- pkg:nuget/Cronus.AtomicAction.Consul@7.0.0-preview.1
+- pkg:nuget/Cronus.AtomicAction.Consul@7.0.0-preview.2
+- pkg:nuget/Cronus.AtomicAction.Consul@7.0.0-preview.3
+- pkg:nuget/Cronus.AtomicAction.Consul@8.0.0
+- pkg:nuget/Cronus.AtomicAction.Consul@8.0.1

@@ -1,0 +1,7 @@
+- pkg:nuget/GraphQL.RelaySupport.FluentValidation@1.0.0
+- pkg:nuget/GraphQL.RelaySupport.FluentValidation@1.0.1
+- pkg:nuget/GraphQL.RelaySupport.FluentValidation@1.0.2
+- pkg:nuget/GraphQL.RelaySupport.FluentValidation@2.0.0-preview1
+- pkg:nuget/GraphQL.RelaySupport.FluentValidation@2.0.0-preview2
+- pkg:nuget/GraphQL.RelaySupport.FluentValidation@2.0.0-preview3
+- pkg:nuget/GraphQL.RelaySupport.FluentValidation@2.0.0-preview4

@@ -1,0 +1,15 @@
+- pkg:nuget/Cake.Chocolatey.Module@0.1.1
+- pkg:nuget/Cake.Chocolatey.Module@0.2.0
+- pkg:nuget/Cake.Chocolatey.Module@0.3.0
+- pkg:nuget/Cake.Chocolatey.Module@0.4.0
+- pkg:nuget/Cake.Chocolatey.Module@0.5.0
+- pkg:nuget/Cake.Chocolatey.Module@0.6.0
+- pkg:nuget/Cake.Chocolatey.Module@0.6.1
+- pkg:nuget/Cake.Chocolatey.Module@0.7.0
+- pkg:nuget/Cake.Chocolatey.Module@1.0.0
+- pkg:nuget/Cake.Chocolatey.Module@1.0.1
+- pkg:nuget/Cake.Chocolatey.Module@2.0.0
+- pkg:nuget/Cake.Chocolatey.Module@2.0.1
+- pkg:nuget/Cake.Chocolatey.Module@3.0.0
+- pkg:nuget/Cake.Chocolatey.Module@3.0.1
+- pkg:nuget/Cake.Chocolatey.Module@4.0.0

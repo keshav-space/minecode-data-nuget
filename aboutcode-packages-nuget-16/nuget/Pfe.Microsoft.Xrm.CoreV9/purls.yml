@@ -1,0 +1,8 @@
+- pkg:nuget/Pfe.Microsoft.Xrm.CoreV9@9.0.0-alpha
+- pkg:nuget/Pfe.Microsoft.Xrm.CoreV9@9.0.1-alpha
+- pkg:nuget/Pfe.Microsoft.Xrm.CoreV9@9.0.2-alpha
+- pkg:nuget/Pfe.Microsoft.Xrm.CoreV9@9.0.3-alpha
+- pkg:nuget/Pfe.Microsoft.Xrm.CoreV9@9.0.4-alpha
+- pkg:nuget/Pfe.Microsoft.Xrm.CoreV9@9.0.6
+- pkg:nuget/Pfe.Microsoft.Xrm.CoreV9@9.0.7
+- pkg:nuget/Pfe.Microsoft.Xrm.CoreV9@9.0.8

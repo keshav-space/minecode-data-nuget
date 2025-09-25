@@ -1,0 +1,3 @@
+- pkg:nuget/FactSet.SDK.IntradayTickHistory@0.20.0
+- pkg:nuget/FactSet.SDK.IntradayTickHistory@0.9.0
+- pkg:nuget/FactSet.SDK.IntradayTickHistory@0.9.1

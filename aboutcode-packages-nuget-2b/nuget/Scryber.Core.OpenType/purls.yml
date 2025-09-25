@@ -1,0 +1,15 @@
+- pkg:nuget/Scryber.Core.OpenType@1.0.0
+- pkg:nuget/Scryber.Core.OpenType@5.0.0
+- pkg:nuget/Scryber.Core.OpenType@5.0.0-alpha
+- pkg:nuget/Scryber.Core.OpenType@5.0.1
+- pkg:nuget/Scryber.Core.OpenType@5.0.3
+- pkg:nuget/Scryber.Core.OpenType@6.0.0-alpha
+- pkg:nuget/Scryber.Core.OpenType@6.0.0-alpha.2
+- pkg:nuget/Scryber.Core.OpenType@6.0.0.5-beta
+- pkg:nuget/Scryber.Core.OpenType@6.0.0.6-beta
+- pkg:nuget/Scryber.Core.OpenType@6.0.0.7-beta
+- pkg:nuget/Scryber.Core.OpenType@6.0.1-beta
+- pkg:nuget/Scryber.Core.OpenType@6.0.3.3-beta
+- pkg:nuget/Scryber.Core.OpenType@6.1.0-beta
+- pkg:nuget/Scryber.Core.OpenType@8.0.0.1-beta
+- pkg:nuget/Scryber.Core.OpenType@9.0.0-beta

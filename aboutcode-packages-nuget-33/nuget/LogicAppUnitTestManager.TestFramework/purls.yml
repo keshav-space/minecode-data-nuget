@@ -1,0 +1,7 @@
+- pkg:nuget/LogicAppUnitTestManager.TestFramework@1.0.0
+- pkg:nuget/LogicAppUnitTestManager.TestFramework@1.0.1
+- pkg:nuget/LogicAppUnitTestManager.TestFramework@1.0.2
+- pkg:nuget/LogicAppUnitTestManager.TestFramework@1.0.3-preview
+- pkg:nuget/LogicAppUnitTestManager.TestFramework@1.0.4-preview
+- pkg:nuget/LogicAppUnitTestManager.TestFramework@1.0.5-preview
+- pkg:nuget/LogicAppUnitTestManager.TestFramework@1.0.6-preview

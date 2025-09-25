@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.AspNetCore.AzureKeyVault.HostingStartup@2.0.2
+- pkg:nuget/Microsoft.AspNetCore.AzureKeyVault.HostingStartup@2.0.2-preview1-final
+- pkg:nuget/Microsoft.AspNetCore.AzureKeyVault.HostingStartup@2.0.2-preview2-final
+- pkg:nuget/Microsoft.AspNetCore.AzureKeyVault.HostingStartup@2.0.3
+- pkg:nuget/Microsoft.AspNetCore.AzureKeyVault.HostingStartup@2.0.4

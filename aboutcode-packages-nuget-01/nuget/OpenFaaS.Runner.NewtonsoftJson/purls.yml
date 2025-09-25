@@ -1,0 +1,6 @@
+- pkg:nuget/OpenFaaS.Runner.NewtonsoftJson@2.0.0
+- pkg:nuget/OpenFaaS.Runner.NewtonsoftJson@2.0.0-preview-2
+- pkg:nuget/OpenFaaS.Runner.NewtonsoftJson@2.0.0-preview-3
+- pkg:nuget/OpenFaaS.Runner.NewtonsoftJson@2.0.0-preview-4
+- pkg:nuget/OpenFaaS.Runner.NewtonsoftJson@2.0.1
+- pkg:nuget/OpenFaaS.Runner.NewtonsoftJson@2.0.2

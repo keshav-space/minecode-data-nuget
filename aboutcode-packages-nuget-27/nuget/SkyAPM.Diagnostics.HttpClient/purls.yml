@@ -1,0 +1,14 @@
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@0.8.0
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@0.8.0-prerelease-66795016
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@0.8.0-prerelease-66843215
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@0.8.0-prerelease-66885637
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@0.9.0
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@1.0.0
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@1.1.0
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@1.2.0
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@1.2.0-preview-128523807
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@1.3.0
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@2.0.0
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@2.0.1
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@2.1.0
+- pkg:nuget/SkyAPM.Diagnostics.HttpClient@2.2.0

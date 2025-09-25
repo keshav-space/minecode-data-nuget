@@ -1,0 +1,13 @@
+- pkg:nuget/Celeste.GameFiles.GameScanner@2.6.1
+- pkg:nuget/Celeste.GameFiles.GameScanner@2.6.2
+- pkg:nuget/Celeste.GameFiles.GameScanner@2.6.3
+- pkg:nuget/Celeste.GameFiles.GameScanner@3.0.0
+- pkg:nuget/Celeste.GameFiles.GameScanner@3.0.1
+- pkg:nuget/Celeste.GameFiles.GameScanner@4.0.0
+- pkg:nuget/Celeste.GameFiles.GameScanner@4.0.1
+- pkg:nuget/Celeste.GameFiles.GameScanner@5.0.0
+- pkg:nuget/Celeste.GameFiles.GameScanner@6.0.0
+- pkg:nuget/Celeste.GameFiles.GameScanner@7.0.0
+- pkg:nuget/Celeste.GameFiles.GameScanner@7.1.2
+- pkg:nuget/Celeste.GameFiles.GameScanner@8.0.0
+- pkg:nuget/Celeste.GameFiles.GameScanner@8.1.0

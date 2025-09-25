@@ -1,0 +1,13 @@
+- pkg:nuget/EntityFX.Core.Base@1.0.0-beta101
+- pkg:nuget/EntityFX.Core.Base@1.0.0-preview1-1
+- pkg:nuget/EntityFX.Core.Base@3.0.1
+- pkg:nuget/EntityFX.Core.Base@3.1.0
+- pkg:nuget/EntityFX.Core.Base@4.0.0
+- pkg:nuget/EntityFX.Core.Base@4.0.1
+- pkg:nuget/EntityFX.Core.Base@4.0.2
+- pkg:nuget/EntityFX.Core.Base@4.0.3
+- pkg:nuget/EntityFX.Core.Base@4.1.0
+- pkg:nuget/EntityFX.Core.Base@4.2.0
+- pkg:nuget/EntityFX.Core.Base@6.0.0
+- pkg:nuget/EntityFX.Core.Base@6.0.1
+- pkg:nuget/EntityFX.Core.Base@6.0.2

@@ -1,0 +1,6 @@
+- pkg:nuget/MiddleMail.Client.RabbitMQ@0.1.0-alpha
+- pkg:nuget/MiddleMail.Client.RabbitMQ@0.2.0
+- pkg:nuget/MiddleMail.Client.RabbitMQ@0.2.1
+- pkg:nuget/MiddleMail.Client.RabbitMQ@0.4.0
+- pkg:nuget/MiddleMail.Client.RabbitMQ@0.6.0
+- pkg:nuget/MiddleMail.Client.RabbitMQ@0.6.2

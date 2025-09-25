@@ -1,0 +1,10 @@
+- pkg:nuget/Cake.NDepend@0.1.0
+- pkg:nuget/Cake.NDepend@0.1.0-appveyor0001
+- pkg:nuget/Cake.NDepend@0.1.0-travisci0001
+- pkg:nuget/Cake.NDepend@1.0.1
+- pkg:nuget/Cake.NDepend@1.0.2
+- pkg:nuget/Cake.NDepend@1.0.3
+- pkg:nuget/Cake.NDepend@1.1.0
+- pkg:nuget/Cake.NDepend@1.2.0
+- pkg:nuget/Cake.NDepend@1.4.0
+- pkg:nuget/Cake.NDepend@1.5.0

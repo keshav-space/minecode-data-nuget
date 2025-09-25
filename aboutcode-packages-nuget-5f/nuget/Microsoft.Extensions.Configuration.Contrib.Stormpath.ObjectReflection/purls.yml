@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Extensions.Configuration.Contrib.Stormpath.ObjectReflection@0.1.0
+- pkg:nuget/Microsoft.Extensions.Configuration.Contrib.Stormpath.ObjectReflection@0.1.0-beta1
+- pkg:nuget/Microsoft.Extensions.Configuration.Contrib.Stormpath.ObjectReflection@0.1.0-beta2
+- pkg:nuget/Microsoft.Extensions.Configuration.Contrib.Stormpath.ObjectReflection@0.1.0-beta5

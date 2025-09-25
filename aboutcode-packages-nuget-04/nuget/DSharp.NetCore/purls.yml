@@ -1,0 +1,17 @@
+- pkg:nuget/DSharp.NetCore@5.0.1124.2025
+- pkg:nuget/DSharp.NetCore@5.0.1202.310
+- pkg:nuget/DSharp.NetCore@5.1.1221.2238
+- pkg:nuget/DSharp.NetCore@5.2.102.2026
+- pkg:nuget/DSharp.NetCore@6.0.607
+- pkg:nuget/DSharp.NetCore@6.0.609
+- pkg:nuget/DSharp.NetCore@6.0.624
+- pkg:nuget/DSharp.NetCore@6.0.625
+- pkg:nuget/DSharp.NetCore@6.0.628
+- pkg:nuget/DSharp.NetCore@6.0.636
+- pkg:nuget/DSharp.NetCore@6.1.1
+- pkg:nuget/DSharp.NetCore@6.1.6
+- pkg:nuget/DSharp.NetCore@6.3.0
+- pkg:nuget/DSharp.NetCore@6.5.2
+- pkg:nuget/DSharp.NetCore@6.5.3
+- pkg:nuget/DSharp.NetCore@6.5.5
+- pkg:nuget/DSharp.NetCore@8.0.0

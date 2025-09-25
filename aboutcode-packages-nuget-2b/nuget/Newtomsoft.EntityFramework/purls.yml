@@ -1,0 +1,11 @@
+- pkg:nuget/Newtomsoft.EntityFramework@0.3.0
+- pkg:nuget/Newtomsoft.EntityFramework@0.3.1
+- pkg:nuget/Newtomsoft.EntityFramework@0.3.2
+- pkg:nuget/Newtomsoft.EntityFramework@0.4.0
+- pkg:nuget/Newtomsoft.EntityFramework@0.4.1
+- pkg:nuget/Newtomsoft.EntityFramework@0.4.2
+- pkg:nuget/Newtomsoft.EntityFramework@0.5.0
+- pkg:nuget/Newtomsoft.EntityFramework@0.5.1
+- pkg:nuget/Newtomsoft.EntityFramework@6.0.0
+- pkg:nuget/Newtomsoft.EntityFramework@6.0.1
+- pkg:nuget/Newtomsoft.EntityFramework@7.0.8

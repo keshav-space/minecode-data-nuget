@@ -1,0 +1,12 @@
+- pkg:nuget/NetChris.Web.SelfTest@0.0.0-prerelease
+- pkg:nuget/NetChris.Web.SelfTest@0.1.0
+- pkg:nuget/NetChris.Web.SelfTest@0.1.1
+- pkg:nuget/NetChris.Web.SelfTest@0.1.2
+- pkg:nuget/NetChris.Web.SelfTest@0.1.41
+- pkg:nuget/NetChris.Web.SelfTest@0.1.48
+- pkg:nuget/NetChris.Web.SelfTest@0.1.49
+- pkg:nuget/NetChris.Web.SelfTest@0.2.0
+- pkg:nuget/NetChris.Web.SelfTest@1.0.0
+- pkg:nuget/NetChris.Web.SelfTest@2.0.0
+- pkg:nuget/NetChris.Web.SelfTest@2.0.0-pre
+- pkg:nuget/NetChris.Web.SelfTest@2.0.1

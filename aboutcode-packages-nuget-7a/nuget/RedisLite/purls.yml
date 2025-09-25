@@ -1,0 +1,12 @@
+- pkg:nuget/RedisLite@1.0.0
+- pkg:nuget/RedisLite@1.1.0
+- pkg:nuget/RedisLite@1.1.1
+- pkg:nuget/RedisLite@1.1.2
+- pkg:nuget/RedisLite@1.1.3
+- pkg:nuget/RedisLite@1.1.4
+- pkg:nuget/RedisLite@1.2.0
+- pkg:nuget/RedisLite@1.2.1
+- pkg:nuget/RedisLite@2.0.0
+- pkg:nuget/RedisLite@2.0.1
+- pkg:nuget/RedisLite@2.1.0
+- pkg:nuget/RedisLite@2.2.0

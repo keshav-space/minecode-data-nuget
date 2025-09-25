@@ -1,0 +1,15 @@
+- pkg:nuget/RogueSharp@1.0.0
+- pkg:nuget/RogueSharp@1.0.1
+- pkg:nuget/RogueSharp@1.1.0
+- pkg:nuget/RogueSharp@1.2.0
+- pkg:nuget/RogueSharp@2.0.0
+- pkg:nuget/RogueSharp@3.0.0
+- pkg:nuget/RogueSharp@3.0.0-pre
+- pkg:nuget/RogueSharp@4.0.0
+- pkg:nuget/RogueSharp@4.0.0-pre
+- pkg:nuget/RogueSharp@4.1.0
+- pkg:nuget/RogueSharp@4.2.0
+- pkg:nuget/RogueSharp@5.0.0-pre
+- pkg:nuget/RogueSharp@5.0.0-pre2
+- pkg:nuget/RogueSharp@5.0.0-pre3
+- pkg:nuget/RogueSharp@5.0.0-pre4
