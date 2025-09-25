@@ -1,0 +1,4 @@
+- pkg:nuget/Ardalis.ApiEndpoints.Swashbuckle@4.0.0
+- pkg:nuget/Ardalis.ApiEndpoints.Swashbuckle@4.0.0-pre1
+- pkg:nuget/Ardalis.ApiEndpoints.Swashbuckle@4.0.1
+- pkg:nuget/Ardalis.ApiEndpoints.Swashbuckle@4.1.0

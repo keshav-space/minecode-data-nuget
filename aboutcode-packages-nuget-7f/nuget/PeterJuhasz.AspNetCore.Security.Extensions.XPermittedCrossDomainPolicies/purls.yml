@@ -1,0 +1,4 @@
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.XPermittedCrossDomainPolicies@1.0.1
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.XPermittedCrossDomainPolicies@2.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.XPermittedCrossDomainPolicies@3.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.XPermittedCrossDomainPolicies@6.0.0

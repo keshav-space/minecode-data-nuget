@@ -1,0 +1,5 @@
+- pkg:nuget/GhostNetwork.EventBus.AzureServiceBus@1.0.0
+- pkg:nuget/GhostNetwork.EventBus.AzureServiceBus@1.0.1
+- pkg:nuget/GhostNetwork.EventBus.AzureServiceBus@1.0.2
+- pkg:nuget/GhostNetwork.EventBus.AzureServiceBus@1.0.3
+- pkg:nuget/GhostNetwork.EventBus.AzureServiceBus@1.0.4

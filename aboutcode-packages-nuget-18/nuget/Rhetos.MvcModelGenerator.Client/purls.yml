@@ -1,0 +1,7 @@
+- pkg:nuget/Rhetos.MvcModelGenerator.Client@2.3.0
+- pkg:nuget/Rhetos.MvcModelGenerator.Client@2.4.0
+- pkg:nuget/Rhetos.MvcModelGenerator.Client@2.5.0
+- pkg:nuget/Rhetos.MvcModelGenerator.Client@3.0.0
+- pkg:nuget/Rhetos.MvcModelGenerator.Client@3.1.0
+- pkg:nuget/Rhetos.MvcModelGenerator.Client@5.0.0
+- pkg:nuget/Rhetos.MvcModelGenerator.Client@6.0.0

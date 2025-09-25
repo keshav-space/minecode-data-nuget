@@ -1,0 +1,3 @@
+- pkg:nuget/Scaleout.Streaming.TimeWindowing@1.0.0-beta
+- pkg:nuget/Scaleout.Streaming.TimeWindowing@1.0.1-beta
+- pkg:nuget/Scaleout.Streaming.TimeWindowing@1.0.2

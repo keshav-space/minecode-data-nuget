@@ -1,0 +1,12 @@
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@1.0.0
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@1.0.1
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@1.0.2
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@1.1.1
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@1.1.2
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@1.1.3
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@1.1.4
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@1.1.5
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@2.0.0
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@2.1.0
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@3.0.0
+- pkg:nuget/MentKit.Persistence.MongoDB.Migrations@4.0.0

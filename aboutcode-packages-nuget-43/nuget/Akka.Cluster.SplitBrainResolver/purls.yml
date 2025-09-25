@@ -1,0 +1,13 @@
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.1
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.1-alpha.1
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.1-alpha.2
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.1-alpha.3
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.1-beta1
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.1-beta2
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.1-beta3
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.2
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.3
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.3-beta1
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.3-beta2
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.3-beta3
+- pkg:nuget/Akka.Cluster.SplitBrainResolver@0.0.4

@@ -1,0 +1,11 @@
+- pkg:nuget/Cake.ESLint@0.1.0
+- pkg:nuget/Cake.ESLint@0.1.0-beta0001
+- pkg:nuget/Cake.ESLint@0.2.0
+- pkg:nuget/Cake.ESLint@0.3.0
+- pkg:nuget/Cake.ESLint@0.4.0
+- pkg:nuget/Cake.ESLint@0.5.0
+- pkg:nuget/Cake.ESLint@0.5.1
+- pkg:nuget/Cake.ESLint@1.0.0
+- pkg:nuget/Cake.ESLint@2.0.0
+- pkg:nuget/Cake.ESLint@2.1.0
+- pkg:nuget/Cake.ESLint@3.0.0

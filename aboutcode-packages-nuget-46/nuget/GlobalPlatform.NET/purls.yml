@@ -1,0 +1,10 @@
+- pkg:nuget/GlobalPlatform.NET@0.9.0-pre
+- pkg:nuget/GlobalPlatform.NET@1.0.0
+- pkg:nuget/GlobalPlatform.NET@1.1.1
+- pkg:nuget/GlobalPlatform.NET@1.1.2
+- pkg:nuget/GlobalPlatform.NET@1.2.0
+- pkg:nuget/GlobalPlatform.NET@1.2.1
+- pkg:nuget/GlobalPlatform.NET@1.3.0
+- pkg:nuget/GlobalPlatform.NET@1.3.1
+- pkg:nuget/GlobalPlatform.NET@2.0.0
+- pkg:nuget/GlobalPlatform.NET@2.1.0

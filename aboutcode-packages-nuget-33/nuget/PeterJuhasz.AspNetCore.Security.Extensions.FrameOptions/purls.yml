@@ -1,0 +1,4 @@
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.FrameOptions@1.0.1
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.FrameOptions@2.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.FrameOptions@3.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.FrameOptions@6.0.0

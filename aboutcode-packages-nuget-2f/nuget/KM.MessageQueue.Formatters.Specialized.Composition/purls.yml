@@ -1,0 +1,9 @@
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@3.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@4.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@7.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@7.1.0
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@7.2.3
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@8.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@8.1.1
+- pkg:nuget/KM.MessageQueue.Formatters.Specialized.Composition@9.0.0

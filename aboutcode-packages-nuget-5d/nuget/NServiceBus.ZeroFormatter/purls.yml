@@ -1,0 +1,11 @@
+- pkg:nuget/NServiceBus.ZeroFormatter@0.1.0
+- pkg:nuget/NServiceBus.ZeroFormatter@1.0.0
+- pkg:nuget/NServiceBus.ZeroFormatter@1.0.1
+- pkg:nuget/NServiceBus.ZeroFormatter@1.0.2
+- pkg:nuget/NServiceBus.ZeroFormatter@1.1.0-beta001
+- pkg:nuget/NServiceBus.ZeroFormatter@1.1.0-beta002
+- pkg:nuget/NServiceBus.ZeroFormatter@2.0.0
+- pkg:nuget/NServiceBus.ZeroFormatter@2.0.0-beta001
+- pkg:nuget/NServiceBus.ZeroFormatter@3.0.0
+- pkg:nuget/NServiceBus.ZeroFormatter@3.0.1
+- pkg:nuget/NServiceBus.ZeroFormatter@3.0.3

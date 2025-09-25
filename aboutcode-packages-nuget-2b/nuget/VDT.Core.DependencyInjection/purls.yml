@@ -1,0 +1,16 @@
+- pkg:nuget/VDT.Core.DependencyInjection@1.0.0
+- pkg:nuget/VDT.Core.DependencyInjection@1.1.0
+- pkg:nuget/VDT.Core.DependencyInjection@1.2.0
+- pkg:nuget/VDT.Core.DependencyInjection@1.3.0
+- pkg:nuget/VDT.Core.DependencyInjection@2.0.0
+- pkg:nuget/VDT.Core.DependencyInjection@2.1.0
+- pkg:nuget/VDT.Core.DependencyInjection@2.1.1
+- pkg:nuget/VDT.Core.DependencyInjection@2.1.2
+- pkg:nuget/VDT.Core.DependencyInjection@3.0.0
+- pkg:nuget/VDT.Core.DependencyInjection@3.1.0
+- pkg:nuget/VDT.Core.DependencyInjection@3.2.0
+- pkg:nuget/VDT.Core.DependencyInjection@4.0.0
+- pkg:nuget/VDT.Core.DependencyInjection@4.1.0
+- pkg:nuget/VDT.Core.DependencyInjection@5.0.0
+- pkg:nuget/VDT.Core.DependencyInjection@6.0.0
+- pkg:nuget/VDT.Core.DependencyInjection@7.0.0

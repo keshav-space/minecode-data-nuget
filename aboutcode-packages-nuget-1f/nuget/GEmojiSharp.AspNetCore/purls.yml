@@ -1,0 +1,4 @@
+- pkg:nuget/GEmojiSharp.AspNetCore@2.0.0
+- pkg:nuget/GEmojiSharp.AspNetCore@3.0.0
+- pkg:nuget/GEmojiSharp.AspNetCore@3.1.0
+- pkg:nuget/GEmojiSharp.AspNetCore@4.0.0

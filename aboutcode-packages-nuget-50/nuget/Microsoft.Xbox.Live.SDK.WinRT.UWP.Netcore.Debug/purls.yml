@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.11.20171204.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.4.20170513.3
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.5.20170517.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.5.20170614.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.6.20170616.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.6.20170707.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.7.20170710.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.8.20170817.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2017.8.20170829.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2018.4.20180411.2
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2018.6.20180623.2
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2018.6.20180808.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2018.6.20180824.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2018.6.20180914.1
+- pkg:nuget/Microsoft.Xbox.Live.SDK.WinRT.UWP.Netcore.Debug@2018.6.20181010.2

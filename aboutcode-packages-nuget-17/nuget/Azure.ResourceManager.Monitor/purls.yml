@@ -1,0 +1,14 @@
+- pkg:nuget/Azure.ResourceManager.Monitor@1.0.0
+- pkg:nuget/Azure.ResourceManager.Monitor@1.0.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Monitor@1.0.0-beta.2
+- pkg:nuget/Azure.ResourceManager.Monitor@1.0.0-beta.3
+- pkg:nuget/Azure.ResourceManager.Monitor@1.0.1
+- pkg:nuget/Azure.ResourceManager.Monitor@1.1.0
+- pkg:nuget/Azure.ResourceManager.Monitor@1.2.0
+- pkg:nuget/Azure.ResourceManager.Monitor@1.3.0
+- pkg:nuget/Azure.ResourceManager.Monitor@1.3.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Monitor@1.3.0-beta.2
+- pkg:nuget/Azure.ResourceManager.Monitor@1.3.1
+- pkg:nuget/Azure.ResourceManager.Monitor@1.4.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Monitor@1.4.0-beta.2
+- pkg:nuget/Azure.ResourceManager.Monitor@1.4.0-beta.3

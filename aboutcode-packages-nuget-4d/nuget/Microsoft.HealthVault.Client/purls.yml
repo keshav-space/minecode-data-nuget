@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.HealthVault.Client@1.63.20414.2
+- pkg:nuget/Microsoft.HealthVault.Client@1.64.20421.2
+- pkg:nuget/Microsoft.HealthVault.Client@1.64.20501.1
+- pkg:nuget/Microsoft.HealthVault.Client@1.65.20508.1-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.65.20615.2-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.65.20615.4-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.65.20622.1-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.65.20623.1-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.65.20623.2-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.65.20717.1-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.66.20706.2-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.66.20714.1-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.67.20726.1-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.68.20731.1-preview
+- pkg:nuget/Microsoft.HealthVault.Client@1.70.20830.5-preview

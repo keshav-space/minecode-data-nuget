@@ -1,0 +1,16 @@
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@0.1.0-alpha7
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.0.0
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.0.1
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.0.1-alpha01
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.0.2
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.0.3
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.0.4
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.0.5
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.1.1
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@1.1.2
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@2.0.0
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@2.1.0
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@2.1.1
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@2.1.2
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@3.0.0
+- pkg:nuget/MentKit.Persistence.EntityFramework.Migrations@4.0.0

@@ -1,0 +1,17 @@
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@1.0.0
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@1.0.1
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@1.0.10
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@1.0.7
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@1.0.8
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@1.0.9
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@2.0.10
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@2.0.8
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@2.0.9
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@6.0.10
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@6.0.8
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@6.0.9
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@7.0.10
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@7.0.8
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@7.0.9
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@8.0.10
+- pkg:nuget/QueryInterceptor.EntityFrameworkCore@8.0.9

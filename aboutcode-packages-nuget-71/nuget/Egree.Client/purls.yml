@@ -1,0 +1,17 @@
+- pkg:nuget/Egree.Client@2.0.0-beta
+- pkg:nuget/Egree.Client@2.0.1-beta
+- pkg:nuget/Egree.Client@2.1.0-beta
+- pkg:nuget/Egree.Client@2.2.0-beta
+- pkg:nuget/Egree.Client@2.2.1-beta
+- pkg:nuget/Egree.Client@2.2.2-beta
+- pkg:nuget/Egree.Client@2.3.0-beta
+- pkg:nuget/Egree.Client@2.3.1-beta
+- pkg:nuget/Egree.Client@2.4.0-beta
+- pkg:nuget/Egree.Client@2.5.0-beta
+- pkg:nuget/Egree.Client@2.6.0-beta
+- pkg:nuget/Egree.Client@2.7.0
+- pkg:nuget/Egree.Client@3.0.0
+- pkg:nuget/Egree.Client@3.1.0
+- pkg:nuget/Egree.Client@3.2.0
+- pkg:nuget/Egree.Client@3.3.0-beta
+- pkg:nuget/Egree.Client@4.1.0

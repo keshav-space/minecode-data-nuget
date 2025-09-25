@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0-msbuild1-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0-msbuild2-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0-msbuild2-update1
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0-msbuild3-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0-preview1-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0-preview2-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0-preview3-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.0-preview4-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.0.1
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@1.1.0-preview4-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@2.0.0
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@2.0.0-preview1-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@2.0.0-preview2-final
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@2.0.1
+- pkg:nuget/Microsoft.Extensions.SecretManager.Tools@2.0.2

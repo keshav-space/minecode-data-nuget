@@ -1,0 +1,15 @@
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@6.0.1
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@6.0.2
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@6.0.3
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@6.1.0
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@6.1.1
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@6.2.0
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@6.2.0-preview.1
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@6.2.1
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@7.0.0
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@7.0.0-alpha.0
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@8.0.0
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@8.1.0
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@8.2.0
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@8.3.0
+- pkg:nuget/alsami.Duende.IdentityServer.AspNetCore.Testing@8.4.0

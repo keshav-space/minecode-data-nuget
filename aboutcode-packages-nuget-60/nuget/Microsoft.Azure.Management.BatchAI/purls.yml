@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Management.BatchAI@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.BatchAI@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.BatchAI@1.0.1
+- pkg:nuget/Microsoft.Azure.Management.BatchAI@2.0.0

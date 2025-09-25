@@ -1,0 +1,11 @@
+- pkg:nuget/Owin.Security.OAuth.Validation@1.0.0
+- pkg:nuget/Owin.Security.OAuth.Validation@1.0.0-alpha1-final
+- pkg:nuget/Owin.Security.OAuth.Validation@1.0.0-alpha2-final
+- pkg:nuget/Owin.Security.OAuth.Validation@1.0.0-alpha3-final
+- pkg:nuget/Owin.Security.OAuth.Validation@1.0.0-beta1-final
+- pkg:nuget/Owin.Security.OAuth.Validation@1.1.0
+- pkg:nuget/Owin.Security.OAuth.Validation@1.1.0-preview-final
+- pkg:nuget/Owin.Security.OAuth.Validation@2.0.0
+- pkg:nuget/Owin.Security.OAuth.Validation@2.0.0-rc1-final
+- pkg:nuget/Owin.Security.OAuth.Validation@2.0.0-rc2-final
+- pkg:nuget/Owin.Security.OAuth.Validation@2.0.0-rc3-final

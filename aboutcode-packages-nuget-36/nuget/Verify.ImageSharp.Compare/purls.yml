@@ -1,0 +1,11 @@
+- pkg:nuget/Verify.ImageSharp.Compare@1.0.0
+- pkg:nuget/Verify.ImageSharp.Compare@1.1.0
+- pkg:nuget/Verify.ImageSharp.Compare@2.0.0
+- pkg:nuget/Verify.ImageSharp.Compare@2.0.0-beta.1
+- pkg:nuget/Verify.ImageSharp.Compare@2.0.0-beta.2
+- pkg:nuget/Verify.ImageSharp.Compare@2.0.0-beta.3
+- pkg:nuget/Verify.ImageSharp.Compare@2.0.1
+- pkg:nuget/Verify.ImageSharp.Compare@2.1.0
+- pkg:nuget/Verify.ImageSharp.Compare@3.0.0
+- pkg:nuget/Verify.ImageSharp.Compare@3.0.1
+- pkg:nuget/Verify.ImageSharp.Compare@3.0.2

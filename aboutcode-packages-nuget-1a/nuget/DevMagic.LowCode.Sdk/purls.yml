@@ -1,0 +1,5 @@
+- pkg:nuget/DevMagic.LowCode.Sdk@1.0.0-beta
+- pkg:nuget/DevMagic.LowCode.Sdk@1.0.0-preview
+- pkg:nuget/DevMagic.LowCode.Sdk@1.0.0-preview2
+- pkg:nuget/DevMagic.LowCode.Sdk@1.0.0-preview2-02
+- pkg:nuget/DevMagic.LowCode.Sdk@1.0.0-rc

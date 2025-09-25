@@ -1,0 +1,13 @@
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.10.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.10.1
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.11.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.12.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.13.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.13.1
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.14.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.15.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.16.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.17.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.6.1
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.8.0
+- pkg:nuget/JustCSharp.AspNetCore.FluentValidation@2.9.0

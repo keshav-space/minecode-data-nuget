@@ -1,0 +1,6 @@
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.HttpPublicKeyPinning@1.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.HttpPublicKeyPinning@1.0.1
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.HttpPublicKeyPinning@1.0.2
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.HttpPublicKeyPinning@2.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.HttpPublicKeyPinning@3.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.HttpPublicKeyPinning@6.0.0

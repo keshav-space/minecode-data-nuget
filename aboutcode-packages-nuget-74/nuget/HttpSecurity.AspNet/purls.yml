@@ -1,0 +1,9 @@
+- pkg:nuget/HttpSecurity.AspNet@1.0.0
+- pkg:nuget/HttpSecurity.AspNet@1.0.0-preview.1
+- pkg:nuget/HttpSecurity.AspNet@1.0.0-preview.2
+- pkg:nuget/HttpSecurity.AspNet@1.0.0-preview.3
+- pkg:nuget/HttpSecurity.AspNet@1.0.0-preview.4
+- pkg:nuget/HttpSecurity.AspNet@1.0.0-preview.5
+- pkg:nuget/HttpSecurity.AspNet@1.0.0-preview.6
+- pkg:nuget/HttpSecurity.AspNet@1.1.0
+- pkg:nuget/HttpSecurity.AspNet@1.2.0

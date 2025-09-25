@@ -1,0 +1,8 @@
+- pkg:nuget/KM.MessageQueue.Formatters.StringToHttpContent@4.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToHttpContent@7.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToHttpContent@7.1.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToHttpContent@7.2.3
+- pkg:nuget/KM.MessageQueue.Formatters.StringToHttpContent@8.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToHttpContent@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.Formatters.StringToHttpContent@8.1.1
+- pkg:nuget/KM.MessageQueue.Formatters.StringToHttpContent@9.0.0

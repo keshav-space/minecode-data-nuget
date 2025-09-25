@@ -1,0 +1,15 @@
+- pkg:nuget/NeinLinq.Queryable@2.0.0
+- pkg:nuget/NeinLinq.Queryable@2.0.0-rc1
+- pkg:nuget/NeinLinq.Queryable@2.0.0-rc2
+- pkg:nuget/NeinLinq.Queryable@2.1.0
+- pkg:nuget/NeinLinq.Queryable@2.1.1
+- pkg:nuget/NeinLinq.Queryable@2.2.0
+- pkg:nuget/NeinLinq.Queryable@2.2.1
+- pkg:nuget/NeinLinq.Queryable@2.3.0
+- pkg:nuget/NeinLinq.Queryable@3.0.0
+- pkg:nuget/NeinLinq.Queryable@3.1.0
+- pkg:nuget/NeinLinq.Queryable@3.1.1
+- pkg:nuget/NeinLinq.Queryable@3.2.0
+- pkg:nuget/NeinLinq.Queryable@3.2.0-preview.438
+- pkg:nuget/NeinLinq.Queryable@3.2.1
+- pkg:nuget/NeinLinq.Queryable@4.0.0

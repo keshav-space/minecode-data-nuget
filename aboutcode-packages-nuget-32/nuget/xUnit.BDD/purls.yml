@@ -1,0 +1,17 @@
+- pkg:nuget/xUnit.BDD@1.9.1.1
+- pkg:nuget/xUnit.BDD@1.9.2
+- pkg:nuget/xUnit.BDD@2.0.0
+- pkg:nuget/xUnit.BDD@3.0.0
+- pkg:nuget/xUnit.BDD@4.0.0
+- pkg:nuget/xUnit.BDD@4.0.0-beta.1
+- pkg:nuget/xUnit.BDD@4.0.0-beta.2
+- pkg:nuget/xUnit.BDD@4.0.0-beta.3
+- pkg:nuget/xUnit.BDD@4.0.1
+- pkg:nuget/xUnit.BDD@4.0.1-initialize-once.1
+- pkg:nuget/xUnit.BDD@4.0.2
+- pkg:nuget/xUnit.BDD@4.0.2-reproducible-order.1
+- pkg:nuget/xUnit.BDD@5.0.0
+- pkg:nuget/xUnit.BDD@5.0.0-slow-and-steady.1
+- pkg:nuget/xUnit.BDD@5.0.1
+- pkg:nuget/xUnit.BDD@5.1.0
+- pkg:nuget/xUnit.BDD@6.0.0

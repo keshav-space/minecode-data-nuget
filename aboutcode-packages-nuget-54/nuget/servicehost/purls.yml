@@ -1,0 +1,17 @@
+- pkg:nuget/servicehost@1.0.0
+- pkg:nuget/servicehost@2.0.0
+- pkg:nuget/servicehost@2.1.0
+- pkg:nuget/servicehost@2.1.1
+- pkg:nuget/servicehost@2.1.2
+- pkg:nuget/servicehost@2.2.0
+- pkg:nuget/servicehost@2.3.0
+- pkg:nuget/servicehost@2.3.1
+- pkg:nuget/servicehost@2.3.2
+- pkg:nuget/servicehost@2.4.0
+- pkg:nuget/servicehost@2.5.0
+- pkg:nuget/servicehost@2.6.0
+- pkg:nuget/servicehost@2.6.1
+- pkg:nuget/servicehost@2.7.0
+- pkg:nuget/servicehost@2.8.0
+- pkg:nuget/servicehost@2.8.1
+- pkg:nuget/servicehost@2.9.0

@@ -1,0 +1,9 @@
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@3.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@4.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@7.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@7.1.0
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@7.2.3
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@8.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@8.1.1
+- pkg:nuget/KM.MessageQueue.Formatters.ObjectToJsonObject@9.0.0

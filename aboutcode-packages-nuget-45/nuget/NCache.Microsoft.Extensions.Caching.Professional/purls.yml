@@ -1,0 +1,12 @@
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.0.2
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.0.3
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.0.4
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.0.4.1
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.1.0
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.2.0
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.2.0.1
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.2.1
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.3.0
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.3.1
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.3.5
+- pkg:nuget/NCache.Microsoft.Extensions.Caching.Professional@5.3.5.1

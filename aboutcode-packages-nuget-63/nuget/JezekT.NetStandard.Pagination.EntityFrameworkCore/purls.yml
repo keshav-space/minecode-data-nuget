@@ -1,0 +1,4 @@
+- pkg:nuget/JezekT.NetStandard.Pagination.EntityFrameworkCore@1.0.0-beta
+- pkg:nuget/JezekT.NetStandard.Pagination.EntityFrameworkCore@1.0.0.1-beta
+- pkg:nuget/JezekT.NetStandard.Pagination.EntityFrameworkCore@1.0.1-beta
+- pkg:nuget/JezekT.NetStandard.Pagination.EntityFrameworkCore@2.0.0-beta

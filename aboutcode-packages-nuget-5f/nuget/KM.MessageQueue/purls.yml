@@ -1,0 +1,12 @@
+- pkg:nuget/KM.MessageQueue@1.0.0
+- pkg:nuget/KM.MessageQueue@1.0.1
+- pkg:nuget/KM.MessageQueue@2.0.0
+- pkg:nuget/KM.MessageQueue@3.0.0
+- pkg:nuget/KM.MessageQueue@4.0.0
+- pkg:nuget/KM.MessageQueue@7.0.0
+- pkg:nuget/KM.MessageQueue@7.1.0
+- pkg:nuget/KM.MessageQueue@7.2.3
+- pkg:nuget/KM.MessageQueue@8.0.0
+- pkg:nuget/KM.MessageQueue@8.1.0-beta
+- pkg:nuget/KM.MessageQueue@8.1.1
+- pkg:nuget/KM.MessageQueue@9.0.0

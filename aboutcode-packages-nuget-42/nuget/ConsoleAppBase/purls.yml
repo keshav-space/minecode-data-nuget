@@ -1,0 +1,4 @@
+- pkg:nuget/ConsoleAppBase@1.0.0
+- pkg:nuget/ConsoleAppBase@1.0.0-preview-01
+- pkg:nuget/ConsoleAppBase@1.0.0-preview-02
+- pkg:nuget/ConsoleAppBase@1.0.0-preview-02-test

@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.DotNet.Watcher.Core@1.0.0-preview1-20896
+- pkg:nuget/Microsoft.DotNet.Watcher.Core@1.0.0-preview2-final
+- pkg:nuget/Microsoft.DotNet.Watcher.Core@1.0.0-preview4-final

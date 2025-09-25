@@ -1,0 +1,4 @@
+- pkg:nuget/Justin.AspNetCore.LdapAuthentication@1.0.0
+- pkg:nuget/Justin.AspNetCore.LdapAuthentication@1.0.0-preview00
+- pkg:nuget/Justin.AspNetCore.LdapAuthentication@2.0.0
+- pkg:nuget/Justin.AspNetCore.LdapAuthentication@2.0.0-preview00

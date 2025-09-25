@@ -1,0 +1,4 @@
+- pkg:nuget/JezekT.NetStandard.Services.EntityFrameworkCore@1.0.0-beta
+- pkg:nuget/JezekT.NetStandard.Services.EntityFrameworkCore@1.0.1-beta
+- pkg:nuget/JezekT.NetStandard.Services.EntityFrameworkCore@1.0.1.1-beta
+- pkg:nuget/JezekT.NetStandard.Services.EntityFrameworkCore@2.0.0-beta

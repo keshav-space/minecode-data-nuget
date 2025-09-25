@@ -1,0 +1,15 @@
+- pkg:nuget/MassTransit.Courier@2.10.0
+- pkg:nuget/MassTransit.Courier@2.10.1
+- pkg:nuget/MassTransit.Courier@2.10.2
+- pkg:nuget/MassTransit.Courier@2.7.1
+- pkg:nuget/MassTransit.Courier@2.7.2
+- pkg:nuget/MassTransit.Courier@2.7.3
+- pkg:nuget/MassTransit.Courier@2.7.4
+- pkg:nuget/MassTransit.Courier@2.8.0
+- pkg:nuget/MassTransit.Courier@2.8.1
+- pkg:nuget/MassTransit.Courier@2.9.0
+- pkg:nuget/MassTransit.Courier@2.9.2
+- pkg:nuget/MassTransit.Courier@2.9.5
+- pkg:nuget/MassTransit.Courier@2.9.7
+- pkg:nuget/MassTransit.Courier@2.9.8
+- pkg:nuget/MassTransit.Courier@2.9.9

@@ -1,0 +1,9 @@
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@1.0.0
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@1.1.0
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@1.2.0
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@1.3.0
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@1.5.0
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@2.0.0
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@2.1.0
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@2.2.0
+- pkg:nuget/Linn.Core.Proxy.RestSharpClient@2.2.1

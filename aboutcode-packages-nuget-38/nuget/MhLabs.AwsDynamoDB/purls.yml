@@ -1,0 +1,10 @@
+- pkg:nuget/MhLabs.AwsDynamoDB@1.0.0
+- pkg:nuget/MhLabs.AwsDynamoDB@1.0.1
+- pkg:nuget/MhLabs.AwsDynamoDB@1.0.2
+- pkg:nuget/MhLabs.AwsDynamoDB@2.0.0
+- pkg:nuget/MhLabs.AwsDynamoDB@2.1.0
+- pkg:nuget/MhLabs.AwsDynamoDB@2.2.0
+- pkg:nuget/MhLabs.AwsDynamoDB@2.3.0
+- pkg:nuget/MhLabs.AwsDynamoDB@2.4.0
+- pkg:nuget/MhLabs.AwsDynamoDB@3.0.0
+- pkg:nuget/MhLabs.AwsDynamoDB@4.0.0

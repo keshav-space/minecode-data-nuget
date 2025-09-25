@@ -1,0 +1,6 @@
+- pkg:nuget/Weapsy.Cqrs.Store.EF.PostgreSql@3.0.0
+- pkg:nuget/Weapsy.Cqrs.Store.EF.PostgreSql@3.1.0
+- pkg:nuget/Weapsy.Cqrs.Store.EF.PostgreSql@4.0.0
+- pkg:nuget/Weapsy.Cqrs.Store.EF.PostgreSql@4.0.1
+- pkg:nuget/Weapsy.Cqrs.Store.EF.PostgreSql@4.1.0
+- pkg:nuget/Weapsy.Cqrs.Store.EF.PostgreSql@4.1.1

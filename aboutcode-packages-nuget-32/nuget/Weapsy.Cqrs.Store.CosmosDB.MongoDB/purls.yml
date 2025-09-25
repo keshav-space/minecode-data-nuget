@@ -1,0 +1,6 @@
+- pkg:nuget/Weapsy.Cqrs.Store.CosmosDB.MongoDB@3.0.0
+- pkg:nuget/Weapsy.Cqrs.Store.CosmosDB.MongoDB@3.1.0
+- pkg:nuget/Weapsy.Cqrs.Store.CosmosDB.MongoDB@4.0.0
+- pkg:nuget/Weapsy.Cqrs.Store.CosmosDB.MongoDB@4.0.1
+- pkg:nuget/Weapsy.Cqrs.Store.CosmosDB.MongoDB@4.1.0
+- pkg:nuget/Weapsy.Cqrs.Store.CosmosDB.MongoDB@4.1.1

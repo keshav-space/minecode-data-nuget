@@ -1,0 +1,8 @@
+- pkg:nuget/Infrastructure.Data.BlobStorage@1.0.0
+- pkg:nuget/Infrastructure.Data.BlobStorage@1.0.1
+- pkg:nuget/Infrastructure.Data.BlobStorage@1.0.2
+- pkg:nuget/Infrastructure.Data.BlobStorage@2.0.0
+- pkg:nuget/Infrastructure.Data.BlobStorage@2.0.2
+- pkg:nuget/Infrastructure.Data.BlobStorage@2.0.3
+- pkg:nuget/Infrastructure.Data.BlobStorage@6.0.0
+- pkg:nuget/Infrastructure.Data.BlobStorage@8.0.0

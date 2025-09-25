@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Extensions.CommandLineUtils@0.0.1-alpha
+- pkg:nuget/Microsoft.Extensions.CommandLineUtils@1.0.0
+- pkg:nuget/Microsoft.Extensions.CommandLineUtils@1.0.0-rc2-final
+- pkg:nuget/Microsoft.Extensions.CommandLineUtils@1.0.1
+- pkg:nuget/Microsoft.Extensions.CommandLineUtils@1.1.0
+- pkg:nuget/Microsoft.Extensions.CommandLineUtils@1.1.0-preview1-final
+- pkg:nuget/Microsoft.Extensions.CommandLineUtils@1.1.1

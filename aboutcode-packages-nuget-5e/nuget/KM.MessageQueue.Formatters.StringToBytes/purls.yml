@@ -1,0 +1,9 @@
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@3.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@4.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@7.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@7.1.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@7.2.3
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@8.0.0
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@8.1.1
+- pkg:nuget/KM.MessageQueue.Formatters.StringToBytes@9.0.0

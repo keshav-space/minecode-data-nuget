@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.AspNetCore.Server.IISIntegration.Tools@1.0.0-preview1-final
+- pkg:nuget/Microsoft.AspNetCore.Server.IISIntegration.Tools@1.0.0-preview2-final
+- pkg:nuget/Microsoft.AspNetCore.Server.IISIntegration.Tools@1.0.0-preview3-final
+- pkg:nuget/Microsoft.AspNetCore.Server.IISIntegration.Tools@1.0.0-preview4-final
+- pkg:nuget/Microsoft.AspNetCore.Server.IISIntegration.Tools@1.1.0-preview4-final

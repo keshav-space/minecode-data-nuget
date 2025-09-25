@@ -1,0 +1,7 @@
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ContentSecurityPolicy@1.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ContentSecurityPolicy@1.0.1
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ContentSecurityPolicy@2.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ContentSecurityPolicy@2.0.1
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ContentSecurityPolicy@2.1.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ContentSecurityPolicy@3.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ContentSecurityPolicy@6.0.0

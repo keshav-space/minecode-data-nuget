@@ -1,0 +1,9 @@
+- pkg:nuget/Oracle.nosql.driver@18.1.12
+- pkg:nuget/Oracle.nosql.driver@4.2.12
+- pkg:nuget/Oracle.nosql.driver@4.4.6-rc01
+- pkg:nuget/Oracle.nosql.driver@4.4.6-rc02
+- pkg:nuget/Oracle.nosql.driver@4.4.6-rc03
+- pkg:nuget/Oracle.nosql.driver@4.4.6-rc04
+- pkg:nuget/Oracle.nosql.driver@4.4.6-rc05
+- pkg:nuget/Oracle.nosql.driver@4.4.6-rc06
+- pkg:nuget/Oracle.nosql.driver@4.5.12

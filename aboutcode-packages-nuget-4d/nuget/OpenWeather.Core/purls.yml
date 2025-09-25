@@ -1,0 +1,9 @@
+- pkg:nuget/OpenWeather.Core@1.0.0
+- pkg:nuget/OpenWeather.Core@1.0.0-CI00009
+- pkg:nuget/OpenWeather.Core@1.0.0.13
+- pkg:nuget/OpenWeather.Core@1.0.0.16
+- pkg:nuget/OpenWeather.Core@1.0.0.19
+- pkg:nuget/OpenWeather.Core@1.0.0.20
+- pkg:nuget/OpenWeather.Core@1.0.0.21
+- pkg:nuget/OpenWeather.Core@1.0.0.23
+- pkg:nuget/OpenWeather.Core@1.0.0.25

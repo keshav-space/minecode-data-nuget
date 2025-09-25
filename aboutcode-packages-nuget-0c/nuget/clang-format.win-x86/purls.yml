@@ -1,0 +1,2 @@
+- pkg:nuget/clang-format.win-x86@16.0.1
+- pkg:nuget/clang-format.win-x86@17.0.1

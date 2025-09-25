@@ -1,0 +1,5 @@
+- pkg:nuget/Threax.AspNetCore.FileRepository@2.0.1
+- pkg:nuget/Threax.AspNetCore.FileRepository@3.0.0
+- pkg:nuget/Threax.AspNetCore.FileRepository@3.0.1
+- pkg:nuget/Threax.AspNetCore.FileRepository@3.1.0
+- pkg:nuget/Threax.AspNetCore.FileRepository@4.0.0

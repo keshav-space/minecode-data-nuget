@@ -1,0 +1,4 @@
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ReferrerPolicy@1.0.1
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ReferrerPolicy@2.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ReferrerPolicy@3.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.ReferrerPolicy@6.0.0

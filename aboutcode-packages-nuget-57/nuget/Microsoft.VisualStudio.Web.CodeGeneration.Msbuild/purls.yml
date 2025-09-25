@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild@1.0.0
+- pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild@1.0.0-msbuild1-final
+- pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild@1.0.0-msbuild2-final
+- pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild@1.0.0-msbuild3-final
+- pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild@1.1.0
+- pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild@1.1.0-msbuild3-final

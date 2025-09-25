@@ -1,0 +1,3 @@
+- pkg:nuget/Movidesk.SignalR.SelfHost@2.2.1
+- pkg:nuget/Movidesk.SignalR.SelfHost@2.2.3
+- pkg:nuget/Movidesk.SignalR.SelfHost@3.0.0

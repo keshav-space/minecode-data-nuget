@@ -1,0 +1,8 @@
+- pkg:nuget/RedisPooler@1.0.0
+- pkg:nuget/RedisPooler@2.0.0
+- pkg:nuget/RedisPooler@2.0.15
+- pkg:nuget/RedisPooler@2.0.18
+- pkg:nuget/RedisPooler@2.0.27
+- pkg:nuget/RedisPooler@2.0.37
+- pkg:nuget/RedisPooler@2.0.40
+- pkg:nuget/RedisPooler@2.0.41
