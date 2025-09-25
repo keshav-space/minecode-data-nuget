@@ -1,0 +1,4 @@
+- pkg:nuget/Bucket.SkyApm.Agent.AspNetCore@1.0.1
+- pkg:nuget/Bucket.SkyApm.Agent.AspNetCore@1.0.2
+- pkg:nuget/Bucket.SkyApm.Agent.AspNetCore@1.0.3
+- pkg:nuget/Bucket.SkyApm.Agent.AspNetCore@1.2.0.1

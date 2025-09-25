@@ -1,0 +1,3 @@
+- pkg:nuget/Lambda.GenericHttpClient@1.0.0-beta
+- pkg:nuget/Lambda.GenericHttpClient@1.0.1
+- pkg:nuget/Lambda.GenericHttpClient@1.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.AspNet.SessionState.SessionStateModule@1.0.0
+- pkg:nuget/Microsoft.AspNet.SessionState.SessionStateModule@1.1.0
+- pkg:nuget/Microsoft.AspNet.SessionState.SessionStateModule@2.0.0
+- pkg:nuget/Microsoft.AspNet.SessionState.SessionStateModule@2.0.0-preview1

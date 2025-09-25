@@ -1,0 +1,8 @@
+- pkg:nuget/StirlingLabs.MsQuic@22.10.0
+- pkg:nuget/StirlingLabs.MsQuic@22.11.0
+- pkg:nuget/StirlingLabs.MsQuic@22.5.0
+- pkg:nuget/StirlingLabs.MsQuic@22.5.1
+- pkg:nuget/StirlingLabs.MsQuic@23.2.0
+- pkg:nuget/StirlingLabs.MsQuic@23.3.0
+- pkg:nuget/StirlingLabs.MsQuic@23.7.0
+- pkg:nuget/StirlingLabs.MsQuic@23.7.1

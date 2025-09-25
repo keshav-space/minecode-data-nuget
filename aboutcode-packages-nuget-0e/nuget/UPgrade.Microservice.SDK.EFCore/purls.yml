@@ -1,0 +1,4 @@
+- pkg:nuget/UPgrade.Microservice.SDK.EFCore@1.0.14
+- pkg:nuget/UPgrade.Microservice.SDK.EFCore@1.0.16
+- pkg:nuget/UPgrade.Microservice.SDK.EFCore@1.0.17
+- pkg:nuget/UPgrade.Microservice.SDK.EFCore@1.0.18

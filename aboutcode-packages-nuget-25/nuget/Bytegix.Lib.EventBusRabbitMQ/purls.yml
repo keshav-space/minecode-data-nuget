@@ -1,0 +1,6 @@
+- pkg:nuget/Bytegix.Lib.EventBusRabbitMQ@0.1.0
+- pkg:nuget/Bytegix.Lib.EventBusRabbitMQ@0.1.0-rc
+- pkg:nuget/Bytegix.Lib.EventBusRabbitMQ@0.1.4
+- pkg:nuget/Bytegix.Lib.EventBusRabbitMQ@0.1.5
+- pkg:nuget/Bytegix.Lib.EventBusRabbitMQ@0.1.6-rc
+- pkg:nuget/Bytegix.Lib.EventBusRabbitMQ@0.1.7-rc

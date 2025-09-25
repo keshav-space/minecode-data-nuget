@@ -1,0 +1,4 @@
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.SyncNuGets@1.0.2
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.SyncNuGets@2.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.SyncNuGets@2.1.0
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.SyncNuGets@2.1.0-beta1

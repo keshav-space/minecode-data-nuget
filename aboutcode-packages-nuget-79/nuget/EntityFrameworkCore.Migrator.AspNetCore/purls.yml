@@ -1,0 +1,6 @@
+- pkg:nuget/EntityFrameworkCore.Migrator.AspNetCore@1.0.0
+- pkg:nuget/EntityFrameworkCore.Migrator.AspNetCore@1.0.1
+- pkg:nuget/EntityFrameworkCore.Migrator.AspNetCore@6.0.0
+- pkg:nuget/EntityFrameworkCore.Migrator.AspNetCore@6.0.23
+- pkg:nuget/EntityFrameworkCore.Migrator.AspNetCore@7.0.0
+- pkg:nuget/EntityFrameworkCore.Migrator.AspNetCore@7.0.12

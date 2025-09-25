@@ -1,0 +1,5 @@
+- pkg:nuget/Colosoft.Data.EntityFramework.Sqlite@3.0.0-alpha-1
+- pkg:nuget/Colosoft.Data.EntityFramework.Sqlite@3.0.0-alpha.1
+- pkg:nuget/Colosoft.Data.EntityFramework.Sqlite@3.0.0-alpha.2
+- pkg:nuget/Colosoft.Data.EntityFramework.Sqlite@3.0.0-beta.1
+- pkg:nuget/Colosoft.Data.EntityFramework.Sqlite@3.0.0-beta.2

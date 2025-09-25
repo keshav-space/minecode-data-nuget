@@ -1,0 +1,2 @@
+- pkg:nuget/IdentityServer7.EntityFrameworkCore@2.0.0
+- pkg:nuget/IdentityServer7.EntityFrameworkCore@2.0.4

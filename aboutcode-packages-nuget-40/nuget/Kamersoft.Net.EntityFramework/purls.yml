@@ -1,0 +1,5 @@
+- pkg:nuget/Kamersoft.Net.EntityFramework@8.0.0-preview-1
+- pkg:nuget/Kamersoft.Net.EntityFramework@8.0.0-preview-2
+- pkg:nuget/Kamersoft.Net.EntityFramework@8.0.0-preview.3
+- pkg:nuget/Kamersoft.Net.EntityFramework@8.0.0-rc.1
+- pkg:nuget/Kamersoft.Net.EntityFramework@8.0.0-rc.1.1

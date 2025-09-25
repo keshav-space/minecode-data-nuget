@@ -1,0 +1,5 @@
+- pkg:nuget/DemoSampleNuGet@0.0.0
+- pkg:nuget/DemoSampleNuGet@0.0.0-alpha.0.11
+- pkg:nuget/DemoSampleNuGet@0.0.0-alpha.0.12
+- pkg:nuget/DemoSampleNuGet@0.0.0-alpha.0.13
+- pkg:nuget/DemoSampleNuGet@0.0.0-alpha.0.14

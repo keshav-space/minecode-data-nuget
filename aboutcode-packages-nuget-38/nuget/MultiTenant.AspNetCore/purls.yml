@@ -1,0 +1,4 @@
+- pkg:nuget/MultiTenant.AspNetCore@0.1.0-alpha
+- pkg:nuget/MultiTenant.AspNetCore@0.1.1
+- pkg:nuget/MultiTenant.AspNetCore@0.1.2
+- pkg:nuget/MultiTenant.AspNetCore@0.1.3

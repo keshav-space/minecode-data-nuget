@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Attestation.Client@0.1.181
+- pkg:nuget/Microsoft.Attestation.Client@1.0.108861965-preview

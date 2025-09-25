@@ -1,0 +1,4 @@
+- pkg:nuget/CobMvc.Core@0.0.1-alpha
+- pkg:nuget/CobMvc.Core@0.1.0-rc
+- pkg:nuget/CobMvc.Core@0.2.0-beta
+- pkg:nuget/CobMvc.Core@0.2.1

@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCoreMigrationShims.NewtonsoftJson.NetFrameworkCompatibility@1.0.0
+- pkg:nuget/AspNetCoreMigrationShims.NewtonsoftJson.NetFrameworkCompatibility@1.0.1

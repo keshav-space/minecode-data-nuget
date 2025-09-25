@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Devices.ProtocolGateway@1.0.0-preview-001
+- pkg:nuget/Microsoft.Azure.Devices.ProtocolGateway@1.0.0-preview-002
+- pkg:nuget/Microsoft.Azure.Devices.ProtocolGateway@1.0.0-preview-003
+- pkg:nuget/Microsoft.Azure.Devices.ProtocolGateway@1.0.0-preview-004

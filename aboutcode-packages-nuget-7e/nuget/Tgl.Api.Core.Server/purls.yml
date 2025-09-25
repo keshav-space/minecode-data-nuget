@@ -1,0 +1,4 @@
+- pkg:nuget/Tgl.Api.Core.Server@0.1.0-ci.1
+- pkg:nuget/Tgl.Api.Core.Server@1.8.0
+- pkg:nuget/Tgl.Api.Core.Server@1.8.1-ci.1
+- pkg:nuget/Tgl.Api.Core.Server@1.8.1-ci.2

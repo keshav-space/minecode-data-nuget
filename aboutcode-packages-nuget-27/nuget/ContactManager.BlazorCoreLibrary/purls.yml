@@ -1,0 +1,4 @@
+- pkg:nuget/ContactManager.BlazorCoreLibrary@1.0.1
+- pkg:nuget/ContactManager.BlazorCoreLibrary@1.0.2
+- pkg:nuget/ContactManager.BlazorCoreLibrary@2.0.1
+- pkg:nuget/ContactManager.BlazorCoreLibrary@3.0.1

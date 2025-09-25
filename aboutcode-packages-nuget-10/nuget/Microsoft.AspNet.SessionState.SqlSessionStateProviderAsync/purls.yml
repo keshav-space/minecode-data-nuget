@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.AspNet.SessionState.SqlSessionStateProviderAsync@1.0.0
+- pkg:nuget/Microsoft.AspNet.SessionState.SqlSessionStateProviderAsync@1.1.0
+- pkg:nuget/Microsoft.AspNet.SessionState.SqlSessionStateProviderAsync@2.0.0
+- pkg:nuget/Microsoft.AspNet.SessionState.SqlSessionStateProviderAsync@2.0.0-preview1

@@ -1,0 +1,6 @@
+- pkg:nuget/OverwatchCore@1.0.0-CI-20190202-050738
+- pkg:nuget/OverwatchCore@1.0.0-CI-20190202-055712
+- pkg:nuget/OverwatchCore@1.0.0-CI-20190202-061813
+- pkg:nuget/OverwatchCore@1.0.1
+- pkg:nuget/OverwatchCore@1.0.2
+- pkg:nuget/OverwatchCore@1.0.3

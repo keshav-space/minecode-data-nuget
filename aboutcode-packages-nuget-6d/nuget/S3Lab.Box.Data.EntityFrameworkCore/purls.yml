@@ -1,0 +1,4 @@
+- pkg:nuget/S3Lab.Box.Data.EntityFrameworkCore@1.0.1
+- pkg:nuget/S3Lab.Box.Data.EntityFrameworkCore@1.0.2
+- pkg:nuget/S3Lab.Box.Data.EntityFrameworkCore@6.0.0
+- pkg:nuget/S3Lab.Box.Data.EntityFrameworkCore@6.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/gitcore.AspNetCore@7.0.0
+- pkg:nuget/gitcore.AspNetCore@8.0.0
