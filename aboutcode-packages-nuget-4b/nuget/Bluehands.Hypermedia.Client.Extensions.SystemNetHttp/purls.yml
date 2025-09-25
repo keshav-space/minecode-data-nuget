@@ -1,0 +1,4 @@
+- pkg:nuget/Bluehands.Hypermedia.Client.Extensions.SystemNetHttp@1.0.0
+- pkg:nuget/Bluehands.Hypermedia.Client.Extensions.SystemNetHttp@1.0.0-HypermediaClientsideCaching-10849
+- pkg:nuget/Bluehands.Hypermedia.Client.Extensions.SystemNetHttp@1.0.1
+- pkg:nuget/Bluehands.Hypermedia.Client.Extensions.SystemNetHttp@1.0.1-System.Net.Http-Extension-v1.0.1-11248

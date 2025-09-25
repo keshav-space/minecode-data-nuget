@@ -1,0 +1,8 @@
+- pkg:nuget/Swagger-Generator@1.0.0
+- pkg:nuget/Swagger-Generator@1.0.1
+- pkg:nuget/Swagger-Generator@1.0.1-alpha1
+- pkg:nuget/Swagger-Generator@1.0.1-alpha2
+- pkg:nuget/Swagger-Generator@1.0.1-beta1
+- pkg:nuget/Swagger-Generator@1.5.0
+- pkg:nuget/Swagger-Generator@1.6.5
+- pkg:nuget/Swagger-Generator@1.6.6

@@ -1,0 +1,3 @@
+- pkg:nuget/KrapkaNet.EntityFramework.Abstractions@0.0.22
+- pkg:nuget/KrapkaNet.EntityFramework.Abstractions@0.0.24
+- pkg:nuget/KrapkaNet.EntityFramework.Abstractions@0.0.25

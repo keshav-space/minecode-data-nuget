@@ -1,0 +1,4 @@
+- pkg:nuget/Apps.DataClient.Contracts@1.0.0
+- pkg:nuget/Apps.DataClient.Contracts@2.0.0.1
+- pkg:nuget/Apps.DataClient.Contracts@2.0.0.9
+- pkg:nuget/Apps.DataClient.Contracts@2.0.1

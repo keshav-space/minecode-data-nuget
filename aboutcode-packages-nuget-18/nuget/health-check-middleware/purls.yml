@@ -1,0 +1,14 @@
+- pkg:nuget/health-check-middleware@1.0.0
+- pkg:nuget/health-check-middleware@1.1.0
+- pkg:nuget/health-check-middleware@1.1.0-beta-1
+- pkg:nuget/health-check-middleware@1.1.0-beta-10
+- pkg:nuget/health-check-middleware@1.1.0-beta-11
+- pkg:nuget/health-check-middleware@1.1.0-beta-8
+- pkg:nuget/health-check-middleware@1.1.0-rc
+- pkg:nuget/health-check-middleware@1.1.0-rc-2
+- pkg:nuget/health-check-middleware@1.1.0-rc-3
+- pkg:nuget/health-check-middleware@1.1.1
+- pkg:nuget/health-check-middleware@1.1.2
+- pkg:nuget/health-check-middleware@1.2.0
+- pkg:nuget/health-check-middleware@2.0.0
+- pkg:nuget/health-check-middleware@2.0.1

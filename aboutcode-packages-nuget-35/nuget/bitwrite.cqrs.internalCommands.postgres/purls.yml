@@ -1,0 +1,2 @@
+- pkg:nuget/bitwrite.cqrs.internalCommands.postgres@1.0.0
+- pkg:nuget/bitwrite.cqrs.internalCommands.postgres@1.0.1

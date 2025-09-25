@@ -1,0 +1,5 @@
+- pkg:nuget/RedmentCore.Data.Entities.Abstractions@1.0.0
+- pkg:nuget/RedmentCore.Data.Entities.Abstractions@1.0.1
+- pkg:nuget/RedmentCore.Data.Entities.Abstractions@6.1.0.1
+- pkg:nuget/RedmentCore.Data.Entities.Abstractions@6.1.0.2
+- pkg:nuget/RedmentCore.Data.Entities.Abstractions@8.0.0

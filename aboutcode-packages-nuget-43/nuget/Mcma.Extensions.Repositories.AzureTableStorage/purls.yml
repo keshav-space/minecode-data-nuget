@@ -1,0 +1,3 @@
+- pkg:nuget/Mcma.Extensions.Repositories.AzureTableStorage@0.0.0.4-alpha
+- pkg:nuget/Mcma.Extensions.Repositories.AzureTableStorage@0.0.0.5-alpha
+- pkg:nuget/Mcma.Extensions.Repositories.AzureTableStorage@0.0.0.6-alpha

@@ -1,0 +1,12 @@
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2023.2.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2023.3.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2024.0.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2024.1.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2024.2.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2024.3.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2024.4.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2024.5.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2025.0.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2025.1.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2025.2.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.linux-arm@2025.2.0.1

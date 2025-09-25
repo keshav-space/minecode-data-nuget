@@ -1,0 +1,6 @@
+- pkg:nuget/Stargazer.Abp.Account.EntityFrameworkCore.MongoDB@8.3.1.7-alpha
+- pkg:nuget/Stargazer.Abp.Account.EntityFrameworkCore.MongoDB@8.3.1.8-alpha
+- pkg:nuget/Stargazer.Abp.Account.EntityFrameworkCore.MongoDB@9.0.2.2-alpha
+- pkg:nuget/Stargazer.Abp.Account.EntityFrameworkCore.MongoDB@9.0.2.3-alpha
+- pkg:nuget/Stargazer.Abp.Account.EntityFrameworkCore.MongoDB@9.1.0
+- pkg:nuget/Stargazer.Abp.Account.EntityFrameworkCore.MongoDB@9.1.1

@@ -1,0 +1,9 @@
+- pkg:nuget/ElevenLabs-DotNet-Proxy@1.0.0
+- pkg:nuget/ElevenLabs-DotNet-Proxy@1.0.1
+- pkg:nuget/ElevenLabs-DotNet-Proxy@1.2.0
+- pkg:nuget/ElevenLabs-DotNet-Proxy@2.2.1
+- pkg:nuget/ElevenLabs-DotNet-Proxy@2.2.2
+- pkg:nuget/ElevenLabs-DotNet-Proxy@3.0.0
+- pkg:nuget/ElevenLabs-DotNet-Proxy@3.5.1
+- pkg:nuget/ElevenLabs-DotNet-Proxy@3.5.2
+- pkg:nuget/ElevenLabs-DotNet-Proxy@3.6.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.Ldap@2.0.190
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.Ldap@2.0.212
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.Ldap@3.0.217

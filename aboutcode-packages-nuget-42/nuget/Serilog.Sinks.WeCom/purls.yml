@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Sinks.WeCom@1.0.0
+- pkg:nuget/Serilog.Sinks.WeCom@1.0.1

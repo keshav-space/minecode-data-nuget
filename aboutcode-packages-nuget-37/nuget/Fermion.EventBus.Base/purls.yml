@@ -1,0 +1,4 @@
+- pkg:nuget/Fermion.EventBus.Base@0.0.1
+- pkg:nuget/Fermion.EventBus.Base@0.0.2
+- pkg:nuget/Fermion.EventBus.Base@0.1.0
+- pkg:nuget/Fermion.EventBus.Base@1.0.0

@@ -1,0 +1,9 @@
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@0.0.1
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@0.0.2
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@0.0.2-preview2
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@1.0.0
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@1.0.0-prerelease-20220102155325
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@1.0.0-prerelease-20220102155548
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@1.0.0-prerelease-20220102161539
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@1.0.0-preview1
+- pkg:nuget/CraftersCloud.AspNetCore.CopyAzureKeyVaultSecrets.HostingStartup@1.0.0-preview2

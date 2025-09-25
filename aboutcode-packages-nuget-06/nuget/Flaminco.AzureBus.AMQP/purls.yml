@@ -1,0 +1,10 @@
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.0.2
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.0.3
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.0.4
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.0.5
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.0.6
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.1.0
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.1.1
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.1.2
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.2.0
+- pkg:nuget/Flaminco.AzureBus.AMQP@2.2.1

@@ -1,0 +1,4 @@
+- pkg:nuget/IronBefunge@1.0.0
+- pkg:nuget/IronBefunge@2.0.0
+- pkg:nuget/IronBefunge@3.0.0
+- pkg:nuget/IronBefunge@4.0.0

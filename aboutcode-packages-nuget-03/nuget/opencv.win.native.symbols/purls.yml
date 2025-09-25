@@ -1,0 +1,8 @@
+- pkg:nuget/opencv.win.native.symbols@310.3.120516-dev
+- pkg:nuget/opencv.win.native.symbols@310.7.120516-dev
+- pkg:nuget/opencv.win.native.symbols@310.8.0-vs141-beta
+- pkg:nuget/opencv.win.native.symbols@310.8.120816-vs141-beta
+- pkg:nuget/opencv.win.native.symbols@310.9.0-vs150-beta
+- pkg:nuget/opencv.win.native.symbols@310.9.121616-vs150-dev
+- pkg:nuget/opencv.win.native.symbols@320.1.0-vs141
+- pkg:nuget/opencv.win.native.symbols@320.1.1-vs141

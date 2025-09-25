@@ -1,0 +1,4 @@
+- pkg:nuget/FileToBytes@0.0.0.1
+- pkg:nuget/FileToBytes@0.0.0.4
+- pkg:nuget/FileToBytes@1.0.0
+- pkg:nuget/FileToBytes@1.0.0.1

@@ -1,0 +1,3 @@
+- pkg:nuget/MyCustomLib@1.0.0
+- pkg:nuget/MyCustomLib@1.1.0
+- pkg:nuget/MyCustomLib@1.2.0

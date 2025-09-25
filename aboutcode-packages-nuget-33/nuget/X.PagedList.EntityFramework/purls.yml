@@ -1,0 +1,4 @@
+- pkg:nuget/X.PagedList.EntityFramework@1.0.1
+- pkg:nuget/X.PagedList.EntityFramework@10.5.5-beta
+- pkg:nuget/X.PagedList.EntityFramework@10.5.7
+- pkg:nuget/X.PagedList.EntityFramework@10.5.9

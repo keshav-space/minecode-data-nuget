@@ -1,0 +1,4 @@
+- pkg:nuget/InterSystems.Data.IRISClient@2.4.0
+- pkg:nuget/InterSystems.Data.IRISClient@2.5.0
+- pkg:nuget/InterSystems.Data.IRISClient@2.5.1
+- pkg:nuget/InterSystems.Data.IRISClient@2.6.0

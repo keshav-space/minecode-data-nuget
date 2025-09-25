@@ -1,0 +1,4 @@
+- pkg:nuget/PDFiumSharp@0.1.0-beta
+- pkg:nuget/PDFiumSharp@0.1.1-beta
+- pkg:nuget/PDFiumSharp@1.0.0
+- pkg:nuget/PDFiumSharp@1.4660.0-alpha1

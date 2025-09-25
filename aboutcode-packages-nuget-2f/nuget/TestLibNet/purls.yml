@@ -1,0 +1,5 @@
+- pkg:nuget/TestLibNet@1.0.0
+- pkg:nuget/TestLibNet@1.0.5
+- pkg:nuget/TestLibNet@1.2.3
+- pkg:nuget/TestLibNet@3.0.1
+- pkg:nuget/TestLibNet@5.0.1

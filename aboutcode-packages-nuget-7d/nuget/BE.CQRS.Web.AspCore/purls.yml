@@ -1,0 +1,8 @@
+- pkg:nuget/BE.CQRS.Web.AspCore@0.45.2-alpha
+- pkg:nuget/BE.CQRS.Web.AspCore@0.50.1-alpha
+- pkg:nuget/BE.CQRS.Web.AspCore@0.50.2-alpha
+- pkg:nuget/BE.CQRS.Web.AspCore@0.50.3-alpha
+- pkg:nuget/BE.CQRS.Web.AspCore@0.80.3-alpha
+- pkg:nuget/BE.CQRS.Web.AspCore@0.90.0-alpha
+- pkg:nuget/BE.CQRS.Web.AspCore@0.90.6-alpha
+- pkg:nuget/BE.CQRS.Web.AspCore@0.95.0-alpha

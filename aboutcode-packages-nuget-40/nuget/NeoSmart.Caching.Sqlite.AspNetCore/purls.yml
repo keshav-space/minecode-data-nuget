@@ -1,0 +1,7 @@
+- pkg:nuget/NeoSmart.Caching.Sqlite.AspNetCore@7.0.1
+- pkg:nuget/NeoSmart.Caching.Sqlite.AspNetCore@7.0.2
+- pkg:nuget/NeoSmart.Caching.Sqlite.AspNetCore@8.0.0
+- pkg:nuget/NeoSmart.Caching.Sqlite.AspNetCore@8.0.1
+- pkg:nuget/NeoSmart.Caching.Sqlite.AspNetCore@9.0.0
+- pkg:nuget/NeoSmart.Caching.Sqlite.AspNetCore@9.0.0-preview1
+- pkg:nuget/NeoSmart.Caching.Sqlite.AspNetCore@9.0.1
