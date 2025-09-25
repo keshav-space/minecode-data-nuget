@@ -1,0 +1,10 @@
+- pkg:nuget/Puffix.Cqrs.SQLite@1.0.0
+- pkg:nuget/Puffix.Cqrs.SQLite@1.0.1
+- pkg:nuget/Puffix.Cqrs.SQLite@1.0.2
+- pkg:nuget/Puffix.Cqrs.SQLite@1.1.0
+- pkg:nuget/Puffix.Cqrs.SQLite@2.0.0
+- pkg:nuget/Puffix.Cqrs.SQLite@3.0.0
+- pkg:nuget/Puffix.Cqrs.SQLite@3.1.0
+- pkg:nuget/Puffix.Cqrs.SQLite@3.2.0
+- pkg:nuget/Puffix.Cqrs.SQLite@3.3.1
+- pkg:nuget/Puffix.Cqrs.SQLite@3.3.2

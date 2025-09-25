@@ -1,0 +1,13 @@
+- pkg:nuget/AspNetCore.EasyOffice@3.0.0-alpha3
+- pkg:nuget/AspNetCore.EasyOffice@3.0.0-alpha4
+- pkg:nuget/AspNetCore.EasyOffice@3.0.0-alpha5
+- pkg:nuget/AspNetCore.EasyOffice@3.0.0-dev6
+- pkg:nuget/AspNetCore.EasyOffice@3.0.0.200103
+- pkg:nuget/AspNetCore.EasyOffice@6.0.0-preview.210308.1
+- pkg:nuget/AspNetCore.EasyOffice@6.0.0-preview.210311.1
+- pkg:nuget/AspNetCore.EasyOffice@6.0.0-preview.210311.2
+- pkg:nuget/AspNetCore.EasyOffice@6.0.0-preview.210312.1
+- pkg:nuget/AspNetCore.EasyOffice@6.0.0-preview.210320.1
+- pkg:nuget/AspNetCore.EasyOffice@6.0.0-preview.210320.2
+- pkg:nuget/AspNetCore.EasyOffice@6.0.0-preview.210424.1
+- pkg:nuget/AspNetCore.EasyOffice@6.0.0-preview.210427.1

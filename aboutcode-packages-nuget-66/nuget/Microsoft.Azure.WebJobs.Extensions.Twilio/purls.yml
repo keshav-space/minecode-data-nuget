@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@1.0.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@1.0.0-beta2
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@1.1.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@1.1.0-beta1
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@1.1.0-beta3
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@1.1.0-beta4
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@1.2.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@1.3.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@3.0.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@3.0.0-beta3
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@3.0.0-beta4
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@3.0.0-beta5
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@3.0.0-beta8
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@3.0.0-rc1
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Twilio@3.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/Yarp.ReverseProxy.ServiceFabric@1.0.0-preview.10.21168.2
+- pkg:nuget/Yarp.ReverseProxy.ServiceFabric@1.0.0-preview.11.21223.5
+- pkg:nuget/Yarp.ReverseProxy.ServiceFabric@1.0.0-preview.12.21328.2
+- pkg:nuget/Yarp.ReverseProxy.ServiceFabric@1.0.0-preview.12.21451.3

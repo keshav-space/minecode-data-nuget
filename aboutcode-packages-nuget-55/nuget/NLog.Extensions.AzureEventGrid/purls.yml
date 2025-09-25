@@ -1,0 +1,7 @@
+- pkg:nuget/NLog.Extensions.AzureEventGrid@4.0.0
+- pkg:nuget/NLog.Extensions.AzureEventGrid@4.1.0
+- pkg:nuget/NLog.Extensions.AzureEventGrid@4.3.1
+- pkg:nuget/NLog.Extensions.AzureEventGrid@4.4.0
+- pkg:nuget/NLog.Extensions.AzureEventGrid@4.4.1
+- pkg:nuget/NLog.Extensions.AzureEventGrid@4.5.0
+- pkg:nuget/NLog.Extensions.AzureEventGrid@4.6.0

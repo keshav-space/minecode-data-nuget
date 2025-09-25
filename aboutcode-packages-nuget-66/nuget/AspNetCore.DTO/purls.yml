@@ -1,0 +1,12 @@
+- pkg:nuget/AspNetCore.DTO@3.0.0-dev6
+- pkg:nuget/AspNetCore.DTO@3.0.0.200103
+- pkg:nuget/AspNetCore.DTO@3.0.0.200107
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210308.1
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210311.1
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210311.2
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210312.1
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210320.1
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210320.2
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210511.1
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210513.1
+- pkg:nuget/AspNetCore.DTO@6.0.0-preview.210709.3

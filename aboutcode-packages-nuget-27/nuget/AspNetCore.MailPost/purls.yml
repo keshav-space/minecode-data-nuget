@@ -1,0 +1,11 @@
+- pkg:nuget/AspNetCore.MailPost@3.0.5.19
+- pkg:nuget/AspNetCore.MailPost@3.0.5.20
+- pkg:nuget/AspNetCore.MailPost@3.0.5.26
+- pkg:nuget/AspNetCore.MailPost@6.0.0-preview.210308.1
+- pkg:nuget/AspNetCore.MailPost@6.0.0-preview.210311.1
+- pkg:nuget/AspNetCore.MailPost@6.0.0-preview.210311.2
+- pkg:nuget/AspNetCore.MailPost@6.0.0-preview.210312.1
+- pkg:nuget/AspNetCore.MailPost@6.0.0-preview.210320.1
+- pkg:nuget/AspNetCore.MailPost@6.0.0-preview.210320.2
+- pkg:nuget/AspNetCore.MailPost@6.0.0-preview.210424.1
+- pkg:nuget/AspNetCore.MailPost@6.0.0-preview.210427.1

@@ -1,0 +1,12 @@
+- pkg:nuget/Eventso.KafkaProducer@0.1.0
+- pkg:nuget/Eventso.KafkaProducer@0.2.0
+- pkg:nuget/Eventso.KafkaProducer@1.0.0
+- pkg:nuget/Eventso.KafkaProducer@2.10.0
+- pkg:nuget/Eventso.KafkaProducer@2.10.1
+- pkg:nuget/Eventso.KafkaProducer@2.11.0
+- pkg:nuget/Eventso.KafkaProducer@2.4.0
+- pkg:nuget/Eventso.KafkaProducer@2.4.10
+- pkg:nuget/Eventso.KafkaProducer@2.5.13
+- pkg:nuget/Eventso.KafkaProducer@2.5.2
+- pkg:nuget/Eventso.KafkaProducer@2.6.1
+- pkg:nuget/Eventso.KafkaProducer@2.8.0

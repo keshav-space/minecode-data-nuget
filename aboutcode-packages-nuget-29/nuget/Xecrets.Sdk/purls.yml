@@ -1,0 +1,17 @@
+- pkg:nuget/Xecrets.Sdk@2.3.1046
+- pkg:nuget/Xecrets.Sdk@2.3.1113
+- pkg:nuget/Xecrets.Sdk@2.3.428-beta
+- pkg:nuget/Xecrets.Sdk@2.3.433-beta
+- pkg:nuget/Xecrets.Sdk@2.3.457-beta
+- pkg:nuget/Xecrets.Sdk@2.3.462-beta
+- pkg:nuget/Xecrets.Sdk@2.3.473
+- pkg:nuget/Xecrets.Sdk@2.3.474
+- pkg:nuget/Xecrets.Sdk@2.3.610
+- pkg:nuget/Xecrets.Sdk@2.3.638
+- pkg:nuget/Xecrets.Sdk@2.3.723
+- pkg:nuget/Xecrets.Sdk@2.3.776
+- pkg:nuget/Xecrets.Sdk@2.3.856
+- pkg:nuget/Xecrets.Sdk@2.3.886
+- pkg:nuget/Xecrets.Sdk@2.3.904
+- pkg:nuget/Xecrets.Sdk@2.3.925
+- pkg:nuget/Xecrets.Sdk@2.3.968

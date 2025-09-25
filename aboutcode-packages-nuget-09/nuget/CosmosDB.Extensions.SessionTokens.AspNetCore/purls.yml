@@ -1,0 +1,5 @@
+- pkg:nuget/CosmosDB.Extensions.SessionTokens.AspNetCore@1.0.0-alpha.3
+- pkg:nuget/CosmosDB.Extensions.SessionTokens.AspNetCore@1.0.0-alpha.4
+- pkg:nuget/CosmosDB.Extensions.SessionTokens.AspNetCore@1.0.0-alpha.5
+- pkg:nuget/CosmosDB.Extensions.SessionTokens.AspNetCore@1.0.0-beta.1
+- pkg:nuget/CosmosDB.Extensions.SessionTokens.AspNetCore@1.0.0-beta.2

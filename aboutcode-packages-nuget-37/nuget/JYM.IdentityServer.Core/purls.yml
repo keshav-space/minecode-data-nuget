@@ -1,0 +1,5 @@
+- pkg:nuget/JYM.IdentityServer.Core@1.0.0
+- pkg:nuget/JYM.IdentityServer.Core@1.0.0-beta1
+- pkg:nuget/JYM.IdentityServer.Core@1.0.0-beta10
+- pkg:nuget/JYM.IdentityServer.Core@1.0.0-beta2
+- pkg:nuget/JYM.IdentityServer.Core@1.0.1-beta1

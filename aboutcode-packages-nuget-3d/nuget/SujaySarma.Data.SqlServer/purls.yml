@@ -1,0 +1,14 @@
+- pkg:nuget/SujaySarma.Data.SqlServer@8.0.0
+- pkg:nuget/SujaySarma.Data.SqlServer@8.2.0
+- pkg:nuget/SujaySarma.Data.SqlServer@8.7.0
+- pkg:nuget/SujaySarma.Data.SqlServer@8.7.5
+- pkg:nuget/SujaySarma.Data.SqlServer@8.8.0
+- pkg:nuget/SujaySarma.Data.SqlServer@8.8.5
+- pkg:nuget/SujaySarma.Data.SqlServer@8.9.0
+- pkg:nuget/SujaySarma.Data.SqlServer@8.9.5
+- pkg:nuget/SujaySarma.Data.SqlServer@8.9.6
+- pkg:nuget/SujaySarma.Data.SqlServer@8.9.7
+- pkg:nuget/SujaySarma.Data.SqlServer@9.0.0
+- pkg:nuget/SujaySarma.Data.SqlServer@9.1.0
+- pkg:nuget/SujaySarma.Data.SqlServer@9.5.0
+- pkg:nuget/SujaySarma.Data.SqlServer@9.5.1

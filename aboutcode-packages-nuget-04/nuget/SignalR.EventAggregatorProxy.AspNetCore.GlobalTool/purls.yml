@@ -1,0 +1,5 @@
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore.GlobalTool@3.0.238
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore.GlobalTool@3.0.239
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore.GlobalTool@5.2.268
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore.GlobalTool@8.0.288
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore.GlobalTool@8.2.291

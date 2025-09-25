@@ -1,0 +1,4 @@
+- pkg:nuget/METU.RabbitMQ@2021.9.1
+- pkg:nuget/METU.RabbitMQ@2022.3.24
+- pkg:nuget/METU.RabbitMQ@2022.3.3
+- pkg:nuget/METU.RabbitMQ@2022.4.1

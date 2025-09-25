@@ -1,0 +1,4 @@
+- pkg:nuget/ServiceQuery.EntityFrameworkCore@1.0.1
+- pkg:nuget/ServiceQuery.EntityFrameworkCore@2.2.0
+- pkg:nuget/ServiceQuery.EntityFrameworkCore@2.2.1
+- pkg:nuget/ServiceQuery.EntityFrameworkCore@2.2.2

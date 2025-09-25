@@ -1,0 +1,17 @@
+- pkg:nuget/NLog.Extensions.AzureServiceBus@2.0.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@2.1.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@2.2.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@2.3.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@3.0.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@3.1.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@3.2.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.0.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.1.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.2.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.3.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.3.1
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.4.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.4.1
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.4.2
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.5.0
+- pkg:nuget/NLog.Extensions.AzureServiceBus@4.6.0

@@ -1,0 +1,3 @@
+- pkg:nuget/XO.Diagnostics.Bugsnag@1.0.1
+- pkg:nuget/XO.Diagnostics.Bugsnag@1.1.3
+- pkg:nuget/XO.Diagnostics.Bugsnag@1.2.2

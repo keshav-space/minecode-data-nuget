@@ -1,0 +1,9 @@
+- pkg:nuget/CryptSharp.Core@1.0.0
+- pkg:nuget/CryptSharp.Core@1.1.0
+- pkg:nuget/CryptSharp.Core@2.0.0
+- pkg:nuget/CryptSharp.Core@2.0.0-net5-beta
+- pkg:nuget/CryptSharp.Core@2.0.0-net5-beta.2
+- pkg:nuget/CryptSharp.Core@3.0.0
+- pkg:nuget/CryptSharp.Core@3.0.0-alpha.1
+- pkg:nuget/CryptSharp.Core@4.0.0
+- pkg:nuget/CryptSharp.Core@5.0.0

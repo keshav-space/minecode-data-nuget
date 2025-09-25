@@ -1,0 +1,5 @@
+- pkg:nuget/github-repository-csharp@1.0.0
+- pkg:nuget/github-repository-csharp@2.0.0
+- pkg:nuget/github-repository-csharp@3.0.0
+- pkg:nuget/github-repository-csharp@4.0.0
+- pkg:nuget/github-repository-csharp@5.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.NewtonsoftJson@5.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.NewtonsoftJson@6.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.NewtonsoftJson@6.1.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.NewtonsoftJson@6.1.1
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.NewtonsoftJson@7.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.NewtonsoftJson@8.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/NewRelic.LogEnrichers.Serilog@1.0.0
+- pkg:nuget/NewRelic.LogEnrichers.Serilog@1.0.1
+- pkg:nuget/NewRelic.LogEnrichers.Serilog@1.1.0
+- pkg:nuget/NewRelic.LogEnrichers.Serilog@1.2.0

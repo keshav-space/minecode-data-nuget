@@ -1,0 +1,6 @@
+- pkg:nuget/ManagedCode.Orleans.StateMachine@0.0.2
+- pkg:nuget/ManagedCode.Orleans.StateMachine@0.0.3
+- pkg:nuget/ManagedCode.Orleans.StateMachine@0.0.8
+- pkg:nuget/ManagedCode.Orleans.StateMachine@0.0.9
+- pkg:nuget/ManagedCode.Orleans.StateMachine@0.1.0
+- pkg:nuget/ManagedCode.Orleans.StateMachine@0.1.1

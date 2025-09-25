@@ -1,0 +1,15 @@
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@3.0.0
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@3.0.1
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@3.1.0
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@3.1.1
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@5.0.0
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@5.0.1
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@5.1.0
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@6.0.0
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@6.1.0
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@6.1.1
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@7.0.0
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@8.0.0
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@8.0.1
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@8.0.2
+- pkg:nuget/WebMotions.Fake.Authentication.JwtBearer@9.0.0

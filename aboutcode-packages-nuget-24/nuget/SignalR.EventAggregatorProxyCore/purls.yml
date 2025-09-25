@@ -1,0 +1,9 @@
+- pkg:nuget/SignalR.EventAggregatorProxyCore@2.0.168
+- pkg:nuget/SignalR.EventAggregatorProxyCore@3.0.221
+- pkg:nuget/SignalR.EventAggregatorProxyCore@3.0.228
+- pkg:nuget/SignalR.EventAggregatorProxyCore@3.0.233
+- pkg:nuget/SignalR.EventAggregatorProxyCore@5.0.243
+- pkg:nuget/SignalR.EventAggregatorProxyCore@5.1.243
+- pkg:nuget/SignalR.EventAggregatorProxyCore@5.2.265
+- pkg:nuget/SignalR.EventAggregatorProxyCore@8.0.288
+- pkg:nuget/SignalR.EventAggregatorProxyCore@8.1.288

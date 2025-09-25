@@ -1,0 +1,12 @@
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@1.0.0
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@1.0.0-prerelease-2
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@1.1.0-prerelease-2
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.0.0
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.0.0-prerelease-2
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.0.0-prerelease-3
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.1.0-prerelease-2
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.1.0-prerelease-3
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.1.0-prerelease-4
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.1.0-prerelease-6
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.1.0-prerelease-7
+- pkg:nuget/SFA.DAS.Payments.AcceptanceTests.Components.Core@2.2.0-prerelease-2

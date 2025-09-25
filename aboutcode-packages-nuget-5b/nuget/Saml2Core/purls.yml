@@ -1,0 +1,9 @@
+- pkg:nuget/Saml2Core@2.0.2
+- pkg:nuget/Saml2Core@2.0.3
+- pkg:nuget/Saml2Core@2.0.4
+- pkg:nuget/Saml2Core@2.0.6
+- pkg:nuget/Saml2Core@3.0.0
+- pkg:nuget/Saml2Core@3.1.0
+- pkg:nuget/Saml2Core@3.1.1
+- pkg:nuget/Saml2Core@3.1.2
+- pkg:nuget/Saml2Core@3.1.3

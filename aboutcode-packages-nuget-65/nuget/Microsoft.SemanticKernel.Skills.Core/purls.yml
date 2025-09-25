@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.17.230626.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.17.230629.1-preview%2B16d52c1
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.17.230704.3-preview%2Baea0789
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.17.230711.7-preview%2B36f4e7c
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.17.230718.1-preview%2B95d672a
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.18.230725.3-preview%2B29ecb71
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.19.230804.2-preview%2Bba93373
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.20.230821.4-preview%2Bb4c18f3
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.21.230828.2-preview%2B3e12f1a
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.22.230905.3-preview%2B645f5a1
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.23.230906.2-preview%2B16d3004
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.24.230911.2-preview%2Baf7fe72
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.24.230912.2-preview%2Ba5eb820
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Core@0.24.230918.1-preview%2B8ea8573

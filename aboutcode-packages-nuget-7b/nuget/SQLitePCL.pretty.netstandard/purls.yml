@@ -1,0 +1,8 @@
+- pkg:nuget/SQLitePCL.pretty.netstandard@1.0.0
+- pkg:nuget/SQLitePCL.pretty.netstandard@2.0.0
+- pkg:nuget/SQLitePCL.pretty.netstandard@2.0.1
+- pkg:nuget/SQLitePCL.pretty.netstandard@2.1.0
+- pkg:nuget/SQLitePCL.pretty.netstandard@2.2.0
+- pkg:nuget/SQLitePCL.pretty.netstandard@3.0.0
+- pkg:nuget/SQLitePCL.pretty.netstandard@3.0.1
+- pkg:nuget/SQLitePCL.pretty.netstandard@3.1.0

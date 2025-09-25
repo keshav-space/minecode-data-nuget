@@ -1,0 +1,13 @@
+- pkg:nuget/HHECS.Communication@1.2.1
+- pkg:nuget/HHECS.Communication@2.0.0
+- pkg:nuget/HHECS.Communication@2.1.0
+- pkg:nuget/HHECS.Communication@2.2.0
+- pkg:nuget/HHECS.Communication@2.3.0
+- pkg:nuget/HHECS.Communication@2.3.0-beta
+- pkg:nuget/HHECS.Communication@2.4.0
+- pkg:nuget/HHECS.Communication@2.4.1
+- pkg:nuget/HHECS.Communication@2.4.2
+- pkg:nuget/HHECS.Communication@2.5.0
+- pkg:nuget/HHECS.Communication@2.6.0
+- pkg:nuget/HHECS.Communication@2.6.1
+- pkg:nuget/HHECS.Communication@2.6.2-beta.1

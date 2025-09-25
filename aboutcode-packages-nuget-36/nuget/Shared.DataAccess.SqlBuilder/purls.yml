@@ -1,0 +1,14 @@
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.1-alpha
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.2-alpha
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.3-alpha
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.4-alpha
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.5-alpha
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.6-alpha
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.7-alpha
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.8-beta
+- pkg:nuget/Shared.DataAccess.SqlBuilder@0.0.9-beta
+- pkg:nuget/Shared.DataAccess.SqlBuilder@2.0.0-beta
+- pkg:nuget/Shared.DataAccess.SqlBuilder@2.3.0-beta
+- pkg:nuget/Shared.DataAccess.SqlBuilder@2.4.0-beta
+- pkg:nuget/Shared.DataAccess.SqlBuilder@3.0.0-beta
+- pkg:nuget/Shared.DataAccess.SqlBuilder@4.0.0-beta

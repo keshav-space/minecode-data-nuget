@@ -1,0 +1,5 @@
+- pkg:nuget/GateCode.Core.Framework.Api@1.0.0
+- pkg:nuget/GateCode.Core.Framework.Api@3.0.0
+- pkg:nuget/GateCode.Core.Framework.Api@3.0.1
+- pkg:nuget/GateCode.Core.Framework.Api@4.0.0-beta
+- pkg:nuget/GateCode.Core.Framework.Api@7.0.0

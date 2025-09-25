@@ -1,0 +1,5 @@
+- pkg:nuget/XO.EntityFrameworkCore.NpgsqlJsonSerializerOptions@1.0.5
+- pkg:nuget/XO.EntityFrameworkCore.NpgsqlJsonSerializerOptions@1.0.6
+- pkg:nuget/XO.EntityFrameworkCore.NpgsqlJsonSerializerOptions@1.1.21
+- pkg:nuget/XO.EntityFrameworkCore.NpgsqlJsonSerializerOptions@2.0.4
+- pkg:nuget/XO.EntityFrameworkCore.NpgsqlJsonSerializerOptions@8.0.13

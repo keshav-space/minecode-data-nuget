@@ -1,0 +1,2 @@
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore.DotnetCli@2.0.210
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore.DotnetCli@2.0.211

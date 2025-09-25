@@ -1,0 +1,17 @@
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.438
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.439
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.442
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.447
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.448
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.450
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.453
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.467
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.0.478
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@2.6.2
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@3.0.14
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@3.0.18
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@3.0.2.64
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@3.0.20
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@3.0.21.74
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@3.0.21.87
+- pkg:nuget/IoTSharp.EntityFrameworkCore.Taos@3.0.21.90

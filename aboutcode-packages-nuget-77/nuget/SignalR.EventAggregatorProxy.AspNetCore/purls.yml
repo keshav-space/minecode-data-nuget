@@ -1,0 +1,11 @@
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@2.0.167
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@2.0.181
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@3.0.221
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@3.0.228
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@3.0.230
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@3.0.233
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@5.0.242
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@5.1.242
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@5.2.265
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@8.0.288
+- pkg:nuget/SignalR.EventAggregatorProxy.AspNetCore@8.1.288

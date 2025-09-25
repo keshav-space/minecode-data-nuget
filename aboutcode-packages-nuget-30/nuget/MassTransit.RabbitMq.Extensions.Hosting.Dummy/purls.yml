@@ -1,0 +1,5 @@
+- pkg:nuget/MassTransit.RabbitMq.Extensions.Hosting.Dummy@1.0.0
+- pkg:nuget/MassTransit.RabbitMq.Extensions.Hosting.Dummy@1.0.17
+- pkg:nuget/MassTransit.RabbitMq.Extensions.Hosting.Dummy@1.0.20
+- pkg:nuget/MassTransit.RabbitMq.Extensions.Hosting.Dummy@1.0.24
+- pkg:nuget/MassTransit.RabbitMq.Extensions.Hosting.Dummy@1.0.29
