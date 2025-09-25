@@ -1,0 +1,5 @@
+- pkg:nuget/ScenarioBuilder@0.1.0
+- pkg:nuget/ScenarioBuilder@0.1.1-ci-build-action.14
+- pkg:nuget/ScenarioBuilder@0.1.1-ci-build-action.16
+- pkg:nuget/ScenarioBuilder@0.1.1-ci-build-action.20
+- pkg:nuget/ScenarioBuilder@0.1.1-ci-build-action.22

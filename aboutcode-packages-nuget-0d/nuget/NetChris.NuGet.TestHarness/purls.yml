@@ -1,0 +1,6 @@
+- pkg:nuget/NetChris.NuGet.TestHarness@0.0.0-pre
+- pkg:nuget/NetChris.NuGet.TestHarness@0.0.1
+- pkg:nuget/NetChris.NuGet.TestHarness@0.0.2-pre
+- pkg:nuget/NetChris.NuGet.TestHarness@0.0.3
+- pkg:nuget/NetChris.NuGet.TestHarness@0.0.4-pre
+- pkg:nuget/NetChris.NuGet.TestHarness@0.0.5

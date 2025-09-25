@@ -1,0 +1,3 @@
+- pkg:nuget/FaccToolkit.Persistence.MongoDb.RichDomain@0.1.0
+- pkg:nuget/FaccToolkit.Persistence.MongoDb.RichDomain@0.1.3
+- pkg:nuget/FaccToolkit.Persistence.MongoDb.RichDomain@0.1.4

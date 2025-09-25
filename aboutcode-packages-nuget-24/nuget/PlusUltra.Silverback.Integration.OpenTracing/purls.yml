@@ -1,0 +1,4 @@
+- pkg:nuget/PlusUltra.Silverback.Integration.OpenTracing@1.0.10
+- pkg:nuget/PlusUltra.Silverback.Integration.OpenTracing@1.0.8
+- pkg:nuget/PlusUltra.Silverback.Integration.OpenTracing@2.0.0
+- pkg:nuget/PlusUltra.Silverback.Integration.OpenTracing@2.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/Singularity.Migrations.Coordinators.AzureTableStorage@0.5.0
+- pkg:nuget/Singularity.Migrations.Coordinators.AzureTableStorage@0.6.0

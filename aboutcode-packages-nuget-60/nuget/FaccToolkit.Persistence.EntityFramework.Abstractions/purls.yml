@@ -1,0 +1,3 @@
+- pkg:nuget/FaccToolkit.Persistence.EntityFramework.Abstractions@0.1.0
+- pkg:nuget/FaccToolkit.Persistence.EntityFramework.Abstractions@0.1.3
+- pkg:nuget/FaccToolkit.Persistence.EntityFramework.Abstractions@0.1.4

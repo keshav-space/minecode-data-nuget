@@ -1,0 +1,4 @@
+- pkg:nuget/DealCloudSDK@0.1.33-CICD-2356.3-55
+- pkg:nuget/DealCloudSDK@0.1.35
+- pkg:nuget/DealCloudSDK@0.1.36
+- pkg:nuget/DealCloudSDK@0.5.0-alpha.7-10

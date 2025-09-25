@@ -1,0 +1,3 @@
+- pkg:nuget/CompMgrNugetPackage@1.0.0
+- pkg:nuget/CompMgrNugetPackage@2.0.0
+- pkg:nuget/CompMgrNugetPackage@3.0.0

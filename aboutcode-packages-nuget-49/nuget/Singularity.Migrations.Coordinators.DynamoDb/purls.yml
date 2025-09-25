@@ -1,0 +1,2 @@
+- pkg:nuget/Singularity.Migrations.Coordinators.DynamoDb@0.11.0
+- pkg:nuget/Singularity.Migrations.Coordinators.DynamoDb@0.12.0

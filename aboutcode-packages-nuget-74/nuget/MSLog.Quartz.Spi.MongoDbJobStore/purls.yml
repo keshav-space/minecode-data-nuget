@@ -1,0 +1,2 @@
+- pkg:nuget/MSLog.Quartz.Spi.MongoDbJobStore@1.0.0
+- pkg:nuget/MSLog.Quartz.Spi.MongoDbJobStore@1.1.0

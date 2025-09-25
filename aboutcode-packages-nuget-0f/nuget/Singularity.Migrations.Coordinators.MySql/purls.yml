@@ -1,0 +1,2 @@
+- pkg:nuget/Singularity.Migrations.Coordinators.MySql@0.7.0
+- pkg:nuget/Singularity.Migrations.Coordinators.MySql@0.8.0
