@@ -1,0 +1,2 @@
+- pkg:nuget/Zord.EventBusRabbitMQ@0.0.0.1
+- pkg:nuget/Zord.EventBusRabbitMQ@0.0.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/GreenLynx.ReleaseTool.Cake@2.1.1
+- pkg:nuget/GreenLynx.ReleaseTool.Cake@2.1.2
+- pkg:nuget/GreenLynx.ReleaseTool.Cake@2.1.4
+- pkg:nuget/GreenLynx.ReleaseTool.Cake@3.0.0
+- pkg:nuget/GreenLynx.ReleaseTool.Cake@3.1.1

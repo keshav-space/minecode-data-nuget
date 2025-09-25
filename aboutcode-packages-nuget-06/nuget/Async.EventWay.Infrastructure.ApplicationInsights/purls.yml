@@ -1,0 +1,3 @@
+- pkg:nuget/Async.EventWay.Infrastructure.ApplicationInsights@1.0.6
+- pkg:nuget/Async.EventWay.Infrastructure.ApplicationInsights@1.0.7
+- pkg:nuget/Async.EventWay.Infrastructure.ApplicationInsights@1.0.8

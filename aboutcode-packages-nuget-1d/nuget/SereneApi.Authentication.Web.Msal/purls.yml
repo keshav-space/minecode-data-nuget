@@ -1,0 +1,2 @@
+- pkg:nuget/SereneApi.Authentication.Web.Msal@5.0.0.1
+- pkg:nuget/SereneApi.Authentication.Web.Msal@6.0.0.1

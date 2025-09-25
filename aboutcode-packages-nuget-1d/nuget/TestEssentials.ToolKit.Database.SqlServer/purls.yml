@@ -1,0 +1,4 @@
+- pkg:nuget/TestEssentials.ToolKit.Database.SqlServer@1.0.0
+- pkg:nuget/TestEssentials.ToolKit.Database.SqlServer@1.1.0
+- pkg:nuget/TestEssentials.ToolKit.Database.SqlServer@1.1.1
+- pkg:nuget/TestEssentials.ToolKit.Database.SqlServer@1.2.0

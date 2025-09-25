@@ -1,0 +1,4 @@
+- pkg:nuget/tem-development.testpackage@1.0.0-CI-20240219-031456
+- pkg:nuget/tem-development.testpackage@1.0.0-CI-20240219-032741
+- pkg:nuget/tem-development.testpackage@1.0.1
+- pkg:nuget/tem-development.testpackage@1.0.2

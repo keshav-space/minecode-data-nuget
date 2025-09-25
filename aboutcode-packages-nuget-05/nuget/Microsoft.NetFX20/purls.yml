@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.NetFX20@1.0.0-rc2
+- pkg:nuget/Microsoft.NetFX20@1.0.1-rc2
+- pkg:nuget/Microsoft.NetFX20@1.0.2-rc2
+- pkg:nuget/Microsoft.NetFX20@1.0.3

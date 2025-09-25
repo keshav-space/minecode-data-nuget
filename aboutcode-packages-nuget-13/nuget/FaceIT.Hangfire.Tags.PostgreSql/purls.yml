@@ -1,0 +1,5 @@
+- pkg:nuget/FaceIT.Hangfire.Tags.PostgreSql@1.9.6
+- pkg:nuget/FaceIT.Hangfire.Tags.PostgreSql@1.9.7
+- pkg:nuget/FaceIT.Hangfire.Tags.PostgreSql@1.9.7-beta.1
+- pkg:nuget/FaceIT.Hangfire.Tags.PostgreSql@1.9.7-beta.2
+- pkg:nuget/FaceIT.Hangfire.Tags.PostgreSql@1.9.7-beta.3

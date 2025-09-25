@@ -1,0 +1,10 @@
+- pkg:nuget/Frank.SimpleInstaller.Cli@0.2.4-preview
+- pkg:nuget/Frank.SimpleInstaller.Cli@0.2.6-preview
+- pkg:nuget/Frank.SimpleInstaller.Cli@1.0.0
+- pkg:nuget/Frank.SimpleInstaller.Cli@1.0.7-preview
+- pkg:nuget/Frank.SimpleInstaller.Cli@1.0.8-preview
+- pkg:nuget/Frank.SimpleInstaller.Cli@1.0.9-preview
+- pkg:nuget/Frank.SimpleInstaller.Cli@1.1.0
+- pkg:nuget/Frank.SimpleInstaller.Cli@1.1.10-preview
+- pkg:nuget/Frank.SimpleInstaller.Cli@1.1.11-preview
+- pkg:nuget/Frank.SimpleInstaller.Cli@1.2.0

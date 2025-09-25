@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.cuDNN.cuda11.train64.runtime.json@8.9.1.23
+- pkg:nuget/NtvLibs.cuDNN.cuda11.train64.runtime.json@8.9.7.29
