@@ -1,0 +1,5 @@
+- pkg:nuget/IXRay.Packages.LuaJIT@2017.8.11-open
+- pkg:nuget/IXRay.Packages.LuaJIT@2020.5.30-open
+- pkg:nuget/IXRay.Packages.LuaJIT@2023.8.23-open
+- pkg:nuget/IXRay.Packages.LuaJIT@2023.8.23.1-open
+- pkg:nuget/IXRay.Packages.LuaJIT@2025.2.5

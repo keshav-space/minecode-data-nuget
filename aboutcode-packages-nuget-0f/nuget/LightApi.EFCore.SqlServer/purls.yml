@@ -1,0 +1,12 @@
+- pkg:nuget/LightApi.EFCore.SqlServer@0.1.0
+- pkg:nuget/LightApi.EFCore.SqlServer@0.1.1
+- pkg:nuget/LightApi.EFCore.SqlServer@0.1.2
+- pkg:nuget/LightApi.EFCore.SqlServer@0.2.0
+- pkg:nuget/LightApi.EFCore.SqlServer@1.0.0
+- pkg:nuget/LightApi.EFCore.SqlServer@1.1.0-preview
+- pkg:nuget/LightApi.EFCore.SqlServer@1.2.0
+- pkg:nuget/LightApi.EFCore.SqlServer@1.2.1
+- pkg:nuget/LightApi.EFCore.SqlServer@1.2.2
+- pkg:nuget/LightApi.EFCore.SqlServer@1.2.3
+- pkg:nuget/LightApi.EFCore.SqlServer@2.0.0
+- pkg:nuget/LightApi.EFCore.SqlServer@3.0.0

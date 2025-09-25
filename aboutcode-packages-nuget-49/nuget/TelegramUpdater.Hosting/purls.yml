@@ -1,0 +1,13 @@
+- pkg:nuget/TelegramUpdater.Hosting@1.0.1
+- pkg:nuget/TelegramUpdater.Hosting@1.0.2
+- pkg:nuget/TelegramUpdater.Hosting@1.0.3-alpha
+- pkg:nuget/TelegramUpdater.Hosting@1.1.10-alpha
+- pkg:nuget/TelegramUpdater.Hosting@1.2.2-alpha
+- pkg:nuget/TelegramUpdater.Hosting@1.3.0-alpha
+- pkg:nuget/TelegramUpdater.Hosting@1.3.1-alpha
+- pkg:nuget/TelegramUpdater.Hosting@1.3.2-alpha
+- pkg:nuget/TelegramUpdater.Hosting@1.4.0-preview.0.1
+- pkg:nuget/TelegramUpdater.Hosting@1.4.0-preview.1.1
+- pkg:nuget/TelegramUpdater.Hosting@1.4.0-preview.1.2
+- pkg:nuget/TelegramUpdater.Hosting@1.6.0-preview.0.0
+- pkg:nuget/TelegramUpdater.Hosting@1.6.0-preview.0.1

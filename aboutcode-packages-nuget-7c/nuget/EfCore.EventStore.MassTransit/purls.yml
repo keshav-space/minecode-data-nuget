@@ -1,0 +1,2 @@
+- pkg:nuget/EfCore.EventStore.MassTransit@1.0.0
+- pkg:nuget/EfCore.EventStore.MassTransit@1.0.2

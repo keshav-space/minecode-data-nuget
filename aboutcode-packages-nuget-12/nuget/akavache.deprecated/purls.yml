@@ -1,0 +1,16 @@
+- pkg:nuget/akavache.deprecated@3.99.1-beta
+- pkg:nuget/akavache.deprecated@3.99.2-beta
+- pkg:nuget/akavache.deprecated@3.99.3-beta
+- pkg:nuget/akavache.deprecated@4.0.0
+- pkg:nuget/akavache.deprecated@4.0.1
+- pkg:nuget/akavache.deprecated@4.0.2
+- pkg:nuget/akavache.deprecated@4.0.2.1
+- pkg:nuget/akavache.deprecated@4.0.3
+- pkg:nuget/akavache.deprecated@4.0.3.1
+- pkg:nuget/akavache.deprecated@4.0.3.2
+- pkg:nuget/akavache.deprecated@4.0.4
+- pkg:nuget/akavache.deprecated@4.1.0
+- pkg:nuget/akavache.deprecated@4.1.1
+- pkg:nuget/akavache.deprecated@4.1.2
+- pkg:nuget/akavache.deprecated@5.0.0
+- pkg:nuget/akavache.deprecated@5.1.0-alpha0008

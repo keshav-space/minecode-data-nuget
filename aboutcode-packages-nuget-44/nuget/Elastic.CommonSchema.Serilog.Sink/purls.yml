@@ -1,0 +1,4 @@
+- pkg:nuget/Elastic.CommonSchema.Serilog.Sink@8.4.0-alpha1
+- pkg:nuget/Elastic.CommonSchema.Serilog.Sink@8.4.0-alpha2
+- pkg:nuget/Elastic.CommonSchema.Serilog.Sink@8.4.0-alpha3
+- pkg:nuget/Elastic.CommonSchema.Serilog.Sink@8.4.0-alpha4

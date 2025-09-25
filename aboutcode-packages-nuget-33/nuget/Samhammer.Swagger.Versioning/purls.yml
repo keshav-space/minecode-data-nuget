@@ -1,0 +1,5 @@
+- pkg:nuget/Samhammer.Swagger.Versioning@1.0.0
+- pkg:nuget/Samhammer.Swagger.Versioning@1.0.1
+- pkg:nuget/Samhammer.Swagger.Versioning@1.0.2
+- pkg:nuget/Samhammer.Swagger.Versioning@6.0.0
+- pkg:nuget/Samhammer.Swagger.Versioning@8.0.0

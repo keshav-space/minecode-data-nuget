@@ -1,0 +1,2 @@
+- pkg:nuget/ClickHouse.BinaryIO@1.0.0
+- pkg:nuget/ClickHouse.BinaryIO@1.0.1

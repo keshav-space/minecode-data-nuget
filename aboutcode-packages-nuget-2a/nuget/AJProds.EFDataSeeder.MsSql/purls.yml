@@ -1,0 +1,3 @@
+- pkg:nuget/AJProds.EFDataSeeder.MsSql@5.0.2
+- pkg:nuget/AJProds.EFDataSeeder.MsSql@6.0.0
+- pkg:nuget/AJProds.EFDataSeeder.MsSql@7.0.0

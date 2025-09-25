@@ -1,0 +1,10 @@
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.0.0
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.0.1
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.0.2
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.1.0
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.1.0-feature-add-location-key.1
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.1.0-feature-add-location-key.2
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.1.0-feature-add-location-key.3
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.1.0-feature-add-location-key.4
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.1.0-feature-add-location-key.5
+- pkg:nuget/Ch.Post.PL.Api.CenMcRc.V2.StreamApi@5.1.0-feature-remove-conversation-id.1

@@ -1,0 +1,3 @@
+- pkg:nuget/APFT.Core.AWS@1.0.0
+- pkg:nuget/APFT.Core.AWS@3.1.0
+- pkg:nuget/APFT.Core.AWS@6.0.0.1

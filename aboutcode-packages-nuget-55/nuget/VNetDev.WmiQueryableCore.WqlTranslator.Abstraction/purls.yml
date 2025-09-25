@@ -1,0 +1,5 @@
+- pkg:nuget/VNetDev.WmiQueryableCore.WqlTranslator.Abstraction@1.3.0-beta
+- pkg:nuget/VNetDev.WmiQueryableCore.WqlTranslator.Abstraction@1.4.0-beta
+- pkg:nuget/VNetDev.WmiQueryableCore.WqlTranslator.Abstraction@1.4.1-beta
+- pkg:nuget/VNetDev.WmiQueryableCore.WqlTranslator.Abstraction@1.5.0
+- pkg:nuget/VNetDev.WmiQueryableCore.WqlTranslator.Abstraction@1.6.0

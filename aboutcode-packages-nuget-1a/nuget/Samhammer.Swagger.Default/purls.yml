@@ -1,0 +1,5 @@
+- pkg:nuget/Samhammer.Swagger.Default@1.0.0
+- pkg:nuget/Samhammer.Swagger.Default@1.0.1
+- pkg:nuget/Samhammer.Swagger.Default@1.0.2
+- pkg:nuget/Samhammer.Swagger.Default@6.0.0
+- pkg:nuget/Samhammer.Swagger.Default@8.0.0

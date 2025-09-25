@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Sinks.AzureAnalytics.SerializeOnEmit@4.6.0
+- pkg:nuget/Serilog.Sinks.AzureAnalytics.SerializeOnEmit@4.7.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Messaging.Transport.Kafka@1.0.0
+- pkg:nuget/Messaging.Transport.Kafka@1.0.1

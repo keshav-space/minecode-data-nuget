@@ -1,0 +1,7 @@
+- pkg:nuget/JetBrains.EtwService.Native.MacOs.Core@191.0.20190313.221727-eap01
+- pkg:nuget/JetBrains.EtwService.Native.MacOs.Core@191.0.20190319.220917-eap02
+- pkg:nuget/JetBrains.EtwService.Native.MacOs.Core@192.0.20190627.124251-eap01
+- pkg:nuget/JetBrains.EtwService.Native.MacOs.Core@192.0.20190703.214750-eap02
+- pkg:nuget/JetBrains.EtwService.Native.MacOs.Core@192.0.20190709.82842-eap03
+- pkg:nuget/JetBrains.EtwService.Native.MacOs.Core@192.0.20190717.142723-eap04
+- pkg:nuget/JetBrains.EtwService.Native.MacOs.Core@193.0.20191022.210928-eap01

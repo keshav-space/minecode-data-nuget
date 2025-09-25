@@ -1,0 +1,4 @@
+- pkg:nuget/BulkInsert.EF6.MySql@6.0.3.6
+- pkg:nuget/BulkInsert.EF6.MySql@6.0.3.7
+- pkg:nuget/BulkInsert.EF6.MySql@6.0.3.8
+- pkg:nuget/BulkInsert.EF6.MySql@6.0.4

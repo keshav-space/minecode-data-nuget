@@ -1,0 +1,4 @@
+- pkg:nuget/Eternet.AspNetCore.DataProtection.ServiceFabric@7.0.0
+- pkg:nuget/Eternet.AspNetCore.DataProtection.ServiceFabric@7.0.1
+- pkg:nuget/Eternet.AspNetCore.DataProtection.ServiceFabric@8.0.0
+- pkg:nuget/Eternet.AspNetCore.DataProtection.ServiceFabric@9.0.0

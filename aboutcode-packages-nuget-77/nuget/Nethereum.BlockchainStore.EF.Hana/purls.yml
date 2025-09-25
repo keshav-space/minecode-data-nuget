@@ -1,0 +1,5 @@
+- pkg:nuget/Nethereum.BlockchainStore.EF.Hana@3.4.0
+- pkg:nuget/Nethereum.BlockchainStore.EF.Hana@3.7.1
+- pkg:nuget/Nethereum.BlockchainStore.EF.Hana@3.8.0
+- pkg:nuget/Nethereum.BlockchainStore.EF.Hana@4.11.0
+- pkg:nuget/Nethereum.BlockchainStore.EF.Hana@4.8.0

@@ -1,0 +1,4 @@
+- pkg:nuget/powershell.automation@10.0.10586-rc1
+- pkg:nuget/powershell.automation@10.0.10586-rc2
+- pkg:nuget/powershell.automation@10.0.10586-rc3
+- pkg:nuget/powershell.automation@10.0.10586-rc4

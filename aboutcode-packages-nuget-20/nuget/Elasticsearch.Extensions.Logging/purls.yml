@@ -1,0 +1,5 @@
+- pkg:nuget/Elasticsearch.Extensions.Logging@1.6.0-alpha1
+- pkg:nuget/Elasticsearch.Extensions.Logging@8.4.0-alpha1
+- pkg:nuget/Elasticsearch.Extensions.Logging@8.4.0-alpha2
+- pkg:nuget/Elasticsearch.Extensions.Logging@8.4.0-alpha3
+- pkg:nuget/Elasticsearch.Extensions.Logging@8.4.0-alpha4

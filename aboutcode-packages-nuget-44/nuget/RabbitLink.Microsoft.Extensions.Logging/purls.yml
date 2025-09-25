@@ -1,0 +1,4 @@
+- pkg:nuget/RabbitLink.Microsoft.Extensions.Logging@0.13.0
+- pkg:nuget/RabbitLink.Microsoft.Extensions.Logging@0.14.0
+- pkg:nuget/RabbitLink.Microsoft.Extensions.Logging@0.8.0
+- pkg:nuget/RabbitLink.Microsoft.Extensions.Logging@0.9.0

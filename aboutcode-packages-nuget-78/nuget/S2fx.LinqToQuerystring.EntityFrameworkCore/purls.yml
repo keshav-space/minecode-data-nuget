@@ -1,0 +1,3 @@
+- pkg:nuget/S2fx.LinqToQuerystring.EntityFrameworkCore@0.7.1
+- pkg:nuget/S2fx.LinqToQuerystring.EntityFrameworkCore@0.7.1-beta
+- pkg:nuget/S2fx.LinqToQuerystring.EntityFrameworkCore@0.7.2

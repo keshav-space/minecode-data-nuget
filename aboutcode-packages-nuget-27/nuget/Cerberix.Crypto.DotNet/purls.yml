@@ -1,0 +1,4 @@
+- pkg:nuget/Cerberix.Crypto.DotNet@1.0.0-pre00
+- pkg:nuget/Cerberix.Crypto.DotNet@1.1.0
+- pkg:nuget/Cerberix.Crypto.DotNet@1.1.1
+- pkg:nuget/Cerberix.Crypto.DotNet@1.1.2

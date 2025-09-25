@@ -1,0 +1,7 @@
+- pkg:nuget/PH.Core3.EntityFramework.Abstractions@1.1.12-alpha
+- pkg:nuget/PH.Core3.EntityFramework.Abstractions@1.1.12-beta
+- pkg:nuget/PH.Core3.EntityFramework.Abstractions@1.1.13
+- pkg:nuget/PH.Core3.EntityFramework.Abstractions@1.1.13-alpha
+- pkg:nuget/PH.Core3.EntityFramework.Abstractions@1.1.13-beta
+- pkg:nuget/PH.Core3.EntityFramework.Abstractions@1.1.14
+- pkg:nuget/PH.Core3.EntityFramework.Abstractions@1.2.0

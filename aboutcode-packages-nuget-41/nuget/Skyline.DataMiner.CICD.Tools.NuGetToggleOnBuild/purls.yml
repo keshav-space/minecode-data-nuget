@@ -1,0 +1,6 @@
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetToggleOnBuild@1.0.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetToggleOnBuild@1.0.0.2
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetToggleOnBuild@1.0.0.3
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetToggleOnBuild@1.0.0.4
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetToggleOnBuild@1.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetToggleOnBuild@2.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Bzbs.NetCore.Common.MongoDb@2.0.1
+- pkg:nuget/Bzbs.NetCore.Common.MongoDb@2.0.2
+- pkg:nuget/Bzbs.NetCore.Common.MongoDb@2.0.3
+- pkg:nuget/Bzbs.NetCore.Common.MongoDb@3.0.0

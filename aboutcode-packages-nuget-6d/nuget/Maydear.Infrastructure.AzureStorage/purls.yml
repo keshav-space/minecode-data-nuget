@@ -1,0 +1,3 @@
+- pkg:nuget/Maydear.Infrastructure.AzureStorage@2.0.1
+- pkg:nuget/Maydear.Infrastructure.AzureStorage@2.0.2
+- pkg:nuget/Maydear.Infrastructure.AzureStorage@2.1.0

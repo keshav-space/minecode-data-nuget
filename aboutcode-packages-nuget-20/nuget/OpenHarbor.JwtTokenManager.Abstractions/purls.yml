@@ -1,0 +1,9 @@
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.0.0
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.0.0-rc1
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.1.0
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.1.1
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.1.5
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.1.6
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.2.0
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.2.1
+- pkg:nuget/OpenHarbor.JwtTokenManager.Abstractions@8.3.0

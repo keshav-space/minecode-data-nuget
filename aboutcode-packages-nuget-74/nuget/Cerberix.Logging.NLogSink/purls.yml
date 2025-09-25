@@ -1,0 +1,4 @@
+- pkg:nuget/Cerberix.Logging.NLogSink@1.0.0-pre00
+- pkg:nuget/Cerberix.Logging.NLogSink@1.0.0-pre01
+- pkg:nuget/Cerberix.Logging.NLogSink@1.1.0
+- pkg:nuget/Cerberix.Logging.NLogSink@1.1.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Cerberix.Crypto.BCryptNet@1.0.0-pre00
+- pkg:nuget/Cerberix.Crypto.BCryptNet@1.0.0-pre01
+- pkg:nuget/Cerberix.Crypto.BCryptNet@1.1.0
+- pkg:nuget/Cerberix.Crypto.BCryptNet@1.1.1
+- pkg:nuget/Cerberix.Crypto.BCryptNet@1.1.2

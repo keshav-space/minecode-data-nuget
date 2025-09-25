@@ -1,0 +1,9 @@
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.11
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.186
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.202
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.233
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.245
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.503
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.504
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.626
+- pkg:nuget/Azure.Bicep.Types.K8s@0.1.644

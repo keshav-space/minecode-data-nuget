@@ -1,0 +1,7 @@
+- pkg:nuget/CodeHelper.Core.Database.SqlServer@1.0.0
+- pkg:nuget/CodeHelper.Core.Database.SqlServer@5.0.0
+- pkg:nuget/CodeHelper.Core.Database.SqlServer@6.0.0
+- pkg:nuget/CodeHelper.Core.Database.SqlServer@6.0.1
+- pkg:nuget/CodeHelper.Core.Database.SqlServer@6.0.2
+- pkg:nuget/CodeHelper.Core.Database.SqlServer@6.0.3
+- pkg:nuget/CodeHelper.Core.Database.SqlServer@6.0.4

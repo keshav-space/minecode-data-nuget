@@ -1,0 +1,2 @@
+- pkg:nuget/WindowsAzure.StorageClient.Library@1.4.0
+- pkg:nuget/WindowsAzure.StorageClient.Library@1.6.0

@@ -1,0 +1,4 @@
+- pkg:nuget/MicrosoftExtensions.Logging.Xunit@1.0.0
+- pkg:nuget/MicrosoftExtensions.Logging.Xunit@1.1.0-beta.1.g5120d81
+- pkg:nuget/MicrosoftExtensions.Logging.Xunit@1.1.1
+- pkg:nuget/MicrosoftExtensions.Logging.Xunit@1.2.1

@@ -1,0 +1,12 @@
+- pkg:nuget/Nids.Blazor.UI@1.0.0
+- pkg:nuget/Nids.Blazor.UI@1.0.0-CI-20231108-140000
+- pkg:nuget/Nids.Blazor.UI@1.0.0-CI-20231108-140730
+- pkg:nuget/Nids.Blazor.UI@1.0.0-CI-20231108-142435
+- pkg:nuget/Nids.Blazor.UI@1.0.0-CI-20231108-144010
+- pkg:nuget/Nids.Blazor.UI@1.0.0-CI-20231115-181850
+- pkg:nuget/Nids.Blazor.UI@1.0.0-CI-20231115-184430
+- pkg:nuget/Nids.Blazor.UI@1.0.0-CI-20231115-185044
+- pkg:nuget/Nids.Blazor.UI@1.0.0-CI-20231116-095132
+- pkg:nuget/Nids.Blazor.UI@2023.11.16.1
+- pkg:nuget/Nids.Blazor.UI@2023.11.18.1
+- pkg:nuget/Nids.Blazor.UI@2023.11.19.1

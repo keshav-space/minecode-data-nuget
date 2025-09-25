@@ -1,0 +1,2 @@
+- pkg:nuget/TestProject.TestConsole@0.0.0.1-beta
+- pkg:nuget/TestProject.TestConsole@1.0.0

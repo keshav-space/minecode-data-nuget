@@ -1,0 +1,4 @@
+- pkg:nuget/NLog.Targets.Sentry@1.0.0.25777
+- pkg:nuget/NLog.Targets.Sentry@1.1.0
+- pkg:nuget/NLog.Targets.Sentry@1.2.0
+- pkg:nuget/NLog.Targets.Sentry@1.3.0

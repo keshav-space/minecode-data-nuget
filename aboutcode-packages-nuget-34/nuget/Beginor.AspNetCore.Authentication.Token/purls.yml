@@ -1,0 +1,6 @@
+- pkg:nuget/Beginor.AspNetCore.Authentication.Token@1.0.0
+- pkg:nuget/Beginor.AspNetCore.Authentication.Token@6.0.0
+- pkg:nuget/Beginor.AspNetCore.Authentication.Token@6.0.1
+- pkg:nuget/Beginor.AspNetCore.Authentication.Token@7.0.0
+- pkg:nuget/Beginor.AspNetCore.Authentication.Token@8.0.0
+- pkg:nuget/Beginor.AspNetCore.Authentication.Token@9.0.0
