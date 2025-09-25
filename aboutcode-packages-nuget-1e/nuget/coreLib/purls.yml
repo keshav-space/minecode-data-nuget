@@ -1,0 +1,5 @@
+- pkg:nuget/coreLib@0.1.0-ci0006
+- pkg:nuget/coreLib@0.1.0-sample0002
+- pkg:nuget/coreLib@0.1.0-sample0003
+- pkg:nuget/coreLib@0.2.0-testinga0004
+- pkg:nuget/coreLib@0.4.1-beta0001

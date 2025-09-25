@@ -1,0 +1,4 @@
+- pkg:nuget/SqlSugar.MySqlCore@1.0.0
+- pkg:nuget/SqlSugar.MySqlCore@5.1.4.170
+- pkg:nuget/SqlSugar.MySqlCore@5.1.4.171
+- pkg:nuget/SqlSugar.MySqlCore@5.1.4.172

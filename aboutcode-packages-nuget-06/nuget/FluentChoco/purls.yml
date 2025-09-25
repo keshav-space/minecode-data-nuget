@@ -1,0 +1,4 @@
+- pkg:nuget/FluentChoco@2.0.0
+- pkg:nuget/FluentChoco@2.0.1
+- pkg:nuget/FluentChoco@3.0.0
+- pkg:nuget/FluentChoco@4.0.0

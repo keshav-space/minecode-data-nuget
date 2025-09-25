@@ -1,0 +1,2 @@
+- pkg:nuget/Turner.Infrastructure.Logging.AspNetCore@1.0.0
+- pkg:nuget/Turner.Infrastructure.Logging.AspNetCore@2.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/KL.RateLimiter.Redis@1.0.0
+- pkg:nuget/KL.RateLimiter.Redis@1.2.0

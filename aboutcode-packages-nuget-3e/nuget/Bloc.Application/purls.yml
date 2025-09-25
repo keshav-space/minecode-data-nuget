@@ -1,0 +1,5 @@
+- pkg:nuget/Bloc.Application@0.0.1-alpha.1
+- pkg:nuget/Bloc.Application@0.0.1-dev.1
+- pkg:nuget/Bloc.Application@0.0.1-dev.2
+- pkg:nuget/Bloc.Application@0.0.1-dev.3
+- pkg:nuget/Bloc.Application@0.0.1-develop-build-35

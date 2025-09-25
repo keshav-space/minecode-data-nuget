@@ -1,0 +1,4 @@
+- pkg:nuget/Swashbuckle.AspNetCore.ApiDoc@2.0.0
+- pkg:nuget/Swashbuckle.AspNetCore.ApiDoc@3.1.0
+- pkg:nuget/Swashbuckle.AspNetCore.ApiDoc@3.2.0
+- pkg:nuget/Swashbuckle.AspNetCore.ApiDoc@3.2.2

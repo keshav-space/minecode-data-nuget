@@ -1,0 +1,4 @@
+- pkg:nuget/Nerdbank.Bitcoin@0.2.66-beta
+- pkg:nuget/Nerdbank.Bitcoin@0.2.68-beta
+- pkg:nuget/Nerdbank.Bitcoin@0.3.1-beta
+- pkg:nuget/Nerdbank.Bitcoin@0.3.185

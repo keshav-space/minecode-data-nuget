@@ -1,0 +1,5 @@
+- pkg:nuget/eQuantic.Core.Persistence.PostgreSql@1.8.1
+- pkg:nuget/eQuantic.Core.Persistence.PostgreSql@1.8.2
+- pkg:nuget/eQuantic.Core.Persistence.PostgreSql@1.9.0
+- pkg:nuget/eQuantic.Core.Persistence.PostgreSql@1.9.1
+- pkg:nuget/eQuantic.Core.Persistence.PostgreSql@1.9.2

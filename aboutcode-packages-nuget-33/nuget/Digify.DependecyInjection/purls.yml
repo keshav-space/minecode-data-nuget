@@ -1,0 +1,3 @@
+- pkg:nuget/Digify.DependecyInjection@0.0.2-preview1
+- pkg:nuget/Digify.DependecyInjection@1.0.0
+- pkg:nuget/Digify.DependecyInjection@1.0.1

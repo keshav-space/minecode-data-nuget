@@ -1,0 +1,2 @@
+- pkg:nuget/SqlAutoGen.Runtime.EntityFramework@0.1.11-dev
+- pkg:nuget/SqlAutoGen.Runtime.EntityFramework@0.1.12-dev

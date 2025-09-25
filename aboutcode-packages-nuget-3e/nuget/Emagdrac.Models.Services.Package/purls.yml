@@ -1,0 +1,5 @@
+- pkg:nuget/Emagdrac.Models.Services.Package@1.0.0
+- pkg:nuget/Emagdrac.Models.Services.Package@1.0.0-CI-20190215-175834
+- pkg:nuget/Emagdrac.Models.Services.Package@1.0.0-CI-20190215-180747
+- pkg:nuget/Emagdrac.Models.Services.Package@20190215.13.0
+- pkg:nuget/Emagdrac.Models.Services.Package@20190215.16.0

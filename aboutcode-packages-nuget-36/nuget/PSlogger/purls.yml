@@ -1,0 +1,3 @@
+- pkg:nuget/PSlogger@1.0.0%2B4811e277fa33fbfe355b01223d57be2b1d3c9e61
+- pkg:nuget/PSlogger@1.0.0-beta
+- pkg:nuget/PSlogger@1.1.0

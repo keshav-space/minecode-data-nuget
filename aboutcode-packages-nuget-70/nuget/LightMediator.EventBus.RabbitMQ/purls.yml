@@ -1,0 +1,5 @@
+- pkg:nuget/LightMediator.EventBus.RabbitMQ@0.5.1
+- pkg:nuget/LightMediator.EventBus.RabbitMQ@0.5.1.10
+- pkg:nuget/LightMediator.EventBus.RabbitMQ@0.5.1.11
+- pkg:nuget/LightMediator.EventBus.RabbitMQ@0.5.1.12
+- pkg:nuget/LightMediator.EventBus.RabbitMQ@0.5.2.1

@@ -1,0 +1,5 @@
+- pkg:nuget/SimplyWorks.Logger.ElasticSearch@8.0.10
+- pkg:nuget/SimplyWorks.Logger.ElasticSearch@8.0.12
+- pkg:nuget/SimplyWorks.Logger.ElasticSearch@8.0.5
+- pkg:nuget/SimplyWorks.Logger.ElasticSearch@8.0.6
+- pkg:nuget/SimplyWorks.Logger.ElasticSearch@8.1.0

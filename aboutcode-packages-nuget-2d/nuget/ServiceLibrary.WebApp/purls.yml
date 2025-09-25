@@ -1,0 +1,6 @@
+- pkg:nuget/ServiceLibrary.WebApp@1.0.0
+- pkg:nuget/ServiceLibrary.WebApp@1.0.1
+- pkg:nuget/ServiceLibrary.WebApp@1.0.1-ci0022
+- pkg:nuget/ServiceLibrary.WebApp@2.0.0
+- pkg:nuget/ServiceLibrary.WebApp@2.0.1
+- pkg:nuget/ServiceLibrary.WebApp@2.0.2

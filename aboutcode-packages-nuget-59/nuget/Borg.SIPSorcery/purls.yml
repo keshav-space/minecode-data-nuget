@@ -1,0 +1,5 @@
+- pkg:nuget/Borg.SIPSorcery@9.0.0-PacketView-24.7.10.0
+- pkg:nuget/Borg.SIPSorcery@9.0.0-PacketView-25.5.11.0
+- pkg:nuget/Borg.SIPSorcery@9.0.0-PacketView-25.5.11.1
+- pkg:nuget/Borg.SIPSorcery@9.0.0-PacketView-25.5.12.0
+- pkg:nuget/Borg.SIPSorcery@9.0.0-PacketView-MIT0
