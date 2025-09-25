@@ -1,0 +1,6 @@
+- pkg:nuget/TinyStateMachine@1.0.0
+- pkg:nuget/TinyStateMachine@1.0.0-CI-20200301-065140
+- pkg:nuget/TinyStateMachine@2.0.0
+- pkg:nuget/TinyStateMachine@2.0.7
+- pkg:nuget/TinyStateMachine@2.0.8
+- pkg:nuget/TinyStateMachine@2.1.0-CI-20200302-035535

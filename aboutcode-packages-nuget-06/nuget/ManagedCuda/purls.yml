@@ -1,0 +1,5 @@
+- pkg:nuget/ManagedCuda@10.0.0
+- pkg:nuget/ManagedCuda@8.0.0
+- pkg:nuget/ManagedCuda@9.0.0
+- pkg:nuget/ManagedCuda@9.1.0
+- pkg:nuget/ManagedCuda@9.2.0

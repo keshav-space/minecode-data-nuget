@@ -1,0 +1,3 @@
+- pkg:nuget/YokoRedis@2.1.1
+- pkg:nuget/YokoRedis@2.2.0
+- pkg:nuget/YokoRedis@2.2.1

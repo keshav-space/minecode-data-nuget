@@ -1,0 +1,4 @@
+- pkg:nuget/SqlServerCoverage.CommandLine@1.0.0
+- pkg:nuget/SqlServerCoverage.CommandLine@1.1.72
+- pkg:nuget/SqlServerCoverage.CommandLine@1.2.2
+- pkg:nuget/SqlServerCoverage.CommandLine@2.0.3

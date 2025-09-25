@@ -1,0 +1,9 @@
+- pkg:nuget/NServiceBus.Extensions.Hosting@1.0.0
+- pkg:nuget/NServiceBus.Extensions.Hosting@1.0.1
+- pkg:nuget/NServiceBus.Extensions.Hosting@1.1.0
+- pkg:nuget/NServiceBus.Extensions.Hosting@2.0.0
+- pkg:nuget/NServiceBus.Extensions.Hosting@2.0.0-beta.2
+- pkg:nuget/NServiceBus.Extensions.Hosting@2.0.0-rc.2
+- pkg:nuget/NServiceBus.Extensions.Hosting@2.0.1
+- pkg:nuget/NServiceBus.Extensions.Hosting@3.0.0
+- pkg:nuget/NServiceBus.Extensions.Hosting@3.0.1

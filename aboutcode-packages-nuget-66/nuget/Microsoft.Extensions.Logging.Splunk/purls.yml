@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Extensions.Logging.Splunk@0.0.1
+- pkg:nuget/Microsoft.Extensions.Logging.Splunk@2.0.0

@@ -1,0 +1,1 @@
+- pkg:nuget/Azure.Messaging.EventHubs.CheckpointStore.Blobs@1.0.0-preview.3

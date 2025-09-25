@@ -1,0 +1,5 @@
+- pkg:nuget/Wolf.AspNetCore@0.0.1-preview.210105
+- pkg:nuget/Wolf.AspNetCore@2.1.0-preview.210105.x0031
+- pkg:nuget/Wolf.AspNetCore@2.2.0-preview.210105.x0031
+- pkg:nuget/Wolf.AspNetCore@3.0.0-preview.210105.x0031
+- pkg:nuget/Wolf.AspNetCore@3.1.0-preview.210105.x0013

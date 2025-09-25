@@ -1,0 +1,3 @@
+- pkg:nuget/AutoUpdate.Net.Abstraction@0.0.67-beta
+- pkg:nuget/AutoUpdate.Net.Abstraction@0.0.71-beta
+- pkg:nuget/AutoUpdate.Net.Abstraction@0.0.75-beta

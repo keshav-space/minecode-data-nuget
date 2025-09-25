@@ -1,0 +1,6 @@
+- pkg:nuget/Serilog.Enrichers.MassTransitMessage@1.0.0
+- pkg:nuget/Serilog.Enrichers.MassTransitMessage@1.0.0-beta1
+- pkg:nuget/Serilog.Enrichers.MassTransitMessage@1.0.0-beta2
+- pkg:nuget/Serilog.Enrichers.MassTransitMessage@1.0.1
+- pkg:nuget/Serilog.Enrichers.MassTransitMessage@1.0.2
+- pkg:nuget/Serilog.Enrichers.MassTransitMessage@2.0.0

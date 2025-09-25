@@ -1,0 +1,4 @@
+- pkg:nuget/TransactionalBox.Outbox.Compression.GZip@0.0.1-alpha12
+- pkg:nuget/TransactionalBox.Outbox.Compression.GZip@0.0.1-alpha13
+- pkg:nuget/TransactionalBox.Outbox.Compression.GZip@0.0.1-alpha14
+- pkg:nuget/TransactionalBox.Outbox.Compression.GZip@0.0.1-alpha15

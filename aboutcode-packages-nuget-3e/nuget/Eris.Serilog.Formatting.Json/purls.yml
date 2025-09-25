@@ -1,0 +1,3 @@
+- pkg:nuget/Eris.Serilog.Formatting.Json@1.0.0
+- pkg:nuget/Eris.Serilog.Formatting.Json@1.0.0-test
+- pkg:nuget/Eris.Serilog.Formatting.Json@1.1.0

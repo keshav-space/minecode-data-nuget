@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform.Communication.Wcf@9.1.0
+- pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform.Communication.Wcf@9.2.0
+- pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform.Communication.Wcf@9.3.0-preview
+- pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform.Communication.Wcf@9.3.1
