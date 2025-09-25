@@ -1,0 +1,12 @@
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@0.0.1
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@0.0.2
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.0.0
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.0.1
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.0.2
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.1.0
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.2.0
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.3.0
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.3.1
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.3.2
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.3.3
+- pkg:nuget/WebAuthn.Net.Storage.PostgreSql@1.3.4

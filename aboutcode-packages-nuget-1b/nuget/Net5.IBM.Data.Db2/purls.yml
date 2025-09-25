@@ -1,0 +1,6 @@
+- pkg:nuget/Net5.IBM.Data.Db2@5.0.0.100-alpha
+- pkg:nuget/Net5.IBM.Data.Db2@5.0.0.101-beta
+- pkg:nuget/Net5.IBM.Data.Db2@5.0.0.200
+- pkg:nuget/Net5.IBM.Data.Db2@5.0.0.300
+- pkg:nuget/Net5.IBM.Data.Db2@5.0.0.400
+- pkg:nuget/Net5.IBM.Data.Db2@5.0.0.500

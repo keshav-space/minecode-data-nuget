@@ -1,0 +1,4 @@
+- pkg:nuget/LogCollection.MySql@1.0.0
+- pkg:nuget/LogCollection.MySql@1.0.0-alpha-01
+- pkg:nuget/LogCollection.MySql@1.0.1
+- pkg:nuget/LogCollection.MySql@1.0.2

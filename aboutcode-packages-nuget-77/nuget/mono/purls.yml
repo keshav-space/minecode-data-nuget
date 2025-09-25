@@ -1,0 +1,4 @@
+- pkg:nuget/mono@2.10.1
+- pkg:nuget/mono@2.10.1.1
+- pkg:nuget/mono@2.10.2
+- pkg:nuget/mono@2.6.7

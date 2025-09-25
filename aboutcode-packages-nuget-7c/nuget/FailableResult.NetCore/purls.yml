@@ -1,0 +1,5 @@
+- pkg:nuget/FailableResult.NetCore@1.0.0
+- pkg:nuget/FailableResult.NetCore@2.0.0
+- pkg:nuget/FailableResult.NetCore@3.0.0
+- pkg:nuget/FailableResult.NetCore@4.0.0
+- pkg:nuget/FailableResult.NetCore@4.1.0

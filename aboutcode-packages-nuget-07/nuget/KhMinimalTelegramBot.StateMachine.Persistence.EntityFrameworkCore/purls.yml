@@ -1,0 +1,2 @@
+- pkg:nuget/KhMinimalTelegramBot.StateMachine.Persistence.EntityFrameworkCore@0.0.41
+- pkg:nuget/KhMinimalTelegramBot.StateMachine.Persistence.EntityFrameworkCore@0.0.42

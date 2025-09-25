@@ -1,0 +1,6 @@
+- pkg:nuget/CommonDeliveryFramework.Net.Aspnet@1.0.2191
+- pkg:nuget/CommonDeliveryFramework.Net.Aspnet@1.0.3041-Net5RC2
+- pkg:nuget/CommonDeliveryFramework.Net.Aspnet@1.20310.1-NET5RC2
+- pkg:nuget/CommonDeliveryFramework.Net.Aspnet@1.21020.1
+- pkg:nuget/CommonDeliveryFramework.Net.Aspnet@1.22108.1
+- pkg:nuget/CommonDeliveryFramework.Net.Aspnet@5.0.0-rc.1.20451.14

@@ -1,0 +1,15 @@
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@1.0.0
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@1.0.1
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@1.1.0
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@1.1.1
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@2.0.0
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@2.1.0
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@2.1.1
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@2.2.0
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@2.2.1
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@2.2.2
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@2.2.3
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@3.0.0
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@3.1.0
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@3.2.0
+- pkg:nuget/Universal.Microsoft.AspNetCore.Components.Web@4.0.0

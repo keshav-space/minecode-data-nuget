@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Sinks.AWSDynamoDb@0.0.2
+- pkg:nuget/Serilog.Sinks.AWSDynamoDb@0.0.3

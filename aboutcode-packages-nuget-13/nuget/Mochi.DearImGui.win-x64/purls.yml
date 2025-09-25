@@ -1,0 +1,5 @@
+- pkg:nuget/Mochi.DearImGui.win-x64@0.0.0%2B5aba327c3c401b279e7c419b66edfd0000e1f30d
+- pkg:nuget/Mochi.DearImGui.win-x64@0.0.0-alpha0%2B8aef81cb92337cb0cf7e8df4cdbd6c478d19398b
+- pkg:nuget/Mochi.DearImGui.win-x64@0.0.1%2B071613c50f5c4191be1ee807e3fddf316fc2f8b3
+- pkg:nuget/Mochi.DearImGui.win-x64@0.0.2%2Ba322e82573214b5cde9a1921ff59af1a2ca4ea1e
+- pkg:nuget/Mochi.DearImGui.win-x64@0.0.3-alpha0%2B6bf59cb79eb491f8071324adb781473cc453e9dc

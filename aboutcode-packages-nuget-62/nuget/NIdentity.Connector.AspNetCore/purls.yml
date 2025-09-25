@@ -1,0 +1,3 @@
+- pkg:nuget/NIdentity.Connector.AspNetCore@1.0.1
+- pkg:nuget/NIdentity.Connector.AspNetCore@1.0.1.1
+- pkg:nuget/NIdentity.Connector.AspNetCore@1.0.3

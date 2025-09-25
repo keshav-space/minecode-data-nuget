@@ -1,0 +1,6 @@
+- pkg:nuget/CoreSharp.NHibernate.SourceGenerator@0.1.0
+- pkg:nuget/CoreSharp.NHibernate.SourceGenerator@0.1.1
+- pkg:nuget/CoreSharp.NHibernate.SourceGenerator@0.6.50
+- pkg:nuget/CoreSharp.NHibernate.SourceGenerator@0.6.52
+- pkg:nuget/CoreSharp.NHibernate.SourceGenerator@0.7.0
+- pkg:nuget/CoreSharp.NHibernate.SourceGenerator@0.7.1

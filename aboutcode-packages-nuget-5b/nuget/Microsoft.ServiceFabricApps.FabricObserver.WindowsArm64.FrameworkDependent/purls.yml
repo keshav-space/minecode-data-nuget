@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.ServiceFabricApps.FabricObserver.WindowsArm64.FrameworkDependent@3.3.2
+- pkg:nuget/Microsoft.ServiceFabricApps.FabricObserver.WindowsArm64.FrameworkDependent@3.3.3

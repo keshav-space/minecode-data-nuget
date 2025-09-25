@@ -1,0 +1,11 @@
+- pkg:nuget/Cake.CodeQL.Cli@1.0.0
+- pkg:nuget/Cake.CodeQL.Cli@3.0.0
+- pkg:nuget/Cake.CodeQL.Cli@3.1.0
+- pkg:nuget/Cake.CodeQL.Cli@3.1.1-preview.0.1
+- pkg:nuget/Cake.CodeQL.Cli@3.2.0
+- pkg:nuget/Cake.CodeQL.Cli@3.2.1
+- pkg:nuget/Cake.CodeQL.Cli@3.2.1-preview.0.1
+- pkg:nuget/Cake.CodeQL.Cli@3.2.2-preview.0.1
+- pkg:nuget/Cake.CodeQL.Cli@4.0.0
+- pkg:nuget/Cake.CodeQL.Cli@4.0.1
+- pkg:nuget/Cake.CodeQL.Cli@4.0.1-preview.0.1

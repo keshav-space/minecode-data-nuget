@@ -1,0 +1,12 @@
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.1.0
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.2.0
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.3.0
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.3.1
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.4.7
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.5.11-alpha
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.5.12-alpha
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.5.13-alpha
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.5.14-alpha
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.5.7-alpha
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.5.8-alpha
+- pkg:nuget/F23.Syncerbell.EntityFrameworkCore@0.5.9-alpha

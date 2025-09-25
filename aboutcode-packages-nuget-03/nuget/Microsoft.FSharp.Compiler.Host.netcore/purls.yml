@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-160304
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-160627
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-160628
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-160629
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-160727
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-160805
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-160831
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-161023
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-161031
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-161102
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-161103
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-161111
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-alpha-161205
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-rc-170122
+- pkg:nuget/Microsoft.FSharp.Compiler.Host.netcore@1.0.0-rc-170316-0

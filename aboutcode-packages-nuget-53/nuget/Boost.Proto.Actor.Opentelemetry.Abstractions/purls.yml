@@ -1,0 +1,6 @@
+- pkg:nuget/Boost.Proto.Actor.Opentelemetry.Abstractions@0.29.0.126
+- pkg:nuget/Boost.Proto.Actor.Opentelemetry.Abstractions@0.30.0.100
+- pkg:nuget/Boost.Proto.Actor.Opentelemetry.Abstractions@0.30.0.102
+- pkg:nuget/Boost.Proto.Actor.Opentelemetry.Abstractions@0.30.0.105
+- pkg:nuget/Boost.Proto.Actor.Opentelemetry.Abstractions@0.31.0.100
+- pkg:nuget/Boost.Proto.Actor.Opentelemetry.Abstractions@1.0.0

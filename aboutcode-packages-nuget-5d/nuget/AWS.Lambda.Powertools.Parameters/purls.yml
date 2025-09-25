@@ -1,0 +1,10 @@
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@0.0.1-preview
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@0.0.2-preview
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@0.0.3-preview
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@1.0.0
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@1.1.0
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@1.1.1
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@1.1.2
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@1.2.0
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@1.3.0
+- pkg:nuget/AWS.Lambda.Powertools.Parameters@1.3.1

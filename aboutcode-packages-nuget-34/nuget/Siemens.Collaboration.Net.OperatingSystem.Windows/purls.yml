@@ -1,0 +1,4 @@
+- pkg:nuget/Siemens.Collaboration.Net.OperatingSystem.Windows@1.6.17
+- pkg:nuget/Siemens.Collaboration.Net.OperatingSystem.Windows@1.7.3
+- pkg:nuget/Siemens.Collaboration.Net.OperatingSystem.Windows@2.0.28
+- pkg:nuget/Siemens.Collaboration.Net.OperatingSystem.Windows@3.0.1725521661

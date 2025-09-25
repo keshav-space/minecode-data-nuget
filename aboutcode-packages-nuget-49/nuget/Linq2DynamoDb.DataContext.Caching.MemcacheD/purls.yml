@@ -1,0 +1,6 @@
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.MemcacheD@2.0.0
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.MemcacheD@2.0.1
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.MemcacheD@2.1.0
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.MemcacheD@2.2.0
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.MemcacheD@2.2.1
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.MemcacheD@2.4.0

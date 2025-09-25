@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Bot.AdaptiveExpressions.Core@4.22.5
+- pkg:nuget/Microsoft.Bot.AdaptiveExpressions.Core@4.22.7
+- pkg:nuget/Microsoft.Bot.AdaptiveExpressions.Core@4.22.8
+- pkg:nuget/Microsoft.Bot.AdaptiveExpressions.Core@4.22.9
+- pkg:nuget/Microsoft.Bot.AdaptiveExpressions.Core@4.23.0

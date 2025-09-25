@@ -1,0 +1,5 @@
+- pkg:nuget/Farseer.Net.MQ.Kafka@2.0.0
+- pkg:nuget/Farseer.Net.MQ.Kafka@2.0.1
+- pkg:nuget/Farseer.Net.MQ.Kafka@2.2.0
+- pkg:nuget/Farseer.Net.MQ.Kafka@2.3.0
+- pkg:nuget/Farseer.Net.MQ.Kafka@2.4.0

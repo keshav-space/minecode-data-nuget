@@ -1,0 +1,5 @@
+- pkg:nuget/Trifling.Caching.Redis@0.2.0-beta
+- pkg:nuget/Trifling.Caching.Redis@0.2.1-beta
+- pkg:nuget/Trifling.Caching.Redis@0.3.0-beta
+- pkg:nuget/Trifling.Caching.Redis@0.3.1-beta
+- pkg:nuget/Trifling.Caching.Redis@0.4.0-beta

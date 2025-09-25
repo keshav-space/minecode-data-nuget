@@ -1,0 +1,4 @@
+- pkg:nuget/Poc.Framework@1.0.0
+- pkg:nuget/Poc.Framework@1.0.0-CI-20191022-185238
+- pkg:nuget/Poc.Framework@1.0.1
+- pkg:nuget/Poc.Framework@1.0.2

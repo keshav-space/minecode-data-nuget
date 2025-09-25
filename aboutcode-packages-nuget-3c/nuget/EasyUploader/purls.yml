@@ -1,0 +1,5 @@
+- pkg:nuget/EasyUploader@1.0.0
+- pkg:nuget/EasyUploader@1.1.0
+- pkg:nuget/EasyUploader@2.0.0
+- pkg:nuget/EasyUploader@3.1.0
+- pkg:nuget/EasyUploader@4.1.0

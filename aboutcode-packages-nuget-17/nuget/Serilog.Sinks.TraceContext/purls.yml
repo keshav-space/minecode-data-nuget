@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Sinks.TraceContext@1.0.0
+- pkg:nuget/Serilog.Sinks.TraceContext@1.0.1
+- pkg:nuget/Serilog.Sinks.TraceContext@1.1.0-beta.1
+- pkg:nuget/Serilog.Sinks.TraceContext@1.1.0-beta.2

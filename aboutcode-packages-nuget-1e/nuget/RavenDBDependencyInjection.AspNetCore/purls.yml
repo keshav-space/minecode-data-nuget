@@ -1,0 +1,2 @@
+- pkg:nuget/RavenDBDependencyInjection.AspNetCore@1.0.0
+- pkg:nuget/RavenDBDependencyInjection.AspNetCore@1.0.1

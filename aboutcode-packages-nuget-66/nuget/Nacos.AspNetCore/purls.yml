@@ -1,0 +1,3 @@
+- pkg:nuget/Nacos.AspNetCore@0.1.6
+- pkg:nuget/Nacos.AspNetCore@1.0.0
+- pkg:nuget/Nacos.AspNetCore@1.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/DNCB.Serilog.Enrichers.ClientInfo@8.0.0
+- pkg:nuget/DNCB.Serilog.Enrichers.ClientInfo@8.0.1

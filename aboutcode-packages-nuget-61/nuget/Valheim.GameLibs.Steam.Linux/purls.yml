@@ -1,0 +1,9 @@
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.38-alpha.1
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.38-alpha.2
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.38-ngd.1
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.38-ngd.2
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.38-ngd.3
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.38-ngd.4
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.38-ngd.5
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.38-ngd.6
+- pkg:nuget/Valheim.GameLibs.Steam.Linux@0.217.46-ngd.0

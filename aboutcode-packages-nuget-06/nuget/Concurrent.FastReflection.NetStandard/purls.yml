@@ -1,0 +1,3 @@
+- pkg:nuget/Concurrent.FastReflection.NetStandard@1.0.0
+- pkg:nuget/Concurrent.FastReflection.NetStandard@1.0.1
+- pkg:nuget/Concurrent.FastReflection.NetStandard@1.2.1.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Siemens.Collaboration.Net.Windows.Authentication@1.6.7
+- pkg:nuget/Siemens.Collaboration.Net.Windows.Authentication@1.7.3
+- pkg:nuget/Siemens.Collaboration.Net.Windows.Authentication@2.0.27
+- pkg:nuget/Siemens.Collaboration.Net.Windows.Authentication@3.0.1725521661

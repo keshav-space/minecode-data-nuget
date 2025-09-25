@@ -1,0 +1,4 @@
+- pkg:nuget/Azure.IoT.DeviceUpdate@1.0.0
+- pkg:nuget/Azure.IoT.DeviceUpdate@1.0.0-beta.2
+- pkg:nuget/Azure.IoT.DeviceUpdate@1.0.0-beta.3
+- pkg:nuget/Azure.IoT.DeviceUpdate@1.0.0-beta.4

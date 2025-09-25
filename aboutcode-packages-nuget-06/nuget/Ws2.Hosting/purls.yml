@@ -1,0 +1,5 @@
+- pkg:nuget/Ws2.Hosting@0.1.0-alpha1
+- pkg:nuget/Ws2.Hosting@0.2.0
+- pkg:nuget/Ws2.Hosting@0.2.1
+- pkg:nuget/Ws2.Hosting@0.3.0
+- pkg:nuget/Ws2.Hosting@0.6.0

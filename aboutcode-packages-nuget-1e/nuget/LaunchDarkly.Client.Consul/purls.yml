@@ -1,0 +1,2 @@
+- pkg:nuget/LaunchDarkly.Client.Consul@1.0.0
+- pkg:nuget/LaunchDarkly.Client.Consul@1.0.0-beta1

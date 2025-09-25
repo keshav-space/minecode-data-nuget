@@ -1,0 +1,2 @@
+- pkg:nuget/Duende.AspNetCore.Authentication.OAuth2Introspection@6.3.0
+- pkg:nuget/Duende.AspNetCore.Authentication.OAuth2Introspection@7.0.0-alpha.0.337

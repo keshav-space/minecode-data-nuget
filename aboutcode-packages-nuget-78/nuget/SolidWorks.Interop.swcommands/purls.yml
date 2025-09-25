@@ -1,0 +1,9 @@
+- pkg:nuget/SolidWorks.Interop.swcommands@23.5.0
+- pkg:nuget/SolidWorks.Interop.swcommands@24.4.0
+- pkg:nuget/SolidWorks.Interop.swcommands@25.5.0
+- pkg:nuget/SolidWorks.Interop.swcommands@27.2.0
+- pkg:nuget/SolidWorks.Interop.swcommands@27.3.0
+- pkg:nuget/SolidWorks.Interop.swcommands@29.4.1
+- pkg:nuget/SolidWorks.Interop.swcommands@30.5.1
+- pkg:nuget/SolidWorks.Interop.swcommands@31.5.0
+- pkg:nuget/SolidWorks.Interop.swcommands@32.1.0

@@ -1,0 +1,16 @@
+- pkg:nuget/FFmpeg.Native@1.0.0-r31
+- pkg:nuget/FFmpeg.Native@3.3.4-ci-20200313.11
+- pkg:nuget/FFmpeg.Native@3.3.4-ci-20200313.21
+- pkg:nuget/FFmpeg.Native@3.3.4-ci-20200313.36
+- pkg:nuget/FFmpeg.Native@3.3.4-ci-20200314.1
+- pkg:nuget/FFmpeg.Native@3.3.4-ci-20200314.2
+- pkg:nuget/FFmpeg.Native@3.3.4-ci-20200314.4
+- pkg:nuget/FFmpeg.Native@3.3.4-ci-20200318.2
+- pkg:nuget/FFmpeg.Native@4.2.2-ci-20200318.6
+- pkg:nuget/FFmpeg.Native@4.2.2-ci-20200321.43
+- pkg:nuget/FFmpeg.Native@4.2.2-ci-20200324.2
+- pkg:nuget/FFmpeg.Native@4.2.2-ci-20200512.4
+- pkg:nuget/FFmpeg.Native@4.3.1-ci-20201215.3
+- pkg:nuget/FFmpeg.Native@4.3.1.2382
+- pkg:nuget/FFmpeg.Native@4.3.1.2383
+- pkg:nuget/FFmpeg.Native@4.4.0.2386

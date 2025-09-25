@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.AspNetCore.SignalR.Server@0.0.1-alpha
+- pkg:nuget/Microsoft.AspNetCore.SignalR.Server@0.1.0-t160217074715

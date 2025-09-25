@@ -1,0 +1,4 @@
+- pkg:nuget/Easify.AspNetCore.Telemetry.AppInsights@1.0.0
+- pkg:nuget/Easify.AspNetCore.Telemetry.AppInsights@2.2.2
+- pkg:nuget/Easify.AspNetCore.Telemetry.AppInsights@2.2.3
+- pkg:nuget/Easify.AspNetCore.Telemetry.AppInsights@2.2.5

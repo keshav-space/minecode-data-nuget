@@ -1,0 +1,4 @@
+- pkg:nuget/Raccoon.MQTTBroker.Rpc@1.0.0
+- pkg:nuget/Raccoon.MQTTBroker.Rpc@2.0.0
+- pkg:nuget/Raccoon.MQTTBroker.Rpc@2.1.0
+- pkg:nuget/Raccoon.MQTTBroker.Rpc@2.2.0

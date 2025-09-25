@@ -1,0 +1,12 @@
+- pkg:nuget/Ninject.Extensions.MessageBroker@2.2.0
+- pkg:nuget/Ninject.Extensions.MessageBroker@2.2.0.5
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.0.0-rc1
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.0.0-rc2
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.0.0-rc3
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.0.0.5
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.0.2-unstable-9005
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.0.2-unstable-9006
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.0.2-unstable-9010
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.0.2-unstable-9011
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.2.0
+- pkg:nuget/Ninject.Extensions.MessageBroker@3.2.0-unstable-002

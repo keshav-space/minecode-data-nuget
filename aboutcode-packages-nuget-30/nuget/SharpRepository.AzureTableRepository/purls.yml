@@ -1,0 +1,6 @@
+- pkg:nuget/SharpRepository.AzureTableRepository@1.4.6.15
+- pkg:nuget/SharpRepository.AzureTableRepository@1.4.7
+- pkg:nuget/SharpRepository.AzureTableRepository@1.5.0.2
+- pkg:nuget/SharpRepository.AzureTableRepository@1.5.0.3
+- pkg:nuget/SharpRepository.AzureTableRepository@2.0.1-alpha3
+- pkg:nuget/SharpRepository.AzureTableRepository@2.0.2-alpha4

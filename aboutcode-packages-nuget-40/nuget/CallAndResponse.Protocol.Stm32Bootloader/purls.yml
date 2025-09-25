@@ -1,0 +1,6 @@
+- pkg:nuget/CallAndResponse.Protocol.Stm32Bootloader@1.3.0-alpha
+- pkg:nuget/CallAndResponse.Protocol.Stm32Bootloader@1.3.1-alpha
+- pkg:nuget/CallAndResponse.Protocol.Stm32Bootloader@1.4.0-alpha
+- pkg:nuget/CallAndResponse.Protocol.Stm32Bootloader@1.5.0-alpha
+- pkg:nuget/CallAndResponse.Protocol.Stm32Bootloader@1.6.0-alpha
+- pkg:nuget/CallAndResponse.Protocol.Stm32Bootloader@1.6.1-alpha

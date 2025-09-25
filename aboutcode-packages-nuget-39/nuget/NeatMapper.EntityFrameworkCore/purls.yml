@@ -1,0 +1,11 @@
+- pkg:nuget/NeatMapper.EntityFrameworkCore@2.0.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@2.1.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@2.2.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@3.1.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@4.0.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@5.0.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@5.1.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@5.2.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@5.3.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@5.4.0
+- pkg:nuget/NeatMapper.EntityFrameworkCore@6.0.0

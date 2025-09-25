@@ -1,0 +1,4 @@
+- pkg:nuget/HttpClient.TestUtilities@1.0.0
+- pkg:nuget/HttpClient.TestUtilities@2.0.0
+- pkg:nuget/HttpClient.TestUtilities@4.0.0
+- pkg:nuget/HttpClient.TestUtilities@5.0.0

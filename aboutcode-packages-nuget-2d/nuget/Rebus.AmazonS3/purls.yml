@@ -1,0 +1,11 @@
+- pkg:nuget/Rebus.AmazonS3@1.0.0
+- pkg:nuget/Rebus.AmazonS3@1.0.0-b1
+- pkg:nuget/Rebus.AmazonS3@1.0.0-b2
+- pkg:nuget/Rebus.AmazonS3@1.0.0-b3
+- pkg:nuget/Rebus.AmazonS3@1.1.0
+- pkg:nuget/Rebus.AmazonS3@2.0.0
+- pkg:nuget/Rebus.AmazonS3@2.1.0
+- pkg:nuget/Rebus.AmazonS3@2.2.0
+- pkg:nuget/Rebus.AmazonS3@3.0.0
+- pkg:nuget/Rebus.AmazonS3@3.0.0-alpha01
+- pkg:nuget/Rebus.AmazonS3@3.0.0-alpha02
