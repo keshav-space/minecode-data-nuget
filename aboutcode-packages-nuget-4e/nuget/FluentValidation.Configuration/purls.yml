@@ -1,0 +1,9 @@
+- pkg:nuget/FluentValidation.Configuration@0.1.0
+- pkg:nuget/FluentValidation.Configuration@0.1.0-beta
+- pkg:nuget/FluentValidation.Configuration@0.1.1-beta
+- pkg:nuget/FluentValidation.Configuration@0.1.3-beta
+- pkg:nuget/FluentValidation.Configuration@0.1.4-beta
+- pkg:nuget/FluentValidation.Configuration@0.1.5-beta
+- pkg:nuget/FluentValidation.Configuration@0.1.6-beta
+- pkg:nuget/FluentValidation.Configuration@0.2.0-rc
+- pkg:nuget/FluentValidation.Configuration@0.3.0-rc

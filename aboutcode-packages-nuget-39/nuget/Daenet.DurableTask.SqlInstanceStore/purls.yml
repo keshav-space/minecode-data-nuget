@@ -1,0 +1,2 @@
+- pkg:nuget/Daenet.DurableTask.SqlInstanceStore@1.0.0
+- pkg:nuget/Daenet.DurableTask.SqlInstanceStore@1.0.1-preview

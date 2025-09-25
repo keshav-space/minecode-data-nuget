@@ -1,0 +1,6 @@
+- pkg:nuget/Farrellsoft.Azure.Functions.Extensions.Redis@0.0.1
+- pkg:nuget/Farrellsoft.Azure.Functions.Extensions.Redis@1.0.0
+- pkg:nuget/Farrellsoft.Azure.Functions.Extensions.Redis@1.0.1
+- pkg:nuget/Farrellsoft.Azure.Functions.Extensions.Redis@1.1.0
+- pkg:nuget/Farrellsoft.Azure.Functions.Extensions.Redis@1.2.0
+- pkg:nuget/Farrellsoft.Azure.Functions.Extensions.Redis@2.0.0

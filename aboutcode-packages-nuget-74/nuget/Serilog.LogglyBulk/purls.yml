@@ -1,0 +1,6 @@
+- pkg:nuget/Serilog.LogglyBulk@0.1.1.16-prerelease
+- pkg:nuget/Serilog.LogglyBulk@0.1.1.7
+- pkg:nuget/Serilog.LogglyBulk@0.1.1.8
+- pkg:nuget/Serilog.LogglyBulk@0.1.2.1
+- pkg:nuget/Serilog.LogglyBulk@0.2.0
+- pkg:nuget/Serilog.LogglyBulk@1.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/JC.SemanticKernel.Connectors.Mistral@1.0.1
+- pkg:nuget/JC.SemanticKernel.Connectors.Mistral@1.1.0
+- pkg:nuget/JC.SemanticKernel.Connectors.Mistral@1.1.0.1
+- pkg:nuget/JC.SemanticKernel.Connectors.Mistral@1.3.0
+- pkg:nuget/JC.SemanticKernel.Connectors.Mistral@1.5.0

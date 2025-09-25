@@ -1,0 +1,2 @@
+- pkg:nuget/Cake.Helm@1.0.0-beta
+- pkg:nuget/Cake.Helm@1.0.1-beta

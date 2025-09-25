@@ -1,0 +1,4 @@
+- pkg:nuget/Dependency.check@0.0.1-Private
+- pkg:nuget/Dependency.check@0.0.100-Private
+- pkg:nuget/Dependency.check@0.0.2-Private
+- pkg:nuget/Dependency.check@0.0.99-Private

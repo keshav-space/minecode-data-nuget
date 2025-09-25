@@ -1,0 +1,6 @@
+- pkg:nuget/SurrealDb.MinimalApis.Extensions@0.5.0
+- pkg:nuget/SurrealDb.MinimalApis.Extensions@0.5.1
+- pkg:nuget/SurrealDb.MinimalApis.Extensions@0.6.0
+- pkg:nuget/SurrealDb.MinimalApis.Extensions@0.7.0
+- pkg:nuget/SurrealDb.MinimalApis.Extensions@0.8.0
+- pkg:nuget/SurrealDb.MinimalApis.Extensions@0.9.0

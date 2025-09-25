@@ -1,0 +1,14 @@
+- pkg:nuget/NLog.LumberjackTarget@1.0.5703.5016
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.15500
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.27080
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.28871
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.28971
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.29011
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.29221
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.29642
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.29741
+- pkg:nuget/NLog.LumberjackTarget@1.0.5709.30072
+- pkg:nuget/NLog.LumberjackTarget@1.0.5715.15880
+- pkg:nuget/NLog.LumberjackTarget@1.0.5716.14127
+- pkg:nuget/NLog.LumberjackTarget@1.0.5716.3870
+- pkg:nuget/NLog.LumberjackTarget@1.0.5717.26258

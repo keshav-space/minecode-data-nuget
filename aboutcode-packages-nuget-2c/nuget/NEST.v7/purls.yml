@@ -1,0 +1,6 @@
+- pkg:nuget/NEST.v7@0.0.1-Private
+- pkg:nuget/NEST.v7@0.0.2-Private
+- pkg:nuget/NEST.v7@0.0.3-Private
+- pkg:nuget/NEST.v7@0.0.4-Private
+- pkg:nuget/NEST.v7@7.12.0-ci20210302T085937
+- pkg:nuget/NEST.v7@7.13.0-ci20210301T140449

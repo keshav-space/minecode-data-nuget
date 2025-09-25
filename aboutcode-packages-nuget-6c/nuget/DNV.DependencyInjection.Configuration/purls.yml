@@ -1,0 +1,5 @@
+- pkg:nuget/DNV.DependencyInjection.Configuration@1.0.0
+- pkg:nuget/DNV.DependencyInjection.Configuration@1.0.0-test.2
+- pkg:nuget/DNV.DependencyInjection.Configuration@1.0.0-test.3
+- pkg:nuget/DNV.DependencyInjection.Configuration@1.0.0-test.4
+- pkg:nuget/DNV.DependencyInjection.Configuration@1.0.1

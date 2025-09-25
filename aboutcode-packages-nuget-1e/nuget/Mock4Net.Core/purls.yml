@@ -1,0 +1,4 @@
+- pkg:nuget/Mock4Net.Core@1.0.0-alpha
+- pkg:nuget/Mock4Net.Core@1.0.0-beta1
+- pkg:nuget/Mock4Net.Core@1.0.0-v20150608-3425eb4
+- pkg:nuget/Mock4Net.Core@1.0.0-v20150608-4f463ad

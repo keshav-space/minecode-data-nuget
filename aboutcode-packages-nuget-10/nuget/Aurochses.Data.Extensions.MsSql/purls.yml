@@ -1,0 +1,3 @@
+- pkg:nuget/Aurochses.Data.Extensions.MsSql@2.0.0
+- pkg:nuget/Aurochses.Data.Extensions.MsSql@2.1.0
+- pkg:nuget/Aurochses.Data.Extensions.MsSql@2.2.0

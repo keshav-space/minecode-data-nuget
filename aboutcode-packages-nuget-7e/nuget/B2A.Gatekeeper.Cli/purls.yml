@@ -1,0 +1,3 @@
+- pkg:nuget/B2A.Gatekeeper.Cli@0.0.0-dev
+- pkg:nuget/B2A.Gatekeeper.Cli@1.0.1
+- pkg:nuget/B2A.Gatekeeper.Cli@1.0.2

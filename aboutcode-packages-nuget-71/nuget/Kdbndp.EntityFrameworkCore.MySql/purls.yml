@@ -1,0 +1,8 @@
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@6.0.1.714
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@6.0.1.716
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@6.0.1.717
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@6.0.1.806
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@6.0.1.807
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@6.0.1.908
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@8.0.1
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@8.0.1.908

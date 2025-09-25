@@ -1,0 +1,16 @@
+- pkg:nuget/Development.SDK.Module.Service@1.0.0
+- pkg:nuget/Development.SDK.Module.Service@5.2.0-alpha
+- pkg:nuget/Development.SDK.Module.Service@5.2.0-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.1-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.10-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.11-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.12-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.13-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.14-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.2-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.3-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.4-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.6-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.7-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.8-preview
+- pkg:nuget/Development.SDK.Module.Service@5.2.9-preview

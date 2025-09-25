@@ -1,0 +1,3 @@
+- pkg:nuget/Jungo.WinDriver.x86@10.3.0
+- pkg:nuget/Jungo.WinDriver.x86@11.6.0
+- pkg:nuget/Jungo.WinDriver.x86@12.0.0

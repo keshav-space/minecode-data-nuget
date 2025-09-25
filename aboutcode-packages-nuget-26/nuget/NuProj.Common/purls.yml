@@ -1,0 +1,6 @@
+- pkg:nuget/NuProj.Common@0.10.4-beta
+- pkg:nuget/NuProj.Common@0.11.12-beta
+- pkg:nuget/NuProj.Common@0.11.14-beta
+- pkg:nuget/NuProj.Common@0.11.28-beta
+- pkg:nuget/NuProj.Common@0.11.30
+- pkg:nuget/NuProj.Common@0.20.4-beta

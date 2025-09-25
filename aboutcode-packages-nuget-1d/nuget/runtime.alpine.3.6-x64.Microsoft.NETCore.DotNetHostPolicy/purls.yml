@@ -1,0 +1,2 @@
+- pkg:nuget/runtime.alpine.3.6-x64.Microsoft.NETCore.DotNetHostPolicy@2.1.0-preview1-26216-03
+- pkg:nuget/runtime.alpine.3.6-x64.Microsoft.NETCore.DotNetHostPolicy@2.1.0-preview2-26406-04

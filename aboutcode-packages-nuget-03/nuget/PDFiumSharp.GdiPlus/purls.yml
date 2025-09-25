@@ -1,0 +1,4 @@
+- pkg:nuget/PDFiumSharp.GdiPlus@0.1.0-beta
+- pkg:nuget/PDFiumSharp.GdiPlus@0.1.1-beta
+- pkg:nuget/PDFiumSharp.GdiPlus@1.0.0
+- pkg:nuget/PDFiumSharp.GdiPlus@1.4660.0-alpha1

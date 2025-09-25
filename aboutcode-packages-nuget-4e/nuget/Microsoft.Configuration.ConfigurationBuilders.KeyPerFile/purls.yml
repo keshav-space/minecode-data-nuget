@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.KeyPerFile@1.0.2
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.KeyPerFile@2.0.0
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.KeyPerFile@2.0.0-beta
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.KeyPerFile@2.0.0-rc
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.KeyPerFile@3.0.0
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.KeyPerFile@3.0.0-preview1
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.KeyPerFile@3.0.0-preview2

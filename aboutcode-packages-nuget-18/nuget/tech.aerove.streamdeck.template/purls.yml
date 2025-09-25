@@ -1,0 +1,4 @@
+- pkg:nuget/tech.aerove.streamdeck.template@0.6.5-beta
+- pkg:nuget/tech.aerove.streamdeck.template@0.6.6-beta
+- pkg:nuget/tech.aerove.streamdeck.template@0.6.8-beta
+- pkg:nuget/tech.aerove.streamdeck.template@0.6.9-beta

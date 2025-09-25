@@ -1,0 +1,4 @@
+- pkg:nuget/Athena.Infrastructure.FreeSqlHelper@7.0.0-preview.20231208.1
+- pkg:nuget/Athena.Infrastructure.FreeSqlHelper@7.0.5
+- pkg:nuget/Athena.Infrastructure.FreeSqlHelper@8.0.0
+- pkg:nuget/Athena.Infrastructure.FreeSqlHelper@8.1.0

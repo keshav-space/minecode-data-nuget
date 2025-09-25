@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.AzureAppConfiguration@1.0.0
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.AzureAppConfiguration@1.0.0-beta
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.AzureAppConfiguration@1.0.0-preview20220
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.AzureAppConfiguration@1.0.0-rc
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.AzureAppConfiguration@2.0.0-preview1
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.AzureAppConfiguration@2.0.0-preview2
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.AzureAppConfiguration@3.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Sonar.Lib.Database.PostgreSQL@1.0.0
+- pkg:nuget/Sonar.Lib.Database.PostgreSQL@1.0.1
+- pkg:nuget/Sonar.Lib.Database.PostgreSQL@1.1.0
+- pkg:nuget/Sonar.Lib.Database.PostgreSQL@1.1.0.1

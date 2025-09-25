@@ -1,0 +1,3 @@
+- pkg:nuget/BlazorJWT@0.1.3
+- pkg:nuget/BlazorJWT@0.1.3-sign-out.13
+- pkg:nuget/BlazorJWT@1.0.1-tags-v1-0-0.1

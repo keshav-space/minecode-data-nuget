@@ -1,0 +1,3 @@
+- pkg:nuget/Monkey.NetCore.Db.SqlServer@2.11.0
+- pkg:nuget/Monkey.NetCore.Db.SqlServer@2.12.0
+- pkg:nuget/Monkey.NetCore.Db.SqlServer@2.8.0

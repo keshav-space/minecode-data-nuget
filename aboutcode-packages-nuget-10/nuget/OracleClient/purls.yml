@@ -1,0 +1,4 @@
+- pkg:nuget/OracleClient@1.0.0
+- pkg:nuget/OracleClient@1.0.1
+- pkg:nuget/OracleClient@2.0.0
+- pkg:nuget/OracleClient@3.0.0

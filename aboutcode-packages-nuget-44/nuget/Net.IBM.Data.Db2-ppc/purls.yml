@@ -1,0 +1,7 @@
+- pkg:nuget/Net.IBM.Data.Db2-ppc@8.0.0.200
+- pkg:nuget/Net.IBM.Data.Db2-ppc@8.0.0.300
+- pkg:nuget/Net.IBM.Data.Db2-ppc@8.0.0.400
+- pkg:nuget/Net.IBM.Data.Db2-ppc@8.0.0.500
+- pkg:nuget/Net.IBM.Data.Db2-ppc@9.0.0.100
+- pkg:nuget/Net.IBM.Data.Db2-ppc@9.0.0.200
+- pkg:nuget/Net.IBM.Data.Db2-ppc@9.0.0.300

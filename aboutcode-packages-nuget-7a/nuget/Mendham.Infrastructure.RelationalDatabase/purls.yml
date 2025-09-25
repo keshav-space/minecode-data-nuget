@@ -1,0 +1,4 @@
+- pkg:nuget/Mendham.Infrastructure.RelationalDatabase@1.0.0-beta3
+- pkg:nuget/Mendham.Infrastructure.RelationalDatabase@1.0.0-beta4
+- pkg:nuget/Mendham.Infrastructure.RelationalDatabase@1.0.0-beta5
+- pkg:nuget/Mendham.Infrastructure.RelationalDatabase@1.0.0-beta7

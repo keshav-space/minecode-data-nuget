@@ -1,0 +1,4 @@
+- pkg:nuget/LLVM.NativeLibrary@0.0.1
+- pkg:nuget/LLVM.NativeLibrary@0.1.0
+- pkg:nuget/LLVM.NativeLibrary@0.1.0.1
+- pkg:nuget/LLVM.NativeLibrary@3.3.0

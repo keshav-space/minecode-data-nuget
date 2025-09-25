@@ -1,0 +1,4 @@
+- pkg:nuget/OpenTelemetry.Extensions.Enrichment@0.1.0-alpha.1
+- pkg:nuget/OpenTelemetry.Extensions.Enrichment@0.1.0-alpha.2
+- pkg:nuget/OpenTelemetry.Extensions.Enrichment@1.12.0-alpha.1
+- pkg:nuget/OpenTelemetry.Extensions.Enrichment@1.12.0-beta.1

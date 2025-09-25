@@ -1,0 +1,5 @@
+- pkg:nuget/PackageTest1@0.1.0
+- pkg:nuget/PackageTest1@2.0.0
+- pkg:nuget/PackageTest1@3.0.0
+- pkg:nuget/PackageTest1@4.0.0-alpha
+- pkg:nuget/PackageTest1@5.0.0

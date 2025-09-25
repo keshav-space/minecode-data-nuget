@@ -1,0 +1,3 @@
+- pkg:nuget/Portable.Microsoft.VisualStudio.Shared.VsCodeDebugProtocol@15.8.20719.13
+- pkg:nuget/Portable.Microsoft.VisualStudio.Shared.VsCodeDebugProtocol@15.8.20719.14
+- pkg:nuget/Portable.Microsoft.VisualStudio.Shared.VsCodeDebugProtocol@15.8.20719.15

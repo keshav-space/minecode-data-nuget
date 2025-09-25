@@ -1,0 +1,2 @@
+- pkg:nuget/SimpleAccess.Sqlite@3.0.0-beta
+- pkg:nuget/SimpleAccess.Sqlite@3.0.7-rc

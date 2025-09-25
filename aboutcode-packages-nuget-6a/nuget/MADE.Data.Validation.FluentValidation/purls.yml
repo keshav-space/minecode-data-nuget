@@ -1,0 +1,5 @@
+- pkg:nuget/MADE.Data.Validation.FluentValidation@1.6.0
+- pkg:nuget/MADE.Data.Validation.FluentValidation@1.6.0-preview1
+- pkg:nuget/MADE.Data.Validation.FluentValidation@1.6.0-preview2
+- pkg:nuget/MADE.Data.Validation.FluentValidation@1.7.0-preview1
+- pkg:nuget/MADE.Data.Validation.FluentValidation@2.0.0

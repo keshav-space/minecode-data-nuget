@@ -1,0 +1,5 @@
+- pkg:nuget/Lykke.Service.Assets.Contract@1.0.0
+- pkg:nuget/Lykke.Service.Assets.Contract@1.1.0
+- pkg:nuget/Lykke.Service.Assets.Contract@2.0.0
+- pkg:nuget/Lykke.Service.Assets.Contract@3.0.0
+- pkg:nuget/Lykke.Service.Assets.Contract@4.0.0-beta

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.CognitiveServices.SpellCheck@0.18.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.SpellCheck@1.2.0

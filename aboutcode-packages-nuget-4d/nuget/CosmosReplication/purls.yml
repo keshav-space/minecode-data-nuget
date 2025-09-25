@@ -1,0 +1,5 @@
+- pkg:nuget/CosmosReplication@0.0.3
+- pkg:nuget/CosmosReplication@0.0.4
+- pkg:nuget/CosmosReplication@0.0.6
+- pkg:nuget/CosmosReplication@0.0.7
+- pkg:nuget/CosmosReplication@1.0.0

@@ -1,0 +1,9 @@
+- pkg:nuget/42.Monorepo.Cli@0.10.0-beta
+- pkg:nuget/42.Monorepo.Cli@0.8.0-alpha
+- pkg:nuget/42.Monorepo.Cli@0.8.1-alpha
+- pkg:nuget/42.Monorepo.Cli@0.9.0-beta
+- pkg:nuget/42.Monorepo.Cli@0.9.8-beta
+- pkg:nuget/42.Monorepo.Cli@0.9.9-beta
+- pkg:nuget/42.Monorepo.Cli@1.0.0
+- pkg:nuget/42.Monorepo.Cli@1.1.0
+- pkg:nuget/42.Monorepo.Cli@1.2.0-g946c3335e0

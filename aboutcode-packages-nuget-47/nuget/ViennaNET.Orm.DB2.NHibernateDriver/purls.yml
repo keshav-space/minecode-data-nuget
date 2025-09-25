@@ -1,0 +1,6 @@
+- pkg:nuget/ViennaNET.Orm.DB2.NHibernateDriver@6.0.1-tags-6-0-0-0001
+- pkg:nuget/ViennaNET.Orm.DB2.NHibernateDriver@6.0.2
+- pkg:nuget/ViennaNET.Orm.DB2.NHibernateDriver@6.0.5
+- pkg:nuget/ViennaNET.Orm.DB2.NHibernateDriver@8.0.1
+- pkg:nuget/ViennaNET.Orm.DB2.NHibernateDriver@8.0.7
+- pkg:nuget/ViennaNET.Orm.DB2.NHibernateDriver@8.0.8
