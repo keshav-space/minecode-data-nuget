@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.VisualStudio.Jdt@0.9.16
+- pkg:nuget/Microsoft.VisualStudio.Jdt@0.9.23
+- pkg:nuget/Microsoft.VisualStudio.Jdt@0.9.63
+- pkg:nuget/Microsoft.VisualStudio.Jdt@0.9.83
+- pkg:nuget/Microsoft.VisualStudio.Jdt@0.9.9

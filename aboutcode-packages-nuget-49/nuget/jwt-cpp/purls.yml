@@ -1,0 +1,6 @@
+- pkg:nuget/jwt-cpp@0.6.0-dev0.1
+- pkg:nuget/jwt-cpp@0.6.0-nuget.0
+- pkg:nuget/jwt-cpp@0.6.0-nuget.1
+- pkg:nuget/jwt-cpp@0.6.0-nuget.2
+- pkg:nuget/jwt-cpp@0.6.0-nuget.3
+- pkg:nuget/jwt-cpp@0.7.0

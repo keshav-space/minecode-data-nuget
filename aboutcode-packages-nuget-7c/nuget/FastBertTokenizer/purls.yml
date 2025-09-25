@@ -1,0 +1,12 @@
+- pkg:nuget/FastBertTokenizer@0.1.24-beta
+- pkg:nuget/FastBertTokenizer@0.1.29
+- pkg:nuget/FastBertTokenizer@0.2.7
+- pkg:nuget/FastBertTokenizer@0.3.29
+- pkg:nuget/FastBertTokenizer@0.4.34-alpha
+- pkg:nuget/FastBertTokenizer@0.4.67
+- pkg:nuget/FastBertTokenizer@0.4.8-beta
+- pkg:nuget/FastBertTokenizer@0.5.18-alpha
+- pkg:nuget/FastBertTokenizer@1.0.12-beta
+- pkg:nuget/FastBertTokenizer@1.0.28
+- pkg:nuget/FastBertTokenizer@1.1.21-alpha-g80eb89cb23
+- pkg:nuget/FastBertTokenizer@1.1.30-alpha

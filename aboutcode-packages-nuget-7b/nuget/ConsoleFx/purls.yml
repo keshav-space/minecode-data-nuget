@@ -1,0 +1,17 @@
+- pkg:nuget/ConsoleFx@1.0.0
+- pkg:nuget/ConsoleFx@1.1.0
+- pkg:nuget/ConsoleFx@1.2.0
+- pkg:nuget/ConsoleFx@1.4.0
+- pkg:nuget/ConsoleFx@2.0.0-beta
+- pkg:nuget/ConsoleFx@2.0.0-beta10
+- pkg:nuget/ConsoleFx@2.0.0-beta2
+- pkg:nuget/ConsoleFx@2.0.0-beta3
+- pkg:nuget/ConsoleFx@2.0.0-beta4
+- pkg:nuget/ConsoleFx@2.0.0-beta5
+- pkg:nuget/ConsoleFx@2.0.0-beta6
+- pkg:nuget/ConsoleFx@2.0.0-beta7
+- pkg:nuget/ConsoleFx@2.0.0-beta8
+- pkg:nuget/ConsoleFx@2.0.0-beta9
+- pkg:nuget/ConsoleFx@2.0.0-rc01
+- pkg:nuget/ConsoleFx@2.0.0-rc02
+- pkg:nuget/ConsoleFx@2.0.0-rc03

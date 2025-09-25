@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Cognitive.LUIS@1.0.0
+- pkg:nuget/Microsoft.Cognitive.LUIS@2.0.0
+- pkg:nuget/Microsoft.Cognitive.LUIS@2.0.1
+- pkg:nuget/Microsoft.Cognitive.LUIS@2.0.2

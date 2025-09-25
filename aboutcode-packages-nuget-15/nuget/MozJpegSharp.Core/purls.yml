@@ -1,0 +1,4 @@
+- pkg:nuget/MozJpegSharp.Core@2.0.2
+- pkg:nuget/MozJpegSharp.Core@2.1.12
+- pkg:nuget/MozJpegSharp.Core@3.0.2
+- pkg:nuget/MozJpegSharp.Core@3.0.8

@@ -1,0 +1,16 @@
+- pkg:nuget/FS.Abp.MediatR@430.4.1
+- pkg:nuget/FS.Abp.MediatR@430.5.1
+- pkg:nuget/FS.Abp.MediatR@430.5.2
+- pkg:nuget/FS.Abp.MediatR@430.5.3
+- pkg:nuget/FS.Abp.MediatR@430.5.4
+- pkg:nuget/FS.Abp.MediatR@430.5.5
+- pkg:nuget/FS.Abp.MediatR@440.0.1
+- pkg:nuget/FS.Abp.MediatR@442.0.1
+- pkg:nuget/FS.Abp.MediatR@443.0.1
+- pkg:nuget/FS.Abp.MediatR@443.0.2
+- pkg:nuget/FS.Abp.MediatR@444.0.1
+- pkg:nuget/FS.Abp.MediatR@444.1.0
+- pkg:nuget/FS.Abp.MediatR@444.1.1
+- pkg:nuget/FS.Abp.MediatR@444.1.2
+- pkg:nuget/FS.Abp.MediatR@512.0.0
+- pkg:nuget/FS.Abp.MediatR@513.0.1

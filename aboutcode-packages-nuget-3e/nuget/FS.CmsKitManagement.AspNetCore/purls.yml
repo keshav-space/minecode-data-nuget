@@ -1,0 +1,4 @@
+- pkg:nuget/FS.CmsKitManagement.AspNetCore@444.1.0
+- pkg:nuget/FS.CmsKitManagement.AspNetCore@444.1.1
+- pkg:nuget/FS.CmsKitManagement.AspNetCore@444.1.2
+- pkg:nuget/FS.CmsKitManagement.AspNetCore@512.0.0

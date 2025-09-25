@@ -1,0 +1,17 @@
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@0.0.0-CI-20181210-223929
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@1.0.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@1.1.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@1.1.1
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@1.2.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@2.0.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.0.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.1.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.1.1
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.10.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.10.1
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.10.2
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.2.1
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.4.2
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.5.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.8.0
+- pkg:nuget/RecordPoint.Messaging.AzureServiceBus@3.9.0

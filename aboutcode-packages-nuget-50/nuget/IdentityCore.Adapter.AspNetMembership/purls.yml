@@ -1,0 +1,2 @@
+- pkg:nuget/IdentityCore.Adapter.AspNetMembership@1.0.0
+- pkg:nuget/IdentityCore.Adapter.AspNetMembership@1.6.0

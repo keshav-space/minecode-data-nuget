@@ -1,0 +1,13 @@
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview-18579-0056
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview-19075-0444
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview3-19153-02
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview4-19216-03
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview5-19227-01
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview6.19307.2
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview7-19365-7
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview8-19405-7
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-preview9-19424-4
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.0-rc1-19457-4
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.2
+- pkg:nuget/AspNetCoreRuntime.3.0.x64@3.0.3

@@ -1,0 +1,12 @@
+- pkg:nuget/BimLab.BL.Lib@2018.9.1
+- pkg:nuget/BimLab.BL.Lib@2019.10.1
+- pkg:nuget/BimLab.BL.Lib@2019.4.1
+- pkg:nuget/BimLab.BL.Lib@2020.10.1
+- pkg:nuget/BimLab.BL.Lib@2021.1.0
+- pkg:nuget/BimLab.BL.Lib@2021.9.1
+- pkg:nuget/BimLab.BL.Lib@2023.1.0-dev01
+- pkg:nuget/BimLab.BL.Lib@2023.1.0-dev02
+- pkg:nuget/BimLab.BL.Lib@2024.1.0-dev01
+- pkg:nuget/BimLab.BL.Lib@2024.1.0-dev03
+- pkg:nuget/BimLab.BL.Lib@2024.1.0-dev04
+- pkg:nuget/BimLab.BL.Lib@2024.1.0-dev05

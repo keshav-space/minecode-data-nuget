@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@0.10.0-preview-20190325.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@0.10.0-preview6.19303.4
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@0.10.0-preview7.19351.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@0.8.0-preview-20190204.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.0.0-preview8.19380.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.0.0-preview9.19421.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.0.0-preview9.19456.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.0.0-preview9.19462.2
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.1.0-preview1.19503.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.1.0-preview2.19523.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.1.0-preview3.19531.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.1.0-preview4.19578.1
+- pkg:nuget/Microsoft.AspNetCore.Blazor.Mono@3.2.0-preview1.20067.1

@@ -1,0 +1,6 @@
+- pkg:nuget/KafkaServices.Kafka@3.1.0
+- pkg:nuget/KafkaServices.Kafka@3.1.1
+- pkg:nuget/KafkaServices.Kafka@7.0.0
+- pkg:nuget/KafkaServices.Kafka@7.0.1
+- pkg:nuget/KafkaServices.Kafka@7.0.2
+- pkg:nuget/KafkaServices.Kafka@7.0.3

@@ -1,0 +1,11 @@
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@5.0.0-beta-01
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@5.0.0-beta-02
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@5.0.0-beta-03
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@5.0.0-beta-04
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@5.0.0-beta-05
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@5.2.0
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@5.2.0-beta-01
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@5.2.1
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@6.0.0
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@6.0.1
+- pkg:nuget/Indice.AspNetCore.MultiTenancy@6.0.2

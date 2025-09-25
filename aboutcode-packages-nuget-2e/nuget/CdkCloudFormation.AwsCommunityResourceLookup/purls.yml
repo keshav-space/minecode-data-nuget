@@ -1,0 +1,8 @@
+- pkg:nuget/CdkCloudFormation.AwsCommunityResourceLookup@1.0.0-alpha.7
+- pkg:nuget/CdkCloudFormation.AwsCommunityResourceLookup@1.10.0-alpha.7
+- pkg:nuget/CdkCloudFormation.AwsCommunityResourceLookup@1.2.0-alpha.7
+- pkg:nuget/CdkCloudFormation.AwsCommunityResourceLookup@1.3.0-alpha.7
+- pkg:nuget/CdkCloudFormation.AwsCommunityResourceLookup@1.5.0-alpha.7
+- pkg:nuget/CdkCloudFormation.AwsCommunityResourceLookup@1.6.0-alpha.7
+- pkg:nuget/CdkCloudFormation.AwsCommunityResourceLookup@1.7.0-alpha.7
+- pkg:nuget/CdkCloudFormation.AwsCommunityResourceLookup@1.8.0-alpha.7

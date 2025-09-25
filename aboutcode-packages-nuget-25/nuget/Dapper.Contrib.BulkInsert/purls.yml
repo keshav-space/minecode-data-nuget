@@ -1,0 +1,5 @@
+- pkg:nuget/Dapper.Contrib.BulkInsert@0.1.0
+- pkg:nuget/Dapper.Contrib.BulkInsert@0.1.13
+- pkg:nuget/Dapper.Contrib.BulkInsert@0.1.5
+- pkg:nuget/Dapper.Contrib.BulkInsert@0.1.7
+- pkg:nuget/Dapper.Contrib.BulkInsert@0.1.9

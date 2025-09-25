@@ -1,0 +1,12 @@
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.10.0-preview
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.11.0-preview
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.12.0-preview
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.13.0
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.13.1
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.14.0
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.14.1
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.14.2
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.14.3
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.14.4
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.8.0-preview
+- pkg:nuget/ERNIE-Bot.KernelMemory@0.9.0-preview

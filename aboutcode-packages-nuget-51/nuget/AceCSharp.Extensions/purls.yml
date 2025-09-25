@@ -1,0 +1,11 @@
+- pkg:nuget/AceCSharp.Extensions@0.1.0-alpha
+- pkg:nuget/AceCSharp.Extensions@0.1.1-alpha
+- pkg:nuget/AceCSharp.Extensions@1.0.0
+- pkg:nuget/AceCSharp.Extensions@1.0.0-build
+- pkg:nuget/AceCSharp.Extensions@1.0.1
+- pkg:nuget/AceCSharp.Extensions@1.0.2
+- pkg:nuget/AceCSharp.Extensions@1.1.0
+- pkg:nuget/AceCSharp.Extensions@1.1.1
+- pkg:nuget/AceCSharp.Extensions@1.1.2
+- pkg:nuget/AceCSharp.Extensions@1.1.3
+- pkg:nuget/AceCSharp.Extensions@1.1.4

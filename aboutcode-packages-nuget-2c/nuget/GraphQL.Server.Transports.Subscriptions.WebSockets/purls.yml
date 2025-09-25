@@ -1,0 +1,11 @@
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@5.0.0
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@5.0.1
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@5.0.2
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@5.1.0
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@5.1.1
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@5.2.0
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@5.2.1
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@5.2.2
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@6.0.0
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@6.1.0
+- pkg:nuget/GraphQL.Server.Transports.Subscriptions.WebSockets@6.1.1

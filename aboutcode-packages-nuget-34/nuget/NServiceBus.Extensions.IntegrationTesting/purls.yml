@@ -1,0 +1,9 @@
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@0.0.1-alpha.1
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@0.0.2
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@0.0.2-alpha
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@1.0.0
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@2.0.0
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@2.1.0
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@3.0.0
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@4.0.0
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@4.0.1

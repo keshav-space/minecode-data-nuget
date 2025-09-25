@@ -1,0 +1,8 @@
+- pkg:nuget/Lemon.ObjectStorage.Domain.Shared@5.0.0.1
+- pkg:nuget/Lemon.ObjectStorage.Domain.Shared@5.1.1.1
+- pkg:nuget/Lemon.ObjectStorage.Domain.Shared@5.1.2.1
+- pkg:nuget/Lemon.ObjectStorage.Domain.Shared@5.1.2.2
+- pkg:nuget/Lemon.ObjectStorage.Domain.Shared@5.1.2.3
+- pkg:nuget/Lemon.ObjectStorage.Domain.Shared@6.0.0.1
+- pkg:nuget/Lemon.ObjectStorage.Domain.Shared@6.0.1.1
+- pkg:nuget/Lemon.ObjectStorage.Domain.Shared@7.0.0

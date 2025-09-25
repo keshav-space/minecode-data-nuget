@@ -1,0 +1,8 @@
+- pkg:nuget/Flowsy.EventSourcing.Sql@0.1.0
+- pkg:nuget/Flowsy.EventSourcing.Sql@0.1.1
+- pkg:nuget/Flowsy.EventSourcing.Sql@1.0.0
+- pkg:nuget/Flowsy.EventSourcing.Sql@1.0.1
+- pkg:nuget/Flowsy.EventSourcing.Sql@2.0.0
+- pkg:nuget/Flowsy.EventSourcing.Sql@2.1.0
+- pkg:nuget/Flowsy.EventSourcing.Sql@2.2.0
+- pkg:nuget/Flowsy.EventSourcing.Sql@2.2.1

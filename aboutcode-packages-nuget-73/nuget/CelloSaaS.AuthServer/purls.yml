@@ -1,0 +1,13 @@
+- pkg:nuget/CelloSaaS.AuthServer@2.0.0
+- pkg:nuget/CelloSaaS.AuthServer@2.0.0.1
+- pkg:nuget/CelloSaaS.AuthServer@2.0.0.1-beta1
+- pkg:nuget/CelloSaaS.AuthServer@2.0.0.3
+- pkg:nuget/CelloSaaS.AuthServer@2.0.0.3-beta1
+- pkg:nuget/CelloSaaS.AuthServer@2.2.0
+- pkg:nuget/CelloSaaS.AuthServer@2.2.0-beta1
+- pkg:nuget/CelloSaaS.AuthServer@2.2.0.1
+- pkg:nuget/CelloSaaS.AuthServer@2.2.0.1-beta1
+- pkg:nuget/CelloSaaS.AuthServer@2.2.0.2-beta1
+- pkg:nuget/CelloSaaS.AuthServer@2.2.0.2-beta2
+- pkg:nuget/CelloSaaS.AuthServer@2.2.0.2-beta3
+- pkg:nuget/CelloSaaS.AuthServer@2.2.1-rc1

@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCore.Identity.SimpleStorage.StorageNet@0.9.0
+- pkg:nuget/AspNetCore.Identity.SimpleStorage.StorageNet@1.0.0

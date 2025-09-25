@@ -1,0 +1,12 @@
+- pkg:nuget/EZlion@1.0.0
+- pkg:nuget/EZlion@1.0.1-alpha
+- pkg:nuget/EZlion@2.0.0-beta
+- pkg:nuget/EZlion@3.0.0-beta
+- pkg:nuget/EZlion@4.0.0-beta
+- pkg:nuget/EZlion@4.1.0-beta
+- pkg:nuget/EZlion@5.0.0-beta
+- pkg:nuget/EZlion@6.0.0-beta
+- pkg:nuget/EZlion@6.0.1-beta
+- pkg:nuget/EZlion@6.1.0-beta
+- pkg:nuget/EZlion@7.0.0-beta
+- pkg:nuget/EZlion@8.0.0

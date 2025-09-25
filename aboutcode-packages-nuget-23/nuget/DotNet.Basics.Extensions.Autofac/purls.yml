@@ -1,0 +1,4 @@
+- pkg:nuget/DotNet.Basics.Extensions.Autofac@4.6.1-Beta.1%2B9770977
+- pkg:nuget/DotNet.Basics.Extensions.Autofac@4.6.2-beta.1%2B4d4126d
+- pkg:nuget/DotNet.Basics.Extensions.Autofac@4.6.2-beta.2%2B9122baf
+- pkg:nuget/DotNet.Basics.Extensions.Autofac@4.6.2-beta.3%2B5c35f94

@@ -1,0 +1,2 @@
+- pkg:nuget/EFCore.CustomQueryPreprocessor@1.0.0
+- pkg:nuget/EFCore.CustomQueryPreprocessor@2.0.0

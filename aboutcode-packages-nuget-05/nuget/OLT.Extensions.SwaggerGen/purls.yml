@@ -1,0 +1,12 @@
+- pkg:nuget/OLT.Extensions.SwaggerGen@5.0.0
+- pkg:nuget/OLT.Extensions.SwaggerGen@5.0.0-beta-0001
+- pkg:nuget/OLT.Extensions.SwaggerGen@5.0.0-beta-0002
+- pkg:nuget/OLT.Extensions.SwaggerGen@6.0.0
+- pkg:nuget/OLT.Extensions.SwaggerGen@6.0.0-beta-0001
+- pkg:nuget/OLT.Extensions.SwaggerGen@6.0.1
+- pkg:nuget/OLT.Extensions.SwaggerGen@6.0.2
+- pkg:nuget/OLT.Extensions.SwaggerGen@6.1.0
+- pkg:nuget/OLT.Extensions.SwaggerGen@6.1.0-beta-0001
+- pkg:nuget/OLT.Extensions.SwaggerGen@6.1.0-beta-0003
+- pkg:nuget/OLT.Extensions.SwaggerGen@7.0.0
+- pkg:nuget/OLT.Extensions.SwaggerGen@7.0.0-beta-0001

@@ -1,0 +1,8 @@
+- pkg:nuget/Cactus.Fileserver.S3Storage@2.1.0
+- pkg:nuget/Cactus.Fileserver.S3Storage@2.2.0
+- pkg:nuget/Cactus.Fileserver.S3Storage@3.0.0
+- pkg:nuget/Cactus.Fileserver.S3Storage@4.0.0
+- pkg:nuget/Cactus.Fileserver.S3Storage@4.0.1
+- pkg:nuget/Cactus.Fileserver.S3Storage@4.0.2
+- pkg:nuget/Cactus.Fileserver.S3Storage@4.0.3
+- pkg:nuget/Cactus.Fileserver.S3Storage@4.0.4

@@ -1,0 +1,4 @@
+- pkg:nuget/DaprEventBus.Dapr@1.0.0-beta
+- pkg:nuget/DaprEventBus.Dapr@1.0.0-beta1
+- pkg:nuget/DaprEventBus.Dapr@1.0.0-beta2
+- pkg:nuget/DaprEventBus.Dapr@1.0.0-rc1

@@ -1,0 +1,14 @@
+- pkg:nuget/Cactus.Fileserver.LocalStorage@2.0.0
+- pkg:nuget/Cactus.Fileserver.LocalStorage@2.0.1
+- pkg:nuget/Cactus.Fileserver.LocalStorage@2.0.2
+- pkg:nuget/Cactus.Fileserver.LocalStorage@2.1.0
+- pkg:nuget/Cactus.Fileserver.LocalStorage@2.1.1
+- pkg:nuget/Cactus.Fileserver.LocalStorage@2.2.0
+- pkg:nuget/Cactus.Fileserver.LocalStorage@2.2.1
+- pkg:nuget/Cactus.Fileserver.LocalStorage@3.0.0
+- pkg:nuget/Cactus.Fileserver.LocalStorage@3.1.1
+- pkg:nuget/Cactus.Fileserver.LocalStorage@3.2.0
+- pkg:nuget/Cactus.Fileserver.LocalStorage@4.0.0
+- pkg:nuget/Cactus.Fileserver.LocalStorage@4.0.1
+- pkg:nuget/Cactus.Fileserver.LocalStorage@4.0.3
+- pkg:nuget/Cactus.Fileserver.LocalStorage@4.0.4

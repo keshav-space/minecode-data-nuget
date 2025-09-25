@@ -1,0 +1,3 @@
+- pkg:nuget/Baasic.Client.AutoFac@0.8.154-alpha
+- pkg:nuget/Baasic.Client.AutoFac@0.8.156
+- pkg:nuget/Baasic.Client.AutoFac@1.2.0

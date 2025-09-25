@@ -1,0 +1,4 @@
+- pkg:nuget/Baasic.Client.WebHost@0.8.152-alpha
+- pkg:nuget/Baasic.Client.WebHost@0.8.154-alpha
+- pkg:nuget/Baasic.Client.WebHost@0.8.156
+- pkg:nuget/Baasic.Client.WebHost@1.2.0

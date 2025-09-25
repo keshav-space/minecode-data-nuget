@@ -1,0 +1,12 @@
+- pkg:nuget/FeatureFlagFramework@1.0.0
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190219-062436
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190219-062509
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190220-100552
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190220-100558
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190220-102034
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190220-102035
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190220-102232
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190220-102233
+- pkg:nuget/FeatureFlagFramework@1.0.1-CI-20190220-103319
+- pkg:nuget/FeatureFlagFramework@1.0.2
+- pkg:nuget/FeatureFlagFramework@1.0.3

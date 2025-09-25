@@ -1,0 +1,11 @@
+- pkg:nuget/FluentMigrator.Extensions.MySql@5.0.0
+- pkg:nuget/FluentMigrator.Extensions.MySql@5.1.0
+- pkg:nuget/FluentMigrator.Extensions.MySql@5.2.0
+- pkg:nuget/FluentMigrator.Extensions.MySql@6.0.0
+- pkg:nuget/FluentMigrator.Extensions.MySql@6.1.0
+- pkg:nuget/FluentMigrator.Extensions.MySql@6.1.1
+- pkg:nuget/FluentMigrator.Extensions.MySql@6.1.2
+- pkg:nuget/FluentMigrator.Extensions.MySql@6.1.4
+- pkg:nuget/FluentMigrator.Extensions.MySql@6.2.0
+- pkg:nuget/FluentMigrator.Extensions.MySql@7.0.0
+- pkg:nuget/FluentMigrator.Extensions.MySql@7.1.0

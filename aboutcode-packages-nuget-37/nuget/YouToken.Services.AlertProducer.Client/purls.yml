@@ -1,0 +1,10 @@
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.0.0
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.0.1
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.0.5.28-add-new-build
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.0.5.29-master
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.0.5.31
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.0.5.31-TRD-1657
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.0.5.33-TRD-2173
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.0.5.34-TRD-1657
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.1.0.26-add-new-build
+- pkg:nuget/YouToken.Services.AlertProducer.Client@1.1.0.27-add-new-build

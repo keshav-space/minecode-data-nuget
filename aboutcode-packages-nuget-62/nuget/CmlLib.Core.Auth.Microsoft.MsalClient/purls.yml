@@ -1,0 +1,10 @@
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@1.0.0
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@1.1.0
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@1.1.1
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@1.2.0
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@1.2.0-beta3
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@1.2.1
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@2.0.0
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@2.0.0-beta1
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@2.0.0-beta8
+- pkg:nuget/CmlLib.Core.Auth.Microsoft.MsalClient@2.0.0-rc

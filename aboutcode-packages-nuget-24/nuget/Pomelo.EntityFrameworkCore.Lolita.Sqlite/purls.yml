@@ -1,0 +1,15 @@
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@1.0.0
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@1.0.0-prerelease-20160730
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@1.0.0-prerelease-20160802
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@1.0.0-prerelease-20160803
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@1.0.1
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@1.0.1-prerelease-10000
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@1.1.0
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@1.1.0-preview1-10002
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@2.0.0-rtm-10016
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@6.0.0
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@6.0.1
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@6.0.2
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@6.0.3
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@6.0.4
+- pkg:nuget/Pomelo.EntityFrameworkCore.Lolita.Sqlite@6.0.5

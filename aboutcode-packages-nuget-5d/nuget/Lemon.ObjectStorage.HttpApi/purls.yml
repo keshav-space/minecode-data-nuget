@@ -1,0 +1,8 @@
+- pkg:nuget/Lemon.ObjectStorage.HttpApi@5.0.0.1
+- pkg:nuget/Lemon.ObjectStorage.HttpApi@5.1.1.1
+- pkg:nuget/Lemon.ObjectStorage.HttpApi@5.1.2.1
+- pkg:nuget/Lemon.ObjectStorage.HttpApi@5.1.2.2
+- pkg:nuget/Lemon.ObjectStorage.HttpApi@5.1.2.3
+- pkg:nuget/Lemon.ObjectStorage.HttpApi@6.0.0.1
+- pkg:nuget/Lemon.ObjectStorage.HttpApi@6.0.1.1
+- pkg:nuget/Lemon.ObjectStorage.HttpApi@7.0.0

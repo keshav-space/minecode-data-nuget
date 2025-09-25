@@ -1,0 +1,5 @@
+- pkg:nuget/FS.Abp.AuditLogging.Application.Contracts@444.1.0
+- pkg:nuget/FS.Abp.AuditLogging.Application.Contracts@444.1.1
+- pkg:nuget/FS.Abp.AuditLogging.Application.Contracts@444.1.2
+- pkg:nuget/FS.Abp.AuditLogging.Application.Contracts@512.0.0
+- pkg:nuget/FS.Abp.AuditLogging.Application.Contracts@513.0.1

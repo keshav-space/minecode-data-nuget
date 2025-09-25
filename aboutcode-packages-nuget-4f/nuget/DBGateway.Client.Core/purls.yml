@@ -1,0 +1,7 @@
+- pkg:nuget/DBGateway.Client.Core@1.0.0
+- pkg:nuget/DBGateway.Client.Core@2.5.0
+- pkg:nuget/DBGateway.Client.Core@2.6.0
+- pkg:nuget/DBGateway.Client.Core@2.7.0
+- pkg:nuget/DBGateway.Client.Core@2.7.1
+- pkg:nuget/DBGateway.Client.Core@2.7.2
+- pkg:nuget/DBGateway.Client.Core@2.7.3
