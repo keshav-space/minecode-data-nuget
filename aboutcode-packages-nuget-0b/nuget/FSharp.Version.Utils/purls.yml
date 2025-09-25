@@ -1,0 +1,5 @@
+- pkg:nuget/FSharp.Version.Utils@0.1.0
+- pkg:nuget/FSharp.Version.Utils@0.1.0-alpha
+- pkg:nuget/FSharp.Version.Utils@0.2.0
+- pkg:nuget/FSharp.Version.Utils@0.2.1
+- pkg:nuget/FSharp.Version.Utils@0.3.0

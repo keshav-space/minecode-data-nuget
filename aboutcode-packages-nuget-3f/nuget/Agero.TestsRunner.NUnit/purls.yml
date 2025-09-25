@@ -1,0 +1,6 @@
+- pkg:nuget/Agero.TestsRunner.NUnit@1.0.0
+- pkg:nuget/Agero.TestsRunner.NUnit@1.0.23-alpha
+- pkg:nuget/Agero.TestsRunner.NUnit@1.0.24-alpha
+- pkg:nuget/Agero.TestsRunner.NUnit@1.0.25-alpha
+- pkg:nuget/Agero.TestsRunner.NUnit@1.0.27-alpha
+- pkg:nuget/Agero.TestsRunner.NUnit@1.0.28-alpha

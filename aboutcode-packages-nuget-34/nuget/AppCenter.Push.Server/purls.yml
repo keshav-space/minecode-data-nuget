@@ -1,0 +1,9 @@
+- pkg:nuget/AppCenter.Push.Server@1.0.20030.1-pre
+- pkg:nuget/AppCenter.Push.Server@1.0.20030.2-pre
+- pkg:nuget/AppCenter.Push.Server@1.0.20030.4
+- pkg:nuget/AppCenter.Push.Server@1.0.20030.5-pre
+- pkg:nuget/AppCenter.Push.Server@1.0.20030.7
+- pkg:nuget/AppCenter.Push.Server@1.0.20035.5-pre
+- pkg:nuget/AppCenter.Push.Server@1.0.20035.7-pre
+- pkg:nuget/AppCenter.Push.Server@1.0.20039.1-pre
+- pkg:nuget/AppCenter.Push.Server@1.0.20047.1

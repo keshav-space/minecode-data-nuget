@@ -1,0 +1,3 @@
+- pkg:nuget/boost_charconv-vc141@1.85.0
+- pkg:nuget/boost_charconv-vc141@1.86.0
+- pkg:nuget/boost_charconv-vc141@1.87.0

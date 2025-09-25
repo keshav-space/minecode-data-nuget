@@ -1,0 +1,5 @@
+- pkg:nuget/DragoAnt.EntityFrameworkCore.EntityConventions.SqlServer.DependencyInjection@9.0.1-beta
+- pkg:nuget/DragoAnt.EntityFrameworkCore.EntityConventions.SqlServer.DependencyInjection@9.0.1-beta2
+- pkg:nuget/DragoAnt.EntityFrameworkCore.EntityConventions.SqlServer.DependencyInjection@9.0.1-beta3
+- pkg:nuget/DragoAnt.EntityFrameworkCore.EntityConventions.SqlServer.DependencyInjection@9.0.1-beta4
+- pkg:nuget/DragoAnt.EntityFrameworkCore.EntityConventions.SqlServer.DependencyInjection@9.0.1-beta5

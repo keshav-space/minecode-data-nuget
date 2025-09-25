@@ -1,0 +1,5 @@
+- pkg:nuget/SenseWire.Libraries.Kafka.Producer@0.0.1
+- pkg:nuget/SenseWire.Libraries.Kafka.Producer@0.0.3
+- pkg:nuget/SenseWire.Libraries.Kafka.Producer@1.0.0
+- pkg:nuget/SenseWire.Libraries.Kafka.Producer@1.0.1
+- pkg:nuget/SenseWire.Libraries.Kafka.Producer@1.0.2

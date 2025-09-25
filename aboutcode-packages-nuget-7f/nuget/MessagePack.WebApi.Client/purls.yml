@@ -1,0 +1,3 @@
+- pkg:nuget/MessagePack.WebApi.Client@1.0.0
+- pkg:nuget/MessagePack.WebApi.Client@1.1.0
+- pkg:nuget/MessagePack.WebApi.Client@1.1.1

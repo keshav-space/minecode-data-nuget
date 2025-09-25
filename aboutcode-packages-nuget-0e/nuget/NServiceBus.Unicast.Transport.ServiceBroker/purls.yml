@@ -1,0 +1,8 @@
+- pkg:nuget/NServiceBus.Unicast.Transport.ServiceBroker@3.2.2
+- pkg:nuget/NServiceBus.Unicast.Transport.ServiceBroker@3.2.4
+- pkg:nuget/NServiceBus.Unicast.Transport.ServiceBroker@3.2.4.1
+- pkg:nuget/NServiceBus.Unicast.Transport.ServiceBroker@3.2.4.2
+- pkg:nuget/NServiceBus.Unicast.Transport.ServiceBroker@3.2.4.3
+- pkg:nuget/NServiceBus.Unicast.Transport.ServiceBroker@3.2.4.4
+- pkg:nuget/NServiceBus.Unicast.Transport.ServiceBroker@3.2.4.5
+- pkg:nuget/NServiceBus.Unicast.Transport.ServiceBroker@3.2.4.6

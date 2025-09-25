@@ -1,0 +1,12 @@
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.5.10
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.5.12
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.5.13
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.5.14
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.5.15
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.6.0
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.6.1
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.6.2
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.6.3
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.6.4
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.6.8
+- pkg:nuget/Zack.EFCore.Batch.InMemory@1.6.9

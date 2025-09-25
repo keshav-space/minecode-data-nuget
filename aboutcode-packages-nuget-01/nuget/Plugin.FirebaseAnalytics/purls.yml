@@ -1,0 +1,10 @@
+- pkg:nuget/Plugin.FirebaseAnalytics@1.0.0
+- pkg:nuget/Plugin.FirebaseAnalytics@1.1.0-pre
+- pkg:nuget/Plugin.FirebaseAnalytics@2.0.0
+- pkg:nuget/Plugin.FirebaseAnalytics@2.0.0-pre1
+- pkg:nuget/Plugin.FirebaseAnalytics@2.0.0-pre2
+- pkg:nuget/Plugin.FirebaseAnalytics@3.0.0
+- pkg:nuget/Plugin.FirebaseAnalytics@3.1.0
+- pkg:nuget/Plugin.FirebaseAnalytics@4.0.0
+- pkg:nuget/Plugin.FirebaseAnalytics@4.0.0-pre01
+- pkg:nuget/Plugin.FirebaseAnalytics@4.1.0

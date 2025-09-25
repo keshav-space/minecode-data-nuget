@@ -1,0 +1,9 @@
+- pkg:nuget/knx-dotnet@0.1.0-alpha
+- pkg:nuget/knx-dotnet@0.1.0-tags-Test.1%2B51
+- pkg:nuget/knx-dotnet@0.1.0-tags-test2.1%2B52
+- pkg:nuget/knx-dotnet@0.2.0-alpha
+- pkg:nuget/knx-dotnet@0.3.0-alpha
+- pkg:nuget/knx-dotnet@1.0.1-tags-v1-alpha.0
+- pkg:nuget/knx-dotnet@2.0.1-tags-v2.1
+- pkg:nuget/knx-dotnet@2.0.2-tags-alpha-1.0
+- pkg:nuget/knx-dotnet@2.0.5-tags-alpha-2.0

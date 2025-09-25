@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCore2.NETStandard.NLog.Web.AspNetCore@4.14.0
+- pkg:nuget/AspNetCore2.NETStandard.NLog.Web.AspNetCore@5.0.0

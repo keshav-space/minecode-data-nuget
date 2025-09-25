@@ -1,0 +1,2 @@
+- pkg:nuget/SourceLinkDemo.BadDependency@1.0.0
+- pkg:nuget/SourceLinkDemo.BadDependency@1.0.1

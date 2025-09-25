@@ -1,0 +1,11 @@
+- pkg:nuget/dotnet-contracts-generate@2.0.0
+- pkg:nuget/dotnet-contracts-generate@2.0.0-alpha.2
+- pkg:nuget/dotnet-contracts-generate@2.0.0-alpha.3
+- pkg:nuget/dotnet-contracts-generate@2.0.0-alpha.4
+- pkg:nuget/dotnet-contracts-generate@2.0.0-alpha.5
+- pkg:nuget/dotnet-contracts-generate@3.0.0
+- pkg:nuget/dotnet-contracts-generate@3.0.0-alpha.1
+- pkg:nuget/dotnet-contracts-generate@3.0.0-alpha.2
+- pkg:nuget/dotnet-contracts-generate@3.0.0-alpha.3
+- pkg:nuget/dotnet-contracts-generate@3.0.0-alpha.4
+- pkg:nuget/dotnet-contracts-generate@4.0.0-alpha.1

@@ -1,0 +1,2 @@
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.cuda10_cudnn7@2.2.2
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.cuda10_cudnn7@2.2.2-preview-1

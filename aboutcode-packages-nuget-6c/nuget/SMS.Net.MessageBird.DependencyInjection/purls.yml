@@ -1,0 +1,4 @@
+- pkg:nuget/SMS.Net.MessageBird.DependencyInjection@1.0.0
+- pkg:nuget/SMS.Net.MessageBird.DependencyInjection@1.0.0-beta
+- pkg:nuget/SMS.Net.MessageBird.DependencyInjection@1.1.0
+- pkg:nuget/SMS.Net.MessageBird.DependencyInjection@2.0.0-beta

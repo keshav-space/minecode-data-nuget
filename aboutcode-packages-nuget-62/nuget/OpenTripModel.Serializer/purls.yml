@@ -1,0 +1,4 @@
+- pkg:nuget/OpenTripModel.Serializer@1.0.1
+- pkg:nuget/OpenTripModel.Serializer@1.1.1.1
+- pkg:nuget/OpenTripModel.Serializer@1.1.1.1-SNAPSHOT
+- pkg:nuget/OpenTripModel.Serializer@5.7.1.1

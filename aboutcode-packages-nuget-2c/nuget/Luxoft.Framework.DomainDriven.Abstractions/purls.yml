@@ -1,0 +1,5 @@
+- pkg:nuget/Luxoft.Framework.DomainDriven.Abstractions@15.0.0
+- pkg:nuget/Luxoft.Framework.DomainDriven.Abstractions@15.1.0
+- pkg:nuget/Luxoft.Framework.DomainDriven.Abstractions@15.2.0
+- pkg:nuget/Luxoft.Framework.DomainDriven.Abstractions@15.2.1
+- pkg:nuget/Luxoft.Framework.DomainDriven.Abstractions@15.2.2

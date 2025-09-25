@@ -1,0 +1,5 @@
+- pkg:nuget/Abc.IdentityModel.Tokens.Saml@2.0.0
+- pkg:nuget/Abc.IdentityModel.Tokens.Saml@2.0.0-dev45
+- pkg:nuget/Abc.IdentityModel.Tokens.Saml@2.1.0
+- pkg:nuget/Abc.IdentityModel.Tokens.Saml@2.1.1
+- pkg:nuget/Abc.IdentityModel.Tokens.Saml@2.2.0

@@ -1,0 +1,2 @@
+- pkg:nuget/THWR.EntityFramework.SqlServer@6.5.0-dev
+- pkg:nuget/THWR.EntityFramework.SqlServer@6.5.1-dev

@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.15.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.16.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.17.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.18.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.18.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.19.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.20.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.20.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.20.2
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.21.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.22.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.22.2
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.23.0-rc.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.QNN@1.23.0-rc.2

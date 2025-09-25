@@ -1,0 +1,5 @@
+- pkg:nuget/Agnostic.IoC.Core@0.16.0
+- pkg:nuget/Agnostic.IoC.Core@0.18.0
+- pkg:nuget/Agnostic.IoC.Core@0.23.0
+- pkg:nuget/Agnostic.IoC.Core@0.31.0
+- pkg:nuget/Agnostic.IoC.Core@0.34.0

@@ -1,0 +1,9 @@
+- pkg:nuget/AspNetCoreApi.Infrastructure@0.1.0
+- pkg:nuget/AspNetCoreApi.Infrastructure@1.0.0
+- pkg:nuget/AspNetCoreApi.Infrastructure@2.0.0
+- pkg:nuget/AspNetCoreApi.Infrastructure@2.0.1
+- pkg:nuget/AspNetCoreApi.Infrastructure@2.0.2
+- pkg:nuget/AspNetCoreApi.Infrastructure@3.0.0
+- pkg:nuget/AspNetCoreApi.Infrastructure@4.0.0
+- pkg:nuget/AspNetCoreApi.Infrastructure@4.0.1
+- pkg:nuget/AspNetCoreApi.Infrastructure@5.0.0

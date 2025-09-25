@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCore2.NETStandard.Swashbuckle.AspNetCore.Newtonsoft@6.3.0
+- pkg:nuget/AspNetCore2.NETStandard.Swashbuckle.AspNetCore.Newtonsoft@6.3.1

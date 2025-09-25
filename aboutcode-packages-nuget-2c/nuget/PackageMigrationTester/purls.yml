@@ -1,0 +1,3 @@
+- pkg:nuget/PackageMigrationTester@1.0.0
+- pkg:nuget/PackageMigrationTester@1.0.1
+- pkg:nuget/PackageMigrationTester@1.8.0

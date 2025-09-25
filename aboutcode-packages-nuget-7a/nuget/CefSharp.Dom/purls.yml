@@ -1,0 +1,5 @@
+- pkg:nuget/CefSharp.Dom@2.0.78
+- pkg:nuget/CefSharp.Dom@2.0.79
+- pkg:nuget/CefSharp.Dom@2.0.83
+- pkg:nuget/CefSharp.Dom@2.0.86
+- pkg:nuget/CefSharp.Dom@4.0.117

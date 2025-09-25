@@ -1,0 +1,5 @@
+- pkg:nuget/MSharp.GraphQL@0.3.3
+- pkg:nuget/MSharp.GraphQL@0.3.4
+- pkg:nuget/MSharp.GraphQL@0.4.0
+- pkg:nuget/MSharp.GraphQL@0.4.1
+- pkg:nuget/MSharp.GraphQL@1.0.0

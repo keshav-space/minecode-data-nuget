@@ -1,0 +1,12 @@
+- pkg:nuget/Revit_API_x64@2016.0.0
+- pkg:nuget/Revit_API_x64@2017.0.0
+- pkg:nuget/Revit_API_x64@2018.0.0
+- pkg:nuget/Revit_API_x64@2019.0.0
+- pkg:nuget/Revit_API_x64@2020.0.0
+- pkg:nuget/Revit_API_x64@2021.0.0
+- pkg:nuget/Revit_API_x64@2022.0.0
+- pkg:nuget/Revit_API_x64@2023.0.0
+- pkg:nuget/Revit_API_x64@2023.0.1
+- pkg:nuget/Revit_API_x64@2024.0.1
+- pkg:nuget/Revit_API_x64@2024.0.2
+- pkg:nuget/Revit_API_x64@203.0.1

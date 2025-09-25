@@ -1,0 +1,4 @@
+- pkg:nuget/SoftwareDriven.PluginFramework.AspNetCore@1.0.1
+- pkg:nuget/SoftwareDriven.PluginFramework.AspNetCore@1.0.2
+- pkg:nuget/SoftwareDriven.PluginFramework.AspNetCore@1.1.0
+- pkg:nuget/SoftwareDriven.PluginFramework.AspNetCore@1.2.0

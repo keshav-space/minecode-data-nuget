@@ -1,0 +1,14 @@
+- pkg:nuget/Digbyswift.Umbraco.Web@10.0.0
+- pkg:nuget/Digbyswift.Umbraco.Web@10.0.1
+- pkg:nuget/Digbyswift.Umbraco.Web@10.0.2
+- pkg:nuget/Digbyswift.Umbraco.Web@10.0.3
+- pkg:nuget/Digbyswift.Umbraco.Web@10.0.4
+- pkg:nuget/Digbyswift.Umbraco.Web@10.0.5
+- pkg:nuget/Digbyswift.Umbraco.Web@10.0.6
+- pkg:nuget/Digbyswift.Umbraco.Web@10.0.7
+- pkg:nuget/Digbyswift.Umbraco.Web@10.1.0
+- pkg:nuget/Digbyswift.Umbraco.Web@12.0.0
+- pkg:nuget/Digbyswift.Umbraco.Web@12.0.1-preview0
+- pkg:nuget/Digbyswift.Umbraco.Web@13.0.0
+- pkg:nuget/Digbyswift.Umbraco.Web@13.1.0
+- pkg:nuget/Digbyswift.Umbraco.Web@13.3.0

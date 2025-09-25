@@ -1,0 +1,3 @@
+- pkg:nuget/Omnium.SSC.Data.Postgres@1.0.67
+- pkg:nuget/Omnium.SSC.Data.Postgres@1.1.10
+- pkg:nuget/Omnium.SSC.Data.Postgres@1.1.6

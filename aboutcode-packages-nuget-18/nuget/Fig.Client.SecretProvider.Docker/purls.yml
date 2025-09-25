@@ -1,0 +1,3 @@
+- pkg:nuget/Fig.Client.SecretProvider.Docker@1.2.1-alpha.0.72
+- pkg:nuget/Fig.Client.SecretProvider.Docker@2.0.0
+- pkg:nuget/Fig.Client.SecretProvider.Docker@2.0.1
