@@ -1,0 +1,9 @@
+- pkg:nuget/OpenIddict.Mvc@1.0.0
+- pkg:nuget/OpenIddict.Mvc@1.0.0-rc1-final
+- pkg:nuget/OpenIddict.Mvc@1.0.0-rc2-final
+- pkg:nuget/OpenIddict.Mvc@1.0.0-rc3-final
+- pkg:nuget/OpenIddict.Mvc@2.0.0
+- pkg:nuget/OpenIddict.Mvc@2.0.0-rc1-final
+- pkg:nuget/OpenIddict.Mvc@2.0.0-rc2-final
+- pkg:nuget/OpenIddict.Mvc@2.0.0-rc3-final
+- pkg:nuget/OpenIddict.Mvc@2.0.1

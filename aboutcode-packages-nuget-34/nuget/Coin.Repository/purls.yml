@@ -1,0 +1,13 @@
+- pkg:nuget/Coin.Repository@1.0.0
+- pkg:nuget/Coin.Repository@2.1.0
+- pkg:nuget/Coin.Repository@2.1.0-preview1-final
+- pkg:nuget/Coin.Repository@2.1.1
+- pkg:nuget/Coin.Repository@2.1.2
+- pkg:nuget/Coin.Repository@2.1.3
+- pkg:nuget/Coin.Repository@2.1.5
+- pkg:nuget/Coin.Repository@2.1.6
+- pkg:nuget/Coin.Repository@2.1.7
+- pkg:nuget/Coin.Repository@2.1.8
+- pkg:nuget/Coin.Repository@2.2.6
+- pkg:nuget/Coin.Repository@3.0.0
+- pkg:nuget/Coin.Repository@3.1.0

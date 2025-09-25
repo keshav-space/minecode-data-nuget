@@ -1,0 +1,7 @@
+- pkg:nuget/UAOOI.Windows.Forms@7.0.0-Alpha
+- pkg:nuget/UAOOI.Windows.Forms@7.0.1-Bravo
+- pkg:nuget/UAOOI.Windows.Forms@7.0.1-Charlie
+- pkg:nuget/UAOOI.Windows.Forms@7.0.3-Delta
+- pkg:nuget/UAOOI.Windows.Forms@7.1.0-Echo
+- pkg:nuget/UAOOI.Windows.Forms@7.1.1-Foxtrot
+- pkg:nuget/UAOOI.Windows.Forms@8.1.1-Alpha

@@ -1,0 +1,16 @@
+- pkg:nuget/UnityAddon.Hangfire@0.0.0.1
+- pkg:nuget/UnityAddon.Hangfire@0.0.0.29
+- pkg:nuget/UnityAddon.Hangfire@0.0.0.31
+- pkg:nuget/UnityAddon.Hangfire@0.0.0.32
+- pkg:nuget/UnityAddon.Hangfire@1.0.0
+- pkg:nuget/UnityAddon.Hangfire@1.0.1
+- pkg:nuget/UnityAddon.Hangfire@2.0.0
+- pkg:nuget/UnityAddon.Hangfire@2.0.1
+- pkg:nuget/UnityAddon.Hangfire@2.1.0
+- pkg:nuget/UnityAddon.Hangfire@2.2.0
+- pkg:nuget/UnityAddon.Hangfire@2.3.0
+- pkg:nuget/UnityAddon.Hangfire@2.5.0
+- pkg:nuget/UnityAddon.Hangfire@2.5.3
+- pkg:nuget/UnityAddon.Hangfire@2.6.0
+- pkg:nuget/UnityAddon.Hangfire@2.6.1
+- pkg:nuget/UnityAddon.Hangfire@2.6.2

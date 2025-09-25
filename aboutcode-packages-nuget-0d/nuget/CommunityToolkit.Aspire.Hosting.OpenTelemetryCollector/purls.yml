@@ -1,0 +1,5 @@
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.OpenTelemetryCollector@9.8.0-beta.384
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.OpenTelemetryCollector@9.8.0-beta.385
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.OpenTelemetryCollector@9.8.0-beta.386
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.OpenTelemetryCollector@9.8.0-beta.388
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.OpenTelemetryCollector@9.8.0-beta.395

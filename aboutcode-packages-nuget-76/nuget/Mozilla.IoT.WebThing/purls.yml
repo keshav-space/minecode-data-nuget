@@ -1,0 +1,14 @@
+- pkg:nuget/Mozilla.IoT.WebThing@0.0.1
+- pkg:nuget/Mozilla.IoT.WebThing@0.0.3
+- pkg:nuget/Mozilla.IoT.WebThing@1.0.0
+- pkg:nuget/Mozilla.IoT.WebThing@1.0.1
+- pkg:nuget/Mozilla.IoT.WebThing@1.0.1-preview1
+- pkg:nuget/Mozilla.IoT.WebThing@1.1.1-preview1
+- pkg:nuget/Mozilla.IoT.WebThing@2.0.0
+- pkg:nuget/Mozilla.IoT.WebThing@2.0.0-preview2
+- pkg:nuget/Mozilla.IoT.WebThing@2.0.0-preview3
+- pkg:nuget/Mozilla.IoT.WebThing@2.0.0-preview4
+- pkg:nuget/Mozilla.IoT.WebThing@2.0.0-preview5
+- pkg:nuget/Mozilla.IoT.WebThing@2.0.0-preview7
+- pkg:nuget/Mozilla.IoT.WebThing@2.0.1
+- pkg:nuget/Mozilla.IoT.WebThing@2.0.2

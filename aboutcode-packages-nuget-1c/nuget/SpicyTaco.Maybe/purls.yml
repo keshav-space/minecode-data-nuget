@@ -1,0 +1,15 @@
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.14
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.19
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.22
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.23
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.24
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.25
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.27
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.28
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.29-prelease
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.30-prelease
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.32-prelease
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.33-prelease
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.34-prelease
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.35-prelease
+- pkg:nuget/SpicyTaco.Maybe@1.0.0.36-prelease

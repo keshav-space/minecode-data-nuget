@@ -1,0 +1,15 @@
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.0.0
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.0.0-beta.1
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.1.0
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.1.1
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.1.2
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.2.0
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.2.0-beta.1
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.3.0
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.3.0-beta.1
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.4.0
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.4.0-beta.1
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.5.0
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.6.0
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.6.0-beta.1
+- pkg:nuget/Azure.ResourceManager.DataProtectionBackup@1.7.0

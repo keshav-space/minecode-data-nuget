@@ -1,0 +1,12 @@
+- pkg:nuget/MongoDAL@1.0.0
+- pkg:nuget/MongoDAL@1.1.0
+- pkg:nuget/MongoDAL@1.2.1
+- pkg:nuget/MongoDAL@1.2.2
+- pkg:nuget/MongoDAL@1.2.3
+- pkg:nuget/MongoDAL@1.2.4
+- pkg:nuget/MongoDAL@1.2.5
+- pkg:nuget/MongoDAL@2.0.0
+- pkg:nuget/MongoDAL@2.5.0
+- pkg:nuget/MongoDAL@3.0.0
+- pkg:nuget/MongoDAL@3.1.0
+- pkg:nuget/MongoDAL@3.2.0

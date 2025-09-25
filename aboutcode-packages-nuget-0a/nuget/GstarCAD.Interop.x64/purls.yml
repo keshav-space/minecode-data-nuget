@@ -1,0 +1,4 @@
+- pkg:nuget/GstarCAD.Interop.x64@22.0.0
+- pkg:nuget/GstarCAD.Interop.x64@23.0.0
+- pkg:nuget/GstarCAD.Interop.x64@24.0.0
+- pkg:nuget/GstarCAD.Interop.x64@25.0.0

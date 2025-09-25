@@ -1,0 +1,12 @@
+- pkg:nuget/Auth0Actions@1.0.0-CI-20230926-042216
+- pkg:nuget/Auth0Actions@1.0.0-CI-20230927-001836
+- pkg:nuget/Auth0Actions@1.0.0-CI-20230927-003035
+- pkg:nuget/Auth0Actions@1.0.0-CI-20230930-200707
+- pkg:nuget/Auth0Actions@1.0.0-CI-20231001-042923
+- pkg:nuget/Auth0Actions@1.0.0-CI-20231001-053425
+- pkg:nuget/Auth0Actions@1.0.0-CI-20231002-042119
+- pkg:nuget/Auth0Actions@1.0.0-CI-20231005-001321
+- pkg:nuget/Auth0Actions@1.0.0-CI-20231009-013124
+- pkg:nuget/Auth0Actions@1.0.0-CI-20240409-015242
+- pkg:nuget/Auth0Actions@1.0.0-CI-20240409-025113
+- pkg:nuget/Auth0Actions@1.0.0-CI-20241128-004131

@@ -1,0 +1,8 @@
+- pkg:nuget/NetChris.AspNetCore.Diagnostics@0.0.0
+- pkg:nuget/NetChris.AspNetCore.Diagnostics@0.0.0-prerelease0
+- pkg:nuget/NetChris.AspNetCore.Diagnostics@0.0.0-setup1
+- pkg:nuget/NetChris.AspNetCore.Diagnostics@0.0.0-setup2
+- pkg:nuget/NetChris.AspNetCore.Diagnostics@0.0.0-setup3
+- pkg:nuget/NetChris.AspNetCore.Diagnostics@0.0.0-setup4
+- pkg:nuget/NetChris.AspNetCore.Diagnostics@0.0.26
+- pkg:nuget/NetChris.AspNetCore.Diagnostics@0.1.35

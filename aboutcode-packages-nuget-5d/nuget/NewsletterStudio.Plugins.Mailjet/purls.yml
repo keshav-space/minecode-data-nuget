@@ -1,0 +1,9 @@
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@1.0.0-beta1
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@13.0.0
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@14.0.0
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@14.0.1
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@15.0.0
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@15.0.1
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@16.0.0
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@16.0.1
+- pkg:nuget/NewsletterStudio.Plugins.Mailjet@16.0.2

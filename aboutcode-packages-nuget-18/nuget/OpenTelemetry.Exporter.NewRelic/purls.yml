@@ -1,0 +1,9 @@
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta.117
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta.134
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta.157
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta.158
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta.159
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta.164
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta.191
+- pkg:nuget/OpenTelemetry.Exporter.NewRelic@1.0.0-beta.194

@@ -1,0 +1,4 @@
+- pkg:nuget/NotoriousTest.PostgreSql@3.0.0-beta.35
+- pkg:nuget/NotoriousTest.PostgreSql@3.0.0-beta.39
+- pkg:nuget/NotoriousTest.PostgreSql@3.1.0
+- pkg:nuget/NotoriousTest.PostgreSql@3.1.0-beta.41

@@ -1,0 +1,5 @@
+- pkg:nuget/RotativaHQ.AspNetCore@1.1.1
+- pkg:nuget/RotativaHQ.AspNetCore@1.2.0
+- pkg:nuget/RotativaHQ.AspNetCore@1.2.1
+- pkg:nuget/RotativaHQ.AspNetCore@1.2.2-beta
+- pkg:nuget/RotativaHQ.AspNetCore@1.2.3

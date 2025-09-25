@@ -1,0 +1,8 @@
+- pkg:nuget/ElasticLog.AspnetCore@1.0.0
+- pkg:nuget/ElasticLog.AspnetCore@1.0.0-CI-20200311-181235
+- pkg:nuget/ElasticLog.AspnetCore@1.0.0-CI-20200311-191426
+- pkg:nuget/ElasticLog.AspnetCore@1.0.0-CI-20200311-192604
+- pkg:nuget/ElasticLog.AspnetCore@1.0.0-PreRelease
+- pkg:nuget/ElasticLog.AspnetCore@1.0.1
+- pkg:nuget/ElasticLog.AspnetCore@10932.0.0
+- pkg:nuget/ElasticLog.AspnetCore@8519.0.0

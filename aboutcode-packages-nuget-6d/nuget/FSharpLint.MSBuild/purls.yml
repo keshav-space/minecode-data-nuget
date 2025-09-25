@@ -1,0 +1,16 @@
+- pkg:nuget/FSharpLint.MSBuild@0.4.11
+- pkg:nuget/FSharpLint.MSBuild@0.4.3
+- pkg:nuget/FSharpLint.MSBuild@0.4.4
+- pkg:nuget/FSharpLint.MSBuild@0.4.5
+- pkg:nuget/FSharpLint.MSBuild@0.4.5-beta
+- pkg:nuget/FSharpLint.MSBuild@0.4.7-beta
+- pkg:nuget/FSharpLint.MSBuild@0.4.9
+- pkg:nuget/FSharpLint.MSBuild@0.7.4-beta
+- pkg:nuget/FSharpLint.MSBuild@0.7.5-beta
+- pkg:nuget/FSharpLint.MSBuild@0.7.6
+- pkg:nuget/FSharpLint.MSBuild@0.7.7
+- pkg:nuget/FSharpLint.MSBuild@0.8.0
+- pkg:nuget/FSharpLint.MSBuild@0.8.1
+- pkg:nuget/FSharpLint.MSBuild@0.9.0
+- pkg:nuget/FSharpLint.MSBuild@0.9.0-beta
+- pkg:nuget/FSharpLint.MSBuild@0.9.1-beta

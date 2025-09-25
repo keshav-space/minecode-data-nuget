@@ -1,0 +1,4 @@
+- pkg:nuget/Aerospike.Client.Repository@1.0.0-CI00002
+- pkg:nuget/Aerospike.Client.Repository@1.0.10
+- pkg:nuget/Aerospike.Client.Repository@1.0.11
+- pkg:nuget/Aerospike.Client.Repository@1.0.9

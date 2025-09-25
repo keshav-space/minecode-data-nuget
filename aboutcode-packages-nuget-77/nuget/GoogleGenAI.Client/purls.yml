@@ -1,0 +1,4 @@
+- pkg:nuget/GoogleGenAI.Client@1.0.0
+- pkg:nuget/GoogleGenAI.Client@1.0.1
+- pkg:nuget/GoogleGenAI.Client@1.0.2
+- pkg:nuget/GoogleGenAI.Client@1.0.2-beta

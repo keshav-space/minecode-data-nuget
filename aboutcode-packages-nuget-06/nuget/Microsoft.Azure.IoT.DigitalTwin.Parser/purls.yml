@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Azure.IoT.DigitalTwin.Parser@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.IoT.DigitalTwin.Parser@1.0.10-preview
+- pkg:nuget/Microsoft.Azure.IoT.DigitalTwin.Parser@1.0.11-preview
+- pkg:nuget/Microsoft.Azure.IoT.DigitalTwin.Parser@1.0.12-preview
+- pkg:nuget/Microsoft.Azure.IoT.DigitalTwin.Parser@1.0.7-preview
+- pkg:nuget/Microsoft.Azure.IoT.DigitalTwin.Parser@1.0.8-preview
+- pkg:nuget/Microsoft.Azure.IoT.DigitalTwin.Parser@1.0.9-preview
+- pkg:nuget/Microsoft.Azure.IoT.DigitalTwin.Parser@2.0.10-preview

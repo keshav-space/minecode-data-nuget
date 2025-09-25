@@ -1,0 +1,10 @@
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.14-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.18-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.23-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.25-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.27-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.30-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.32-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.37-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.39-alpha
+- pkg:nuget/DomainBlocks.V1.EventStoreDb@1.0.47-alpha

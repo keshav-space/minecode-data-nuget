@@ -1,0 +1,10 @@
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@1.0.0
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@1.0.1
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@1.1.0
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@1.2.0
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@2.0.0
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@5.0.0
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@7.0.0
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@8.0.0
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@8.0.2
+- pkg:nuget/SmartDevelopment.DependencyTracking.ApplicationInsights@9.0.2

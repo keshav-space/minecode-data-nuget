@@ -1,0 +1,9 @@
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.10.0
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.10.2
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.11.2
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.11.5
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.11.6
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.7.6
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.7.6-beta3
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.8.1
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.win-arm@1.8.5

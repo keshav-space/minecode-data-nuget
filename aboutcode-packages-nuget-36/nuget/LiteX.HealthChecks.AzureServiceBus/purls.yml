@@ -1,0 +1,4 @@
+- pkg:nuget/LiteX.HealthChecks.AzureServiceBus@1.0.0
+- pkg:nuget/LiteX.HealthChecks.AzureServiceBus@1.0.1
+- pkg:nuget/LiteX.HealthChecks.AzureServiceBus@2.0.0
+- pkg:nuget/LiteX.HealthChecks.AzureServiceBus@3.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/GlobalExceptionHandler.ContentNegotiation.Mvc@1.0.0
+- pkg:nuget/GlobalExceptionHandler.ContentNegotiation.Mvc@2.0.0
+- pkg:nuget/GlobalExceptionHandler.ContentNegotiation.Mvc@2.0.0-beta
+- pkg:nuget/GlobalExceptionHandler.ContentNegotiation.Mvc@2.0.0-beta1
+- pkg:nuget/GlobalExceptionHandler.ContentNegotiation.Mvc@2.0.0-beta2

@@ -1,0 +1,3 @@
+- pkg:nuget/Twitch.MediatR.AspNetCore@0.1.6
+- pkg:nuget/Twitch.MediatR.AspNetCore@0.2.0
+- pkg:nuget/Twitch.MediatR.AspNetCore@0.2.3

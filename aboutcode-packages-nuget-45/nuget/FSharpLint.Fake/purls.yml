@@ -1,0 +1,16 @@
+- pkg:nuget/FSharpLint.Fake@0.4.1-beta
+- pkg:nuget/FSharpLint.Fake@0.4.11
+- pkg:nuget/FSharpLint.Fake@0.4.2
+- pkg:nuget/FSharpLint.Fake@0.4.2-beta
+- pkg:nuget/FSharpLint.Fake@0.4.3
+- pkg:nuget/FSharpLint.Fake@0.4.9
+- pkg:nuget/FSharpLint.Fake@0.7.1-beta
+- pkg:nuget/FSharpLint.Fake@0.7.4-beta
+- pkg:nuget/FSharpLint.Fake@0.7.5-beta
+- pkg:nuget/FSharpLint.Fake@0.7.6
+- pkg:nuget/FSharpLint.Fake@0.7.7
+- pkg:nuget/FSharpLint.Fake@0.8.0
+- pkg:nuget/FSharpLint.Fake@0.8.1
+- pkg:nuget/FSharpLint.Fake@0.9.0
+- pkg:nuget/FSharpLint.Fake@0.9.0-beta
+- pkg:nuget/FSharpLint.Fake@0.9.1-beta

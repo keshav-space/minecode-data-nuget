@@ -1,0 +1,8 @@
+- pkg:nuget/Wilcommerce.Core.Data.EFCore@1.0.0
+- pkg:nuget/Wilcommerce.Core.Data.EFCore@1.0.0-beta1
+- pkg:nuget/Wilcommerce.Core.Data.EFCore@1.0.0-rc1
+- pkg:nuget/Wilcommerce.Core.Data.EFCore@1.0.0-rc2
+- pkg:nuget/Wilcommerce.Core.Data.EFCore@1.0.0-rc3
+- pkg:nuget/Wilcommerce.Core.Data.EFCore@1.0.0-rc4
+- pkg:nuget/Wilcommerce.Core.Data.EFCore@1.0.1
+- pkg:nuget/Wilcommerce.Core.Data.EFCore@2.0.0

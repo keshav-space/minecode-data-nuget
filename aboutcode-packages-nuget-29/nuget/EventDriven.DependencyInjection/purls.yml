@@ -1,0 +1,5 @@
+- pkg:nuget/EventDriven.DependencyInjection@1.0.0
+- pkg:nuget/EventDriven.DependencyInjection@1.0.0-beta1
+- pkg:nuget/EventDriven.DependencyInjection@1.0.0-beta2
+- pkg:nuget/EventDriven.DependencyInjection@1.1.0
+- pkg:nuget/EventDriven.DependencyInjection@1.2.0

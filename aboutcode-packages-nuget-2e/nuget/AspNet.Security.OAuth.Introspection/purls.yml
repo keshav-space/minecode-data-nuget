@@ -1,0 +1,11 @@
+- pkg:nuget/AspNet.Security.OAuth.Introspection@1.0.0
+- pkg:nuget/AspNet.Security.OAuth.Introspection@1.0.0-alpha1-final
+- pkg:nuget/AspNet.Security.OAuth.Introspection@1.0.0-alpha2-final
+- pkg:nuget/AspNet.Security.OAuth.Introspection@1.0.0-alpha3-final
+- pkg:nuget/AspNet.Security.OAuth.Introspection@1.0.0-beta1-final
+- pkg:nuget/AspNet.Security.OAuth.Introspection@1.1.0
+- pkg:nuget/AspNet.Security.OAuth.Introspection@1.1.0-preview-final
+- pkg:nuget/AspNet.Security.OAuth.Introspection@2.0.0
+- pkg:nuget/AspNet.Security.OAuth.Introspection@2.0.0-rc1-final
+- pkg:nuget/AspNet.Security.OAuth.Introspection@2.0.0-rc2-final
+- pkg:nuget/AspNet.Security.OAuth.Introspection@2.0.0-rc3-final

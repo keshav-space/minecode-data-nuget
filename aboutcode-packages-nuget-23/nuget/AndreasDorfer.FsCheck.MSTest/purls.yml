@@ -1,0 +1,11 @@
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@0.1.0
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@0.1.1
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@1.0.0
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@1.0.1
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@1.0.2
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@1.1.0
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@1.1.1
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@1.1.2
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@3.0.0-rc1
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@3.0.0-rc1.1
+- pkg:nuget/AndreasDorfer.FsCheck.MSTest@3.0.0-rc1.2

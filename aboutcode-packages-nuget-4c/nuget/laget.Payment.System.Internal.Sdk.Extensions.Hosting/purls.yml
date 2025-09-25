@@ -1,0 +1,4 @@
+- pkg:nuget/laget.Payment.System.Internal.Sdk.Extensions.Hosting@0.3.3
+- pkg:nuget/laget.Payment.System.Internal.Sdk.Extensions.Hosting@0.4.6-alpha
+- pkg:nuget/laget.Payment.System.Internal.Sdk.Extensions.Hosting@0.4.7-alpha
+- pkg:nuget/laget.Payment.System.Internal.Sdk.Extensions.Hosting@0.6.9-alpha

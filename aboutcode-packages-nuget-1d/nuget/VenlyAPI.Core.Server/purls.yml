@@ -1,0 +1,3 @@
+- pkg:nuget/VenlyAPI.Core.Server@0.2.0-alpha
+- pkg:nuget/VenlyAPI.Core.Server@1.0.0
+- pkg:nuget/VenlyAPI.Core.Server@1.0.1

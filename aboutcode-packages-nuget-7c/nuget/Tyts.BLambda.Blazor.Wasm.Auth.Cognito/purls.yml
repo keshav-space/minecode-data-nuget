@@ -1,0 +1,4 @@
+- pkg:nuget/Tyts.BLambda.Blazor.Wasm.Auth.Cognito@0.0.1-alpha.0
+- pkg:nuget/Tyts.BLambda.Blazor.Wasm.Auth.Cognito@0.0.1-alpha.1
+- pkg:nuget/Tyts.BLambda.Blazor.Wasm.Auth.Cognito@0.0.1-alpha.2
+- pkg:nuget/Tyts.BLambda.Blazor.Wasm.Auth.Cognito@0.0.1-alpha.3

@@ -1,0 +1,3 @@
+- pkg:nuget/SendEmail.Smtp.ByNapster@1.0.0
+- pkg:nuget/SendEmail.Smtp.ByNapster@1.1.0
+- pkg:nuget/SendEmail.Smtp.ByNapster@2.1.0

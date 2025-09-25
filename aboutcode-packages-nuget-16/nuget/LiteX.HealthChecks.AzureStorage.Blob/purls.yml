@@ -1,0 +1,4 @@
+- pkg:nuget/LiteX.HealthChecks.AzureStorage.Blob@1.0.0
+- pkg:nuget/LiteX.HealthChecks.AzureStorage.Blob@1.0.1
+- pkg:nuget/LiteX.HealthChecks.AzureStorage.Blob@2.0.0
+- pkg:nuget/LiteX.HealthChecks.AzureStorage.Blob@3.0.0

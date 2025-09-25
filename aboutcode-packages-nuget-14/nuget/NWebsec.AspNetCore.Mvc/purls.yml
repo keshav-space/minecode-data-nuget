@@ -1,0 +1,16 @@
+- pkg:nuget/NWebsec.AspNetCore.Mvc@1.0.0
+- pkg:nuget/NWebsec.AspNetCore.Mvc@1.0.0-gamma-5
+- pkg:nuget/NWebsec.AspNetCore.Mvc@1.0.0-gamma1-15
+- pkg:nuget/NWebsec.AspNetCore.Mvc@1.0.0-gamma1-39
+- pkg:nuget/NWebsec.AspNetCore.Mvc@1.0.0-gamma1-45
+- pkg:nuget/NWebsec.AspNetCore.Mvc@1.0.0-preview-63
+- pkg:nuget/NWebsec.AspNetCore.Mvc@1.1.0
+- pkg:nuget/NWebsec.AspNetCore.Mvc@2.0.0
+- pkg:nuget/NWebsec.AspNetCore.Mvc@2.0.0-156.azure-pipelines
+- pkg:nuget/NWebsec.AspNetCore.Mvc@2.0.0-162.azure-pipelines
+- pkg:nuget/NWebsec.AspNetCore.Mvc@2.0.0-163.azure-pipelines
+- pkg:nuget/NWebsec.AspNetCore.Mvc@2.0.0-167.dev
+- pkg:nuget/NWebsec.AspNetCore.Mvc@3.0.0
+- pkg:nuget/NWebsec.AspNetCore.Mvc@3.0.0-186.push
+- pkg:nuget/NWebsec.AspNetCore.Mvc@3.0.0-188.rc
+- pkg:nuget/NWebsec.AspNetCore.Mvc@3.0.0-195.rc

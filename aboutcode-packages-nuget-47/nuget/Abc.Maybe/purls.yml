@@ -1,0 +1,12 @@
+- pkg:nuget/Abc.Maybe@1.0.0
+- pkg:nuget/Abc.Maybe@1.0.0-alpha-1
+- pkg:nuget/Abc.Maybe@1.0.0-alpha-2
+- pkg:nuget/Abc.Maybe@1.0.0-alpha3
+- pkg:nuget/Abc.Maybe@1.0.0-beta1
+- pkg:nuget/Abc.Maybe@1.0.0-beta2
+- pkg:nuget/Abc.Maybe@1.0.0-beta3
+- pkg:nuget/Abc.Maybe@1.0.0-beta4
+- pkg:nuget/Abc.Maybe@1.0.0-beta5
+- pkg:nuget/Abc.Maybe@1.0.1
+- pkg:nuget/Abc.Maybe@1.0.2
+- pkg:nuget/Abc.Maybe@1.0.3

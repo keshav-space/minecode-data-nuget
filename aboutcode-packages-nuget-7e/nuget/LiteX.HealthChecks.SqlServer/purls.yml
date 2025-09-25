@@ -1,0 +1,4 @@
+- pkg:nuget/LiteX.HealthChecks.SqlServer@1.0.0
+- pkg:nuget/LiteX.HealthChecks.SqlServer@1.0.1
+- pkg:nuget/LiteX.HealthChecks.SqlServer@2.0.0
+- pkg:nuget/LiteX.HealthChecks.SqlServer@3.0.0

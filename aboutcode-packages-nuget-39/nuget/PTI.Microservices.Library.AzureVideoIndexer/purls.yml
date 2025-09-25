@@ -1,0 +1,11 @@
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@2.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@2.0.0.1-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@2.0.0.2-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@2.0.0.3-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@2.0.0.4-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@2.0.0.5-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@6.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@6.0.0.1-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@6.0.0.2-preview
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@7.0.0
+- pkg:nuget/PTI.Microservices.Library.AzureVideoIndexer@7.0.0.1

@@ -1,0 +1,11 @@
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@1.0.0
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@1.0.0-beta7-final
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@1.0.0-rc1-final
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@1.0.1
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@1.0.2
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@1.1.0
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@1.1.0-preview-final
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@2.0.0
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@2.0.0-rc1-final
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@2.0.0-rc2-final
+- pkg:nuget/AspNet.Security.OpenIdConnect.Primitives@2.0.0-rc3-final

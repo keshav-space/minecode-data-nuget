@@ -1,0 +1,11 @@
+- pkg:nuget/NServiceBus.HandlerOrdering@1.0.0
+- pkg:nuget/NServiceBus.HandlerOrdering@1.1.0-beta001
+- pkg:nuget/NServiceBus.HandlerOrdering@1.1.0-beta002
+- pkg:nuget/NServiceBus.HandlerOrdering@1.1.0-beta003
+- pkg:nuget/NServiceBus.HandlerOrdering@2.0.0
+- pkg:nuget/NServiceBus.HandlerOrdering@2.0.0-beta.1
+- pkg:nuget/NServiceBus.HandlerOrdering@2.0.0-beta0001
+- pkg:nuget/NServiceBus.HandlerOrdering@3.0.0
+- pkg:nuget/NServiceBus.HandlerOrdering@3.0.1
+- pkg:nuget/NServiceBus.HandlerOrdering@3.0.2
+- pkg:nuget/NServiceBus.HandlerOrdering@3.0.3

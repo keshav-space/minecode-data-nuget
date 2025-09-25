@@ -1,0 +1,2 @@
+- pkg:nuget/test.dummy.package@1.0.0
+- pkg:nuget/test.dummy.package@6.0.0
