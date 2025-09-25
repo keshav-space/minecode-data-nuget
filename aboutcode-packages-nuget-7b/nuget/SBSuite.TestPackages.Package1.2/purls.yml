@@ -1,0 +1,6 @@
+- pkg:nuget/SBSuite.TestPackages.Package1.2@1.0.0
+- pkg:nuget/SBSuite.TestPackages.Package1.2@1.0.1
+- pkg:nuget/SBSuite.TestPackages.Package1.2@1.2.1
+- pkg:nuget/SBSuite.TestPackages.Package1.2@1.2.10
+- pkg:nuget/SBSuite.TestPackages.Package1.2@1.2.14
+- pkg:nuget/SBSuite.TestPackages.Package1.2@1.2.18

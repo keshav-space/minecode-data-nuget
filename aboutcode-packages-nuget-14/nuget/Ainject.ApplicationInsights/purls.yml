@@ -1,0 +1,16 @@
+- pkg:nuget/Ainject.ApplicationInsights@0.1.0-ci0008
+- pkg:nuget/Ainject.ApplicationInsights@1.0.0
+- pkg:nuget/Ainject.ApplicationInsights@1.0.1
+- pkg:nuget/Ainject.ApplicationInsights@1.0.2
+- pkg:nuget/Ainject.ApplicationInsights@1.1.0
+- pkg:nuget/Ainject.ApplicationInsights@1.1.1
+- pkg:nuget/Ainject.ApplicationInsights@2.0.1
+- pkg:nuget/Ainject.ApplicationInsights@2.1.0
+- pkg:nuget/Ainject.ApplicationInsights@2.1.1
+- pkg:nuget/Ainject.ApplicationInsights@2.1.2
+- pkg:nuget/Ainject.ApplicationInsights@2.1.3
+- pkg:nuget/Ainject.ApplicationInsights@2.1.5
+- pkg:nuget/Ainject.ApplicationInsights@2.1.6
+- pkg:nuget/Ainject.ApplicationInsights@2.1.7-ci0001
+- pkg:nuget/Ainject.ApplicationInsights@2.2.0
+- pkg:nuget/Ainject.ApplicationInsights@2.3.0

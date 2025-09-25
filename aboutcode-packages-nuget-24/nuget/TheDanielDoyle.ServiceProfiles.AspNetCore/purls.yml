@@ -1,0 +1,9 @@
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@1.0.0
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@3.0.0
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@4.0.0
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@4.0.1
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@5.0.0
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@6.0.0
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@7.0.0
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@8.0.0
+- pkg:nuget/TheDanielDoyle.ServiceProfiles.AspNetCore@9.0.0

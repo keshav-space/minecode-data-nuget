@@ -1,0 +1,6 @@
+- pkg:nuget/Sdcb.Arithmetic.Gmp.runtime.win32@1.0.10-preview.9
+- pkg:nuget/Sdcb.Arithmetic.Gmp.runtime.win32@1.1.0-preview.2
+- pkg:nuget/Sdcb.Arithmetic.Gmp.runtime.win32@6.2.1
+- pkg:nuget/Sdcb.Arithmetic.Gmp.runtime.win32@6.2.1-preview.1
+- pkg:nuget/Sdcb.Arithmetic.Gmp.runtime.win32@6.2.1.1
+- pkg:nuget/Sdcb.Arithmetic.Gmp.runtime.win32@6.2.1.2

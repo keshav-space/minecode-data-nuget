@@ -1,0 +1,2 @@
+- pkg:nuget/DbUp.AddMigrations@1.0.0
+- pkg:nuget/DbUp.AddMigrations@1.0.0-beta0001

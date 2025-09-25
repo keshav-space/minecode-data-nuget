@@ -1,0 +1,6 @@
+- pkg:nuget/Synnotech.Migrations.RavenDB@0.10.1
+- pkg:nuget/Synnotech.Migrations.RavenDB@0.10.2
+- pkg:nuget/Synnotech.Migrations.RavenDB@0.6.0
+- pkg:nuget/Synnotech.Migrations.RavenDB@0.7.0
+- pkg:nuget/Synnotech.Migrations.RavenDB@0.8.0
+- pkg:nuget/Synnotech.Migrations.RavenDB@0.9.0

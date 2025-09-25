@@ -1,0 +1,5 @@
+- pkg:nuget/Repository.AzureTables@1.0.0-CI-20240122-124313
+- pkg:nuget/Repository.AzureTables@1.0.0-CI-20240122-130145
+- pkg:nuget/Repository.AzureTables@20240129.1.0
+- pkg:nuget/Repository.AzureTables@20240129.2.0
+- pkg:nuget/Repository.AzureTables@20240325.2.0

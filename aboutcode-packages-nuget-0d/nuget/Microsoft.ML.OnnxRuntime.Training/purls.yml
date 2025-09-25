@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.15.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.15.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.16.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.16.0-dev-20230821-1116-cbaa008391
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.16.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.16.2
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.16.3
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.17.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.17.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.17.3
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.18.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.19.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.19.2
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Training@1.20.0-dev-20240818-0144-c4ade796d6

@@ -1,0 +1,5 @@
+- pkg:nuget/Unitee.FluentStorage.AzureBlobStorage.Functional@3.0.0
+- pkg:nuget/Unitee.FluentStorage.AzureBlobStorage.Functional@3.0.0-alpha.1
+- pkg:nuget/Unitee.FluentStorage.AzureBlobStorage.Functional@3.0.0-alpha.2
+- pkg:nuget/Unitee.FluentStorage.AzureBlobStorage.Functional@3.0.0-alpha.3
+- pkg:nuget/Unitee.FluentStorage.AzureBlobStorage.Functional@3.1.0

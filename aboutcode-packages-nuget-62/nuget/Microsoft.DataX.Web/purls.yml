@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.DataX.Web@1.0.0
+- pkg:nuget/Microsoft.DataX.Web@1.0.0-CI-20190415-194812
+- pkg:nuget/Microsoft.DataX.Web@1.1.0
+- pkg:nuget/Microsoft.DataX.Web@1.2.0

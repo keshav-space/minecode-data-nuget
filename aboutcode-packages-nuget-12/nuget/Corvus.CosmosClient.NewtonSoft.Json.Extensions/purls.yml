@@ -1,0 +1,10 @@
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@4.0.0
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@4.0.0-286-upgrade-net60.5
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@4.0.1
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@4.0.2
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@4.1.0
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@5.0.0
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@5.1.0
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@5.1.1
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@5.2.0
+- pkg:nuget/Corvus.CosmosClient.NewtonSoft.Json.Extensions@6.0.0

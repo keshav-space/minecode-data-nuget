@@ -1,0 +1,14 @@
+- pkg:nuget/LiteX.Email.MailKit@1.1.0
+- pkg:nuget/LiteX.Email.MailKit@2.0.0
+- pkg:nuget/LiteX.Email.MailKit@3.0.0
+- pkg:nuget/LiteX.Email.MailKit@4.0.0
+- pkg:nuget/LiteX.Email.MailKit@5.0.0
+- pkg:nuget/LiteX.Email.MailKit@5.1.0
+- pkg:nuget/LiteX.Email.MailKit@5.2.0
+- pkg:nuget/LiteX.Email.MailKit@6.0.0
+- pkg:nuget/LiteX.Email.MailKit@6.1.0
+- pkg:nuget/LiteX.Email.MailKit@7.0.0
+- pkg:nuget/LiteX.Email.MailKit@7.1.0
+- pkg:nuget/LiteX.Email.MailKit@8.0.0
+- pkg:nuget/LiteX.Email.MailKit@8.1.0
+- pkg:nuget/LiteX.Email.MailKit@9.0.0

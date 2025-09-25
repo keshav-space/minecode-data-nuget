@@ -1,0 +1,4 @@
+- pkg:nuget/dotnet-sdt@1.0.0
+- pkg:nuget/dotnet-sdt@2.0.0
+- pkg:nuget/dotnet-sdt@2.0.1
+- pkg:nuget/dotnet-sdt@3.0.0

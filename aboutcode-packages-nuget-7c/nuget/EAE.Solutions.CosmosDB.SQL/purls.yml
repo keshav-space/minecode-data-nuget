@@ -1,0 +1,10 @@
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@0.5.0
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@0.6.0
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@0.6.1
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@0.7.0
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@0.7.1
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@0.7.3
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@1.0.0-alpha
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@1.0.1-alpha
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@1.0.2-alpha
+- pkg:nuget/EAE.Solutions.CosmosDB.SQL@1.0.3-alpha

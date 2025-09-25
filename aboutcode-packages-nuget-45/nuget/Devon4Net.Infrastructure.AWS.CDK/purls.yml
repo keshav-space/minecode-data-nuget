@@ -1,0 +1,9 @@
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@3.1.10
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@5.0.0
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@6.0.0
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@6.0.1
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@6.0.11
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@6.0.25
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@6.0.6
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@8.0.1
+- pkg:nuget/Devon4Net.Infrastructure.AWS.CDK@8.0.2

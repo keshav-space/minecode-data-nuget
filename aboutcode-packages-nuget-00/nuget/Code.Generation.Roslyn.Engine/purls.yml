@@ -1,0 +1,4 @@
+- pkg:nuget/Code.Generation.Roslyn.Engine@1.0.0.30100
+- pkg:nuget/Code.Generation.Roslyn.Engine@1.0.1.5414
+- pkg:nuget/Code.Generation.Roslyn.Engine@1.0.2.16084
+- pkg:nuget/Code.Generation.Roslyn.Engine@1.2.0.20973

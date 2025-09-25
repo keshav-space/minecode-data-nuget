@@ -1,0 +1,5 @@
+- pkg:nuget/Swisschain.RabbitMqBroker@8.0.0
+- pkg:nuget/Swisschain.RabbitMqBroker@8.1.0
+- pkg:nuget/Swisschain.RabbitMqBroker@8.2.0
+- pkg:nuget/Swisschain.RabbitMqBroker@8.3.0
+- pkg:nuget/Swisschain.RabbitMqBroker@8.4.0

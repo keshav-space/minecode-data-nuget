@@ -1,0 +1,12 @@
+- pkg:nuget/signalfx-lambda-functions@0.0.1
+- pkg:nuget/signalfx-lambda-functions@0.0.2
+- pkg:nuget/signalfx-lambda-functions@1.0.0
+- pkg:nuget/signalfx-lambda-functions@1.0.1
+- pkg:nuget/signalfx-lambda-functions@2.0.1
+- pkg:nuget/signalfx-lambda-functions@2.0.1-prerelease
+- pkg:nuget/signalfx-lambda-functions@3.0.0
+- pkg:nuget/signalfx-lambda-functions@3.0.1
+- pkg:nuget/signalfx-lambda-functions@3.0.1-rc.0
+- pkg:nuget/signalfx-lambda-functions@3.0.2-rc.0
+- pkg:nuget/signalfx-lambda-functions@3.0.2-rc.1
+- pkg:nuget/signalfx-lambda-functions@3.0.2-rc.2

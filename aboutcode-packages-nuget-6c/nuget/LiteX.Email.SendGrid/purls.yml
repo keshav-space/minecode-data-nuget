@@ -1,0 +1,15 @@
+- pkg:nuget/LiteX.Email.SendGrid@1.1.0
+- pkg:nuget/LiteX.Email.SendGrid@2.0.0
+- pkg:nuget/LiteX.Email.SendGrid@3.0.0
+- pkg:nuget/LiteX.Email.SendGrid@4.0.0
+- pkg:nuget/LiteX.Email.SendGrid@5.0.0
+- pkg:nuget/LiteX.Email.SendGrid@5.1.0
+- pkg:nuget/LiteX.Email.SendGrid@5.2.0
+- pkg:nuget/LiteX.Email.SendGrid@5.2.1
+- pkg:nuget/LiteX.Email.SendGrid@6.0.0
+- pkg:nuget/LiteX.Email.SendGrid@6.1.0
+- pkg:nuget/LiteX.Email.SendGrid@7.0.0
+- pkg:nuget/LiteX.Email.SendGrid@7.1.0
+- pkg:nuget/LiteX.Email.SendGrid@8.0.0
+- pkg:nuget/LiteX.Email.SendGrid@8.1.0
+- pkg:nuget/LiteX.Email.SendGrid@9.0.0

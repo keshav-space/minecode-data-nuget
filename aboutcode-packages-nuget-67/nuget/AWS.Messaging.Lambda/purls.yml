@@ -1,0 +1,11 @@
+- pkg:nuget/AWS.Messaging.Lambda@0.1.0-beta
+- pkg:nuget/AWS.Messaging.Lambda@0.1.1-beta
+- pkg:nuget/AWS.Messaging.Lambda@0.10.0
+- pkg:nuget/AWS.Messaging.Lambda@0.10.1
+- pkg:nuget/AWS.Messaging.Lambda@0.10.2
+- pkg:nuget/AWS.Messaging.Lambda@0.20.0-preview
+- pkg:nuget/AWS.Messaging.Lambda@0.21.0
+- pkg:nuget/AWS.Messaging.Lambda@0.9.0
+- pkg:nuget/AWS.Messaging.Lambda@0.9.1
+- pkg:nuget/AWS.Messaging.Lambda@1.0.0
+- pkg:nuget/AWS.Messaging.Lambda@1.0.1

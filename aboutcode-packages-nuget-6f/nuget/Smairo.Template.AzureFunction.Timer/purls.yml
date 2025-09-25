@@ -1,0 +1,5 @@
+- pkg:nuget/Smairo.Template.AzureFunction.Timer@2.0.0
+- pkg:nuget/Smairo.Template.AzureFunction.Timer@2.2.0
+- pkg:nuget/Smairo.Template.AzureFunction.Timer@3.1.0
+- pkg:nuget/Smairo.Template.AzureFunction.Timer@3.2.0
+- pkg:nuget/Smairo.Template.AzureFunction.Timer@3.2.1

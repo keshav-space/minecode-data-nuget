@@ -1,0 +1,4 @@
+- pkg:nuget/Wanadi.Clickhouse@8.0.0
+- pkg:nuget/Wanadi.Clickhouse@8.0.1
+- pkg:nuget/Wanadi.Clickhouse@8.0.2
+- pkg:nuget/Wanadi.Clickhouse@8.1.0

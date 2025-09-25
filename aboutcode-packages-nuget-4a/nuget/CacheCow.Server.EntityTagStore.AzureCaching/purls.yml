@@ -1,0 +1,5 @@
+- pkg:nuget/CacheCow.Server.EntityTagStore.AzureCaching@0.5.6
+- pkg:nuget/CacheCow.Server.EntityTagStore.AzureCaching@0.5.7
+- pkg:nuget/CacheCow.Server.EntityTagStore.AzureCaching@0.5.8
+- pkg:nuget/CacheCow.Server.EntityTagStore.AzureCaching@0.6.6
+- pkg:nuget/CacheCow.Server.EntityTagStore.AzureCaching@1.0.0

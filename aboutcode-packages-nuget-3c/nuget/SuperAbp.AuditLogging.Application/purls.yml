@@ -1,0 +1,7 @@
+- pkg:nuget/SuperAbp.AuditLogging.Application@0.1.0
+- pkg:nuget/SuperAbp.AuditLogging.Application@0.2.0
+- pkg:nuget/SuperAbp.AuditLogging.Application@0.3.0
+- pkg:nuget/SuperAbp.AuditLogging.Application@0.4.0
+- pkg:nuget/SuperAbp.AuditLogging.Application@0.4.1
+- pkg:nuget/SuperAbp.AuditLogging.Application@0.5.0
+- pkg:nuget/SuperAbp.AuditLogging.Application@0.6.0

@@ -1,0 +1,6 @@
+- pkg:nuget/NServiceBus.InMemory@5.2.14
+- pkg:nuget/NServiceBus.InMemory@5.2.141
+- pkg:nuget/NServiceBus.InMemory@5.2.142
+- pkg:nuget/NServiceBus.InMemory@5.2.143
+- pkg:nuget/NServiceBus.InMemory@5.2.144
+- pkg:nuget/NServiceBus.InMemory@5.2.144-pre

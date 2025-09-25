@@ -1,0 +1,5 @@
+- pkg:nuget/PhantomNet.Entities.EntityFrameworkCore@1.0.0
+- pkg:nuget/PhantomNet.Entities.EntityFrameworkCore@1.0.0-rc1-final
+- pkg:nuget/PhantomNet.Entities.EntityFrameworkCore@1.0.1
+- pkg:nuget/PhantomNet.Entities.EntityFrameworkCore@1.0.2
+- pkg:nuget/PhantomNet.Entities.EntityFrameworkCore@1.0.3

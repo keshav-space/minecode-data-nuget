@@ -1,0 +1,4 @@
+- pkg:nuget/SimpleIdServer.Saml.UI.Authenticate.LoginPassword.Bootstrap4@2.0.0
+- pkg:nuget/SimpleIdServer.Saml.UI.Authenticate.LoginPassword.Bootstrap4@2.0.1
+- pkg:nuget/SimpleIdServer.Saml.UI.Authenticate.LoginPassword.Bootstrap4@2.0.2
+- pkg:nuget/SimpleIdServer.Saml.UI.Authenticate.LoginPassword.Bootstrap4@2.0.3

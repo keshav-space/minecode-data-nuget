@@ -1,0 +1,5 @@
+- pkg:nuget/DynaJson@1.0.0
+- pkg:nuget/DynaJson@1.1.0
+- pkg:nuget/DynaJson@2.0.0
+- pkg:nuget/DynaJson@2.1.0
+- pkg:nuget/DynaJson@2.2.0

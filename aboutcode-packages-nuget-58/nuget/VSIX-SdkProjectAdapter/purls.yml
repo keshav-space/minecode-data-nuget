@@ -1,0 +1,5 @@
+- pkg:nuget/VSIX-SdkProjectAdapter@1.0.0
+- pkg:nuget/VSIX-SdkProjectAdapter@1.0.1
+- pkg:nuget/VSIX-SdkProjectAdapter@1.1.0
+- pkg:nuget/VSIX-SdkProjectAdapter@2.0.0
+- pkg:nuget/VSIX-SdkProjectAdapter@3.0.0

@@ -1,0 +1,17 @@
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.221
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.222
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.223
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.241
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.260
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.261
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.280
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.300
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.301
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.302
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.303
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.304
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.0.311
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.1.0
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.1.1
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.2.0
+- pkg:nuget/Logary.Metrics.WinPerfCounters@4.2.1

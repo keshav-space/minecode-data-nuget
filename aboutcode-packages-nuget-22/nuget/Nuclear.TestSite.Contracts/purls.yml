@@ -1,0 +1,4 @@
+- pkg:nuget/Nuclear.TestSite.Contracts@1.0.0
+- pkg:nuget/Nuclear.TestSite.Contracts@2.0.0
+- pkg:nuget/Nuclear.TestSite.Contracts@2.0.1
+- pkg:nuget/Nuclear.TestSite.Contracts@2.0.2

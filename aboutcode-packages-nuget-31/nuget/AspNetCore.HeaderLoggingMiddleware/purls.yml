@@ -1,0 +1,9 @@
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@1.0.2
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@1.0.3
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@1.0.5
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@2.0.1
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@2.0.12-pre.1
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@2.0.18-pre.2
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@2.0.2-pre.1
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@2.0.21-pre.2
+- pkg:nuget/AspNetCore.HeaderLoggingMiddleware@2.0.24

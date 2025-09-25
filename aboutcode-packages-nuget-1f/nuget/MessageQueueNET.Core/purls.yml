@@ -1,0 +1,5 @@
+- pkg:nuget/MessageQueueNET.Core@2.24.1101
+- pkg:nuget/MessageQueueNET.Core@3.24.1801
+- pkg:nuget/MessageQueueNET.Core@3.24.3101
+- pkg:nuget/MessageQueueNET.Core@3.24.4201
+- pkg:nuget/MessageQueueNET.Core@3.24.5101

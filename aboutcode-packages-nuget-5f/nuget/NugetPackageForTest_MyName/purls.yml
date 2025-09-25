@@ -1,0 +1,10 @@
+- pkg:nuget/NugetPackageForTest_MyName@1.0.0
+- pkg:nuget/NugetPackageForTest_MyName@1.0.1
+- pkg:nuget/NugetPackageForTest_MyName@1.0.10
+- pkg:nuget/NugetPackageForTest_MyName@1.0.2
+- pkg:nuget/NugetPackageForTest_MyName@1.0.3
+- pkg:nuget/NugetPackageForTest_MyName@1.0.4
+- pkg:nuget/NugetPackageForTest_MyName@1.0.5
+- pkg:nuget/NugetPackageForTest_MyName@1.0.6
+- pkg:nuget/NugetPackageForTest_MyName@1.0.7
+- pkg:nuget/NugetPackageForTest_MyName@1.0.8

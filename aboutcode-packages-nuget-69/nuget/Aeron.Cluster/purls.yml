@@ -1,0 +1,6 @@
+- pkg:nuget/Aeron.Cluster@1.28.2
+- pkg:nuget/Aeron.Cluster@1.29.0
+- pkg:nuget/Aeron.Cluster@1.37.0
+- pkg:nuget/Aeron.Cluster@1.38.1
+- pkg:nuget/Aeron.Cluster@1.39.0
+- pkg:nuget/Aeron.Cluster@1.40.0

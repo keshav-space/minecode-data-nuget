@@ -1,0 +1,11 @@
+- pkg:nuget/Orleankka.Client@3.4.0
+- pkg:nuget/Orleankka.Client@3.5.0
+- pkg:nuget/Orleankka.Client@3.6.0
+- pkg:nuget/Orleankka.Client@3.6.1
+- pkg:nuget/Orleankka.Client@3.6.2
+- pkg:nuget/Orleankka.Client@3.6.3
+- pkg:nuget/Orleankka.Client@3.6.3-net6
+- pkg:nuget/Orleankka.Client@7.0.0
+- pkg:nuget/Orleankka.Client@7.0.1
+- pkg:nuget/Orleankka.Client@7.0.2
+- pkg:nuget/Orleankka.Client@8.0.0

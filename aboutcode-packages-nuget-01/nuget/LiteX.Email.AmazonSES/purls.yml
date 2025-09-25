@@ -1,0 +1,14 @@
+- pkg:nuget/LiteX.Email.AmazonSES@1.1.0
+- pkg:nuget/LiteX.Email.AmazonSES@2.0.0
+- pkg:nuget/LiteX.Email.AmazonSES@4.0.0
+- pkg:nuget/LiteX.Email.AmazonSES@5.0.0
+- pkg:nuget/LiteX.Email.AmazonSES@5.1.0
+- pkg:nuget/LiteX.Email.AmazonSES@5.2.0
+- pkg:nuget/LiteX.Email.AmazonSES@5.3.0
+- pkg:nuget/LiteX.Email.AmazonSES@6.0.0
+- pkg:nuget/LiteX.Email.AmazonSES@6.1.0
+- pkg:nuget/LiteX.Email.AmazonSES@7.0.0
+- pkg:nuget/LiteX.Email.AmazonSES@7.1.0
+- pkg:nuget/LiteX.Email.AmazonSES@8.0.0
+- pkg:nuget/LiteX.Email.AmazonSES@8.1.0
+- pkg:nuget/LiteX.Email.AmazonSES@9.0.0

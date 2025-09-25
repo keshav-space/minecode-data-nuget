@@ -1,0 +1,8 @@
+- pkg:nuget/JustSaying.Extensions.DependencyInjection.SimpleInjector@0.0.1
+- pkg:nuget/JustSaying.Extensions.DependencyInjection.SimpleInjector@0.0.2
+- pkg:nuget/JustSaying.Extensions.DependencyInjection.SimpleInjector@0.0.3
+- pkg:nuget/JustSaying.Extensions.DependencyInjection.SimpleInjector@7.0.0
+- pkg:nuget/JustSaying.Extensions.DependencyInjection.SimpleInjector@7.0.2
+- pkg:nuget/JustSaying.Extensions.DependencyInjection.SimpleInjector@7.0.3
+- pkg:nuget/JustSaying.Extensions.DependencyInjection.SimpleInjector@7.1.7-pre.2
+- pkg:nuget/JustSaying.Extensions.DependencyInjection.SimpleInjector@7.1.8-pre.2

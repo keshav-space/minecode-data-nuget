@@ -1,0 +1,2 @@
+- pkg:nuget/Akka.Persistence.RocksDb@0.5.1
+- pkg:nuget/Akka.Persistence.RocksDb@0.9.0

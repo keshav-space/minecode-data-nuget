@@ -1,0 +1,15 @@
+- pkg:nuget/SharpPulsar.Sql@1.0.0.3
+- pkg:nuget/SharpPulsar.Sql@1.0.1.4
+- pkg:nuget/SharpPulsar.Sql@1.0.11
+- pkg:nuget/SharpPulsar.Sql@1.0.2.5
+- pkg:nuget/SharpPulsar.Sql@1.0.6
+- pkg:nuget/SharpPulsar.Sql@1.0.7
+- pkg:nuget/SharpPulsar.Sql@1.0.8
+- pkg:nuget/SharpPulsar.Sql@1.0.9
+- pkg:nuget/SharpPulsar.Sql@2.0.0.12
+- pkg:nuget/SharpPulsar.Sql@2.0.1.13
+- pkg:nuget/SharpPulsar.Sql@2.1.0
+- pkg:nuget/SharpPulsar.Sql@2.1.1
+- pkg:nuget/SharpPulsar.Sql@2.10.0-rc1158
+- pkg:nuget/SharpPulsar.Sql@2.10.0-rc1162
+- pkg:nuget/SharpPulsar.Sql@2.10.0-rc1186

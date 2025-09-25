@@ -1,0 +1,9 @@
+- pkg:nuget/Auth0.OidcClient.MAUI@1.0.0
+- pkg:nuget/Auth0.OidcClient.MAUI@1.0.0-beta.0
+- pkg:nuget/Auth0.OidcClient.MAUI@1.0.0-beta.1
+- pkg:nuget/Auth0.OidcClient.MAUI@1.0.1
+- pkg:nuget/Auth0.OidcClient.MAUI@1.1.0
+- pkg:nuget/Auth0.OidcClient.MAUI@1.1.0-beta.0
+- pkg:nuget/Auth0.OidcClient.MAUI@1.2.0
+- pkg:nuget/Auth0.OidcClient.MAUI@1.3.0
+- pkg:nuget/Auth0.OidcClient.MAUI@1.4.0

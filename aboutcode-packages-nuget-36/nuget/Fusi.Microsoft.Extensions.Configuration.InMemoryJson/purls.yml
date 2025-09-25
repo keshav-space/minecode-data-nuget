@@ -1,0 +1,5 @@
+- pkg:nuget/Fusi.Microsoft.Extensions.Configuration.InMemoryJson@1.0.3
+- pkg:nuget/Fusi.Microsoft.Extensions.Configuration.InMemoryJson@2.0.0
+- pkg:nuget/Fusi.Microsoft.Extensions.Configuration.InMemoryJson@3.0.0
+- pkg:nuget/Fusi.Microsoft.Extensions.Configuration.InMemoryJson@3.0.1
+- pkg:nuget/Fusi.Microsoft.Extensions.Configuration.InMemoryJson@4.0.0

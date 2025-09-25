@@ -1,0 +1,6 @@
+- pkg:nuget/Collector.Serilog.Enrichers.Correlation@1.0.0
+- pkg:nuget/Collector.Serilog.Enrichers.Correlation@1.0.1
+- pkg:nuget/Collector.Serilog.Enrichers.Correlation@2.0.0
+- pkg:nuget/Collector.Serilog.Enrichers.Correlation@2.0.1
+- pkg:nuget/Collector.Serilog.Enrichers.Correlation@2.0.2
+- pkg:nuget/Collector.Serilog.Enrichers.Correlation@2.1.0

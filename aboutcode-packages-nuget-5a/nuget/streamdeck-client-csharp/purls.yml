@@ -1,0 +1,9 @@
+- pkg:nuget/streamdeck-client-csharp@0.1.0-preview
+- pkg:nuget/streamdeck-client-csharp@0.1.1-preview
+- pkg:nuget/streamdeck-client-csharp@0.1.2-preview
+- pkg:nuget/streamdeck-client-csharp@4.0.0
+- pkg:nuget/streamdeck-client-csharp@4.0.1
+- pkg:nuget/streamdeck-client-csharp@4.1.0
+- pkg:nuget/streamdeck-client-csharp@4.1.1
+- pkg:nuget/streamdeck-client-csharp@4.2.0
+- pkg:nuget/streamdeck-client-csharp@4.3.0

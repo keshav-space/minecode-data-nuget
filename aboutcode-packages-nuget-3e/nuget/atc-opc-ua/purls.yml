@@ -1,0 +1,15 @@
+- pkg:nuget/atc-opc-ua@1.0.23
+- pkg:nuget/atc-opc-ua@1.0.25
+- pkg:nuget/atc-opc-ua@1.0.28
+- pkg:nuget/atc-opc-ua@1.0.31
+- pkg:nuget/atc-opc-ua@1.0.43
+- pkg:nuget/atc-opc-ua@1.0.57
+- pkg:nuget/atc-opc-ua@1.0.71
+- pkg:nuget/atc-opc-ua@1.0.75
+- pkg:nuget/atc-opc-ua@1.0.77
+- pkg:nuget/atc-opc-ua@1.1.0
+- pkg:nuget/atc-opc-ua@1.2.0
+- pkg:nuget/atc-opc-ua@1.3.0
+- pkg:nuget/atc-opc-ua@1.3.1
+- pkg:nuget/atc-opc-ua@1.4.0
+- pkg:nuget/atc-opc-ua@1.4.1

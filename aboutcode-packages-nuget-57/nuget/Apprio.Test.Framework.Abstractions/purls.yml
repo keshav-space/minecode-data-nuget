@@ -1,0 +1,13 @@
+- pkg:nuget/Apprio.Test.Framework.Abstractions@8.0.0
+- pkg:nuget/Apprio.Test.Framework.Abstractions@8.0.1
+- pkg:nuget/Apprio.Test.Framework.Abstractions@8.0.2
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.0.0
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.0.1
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.1.0
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.2.0
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.3.0
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.3.1
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.3.2
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.4.0
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.5.0
+- pkg:nuget/Apprio.Test.Framework.Abstractions@9.5.1

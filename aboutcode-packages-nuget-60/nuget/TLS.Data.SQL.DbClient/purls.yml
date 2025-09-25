@@ -1,0 +1,15 @@
+- pkg:nuget/TLS.Data.SQL.DbClient@1.0.0
+- pkg:nuget/TLS.Data.SQL.DbClient@1.1.0
+- pkg:nuget/TLS.Data.SQL.DbClient@1.1.1
+- pkg:nuget/TLS.Data.SQL.DbClient@1.2.0
+- pkg:nuget/TLS.Data.SQL.DbClient@1.3.0
+- pkg:nuget/TLS.Data.SQL.DbClient@1.4.0
+- pkg:nuget/TLS.Data.SQL.DbClient@1.5.0
+- pkg:nuget/TLS.Data.SQL.DbClient@2.0.0
+- pkg:nuget/TLS.Data.SQL.DbClient@2.1.0
+- pkg:nuget/TLS.Data.SQL.DbClient@2.2.0
+- pkg:nuget/TLS.Data.SQL.DbClient@2.2.1
+- pkg:nuget/TLS.Data.SQL.DbClient@3.0.0
+- pkg:nuget/TLS.Data.SQL.DbClient@3.1.0
+- pkg:nuget/TLS.Data.SQL.DbClient@3.2.0
+- pkg:nuget/TLS.Data.SQL.DbClient@3.2.1

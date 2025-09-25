@@ -1,0 +1,9 @@
+- pkg:nuget/Athena.Infrastructure.FluentValidation@7.0.0
+- pkg:nuget/Athena.Infrastructure.FluentValidation@7.0.0-preview.20231027.1
+- pkg:nuget/Athena.Infrastructure.FluentValidation@7.0.0-preview.20231030.1
+- pkg:nuget/Athena.Infrastructure.FluentValidation@7.0.0-preview.20231031.1
+- pkg:nuget/Athena.Infrastructure.FluentValidation@7.0.1
+- pkg:nuget/Athena.Infrastructure.FluentValidation@7.0.2
+- pkg:nuget/Athena.Infrastructure.FluentValidation@7.0.3-preview.20231208.1
+- pkg:nuget/Athena.Infrastructure.FluentValidation@7.0.5
+- pkg:nuget/Athena.Infrastructure.FluentValidation@8.0.0

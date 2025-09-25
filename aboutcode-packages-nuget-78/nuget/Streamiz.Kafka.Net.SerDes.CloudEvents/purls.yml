@@ -1,0 +1,13 @@
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.5.0
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.5.0-RC1
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.5.0-RC2
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.5.1
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.6.0
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.6.0-RC1
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.6.0-RC2
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.7.0
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.7.0-RC1
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.7.0-RC2
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.7.1
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.7.1-RC1
+- pkg:nuget/Streamiz.Kafka.Net.SerDes.CloudEvents@1.7.1-RC2

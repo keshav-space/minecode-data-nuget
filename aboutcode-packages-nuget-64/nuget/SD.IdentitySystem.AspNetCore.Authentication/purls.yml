@@ -1,0 +1,6 @@
+- pkg:nuget/SD.IdentitySystem.AspNetCore.Authentication@1.0.0
+- pkg:nuget/SD.IdentitySystem.AspNetCore.Authentication@1.1.0
+- pkg:nuget/SD.IdentitySystem.AspNetCore.Authentication@1.2.0
+- pkg:nuget/SD.IdentitySystem.AspNetCore.Authentication@1.2.1
+- pkg:nuget/SD.IdentitySystem.AspNetCore.Authentication@2.2.0
+- pkg:nuget/SD.IdentitySystem.AspNetCore.Authentication@2.2.1

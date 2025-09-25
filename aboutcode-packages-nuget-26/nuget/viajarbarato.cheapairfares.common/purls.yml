@@ -1,0 +1,12 @@
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.18.1
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.18.1-development
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.19.2-development
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.20.1
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.20.1-development
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.20.2-development
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.20.3-staging
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.20.4-master
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.21.1
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.21.1-development
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.21.2-staging
+- pkg:nuget/viajarbarato.cheapairfares.common@2019.2.21.3-master

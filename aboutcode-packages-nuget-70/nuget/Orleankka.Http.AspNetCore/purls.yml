@@ -1,0 +1,9 @@
+- pkg:nuget/Orleankka.Http.AspNetCore@3.6.0
+- pkg:nuget/Orleankka.Http.AspNetCore@3.6.1
+- pkg:nuget/Orleankka.Http.AspNetCore@3.6.2
+- pkg:nuget/Orleankka.Http.AspNetCore@3.6.3
+- pkg:nuget/Orleankka.Http.AspNetCore@3.6.3-net6
+- pkg:nuget/Orleankka.Http.AspNetCore@7.0.0
+- pkg:nuget/Orleankka.Http.AspNetCore@7.0.1
+- pkg:nuget/Orleankka.Http.AspNetCore@7.0.2
+- pkg:nuget/Orleankka.Http.AspNetCore@8.0.0

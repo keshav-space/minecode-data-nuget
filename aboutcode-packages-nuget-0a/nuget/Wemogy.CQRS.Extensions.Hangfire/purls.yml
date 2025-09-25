@@ -1,0 +1,6 @@
+- pkg:nuget/Wemogy.CQRS.Extensions.Hangfire@1.0.0
+- pkg:nuget/Wemogy.CQRS.Extensions.Hangfire@1.0.1
+- pkg:nuget/Wemogy.CQRS.Extensions.Hangfire@1.0.2
+- pkg:nuget/Wemogy.CQRS.Extensions.Hangfire@2.0.0
+- pkg:nuget/Wemogy.CQRS.Extensions.Hangfire@2.0.1
+- pkg:nuget/Wemogy.CQRS.Extensions.Hangfire@3.0.0

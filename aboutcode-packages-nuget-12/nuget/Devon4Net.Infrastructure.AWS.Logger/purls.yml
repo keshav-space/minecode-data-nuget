@@ -1,0 +1,4 @@
+- pkg:nuget/Devon4Net.Infrastructure.AWS.Logger@6.0.11
+- pkg:nuget/Devon4Net.Infrastructure.AWS.Logger@6.0.25
+- pkg:nuget/Devon4Net.Infrastructure.AWS.Logger@8.0.1
+- pkg:nuget/Devon4Net.Infrastructure.AWS.Logger@8.0.2

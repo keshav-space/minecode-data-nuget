@@ -1,0 +1,12 @@
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@0.0.0-pre.2
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@0.0.0-pre.3
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@0.0.0-pre.4
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@0.0.0-pre.5
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@0.0.0-pre.6
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@0.0.0-pre.7
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@1.0.0
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@1.0.0-rc.1
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@1.0.1
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@1.0.1-rc.1
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@1.1.0
+- pkg:nuget/Subatomix.Build.Versioning.Semantic@1.1.0-rc.1

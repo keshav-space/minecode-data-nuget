@@ -1,0 +1,5 @@
+- pkg:nuget/log4net.Log2Redis@1.0.1
+- pkg:nuget/log4net.Log2Redis@1.0.1.1
+- pkg:nuget/log4net.Log2Redis@1.0.1.2
+- pkg:nuget/log4net.Log2Redis@1.0.1.3
+- pkg:nuget/log4net.Log2Redis@1.0.1.4

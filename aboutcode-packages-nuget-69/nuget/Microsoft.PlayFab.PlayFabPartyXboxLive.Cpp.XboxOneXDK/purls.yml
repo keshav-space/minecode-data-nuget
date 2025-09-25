@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.PlayFab.PlayFabPartyXboxLive.Cpp.XboxOneXDK@0.1.0-prerelease
+- pkg:nuget/Microsoft.PlayFab.PlayFabPartyXboxLive.Cpp.XboxOneXDK@1.0.1
+- pkg:nuget/Microsoft.PlayFab.PlayFabPartyXboxLive.Cpp.XboxOneXDK@1.1.0
+- pkg:nuget/Microsoft.PlayFab.PlayFabPartyXboxLive.Cpp.XboxOneXDK@1.2.0
+- pkg:nuget/Microsoft.PlayFab.PlayFabPartyXboxLive.Cpp.XboxOneXDK@1.2.10
+- pkg:nuget/Microsoft.PlayFab.PlayFabPartyXboxLive.Cpp.XboxOneXDK@1.2.12
+- pkg:nuget/Microsoft.PlayFab.PlayFabPartyXboxLive.Cpp.XboxOneXDK@1.2.5
+- pkg:nuget/Microsoft.PlayFab.PlayFabPartyXboxLive.Cpp.XboxOneXDK@1.2.9

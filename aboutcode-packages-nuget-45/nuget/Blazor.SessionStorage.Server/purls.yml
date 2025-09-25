@@ -1,0 +1,5 @@
+- pkg:nuget/Blazor.SessionStorage.Server@1.4.2
+- pkg:nuget/Blazor.SessionStorage.Server@1.4.3
+- pkg:nuget/Blazor.SessionStorage.Server@1.4.5
+- pkg:nuget/Blazor.SessionStorage.Server@1.5.0
+- pkg:nuget/Blazor.SessionStorage.Server@2.0.1

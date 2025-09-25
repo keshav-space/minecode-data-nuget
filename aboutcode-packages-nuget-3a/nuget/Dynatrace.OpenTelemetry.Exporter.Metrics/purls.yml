@@ -1,0 +1,6 @@
+- pkg:nuget/Dynatrace.OpenTelemetry.Exporter.Metrics@0.1.0-beta
+- pkg:nuget/Dynatrace.OpenTelemetry.Exporter.Metrics@0.3.0-beta
+- pkg:nuget/Dynatrace.OpenTelemetry.Exporter.Metrics@0.3.2-beta
+- pkg:nuget/Dynatrace.OpenTelemetry.Exporter.Metrics@0.4.0-beta
+- pkg:nuget/Dynatrace.OpenTelemetry.Exporter.Metrics@1.0.0
+- pkg:nuget/Dynatrace.OpenTelemetry.Exporter.Metrics@1.0.1
