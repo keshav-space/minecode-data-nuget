@@ -1,0 +1,5 @@
+- pkg:nuget/Oragon.Architecture@4.5.1-RC1
+- pkg:nuget/Oragon.Architecture@4.5.1-RC2
+- pkg:nuget/Oragon.Architecture@7.0.1-GA
+- pkg:nuget/Oragon.Architecture@7.1.0
+- pkg:nuget/Oragon.Architecture@8.0.0

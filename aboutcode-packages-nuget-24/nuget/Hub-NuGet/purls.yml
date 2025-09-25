@@ -1,0 +1,4 @@
+- pkg:nuget/Hub-NuGet@1.0.0
+- pkg:nuget/Hub-NuGet@1.0.0-beta
+- pkg:nuget/Hub-NuGet@1.1.0
+- pkg:nuget/Hub-NuGet@1.1.1

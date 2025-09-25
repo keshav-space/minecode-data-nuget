@@ -1,0 +1,7 @@
+- pkg:nuget/ServiceStack.Authentication.Azure.OrmLite@1.0.0
+- pkg:nuget/ServiceStack.Authentication.Azure.OrmLite@1.0.3
+- pkg:nuget/ServiceStack.Authentication.Azure.OrmLite@1.1.1
+- pkg:nuget/ServiceStack.Authentication.Azure.OrmLite@1.1.2
+- pkg:nuget/ServiceStack.Authentication.Azure.OrmLite@1.1.3
+- pkg:nuget/ServiceStack.Authentication.Azure.OrmLite@2.0.0
+- pkg:nuget/ServiceStack.Authentication.Azure.OrmLite@2.1.0

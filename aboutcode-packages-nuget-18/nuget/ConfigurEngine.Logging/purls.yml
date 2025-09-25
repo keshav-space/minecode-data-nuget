@@ -1,0 +1,5 @@
+- pkg:nuget/ConfigurEngine.Logging@0.0.0-preview.0.5
+- pkg:nuget/ConfigurEngine.Logging@0.1.0
+- pkg:nuget/ConfigurEngine.Logging@0.1.0-unstable0003
+- pkg:nuget/ConfigurEngine.Logging@0.2.0
+- pkg:nuget/ConfigurEngine.Logging@0.2.0-unstable0000

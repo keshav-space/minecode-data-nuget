@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.ContainerRegistry@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.ContainerRegistry@0.9.0-preview.1.20190603.2
+- pkg:nuget/Microsoft.Azure.ContainerRegistry@1.0.0-preview.1
+- pkg:nuget/Microsoft.Azure.ContainerRegistry@1.0.0-preview.2

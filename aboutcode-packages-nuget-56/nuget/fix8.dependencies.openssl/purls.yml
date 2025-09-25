@@ -1,0 +1,2 @@
+- pkg:nuget/fix8.dependencies.openssl@1.0.20140509.1
+- pkg:nuget/fix8.dependencies.openssl@1.0.20151130.1

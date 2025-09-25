@@ -1,0 +1,14 @@
+- pkg:nuget/Discord.Net.Providers.WS4Net@1.0.0
+- pkg:nuget/Discord.Net.Providers.WS4Net@1.0.0-rc
+- pkg:nuget/Discord.Net.Providers.WS4Net@1.0.0-rc2
+- pkg:nuget/Discord.Net.Providers.WS4Net@1.0.1
+- pkg:nuget/Discord.Net.Providers.WS4Net@1.0.2
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.0.0
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.0.0-beta
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.0.1
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.1.0
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.1.1
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.2.0
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.3.0
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.3.1
+- pkg:nuget/Discord.Net.Providers.WS4Net@2.4.0

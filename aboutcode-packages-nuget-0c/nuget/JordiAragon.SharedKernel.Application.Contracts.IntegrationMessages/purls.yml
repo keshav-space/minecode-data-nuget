@@ -1,0 +1,12 @@
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@1.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@2.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@2.1.1
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@2.1.2
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@2.2.0
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@3.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@4.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@5.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@6.0.2
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@7.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@8.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Application.Contracts.IntegrationMessages@8.0.4

@@ -1,0 +1,3 @@
+- pkg:nuget/Oragon.Architecture.ApplicationHosting@7.0.1-GA
+- pkg:nuget/Oragon.Architecture.ApplicationHosting@7.1.0
+- pkg:nuget/Oragon.Architecture.ApplicationHosting@8.0.0

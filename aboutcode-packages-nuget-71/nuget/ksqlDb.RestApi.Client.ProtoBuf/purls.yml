@@ -1,0 +1,9 @@
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@0.1.0
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@0.1.0-rc.1
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@1.0.0
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@1.0.0-rc.1
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@2.0.0
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@2.0.0-rc.1
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@3.0.0
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@4.0.0
+- pkg:nuget/ksqlDb.RestApi.Client.ProtoBuf@5.0.0

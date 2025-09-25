@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.VisualStudio.LanguageServer.Protocol.Extensions@16.6.45
+- pkg:nuget/Microsoft.VisualStudio.LanguageServer.Protocol.Extensions@17.0.4103-g225b54d231
+- pkg:nuget/Microsoft.VisualStudio.LanguageServer.Protocol.Extensions@17.0.5133
+- pkg:nuget/Microsoft.VisualStudio.LanguageServer.Protocol.Extensions@17.1.8
+- pkg:nuget/Microsoft.VisualStudio.LanguageServer.Protocol.Extensions@17.2.8

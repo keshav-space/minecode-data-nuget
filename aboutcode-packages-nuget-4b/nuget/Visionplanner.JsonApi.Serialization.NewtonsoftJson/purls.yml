@@ -1,0 +1,5 @@
+- pkg:nuget/Visionplanner.JsonApi.Serialization.NewtonsoftJson@0.0.1
+- pkg:nuget/Visionplanner.JsonApi.Serialization.NewtonsoftJson@3.0.0-alpha
+- pkg:nuget/Visionplanner.JsonApi.Serialization.NewtonsoftJson@3.0.0-alpha1
+- pkg:nuget/Visionplanner.JsonApi.Serialization.NewtonsoftJson@3.0.0-alpha2
+- pkg:nuget/Visionplanner.JsonApi.Serialization.NewtonsoftJson@3.0.0-alpha3

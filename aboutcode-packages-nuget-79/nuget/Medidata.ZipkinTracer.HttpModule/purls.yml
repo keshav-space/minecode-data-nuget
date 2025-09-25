@@ -1,0 +1,8 @@
+- pkg:nuget/Medidata.ZipkinTracer.HttpModule@0.3.0
+- pkg:nuget/Medidata.ZipkinTracer.HttpModule@0.4.0
+- pkg:nuget/Medidata.ZipkinTracer.HttpModule@0.5.0
+- pkg:nuget/Medidata.ZipkinTracer.HttpModule@0.6.0
+- pkg:nuget/Medidata.ZipkinTracer.HttpModule@0.7.0
+- pkg:nuget/Medidata.ZipkinTracer.HttpModule@1.0.3
+- pkg:nuget/Medidata.ZipkinTracer.HttpModule@1.0.5
+- pkg:nuget/Medidata.ZipkinTracer.HttpModule@1.3.0

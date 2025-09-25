@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Api.Vault@2.5.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Api.Vault@2.5.1
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Api.Vault@2.6.146
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Api.Vault@2.6.96
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Api.Vault@2.7.170

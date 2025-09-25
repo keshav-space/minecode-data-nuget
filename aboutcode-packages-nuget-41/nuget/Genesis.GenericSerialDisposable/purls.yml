@@ -1,0 +1,5 @@
+- pkg:nuget/Genesis.GenericSerialDisposable@1.0.0-alpha
+- pkg:nuget/Genesis.GenericSerialDisposable@1.0.1-alpha
+- pkg:nuget/Genesis.GenericSerialDisposable@1.0.2-alpha
+- pkg:nuget/Genesis.GenericSerialDisposable@2.0.0
+- pkg:nuget/Genesis.GenericSerialDisposable@3.0.0

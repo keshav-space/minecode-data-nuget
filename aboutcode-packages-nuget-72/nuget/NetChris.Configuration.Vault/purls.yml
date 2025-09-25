@@ -1,0 +1,3 @@
+- pkg:nuget/NetChris.Configuration.Vault@0.2.18-pr-2-vault
+- pkg:nuget/NetChris.Configuration.Vault@0.2.34
+- pkg:nuget/NetChris.Configuration.Vault@0.3.40

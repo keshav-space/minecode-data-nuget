@@ -1,0 +1,11 @@
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.4.0
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.5.0
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.6.0
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.6.1
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.6.2
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.6.3
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.6.4
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.6.5
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@3.7.0
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@4.0.0
+- pkg:nuget/MAVN.Persistence.EntityFrameworkCore.MySql@6.0.1

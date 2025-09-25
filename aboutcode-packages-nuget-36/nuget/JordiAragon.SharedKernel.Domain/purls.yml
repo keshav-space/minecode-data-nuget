@@ -1,0 +1,12 @@
+- pkg:nuget/JordiAragon.SharedKernel.Domain@1.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Domain@2.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Domain@2.1.1
+- pkg:nuget/JordiAragon.SharedKernel.Domain@2.1.2
+- pkg:nuget/JordiAragon.SharedKernel.Domain@2.2.0
+- pkg:nuget/JordiAragon.SharedKernel.Domain@3.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Domain@4.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Domain@5.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Domain@6.0.2
+- pkg:nuget/JordiAragon.SharedKernel.Domain@7.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Domain@8.0.0
+- pkg:nuget/JordiAragon.SharedKernel.Domain@8.0.4

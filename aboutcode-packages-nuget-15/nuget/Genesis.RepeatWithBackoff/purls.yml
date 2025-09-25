@@ -1,0 +1,5 @@
+- pkg:nuget/Genesis.RepeatWithBackoff@1.0.0-alpha
+- pkg:nuget/Genesis.RepeatWithBackoff@1.0.1-alpha
+- pkg:nuget/Genesis.RepeatWithBackoff@1.0.2-alpha
+- pkg:nuget/Genesis.RepeatWithBackoff@2.0.0
+- pkg:nuget/Genesis.RepeatWithBackoff@3.0.0

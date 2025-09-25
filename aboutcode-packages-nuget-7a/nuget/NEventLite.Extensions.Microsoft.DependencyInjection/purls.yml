@@ -1,0 +1,7 @@
+- pkg:nuget/NEventLite.Extensions.Microsoft.DependencyInjection@2.1.15
+- pkg:nuget/NEventLite.Extensions.Microsoft.DependencyInjection@2.1.19
+- pkg:nuget/NEventLite.Extensions.Microsoft.DependencyInjection@2.1.20
+- pkg:nuget/NEventLite.Extensions.Microsoft.DependencyInjection@2.1.21
+- pkg:nuget/NEventLite.Extensions.Microsoft.DependencyInjection@2.1.23
+- pkg:nuget/NEventLite.Extensions.Microsoft.DependencyInjection@3.0.24
+- pkg:nuget/NEventLite.Extensions.Microsoft.DependencyInjection@3.0.26

@@ -1,0 +1,4 @@
+- pkg:nuget/Emgu.TF.Lite.runtime.ubuntu.20.04-x64@2.4.1.1202
+- pkg:nuget/Emgu.TF.Lite.runtime.ubuntu.20.04-x64@2.5.0.1274
+- pkg:nuget/Emgu.TF.Lite.runtime.ubuntu.20.04-x64@2.6.0.1295
+- pkg:nuget/Emgu.TF.Lite.runtime.ubuntu.20.04-x64@2.8.0.1418

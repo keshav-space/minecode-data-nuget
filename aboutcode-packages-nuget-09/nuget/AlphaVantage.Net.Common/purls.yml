@@ -1,0 +1,3 @@
+- pkg:nuget/AlphaVantage.Net.Common@2.0.0-preview-3
+- pkg:nuget/AlphaVantage.Net.Common@2.0.1
+- pkg:nuget/AlphaVantage.Net.Common@2.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/CryptoIds@0.1.0-alpha
+- pkg:nuget/CryptoIds@0.2.0-prerelease
+- pkg:nuget/CryptoIds@0.3.0-prerelease.2
+- pkg:nuget/CryptoIds@0.3.1-prerelease.2
+- pkg:nuget/CryptoIds@0.3.3-prerelease.2

@@ -1,0 +1,16 @@
+- pkg:nuget/Langshin.Core.Redis@1.0.1
+- pkg:nuget/Langshin.Core.Redis@1.0.2
+- pkg:nuget/Langshin.Core.Redis@1.0.3
+- pkg:nuget/Langshin.Core.Redis@1.0.4
+- pkg:nuget/Langshin.Core.Redis@1.0.5
+- pkg:nuget/Langshin.Core.Redis@1.0.6
+- pkg:nuget/Langshin.Core.Redis@2.0.0
+- pkg:nuget/Langshin.Core.Redis@2.0.2
+- pkg:nuget/Langshin.Core.Redis@5.0.0
+- pkg:nuget/Langshin.Core.Redis@5.0.1
+- pkg:nuget/Langshin.Core.Redis@5.0.2
+- pkg:nuget/Langshin.Core.Redis@5.0.3
+- pkg:nuget/Langshin.Core.Redis@5.0.4
+- pkg:nuget/Langshin.Core.Redis@5.0.5
+- pkg:nuget/Langshin.Core.Redis@5.0.6
+- pkg:nuget/Langshin.Core.Redis@7.0.0

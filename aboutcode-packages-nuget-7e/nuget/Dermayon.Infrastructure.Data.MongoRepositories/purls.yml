@@ -1,0 +1,3 @@
+- pkg:nuget/Dermayon.Infrastructure.Data.MongoRepositories@1.0.0
+- pkg:nuget/Dermayon.Infrastructure.Data.MongoRepositories@1.0.1
+- pkg:nuget/Dermayon.Infrastructure.Data.MongoRepositories@2.0.0

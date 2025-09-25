@@ -1,0 +1,4 @@
+- pkg:nuget/PM2.Extensions.IConsole@1.0.0
+- pkg:nuget/PM2.Extensions.IConsole@1.1.0
+- pkg:nuget/PM2.Extensions.IConsole@2.0.0
+- pkg:nuget/PM2.Extensions.IConsole@3.0.0

@@ -1,0 +1,13 @@
+- pkg:nuget/NetModular.Lib.OSS.Minio@2.1.4
+- pkg:nuget/NetModular.Lib.OSS.Minio@2.1.5
+- pkg:nuget/NetModular.Lib.OSS.Minio@2.1.6
+- pkg:nuget/NetModular.Lib.OSS.Minio@2.1.7
+- pkg:nuget/NetModular.Lib.OSS.Minio@2.1.8
+- pkg:nuget/NetModular.Lib.OSS.Minio@2.1.9
+- pkg:nuget/NetModular.Lib.OSS.Minio@9.0.0
+- pkg:nuget/NetModular.Lib.OSS.Minio@9.0.0-beta.1
+- pkg:nuget/NetModular.Lib.OSS.Minio@9.0.1
+- pkg:nuget/NetModular.Lib.OSS.Minio@9.0.5
+- pkg:nuget/NetModular.Lib.OSS.Minio@9.0.6
+- pkg:nuget/NetModular.Lib.OSS.Minio@9.0.7
+- pkg:nuget/NetModular.Lib.OSS.Minio@9.0.8

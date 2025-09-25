@@ -1,0 +1,3 @@
+- pkg:nuget/FluentMigrator.Runner.Cli@1.0.0-beta3
+- pkg:nuget/FluentMigrator.Runner.Cli@1.0.0-beta4
+- pkg:nuget/FluentMigrator.Runner.Cli@1.0.0-beta5

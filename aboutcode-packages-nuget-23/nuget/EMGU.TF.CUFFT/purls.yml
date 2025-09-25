@@ -1,0 +1,4 @@
+- pkg:nuget/EMGU.TF.CUFFT@10.0.130
+- pkg:nuget/EMGU.TF.CUFFT@10.1.105
+- pkg:nuget/EMGU.TF.CUFFT@9.0.0
+- pkg:nuget/EMGU.TF.CUFFT@9.1.85

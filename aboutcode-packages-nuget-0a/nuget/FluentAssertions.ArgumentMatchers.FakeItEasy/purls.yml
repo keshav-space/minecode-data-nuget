@@ -1,0 +1,3 @@
+- pkg:nuget/FluentAssertions.ArgumentMatchers.FakeItEasy@0.1.0
+- pkg:nuget/FluentAssertions.ArgumentMatchers.FakeItEasy@1.0.0
+- pkg:nuget/FluentAssertions.ArgumentMatchers.FakeItEasy@1.1.0

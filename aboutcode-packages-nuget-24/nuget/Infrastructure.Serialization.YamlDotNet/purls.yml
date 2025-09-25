@@ -1,0 +1,9 @@
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@1.0.0
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@1.0.1
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@1.0.2
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@1.0.3
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@2019.5.23.6
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@3.0.0
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@3.0.0.1
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@3.0.1
+- pkg:nuget/Infrastructure.Serialization.YamlDotNet@3.3.0

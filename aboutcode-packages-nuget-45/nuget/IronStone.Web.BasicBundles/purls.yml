@@ -1,0 +1,4 @@
+- pkg:nuget/IronStone.Web.BasicBundles@1.0.0
+- pkg:nuget/IronStone.Web.BasicBundles@1.0.4-prerelease
+- pkg:nuget/IronStone.Web.BasicBundles@1.1.0
+- pkg:nuget/IronStone.Web.BasicBundles@1.2.0

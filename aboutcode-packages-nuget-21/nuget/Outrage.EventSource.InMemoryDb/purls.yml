@@ -1,0 +1,4 @@
+- pkg:nuget/Outrage.EventSource.InMemoryDb@0.1.0
+- pkg:nuget/Outrage.EventSource.InMemoryDb@0.1.1
+- pkg:nuget/Outrage.EventSource.InMemoryDb@0.2.0
+- pkg:nuget/Outrage.EventSource.InMemoryDb@0.2.3

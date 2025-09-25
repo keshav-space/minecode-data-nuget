@@ -1,0 +1,3 @@
+- pkg:nuget/Oragon.Architecture.ApplicationHosting.HostProcess@7.0.1-GA
+- pkg:nuget/Oragon.Architecture.ApplicationHosting.HostProcess@7.1.0
+- pkg:nuget/Oragon.Architecture.ApplicationHosting.HostProcess@8.0.0

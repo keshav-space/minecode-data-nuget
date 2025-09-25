@@ -1,0 +1,5 @@
+- pkg:nuget/WebExtras.Nancy@1.5.0
+- pkg:nuget/WebExtras.Nancy@2.0.0.66
+- pkg:nuget/WebExtras.Nancy@2.0.0.70
+- pkg:nuget/WebExtras.Nancy@2.0.0.72
+- pkg:nuget/WebExtras.Nancy@3.0.0-pre20171103

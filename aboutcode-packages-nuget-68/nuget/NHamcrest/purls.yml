@@ -1,0 +1,10 @@
+- pkg:nuget/NHamcrest@1.2.1
+- pkg:nuget/NHamcrest@2.0.0
+- pkg:nuget/NHamcrest@2.0.1
+- pkg:nuget/NHamcrest@3.0.0
+- pkg:nuget/NHamcrest@3.0.1
+- pkg:nuget/NHamcrest@3.1.0
+- pkg:nuget/NHamcrest@3.2.0
+- pkg:nuget/NHamcrest@3.3.0
+- pkg:nuget/NHamcrest@3.4.0
+- pkg:nuget/NHamcrest@4.0.0

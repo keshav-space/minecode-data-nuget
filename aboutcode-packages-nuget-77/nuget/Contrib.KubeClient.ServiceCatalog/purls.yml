@@ -1,0 +1,4 @@
+- pkg:nuget/Contrib.KubeClient.ServiceCatalog@0.6.0
+- pkg:nuget/Contrib.KubeClient.ServiceCatalog@0.6.1
+- pkg:nuget/Contrib.KubeClient.ServiceCatalog@0.7.0
+- pkg:nuget/Contrib.KubeClient.ServiceCatalog@0.8.0

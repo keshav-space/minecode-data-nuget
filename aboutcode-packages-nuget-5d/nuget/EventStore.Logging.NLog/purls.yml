@@ -1,0 +1,6 @@
+- pkg:nuget/EventStore.Logging.NLog@3.0.11280.41
+- pkg:nuget/EventStore.Logging.NLog@3.0.11291.42
+- pkg:nuget/EventStore.Logging.NLog@3.0.11293.40
+- pkg:nuget/EventStore.Logging.NLog@3.0.11293.43
+- pkg:nuget/EventStore.Logging.NLog@3.0.11305.44
+- pkg:nuget/EventStore.Logging.NLog@3.0.11326.44

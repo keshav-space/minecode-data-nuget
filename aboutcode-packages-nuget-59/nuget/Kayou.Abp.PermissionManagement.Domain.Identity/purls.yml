@@ -1,0 +1,3 @@
+- pkg:nuget/Kayou.Abp.PermissionManagement.Domain.Identity@3.0.4.8
+- pkg:nuget/Kayou.Abp.PermissionManagement.Domain.Identity@3.0.4.9
+- pkg:nuget/Kayou.Abp.PermissionManagement.Domain.Identity@3.0.5

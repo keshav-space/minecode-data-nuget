@@ -1,0 +1,4 @@
+- pkg:nuget/MintPlayer.EidReader.Native@10.0.0-rc.1
+- pkg:nuget/MintPlayer.EidReader.Native@8.0.0
+- pkg:nuget/MintPlayer.EidReader.Native@8.1.0
+- pkg:nuget/MintPlayer.EidReader.Native@9.0.0

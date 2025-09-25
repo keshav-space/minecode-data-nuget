@@ -1,0 +1,4 @@
+- pkg:nuget/log4net.Raven@0.54.0
+- pkg:nuget/log4net.Raven@0.58.0
+- pkg:nuget/log4net.Raven@0.71.0
+- pkg:nuget/log4net.Raven@0.888.0

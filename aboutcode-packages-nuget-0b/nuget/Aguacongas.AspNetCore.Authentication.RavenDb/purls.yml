@@ -1,0 +1,14 @@
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@3.2.0
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@3.2.0-preview0060
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@3.2.1
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@3.2.2
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@4.0.0
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@4.0.0-preview0016
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@4.0.1
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@4.0.2
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@4.0.3
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@4.1.0
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@4.1.1
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@5.0.0
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@5.0.0-preview0177
+- pkg:nuget/Aguacongas.AspNetCore.Authentication.RavenDb@6.0.0-preview

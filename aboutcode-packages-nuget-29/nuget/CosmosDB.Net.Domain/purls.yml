@@ -1,0 +1,6 @@
+- pkg:nuget/CosmosDB.Net.Domain@3.0.1
+- pkg:nuget/CosmosDB.Net.Domain@3.0.2
+- pkg:nuget/CosmosDB.Net.Domain@3.0.3
+- pkg:nuget/CosmosDB.Net.Domain@3.0.32
+- pkg:nuget/CosmosDB.Net.Domain@3.1.0
+- pkg:nuget/CosmosDB.Net.Domain@3.1.1
