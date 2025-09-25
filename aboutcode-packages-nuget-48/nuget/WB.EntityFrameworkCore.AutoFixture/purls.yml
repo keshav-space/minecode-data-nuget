@@ -1,0 +1,7 @@
+- pkg:nuget/WB.EntityFrameworkCore.AutoFixture@0.4.13-main0001
+- pkg:nuget/WB.EntityFrameworkCore.AutoFixture@0.4.14
+- pkg:nuget/WB.EntityFrameworkCore.AutoFixture@0.4.15
+- pkg:nuget/WB.EntityFrameworkCore.AutoFixture@0.4.16
+- pkg:nuget/WB.EntityFrameworkCore.AutoFixture@0.4.17
+- pkg:nuget/WB.EntityFrameworkCore.AutoFixture@1.0.0
+- pkg:nuget/WB.EntityFrameworkCore.AutoFixture@1.0.1

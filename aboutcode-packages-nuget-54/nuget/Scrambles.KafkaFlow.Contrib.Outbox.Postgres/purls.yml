@@ -1,0 +1,2 @@
+- pkg:nuget/Scrambles.KafkaFlow.Contrib.Outbox.Postgres@0.1.42
+- pkg:nuget/Scrambles.KafkaFlow.Contrib.Outbox.Postgres@0.1.43

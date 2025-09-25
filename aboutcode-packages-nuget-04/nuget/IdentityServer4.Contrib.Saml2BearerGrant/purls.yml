@@ -1,0 +1,2 @@
+- pkg:nuget/IdentityServer4.Contrib.Saml2BearerGrant@2.0.0
+- pkg:nuget/IdentityServer4.Contrib.Saml2BearerGrant@3.0.0

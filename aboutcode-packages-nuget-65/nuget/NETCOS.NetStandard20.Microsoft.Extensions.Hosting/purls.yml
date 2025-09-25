@@ -1,0 +1,4 @@
+- pkg:nuget/NETCOS.NetStandard20.Microsoft.Extensions.Hosting@1.0.0.1
+- pkg:nuget/NETCOS.NetStandard20.Microsoft.Extensions.Hosting@1.0.0.2
+- pkg:nuget/NETCOS.NetStandard20.Microsoft.Extensions.Hosting@1.0.0.3
+- pkg:nuget/NETCOS.NetStandard20.Microsoft.Extensions.Hosting@1.0.0.4

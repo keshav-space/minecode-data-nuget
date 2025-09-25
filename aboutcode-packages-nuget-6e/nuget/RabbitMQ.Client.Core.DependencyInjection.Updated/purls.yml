@@ -1,0 +1,2 @@
+- pkg:nuget/RabbitMQ.Client.Core.DependencyInjection.Updated@570.0.0-alpha
+- pkg:nuget/RabbitMQ.Client.Core.DependencyInjection.Updated@571.0.0-alpha

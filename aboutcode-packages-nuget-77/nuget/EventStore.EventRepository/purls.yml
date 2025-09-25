@@ -1,0 +1,2 @@
+- pkg:nuget/EventStore.EventRepository@0.1.1
+- pkg:nuget/EventStore.EventRepository@0.1.2

@@ -1,0 +1,3 @@
+- pkg:nuget/FoobarTest@1.0.0
+- pkg:nuget/FoobarTest@1.0.1
+- pkg:nuget/FoobarTest@1.0.1.1
