@@ -1,0 +1,4 @@
+- pkg:nuget/nu-pack-test@1.0.0
+- pkg:nuget/nu-pack-test@1.0.0-alpha
+- pkg:nuget/nu-pack-test@1.0.0-alpha1
+- pkg:nuget/nu-pack-test@1.0.0-beta

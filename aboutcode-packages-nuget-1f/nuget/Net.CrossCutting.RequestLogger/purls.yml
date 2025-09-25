@@ -1,0 +1,3 @@
+- pkg:nuget/Net.CrossCutting.RequestLogger@1.0.1
+- pkg:nuget/Net.CrossCutting.RequestLogger@1.0.3
+- pkg:nuget/Net.CrossCutting.RequestLogger@1.0.4

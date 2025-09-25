@@ -1,0 +1,3 @@
+- pkg:nuget/Beckhoff.TwinCAT.HMI.OpcUa.win-x86@12.700.0-beta
+- pkg:nuget/Beckhoff.TwinCAT.HMI.OpcUa.win-x86@12.702.3-beta
+- pkg:nuget/Beckhoff.TwinCAT.HMI.OpcUa.win-x86@12.706.0-beta

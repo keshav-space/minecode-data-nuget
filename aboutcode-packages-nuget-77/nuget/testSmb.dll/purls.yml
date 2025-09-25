@@ -1,0 +1,5 @@
+- pkg:nuget/testSmb.dll@2.0.0
+- pkg:nuget/testSmb.dll@3.0.0
+- pkg:nuget/testSmb.dll@4.0.0
+- pkg:nuget/testSmb.dll@5.0.0
+- pkg:nuget/testSmb.dll@6.0.0

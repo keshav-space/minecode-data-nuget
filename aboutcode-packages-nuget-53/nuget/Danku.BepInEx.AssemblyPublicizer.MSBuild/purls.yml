@@ -1,0 +1,4 @@
+- pkg:nuget/Danku.BepInEx.AssemblyPublicizer.MSBuild@0.4.3-virtual
+- pkg:nuget/Danku.BepInEx.AssemblyPublicizer.MSBuild@0.4.4-virtual
+- pkg:nuget/Danku.BepInEx.AssemblyPublicizer.MSBuild@0.4.5
+- pkg:nuget/Danku.BepInEx.AssemblyPublicizer.MSBuild@0.4.5-virtual

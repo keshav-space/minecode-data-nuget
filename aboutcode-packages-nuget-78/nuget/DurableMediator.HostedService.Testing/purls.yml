@@ -1,0 +1,7 @@
+- pkg:nuget/DurableMediator.HostedService.Testing@1.0.0
+- pkg:nuget/DurableMediator.HostedService.Testing@3.3.0
+- pkg:nuget/DurableMediator.HostedService.Testing@3.3.0-preview-1
+- pkg:nuget/DurableMediator.HostedService.Testing@3.4.0
+- pkg:nuget/DurableMediator.HostedService.Testing@3.5.0
+- pkg:nuget/DurableMediator.HostedService.Testing@3.5.1
+- pkg:nuget/DurableMediator.HostedService.Testing@3.5.2

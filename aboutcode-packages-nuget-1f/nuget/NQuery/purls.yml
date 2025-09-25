@@ -1,0 +1,4 @@
+- pkg:nuget/NQuery@0.9.4-beta
+- pkg:nuget/NQuery@0.9.4-delta
+- pkg:nuget/NQuery@0.9.4-gamma
+- pkg:nuget/NQuery@0.9.5-beta

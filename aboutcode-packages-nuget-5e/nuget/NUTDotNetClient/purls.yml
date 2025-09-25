@@ -1,0 +1,4 @@
+- pkg:nuget/NUTDotNetClient@0.1.1
+- pkg:nuget/NUTDotNetClient@0.1.3
+- pkg:nuget/NUTDotNetClient@0.1.4-alpha
+- pkg:nuget/NUTDotNetClient@0.2.0-alpha

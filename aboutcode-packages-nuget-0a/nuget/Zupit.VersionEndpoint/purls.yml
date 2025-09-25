@@ -1,0 +1,3 @@
+- pkg:nuget/Zupit.VersionEndpoint@0.0.1-alpha
+- pkg:nuget/Zupit.VersionEndpoint@0.0.2-alpha
+- pkg:nuget/Zupit.VersionEndpoint@1.0.0

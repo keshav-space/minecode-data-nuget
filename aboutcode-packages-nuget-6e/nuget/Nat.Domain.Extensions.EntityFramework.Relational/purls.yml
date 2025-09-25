@@ -1,0 +1,3 @@
+- pkg:nuget/Nat.Domain.Extensions.EntityFramework.Relational@1.0.0-alpha-20241021030947
+- pkg:nuget/Nat.Domain.Extensions.EntityFramework.Relational@1.0.0-alpha-20241021171124
+- pkg:nuget/Nat.Domain.Extensions.EntityFramework.Relational@1.0.0-alpha-20241208023759

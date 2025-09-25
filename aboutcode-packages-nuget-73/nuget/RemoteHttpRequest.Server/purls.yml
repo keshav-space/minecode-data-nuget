@@ -1,0 +1,3 @@
+- pkg:nuget/RemoteHttpRequest.Server@0.0.1
+- pkg:nuget/RemoteHttpRequest.Server@1.0.0
+- pkg:nuget/RemoteHttpRequest.Server@1.1.0

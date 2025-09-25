@@ -1,0 +1,2 @@
+- pkg:nuget/MassTransit.Filters.LoggingScope@1.0.0
+- pkg:nuget/MassTransit.Filters.LoggingScope@1.0.1

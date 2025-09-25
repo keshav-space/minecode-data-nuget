@@ -1,0 +1,2 @@
+- pkg:nuget/Rapid.EntityFrameworkCore.SqlServer@0.0.13
+- pkg:nuget/Rapid.EntityFrameworkCore.SqlServer@0.0.5.6

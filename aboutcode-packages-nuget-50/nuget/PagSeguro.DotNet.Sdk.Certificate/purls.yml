@@ -1,0 +1,4 @@
+- pkg:nuget/PagSeguro.DotNet.Sdk.Certificate@1.5.0
+- pkg:nuget/PagSeguro.DotNet.Sdk.Certificate@2.0.0
+- pkg:nuget/PagSeguro.DotNet.Sdk.Certificate@3.0.0
+- pkg:nuget/PagSeguro.DotNet.Sdk.Certificate@3.1.0

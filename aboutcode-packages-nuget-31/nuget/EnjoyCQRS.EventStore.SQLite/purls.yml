@@ -1,0 +1,2 @@
+- pkg:nuget/EnjoyCQRS.EventStore.SQLite@1.0.0
+- pkg:nuget/EnjoyCQRS.EventStore.SQLite@2.0.0

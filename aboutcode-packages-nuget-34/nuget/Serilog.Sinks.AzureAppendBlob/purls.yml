@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.AzureAppendBlob@0.1.0

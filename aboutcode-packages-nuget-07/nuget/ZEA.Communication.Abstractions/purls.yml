@@ -1,0 +1,6 @@
+- pkg:nuget/ZEA.Communication.Abstractions@1.0.10
+- pkg:nuget/ZEA.Communication.Abstractions@2.0.0
+- pkg:nuget/ZEA.Communication.Abstractions@2.0.0-preview.1
+- pkg:nuget/ZEA.Communication.Abstractions@2.2.0-preview.2
+- pkg:nuget/ZEA.Communication.Abstractions@2.2.0.10-preview
+- pkg:nuget/ZEA.Communication.Abstractions@2.2.0.8-preview

@@ -1,0 +1,4 @@
+- pkg:nuget/Woof.TestTerminal@6.0.0
+- pkg:nuget/Woof.TestTerminal@6.2.0
+- pkg:nuget/Woof.TestTerminal@7.0.0
+- pkg:nuget/Woof.TestTerminal@9.0.0
