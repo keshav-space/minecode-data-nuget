@@ -1,0 +1,6 @@
+- pkg:nuget/XuguClient@3.3.3
+- pkg:nuget/XuguClient@3.3.3-bionic
+- pkg:nuget/XuguClient@3.3.3-bionic.2
+- pkg:nuget/XuguClient@3.3.4-bionic
+- pkg:nuget/XuguClient@3.3.5-bionic
+- pkg:nuget/XuguClient@3.3.6-bionic

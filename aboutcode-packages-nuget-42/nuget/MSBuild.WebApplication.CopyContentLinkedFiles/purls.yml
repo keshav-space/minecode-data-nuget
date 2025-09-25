@@ -1,0 +1,2 @@
+- pkg:nuget/MSBuild.WebApplication.CopyContentLinkedFiles@1.0.0
+- pkg:nuget/MSBuild.WebApplication.CopyContentLinkedFiles@1.1.0-beta

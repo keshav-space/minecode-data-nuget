@@ -1,0 +1,2 @@
+- pkg:nuget/IdempotentAPI.DistributedAccessLock.MadelsonDistributedLock@2.0.0-rc-01
+- pkg:nuget/IdempotentAPI.DistributedAccessLock.MadelsonDistributedLock@2.1.0

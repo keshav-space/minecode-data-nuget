@@ -1,0 +1,3 @@
+- pkg:nuget/Clarius.AspNet.Identity.EntityFramework.Shared@1.0.0-beta
+- pkg:nuget/Clarius.AspNet.Identity.EntityFramework.Shared@1.0.1-beta
+- pkg:nuget/Clarius.AspNet.Identity.EntityFramework.Shared@1.0.2-beta

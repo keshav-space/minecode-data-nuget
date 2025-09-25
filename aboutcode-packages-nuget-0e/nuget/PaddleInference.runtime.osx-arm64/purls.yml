@@ -1,0 +1,3 @@
+- pkg:nuget/PaddleInference.runtime.osx-arm64@2.4.2
+- pkg:nuget/PaddleInference.runtime.osx-arm64@2.5.0
+- pkg:nuget/PaddleInference.runtime.osx-arm64@2.5.2

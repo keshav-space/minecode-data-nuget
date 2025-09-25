@@ -1,0 +1,2 @@
+- pkg:nuget/QuorumMind.Infrastructure.FeatureFlag.AWS.AppConfig@1.0.0
+- pkg:nuget/QuorumMind.Infrastructure.FeatureFlag.AWS.AppConfig@1.0.1

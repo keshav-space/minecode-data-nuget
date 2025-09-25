@@ -1,0 +1,7 @@
+- pkg:nuget/YT.SemanticKernel.Connectors.Google@1.7.1-alpha
+- pkg:nuget/YT.SemanticKernel.Connectors.Google@1.7.1-beta
+- pkg:nuget/YT.SemanticKernel.Connectors.Google@1.7.1-beta1.0
+- pkg:nuget/YT.SemanticKernel.Connectors.Google@1.7.1-beta1.1
+- pkg:nuget/YT.SemanticKernel.Connectors.Google@1.7.1-beta2
+- pkg:nuget/YT.SemanticKernel.Connectors.Google@1.7.1-beta2.2
+- pkg:nuget/YT.SemanticKernel.Connectors.Google@1.7.1-beta3.1

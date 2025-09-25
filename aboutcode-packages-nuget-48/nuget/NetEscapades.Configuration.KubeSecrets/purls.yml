@@ -1,0 +1,3 @@
+- pkg:nuget/NetEscapades.Configuration.KubeSecrets@0.1.0
+- pkg:nuget/NetEscapades.Configuration.KubeSecrets@0.1.1
+- pkg:nuget/NetEscapades.Configuration.KubeSecrets@0.2.0

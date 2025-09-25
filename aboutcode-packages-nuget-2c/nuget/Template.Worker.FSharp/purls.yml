@@ -1,0 +1,3 @@
+- pkg:nuget/Template.Worker.FSharp@1.0.0
+- pkg:nuget/Template.Worker.FSharp@1.0.0-rc
+- pkg:nuget/Template.Worker.FSharp@1.0.1

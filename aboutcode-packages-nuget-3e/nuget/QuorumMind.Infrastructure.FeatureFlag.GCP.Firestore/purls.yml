@@ -1,0 +1,2 @@
+- pkg:nuget/QuorumMind.Infrastructure.FeatureFlag.GCP.Firestore@1.0.0
+- pkg:nuget/QuorumMind.Infrastructure.FeatureFlag.GCP.Firestore@1.0.1

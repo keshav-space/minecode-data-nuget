@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.ServiceFabric.AutoScaleManager.Linux@1.0.0
+- pkg:nuget/Microsoft.ServiceFabric.AutoScaleManager.Linux@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/SourceGenerate@1.0.0
+- pkg:nuget/SourceGenerate@1.1.0
+- pkg:nuget/SourceGenerate@1.1.1
+- pkg:nuget/SourceGenerate@1.1.2

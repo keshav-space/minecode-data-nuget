@@ -1,0 +1,4 @@
+- pkg:nuget/libtorch-cuda-12.1-linux-x64-part2-fragment1@2.1.0.1
+- pkg:nuget/libtorch-cuda-12.1-linux-x64-part2-fragment1@2.2.1.1
+- pkg:nuget/libtorch-cuda-12.1-linux-x64-part2-fragment1@2.4.0
+- pkg:nuget/libtorch-cuda-12.1-linux-x64-part2-fragment1@2.5.1

@@ -1,0 +1,2 @@
+- pkg:nuget/SqlRepo.Testing.NSubstitute@2.0.7
+- pkg:nuget/SqlRepo.Testing.NSubstitute@3.0.0

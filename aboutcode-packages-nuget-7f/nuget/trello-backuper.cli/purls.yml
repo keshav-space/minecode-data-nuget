@@ -1,0 +1,5 @@
+- pkg:nuget/trello-backuper.cli@0.0.1-test
+- pkg:nuget/trello-backuper.cli@0.1.0
+- pkg:nuget/trello-backuper.cli@0.2.0
+- pkg:nuget/trello-backuper.cli@1.0.0
+- pkg:nuget/trello-backuper.cli@1.0.1

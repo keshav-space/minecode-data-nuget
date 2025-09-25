@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Sink.ConditionalCaching@0.0.1
+- pkg:nuget/Serilog.Sink.ConditionalCaching@0.1.0
