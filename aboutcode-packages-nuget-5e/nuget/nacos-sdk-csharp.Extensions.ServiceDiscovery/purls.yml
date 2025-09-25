@@ -1,0 +1,5 @@
+- pkg:nuget/nacos-sdk-csharp.Extensions.ServiceDiscovery@1.3.10
+- pkg:nuget/nacos-sdk-csharp.Extensions.ServiceDiscovery@1.3.10-alpha20241103154428
+- pkg:nuget/nacos-sdk-csharp.Extensions.ServiceDiscovery@1.3.9
+- pkg:nuget/nacos-sdk-csharp.Extensions.ServiceDiscovery@1.3.9-alpha20240920152555
+- pkg:nuget/nacos-sdk-csharp.Extensions.ServiceDiscovery@1.3.9-alpha20240925011213

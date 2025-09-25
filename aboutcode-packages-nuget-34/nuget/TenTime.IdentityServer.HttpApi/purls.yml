@@ -1,0 +1,5 @@
+- pkg:nuget/TenTime.IdentityServer.HttpApi@1.0.0
+- pkg:nuget/TenTime.IdentityServer.HttpApi@1.1.0
+- pkg:nuget/TenTime.IdentityServer.HttpApi@1.2.0
+- pkg:nuget/TenTime.IdentityServer.HttpApi@2.0.0
+- pkg:nuget/TenTime.IdentityServer.HttpApi@3.0.0

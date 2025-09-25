@@ -1,0 +1,3 @@
+- pkg:nuget/XO.Console.Cli.Instrumentation@4.0.6
+- pkg:nuget/XO.Console.Cli.Instrumentation@5.0.6
+- pkg:nuget/XO.Console.Cli.Instrumentation@5.1.5

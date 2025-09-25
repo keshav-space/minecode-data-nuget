@@ -1,0 +1,5 @@
+- pkg:nuget/TenTime.Identity.HttpApi.Client@1.0.0
+- pkg:nuget/TenTime.Identity.HttpApi.Client@1.1.0
+- pkg:nuget/TenTime.Identity.HttpApi.Client@1.1.1
+- pkg:nuget/TenTime.Identity.HttpApi.Client@2.0.0
+- pkg:nuget/TenTime.Identity.HttpApi.Client@3.0.0

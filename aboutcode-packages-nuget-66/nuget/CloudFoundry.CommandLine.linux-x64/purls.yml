@@ -1,0 +1,6 @@
+- pkg:nuget/CloudFoundry.CommandLine.linux-x64@6.44.1
+- pkg:nuget/CloudFoundry.CommandLine.linux-x64@6.46.0
+- pkg:nuget/CloudFoundry.CommandLine.linux-x64@7.4.0
+- pkg:nuget/CloudFoundry.CommandLine.linux-x64@7.4.1
+- pkg:nuget/CloudFoundry.CommandLine.linux-x64@8.3.0
+- pkg:nuget/CloudFoundry.CommandLine.linux-x64@8.3.1

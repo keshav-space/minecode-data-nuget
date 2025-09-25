@@ -1,0 +1,2 @@
+- pkg:nuget/vcpkg-export-boost-asio-x64-static@1.0.0
+- pkg:nuget/vcpkg-export-boost-asio-x64-static@1.0.1

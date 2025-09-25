@@ -1,0 +1,2 @@
+- pkg:nuget/EFCore.Sharding.MultiTenant@1.0.0
+- pkg:nuget/EFCore.Sharding.MultiTenant@1.0.1

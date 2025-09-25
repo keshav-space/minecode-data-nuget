@@ -1,0 +1,5 @@
+- pkg:nuget/Ongdat.Diagnostics.HealthChecks.MySql@1.0.0
+- pkg:nuget/Ongdat.Diagnostics.HealthChecks.MySql@1.0.0-a.1
+- pkg:nuget/Ongdat.Diagnostics.HealthChecks.MySql@1.0.0-a.2
+- pkg:nuget/Ongdat.Diagnostics.HealthChecks.MySql@1.0.0-a.3
+- pkg:nuget/Ongdat.Diagnostics.HealthChecks.MySql@1.0.0-rc.1

@@ -1,0 +1,6 @@
+- pkg:nuget/CloudFoundry.CommandLine.win-x32@6.44.1
+- pkg:nuget/CloudFoundry.CommandLine.win-x32@6.46.0
+- pkg:nuget/CloudFoundry.CommandLine.win-x32@7.4.0
+- pkg:nuget/CloudFoundry.CommandLine.win-x32@7.4.1
+- pkg:nuget/CloudFoundry.CommandLine.win-x32@8.3.0
+- pkg:nuget/CloudFoundry.CommandLine.win-x32@8.3.1

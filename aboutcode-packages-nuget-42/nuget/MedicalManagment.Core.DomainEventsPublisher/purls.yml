@@ -1,0 +1,3 @@
+- pkg:nuget/MedicalManagment.Core.DomainEventsPublisher@1.0.0
+- pkg:nuget/MedicalManagment.Core.DomainEventsPublisher@1.0.1
+- pkg:nuget/MedicalManagment.Core.DomainEventsPublisher@1.0.2
