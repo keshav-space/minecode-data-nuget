@@ -1,0 +1,10 @@
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.1.0-alpha
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.2.0-alpha
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.2.1-alpha
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.3.0-alpha
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.3.1-alpha
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.3.2-alpha
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.4.0-beta
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.4.1-beta
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.4.2-beta
+- pkg:nuget/Serialize.OpenXml.CodeGen@0.5.0-beta

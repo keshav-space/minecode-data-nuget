@@ -1,0 +1,3 @@
+- pkg:nuget/NativeCompressions.Zstandard.Runtime.ios-x64@0.2.1
+- pkg:nuget/NativeCompressions.Zstandard.Runtime.ios-x64@0.3.0
+- pkg:nuget/NativeCompressions.Zstandard.Runtime.ios-x64@0.4.0

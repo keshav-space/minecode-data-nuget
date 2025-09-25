@@ -1,0 +1,4 @@
+- pkg:nuget/OpenMacroBoard.SocketIO@4.0.0-preview
+- pkg:nuget/OpenMacroBoard.SocketIO@5.0.0
+- pkg:nuget/OpenMacroBoard.SocketIO@6.0.0
+- pkg:nuget/OpenMacroBoard.SocketIO@6.1.0

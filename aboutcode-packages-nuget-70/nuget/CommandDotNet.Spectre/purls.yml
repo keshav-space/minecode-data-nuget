@@ -1,0 +1,9 @@
+- pkg:nuget/CommandDotNet.Spectre@1.0.0
+- pkg:nuget/CommandDotNet.Spectre@1.0.1
+- pkg:nuget/CommandDotNet.Spectre@2.0.0
+- pkg:nuget/CommandDotNet.Spectre@2.0.1
+- pkg:nuget/CommandDotNet.Spectre@2.0.2
+- pkg:nuget/CommandDotNet.Spectre@3.0.1
+- pkg:nuget/CommandDotNet.Spectre@3.0.2
+- pkg:nuget/CommandDotNet.Spectre@4.0.0
+- pkg:nuget/CommandDotNet.Spectre@4.1.0

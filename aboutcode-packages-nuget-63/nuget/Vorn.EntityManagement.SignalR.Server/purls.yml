@@ -1,0 +1,13 @@
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@3.0.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@3.1.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@3.3.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@3.4.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@3.5.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@3.6.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@4.0.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@4.0.0-alpha
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@4.0.0-rc1
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@4.0.0-rc3
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@4.2.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@4.3.0
+- pkg:nuget/Vorn.EntityManagement.SignalR.Server@4.4.0

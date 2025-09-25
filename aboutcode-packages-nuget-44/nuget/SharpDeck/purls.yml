@@ -1,0 +1,17 @@
+- pkg:nuget/SharpDeck@1.0.0
+- pkg:nuget/SharpDeck@1.0.1
+- pkg:nuget/SharpDeck@1.0.2
+- pkg:nuget/SharpDeck@1.0.3
+- pkg:nuget/SharpDeck@2.0.0
+- pkg:nuget/SharpDeck@3.0.0
+- pkg:nuget/SharpDeck@4.0.1
+- pkg:nuget/SharpDeck@4.0.2
+- pkg:nuget/SharpDeck@5.0.0
+- pkg:nuget/SharpDeck@5.0.0-alpha1
+- pkg:nuget/SharpDeck@5.0.0-alpha2
+- pkg:nuget/SharpDeck@5.0.1
+- pkg:nuget/SharpDeck@5.0.2
+- pkg:nuget/SharpDeck@5.0.3
+- pkg:nuget/SharpDeck@6.0.0
+- pkg:nuget/SharpDeck@6.0.1
+- pkg:nuget/SharpDeck@7.0.0-beta1

@@ -1,0 +1,17 @@
+- pkg:nuget/BimLab.BDS2.SDK@2019.10.1
+- pkg:nuget/BimLab.BDS2.SDK@2019.10.2
+- pkg:nuget/BimLab.BDS2.SDK@2019.11.1-dev001
+- pkg:nuget/BimLab.BDS2.SDK@2019.11.1-dev002
+- pkg:nuget/BimLab.BDS2.SDK@2019.8.1-dev001
+- pkg:nuget/BimLab.BDS2.SDK@2019.8.1-dev002
+- pkg:nuget/BimLab.BDS2.SDK@2019.8.1-dev003
+- pkg:nuget/BimLab.BDS2.SDK@2019.9.1-dev001
+- pkg:nuget/BimLab.BDS2.SDK@2019.9.1-dev002
+- pkg:nuget/BimLab.BDS2.SDK@2019.9.1-dev003
+- pkg:nuget/BimLab.BDS2.SDK@2019.9.1-dev004
+- pkg:nuget/BimLab.BDS2.SDK@2020.3.1
+- pkg:nuget/BimLab.BDS2.SDK@2020.4.1
+- pkg:nuget/BimLab.BDS2.SDK@2020.8.1
+- pkg:nuget/BimLab.BDS2.SDK@2020.8.2
+- pkg:nuget/BimLab.BDS2.SDK@2020.8.3
+- pkg:nuget/BimLab.BDS2.SDK@2021.6.1

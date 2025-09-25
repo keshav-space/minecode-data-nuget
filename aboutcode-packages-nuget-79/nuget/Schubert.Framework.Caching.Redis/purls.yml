@@ -1,0 +1,5 @@
+- pkg:nuget/Schubert.Framework.Caching.Redis@1.5.827-beta6-2025
+- pkg:nuget/Schubert.Framework.Caching.Redis@3.0.0-beta4-03261525
+- pkg:nuget/Schubert.Framework.Caching.Redis@3.0.0-beta4-04281109
+- pkg:nuget/Schubert.Framework.Caching.Redis@3.1.0
+- pkg:nuget/Schubert.Framework.Caching.Redis@3.2.0

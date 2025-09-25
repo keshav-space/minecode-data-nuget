@@ -1,0 +1,15 @@
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.3.3
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.3.4
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.3.5
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.3.6
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.3.7
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.3.8
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.0
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.1
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.2
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.3
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.4
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.5
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.6
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.7
+- pkg:nuget/Hangfire.HttpJob.Agent.PostgreSqlConsole@1.4.8

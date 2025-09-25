@@ -1,0 +1,15 @@
+- pkg:nuget/SimplAP.SDK.Core@1.0.0
+- pkg:nuget/SimplAP.SDK.Core@1.0.1
+- pkg:nuget/SimplAP.SDK.Core@1.0.2
+- pkg:nuget/SimplAP.SDK.Core@1.0.6
+- pkg:nuget/SimplAP.SDK.Core@1.0.7
+- pkg:nuget/SimplAP.SDK.Core@1.0.8
+- pkg:nuget/SimplAP.SDK.Core@1.1.0
+- pkg:nuget/SimplAP.SDK.Core@1.1.1
+- pkg:nuget/SimplAP.SDK.Core@3.0.0
+- pkg:nuget/SimplAP.SDK.Core@3.1.0
+- pkg:nuget/SimplAP.SDK.Core@3.2.0
+- pkg:nuget/SimplAP.SDK.Core@3.3.0
+- pkg:nuget/SimplAP.SDK.Core@3.3.1
+- pkg:nuget/SimplAP.SDK.Core@3.3.2
+- pkg:nuget/SimplAP.SDK.Core@4.0.0

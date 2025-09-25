@@ -1,0 +1,4 @@
+- pkg:nuget/LangChain.NET@0.0.1-preview1
+- pkg:nuget/LangChain.NET@0.0.2
+- pkg:nuget/LangChain.NET@0.0.2-preview1
+- pkg:nuget/LangChain.NET@0.0.2-preview3

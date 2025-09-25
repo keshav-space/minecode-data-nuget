@@ -1,0 +1,8 @@
+- pkg:nuget/NetDevPack.Security.JwtExtensions@1.0.0
+- pkg:nuget/NetDevPack.Security.JwtExtensions@1.0.1
+- pkg:nuget/NetDevPack.Security.JwtExtensions@5.0.1
+- pkg:nuget/NetDevPack.Security.JwtExtensions@6.0.1
+- pkg:nuget/NetDevPack.Security.JwtExtensions@6.0.2
+- pkg:nuget/NetDevPack.Security.JwtExtensions@7.0.0
+- pkg:nuget/NetDevPack.Security.JwtExtensions@7.1.0
+- pkg:nuget/NetDevPack.Security.JwtExtensions@8.0.0

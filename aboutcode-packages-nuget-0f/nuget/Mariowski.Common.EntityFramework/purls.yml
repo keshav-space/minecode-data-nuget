@@ -1,0 +1,9 @@
+- pkg:nuget/Mariowski.Common.EntityFramework@1.0.0
+- pkg:nuget/Mariowski.Common.EntityFramework@3.0.0
+- pkg:nuget/Mariowski.Common.EntityFramework@3.1.0
+- pkg:nuget/Mariowski.Common.EntityFramework@3.2.0
+- pkg:nuget/Mariowski.Common.EntityFramework@3.2.1
+- pkg:nuget/Mariowski.Common.EntityFramework@3.2.2
+- pkg:nuget/Mariowski.Common.EntityFramework@3.3.0
+- pkg:nuget/Mariowski.Common.EntityFramework@5.0.0
+- pkg:nuget/Mariowski.Common.EntityFramework@5.0.1-dev1

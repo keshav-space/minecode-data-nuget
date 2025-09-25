@@ -1,0 +1,8 @@
+- pkg:nuget/UW.Shibboleth@1.0.0-beta01
+- pkg:nuget/UW.Shibboleth@3.0.0
+- pkg:nuget/UW.Shibboleth@3.1.0
+- pkg:nuget/UW.Shibboleth@5.0.0
+- pkg:nuget/UW.Shibboleth@6.0.0
+- pkg:nuget/UW.Shibboleth@6.0.1
+- pkg:nuget/UW.Shibboleth@6.0.2
+- pkg:nuget/UW.Shibboleth@6.0.3

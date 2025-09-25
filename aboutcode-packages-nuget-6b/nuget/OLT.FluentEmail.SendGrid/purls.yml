@@ -1,0 +1,3 @@
+- pkg:nuget/OLT.FluentEmail.SendGrid@6.0.0
+- pkg:nuget/OLT.FluentEmail.SendGrid@6.0.0-beta-0005
+- pkg:nuget/OLT.FluentEmail.SendGrid@6.0.0-beta-0007

@@ -1,0 +1,8 @@
+- pkg:nuget/BiometryService.Abstractions@0.4.0-dev.118
+- pkg:nuget/BiometryService.Abstractions@0.4.0-dev.120
+- pkg:nuget/BiometryService.Abstractions@0.4.0-dev.122
+- pkg:nuget/BiometryService.Abstractions@1.0.0
+- pkg:nuget/BiometryService.Abstractions@1.1.0
+- pkg:nuget/BiometryService.Abstractions@2.0.0
+- pkg:nuget/BiometryService.Abstractions@2.0.0-feature.net7.2
+- pkg:nuget/BiometryService.Abstractions@2.0.0-feature.net7.4

@@ -1,0 +1,6 @@
+- pkg:nuget/Cratis.Applications.EntityFrameworkCore@17.4.0
+- pkg:nuget/Cratis.Applications.EntityFrameworkCore@17.5.0
+- pkg:nuget/Cratis.Applications.EntityFrameworkCore@17.6.0
+- pkg:nuget/Cratis.Applications.EntityFrameworkCore@17.7.0
+- pkg:nuget/Cratis.Applications.EntityFrameworkCore@17.7.1
+- pkg:nuget/Cratis.Applications.EntityFrameworkCore@17.8.1

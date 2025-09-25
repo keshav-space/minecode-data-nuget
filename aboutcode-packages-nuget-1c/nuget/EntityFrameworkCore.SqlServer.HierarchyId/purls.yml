@@ -1,0 +1,14 @@
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@1.0.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@1.1.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@1.1.1
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@1.2.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@2.0.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@2.0.0-rc.1
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@2.0.0-rc.2
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@2.1.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@2.1.1
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@3.0.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@3.0.1
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@4.0.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@4.0.0-rc.1
+- pkg:nuget/EntityFrameworkCore.SqlServer.HierarchyId@4.0.0-rc.2

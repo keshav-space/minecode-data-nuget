@@ -1,0 +1,5 @@
+- pkg:nuget/BouncyCastle.NetCoreSdk@1.9.0
+- pkg:nuget/BouncyCastle.NetCoreSdk@1.9.0.1
+- pkg:nuget/BouncyCastle.NetCoreSdk@1.9.3.1
+- pkg:nuget/BouncyCastle.NetCoreSdk@1.9.6
+- pkg:nuget/BouncyCastle.NetCoreSdk@1.9.7

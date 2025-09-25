@@ -1,0 +1,9 @@
+- pkg:nuget/opc-tool@4.20.0
+- pkg:nuget/opc-tool@4.20.0-prerelease1
+- pkg:nuget/opc-tool@4.20.1
+- pkg:nuget/opc-tool@4.20.2
+- pkg:nuget/opc-tool@4.22.0
+- pkg:nuget/opc-tool@4.23.0
+- pkg:nuget/opc-tool@4.23.0-prerelease3
+- pkg:nuget/opc-tool@4.27.0-prerelease1
+- pkg:nuget/opc-tool@4.27.0-prerelease2

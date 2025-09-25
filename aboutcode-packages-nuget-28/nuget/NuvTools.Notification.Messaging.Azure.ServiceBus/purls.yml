@@ -1,0 +1,5 @@
+- pkg:nuget/NuvTools.Notification.Messaging.Azure.ServiceBus@9.3.0
+- pkg:nuget/NuvTools.Notification.Messaging.Azure.ServiceBus@9.3.1
+- pkg:nuget/NuvTools.Notification.Messaging.Azure.ServiceBus@9.4.0
+- pkg:nuget/NuvTools.Notification.Messaging.Azure.ServiceBus@9.4.1
+- pkg:nuget/NuvTools.Notification.Messaging.Azure.ServiceBus@9.4.2

@@ -1,0 +1,4 @@
+- pkg:nuget/FeatBit.EvaluationServer.Streaming@2.2.2-alpha
+- pkg:nuget/FeatBit.EvaluationServer.Streaming@2.3.0
+- pkg:nuget/FeatBit.EvaluationServer.Streaming@5.1.0
+- pkg:nuget/FeatBit.EvaluationServer.Streaming@5.1.0-preview

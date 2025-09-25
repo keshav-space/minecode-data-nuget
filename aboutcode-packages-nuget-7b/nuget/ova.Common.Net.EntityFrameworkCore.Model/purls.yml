@@ -1,0 +1,4 @@
+- pkg:nuget/ova.Common.Net.EntityFrameworkCore.Model@6.22.1
+- pkg:nuget/ova.Common.Net.EntityFrameworkCore.Model@6.23.1
+- pkg:nuget/ova.Common.Net.EntityFrameworkCore.Model@6.23.3
+- pkg:nuget/ova.Common.Net.EntityFrameworkCore.Model@6.23.4

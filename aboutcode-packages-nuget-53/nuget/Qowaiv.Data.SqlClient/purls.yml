@@ -1,0 +1,17 @@
+- pkg:nuget/Qowaiv.Data.SqlClient@3.1.0
+- pkg:nuget/Qowaiv.Data.SqlClient@3.1.1
+- pkg:nuget/Qowaiv.Data.SqlClient@3.1.2
+- pkg:nuget/Qowaiv.Data.SqlClient@3.2.0
+- pkg:nuget/Qowaiv.Data.SqlClient@3.2.1
+- pkg:nuget/Qowaiv.Data.SqlClient@3.2.5
+- pkg:nuget/Qowaiv.Data.SqlClient@4.0.0
+- pkg:nuget/Qowaiv.Data.SqlClient@4.1.0
+- pkg:nuget/Qowaiv.Data.SqlClient@5.0.0
+- pkg:nuget/Qowaiv.Data.SqlClient@5.1.0
+- pkg:nuget/Qowaiv.Data.SqlClient@6.0.0
+- pkg:nuget/Qowaiv.Data.SqlClient@6.1.0
+- pkg:nuget/Qowaiv.Data.SqlClient@6.3.0
+- pkg:nuget/Qowaiv.Data.SqlClient@6.4.0
+- pkg:nuget/Qowaiv.Data.SqlClient@7.0.0
+- pkg:nuget/Qowaiv.Data.SqlClient@7.0.1
+- pkg:nuget/Qowaiv.Data.SqlClient@7.2.0

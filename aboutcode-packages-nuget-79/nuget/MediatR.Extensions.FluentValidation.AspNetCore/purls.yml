@@ -1,0 +1,13 @@
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@1.0.0
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@1.0.1
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@1.0.2
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@1.0.3
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@1.1.0
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@1.1.1
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@1.2.0
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@2.0.0
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@3.0.0
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@4.0.0
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@5.0.0
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@5.1.0
+- pkg:nuget/MediatR.Extensions.FluentValidation.AspNetCore@6.0.0

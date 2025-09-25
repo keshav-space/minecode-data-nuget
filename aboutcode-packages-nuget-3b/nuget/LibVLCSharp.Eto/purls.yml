@@ -1,0 +1,15 @@
+- pkg:nuget/LibVLCSharp.Eto@3.6.6
+- pkg:nuget/LibVLCSharp.Eto@3.6.7
+- pkg:nuget/LibVLCSharp.Eto@3.6.8
+- pkg:nuget/LibVLCSharp.Eto@3.7.0
+- pkg:nuget/LibVLCSharp.Eto@3.8.0
+- pkg:nuget/LibVLCSharp.Eto@3.8.1
+- pkg:nuget/LibVLCSharp.Eto@3.8.2
+- pkg:nuget/LibVLCSharp.Eto@3.8.3
+- pkg:nuget/LibVLCSharp.Eto@3.8.4
+- pkg:nuget/LibVLCSharp.Eto@3.8.5
+- pkg:nuget/LibVLCSharp.Eto@3.9.0
+- pkg:nuget/LibVLCSharp.Eto@3.9.1
+- pkg:nuget/LibVLCSharp.Eto@3.9.2
+- pkg:nuget/LibVLCSharp.Eto@3.9.3
+- pkg:nuget/LibVLCSharp.Eto@3.9.4

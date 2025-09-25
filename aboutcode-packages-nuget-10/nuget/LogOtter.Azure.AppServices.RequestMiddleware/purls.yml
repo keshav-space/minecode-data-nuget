@@ -1,0 +1,15 @@
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@0.9.0
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@0.9.1
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@0.9.2
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@0.9.3
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@0.9.4
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@1.0.0
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@1.0.1
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@1.1.0
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@1.1.1
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@1.1.2
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@1.2.0
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@2.0.0
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@2.0.0-alpha1
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@2.0.1
+- pkg:nuget/LogOtter.Azure.AppServices.RequestMiddleware@2.0.2

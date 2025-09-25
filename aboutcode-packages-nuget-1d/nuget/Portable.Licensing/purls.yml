@@ -1,0 +1,6 @@
+- pkg:nuget/Portable.Licensing@0.0.0-devel
+- pkg:nuget/Portable.Licensing@0.0.1-devel
+- pkg:nuget/Portable.Licensing@0.0.2-devel
+- pkg:nuget/Portable.Licensing@0.0.3-devel
+- pkg:nuget/Portable.Licensing@1.0.0
+- pkg:nuget/Portable.Licensing@1.1.0

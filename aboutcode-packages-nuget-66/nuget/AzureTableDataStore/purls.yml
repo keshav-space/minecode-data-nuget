@@ -1,0 +1,8 @@
+- pkg:nuget/AzureTableDataStore@0.9.0
+- pkg:nuget/AzureTableDataStore@0.9.0-prerelease-20200719.8
+- pkg:nuget/AzureTableDataStore@0.9.0-prerelease-20200719.9
+- pkg:nuget/AzureTableDataStore@1.0.0
+- pkg:nuget/AzureTableDataStore@1.0.0-prerelease-20200725.1
+- pkg:nuget/AzureTableDataStore@1.0.1
+- pkg:nuget/AzureTableDataStore@1.0.2
+- pkg:nuget/AzureTableDataStore@1.0.3

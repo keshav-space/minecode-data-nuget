@@ -1,0 +1,4 @@
+- pkg:nuget/ML.Infrastructure.Persistence.EF@1.0.0
+- pkg:nuget/ML.Infrastructure.Persistence.EF@1.0.1
+- pkg:nuget/ML.Infrastructure.Persistence.EF@1.1.0
+- pkg:nuget/ML.Infrastructure.Persistence.EF@1.1.2

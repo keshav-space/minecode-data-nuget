@@ -1,0 +1,5 @@
+- pkg:nuget/Queil.FSharp.Hashing@0.42.0-alpha.3
+- pkg:nuget/Queil.FSharp.Hashing@0.43.0
+- pkg:nuget/Queil.FSharp.Hashing@0.44.0-rc.2
+- pkg:nuget/Queil.FSharp.Hashing@0.44.0-rc.3
+- pkg:nuget/Queil.FSharp.Hashing@0.44.0-rc.5

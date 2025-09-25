@@ -1,0 +1,9 @@
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@1.2.0
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@2.1.0
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@2.1.1
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@3.0.0
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@3.0.1
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@4.0.0
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@4.0.0-rc.1
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@4.0.0-rc.2
+- pkg:nuget/EntityFrameworkCore.InMemory.HierarchyId@8.0.0

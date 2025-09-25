@@ -1,0 +1,4 @@
+- pkg:nuget/UW.Authentication.AspNetCore.Shibboleth@1.0.0
+- pkg:nuget/UW.Authentication.AspNetCore.Shibboleth@1.0.0-beta01
+- pkg:nuget/UW.Authentication.AspNetCore.Shibboleth@1.0.0-beta02
+- pkg:nuget/UW.Authentication.AspNetCore.Shibboleth@1.1.0

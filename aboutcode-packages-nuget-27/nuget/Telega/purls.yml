@@ -1,0 +1,17 @@
+- pkg:nuget/Telega@0.1.0
+- pkg:nuget/Telega@0.2.0
+- pkg:nuget/Telega@0.2.1
+- pkg:nuget/Telega@0.3.0
+- pkg:nuget/Telega@0.3.1
+- pkg:nuget/Telega@0.3.2
+- pkg:nuget/Telega@0.3.2-preview001
+- pkg:nuget/Telega@0.3.2-preview002
+- pkg:nuget/Telega@0.3.3
+- pkg:nuget/Telega@0.4.0
+- pkg:nuget/Telega@0.5.0
+- pkg:nuget/Telega@0.5.0-preview001
+- pkg:nuget/Telega@0.5.0-preview002
+- pkg:nuget/Telega@0.5.0-preview003
+- pkg:nuget/Telega@0.5.0-preview004
+- pkg:nuget/Telega@0.5.0-preview005
+- pkg:nuget/Telega@0.5.1

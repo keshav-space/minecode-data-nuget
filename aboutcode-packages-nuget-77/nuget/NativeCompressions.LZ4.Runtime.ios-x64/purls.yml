@@ -1,0 +1,6 @@
+- pkg:nuget/NativeCompressions.LZ4.Runtime.ios-x64@0.1.4
+- pkg:nuget/NativeCompressions.LZ4.Runtime.ios-x64@0.1.5
+- pkg:nuget/NativeCompressions.LZ4.Runtime.ios-x64@0.2.0
+- pkg:nuget/NativeCompressions.LZ4.Runtime.ios-x64@0.2.1
+- pkg:nuget/NativeCompressions.LZ4.Runtime.ios-x64@0.3.0
+- pkg:nuget/NativeCompressions.LZ4.Runtime.ios-x64@0.4.0

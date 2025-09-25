@@ -1,0 +1,5 @@
+- pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL.Pomelo@9.3.0
+- pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL.Pomelo@9.3.1
+- pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL.Pomelo@9.3.2
+- pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL.Pomelo@9.3.3
+- pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL.Pomelo@9.3.4

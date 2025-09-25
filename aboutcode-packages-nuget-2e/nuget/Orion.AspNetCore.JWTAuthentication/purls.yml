@@ -1,0 +1,11 @@
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@1.0.0
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@2.0.0
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@2.0.1
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@2.0.2
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@2.0.3
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@3.0.0
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@3.0.1
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@3.0.2
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@3.1.0
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@3.1.1
+- pkg:nuget/Orion.AspNetCore.JWTAuthentication@3.1.2

@@ -1,0 +1,12 @@
+- pkg:nuget/MetaBrainz.Build.Sdk@1.0.0
+- pkg:nuget/MetaBrainz.Build.Sdk@1.0.0-pre
+- pkg:nuget/MetaBrainz.Build.Sdk@1.0.1
+- pkg:nuget/MetaBrainz.Build.Sdk@2.0.0
+- pkg:nuget/MetaBrainz.Build.Sdk@2.1.0
+- pkg:nuget/MetaBrainz.Build.Sdk@2.1.1
+- pkg:nuget/MetaBrainz.Build.Sdk@2.1.2
+- pkg:nuget/MetaBrainz.Build.Sdk@3.0.0%2Bgithub.15.1
+- pkg:nuget/MetaBrainz.Build.Sdk@3.1.0%2Bgithub.35.1
+- pkg:nuget/MetaBrainz.Build.Sdk@3.1.1%2Bgithub.47.1
+- pkg:nuget/MetaBrainz.Build.Sdk@3.1.2%2Bgithub.52.1
+- pkg:nuget/MetaBrainz.Build.Sdk@4.0.0%2Bgithub.65.1

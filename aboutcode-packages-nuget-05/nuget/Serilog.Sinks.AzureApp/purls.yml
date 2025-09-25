@@ -1,0 +1,11 @@
+- pkg:nuget/Serilog.Sinks.AzureApp@2.0.0
+- pkg:nuget/Serilog.Sinks.AzureApp@2.0.0.1
+- pkg:nuget/Serilog.Sinks.AzureApp@2.0.1
+- pkg:nuget/Serilog.Sinks.AzureApp@2.1.0
+- pkg:nuget/Serilog.Sinks.AzureApp@2.1.0.1
+- pkg:nuget/Serilog.Sinks.AzureApp@2.1.1
+- pkg:nuget/Serilog.Sinks.AzureApp@2.1.1.1
+- pkg:nuget/Serilog.Sinks.AzureApp@2.1.2
+- pkg:nuget/Serilog.Sinks.AzureApp@2.1.2-dev-0907
+- pkg:nuget/Serilog.Sinks.AzureApp@3.1.0
+- pkg:nuget/Serilog.Sinks.AzureApp@3.1.0-dev-0120

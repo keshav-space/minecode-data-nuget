@@ -1,0 +1,14 @@
+- pkg:nuget/Dafda.AspNetCore@0.0.10-producer-headers
+- pkg:nuget/Dafda.AspNetCore@0.0.11
+- pkg:nuget/Dafda.AspNetCore@0.0.12-beta.outgoing-message-registration-15
+- pkg:nuget/Dafda.AspNetCore@0.0.13
+- pkg:nuget/Dafda.AspNetCore@0.0.13-beta.1
+- pkg:nuget/Dafda.AspNetCore@0.0.13-prerelease.1
+- pkg:nuget/Dafda.AspNetCore@0.0.14
+- pkg:nuget/Dafda.AspNetCore@0.0.14-beta.1
+- pkg:nuget/Dafda.AspNetCore@0.0.14-beta.3
+- pkg:nuget/Dafda.AspNetCore@0.0.15-beta.system.text.json-2
+- pkg:nuget/Dafda.AspNetCore@0.0.15-system.text.json
+- pkg:nuget/Dafda.AspNetCore@0.0.8
+- pkg:nuget/Dafda.AspNetCore@0.0.8-producer
+- pkg:nuget/Dafda.AspNetCore@0.0.9-producer

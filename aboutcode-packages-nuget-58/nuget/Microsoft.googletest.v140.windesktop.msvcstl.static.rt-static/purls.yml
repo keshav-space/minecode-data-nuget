@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.0
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.1
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.1.1
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.1.2
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.1.3
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.1.4
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.1.5
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.1.6
+- pkg:nuget/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static@1.8.1.7

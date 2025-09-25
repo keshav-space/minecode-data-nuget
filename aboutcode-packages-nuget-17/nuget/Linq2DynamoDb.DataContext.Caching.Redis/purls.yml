@@ -1,0 +1,7 @@
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.Redis@2.0.0
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.Redis@2.0.1
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.Redis@2.1.0
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.Redis@2.2.0
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.Redis@2.2.1
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.Redis@2.2.2
+- pkg:nuget/Linq2DynamoDb.DataContext.Caching.Redis@2.4.0

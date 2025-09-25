@@ -1,0 +1,4 @@
+- pkg:nuget/Fabricdot.Common.Core@0.1.2-alpha
+- pkg:nuget/Fabricdot.Common.Core@0.1.3-alpha
+- pkg:nuget/Fabricdot.Common.Core@0.1.4-alpha
+- pkg:nuget/Fabricdot.Common.Core@0.2.0-alpha

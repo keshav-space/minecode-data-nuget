@@ -1,0 +1,5 @@
+- pkg:nuget/WMS.BasicData.Application.Contracts@0.0.1
+- pkg:nuget/WMS.BasicData.Application.Contracts@0.0.2
+- pkg:nuget/WMS.BasicData.Application.Contracts@24.1.24
+- pkg:nuget/WMS.BasicData.Application.Contracts@24.2.26
+- pkg:nuget/WMS.BasicData.Application.Contracts@24.3.18

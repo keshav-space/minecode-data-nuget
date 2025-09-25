@@ -1,0 +1,16 @@
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20230922.73406-eap01
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231007.121338-eap02
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231013.113827-eap03
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231019.194555-eap04
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231029.171547-eap05
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231104.234410-eap06
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231113.130711-eap07
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231119.234619-eap08
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231128.202127-rc01
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231204.3955
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231212.114935
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20231218.113050
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20240118.163159
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20240306.121914
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20240415.211951
+- pkg:nuget/JetBrains.Debugger.Tools.MsClrProcessEnumerator.Core@233.0.20240606.114412

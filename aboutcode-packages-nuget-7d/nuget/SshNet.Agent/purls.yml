@@ -1,0 +1,12 @@
+- pkg:nuget/SshNet.Agent@0.1.0-beta
+- pkg:nuget/SshNet.Agent@0.2.0-beta
+- pkg:nuget/SshNet.Agent@0.3.0-beta
+- pkg:nuget/SshNet.Agent@0.4.0-beta
+- pkg:nuget/SshNet.Agent@2024.0.0-beta
+- pkg:nuget/SshNet.Agent@2024.0.0.1-beta
+- pkg:nuget/SshNet.Agent@2024.0.0.2
+- pkg:nuget/SshNet.Agent@2024.0.0.2-beta
+- pkg:nuget/SshNet.Agent@2024.2.0
+- pkg:nuget/SshNet.Agent@2024.2.0.1
+- pkg:nuget/SshNet.Agent@2024.2.0.2-beta
+- pkg:nuget/SshNet.Agent@2024.2.0.3-beta

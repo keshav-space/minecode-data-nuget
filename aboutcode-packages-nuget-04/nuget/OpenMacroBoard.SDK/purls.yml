@@ -1,0 +1,13 @@
+- pkg:nuget/OpenMacroBoard.SDK@0.2.0
+- pkg:nuget/OpenMacroBoard.SDK@0.2.1
+- pkg:nuget/OpenMacroBoard.SDK@0.2.2
+- pkg:nuget/OpenMacroBoard.SDK@0.3.0
+- pkg:nuget/OpenMacroBoard.SDK@0.4.0
+- pkg:nuget/OpenMacroBoard.SDK@1.0.0
+- pkg:nuget/OpenMacroBoard.SDK@2.0.0
+- pkg:nuget/OpenMacroBoard.SDK@2.1.0
+- pkg:nuget/OpenMacroBoard.SDK@3.0.0
+- pkg:nuget/OpenMacroBoard.SDK@4.0.0-preview
+- pkg:nuget/OpenMacroBoard.SDK@5.0.0
+- pkg:nuget/OpenMacroBoard.SDK@6.0.0
+- pkg:nuget/OpenMacroBoard.SDK@6.1.0

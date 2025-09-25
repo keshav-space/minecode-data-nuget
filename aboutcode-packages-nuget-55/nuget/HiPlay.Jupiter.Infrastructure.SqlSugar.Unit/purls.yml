@@ -1,0 +1,11 @@
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@1.0.0
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@1.0.1
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@1.0.2
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@1.0.3
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@7.0.0-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@7.0.14-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@8.0.0-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@8.0.1-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@8.0.2-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@8.0.3-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.SqlSugar.Unit@8.1.0-preview

@@ -1,0 +1,4 @@
+- pkg:nuget/SnapshotTests@0.1.0-beta
+- pkg:nuget/SnapshotTests@0.2.0-beta
+- pkg:nuget/SnapshotTests@0.22.0-beta
+- pkg:nuget/SnapshotTests@1.0.0

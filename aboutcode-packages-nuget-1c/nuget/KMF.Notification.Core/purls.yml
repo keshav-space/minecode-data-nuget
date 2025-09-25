@@ -1,0 +1,3 @@
+- pkg:nuget/KMF.Notification.Core@1.0.0
+- pkg:nuget/KMF.Notification.Core@2.0.0
+- pkg:nuget/KMF.Notification.Core@2.0.1
