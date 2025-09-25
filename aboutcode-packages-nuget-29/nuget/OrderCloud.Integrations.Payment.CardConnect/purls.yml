@@ -1,0 +1,5 @@
+- pkg:nuget/OrderCloud.Integrations.Payment.CardConnect@1.0.1-alpha
+- pkg:nuget/OrderCloud.Integrations.Payment.CardConnect@1.0.2-alpha
+- pkg:nuget/OrderCloud.Integrations.Payment.CardConnect@2.3.0
+- pkg:nuget/OrderCloud.Integrations.Payment.CardConnect@2.4.0
+- pkg:nuget/OrderCloud.Integrations.Payment.CardConnect@2.7.0

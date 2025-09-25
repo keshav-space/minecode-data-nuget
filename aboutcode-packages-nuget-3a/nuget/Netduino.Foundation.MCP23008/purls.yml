@@ -1,0 +1,11 @@
+- pkg:nuget/Netduino.Foundation.MCP23008@0.10.681
+- pkg:nuget/Netduino.Foundation.MCP23008@0.11.685
+- pkg:nuget/Netduino.Foundation.MCP23008@0.12.699
+- pkg:nuget/Netduino.Foundation.MCP23008@0.13.702
+- pkg:nuget/Netduino.Foundation.MCP23008@0.14.706
+- pkg:nuget/Netduino.Foundation.MCP23008@0.15.711
+- pkg:nuget/Netduino.Foundation.MCP23008@0.16.713
+- pkg:nuget/Netduino.Foundation.MCP23008@0.17.717
+- pkg:nuget/Netduino.Foundation.MCP23008@0.18.743
+- pkg:nuget/Netduino.Foundation.MCP23008@0.6.665
+- pkg:nuget/Netduino.Foundation.MCP23008@0.9.672

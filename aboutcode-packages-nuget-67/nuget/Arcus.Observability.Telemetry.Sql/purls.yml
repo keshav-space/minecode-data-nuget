@@ -1,0 +1,17 @@
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@1.0.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.0.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.0.1
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.1.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.2.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.2.0-preview-1
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.2.1
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.2.2
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.3.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.3.0-preview-1
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.4.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.5.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.5.0-preview-1
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.6.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.7.0
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.7.0-preview-1
+- pkg:nuget/Arcus.Observability.Telemetry.Sql@2.7.0-preview-2

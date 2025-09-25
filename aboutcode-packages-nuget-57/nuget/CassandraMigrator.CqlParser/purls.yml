@@ -1,0 +1,16 @@
+- pkg:nuget/CassandraMigrator.CqlParser@1.0.0
+- pkg:nuget/CassandraMigrator.CqlParser@1.1.0
+- pkg:nuget/CassandraMigrator.CqlParser@1.2.0
+- pkg:nuget/CassandraMigrator.CqlParser@1.2.1
+- pkg:nuget/CassandraMigrator.CqlParser@1.2.2
+- pkg:nuget/CassandraMigrator.CqlParser@1.2.3
+- pkg:nuget/CassandraMigrator.CqlParser@2.0.0
+- pkg:nuget/CassandraMigrator.CqlParser@2.1.0
+- pkg:nuget/CassandraMigrator.CqlParser@2.2.0
+- pkg:nuget/CassandraMigrator.CqlParser@2.3.0
+- pkg:nuget/CassandraMigrator.CqlParser@2.4.0
+- pkg:nuget/CassandraMigrator.CqlParser@2.5.0
+- pkg:nuget/CassandraMigrator.CqlParser@2.6.0
+- pkg:nuget/CassandraMigrator.CqlParser@2.7.0
+- pkg:nuget/CassandraMigrator.CqlParser@2.8.0
+- pkg:nuget/CassandraMigrator.CqlParser@3.0.0

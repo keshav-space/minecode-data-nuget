@@ -1,0 +1,15 @@
+- pkg:nuget/OpenMeteo.dotnet@0.0.1
+- pkg:nuget/OpenMeteo.dotnet@0.0.2
+- pkg:nuget/OpenMeteo.dotnet@0.0.3
+- pkg:nuget/OpenMeteo.dotnet@0.1.42
+- pkg:nuget/OpenMeteo.dotnet@0.1.48
+- pkg:nuget/OpenMeteo.dotnet@0.1.49
+- pkg:nuget/OpenMeteo.dotnet@0.1.60
+- pkg:nuget/OpenMeteo.dotnet@0.1.79
+- pkg:nuget/OpenMeteo.dotnet@0.1.81
+- pkg:nuget/OpenMeteo.dotnet@0.1.82
+- pkg:nuget/OpenMeteo.dotnet@0.2.0
+- pkg:nuget/OpenMeteo.dotnet@0.2.3
+- pkg:nuget/OpenMeteo.dotnet@0.2.6
+- pkg:nuget/OpenMeteo.dotnet@0.2.8
+- pkg:nuget/OpenMeteo.dotnet@2.0.0

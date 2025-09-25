@@ -1,0 +1,14 @@
+- pkg:nuget/OpenRiaServices.ViewModel@4.3.0
+- pkg:nuget/OpenRiaServices.ViewModel@4.4.0
+- pkg:nuget/OpenRiaServices.ViewModel@4.4.0-Beta1
+- pkg:nuget/OpenRiaServices.ViewModel@4.4.0-Beta2
+- pkg:nuget/OpenRiaServices.ViewModel@4.4.0.3
+- pkg:nuget/OpenRiaServices.ViewModel@4.5.0
+- pkg:nuget/OpenRiaServices.ViewModel@4.5.0-rc1
+- pkg:nuget/OpenRiaServices.ViewModel@4.5.0-rc2
+- pkg:nuget/OpenRiaServices.ViewModel@4.5.1
+- pkg:nuget/OpenRiaServices.ViewModel@4.6.0
+- pkg:nuget/OpenRiaServices.ViewModel@4.6.0-preview0001
+- pkg:nuget/OpenRiaServices.ViewModel@4.6.1
+- pkg:nuget/OpenRiaServices.ViewModel@4.6.2
+- pkg:nuget/OpenRiaServices.ViewModel@4.6.3

@@ -1,0 +1,5 @@
+- pkg:nuget/WebSocketExtensions.Kestrel@2.10.0
+- pkg:nuget/WebSocketExtensions.Kestrel@2.11.0
+- pkg:nuget/WebSocketExtensions.Kestrel@2.13.0
+- pkg:nuget/WebSocketExtensions.Kestrel@2.6.0
+- pkg:nuget/WebSocketExtensions.Kestrel@2.9.0

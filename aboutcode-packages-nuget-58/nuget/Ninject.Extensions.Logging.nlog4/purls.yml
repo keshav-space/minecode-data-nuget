@@ -1,0 +1,4 @@
+- pkg:nuget/Ninject.Extensions.Logging.nlog4@3.2.2-unstable-001
+- pkg:nuget/Ninject.Extensions.Logging.nlog4@3.2.2-unstable-004
+- pkg:nuget/Ninject.Extensions.Logging.nlog4@3.2.3
+- pkg:nuget/Ninject.Extensions.Logging.nlog4@3.2.3-unstable-001

@@ -1,0 +1,5 @@
+- pkg:nuget/OrderCloud.Integrations.Payment.BlueSnap@1.0.1-alpha
+- pkg:nuget/OrderCloud.Integrations.Payment.BlueSnap@1.0.2-alpha
+- pkg:nuget/OrderCloud.Integrations.Payment.BlueSnap@2.3.0
+- pkg:nuget/OrderCloud.Integrations.Payment.BlueSnap@2.5.0
+- pkg:nuget/OrderCloud.Integrations.Payment.BlueSnap@2.6.0

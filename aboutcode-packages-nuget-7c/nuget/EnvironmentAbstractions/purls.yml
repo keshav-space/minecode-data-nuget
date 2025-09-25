@@ -1,0 +1,11 @@
+- pkg:nuget/EnvironmentAbstractions@1.0.0
+- pkg:nuget/EnvironmentAbstractions@1.0.0-preview
+- pkg:nuget/EnvironmentAbstractions@2.0.0-preview
+- pkg:nuget/EnvironmentAbstractions@2.0.2-preview
+- pkg:nuget/EnvironmentAbstractions@2.0.3-preview
+- pkg:nuget/EnvironmentAbstractions@2.0.4-preview
+- pkg:nuget/EnvironmentAbstractions@2.0.6
+- pkg:nuget/EnvironmentAbstractions@2.1.0
+- pkg:nuget/EnvironmentAbstractions@3.0.2
+- pkg:nuget/EnvironmentAbstractions@4.0.0
+- pkg:nuget/EnvironmentAbstractions@5.0.0

@@ -1,0 +1,11 @@
+- pkg:nuget/GenericRepository.Services.InMemory@1.0.0
+- pkg:nuget/GenericRepository.Services.InMemory@1.1.0
+- pkg:nuget/GenericRepository.Services.InMemory@2.0.0
+- pkg:nuget/GenericRepository.Services.InMemory@2.1.0
+- pkg:nuget/GenericRepository.Services.InMemory@2.2.0
+- pkg:nuget/GenericRepository.Services.InMemory@3.0.0
+- pkg:nuget/GenericRepository.Services.InMemory@3.1.0
+- pkg:nuget/GenericRepository.Services.InMemory@5.0.0
+- pkg:nuget/GenericRepository.Services.InMemory@6.0.0
+- pkg:nuget/GenericRepository.Services.InMemory@7.0.0
+- pkg:nuget/GenericRepository.Services.InMemory@8.0.0

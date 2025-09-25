@@ -1,0 +1,9 @@
+- pkg:nuget/Xunit.DependencyInjection.StaFact@10.0.0-preview.1
+- pkg:nuget/Xunit.DependencyInjection.StaFact@10.1.0
+- pkg:nuget/Xunit.DependencyInjection.StaFact@10.1.0-preview.1
+- pkg:nuget/Xunit.DependencyInjection.StaFact@10.2.0
+- pkg:nuget/Xunit.DependencyInjection.StaFact@11.0.0
+- pkg:nuget/Xunit.DependencyInjection.StaFact@8.0.0
+- pkg:nuget/Xunit.DependencyInjection.StaFact@8.1.0
+- pkg:nuget/Xunit.DependencyInjection.StaFact@9.0.0
+- pkg:nuget/Xunit.DependencyInjection.StaFact@9.1.0

@@ -1,0 +1,5 @@
+- pkg:nuget/AutoRest.ApiClients.Common@1.0.0
+- pkg:nuget/AutoRest.ApiClients.Common@1.0.1
+- pkg:nuget/AutoRest.ApiClients.Common@1.0.2
+- pkg:nuget/AutoRest.ApiClients.Common@1.0.3
+- pkg:nuget/AutoRest.ApiClients.Common@1.0.4

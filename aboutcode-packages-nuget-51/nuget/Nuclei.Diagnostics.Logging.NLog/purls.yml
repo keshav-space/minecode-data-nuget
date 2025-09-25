@@ -1,0 +1,2 @@
+- pkg:nuget/Nuclei.Diagnostics.Logging.NLog@0.1.0
+- pkg:nuget/Nuclei.Diagnostics.Logging.NLog@1.0.0

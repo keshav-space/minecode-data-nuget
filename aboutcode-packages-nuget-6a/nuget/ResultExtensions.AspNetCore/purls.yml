@@ -1,0 +1,8 @@
+- pkg:nuget/ResultExtensions.AspNetCore@1.0.0
+- pkg:nuget/ResultExtensions.AspNetCore@1.1.0
+- pkg:nuget/ResultExtensions.AspNetCore@1.2.0
+- pkg:nuget/ResultExtensions.AspNetCore@2.0.0
+- pkg:nuget/ResultExtensions.AspNetCore@2.1.0
+- pkg:nuget/ResultExtensions.AspNetCore@3.0.0
+- pkg:nuget/ResultExtensions.AspNetCore@3.1.0
+- pkg:nuget/ResultExtensions.AspNetCore@3.2.0

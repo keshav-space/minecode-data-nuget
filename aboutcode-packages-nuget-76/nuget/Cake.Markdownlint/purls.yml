@@ -1,0 +1,9 @@
+- pkg:nuget/Cake.Markdownlint@0.1.0
+- pkg:nuget/Cake.Markdownlint@0.1.0-beta0001
+- pkg:nuget/Cake.Markdownlint@0.2.0
+- pkg:nuget/Cake.Markdownlint@0.3.0
+- pkg:nuget/Cake.Markdownlint@1.0.0
+- pkg:nuget/Cake.Markdownlint@1.1.0
+- pkg:nuget/Cake.Markdownlint@2.0.0
+- pkg:nuget/Cake.Markdownlint@3.0.0
+- pkg:nuget/Cake.Markdownlint@4.0.0

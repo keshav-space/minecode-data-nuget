@@ -1,0 +1,10 @@
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@1.0.0-preview
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@2.0.0-preview
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@2.0.2-preview
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@2.0.3-preview
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@2.0.4-preview
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@2.0.6
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@2.1.0
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@3.0.2
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@4.0.0
+- pkg:nuget/EnvironmentAbstractions.TestHelpers@5.0.0

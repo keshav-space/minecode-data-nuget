@@ -1,0 +1,5 @@
+- pkg:nuget/Stocks.Data.Infrastructure@1.0.0
+- pkg:nuget/Stocks.Data.Infrastructure@1.1.1
+- pkg:nuget/Stocks.Data.Infrastructure@2.0.0
+- pkg:nuget/Stocks.Data.Infrastructure@2.0.1
+- pkg:nuget/Stocks.Data.Infrastructure@3.0.0

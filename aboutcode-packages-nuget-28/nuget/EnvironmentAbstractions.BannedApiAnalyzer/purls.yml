@@ -1,0 +1,11 @@
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@1.0.0
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@1.0.0-preview
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@2.0.0-preview
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@2.0.2-preview
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@2.0.3-preview
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@2.0.4-preview
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@2.0.6
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@2.1.0
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@3.0.2
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@4.0.0
+- pkg:nuget/EnvironmentAbstractions.BannedApiAnalyzer@5.0.0

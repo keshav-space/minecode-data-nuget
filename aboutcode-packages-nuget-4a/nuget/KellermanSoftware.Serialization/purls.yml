@@ -1,0 +1,4 @@
+- pkg:nuget/KellermanSoftware.Serialization@3.0.0
+- pkg:nuget/KellermanSoftware.Serialization@3.11.0
+- pkg:nuget/KellermanSoftware.Serialization@3.12.0
+- pkg:nuget/KellermanSoftware.Serialization@3.13.0

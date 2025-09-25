@@ -1,0 +1,10 @@
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.0.0
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.0.0-beta2
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.0.1
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.0.2
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.0.2-rc1
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.1.0
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.1.0-beta.1
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.2.0
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.2.1
+- pkg:nuget/Snowplow.Tracker.PlatformExtensions@1.2.2

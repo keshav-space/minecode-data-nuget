@@ -1,0 +1,8 @@
+- pkg:nuget/EntityFrameworkCore.DataProtection.SqlServer@3.1.16
+- pkg:nuget/EntityFrameworkCore.DataProtection.SqlServer@3.1.16.1
+- pkg:nuget/EntityFrameworkCore.DataProtection.SqlServer@3.1.16.2
+- pkg:nuget/EntityFrameworkCore.DataProtection.SqlServer@3.1.16.3
+- pkg:nuget/EntityFrameworkCore.DataProtection.SqlServer@3.1.16.4
+- pkg:nuget/EntityFrameworkCore.DataProtection.SqlServer@3.1.16.5
+- pkg:nuget/EntityFrameworkCore.DataProtection.SqlServer@3.1.16.6
+- pkg:nuget/EntityFrameworkCore.DataProtection.SqlServer@6.0.6

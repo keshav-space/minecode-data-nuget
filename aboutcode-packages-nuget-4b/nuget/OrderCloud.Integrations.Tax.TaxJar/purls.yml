@@ -1,0 +1,4 @@
+- pkg:nuget/OrderCloud.Integrations.Tax.TaxJar@1.0.1-alpha
+- pkg:nuget/OrderCloud.Integrations.Tax.TaxJar@1.0.2-alpha
+- pkg:nuget/OrderCloud.Integrations.Tax.TaxJar@2.3.0
+- pkg:nuget/OrderCloud.Integrations.Tax.TaxJar@2.4.0

@@ -1,0 +1,14 @@
+- pkg:nuget/dotnet-format@0.0.1
+- pkg:nuget/dotnet-format@0.0.2
+- pkg:nuget/dotnet-format@3.0.0
+- pkg:nuget/dotnet-format@3.0.0-beta4-19105-10
+- pkg:nuget/dotnet-format@3.0.2
+- pkg:nuget/dotnet-format@3.0.4
+- pkg:nuget/dotnet-format@3.1.37601
+- pkg:nuget/dotnet-format@3.2.107702
+- pkg:nuget/dotnet-format@3.3.111304
+- pkg:nuget/dotnet-format@4.0.130203
+- pkg:nuget/dotnet-format@4.1.131201
+- pkg:nuget/dotnet-format@5.0.211103
+- pkg:nuget/dotnet-format@5.1.225507
+- pkg:nuget/dotnet-format@5.1.250801

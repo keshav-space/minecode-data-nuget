@@ -1,0 +1,11 @@
+- pkg:nuget/ApiContracts@1.0.0
+- pkg:nuget/ApiContracts@2.1.12
+- pkg:nuget/ApiContracts@2.1.15
+- pkg:nuget/ApiContracts@2.1.22
+- pkg:nuget/ApiContracts@2.1.22-alpha.32
+- pkg:nuget/ApiContracts@2.1.22-alpha.36
+- pkg:nuget/ApiContracts@2.1.22-beta.36
+- pkg:nuget/ApiContracts@2.1.22-beta.38
+- pkg:nuget/ApiContracts@2.2.0
+- pkg:nuget/ApiContracts@2.2.1
+- pkg:nuget/ApiContracts@2.2.2

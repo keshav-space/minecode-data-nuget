@@ -1,0 +1,7 @@
+- pkg:nuget/MiniProfiler.Integrations.MySql@1.0.0
+- pkg:nuget/MiniProfiler.Integrations.MySql@1.0.1
+- pkg:nuget/MiniProfiler.Integrations.MySql@1.1.0
+- pkg:nuget/MiniProfiler.Integrations.MySql@2.0.0
+- pkg:nuget/MiniProfiler.Integrations.MySql@2.4.0
+- pkg:nuget/MiniProfiler.Integrations.MySql@2.5.0
+- pkg:nuget/MiniProfiler.Integrations.MySql@2.5.1

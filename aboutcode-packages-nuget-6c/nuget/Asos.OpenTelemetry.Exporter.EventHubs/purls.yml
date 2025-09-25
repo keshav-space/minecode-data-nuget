@@ -1,0 +1,11 @@
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@0.1.1
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@0.1.2
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@0.2.1
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@1.0.0
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@1.0.1
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@1.0.2
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@1.0.3
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@1.0.4
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@1.0.7-sampling0019
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@1.0.7-sampling0022
+- pkg:nuget/Asos.OpenTelemetry.Exporter.EventHubs@1.0.7-sampling0023

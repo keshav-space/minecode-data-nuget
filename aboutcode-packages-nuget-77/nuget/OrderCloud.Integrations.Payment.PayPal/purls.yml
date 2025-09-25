@@ -1,0 +1,8 @@
+- pkg:nuget/OrderCloud.Integrations.Payment.PayPal@1.0.1-alpha
+- pkg:nuget/OrderCloud.Integrations.Payment.PayPal@2.4.0
+- pkg:nuget/OrderCloud.Integrations.Payment.PayPal@2.4.1
+- pkg:nuget/OrderCloud.Integrations.Payment.PayPal@2.5.0
+- pkg:nuget/OrderCloud.Integrations.Payment.PayPal@2.6.0
+- pkg:nuget/OrderCloud.Integrations.Payment.PayPal@2.6.1
+- pkg:nuget/OrderCloud.Integrations.Payment.PayPal@2.7.0
+- pkg:nuget/OrderCloud.Integrations.Payment.PayPal@2.8.0

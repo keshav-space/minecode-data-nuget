@@ -1,0 +1,5 @@
+- pkg:nuget/NHibernate.PgBulkBatcher@1.0.10
+- pkg:nuget/NHibernate.PgBulkBatcher@1.0.11
+- pkg:nuget/NHibernate.PgBulkBatcher@1.0.12
+- pkg:nuget/NHibernate.PgBulkBatcher@1.0.8
+- pkg:nuget/NHibernate.PgBulkBatcher@1.0.9

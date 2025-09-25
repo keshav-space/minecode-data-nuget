@@ -1,0 +1,7 @@
+- pkg:nuget/grpc.native.csharp_ext@0.10.0
+- pkg:nuget/grpc.native.csharp_ext@0.10.1
+- pkg:nuget/grpc.native.csharp_ext@0.11.0
+- pkg:nuget/grpc.native.csharp_ext@0.11.1
+- pkg:nuget/grpc.native.csharp_ext@0.9.0
+- pkg:nuget/grpc.native.csharp_ext@0.9.0-releasetest
+- pkg:nuget/grpc.native.csharp_ext@0.9.1

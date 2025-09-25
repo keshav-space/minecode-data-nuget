@@ -1,0 +1,12 @@
+- pkg:nuget/HtmlTags.AspNetCore@4.0.2
+- pkg:nuget/HtmlTags.AspNetCore@4.1.0
+- pkg:nuget/HtmlTags.AspNetCore@4.2.0
+- pkg:nuget/HtmlTags.AspNetCore@5.0.0
+- pkg:nuget/HtmlTags.AspNetCore@5.0.1
+- pkg:nuget/HtmlTags.AspNetCore@5.0.2
+- pkg:nuget/HtmlTags.AspNetCore@6.0.0
+- pkg:nuget/HtmlTags.AspNetCore@7.0.0
+- pkg:nuget/HtmlTags.AspNetCore@7.0.1
+- pkg:nuget/HtmlTags.AspNetCore@7.0.2
+- pkg:nuget/HtmlTags.AspNetCore@7.0.3
+- pkg:nuget/HtmlTags.AspNetCore@7.0.4

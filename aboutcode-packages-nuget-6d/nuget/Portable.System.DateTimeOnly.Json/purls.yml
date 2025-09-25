@@ -1,0 +1,9 @@
+- pkg:nuget/Portable.System.DateTimeOnly.Json@8.0.0
+- pkg:nuget/Portable.System.DateTimeOnly.Json@8.0.0-alpha1
+- pkg:nuget/Portable.System.DateTimeOnly.Json@8.0.0-beta1
+- pkg:nuget/Portable.System.DateTimeOnly.Json@8.0.1
+- pkg:nuget/Portable.System.DateTimeOnly.Json@8.0.2
+- pkg:nuget/Portable.System.DateTimeOnly.Json@9.0.0
+- pkg:nuget/Portable.System.DateTimeOnly.Json@9.0.0-beta1
+- pkg:nuget/Portable.System.DateTimeOnly.Json@9.1.0
+- pkg:nuget/Portable.System.DateTimeOnly.Json@9.1.0-beta1

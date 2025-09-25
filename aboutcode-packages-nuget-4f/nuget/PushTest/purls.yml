@@ -1,0 +1,17 @@
+- pkg:nuget/PushTest@1.0.0.1
+- pkg:nuget/PushTest@1.0.0.2
+- pkg:nuget/PushTest@1.0.1
+- pkg:nuget/PushTest@1.0.10
+- pkg:nuget/PushTest@1.0.11
+- pkg:nuget/PushTest@1.0.2
+- pkg:nuget/PushTest@1.0.3
+- pkg:nuget/PushTest@1.0.4
+- pkg:nuget/PushTest@1.0.5
+- pkg:nuget/PushTest@1.0.6
+- pkg:nuget/PushTest@1.0.7
+- pkg:nuget/PushTest@1.0.8
+- pkg:nuget/PushTest@1.0.9
+- pkg:nuget/PushTest@2.0.0-beta1
+- pkg:nuget/PushTest@2.0.0-beta12
+- pkg:nuget/PushTest@2.0.0-beta2
+- pkg:nuget/PushTest@2.0.0-beta3

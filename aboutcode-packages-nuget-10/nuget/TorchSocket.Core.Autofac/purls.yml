@@ -1,0 +1,4 @@
+- pkg:nuget/TorchSocket.Core.Autofac@1.0.0
+- pkg:nuget/TorchSocket.Core.Autofac@1.0.1
+- pkg:nuget/TorchSocket.Core.Autofac@2.0.0
+- pkg:nuget/TorchSocket.Core.Autofac@2.0.1

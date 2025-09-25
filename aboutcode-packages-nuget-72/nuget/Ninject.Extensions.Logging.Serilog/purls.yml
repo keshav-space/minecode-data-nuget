@@ -1,0 +1,13 @@
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2-unstable-000
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2-unstable-001
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2-unstable-004
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2-unstable-008
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2-unstable-009
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2-unstable-010
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2-unstable-011
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.2-unstable-012
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.3
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.2.3-unstable-001
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.3.0
+- pkg:nuget/Ninject.Extensions.Logging.Serilog@3.3.0-beta1

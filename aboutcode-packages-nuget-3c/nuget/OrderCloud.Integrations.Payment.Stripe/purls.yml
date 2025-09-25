@@ -1,0 +1,7 @@
+- pkg:nuget/OrderCloud.Integrations.Payment.Stripe@1.0.1-alpha
+- pkg:nuget/OrderCloud.Integrations.Payment.Stripe@1.0.2-alpha
+- pkg:nuget/OrderCloud.Integrations.Payment.Stripe@1.0.3-alpha
+- pkg:nuget/OrderCloud.Integrations.Payment.Stripe@2.3.0
+- pkg:nuget/OrderCloud.Integrations.Payment.Stripe@2.4.0
+- pkg:nuget/OrderCloud.Integrations.Payment.Stripe@2.5.0
+- pkg:nuget/OrderCloud.Integrations.Payment.Stripe@2.6.0

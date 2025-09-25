@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.1.40-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.10.7-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.11.4-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.12.8-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.13.25-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.2.22-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.3.4-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.4.2-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.5.13-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.6.8-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.7.3-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.8.2-experimental
+- pkg:nuget/Microsoft.Windows.WDK.Win32Metadata@0.9.9-experimental

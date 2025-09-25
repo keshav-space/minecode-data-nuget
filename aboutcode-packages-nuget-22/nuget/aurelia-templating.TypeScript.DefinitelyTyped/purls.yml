@@ -1,0 +1,4 @@
+- pkg:nuget/aurelia-templating.TypeScript.DefinitelyTyped@0.10.0
+- pkg:nuget/aurelia-templating.TypeScript.DefinitelyTyped@0.12.0
+- pkg:nuget/aurelia-templating.TypeScript.DefinitelyTyped@1.0.0-beta
+- pkg:nuget/aurelia-templating.TypeScript.DefinitelyTyped@1.4.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Decos.Data.Auditing.EntityFrameworkCore@1.0.0-alpha
+- pkg:nuget/Decos.Data.Auditing.EntityFrameworkCore@1.1.0-alpha
+- pkg:nuget/Decos.Data.Auditing.EntityFrameworkCore@1.1.1-alpha
+- pkg:nuget/Decos.Data.Auditing.EntityFrameworkCore@1.3.1-alpha
+- pkg:nuget/Decos.Data.Auditing.EntityFrameworkCore@1.4.1-alpha
+- pkg:nuget/Decos.Data.Auditing.EntityFrameworkCore@2.0.0-alpha

@@ -1,0 +1,14 @@
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.12-alpha-g2516a23b2d
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.13-alpha-gdbfa57c2d2
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.15-alpha-g1e2a9d5fad
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.16-alpha-gf5ca5aac55
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.17-alpha-gc21710056d
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.18-alpha-gd2b81b85d6
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.20-alpha-g8eef70999a
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.21-alpha-g368605b74b
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.22-alpha-gc876f874bf
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.25-alpha-g9fc746a1ab
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.26-alpha-gf396a365b6
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.31-alpha-g2183302584
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.32-alpha-gafccc1ce98
+- pkg:nuget/EventSourced.Persistence.Abstractions@0.1.38-alpha-gdebcd3beca

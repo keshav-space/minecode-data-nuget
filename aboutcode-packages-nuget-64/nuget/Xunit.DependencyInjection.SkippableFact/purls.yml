@@ -1,0 +1,7 @@
+- pkg:nuget/Xunit.DependencyInjection.SkippableFact@7.5.0
+- pkg:nuget/Xunit.DependencyInjection.SkippableFact@7.5.1
+- pkg:nuget/Xunit.DependencyInjection.SkippableFact@7.6.0
+- pkg:nuget/Xunit.DependencyInjection.SkippableFact@8.0.0
+- pkg:nuget/Xunit.DependencyInjection.SkippableFact@8.0.1
+- pkg:nuget/Xunit.DependencyInjection.SkippableFact@8.1.0
+- pkg:nuget/Xunit.DependencyInjection.SkippableFact@9.0.0

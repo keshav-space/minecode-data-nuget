@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@3.0.0
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@4.0.0
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@5.0.0
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@5.0.0-preview.gb86cb1c4cb
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@5.1.0
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@5.1.1
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@6.0.0
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@6.0.0-rc1
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@6.0.0-rc1.1
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@6.0.0-rc1.2
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@6.1.0
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@6.1.0-preview1.2
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@6.1.0-rc1
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@6.1.1
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@7.0.0-preview1
+- pkg:nuget/Microsoft.Toolkit.Uwp.PlatformSpecificAnalyzer@7.0.0-preview2

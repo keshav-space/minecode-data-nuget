@@ -1,0 +1,4 @@
+- pkg:nuget/TorchSocket.NamedPipe@1.0.0
+- pkg:nuget/TorchSocket.NamedPipe@1.0.1
+- pkg:nuget/TorchSocket.NamedPipe@2.0.0
+- pkg:nuget/TorchSocket.NamedPipe@2.0.1

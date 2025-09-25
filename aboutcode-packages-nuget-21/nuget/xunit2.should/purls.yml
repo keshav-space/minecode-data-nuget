@@ -1,0 +1,13 @@
+- pkg:nuget/xunit2.should@0.5.4
+- pkg:nuget/xunit2.should@0.5.7
+- pkg:nuget/xunit2.should@0.5.8
+- pkg:nuget/xunit2.should@0.6.10
+- pkg:nuget/xunit2.should@0.6.11
+- pkg:nuget/xunit2.should@0.6.9
+- pkg:nuget/xunit2.should@1.0.12
+- pkg:nuget/xunit2.should@2.2.0
+- pkg:nuget/xunit2.should@2.2.0-beta-build15
+- pkg:nuget/xunit2.should@2.2.0-beta-build38
+- pkg:nuget/xunit2.should@2.2.0-beta-build39
+- pkg:nuget/xunit2.should@2.2.0-beta-build40
+- pkg:nuget/xunit2.should@2.2.0-beta-build41

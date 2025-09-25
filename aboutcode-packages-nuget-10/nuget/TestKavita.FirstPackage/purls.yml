@@ -1,0 +1,6 @@
+- pkg:nuget/TestKavita.FirstPackage@1.0.0
+- pkg:nuget/TestKavita.FirstPackage@2.0.0
+- pkg:nuget/TestKavita.FirstPackage@3.0.0
+- pkg:nuget/TestKavita.FirstPackage@4.0.0
+- pkg:nuget/TestKavita.FirstPackage@5.0.0
+- pkg:nuget/TestKavita.FirstPackage@6.0.0

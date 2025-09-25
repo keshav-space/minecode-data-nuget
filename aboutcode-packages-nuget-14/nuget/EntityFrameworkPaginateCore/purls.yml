@@ -1,0 +1,4 @@
+- pkg:nuget/EntityFrameworkPaginateCore@1.0.0
+- pkg:nuget/EntityFrameworkPaginateCore@1.1.0
+- pkg:nuget/EntityFrameworkPaginateCore@1.1.1
+- pkg:nuget/EntityFrameworkPaginateCore@2.1.0

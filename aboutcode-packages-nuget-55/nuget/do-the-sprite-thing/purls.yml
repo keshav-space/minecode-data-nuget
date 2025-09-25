@@ -1,0 +1,17 @@
+- pkg:nuget/do-the-sprite-thing@1.0.0
+- pkg:nuget/do-the-sprite-thing@1.0.1
+- pkg:nuget/do-the-sprite-thing@1.0.2
+- pkg:nuget/do-the-sprite-thing@1.0.3
+- pkg:nuget/do-the-sprite-thing@2.0.0
+- pkg:nuget/do-the-sprite-thing@2.0.1
+- pkg:nuget/do-the-sprite-thing@2.1.0
+- pkg:nuget/do-the-sprite-thing@2.1.1
+- pkg:nuget/do-the-sprite-thing@3.0.0
+- pkg:nuget/do-the-sprite-thing@4.0.0
+- pkg:nuget/do-the-sprite-thing@4.1.0
+- pkg:nuget/do-the-sprite-thing@4.1.1
+- pkg:nuget/do-the-sprite-thing@4.2.0
+- pkg:nuget/do-the-sprite-thing@5.0.0
+- pkg:nuget/do-the-sprite-thing@6.0.0-CI-20200403-151134
+- pkg:nuget/do-the-sprite-thing@6.1.0
+- pkg:nuget/do-the-sprite-thing@6.1.1

@@ -1,0 +1,10 @@
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.0
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.1-alpha
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.1-beta
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.1-charlie
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.1-delta
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.1-foxtrot
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.3-a
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.3-b
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.3-c
+- pkg:nuget/GovTime.Api.WebClientServices@1.0.3-d

@@ -1,0 +1,5 @@
+- pkg:nuget/StoveTech.Duende.IdentityServer.Contrib.RedisStore@5.2.4
+- pkg:nuget/StoveTech.Duende.IdentityServer.Contrib.RedisStore@6.0.4.2
+- pkg:nuget/StoveTech.Duende.IdentityServer.Contrib.RedisStore@6.1.7.1
+- pkg:nuget/StoveTech.Duende.IdentityServer.Contrib.RedisStore@6.2.3.1
+- pkg:nuget/StoveTech.Duende.IdentityServer.Contrib.RedisStore@6.3.5.1

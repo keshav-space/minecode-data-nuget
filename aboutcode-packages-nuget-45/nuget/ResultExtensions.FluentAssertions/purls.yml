@@ -1,0 +1,5 @@
+- pkg:nuget/ResultExtensions.FluentAssertions@2.0.0
+- pkg:nuget/ResultExtensions.FluentAssertions@2.1.0
+- pkg:nuget/ResultExtensions.FluentAssertions@3.0.0
+- pkg:nuget/ResultExtensions.FluentAssertions@3.1.0
+- pkg:nuget/ResultExtensions.FluentAssertions@3.2.0

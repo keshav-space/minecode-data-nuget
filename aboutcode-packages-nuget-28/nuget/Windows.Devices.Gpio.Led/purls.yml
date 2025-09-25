@@ -1,0 +1,2 @@
+- pkg:nuget/Windows.Devices.Gpio.Led@1.0.0
+- pkg:nuget/Windows.Devices.Gpio.Led@1.1.0

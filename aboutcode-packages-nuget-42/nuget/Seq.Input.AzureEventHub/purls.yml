@@ -1,0 +1,4 @@
+- pkg:nuget/Seq.Input.AzureEventHub@1.0.0
+- pkg:nuget/Seq.Input.AzureEventHub@1.0.0-pre-20190209-004
+- pkg:nuget/Seq.Input.AzureEventHub@1.0.1
+- pkg:nuget/Seq.Input.AzureEventHub@2.0.0

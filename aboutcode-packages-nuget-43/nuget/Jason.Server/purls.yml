@@ -1,0 +1,12 @@
+- pkg:nuget/Jason.Server@0.0.0.1
+- pkg:nuget/Jason.Server@0.0.1
+- pkg:nuget/Jason.Server@0.1.0
+- pkg:nuget/Jason.Server@0.1.0.1
+- pkg:nuget/Jason.Server@0.2.0-Beta
+- pkg:nuget/Jason.Server@0.2.1-Beta
+- pkg:nuget/Jason.Server@0.2.1-Beta1
+- pkg:nuget/Jason.Server@0.2.1.1
+- pkg:nuget/Jason.Server@0.2.1.1-Beta1
+- pkg:nuget/Jason.Server@0.2.1.1-Beta2
+- pkg:nuget/Jason.Server@0.4.0-RC
+- pkg:nuget/Jason.Server@0.4.0.1-Beta

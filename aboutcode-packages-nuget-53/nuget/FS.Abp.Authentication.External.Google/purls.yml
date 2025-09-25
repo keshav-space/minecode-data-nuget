@@ -1,0 +1,17 @@
+- pkg:nuget/FS.Abp.Authentication.External.Google@422.0.1
+- pkg:nuget/FS.Abp.Authentication.External.Google@422.0.2
+- pkg:nuget/FS.Abp.Authentication.External.Google@422.0.3
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.0.1
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.0.2
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.1.0
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.4.1
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.5.1
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.5.2
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.5.3
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.5.4
+- pkg:nuget/FS.Abp.Authentication.External.Google@430.5.5
+- pkg:nuget/FS.Abp.Authentication.External.Google@440.0.1
+- pkg:nuget/FS.Abp.Authentication.External.Google@442.0.1
+- pkg:nuget/FS.Abp.Authentication.External.Google@443.0.1
+- pkg:nuget/FS.Abp.Authentication.External.Google@443.0.2
+- pkg:nuget/FS.Abp.Authentication.External.Google@444.0.1

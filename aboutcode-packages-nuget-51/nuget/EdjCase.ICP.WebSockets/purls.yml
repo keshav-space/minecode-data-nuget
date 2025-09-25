@@ -1,0 +1,15 @@
+- pkg:nuget/EdjCase.ICP.WebSockets@5.0.0
+- pkg:nuget/EdjCase.ICP.WebSockets@5.0.0-pre.2
+- pkg:nuget/EdjCase.ICP.WebSockets@5.1.0
+- pkg:nuget/EdjCase.ICP.WebSockets@6.0.0
+- pkg:nuget/EdjCase.ICP.WebSockets@6.1.0
+- pkg:nuget/EdjCase.ICP.WebSockets@6.1.1
+- pkg:nuget/EdjCase.ICP.WebSockets@6.1.2
+- pkg:nuget/EdjCase.ICP.WebSockets@6.2.0
+- pkg:nuget/EdjCase.ICP.WebSockets@6.2.1
+- pkg:nuget/EdjCase.ICP.WebSockets@7.0.0
+- pkg:nuget/EdjCase.ICP.WebSockets@7.0.0-pre.1
+- pkg:nuget/EdjCase.ICP.WebSockets@7.0.0-rc.1
+- pkg:nuget/EdjCase.ICP.WebSockets@7.0.1
+- pkg:nuget/EdjCase.ICP.WebSockets@7.0.2
+- pkg:nuget/EdjCase.ICP.WebSockets@8.0.0-pre.1

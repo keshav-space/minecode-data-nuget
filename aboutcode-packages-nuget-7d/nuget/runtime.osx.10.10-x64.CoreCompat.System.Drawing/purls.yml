@@ -1,0 +1,17 @@
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@1.0.0
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@1.0.0-beta001
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@1.0.0-beta002
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@1.0.0-beta003
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@1.0.1-beta004
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@5.23.60
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@5.23.62
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@5.4.0-r6
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@5.4.0-r7
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@5.4.0-r8
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@5.6.20
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@5.8.61
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@5.8.64
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@6.0.5.12
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@6.0.5.128
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@6.0.5.22
+- pkg:nuget/runtime.osx.10.10-x64.CoreCompat.System.Drawing@6.0.5.34

@@ -1,0 +1,6 @@
+- pkg:nuget/NHibernate.Cache.DynamicCacheBuster@1.0.0
+- pkg:nuget/NHibernate.Cache.DynamicCacheBuster@1.0.0-alpha1
+- pkg:nuget/NHibernate.Cache.DynamicCacheBuster@1.1.0
+- pkg:nuget/NHibernate.Cache.DynamicCacheBuster@1.1.1
+- pkg:nuget/NHibernate.Cache.DynamicCacheBuster@2.0.0
+- pkg:nuget/NHibernate.Cache.DynamicCacheBuster@2.1.0

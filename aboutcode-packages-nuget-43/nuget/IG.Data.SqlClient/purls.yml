@@ -1,0 +1,5 @@
+- pkg:nuget/IG.Data.SqlClient@1.1.10-dev
+- pkg:nuget/IG.Data.SqlClient@1.1.11-dev
+- pkg:nuget/IG.Data.SqlClient@1.1.15
+- pkg:nuget/IG.Data.SqlClient@1.1.16
+- pkg:nuget/IG.Data.SqlClient@1.1.9-dev

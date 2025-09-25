@@ -1,0 +1,8 @@
+- pkg:nuget/Outcompute.Trader.Data.Sql@0.1.0-beta
+- pkg:nuget/Outcompute.Trader.Data.Sql@0.1.1-beta
+- pkg:nuget/Outcompute.Trader.Data.Sql@0.1.11
+- pkg:nuget/Outcompute.Trader.Data.Sql@0.1.2-beta
+- pkg:nuget/Outcompute.Trader.Data.Sql@0.1.3-alpha
+- pkg:nuget/Outcompute.Trader.Data.Sql@0.1.4
+- pkg:nuget/Outcompute.Trader.Data.Sql@0.1.5
+- pkg:nuget/Outcompute.Trader.Data.Sql@0.1.9

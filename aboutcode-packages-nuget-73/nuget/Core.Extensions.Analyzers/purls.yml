@@ -1,0 +1,11 @@
+- pkg:nuget/Core.Extensions.Analyzers@0.0.1-alpha1
+- pkg:nuget/Core.Extensions.Analyzers@0.0.1-alpha2
+- pkg:nuget/Core.Extensions.Analyzers@0.0.1-test1
+- pkg:nuget/Core.Extensions.Analyzers@0.6.0
+- pkg:nuget/Core.Extensions.Analyzers@0.6.0-alpha1
+- pkg:nuget/Core.Extensions.Analyzers@0.6.0-alpha2
+- pkg:nuget/Core.Extensions.Analyzers@0.6.0-alpha3
+- pkg:nuget/Core.Extensions.Analyzers@0.6.0-alpha5
+- pkg:nuget/Core.Extensions.Analyzers@0.6.0-alpha6
+- pkg:nuget/Core.Extensions.Analyzers@0.6.0-alpha7
+- pkg:nuget/Core.Extensions.Analyzers@0.7.0-alpha1

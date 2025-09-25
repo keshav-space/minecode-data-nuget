@@ -1,0 +1,4 @@
+- pkg:nuget/TorchSocket.WebApi.Swagger@1.0.0
+- pkg:nuget/TorchSocket.WebApi.Swagger@1.0.1
+- pkg:nuget/TorchSocket.WebApi.Swagger@2.0.0
+- pkg:nuget/TorchSocket.WebApi.Swagger@2.0.1

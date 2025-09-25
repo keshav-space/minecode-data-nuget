@@ -1,0 +1,6 @@
+- pkg:nuget/Genocs.Identities.Application@1.0.0
+- pkg:nuget/Genocs.Identities.Application@5.0.0-preview.3.1
+- pkg:nuget/Genocs.Identities.Application@5.0.0-preview.3.2
+- pkg:nuget/Genocs.Identities.Application@5.0.0-preview.4.0
+- pkg:nuget/Genocs.Identities.Application@5.0.0-preview.4.1
+- pkg:nuget/Genocs.Identities.Application@5.0.0-preview.5.0

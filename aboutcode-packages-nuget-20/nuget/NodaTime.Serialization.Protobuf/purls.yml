@@ -1,0 +1,6 @@
+- pkg:nuget/NodaTime.Serialization.Protobuf@1.0.0
+- pkg:nuget/NodaTime.Serialization.Protobuf@1.0.0-beta01
+- pkg:nuget/NodaTime.Serialization.Protobuf@1.1.0
+- pkg:nuget/NodaTime.Serialization.Protobuf@2.0.0
+- pkg:nuget/NodaTime.Serialization.Protobuf@2.0.1
+- pkg:nuget/NodaTime.Serialization.Protobuf@2.0.2

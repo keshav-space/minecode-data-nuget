@@ -1,0 +1,5 @@
+- pkg:nuget/ImgwApi@0.5.0-beta
+- pkg:nuget/ImgwApi@0.6.0-beta
+- pkg:nuget/ImgwApi@0.7.0-beta
+- pkg:nuget/ImgwApi@0.9.0
+- pkg:nuget/ImgwApi@1.0.0

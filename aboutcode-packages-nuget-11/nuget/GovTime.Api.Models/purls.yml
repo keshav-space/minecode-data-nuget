@@ -1,0 +1,9 @@
+- pkg:nuget/GovTime.Api.Models@1.0.0
+- pkg:nuget/GovTime.Api.Models@1.0.1-alpha
+- pkg:nuget/GovTime.Api.Models@1.0.1-beta
+- pkg:nuget/GovTime.Api.Models@1.0.2
+- pkg:nuget/GovTime.Api.Models@1.0.2-alpha
+- pkg:nuget/GovTime.Api.Models@1.0.2-beta
+- pkg:nuget/GovTime.Api.Models@1.0.3-a
+- pkg:nuget/GovTime.Api.Models@1.0.3-b
+- pkg:nuget/GovTime.Api.Models@1.0.3-d

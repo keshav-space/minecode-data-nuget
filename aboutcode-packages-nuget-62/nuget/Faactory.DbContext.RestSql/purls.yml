@@ -1,0 +1,9 @@
+- pkg:nuget/Faactory.DbContext.RestSql@0.5.2-preview-1
+- pkg:nuget/Faactory.DbContext.RestSql@0.5.2-preview-2
+- pkg:nuget/Faactory.DbContext.RestSql@0.6.0-preview-1
+- pkg:nuget/Faactory.DbContext.RestSql@0.6.0-preview-2
+- pkg:nuget/Faactory.DbContext.RestSql@0.6.1-preview-1
+- pkg:nuget/Faactory.DbContext.RestSql@0.7.0-preview-1
+- pkg:nuget/Faactory.DbContext.RestSql@0.7.1-preview-1
+- pkg:nuget/Faactory.DbContext.RestSql@0.7.2-preview-1
+- pkg:nuget/Faactory.DbContext.RestSql@0.8.1-preview-1

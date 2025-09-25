@@ -1,0 +1,7 @@
+- pkg:nuget/gmock@1.10.0
+- pkg:nuget/gmock@1.11.0
+- pkg:nuget/gmock@1.7.0
+- pkg:nuget/gmock@1.8.0
+- pkg:nuget/gmock@1.8.1
+- pkg:nuget/gmock@1.8.1.20190412-preview
+- pkg:nuget/gmock@1.8.1.20191003-preview

@@ -1,0 +1,13 @@
+- pkg:nuget/DeviceId.Windows.Wmi@6.0.0
+- pkg:nuget/DeviceId.Windows.Wmi@6.0.0-alpha.1627469720
+- pkg:nuget/DeviceId.Windows.Wmi@6.0.0-alpha.1627605816
+- pkg:nuget/DeviceId.Windows.Wmi@6.1.0
+- pkg:nuget/DeviceId.Windows.Wmi@6.2.0
+- pkg:nuget/DeviceId.Windows.Wmi@6.2.0-alpha.1639637967
+- pkg:nuget/DeviceId.Windows.Wmi@6.2.1
+- pkg:nuget/DeviceId.Windows.Wmi@6.4.0
+- pkg:nuget/DeviceId.Windows.Wmi@6.5.0
+- pkg:nuget/DeviceId.Windows.Wmi@6.5.1
+- pkg:nuget/DeviceId.Windows.Wmi@6.6.0
+- pkg:nuget/DeviceId.Windows.Wmi@6.8.0
+- pkg:nuget/DeviceId.Windows.Wmi@6.9.0

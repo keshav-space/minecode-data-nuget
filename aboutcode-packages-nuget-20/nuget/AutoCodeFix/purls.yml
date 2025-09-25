@@ -1,0 +1,6 @@
+- pkg:nuget/AutoCodeFix@0.2.0-beta%2B14-sha.6fd42f4-vsts.362
+- pkg:nuget/AutoCodeFix@2.10.0-alpha%2Bsha.5768250-azdo.555
+- pkg:nuget/AutoCodeFix@2.10.0-alpha.6%2Bsha.3cd1166-azdo.637
+- pkg:nuget/AutoCodeFix@2.10.0-beta%2Bsha.1b4f648-azdo.668
+- pkg:nuget/AutoCodeFix@3.0.0-beta%2Bsha.1b4f648-azdo.668
+- pkg:nuget/AutoCodeFix@3.1.0-beta%2Bsha.1b4f648-azdo.668

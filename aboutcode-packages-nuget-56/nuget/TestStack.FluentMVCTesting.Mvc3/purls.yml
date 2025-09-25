@@ -1,0 +1,14 @@
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.0.16
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.0.19
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.0.22
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.0.23
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.0.3
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.0.4
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.0.5
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.0.9
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@1.1.0
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@2.0.0
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@2.1.0
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@2.1.1
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@2.2.0
+- pkg:nuget/TestStack.FluentMVCTesting.Mvc3@3.0.0
