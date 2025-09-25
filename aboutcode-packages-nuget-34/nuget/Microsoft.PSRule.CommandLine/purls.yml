@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0151
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0153
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0198
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0203
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0267
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0275
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0315
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0340
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0342
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0351
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-B0390
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-b0416
+- pkg:nuget/Microsoft.PSRule.CommandLine@3.0.0-b0453

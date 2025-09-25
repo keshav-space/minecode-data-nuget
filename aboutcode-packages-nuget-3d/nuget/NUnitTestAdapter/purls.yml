@@ -1,0 +1,15 @@
+- pkg:nuget/NUnitTestAdapter@0.95.0
+- pkg:nuget/NUnitTestAdapter@0.95.1
+- pkg:nuget/NUnitTestAdapter@0.95.2
+- pkg:nuget/NUnitTestAdapter@0.96.0
+- pkg:nuget/NUnitTestAdapter@0.97.0
+- pkg:nuget/NUnitTestAdapter@1.0.0
+- pkg:nuget/NUnitTestAdapter@1.1.0
+- pkg:nuget/NUnitTestAdapter@1.2.0
+- pkg:nuget/NUnitTestAdapter@2.0.0
+- pkg:nuget/NUnitTestAdapter@2.0.0-beta
+- pkg:nuget/NUnitTestAdapter@2.1.0
+- pkg:nuget/NUnitTestAdapter@2.1.1
+- pkg:nuget/NUnitTestAdapter@2.2.0
+- pkg:nuget/NUnitTestAdapter@2.3.0
+- pkg:nuget/NUnitTestAdapter@2.3.0-beta01

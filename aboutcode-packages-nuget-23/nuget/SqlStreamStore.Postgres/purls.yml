@@ -1,0 +1,7 @@
+- pkg:nuget/SqlStreamStore.Postgres@1.2.0-beta.2%2Bbuild.279
+- pkg:nuget/SqlStreamStore.Postgres@1.2.0-beta.3%2Bbuild.362
+- pkg:nuget/SqlStreamStore.Postgres@1.2.0-beta.4%2Bbuild.476
+- pkg:nuget/SqlStreamStore.Postgres@1.2.0-beta.5%2Bbuild.495
+- pkg:nuget/SqlStreamStore.Postgres@1.2.0-beta.6%2Bbuild.639
+- pkg:nuget/SqlStreamStore.Postgres@1.2.0-beta.7%2Bbuild.0
+- pkg:nuget/SqlStreamStore.Postgres@1.2.0-beta.8%2Bbuild.0

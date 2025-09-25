@@ -1,0 +1,3 @@
+- pkg:nuget/NUnit.Engine.Tool@3.2.1
+- pkg:nuget/NUnit.Engine.Tool@3.4.0
+- pkg:nuget/NUnit.Engine.Tool@3.6.0

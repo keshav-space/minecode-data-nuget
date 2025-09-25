@@ -1,0 +1,5 @@
+- pkg:nuget/MySqlConnector.Logging.NLog@0.38.0
+- pkg:nuget/MySqlConnector.Logging.NLog@0.57.0
+- pkg:nuget/MySqlConnector.Logging.NLog@0.58.0
+- pkg:nuget/MySqlConnector.Logging.NLog@1.0.0
+- pkg:nuget/MySqlConnector.Logging.NLog@2.0.0

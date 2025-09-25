@@ -1,0 +1,5 @@
+- pkg:nuget/MySqlConnector.Logging.Serilog@0.38.0
+- pkg:nuget/MySqlConnector.Logging.Serilog@0.57.0
+- pkg:nuget/MySqlConnector.Logging.Serilog@0.58.0
+- pkg:nuget/MySqlConnector.Logging.Serilog@1.0.0
+- pkg:nuget/MySqlConnector.Logging.Serilog@2.0.0

@@ -1,0 +1,13 @@
+- pkg:nuget/Easyweb.Site.Infrastructure@6.5.0
+- pkg:nuget/Easyweb.Site.Infrastructure@6.5.0-rc2
+- pkg:nuget/Easyweb.Site.Infrastructure@6.5.1
+- pkg:nuget/Easyweb.Site.Infrastructure@7.0.0-rc10
+- pkg:nuget/Easyweb.Site.Infrastructure@7.0.0-rc11
+- pkg:nuget/Easyweb.Site.Infrastructure@7.0.0-rc12
+- pkg:nuget/Easyweb.Site.Infrastructure@7.0.0-rc4
+- pkg:nuget/Easyweb.Site.Infrastructure@7.0.0-rc6
+- pkg:nuget/Easyweb.Site.Infrastructure@7.0.0-rc8
+- pkg:nuget/Easyweb.Site.Infrastructure@7.0.0-rc9
+- pkg:nuget/Easyweb.Site.Infrastructure@7.4.3
+- pkg:nuget/Easyweb.Site.Infrastructure@7.4.4
+- pkg:nuget/Easyweb.Site.Infrastructure@8.6.1

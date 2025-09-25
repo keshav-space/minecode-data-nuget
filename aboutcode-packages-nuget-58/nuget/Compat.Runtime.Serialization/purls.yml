@@ -1,0 +1,11 @@
+- pkg:nuget/Compat.Runtime.Serialization@0.9.25-ga418a676f0
+- pkg:nuget/Compat.Runtime.Serialization@1.0.0
+- pkg:nuget/Compat.Runtime.Serialization@1.0.1
+- pkg:nuget/Compat.Runtime.Serialization@1.0.2
+- pkg:nuget/Compat.Runtime.Serialization@1.0.3
+- pkg:nuget/Compat.Runtime.Serialization@1.0.5-g6f6adc710c
+- pkg:nuget/Compat.Runtime.Serialization@1.0.5-g91d2cd5832
+- pkg:nuget/Compat.Runtime.Serialization@1.0.5-gde1d65e379
+- pkg:nuget/Compat.Runtime.Serialization@1.0.6-g1e3d1904c8
+- pkg:nuget/Compat.Runtime.Serialization@1.0.6-gfc175ecd32
+- pkg:nuget/Compat.Runtime.Serialization@1.0.7-gf637877626

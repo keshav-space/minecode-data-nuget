@@ -1,0 +1,17 @@
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0-rc1
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0-rc2
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0-rc3
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0-rc4
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0-rc5
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0-rc6
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0-rc7
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.0.0-rc8
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.1.0
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.2.0
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.3.0
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.4.0
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.5.0
+- pkg:nuget/PackSite.Library.Logging.Microsoft@1.5.1
+- pkg:nuget/PackSite.Library.Logging.Microsoft@2.0.0
+- pkg:nuget/PackSite.Library.Logging.Microsoft@3.0.0

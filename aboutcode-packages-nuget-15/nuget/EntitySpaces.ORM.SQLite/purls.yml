@@ -1,0 +1,5 @@
+- pkg:nuget/EntitySpaces.ORM.SQLite@2019.12.18
+- pkg:nuget/EntitySpaces.ORM.SQLite@2019.12.19.1
+- pkg:nuget/EntitySpaces.ORM.SQLite@2019.12.20
+- pkg:nuget/EntitySpaces.ORM.SQLite@2020.1.15
+- pkg:nuget/EntitySpaces.ORM.SQLite@2020.1.3

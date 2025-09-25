@@ -1,0 +1,5 @@
+- pkg:nuget/DanLienNuGetTestLibrary@1.0.0
+- pkg:nuget/DanLienNuGetTestLibrary@2.0.0
+- pkg:nuget/DanLienNuGetTestLibrary@2.0.1
+- pkg:nuget/DanLienNuGetTestLibrary@2.0.2
+- pkg:nuget/DanLienNuGetTestLibrary@2.0.3

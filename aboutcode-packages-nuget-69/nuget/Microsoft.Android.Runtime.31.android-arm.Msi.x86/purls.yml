@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Android.Runtime.31.android-arm.Msi.x86@31.0.101-preview.11.117
+- pkg:nuget/Microsoft.Android.Runtime.31.android-arm.Msi.x86@31.0.200-preview.12.2
+- pkg:nuget/Microsoft.Android.Runtime.31.android-arm.Msi.x86@32.0.448
+- pkg:nuget/Microsoft.Android.Runtime.31.android-arm.Msi.x86@32.0.465
+- pkg:nuget/Microsoft.Android.Runtime.31.android-arm.Msi.x86@32.0.476
+- pkg:nuget/Microsoft.Android.Runtime.31.android-arm.Msi.x86@32.0.485
+- pkg:nuget/Microsoft.Android.Runtime.31.android-arm.Msi.x86@32.0.509

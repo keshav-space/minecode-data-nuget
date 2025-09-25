@@ -1,0 +1,7 @@
+- pkg:nuget/OpenTracing.Contrib.LocalTracers@0.1.0
+- pkg:nuget/OpenTracing.Contrib.LocalTracers@0.3.0
+- pkg:nuget/OpenTracing.Contrib.LocalTracers@0.4.0
+- pkg:nuget/OpenTracing.Contrib.LocalTracers@1.0.0
+- pkg:nuget/OpenTracing.Contrib.LocalTracers@2.0.0
+- pkg:nuget/OpenTracing.Contrib.LocalTracers@2.1.0
+- pkg:nuget/OpenTracing.Contrib.LocalTracers@2.2.0

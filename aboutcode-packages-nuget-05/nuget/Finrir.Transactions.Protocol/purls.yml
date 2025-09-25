@@ -1,0 +1,14 @@
+- pkg:nuget/Finrir.Transactions.Protocol@1.0.0
+- pkg:nuget/Finrir.Transactions.Protocol@1.1.0
+- pkg:nuget/Finrir.Transactions.Protocol@1.2.0
+- pkg:nuget/Finrir.Transactions.Protocol@2023.112.108
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.112.1-hidden-flag-mobile
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.112.2
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.118.3-fix-transactions-hiding
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.118.4
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.125.5-mobile-utilize-expenses-include-hidden
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.125.6
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.126.10
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.126.7-transactions-delete-endpoint
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.126.8
+- pkg:nuget/Finrir.Transactions.Protocol@2024.109.126.9-transactions-iclient-update

@@ -1,0 +1,5 @@
+- pkg:nuget/Required@1.0.0
+- pkg:nuget/Required@1.0.0-alpha.7
+- pkg:nuget/Required@1.0.0-alpha.8
+- pkg:nuget/Required@1.0.0-beta.1
+- pkg:nuget/Required@1.0.0-beta.2%2B3

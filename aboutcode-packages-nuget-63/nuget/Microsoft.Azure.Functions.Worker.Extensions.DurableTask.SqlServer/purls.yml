@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.1.0
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.1.1
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.2.0
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.2.1
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.2.2
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.2.3
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.3.0
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.4.0
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.5.0
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.SqlServer@1.5.1

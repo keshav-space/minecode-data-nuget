@@ -1,0 +1,5 @@
+- pkg:nuget/CSESoftware.Repository.SqlBulkRepositoryCore@1.0.0
+- pkg:nuget/CSESoftware.Repository.SqlBulkRepositoryCore@1.0.0-beta1
+- pkg:nuget/CSESoftware.Repository.SqlBulkRepositoryCore@1.0.1
+- pkg:nuget/CSESoftware.Repository.SqlBulkRepositoryCore@2.0.0
+- pkg:nuget/CSESoftware.Repository.SqlBulkRepositoryCore@3.0.0

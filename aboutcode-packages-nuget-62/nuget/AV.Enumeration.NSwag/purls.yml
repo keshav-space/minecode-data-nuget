@@ -1,0 +1,4 @@
+- pkg:nuget/AV.Enumeration.NSwag@1.5.0
+- pkg:nuget/AV.Enumeration.NSwag@1.5.4
+- pkg:nuget/AV.Enumeration.NSwag@2.0.6-pre-release
+- pkg:nuget/AV.Enumeration.NSwag@2.0.8

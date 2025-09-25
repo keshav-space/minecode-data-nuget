@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.Azure.Search.Common@10.0.0
+- pkg:nuget/Microsoft.Azure.Search.Common@10.0.1
+- pkg:nuget/Microsoft.Azure.Search.Common@10.1.0
+- pkg:nuget/Microsoft.Azure.Search.Common@5.0.0
+- pkg:nuget/Microsoft.Azure.Search.Common@5.0.1
+- pkg:nuget/Microsoft.Azure.Search.Common@5.0.2
+- pkg:nuget/Microsoft.Azure.Search.Common@5.0.3
+- pkg:nuget/Microsoft.Azure.Search.Common@6.0.0-preview
+- pkg:nuget/Microsoft.Azure.Search.Common@7.0.0-preview
+- pkg:nuget/Microsoft.Azure.Search.Common@8.0.0-preview
+- pkg:nuget/Microsoft.Azure.Search.Common@9.0.0
+- pkg:nuget/Microsoft.Azure.Search.Common@9.0.1
+- pkg:nuget/Microsoft.Azure.Search.Common@9.1.0

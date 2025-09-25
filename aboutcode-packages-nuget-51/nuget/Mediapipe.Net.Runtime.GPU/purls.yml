@@ -1,0 +1,8 @@
+- pkg:nuget/Mediapipe.Net.Runtime.GPU@0.8.9
+- pkg:nuget/Mediapipe.Net.Runtime.GPU@0.8.9-rc1
+- pkg:nuget/Mediapipe.Net.Runtime.GPU@0.8.9.1
+- pkg:nuget/Mediapipe.Net.Runtime.GPU@0.9.1
+- pkg:nuget/Mediapipe.Net.Runtime.GPU@0.9.1-mpu-0.9.1-20230214
+- pkg:nuget/Mediapipe.Net.Runtime.GPU@0.9.1-mpu-0.9.1-20230214.1
+- pkg:nuget/Mediapipe.Net.Runtime.GPU@1.0.0-alpha1
+- pkg:nuget/Mediapipe.Net.Runtime.GPU@1.0.0-alpha2

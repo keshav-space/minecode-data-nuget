@@ -1,0 +1,13 @@
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.6.0
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.7.0
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.8.0
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.8.5
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.8.5-beta-407
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.8.6
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.9.0
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.9.1
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@2.9.2
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@3.0.0
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@3.0.0-alpha-455
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@3.0.0-alpha-470
+- pkg:nuget/DotNetToolkit.Repository.Extensions.Unity@3.0.1

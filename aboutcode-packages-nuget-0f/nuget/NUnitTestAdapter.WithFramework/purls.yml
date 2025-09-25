@@ -1,0 +1,10 @@
+- pkg:nuget/NUnitTestAdapter.WithFramework@0.95.0
+- pkg:nuget/NUnitTestAdapter.WithFramework@0.95.1
+- pkg:nuget/NUnitTestAdapter.WithFramework@0.95.2
+- pkg:nuget/NUnitTestAdapter.WithFramework@0.96.0
+- pkg:nuget/NUnitTestAdapter.WithFramework@0.97.0
+- pkg:nuget/NUnitTestAdapter.WithFramework@1.0.0
+- pkg:nuget/NUnitTestAdapter.WithFramework@1.1.0
+- pkg:nuget/NUnitTestAdapter.WithFramework@1.2.0
+- pkg:nuget/NUnitTestAdapter.WithFramework@2.0.0
+- pkg:nuget/NUnitTestAdapter.WithFramework@2.0.0-beta

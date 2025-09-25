@@ -1,0 +1,14 @@
+- pkg:nuget/CommunityToolkit.Datasync.Client@8.0.0
+- pkg:nuget/CommunityToolkit.Datasync.Client@8.0.1
+- pkg:nuget/CommunityToolkit.Datasync.Client@8.0.2
+- pkg:nuget/CommunityToolkit.Datasync.Client@8.0.3
+- pkg:nuget/CommunityToolkit.Datasync.Client@8.0.4
+- pkg:nuget/CommunityToolkit.Datasync.Client@8.0.5
+- pkg:nuget/CommunityToolkit.Datasync.Client@8.0.6
+- pkg:nuget/CommunityToolkit.Datasync.Client@8.0.7
+- pkg:nuget/CommunityToolkit.Datasync.Client@9.0.0
+- pkg:nuget/CommunityToolkit.Datasync.Client@9.0.1
+- pkg:nuget/CommunityToolkit.Datasync.Client@9.0.2
+- pkg:nuget/CommunityToolkit.Datasync.Client@9.0.3
+- pkg:nuget/CommunityToolkit.Datasync.Client@9.0.4
+- pkg:nuget/CommunityToolkit.Datasync.Client@9.0.5

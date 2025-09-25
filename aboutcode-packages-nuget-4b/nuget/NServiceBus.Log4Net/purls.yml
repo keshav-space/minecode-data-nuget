@@ -1,0 +1,16 @@
+- pkg:nuget/NServiceBus.Log4Net@0.2.0-beta0001
+- pkg:nuget/NServiceBus.Log4Net@1.0.0
+- pkg:nuget/NServiceBus.Log4Net@1.1.0-beta0001
+- pkg:nuget/NServiceBus.Log4Net@2.0.0
+- pkg:nuget/NServiceBus.Log4Net@2.0.0-beta0001
+- pkg:nuget/NServiceBus.Log4Net@2.0.0-rc0001
+- pkg:nuget/NServiceBus.Log4Net@2.0.1
+- pkg:nuget/NServiceBus.Log4Net@3.0.0
+- pkg:nuget/NServiceBus.Log4Net@3.0.0-beta0002
+- pkg:nuget/NServiceBus.Log4Net@3.0.0-beta0004
+- pkg:nuget/NServiceBus.Log4Net@3.0.0-beta0005
+- pkg:nuget/NServiceBus.Log4Net@3.0.0-rc0001
+- pkg:nuget/NServiceBus.Log4Net@3.1.0%2B0
+- pkg:nuget/NServiceBus.Log4Net@4.0.0
+- pkg:nuget/NServiceBus.Log4Net@4.0.0-beta.2
+- pkg:nuget/NServiceBus.Log4Net@4.0.0-rc.2

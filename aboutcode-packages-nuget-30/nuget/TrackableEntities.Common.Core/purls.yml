@@ -1,0 +1,15 @@
+- pkg:nuget/TrackableEntities.Common.Core@1.0.0
+- pkg:nuget/TrackableEntities.Common.Core@1.0.0-alpha
+- pkg:nuget/TrackableEntities.Common.Core@1.0.0-beta
+- pkg:nuget/TrackableEntities.Common.Core@1.0.0-rc
+- pkg:nuget/TrackableEntities.Common.Core@1.1.0
+- pkg:nuget/TrackableEntities.Common.Core@1.2.0
+- pkg:nuget/TrackableEntities.Common.Core@3.0.0
+- pkg:nuget/TrackableEntities.Common.Core@3.0.0-preview7
+- pkg:nuget/TrackableEntities.Common.Core@3.1.0
+- pkg:nuget/TrackableEntities.Common.Core@3.1.1
+- pkg:nuget/TrackableEntities.Common.Core@6.0.0
+- pkg:nuget/TrackableEntities.Common.Core@7.0.0
+- pkg:nuget/TrackableEntities.Common.Core@8.0.0
+- pkg:nuget/TrackableEntities.Common.Core@9.0.0
+- pkg:nuget/TrackableEntities.Common.Core@9.0.1

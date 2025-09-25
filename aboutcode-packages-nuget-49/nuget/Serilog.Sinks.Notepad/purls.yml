@@ -1,0 +1,8 @@
+- pkg:nuget/Serilog.Sinks.Notepad@0.0.1-alpha
+- pkg:nuget/Serilog.Sinks.Notepad@1.0.0
+- pkg:nuget/Serilog.Sinks.Notepad@1.0.0-beta
+- pkg:nuget/Serilog.Sinks.Notepad@1.1.0
+- pkg:nuget/Serilog.Sinks.Notepad@1.1.1
+- pkg:nuget/Serilog.Sinks.Notepad@2.0.0
+- pkg:nuget/Serilog.Sinks.Notepad@2.1.0
+- pkg:nuget/Serilog.Sinks.Notepad@3.0.0

@@ -1,0 +1,7 @@
+- pkg:nuget/Bellatrix.SpecFlow.LoadTesting.MSTest@1.8.10
+- pkg:nuget/Bellatrix.SpecFlow.LoadTesting.MSTest@1.8.7
+- pkg:nuget/Bellatrix.SpecFlow.LoadTesting.MSTest@1.8.8
+- pkg:nuget/Bellatrix.SpecFlow.LoadTesting.MSTest@1.8.9
+- pkg:nuget/Bellatrix.SpecFlow.LoadTesting.MSTest@1.9.5
+- pkg:nuget/Bellatrix.SpecFlow.LoadTesting.MSTest@1.9.6
+- pkg:nuget/Bellatrix.SpecFlow.LoadTesting.MSTest@1.9.7

@@ -1,0 +1,4 @@
+- pkg:nuget/Kirei.Repositories.EntityFrameworkCore@2.0.0
+- pkg:nuget/Kirei.Repositories.EntityFrameworkCore@2.1.0
+- pkg:nuget/Kirei.Repositories.EntityFrameworkCore@2.2.0
+- pkg:nuget/Kirei.Repositories.EntityFrameworkCore@8.0.0

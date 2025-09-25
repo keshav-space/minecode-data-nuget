@@ -1,0 +1,6 @@
+- pkg:nuget/DocuWare.Platform.ServerClient@12.2.0-beta
+- pkg:nuget/DocuWare.Platform.ServerClient@12.2.1
+- pkg:nuget/DocuWare.Platform.ServerClient@13.12.1
+- pkg:nuget/DocuWare.Platform.ServerClient@13.21.2
+- pkg:nuget/DocuWare.Platform.ServerClient@14.0.0
+- pkg:nuget/DocuWare.Platform.ServerClient@14.11.1

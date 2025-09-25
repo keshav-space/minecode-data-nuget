@@ -1,0 +1,16 @@
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@1.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@1.0.1-beta
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@1.0.2
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@1.0.2.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@2.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@2.0.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@2.0.2.3-beta
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@2.1.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@3.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@3.1.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@3.2.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@5.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@5.0.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@5.0.1-preview.1.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@5.0.1.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute@5.0.1.2

@@ -1,0 +1,11 @@
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.2.0
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.2.1
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.3.0
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.3.1
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.4.0
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.4.1
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.4.2
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.5.0
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.6.0
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.7.0
+- pkg:nuget/Firepuma.EventMediation.IntegrationEvents.CommandExecution@0.8.0

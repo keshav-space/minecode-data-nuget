@@ -1,0 +1,5 @@
+- pkg:nuget/Vendr.PaymentProviders.Mollie@1.0.0
+- pkg:nuget/Vendr.PaymentProviders.Mollie@1.0.1
+- pkg:nuget/Vendr.PaymentProviders.Mollie@2.0.0
+- pkg:nuget/Vendr.PaymentProviders.Mollie@2.0.1
+- pkg:nuget/Vendr.PaymentProviders.Mollie@2.0.2

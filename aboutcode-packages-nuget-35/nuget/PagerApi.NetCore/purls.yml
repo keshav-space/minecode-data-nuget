@@ -1,0 +1,5 @@
+- pkg:nuget/PagerApi.NetCore@1.0.0
+- pkg:nuget/PagerApi.NetCore@1.1.0-preview
+- pkg:nuget/PagerApi.NetCore@1.1.1-preview
+- pkg:nuget/PagerApi.NetCore@1.1.2-preview
+- pkg:nuget/PagerApi.NetCore@1.1.3-preview

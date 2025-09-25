@@ -1,0 +1,6 @@
+- pkg:nuget/I18Next.Net.AspNetCore@0.5.1
+- pkg:nuget/I18Next.Net.AspNetCore@0.6.0
+- pkg:nuget/I18Next.Net.AspNetCore@0.6.1
+- pkg:nuget/I18Next.Net.AspNetCore@0.7.0
+- pkg:nuget/I18Next.Net.AspNetCore@0.7.1
+- pkg:nuget/I18Next.Net.AspNetCore@1.0.0

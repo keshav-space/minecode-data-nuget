@@ -1,0 +1,8 @@
+- pkg:nuget/HttpClient.Compression@1.0.0-beta
+- pkg:nuget/HttpClient.Compression@1.0.0-beta2
+- pkg:nuget/HttpClient.Compression@1.0.0-beta3
+- pkg:nuget/HttpClient.Compression@1.0.0-beta4
+- pkg:nuget/HttpClient.Compression@1.0.0-rc1
+- pkg:nuget/HttpClient.Compression@1.0.3-rc1
+- pkg:nuget/HttpClient.Compression@1.0.3-rc2
+- pkg:nuget/HttpClient.Compression@1.1.0

@@ -1,0 +1,11 @@
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@1.0.0.1-beta
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@1.0.0.2
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@3.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@3.1.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@3.2.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@3.2.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@5.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@5.0.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@5.0.1-preview.1.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@5.0.1.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.IndexAttribute.SqlServer@5.0.1.2

@@ -1,0 +1,5 @@
+- pkg:nuget/Mihir.AspNetCore.Authentication.Basic@1.0.0
+- pkg:nuget/Mihir.AspNetCore.Authentication.Basic@1.0.1
+- pkg:nuget/Mihir.AspNetCore.Authentication.Basic@1.0.2
+- pkg:nuget/Mihir.AspNetCore.Authentication.Basic@2.0.0
+- pkg:nuget/Mihir.AspNetCore.Authentication.Basic@2.0.1

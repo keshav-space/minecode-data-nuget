@@ -1,0 +1,4 @@
+- pkg:nuget/VersionedRestApi@1.0.0.1
+- pkg:nuget/VersionedRestApi@1.0.0.1-beta
+- pkg:nuget/VersionedRestApi@1.0.0.2
+- pkg:nuget/VersionedRestApi@1.0.0.3

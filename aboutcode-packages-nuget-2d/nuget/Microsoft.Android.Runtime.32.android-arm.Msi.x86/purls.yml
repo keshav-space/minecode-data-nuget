@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@31.0.101-preview.11.117
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@31.0.200-preview.12.2
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@31.0.200-preview.13.41
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@31.0.200-preview.14.106
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.300-rc.1.4
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.300-rc.2.27
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.300-rc.3.45
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.301
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.415
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.424
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.440
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.448
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.465
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.476
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.485
+- pkg:nuget/Microsoft.Android.Runtime.32.android-arm.Msi.x86@32.0.509

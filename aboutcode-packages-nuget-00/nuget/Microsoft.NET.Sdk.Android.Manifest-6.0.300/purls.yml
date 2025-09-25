@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.NET.Sdk.Android.Manifest-6.0.300@32.0.300-rc.1.4%2Bsha.5ba8c31
+- pkg:nuget/Microsoft.NET.Sdk.Android.Manifest-6.0.300@32.0.300-rc.2.27%2Bsha.900e0bc
+- pkg:nuget/Microsoft.NET.Sdk.Android.Manifest-6.0.300@32.0.300-rc.3.45%2Bsha.7548ad8
+- pkg:nuget/Microsoft.NET.Sdk.Android.Manifest-6.0.300@32.0.301%2Bsha.4c460a8
+- pkg:nuget/Microsoft.NET.Sdk.Android.Manifest-6.0.300@32.0.415%2Bsha.052bfb6
+- pkg:nuget/Microsoft.NET.Sdk.Android.Manifest-6.0.300@32.0.424%2Bsha.44fe33b
+- pkg:nuget/Microsoft.NET.Sdk.Android.Manifest-6.0.300@32.0.440%2Bsha.c75220e

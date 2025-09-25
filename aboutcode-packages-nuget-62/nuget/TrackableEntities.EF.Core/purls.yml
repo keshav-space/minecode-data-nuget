@@ -1,0 +1,17 @@
+- pkg:nuget/TrackableEntities.EF.Core@1.0.0
+- pkg:nuget/TrackableEntities.EF.Core@1.0.0-alpha
+- pkg:nuget/TrackableEntities.EF.Core@1.0.0-beta
+- pkg:nuget/TrackableEntities.EF.Core@1.0.0-rc
+- pkg:nuget/TrackableEntities.EF.Core@1.1.0
+- pkg:nuget/TrackableEntities.EF.Core@1.2.0
+- pkg:nuget/TrackableEntities.EF.Core@3.0.0
+- pkg:nuget/TrackableEntities.EF.Core@3.0.0-preview7
+- pkg:nuget/TrackableEntities.EF.Core@3.1.0
+- pkg:nuget/TrackableEntities.EF.Core@3.1.1
+- pkg:nuget/TrackableEntities.EF.Core@5.0.0
+- pkg:nuget/TrackableEntities.EF.Core@5.0.1
+- pkg:nuget/TrackableEntities.EF.Core@6.0.0
+- pkg:nuget/TrackableEntities.EF.Core@7.0.0
+- pkg:nuget/TrackableEntities.EF.Core@8.0.0
+- pkg:nuget/TrackableEntities.EF.Core@9.0.0
+- pkg:nuget/TrackableEntities.EF.Core@9.0.1

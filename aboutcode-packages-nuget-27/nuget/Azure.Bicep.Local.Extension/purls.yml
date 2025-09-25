@@ -1,0 +1,15 @@
+- pkg:nuget/Azure.Bicep.Local.Extension@0.29.45
+- pkg:nuget/Azure.Bicep.Local.Extension@0.29.47
+- pkg:nuget/Azure.Bicep.Local.Extension@0.30.23
+- pkg:nuget/Azure.Bicep.Local.Extension@0.30.3
+- pkg:nuget/Azure.Bicep.Local.Extension@0.31.34
+- pkg:nuget/Azure.Bicep.Local.Extension@0.31.92
+- pkg:nuget/Azure.Bicep.Local.Extension@0.32.4
+- pkg:nuget/Azure.Bicep.Local.Extension@0.33.13
+- pkg:nuget/Azure.Bicep.Local.Extension@0.33.93
+- pkg:nuget/Azure.Bicep.Local.Extension@0.34.1
+- pkg:nuget/Azure.Bicep.Local.Extension@0.34.44
+- pkg:nuget/Azure.Bicep.Local.Extension@0.35.1
+- pkg:nuget/Azure.Bicep.Local.Extension@0.36.1
+- pkg:nuget/Azure.Bicep.Local.Extension@0.36.177
+- pkg:nuget/Azure.Bicep.Local.Extension@0.37.4

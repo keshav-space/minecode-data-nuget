@@ -1,0 +1,4 @@
+- pkg:nuget/HKH.DataProvider.Dapper@4.5.2
+- pkg:nuget/HKH.DataProvider.Dapper@5.0.0
+- pkg:nuget/HKH.DataProvider.Dapper@5.1.0
+- pkg:nuget/HKH.DataProvider.Dapper@5.1.1

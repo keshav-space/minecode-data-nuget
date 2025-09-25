@@ -1,0 +1,8 @@
+- pkg:nuget/Serilog.Sinks.ExcelDnaLogDisplay@0.0.1-local
+- pkg:nuget/Serilog.Sinks.ExcelDnaLogDisplay@1.0.0
+- pkg:nuget/Serilog.Sinks.ExcelDnaLogDisplay@1.1.0
+- pkg:nuget/Serilog.Sinks.ExcelDnaLogDisplay@1.1.1
+- pkg:nuget/Serilog.Sinks.ExcelDnaLogDisplay@1.1.1-beta1
+- pkg:nuget/Serilog.Sinks.ExcelDnaLogDisplay@1.1.2
+- pkg:nuget/Serilog.Sinks.ExcelDnaLogDisplay@1.1.2-beta
+- pkg:nuget/Serilog.Sinks.ExcelDnaLogDisplay@1.5.0

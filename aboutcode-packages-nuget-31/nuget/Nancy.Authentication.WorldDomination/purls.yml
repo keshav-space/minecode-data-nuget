@@ -1,0 +1,12 @@
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.11.0-beta
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.12.0-beta
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.13.0-beta
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.14.0
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.15.0
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.16.0
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.17.0
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.17.0-Beta1
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.19.0
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.19.0-final
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.19.1
+- pkg:nuget/Nancy.Authentication.WorldDomination@0.19.2

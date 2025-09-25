@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.300.Msi.arm64@6.0.300-rc.1.5355
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.300.Msi.arm64@6.0.300-rc.2.5513
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.300.Msi.arm64@6.0.300-rc.3.5667
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.300.Msi.arm64@6.0.312
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.300.Msi.arm64@6.0.400
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.300.Msi.arm64@6.0.408
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.300.Msi.arm64@6.0.419

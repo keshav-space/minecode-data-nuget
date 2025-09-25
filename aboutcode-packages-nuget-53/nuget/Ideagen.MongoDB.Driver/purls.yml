@@ -1,0 +1,4 @@
+- pkg:nuget/Ideagen.MongoDB.Driver@1.262.10
+- pkg:nuget/Ideagen.MongoDB.Driver@1.262.8
+- pkg:nuget/Ideagen.MongoDB.Driver@1.262.9
+- pkg:nuget/Ideagen.MongoDB.Driver@2.6.2

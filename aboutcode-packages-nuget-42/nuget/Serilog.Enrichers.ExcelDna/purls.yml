@@ -1,0 +1,7 @@
+- pkg:nuget/Serilog.Enrichers.ExcelDna@0.0.1-beta
+- pkg:nuget/Serilog.Enrichers.ExcelDna@1.0.0
+- pkg:nuget/Serilog.Enrichers.ExcelDna@1.1.0
+- pkg:nuget/Serilog.Enrichers.ExcelDna@1.1.1
+- pkg:nuget/Serilog.Enrichers.ExcelDna@1.1.1-beta1
+- pkg:nuget/Serilog.Enrichers.ExcelDna@1.1.2
+- pkg:nuget/Serilog.Enrichers.ExcelDna@1.5.0

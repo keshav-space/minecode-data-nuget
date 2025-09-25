@@ -1,0 +1,4 @@
+- pkg:nuget/Anjril.Common.Network@0.0.1
+- pkg:nuget/Anjril.Common.Network@0.0.2
+- pkg:nuget/Anjril.Common.Network@1.0.0-rc1
+- pkg:nuget/Anjril.Common.Network@1.0.0-rc2

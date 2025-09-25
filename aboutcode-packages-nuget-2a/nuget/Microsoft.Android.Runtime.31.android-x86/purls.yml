@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Android.Runtime.31.android-x86@31.0.101-preview.11.117%2Bsha.21e5fe7
+- pkg:nuget/Microsoft.Android.Runtime.31.android-x86@31.0.200-preview.12.2%2Bsha.c420be5
+- pkg:nuget/Microsoft.Android.Runtime.31.android-x86@32.0.448%2Bsha.2c63936
+- pkg:nuget/Microsoft.Android.Runtime.31.android-x86@32.0.465%2Bsha.d6224ca
+- pkg:nuget/Microsoft.Android.Runtime.31.android-x86@32.0.476%2Bsha.af4a25d
+- pkg:nuget/Microsoft.Android.Runtime.31.android-x86@32.0.485%2Bsha.619ab7a
+- pkg:nuget/Microsoft.Android.Runtime.31.android-x86@32.0.509%2Bsha.25cb50d

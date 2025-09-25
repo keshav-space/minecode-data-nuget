@@ -1,0 +1,6 @@
+- pkg:nuget/LimitsMiddleware.OwinAppBuilder@2.0.0
+- pkg:nuget/LimitsMiddleware.OwinAppBuilder@2.0.1
+- pkg:nuget/LimitsMiddleware.OwinAppBuilder@2.0.2
+- pkg:nuget/LimitsMiddleware.OwinAppBuilder@3.0.0
+- pkg:nuget/LimitsMiddleware.OwinAppBuilder@3.0.0-beta-01
+- pkg:nuget/LimitsMiddleware.OwinAppBuilder@3.2.0

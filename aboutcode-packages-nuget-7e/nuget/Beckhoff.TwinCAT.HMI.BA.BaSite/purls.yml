@@ -1,0 +1,9 @@
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.10.1
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.11.1
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.12.5
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.2.1
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.4.0
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.5.5
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.6.0
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.8.7
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.BaSite@2.9.0

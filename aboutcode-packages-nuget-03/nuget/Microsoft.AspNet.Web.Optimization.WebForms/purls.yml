@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.AspNet.Web.Optimization.WebForms@1.0.0
+- pkg:nuget/Microsoft.AspNet.Web.Optimization.WebForms@1.0.30506
+- pkg:nuget/Microsoft.AspNet.Web.Optimization.WebForms@1.1.1
+- pkg:nuget/Microsoft.AspNet.Web.Optimization.WebForms@1.1.2
+- pkg:nuget/Microsoft.AspNet.Web.Optimization.WebForms@1.1.3
