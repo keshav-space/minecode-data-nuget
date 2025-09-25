@@ -1,0 +1,7 @@
+- pkg:nuget/CardanoSharp.Koios.Client@1.0.10
+- pkg:nuget/CardanoSharp.Koios.Client@1.0.11
+- pkg:nuget/CardanoSharp.Koios.Client@1.0.8
+- pkg:nuget/CardanoSharp.Koios.Client@1.0.9
+- pkg:nuget/CardanoSharp.Koios.Client@2.0.0
+- pkg:nuget/CardanoSharp.Koios.Client@2.1.0
+- pkg:nuget/CardanoSharp.Koios.Client@2.2.0

@@ -1,0 +1,6 @@
+- pkg:nuget/RedisInside@3.2.100
+- pkg:nuget/RedisInside@5.0.14
+- pkg:nuget/RedisInside@5.0.14.1
+- pkg:nuget/RedisInside@6.2.12
+- pkg:nuget/RedisInside@7.0.11
+- pkg:nuget/RedisInside@7.0.11.1

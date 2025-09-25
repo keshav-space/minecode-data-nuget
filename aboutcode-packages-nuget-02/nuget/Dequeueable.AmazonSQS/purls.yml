@@ -1,0 +1,2 @@
+- pkg:nuget/Dequeueable.AmazonSQS@1.0.0
+- pkg:nuget/Dequeueable.AmazonSQS@2.0.0

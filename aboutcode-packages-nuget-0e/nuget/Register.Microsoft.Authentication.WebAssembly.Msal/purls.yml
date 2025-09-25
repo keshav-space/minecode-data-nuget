@@ -1,0 +1,2 @@
+- pkg:nuget/Register.Microsoft.Authentication.WebAssembly.Msal@6.0.2
+- pkg:nuget/Register.Microsoft.Authentication.WebAssembly.Msal@6.0.2-rc1

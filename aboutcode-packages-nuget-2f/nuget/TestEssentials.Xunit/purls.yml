@@ -1,0 +1,4 @@
+- pkg:nuget/TestEssentials.Xunit@1.0.0
+- pkg:nuget/TestEssentials.Xunit@1.1.0
+- pkg:nuget/TestEssentials.Xunit@2.0.0
+- pkg:nuget/TestEssentials.Xunit@2.1.0

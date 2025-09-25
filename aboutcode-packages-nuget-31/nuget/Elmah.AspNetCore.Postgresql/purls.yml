@@ -1,0 +1,5 @@
+- pkg:nuget/Elmah.AspNetCore.Postgresql@0.0.0-preview.0.139
+- pkg:nuget/Elmah.AspNetCore.Postgresql@0.0.0-preview.0.162
+- pkg:nuget/Elmah.AspNetCore.Postgresql@0.0.0-preview.0.168
+- pkg:nuget/Elmah.AspNetCore.Postgresql@1.0.0
+- pkg:nuget/Elmah.AspNetCore.Postgresql@1.0.1

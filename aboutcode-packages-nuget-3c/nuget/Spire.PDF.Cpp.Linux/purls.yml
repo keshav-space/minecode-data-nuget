@@ -1,0 +1,8 @@
+- pkg:nuget/Spire.PDF.Cpp.Linux@10.7.0
+- pkg:nuget/Spire.PDF.Cpp.Linux@10.7.3
+- pkg:nuget/Spire.PDF.Cpp.Linux@11.7.0
+- pkg:nuget/Spire.PDF.Cpp.Linux@11.8.1
+- pkg:nuget/Spire.PDF.Cpp.Linux@11.9.1
+- pkg:nuget/Spire.PDF.Cpp.Linux@9.12.0
+- pkg:nuget/Spire.PDF.Cpp.Linux@9.12.1
+- pkg:nuget/Spire.PDF.Cpp.Linux@9.12.2

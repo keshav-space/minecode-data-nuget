@@ -1,0 +1,4 @@
+- pkg:nuget/Identity.Jwt.Token.Manager@1.0.0
+- pkg:nuget/Identity.Jwt.Token.Manager@1.0.1
+- pkg:nuget/Identity.Jwt.Token.Manager@9.0.3
+- pkg:nuget/Identity.Jwt.Token.Manager@9.0.4

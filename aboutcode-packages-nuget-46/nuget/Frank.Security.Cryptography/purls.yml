@@ -1,0 +1,3 @@
+- pkg:nuget/Frank.Security.Cryptography@0.1.4-preview
+- pkg:nuget/Frank.Security.Cryptography@0.1.5-preview
+- pkg:nuget/Frank.Security.Cryptography@0.2.0

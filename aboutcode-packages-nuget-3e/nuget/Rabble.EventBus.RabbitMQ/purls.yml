@@ -1,0 +1,2 @@
+- pkg:nuget/Rabble.EventBus.RabbitMQ@1.0.0
+- pkg:nuget/Rabble.EventBus.RabbitMQ@1.1.0

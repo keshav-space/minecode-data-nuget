@@ -1,0 +1,7 @@
+- pkg:nuget/SouchProd.EntityFrameworkCore.Firebird@2.0.2
+- pkg:nuget/SouchProd.EntityFrameworkCore.Firebird@2.0.4
+- pkg:nuget/SouchProd.EntityFrameworkCore.Firebird@2.0.5-preview5
+- pkg:nuget/SouchProd.EntityFrameworkCore.Firebird@2.0.6-preview6
+- pkg:nuget/SouchProd.EntityFrameworkCore.Firebird@2.0.7
+- pkg:nuget/SouchProd.EntityFrameworkCore.Firebird@2.0.7-preview7
+- pkg:nuget/SouchProd.EntityFrameworkCore.Firebird@2.0.7-preview8

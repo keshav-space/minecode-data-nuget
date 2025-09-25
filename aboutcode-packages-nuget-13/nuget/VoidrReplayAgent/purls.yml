@@ -1,0 +1,3 @@
+- pkg:nuget/VoidrReplayAgent@1.0.12
+- pkg:nuget/VoidrReplayAgent@1.0.12-netstandard
+- pkg:nuget/VoidrReplayAgent@1.0.12-xamarinios

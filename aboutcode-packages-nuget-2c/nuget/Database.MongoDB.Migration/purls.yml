@@ -1,0 +1,16 @@
+- pkg:nuget/Database.MongoDB.Migration@1.0.0
+- pkg:nuget/Database.MongoDB.Migration@1.0.18
+- pkg:nuget/Database.MongoDB.Migration@1.19.0
+- pkg:nuget/Database.MongoDB.Migration@1.20.0
+- pkg:nuget/Database.MongoDB.Migration@1.21.0
+- pkg:nuget/Database.MongoDB.Migration@1.22.0
+- pkg:nuget/Database.MongoDB.Migration@1.23.0
+- pkg:nuget/Database.MongoDB.Migration@1.24.0
+- pkg:nuget/Database.MongoDB.Migration@1.25.0
+- pkg:nuget/Database.MongoDB.Migration@1.26.0
+- pkg:nuget/Database.MongoDB.Migration@1.27.0
+- pkg:nuget/Database.MongoDB.Migration@1.33.0
+- pkg:nuget/Database.MongoDB.Migration@1.34.0
+- pkg:nuget/Database.MongoDB.Migration@2.35.0
+- pkg:nuget/Database.MongoDB.Migration@2.40.0
+- pkg:nuget/Database.MongoDB.Migration@2.48.0

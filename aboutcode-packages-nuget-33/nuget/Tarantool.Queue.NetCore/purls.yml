@@ -1,0 +1,3 @@
+- pkg:nuget/Tarantool.Queue.NetCore@1.0.0
+- pkg:nuget/Tarantool.Queue.NetCore@2.0.0
+- pkg:nuget/Tarantool.Queue.NetCore@2.0.1

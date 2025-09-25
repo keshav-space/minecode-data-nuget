@@ -1,0 +1,3 @@
+- pkg:nuget/OllieBear.Infrastructure.Transport.RabbitMQ@1.0.1
+- pkg:nuget/OllieBear.Infrastructure.Transport.RabbitMQ@1.0.2
+- pkg:nuget/OllieBear.Infrastructure.Transport.RabbitMQ@2.0.0
