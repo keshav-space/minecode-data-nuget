@@ -1,0 +1,13 @@
+- pkg:nuget/Signicat.Express.SDK@3.0.0
+- pkg:nuget/Signicat.Express.SDK@3.0.1
+- pkg:nuget/Signicat.Express.SDK@4.0.0
+- pkg:nuget/Signicat.Express.SDK@4.0.1
+- pkg:nuget/Signicat.Express.SDK@4.1.0
+- pkg:nuget/Signicat.Express.SDK@4.2.0
+- pkg:nuget/Signicat.Express.SDK@4.3.0
+- pkg:nuget/Signicat.Express.SDK@4.4.0
+- pkg:nuget/Signicat.Express.SDK@5.0.0
+- pkg:nuget/Signicat.Express.SDK@5.1.0
+- pkg:nuget/Signicat.Express.SDK@5.2.0
+- pkg:nuget/Signicat.Express.SDK@5.3.0
+- pkg:nuget/Signicat.Express.SDK@5.4.0

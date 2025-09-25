@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFrameworkCore.CreatedUpdatedDate@7.0.10
+- pkg:nuget/EntityFrameworkCore.CreatedUpdatedDate@8.0.0

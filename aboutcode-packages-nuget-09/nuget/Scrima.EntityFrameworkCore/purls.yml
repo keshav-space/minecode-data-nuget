@@ -1,0 +1,17 @@
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.0
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.20
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.21
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.22
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.24
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.25
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.5
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.6
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.7
+- pkg:nuget/Scrima.EntityFrameworkCore@3.1.8
+- pkg:nuget/Scrima.EntityFrameworkCore@6.0.0
+- pkg:nuget/Scrima.EntityFrameworkCore@6.0.1
+- pkg:nuget/Scrima.EntityFrameworkCore@6.0.2
+- pkg:nuget/Scrima.EntityFrameworkCore@6.0.400
+- pkg:nuget/Scrima.EntityFrameworkCore@8.0.0
+- pkg:nuget/Scrima.EntityFrameworkCore@8.0.100
+- pkg:nuget/Scrima.EntityFrameworkCore@8.0.200

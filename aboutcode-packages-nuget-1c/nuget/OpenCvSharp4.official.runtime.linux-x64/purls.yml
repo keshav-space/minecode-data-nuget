@@ -1,0 +1,3 @@
+- pkg:nuget/OpenCvSharp4.official.runtime.linux-x64@4.10.0.20241108
+- pkg:nuget/OpenCvSharp4.official.runtime.linux-x64@4.11.0.20250506
+- pkg:nuget/OpenCvSharp4.official.runtime.linux-x64@4.11.0.20250507

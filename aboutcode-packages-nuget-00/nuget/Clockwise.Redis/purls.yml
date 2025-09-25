@@ -1,0 +1,8 @@
+- pkg:nuget/Clockwise.Redis@1.0.225-beta
+- pkg:nuget/Clockwise.Redis@1.0.235-beta
+- pkg:nuget/Clockwise.Redis@1.0.240-beta
+- pkg:nuget/Clockwise.Redis@1.0.244-beta
+- pkg:nuget/Clockwise.Redis@1.0.246-beta
+- pkg:nuget/Clockwise.Redis@1.0.251-beta
+- pkg:nuget/Clockwise.Redis@1.0.254-beta
+- pkg:nuget/Clockwise.Redis@1.0.261-beta

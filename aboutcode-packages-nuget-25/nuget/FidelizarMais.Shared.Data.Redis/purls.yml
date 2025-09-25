@@ -1,0 +1,5 @@
+- pkg:nuget/FidelizarMais.Shared.Data.Redis@10.0.76
+- pkg:nuget/FidelizarMais.Shared.Data.Redis@10.0.78
+- pkg:nuget/FidelizarMais.Shared.Data.Redis@10.0.81
+- pkg:nuget/FidelizarMais.Shared.Data.Redis@10.0.85
+- pkg:nuget/FidelizarMais.Shared.Data.Redis@10.0.87

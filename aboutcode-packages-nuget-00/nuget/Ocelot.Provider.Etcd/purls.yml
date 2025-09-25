@@ -1,0 +1,2 @@
+- pkg:nuget/Ocelot.Provider.Etcd@0.2.0
+- pkg:nuget/Ocelot.Provider.Etcd@1.0.0

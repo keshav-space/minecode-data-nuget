@@ -1,0 +1,5 @@
+- pkg:nuget/Azure.Storage.Slazure.Light@1.1.1
+- pkg:nuget/Azure.Storage.Slazure.Light@1.2.2.2
+- pkg:nuget/Azure.Storage.Slazure.Light@1.2.2.3
+- pkg:nuget/Azure.Storage.Slazure.Light@1.4.0
+- pkg:nuget/Azure.Storage.Slazure.Light@1.4.1

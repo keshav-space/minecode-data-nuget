@@ -1,0 +1,13 @@
+- pkg:nuget/MassTransit.MSMQ@2.10.0
+- pkg:nuget/MassTransit.MSMQ@2.10.1
+- pkg:nuget/MassTransit.MSMQ@2.10.2
+- pkg:nuget/MassTransit.MSMQ@2.9.0
+- pkg:nuget/MassTransit.MSMQ@2.9.1
+- pkg:nuget/MassTransit.MSMQ@2.9.2
+- pkg:nuget/MassTransit.MSMQ@2.9.3
+- pkg:nuget/MassTransit.MSMQ@2.9.4
+- pkg:nuget/MassTransit.MSMQ@2.9.5
+- pkg:nuget/MassTransit.MSMQ@2.9.6
+- pkg:nuget/MassTransit.MSMQ@2.9.7
+- pkg:nuget/MassTransit.MSMQ@2.9.8
+- pkg:nuget/MassTransit.MSMQ@2.9.9

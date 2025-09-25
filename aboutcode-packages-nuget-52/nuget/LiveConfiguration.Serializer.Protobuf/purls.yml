@@ -1,0 +1,3 @@
+- pkg:nuget/LiveConfiguration.Serializer.Protobuf@1.0.0
+- pkg:nuget/LiveConfiguration.Serializer.Protobuf@1.0.1
+- pkg:nuget/LiveConfiguration.Serializer.Protobuf@1.0.2

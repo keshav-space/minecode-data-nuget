@@ -1,0 +1,7 @@
+- pkg:nuget/pythonnet_py37_osx@2.4.1
+- pkg:nuget/pythonnet_py37_osx@2.5.0
+- pkg:nuget/pythonnet_py37_osx@2.5.0-rc1
+- pkg:nuget/pythonnet_py37_osx@2.5.0.1
+- pkg:nuget/pythonnet_py37_osx@2.5.1
+- pkg:nuget/pythonnet_py37_osx@2.5.1.1
+- pkg:nuget/pythonnet_py37_osx@2.5.2

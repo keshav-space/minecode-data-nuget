@@ -1,0 +1,6 @@
+- pkg:nuget/Komsa.Camunda.Api.Client@2.6.0
+- pkg:nuget/Komsa.Camunda.Api.Client@2.6.1
+- pkg:nuget/Komsa.Camunda.Api.Client@2.7.0
+- pkg:nuget/Komsa.Camunda.Api.Client@2.8.0
+- pkg:nuget/Komsa.Camunda.Api.Client@2.8.0-preview.1
+- pkg:nuget/Komsa.Camunda.Api.Client@2.8.0-preview.2

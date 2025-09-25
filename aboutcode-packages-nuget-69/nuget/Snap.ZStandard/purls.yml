@@ -1,0 +1,5 @@
+- pkg:nuget/Snap.ZStandard@1.0.0
+- pkg:nuget/Snap.ZStandard@1.5.6
+- pkg:nuget/Snap.ZStandard@1.5.6-build2
+- pkg:nuget/Snap.ZStandard@1.5.6-build3
+- pkg:nuget/Snap.ZStandard@1.5.7

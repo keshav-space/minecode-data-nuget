@@ -1,0 +1,3 @@
+- pkg:nuget/EntityFrameworkCore.Triggered.Benchmarks@0.4.0
+- pkg:nuget/EntityFrameworkCore.Triggered.Benchmarks@0.4.1
+- pkg:nuget/EntityFrameworkCore.Triggered.Benchmarks@0.4.2

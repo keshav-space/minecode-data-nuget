@@ -1,0 +1,5 @@
+- pkg:nuget/TryCatch.Cqrs@0.1.0
+- pkg:nuget/TryCatch.Cqrs@0.1.1
+- pkg:nuget/TryCatch.Cqrs@1.1.0
+- pkg:nuget/TryCatch.Cqrs@1.2.0
+- pkg:nuget/TryCatch.Cqrs@2.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/NHibernate.ByteCode.Castle2@3.3.3.5000
+- pkg:nuget/NHibernate.ByteCode.Castle2@3.3.3.5001
+- pkg:nuget/NHibernate.ByteCode.Castle2@3.3.3.5100
+- pkg:nuget/NHibernate.ByteCode.Castle2@3.3.3.5300
+- pkg:nuget/NHibernate.ByteCode.Castle2@3.3.3.5400

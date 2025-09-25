@@ -1,0 +1,2 @@
+- pkg:nuget/libClangSharp.runtime.freebsd.13-x64@14.0.0-beta1
+- pkg:nuget/libClangSharp.runtime.freebsd.13-x64@15.0.0

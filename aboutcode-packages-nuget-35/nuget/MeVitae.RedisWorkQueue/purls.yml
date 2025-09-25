@@ -1,0 +1,5 @@
+- pkg:nuget/MeVitae.RedisWorkQueue@0.1.5
+- pkg:nuget/MeVitae.RedisWorkQueue@0.1.6
+- pkg:nuget/MeVitae.RedisWorkQueue@0.2.1
+- pkg:nuget/MeVitae.RedisWorkQueue@0.3.0
+- pkg:nuget/MeVitae.RedisWorkQueue@1.0.0

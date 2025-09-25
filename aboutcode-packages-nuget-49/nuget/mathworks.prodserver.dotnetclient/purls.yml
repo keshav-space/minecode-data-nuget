@@ -1,0 +1,3 @@
+- pkg:nuget/mathworks.prodserver.dotnetclient@2023.1.0
+- pkg:nuget/mathworks.prodserver.dotnetclient@2024.1.0
+- pkg:nuget/mathworks.prodserver.dotnetclient@2024.2.0

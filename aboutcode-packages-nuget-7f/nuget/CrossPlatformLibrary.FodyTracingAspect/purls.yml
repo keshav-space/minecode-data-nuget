@@ -1,0 +1,3 @@
+- pkg:nuget/CrossPlatformLibrary.FodyTracingAspect@1.0.0-alpha
+- pkg:nuget/CrossPlatformLibrary.FodyTracingAspect@1.0.1
+- pkg:nuget/CrossPlatformLibrary.FodyTracingAspect@1.0.1-alpha

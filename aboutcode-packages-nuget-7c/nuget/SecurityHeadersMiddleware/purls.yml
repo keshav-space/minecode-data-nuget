@@ -1,0 +1,4 @@
+- pkg:nuget/SecurityHeadersMiddleware@0.1.0
+- pkg:nuget/SecurityHeadersMiddleware@1.0.0
+- pkg:nuget/SecurityHeadersMiddleware@1.1.0
+- pkg:nuget/SecurityHeadersMiddleware@2.0.0

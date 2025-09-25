@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCore.ResponseCacheValidation@6.0.0-rc01
+- pkg:nuget/AspNetCore.ResponseCacheValidation@6.0.0-rc02

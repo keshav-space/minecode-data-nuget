@@ -1,0 +1,4 @@
+- pkg:nuget/EzDbSchema.Core@1.0.1
+- pkg:nuget/EzDbSchema.Core@1.0.2
+- pkg:nuget/EzDbSchema.Core@8.4.0
+- pkg:nuget/EzDbSchema.Core@8.4.1

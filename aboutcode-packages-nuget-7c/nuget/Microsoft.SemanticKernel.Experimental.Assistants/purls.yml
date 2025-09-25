@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.SemanticKernel.Experimental.Assistants@1.0.0-beta7
+- pkg:nuget/Microsoft.SemanticKernel.Experimental.Assistants@1.0.0-beta8
+- pkg:nuget/Microsoft.SemanticKernel.Experimental.Assistants@1.0.0-rc1
+- pkg:nuget/Microsoft.SemanticKernel.Experimental.Assistants@1.0.0-rc2
+- pkg:nuget/Microsoft.SemanticKernel.Experimental.Assistants@1.0.0-rc3
+- pkg:nuget/Microsoft.SemanticKernel.Experimental.Assistants@1.0.0-rc4

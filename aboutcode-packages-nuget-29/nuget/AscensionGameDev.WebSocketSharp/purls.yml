@@ -1,0 +1,6 @@
+- pkg:nuget/AscensionGameDev.WebSocketSharp@1.0.0.4-beta
+- pkg:nuget/AscensionGameDev.WebSocketSharp@1.0.0.4-beta-debug
+- pkg:nuget/AscensionGameDev.WebSocketSharp@1.0.0.6-beta
+- pkg:nuget/AscensionGameDev.WebSocketSharp@1.0.0.6-beta-debug
+- pkg:nuget/AscensionGameDev.WebSocketSharp@1.0.0.7-beta
+- pkg:nuget/AscensionGameDev.WebSocketSharp@1.0.0.7-beta-debug

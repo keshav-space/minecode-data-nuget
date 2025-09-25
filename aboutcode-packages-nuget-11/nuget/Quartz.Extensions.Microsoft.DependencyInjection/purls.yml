@@ -1,0 +1,3 @@
+- pkg:nuget/Quartz.Extensions.Microsoft.DependencyInjection@0.0.1
+- pkg:nuget/Quartz.Extensions.Microsoft.DependencyInjection@0.0.2
+- pkg:nuget/Quartz.Extensions.Microsoft.DependencyInjection@0.0.3

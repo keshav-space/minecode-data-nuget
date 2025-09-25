@@ -1,0 +1,9 @@
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@0.1.0-b0005
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@0.1.0-b0008
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@0.1.0-b0009
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@0.1.0-b0010
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@0.1.0-b0011
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@1.0.0
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@1.1.0-b0001
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@2.0.0
+- pkg:nuget/Zhuravel.Serilog.Sinks.Lambda@2.0.1

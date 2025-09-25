@@ -1,0 +1,11 @@
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@1.0.3-ci0011
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@1.0.3-company-rename0009
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@1.0.3-company-rename0010
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@1.0.3-logo-correction0006
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@1.0.3-logo-correction0007
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@2.0.0
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@2.0.0-rc1
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@2.0.1
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@2.0.1-logo-correction0006
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@2.0.2
+- pkg:nuget/CorshamScience.CodeStyle.CSharp.CodeOnly@2.0.2-case-sensitive-p0001

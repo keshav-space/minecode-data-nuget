@@ -1,0 +1,8 @@
+- pkg:nuget/RecShark.AspNetCore.ApiClient@1.0.0
+- pkg:nuget/RecShark.AspNetCore.ApiClient@1.0.1-beta1
+- pkg:nuget/RecShark.AspNetCore.ApiClient@1.1.0
+- pkg:nuget/RecShark.AspNetCore.ApiClient@1.1.0-beta1
+- pkg:nuget/RecShark.AspNetCore.ApiClient@2.0.0
+- pkg:nuget/RecShark.AspNetCore.ApiClient@2.0.0-beta1
+- pkg:nuget/RecShark.AspNetCore.ApiClient@2.0.0-beta3
+- pkg:nuget/RecShark.AspNetCore.ApiClient@2.0.0-beta4

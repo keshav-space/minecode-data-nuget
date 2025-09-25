@@ -1,0 +1,12 @@
+- pkg:nuget/WaveEngine.Bindings.OpenXR@1.0.0
+- pkg:nuget/WaveEngine.Bindings.OpenXR@2021.11.1.75
+- pkg:nuget/WaveEngine.Bindings.OpenXR@2021.7.22.69
+- pkg:nuget/WaveEngine.Bindings.OpenXR@2021.7.22.72
+- pkg:nuget/WaveEngine.Bindings.OpenXR@2021.8.27.1
+- pkg:nuget/WaveEngine.Bindings.OpenXR@3.1.0.6818-preview2
+- pkg:nuget/WaveEngine.Bindings.OpenXR@3.1.0.6819-preview2
+- pkg:nuget/WaveEngine.Bindings.OpenXR@3.1.0.6820-preview2
+- pkg:nuget/WaveEngine.Bindings.OpenXR@3.2.0.8127-preview
+- pkg:nuget/WaveEngine.Bindings.OpenXR@3.2.0.8289-preview
+- pkg:nuget/WaveEngine.Bindings.OpenXR@3.2.0.8290-preview
+- pkg:nuget/WaveEngine.Bindings.OpenXR@3.2.0.8330-preview

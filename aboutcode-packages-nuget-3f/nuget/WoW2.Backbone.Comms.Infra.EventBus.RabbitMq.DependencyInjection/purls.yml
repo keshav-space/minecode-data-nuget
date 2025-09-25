@@ -1,0 +1,2 @@
+- pkg:nuget/WoW2.Backbone.Comms.Infra.EventBus.RabbitMq.DependencyInjection@8.0.0-alpha.0
+- pkg:nuget/WoW2.Backbone.Comms.Infra.EventBus.RabbitMq.DependencyInjection@8.0.0-alpha.1

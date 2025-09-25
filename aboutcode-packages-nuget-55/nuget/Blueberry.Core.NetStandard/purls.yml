@@ -1,0 +1,15 @@
+- pkg:nuget/Blueberry.Core.NetStandard@1.0.0
+- pkg:nuget/Blueberry.Core.NetStandard@20241001.0.0-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20241002.0.0-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20241015.0.0-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20241015.0.1-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20241015.0.2-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250107.0.0-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250107.0.1-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250113.0.0-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250113.0.1-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250113.0.2-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250219.0.0-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250719.0.1-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250719.0.2-alpha
+- pkg:nuget/Blueberry.Core.NetStandard@20250719.0.3-alpha

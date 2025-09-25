@@ -1,0 +1,5 @@
+- pkg:nuget/TransactionalBox.Inbox.EntityFrameworkCore@0.0.1-alpha16
+- pkg:nuget/TransactionalBox.Inbox.EntityFrameworkCore@0.0.1-alpha17
+- pkg:nuget/TransactionalBox.Inbox.EntityFrameworkCore@0.0.1-alpha18
+- pkg:nuget/TransactionalBox.Inbox.EntityFrameworkCore@0.0.1-alpha19
+- pkg:nuget/TransactionalBox.Inbox.EntityFrameworkCore@0.0.1-alpha20

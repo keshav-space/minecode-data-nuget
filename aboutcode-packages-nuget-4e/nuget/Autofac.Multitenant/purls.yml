@@ -1,0 +1,17 @@
+- pkg:nuget/Autofac.Multitenant@4.0.0
+- pkg:nuget/Autofac.Multitenant@4.0.0-beta7-222
+- pkg:nuget/Autofac.Multitenant@4.0.0-beta8-216
+- pkg:nuget/Autofac.Multitenant@4.0.0-beta8-219
+- pkg:nuget/Autofac.Multitenant@4.0.0-rc3-226
+- pkg:nuget/Autofac.Multitenant@4.1.0
+- pkg:nuget/Autofac.Multitenant@4.2.0
+- pkg:nuget/Autofac.Multitenant@5.0.0
+- pkg:nuget/Autofac.Multitenant@5.0.1
+- pkg:nuget/Autofac.Multitenant@6.0.0
+- pkg:nuget/Autofac.Multitenant@7.0.0
+- pkg:nuget/Autofac.Multitenant@7.0.1
+- pkg:nuget/Autofac.Multitenant@8.0.0
+- pkg:nuget/Autofac.Multitenant@8.0.1
+- pkg:nuget/Autofac.Multitenant@8.0.2
+- pkg:nuget/Autofac.Multitenant@8.0.3
+- pkg:nuget/Autofac.Multitenant@8.1.0

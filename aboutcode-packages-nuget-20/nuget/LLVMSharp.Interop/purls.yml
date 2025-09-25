@@ -1,0 +1,6 @@
+- pkg:nuget/LLVMSharp.Interop@12.0.0-beta1
+- pkg:nuget/LLVMSharp.Interop@13.0.0-beta2
+- pkg:nuget/LLVMSharp.Interop@14.0.0-beta1
+- pkg:nuget/LLVMSharp.Interop@15.0.0-beta1
+- pkg:nuget/LLVMSharp.Interop@16.0.0
+- pkg:nuget/LLVMSharp.Interop@20.1.2

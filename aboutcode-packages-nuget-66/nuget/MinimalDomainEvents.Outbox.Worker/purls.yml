@@ -1,0 +1,2 @@
+- pkg:nuget/MinimalDomainEvents.Outbox.Worker@0.1.0-alpha
+- pkg:nuget/MinimalDomainEvents.Outbox.Worker@1.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/BootstrapDotNet@0.0.1-alpha
+- pkg:nuget/BootstrapDotNet@0.0.2-alpha
+- pkg:nuget/BootstrapDotNet@0.1.0-preview5-01
+- pkg:nuget/BootstrapDotNet@0.1.0-preview5-02

@@ -1,0 +1,4 @@
+- pkg:nuget/TakNotify.AspNetCore@1.0.0.6
+- pkg:nuget/TakNotify.AspNetCore@1.1.0
+- pkg:nuget/TakNotify.AspNetCore@1.1.0.15
+- pkg:nuget/TakNotify.AspNetCore@1.1.1

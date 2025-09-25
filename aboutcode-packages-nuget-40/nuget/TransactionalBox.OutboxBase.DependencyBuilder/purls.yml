@@ -1,0 +1,5 @@
+- pkg:nuget/TransactionalBox.OutboxBase.DependencyBuilder@0.0.1-alpha04
+- pkg:nuget/TransactionalBox.OutboxBase.DependencyBuilder@0.0.1-alpha05
+- pkg:nuget/TransactionalBox.OutboxBase.DependencyBuilder@0.0.1-alpha06
+- pkg:nuget/TransactionalBox.OutboxBase.DependencyBuilder@0.0.1-alpha07
+- pkg:nuget/TransactionalBox.OutboxBase.DependencyBuilder@0.0.1-alpha08

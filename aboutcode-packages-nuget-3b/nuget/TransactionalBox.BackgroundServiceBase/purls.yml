@@ -1,0 +1,3 @@
+- pkg:nuget/TransactionalBox.BackgroundServiceBase@0.0.1-alpha06
+- pkg:nuget/TransactionalBox.BackgroundServiceBase@0.0.1-alpha07
+- pkg:nuget/TransactionalBox.BackgroundServiceBase@0.0.1-alpha08

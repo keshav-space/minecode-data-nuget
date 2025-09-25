@@ -1,0 +1,5 @@
+- pkg:nuget/VxSdkCSharpWrappers@4.7.0
+- pkg:nuget/VxSdkCSharpWrappers@4.7.1
+- pkg:nuget/VxSdkCSharpWrappers@4.9.0
+- pkg:nuget/VxSdkCSharpWrappers@4.9.1
+- pkg:nuget/VxSdkCSharpWrappers@4.9.2

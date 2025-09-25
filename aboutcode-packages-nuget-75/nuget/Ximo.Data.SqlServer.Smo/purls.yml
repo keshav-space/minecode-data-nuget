@@ -1,0 +1,6 @@
+- pkg:nuget/Ximo.Data.SqlServer.Smo@1.0.0
+- pkg:nuget/Ximo.Data.SqlServer.Smo@1.1.0
+- pkg:nuget/Ximo.Data.SqlServer.Smo@1.2.1
+- pkg:nuget/Ximo.Data.SqlServer.Smo@1.6.0
+- pkg:nuget/Ximo.Data.SqlServer.Smo@2.0.0
+- pkg:nuget/Ximo.Data.SqlServer.Smo@2.2.0

@@ -1,0 +1,2 @@
+- pkg:nuget/OpenFeature.Contrib.Provider.Statsig@0.0.2-preview
+- pkg:nuget/OpenFeature.Contrib.Provider.Statsig@0.0.3-preview

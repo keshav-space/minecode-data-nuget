@@ -1,0 +1,7 @@
+- pkg:nuget/ServiceFabricQueuedServices.Clients@0.1.0-CI-20180629-204535
+- pkg:nuget/ServiceFabricQueuedServices.Clients@0.1.0-CI-20180702-200250
+- pkg:nuget/ServiceFabricQueuedServices.Clients@0.1.0-CI-20180719-015908
+- pkg:nuget/ServiceFabricQueuedServices.Clients@0.2.0-CI-20190129-195531
+- pkg:nuget/ServiceFabricQueuedServices.Clients@0.2.0-CI-20190129-200615
+- pkg:nuget/ServiceFabricQueuedServices.Clients@0.2.0-CI-20191120-181646
+- pkg:nuget/ServiceFabricQueuedServices.Clients@0.3.0-CI-20191120-223218

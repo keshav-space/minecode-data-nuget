@@ -1,0 +1,6 @@
+- pkg:nuget/MarketingBox.Reporting.Service.Messages@4.2.1
+- pkg:nuget/MarketingBox.Reporting.Service.Messages@4.2.2
+- pkg:nuget/MarketingBox.Reporting.Service.Messages@4.2.3
+- pkg:nuget/MarketingBox.Reporting.Service.Messages@8.0.0
+- pkg:nuget/MarketingBox.Reporting.Service.Messages@8.1.0
+- pkg:nuget/MarketingBox.Reporting.Service.Messages@8.2.0

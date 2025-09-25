@@ -1,0 +1,4 @@
+- pkg:nuget/conmaster.compression.spanzlib@0.1.0-init
+- pkg:nuget/conmaster.compression.spanzlib@1.0.0
+- pkg:nuget/conmaster.compression.spanzlib@1.0.0-beta
+- pkg:nuget/conmaster.compression.spanzlib@1.1.0

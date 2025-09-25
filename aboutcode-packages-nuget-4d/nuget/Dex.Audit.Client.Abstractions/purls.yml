@@ -1,0 +1,3 @@
+- pkg:nuget/Dex.Audit.Client.Abstractions@1.0.0
+- pkg:nuget/Dex.Audit.Client.Abstractions@8.0.0
+- pkg:nuget/Dex.Audit.Client.Abstractions@8.0.1

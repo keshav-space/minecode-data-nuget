@@ -1,0 +1,5 @@
+- pkg:nuget/Autofac.Multitenant.Wcf@4.0.0
+- pkg:nuget/Autofac.Multitenant.Wcf@4.0.0-beta7-223
+- pkg:nuget/Autofac.Multitenant.Wcf@4.0.0-rc3-231
+- pkg:nuget/Autofac.Multitenant.Wcf@5.0.0
+- pkg:nuget/Autofac.Multitenant.Wcf@6.0.0

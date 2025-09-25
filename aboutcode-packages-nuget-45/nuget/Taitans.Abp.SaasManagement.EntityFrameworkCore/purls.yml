@@ -1,0 +1,6 @@
+- pkg:nuget/Taitans.Abp.SaasManagement.EntityFrameworkCore@0.0.7
+- pkg:nuget/Taitans.Abp.SaasManagement.EntityFrameworkCore@2.6.0
+- pkg:nuget/Taitans.Abp.SaasManagement.EntityFrameworkCore@2.7.1
+- pkg:nuget/Taitans.Abp.SaasManagement.EntityFrameworkCore@2.7.2
+- pkg:nuget/Taitans.Abp.SaasManagement.EntityFrameworkCore@2.7.5
+- pkg:nuget/Taitans.Abp.SaasManagement.EntityFrameworkCore@2.7.6

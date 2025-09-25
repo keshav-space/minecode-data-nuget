@@ -1,0 +1,10 @@
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@1.0.0
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@10.0.0
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@11.0.0
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@2.0.0
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@2.1.0
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@7.5.0
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@7.5.1
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@8.0.0
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@8.0.1
+- pkg:nuget/Xunit.DependencyInjection.Demystifier@9.0.0

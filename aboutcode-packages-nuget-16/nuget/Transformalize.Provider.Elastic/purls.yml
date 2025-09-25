@@ -1,0 +1,4 @@
+- pkg:nuget/Transformalize.Provider.Elastic@0.2.10-beta
+- pkg:nuget/Transformalize.Provider.Elastic@0.2.2-beta
+- pkg:nuget/Transformalize.Provider.Elastic@0.2.6-beta
+- pkg:nuget/Transformalize.Provider.Elastic@0.2.7-beta

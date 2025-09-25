@@ -1,0 +1,6 @@
+- pkg:nuget/MDP.AspNetCore.Authentication.MSSql@8.0.7.47
+- pkg:nuget/MDP.AspNetCore.Authentication.MSSql@8.0.7.50
+- pkg:nuget/MDP.AspNetCore.Authentication.MSSql@8.0.7.51
+- pkg:nuget/MDP.AspNetCore.Authentication.MSSql@8.0.7.53
+- pkg:nuget/MDP.AspNetCore.Authentication.MSSql@8.0.7.54
+- pkg:nuget/MDP.AspNetCore.Authentication.MSSql@8.0.7.62

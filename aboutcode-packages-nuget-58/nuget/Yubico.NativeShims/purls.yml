@@ -1,0 +1,12 @@
+- pkg:nuget/Yubico.NativeShims@1.10.0
+- pkg:nuget/Yubico.NativeShims@1.11.0
+- pkg:nuget/Yubico.NativeShims@1.12.1
+- pkg:nuget/Yubico.NativeShims@1.13.2
+- pkg:nuget/Yubico.NativeShims@1.3.0
+- pkg:nuget/Yubico.NativeShims@1.3.1
+- pkg:nuget/Yubico.NativeShims@1.5.0
+- pkg:nuget/Yubico.NativeShims@1.5.1
+- pkg:nuget/Yubico.NativeShims@1.5.2
+- pkg:nuget/Yubico.NativeShims@1.6.0
+- pkg:nuget/Yubico.NativeShims@1.6.1
+- pkg:nuget/Yubico.NativeShims@1.9.0

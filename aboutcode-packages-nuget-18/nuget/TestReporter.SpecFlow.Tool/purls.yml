@@ -1,0 +1,14 @@
+- pkg:nuget/TestReporter.SpecFlow.Tool@1.0.0
+- pkg:nuget/TestReporter.SpecFlow.Tool@1.0.1
+- pkg:nuget/TestReporter.SpecFlow.Tool@1.0.2
+- pkg:nuget/TestReporter.SpecFlow.Tool@1.0.3
+- pkg:nuget/TestReporter.SpecFlow.Tool@1.0.4
+- pkg:nuget/TestReporter.SpecFlow.Tool@1.0.5
+- pkg:nuget/TestReporter.SpecFlow.Tool@1.0.6
+- pkg:nuget/TestReporter.SpecFlow.Tool@2.0.0
+- pkg:nuget/TestReporter.SpecFlow.Tool@2.1.0
+- pkg:nuget/TestReporter.SpecFlow.Tool@2.2.0
+- pkg:nuget/TestReporter.SpecFlow.Tool@2.3.0
+- pkg:nuget/TestReporter.SpecFlow.Tool@2.3.1
+- pkg:nuget/TestReporter.SpecFlow.Tool@2.4.0
+- pkg:nuget/TestReporter.SpecFlow.Tool@2.4.1

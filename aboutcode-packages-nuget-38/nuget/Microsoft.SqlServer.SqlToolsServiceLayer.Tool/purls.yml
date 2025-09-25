@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.SqlServer.SqlToolsServiceLayer.Tool@1.0.0
+- pkg:nuget/Microsoft.SqlServer.SqlToolsServiceLayer.Tool@1.1.0
+- pkg:nuget/Microsoft.SqlServer.SqlToolsServiceLayer.Tool@1.2.0
+- pkg:nuget/Microsoft.SqlServer.SqlToolsServiceLayer.Tool@1.3.0
+- pkg:nuget/Microsoft.SqlServer.SqlToolsServiceLayer.Tool@2.0.0

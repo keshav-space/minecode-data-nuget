@@ -1,0 +1,5 @@
+- pkg:nuget/My.AspNetCore.Authentication.WeChat@1.0.0
+- pkg:nuget/My.AspNetCore.Authentication.WeChat@1.0.1
+- pkg:nuget/My.AspNetCore.Authentication.WeChat@1.0.2
+- pkg:nuget/My.AspNetCore.Authentication.WeChat@3.1.0
+- pkg:nuget/My.AspNetCore.Authentication.WeChat@3.1.1

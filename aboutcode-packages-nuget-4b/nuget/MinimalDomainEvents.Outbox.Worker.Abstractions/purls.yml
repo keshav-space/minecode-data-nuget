@@ -1,0 +1,2 @@
+- pkg:nuget/MinimalDomainEvents.Outbox.Worker.Abstractions@0.1.0-alpha
+- pkg:nuget/MinimalDomainEvents.Outbox.Worker.Abstractions@1.0.0

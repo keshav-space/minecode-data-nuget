@@ -1,0 +1,1 @@
+- pkg:nuget/AspNetCore.HealthChecks.SurrealDb@9.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/TinyPubSub@1.2.0
+- pkg:nuget/TinyPubSub@1.2.77
+- pkg:nuget/TinyPubSub@2.0.0-preview3
+- pkg:nuget/TinyPubSub@2.0.0-preview4
