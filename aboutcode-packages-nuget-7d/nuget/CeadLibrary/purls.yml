@@ -1,0 +1,3 @@
+- pkg:nuget/CeadLibrary@0.8.0
+- pkg:nuget/CeadLibrary@0.9.0-preview1
+- pkg:nuget/CeadLibrary@0.9.0-preview2

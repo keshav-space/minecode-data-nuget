@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Management.Infrastructure.Runtime.Win@2.0.0
+- pkg:nuget/Microsoft.Management.Infrastructure.Runtime.Win@2.0.0-preview.1
+- pkg:nuget/Microsoft.Management.Infrastructure.Runtime.Win@2.0.0-preview.2
+- pkg:nuget/Microsoft.Management.Infrastructure.Runtime.Win@3.0.0
+- pkg:nuget/Microsoft.Management.Infrastructure.Runtime.Win@3.0.0-preview.1
+- pkg:nuget/Microsoft.Management.Infrastructure.Runtime.Win@3.0.0-preview.2
+- pkg:nuget/Microsoft.Management.Infrastructure.Runtime.Win@3.0.0-preview.3
+- pkg:nuget/Microsoft.Management.Infrastructure.Runtime.Win@3.0.0-preview.4

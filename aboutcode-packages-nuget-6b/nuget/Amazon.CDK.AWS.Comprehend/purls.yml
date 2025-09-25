@@ -1,0 +1,8 @@
+- pkg:nuget/Amazon.CDK.AWS.Comprehend@1.198.0
+- pkg:nuget/Amazon.CDK.AWS.Comprehend@1.198.1
+- pkg:nuget/Amazon.CDK.AWS.Comprehend@1.199.0
+- pkg:nuget/Amazon.CDK.AWS.Comprehend@1.200.0
+- pkg:nuget/Amazon.CDK.AWS.Comprehend@1.201.0
+- pkg:nuget/Amazon.CDK.AWS.Comprehend@1.202.0
+- pkg:nuget/Amazon.CDK.AWS.Comprehend@1.203.0
+- pkg:nuget/Amazon.CDK.AWS.Comprehend@1.204.0

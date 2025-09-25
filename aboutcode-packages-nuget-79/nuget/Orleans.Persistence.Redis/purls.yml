@@ -1,0 +1,9 @@
+- pkg:nuget/Orleans.Persistence.Redis@2.0.0
+- pkg:nuget/Orleans.Persistence.Redis@3.0.0
+- pkg:nuget/Orleans.Persistence.Redis@3.0.1
+- pkg:nuget/Orleans.Persistence.Redis@3.1.0
+- pkg:nuget/Orleans.Persistence.Redis@3.1.1
+- pkg:nuget/Orleans.Persistence.Redis@3.2.0
+- pkg:nuget/Orleans.Persistence.Redis@3.2.1
+- pkg:nuget/Orleans.Persistence.Redis@3.2.2
+- pkg:nuget/Orleans.Persistence.Redis@7.0.0

@@ -1,0 +1,14 @@
+- pkg:nuget/StackExchange.Precompilation.Build@3.0.0
+- pkg:nuget/StackExchange.Precompilation.Build@3.0.2
+- pkg:nuget/StackExchange.Precompilation.Build@3.1.1
+- pkg:nuget/StackExchange.Precompilation.Build@3.2.0
+- pkg:nuget/StackExchange.Precompilation.Build@3.2.1
+- pkg:nuget/StackExchange.Precompilation.Build@3.3.0
+- pkg:nuget/StackExchange.Precompilation.Build@4.0.0
+- pkg:nuget/StackExchange.Precompilation.Build@4.0.0-roslynv2beta
+- pkg:nuget/StackExchange.Precompilation.Build@4.1.1
+- pkg:nuget/StackExchange.Precompilation.Build@4.4.0
+- pkg:nuget/StackExchange.Precompilation.Build@4.5.0
+- pkg:nuget/StackExchange.Precompilation.Build@4.6.0
+- pkg:nuget/StackExchange.Precompilation.Build@4.6.1
+- pkg:nuget/StackExchange.Precompilation.Build@4.7.0

@@ -1,0 +1,4 @@
+- pkg:nuget/System.Buffers.Net40@2.0.0
+- pkg:nuget/System.Buffers.Net40@2.0.0-rtm-170201
+- pkg:nuget/System.Buffers.Net40@2.0.1
+- pkg:nuget/System.Buffers.Net40@2.0.2

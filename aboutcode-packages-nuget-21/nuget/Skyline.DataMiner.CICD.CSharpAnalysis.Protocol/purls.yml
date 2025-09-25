@@ -1,0 +1,12 @@
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.0
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.2
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.3
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.3-alpha
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.4
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.4-attribute.1
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.4-attribute.2
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.4-finalizer.1
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.5
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.0.6
+- pkg:nuget/Skyline.DataMiner.CICD.CSharpAnalysis.Protocol@1.1.0-alpha

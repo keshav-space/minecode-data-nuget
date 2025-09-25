@@ -1,0 +1,17 @@
+- pkg:nuget/Core2D@0.1.0
+- pkg:nuget/Core2D@0.1.1-alpha
+- pkg:nuget/Core2D@0.1.2-alpha
+- pkg:nuget/Core2D@0.10.0-preview2
+- pkg:nuget/Core2D@0.10.0-preview3
+- pkg:nuget/Core2D@0.10.0-preview4
+- pkg:nuget/Core2D@0.10.10-beta1
+- pkg:nuget/Core2D@0.10.11
+- pkg:nuget/Core2D@0.10.11-rc.1
+- pkg:nuget/Core2D@0.10.11-rc.2
+- pkg:nuget/Core2D@0.10.12
+- pkg:nuget/Core2D@0.10.13
+- pkg:nuget/Core2D@0.2.0-alpha
+- pkg:nuget/Core2D@0.2.0-alpha2
+- pkg:nuget/Core2D@11.0.0-preview1
+- pkg:nuget/Core2D@11.0.0-preview8
+- pkg:nuget/Core2D@11.0.0-rc1.1

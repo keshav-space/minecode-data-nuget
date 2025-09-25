@@ -1,0 +1,17 @@
+- pkg:nuget/Footloose.Amqp@1.0.0
+- pkg:nuget/Footloose.Amqp@2.0.0
+- pkg:nuget/Footloose.Amqp@2.0.0-alpha1
+- pkg:nuget/Footloose.Amqp@2.0.0-alpha2
+- pkg:nuget/Footloose.Amqp@2.0.0-alpha3
+- pkg:nuget/Footloose.Amqp@2.0.0-beta1
+- pkg:nuget/Footloose.Amqp@2.0.0-beta2
+- pkg:nuget/Footloose.Amqp@2.0.0-rc1
+- pkg:nuget/Footloose.Amqp@2.1.0-alpha1
+- pkg:nuget/Footloose.Amqp@3.0.0-alpha1
+- pkg:nuget/Footloose.Amqp@3.0.0-alpha2
+- pkg:nuget/Footloose.Amqp@3.0.0-alpha3
+- pkg:nuget/Footloose.Amqp@3.0.0-alpha4
+- pkg:nuget/Footloose.Amqp@3.0.0-beta1
+- pkg:nuget/Footloose.Amqp@3.0.0-beta2
+- pkg:nuget/Footloose.Amqp@3.0.0-beta3
+- pkg:nuget/Footloose.Amqp@3.0.0-beta4

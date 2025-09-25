@@ -1,0 +1,12 @@
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@1.1.1
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@3.10.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@3.12.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@3.9.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@4.0.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@4.2.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@4.3.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@4.4.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@4.4.5
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@4.5.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@5.0.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.PersistenceProvider@5.2.0

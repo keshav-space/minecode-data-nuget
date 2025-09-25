@@ -1,0 +1,13 @@
+- pkg:nuget/MbUtils.RabbitMq.Consumer@1.0.0
+- pkg:nuget/MbUtils.RabbitMq.Consumer@1.0.1
+- pkg:nuget/MbUtils.RabbitMq.Consumer@2.0.0
+- pkg:nuget/MbUtils.RabbitMq.Consumer@2.0.1
+- pkg:nuget/MbUtils.RabbitMq.Consumer@3.0.0
+- pkg:nuget/MbUtils.RabbitMq.Consumer@4.0.0
+- pkg:nuget/MbUtils.RabbitMq.Consumer@5.0.0
+- pkg:nuget/MbUtils.RabbitMq.Consumer@8.0.0
+- pkg:nuget/MbUtils.RabbitMq.Consumer@8.0.1
+- pkg:nuget/MbUtils.RabbitMq.Consumer@9.0.0
+- pkg:nuget/MbUtils.RabbitMq.Consumer@9.0.1
+- pkg:nuget/MbUtils.RabbitMq.Consumer@9.1.0
+- pkg:nuget/MbUtils.RabbitMq.Consumer@9.1.1

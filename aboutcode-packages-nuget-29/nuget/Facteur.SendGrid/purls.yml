@@ -1,0 +1,15 @@
+- pkg:nuget/Facteur.SendGrid@1.0.0
+- pkg:nuget/Facteur.SendGrid@1.0.0-beta.7
+- pkg:nuget/Facteur.SendGrid@1.0.0-beta.8
+- pkg:nuget/Facteur.SendGrid@1.0.0-beta.9
+- pkg:nuget/Facteur.SendGrid@1.0.1
+- pkg:nuget/Facteur.SendGrid@1.1.0
+- pkg:nuget/Facteur.SendGrid@1.1.1
+- pkg:nuget/Facteur.SendGrid@1.1.2
+- pkg:nuget/Facteur.SendGrid@1.1.3
+- pkg:nuget/Facteur.SendGrid@1.2.0
+- pkg:nuget/Facteur.SendGrid@1.2.0-beta.1
+- pkg:nuget/Facteur.SendGrid@2.0.0
+- pkg:nuget/Facteur.SendGrid@2.1.0
+- pkg:nuget/Facteur.SendGrid@2.1.1
+- pkg:nuget/Facteur.SendGrid@3.0.0-alpha.1

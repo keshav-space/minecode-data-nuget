@@ -1,0 +1,17 @@
+- pkg:nuget/kwd.CoreUtil@0.0.2-prev3
+- pkg:nuget/kwd.CoreUtil@1.0.0
+- pkg:nuget/kwd.CoreUtil@1.0.0-alpha-1
+- pkg:nuget/kwd.CoreUtil@1.1.0
+- pkg:nuget/kwd.CoreUtil@1.1.0-rc
+- pkg:nuget/kwd.CoreUtil@1.2.0-beta
+- pkg:nuget/kwd.CoreUtil@1.2.1-beta
+- pkg:nuget/kwd.CoreUtil@1.2.2-beta
+- pkg:nuget/kwd.CoreUtil@1.2.3
+- pkg:nuget/kwd.CoreUtil@1.2.3-beta
+- pkg:nuget/kwd.CoreUtil@1.2.4
+- pkg:nuget/kwd.CoreUtil@1.2.4-beta
+- pkg:nuget/kwd.CoreUtil@1.3.0
+- pkg:nuget/kwd.CoreUtil@1.3.1
+- pkg:nuget/kwd.CoreUtil@1.3.1-preview1
+- pkg:nuget/kwd.CoreUtil@1.3.1-preview2
+- pkg:nuget/kwd.CoreUtil@1.3.2-preview1

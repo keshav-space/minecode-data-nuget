@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Bcl.Immutable@1.0.12-beta
+- pkg:nuget/Microsoft.Bcl.Immutable@1.0.23-rc
+- pkg:nuget/Microsoft.Bcl.Immutable@1.0.27
+- pkg:nuget/Microsoft.Bcl.Immutable@1.0.30
+- pkg:nuget/Microsoft.Bcl.Immutable@1.0.34
+- pkg:nuget/Microsoft.Bcl.Immutable@1.0.5-beta
+- pkg:nuget/Microsoft.Bcl.Immutable@1.0.8-beta
+- pkg:nuget/Microsoft.Bcl.Immutable@1.1.20-beta
+- pkg:nuget/Microsoft.Bcl.Immutable@1.1.22-beta
+- pkg:nuget/Microsoft.Bcl.Immutable@1.1.29-beta
+- pkg:nuget/Microsoft.Bcl.Immutable@1.1.32-beta

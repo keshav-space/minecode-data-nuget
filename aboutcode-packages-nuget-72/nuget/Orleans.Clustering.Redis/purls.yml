@@ -1,0 +1,15 @@
+- pkg:nuget/Orleans.Clustering.Redis@1.0.0
+- pkg:nuget/Orleans.Clustering.Redis@1.0.1
+- pkg:nuget/Orleans.Clustering.Redis@1.0.2
+- pkg:nuget/Orleans.Clustering.Redis@1.0.30
+- pkg:nuget/Orleans.Clustering.Redis@1.0.32
+- pkg:nuget/Orleans.Clustering.Redis@1.1.0
+- pkg:nuget/Orleans.Clustering.Redis@1.1.1
+- pkg:nuget/Orleans.Clustering.Redis@1.1.2
+- pkg:nuget/Orleans.Clustering.Redis@3.0.1
+- pkg:nuget/Orleans.Clustering.Redis@3.1.0
+- pkg:nuget/Orleans.Clustering.Redis@3.1.1
+- pkg:nuget/Orleans.Clustering.Redis@3.2.0
+- pkg:nuget/Orleans.Clustering.Redis@3.2.1
+- pkg:nuget/Orleans.Clustering.Redis@3.2.2
+- pkg:nuget/Orleans.Clustering.Redis@7.0.0
