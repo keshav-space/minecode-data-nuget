@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFrameworkCore.BootKit.Sqlite@8.8.0
+- pkg:nuget/EntityFrameworkCore.BootKit.Sqlite@8.9.0

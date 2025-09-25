@@ -1,0 +1,4 @@
+- pkg:nuget/ChannelAdam.TestFramework.NUnit@3.0.0
+- pkg:nuget/ChannelAdam.TestFramework.NUnit@4.0.0
+- pkg:nuget/ChannelAdam.TestFramework.NUnit@5.0.0
+- pkg:nuget/ChannelAdam.TestFramework.NUnit@5.0.1

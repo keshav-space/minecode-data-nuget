@@ -1,0 +1,2 @@
+- pkg:nuget/ChannelAdam.Serilog.Sinks.MicrosoftExtensionsLoggingLogger@1.0.0
+- pkg:nuget/ChannelAdam.Serilog.Sinks.MicrosoftExtensionsLoggingLogger@2.0.0

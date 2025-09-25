@@ -1,0 +1,2 @@
+- pkg:nuget/EmailApi.HttpClient@8.0.0-alpha
+- pkg:nuget/EmailApi.HttpClient@8.0.4

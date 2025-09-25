@@ -1,0 +1,3 @@
+- pkg:nuget/GenerateClassFromSwagger.Analysis@1.0.0
+- pkg:nuget/GenerateClassFromSwagger.Analysis@1.0.1
+- pkg:nuget/GenerateClassFromSwagger.Analysis@1.0.2

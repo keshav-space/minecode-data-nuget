@@ -1,0 +1,5 @@
+- pkg:nuget/Spriggit@0.18.0-nightly-20240329-094927
+- pkg:nuget/Spriggit@0.36.0
+- pkg:nuget/Spriggit@0.36.1
+- pkg:nuget/Spriggit@0.36.2
+- pkg:nuget/Spriggit@0.36.4

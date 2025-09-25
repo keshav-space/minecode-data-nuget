@@ -1,0 +1,4 @@
+- pkg:nuget/Lenus.Notifications.Email.Smtp@0.1.15
+- pkg:nuget/Lenus.Notifications.Email.Smtp@0.2.0-beta.1
+- pkg:nuget/Lenus.Notifications.Email.Smtp@0.2.1-beta.2
+- pkg:nuget/Lenus.Notifications.Email.Smtp@0.3.0-beta.0

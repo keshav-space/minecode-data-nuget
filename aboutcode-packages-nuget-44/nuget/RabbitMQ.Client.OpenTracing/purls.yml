@@ -1,0 +1,3 @@
+- pkg:nuget/RabbitMQ.Client.OpenTracing@1.0.0-rc.1
+- pkg:nuget/RabbitMQ.Client.OpenTracing@1.0.0-rc.2
+- pkg:nuget/RabbitMQ.Client.OpenTracing@1.0.0-rc.3

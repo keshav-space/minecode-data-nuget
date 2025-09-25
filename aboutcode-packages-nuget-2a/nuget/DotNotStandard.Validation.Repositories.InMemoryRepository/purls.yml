@@ -1,0 +1,3 @@
+- pkg:nuget/DotNotStandard.Validation.Repositories.InMemoryRepository@0.8.0
+- pkg:nuget/DotNotStandard.Validation.Repositories.InMemoryRepository@0.9.0
+- pkg:nuget/DotNotStandard.Validation.Repositories.InMemoryRepository@1.0.0

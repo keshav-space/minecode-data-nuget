@@ -1,0 +1,2 @@
+- pkg:nuget/NpgsqlExtensions.EntityFrameworkCore.ConnectionUri@6.0.8
+- pkg:nuget/NpgsqlExtensions.EntityFrameworkCore.ConnectionUri@7.0.1
