@@ -1,0 +1,4 @@
+- pkg:nuget/Dabble.EntityFrameworkCore.Temporal.Query@1.0.0
+- pkg:nuget/Dabble.EntityFrameworkCore.Temporal.Query@1.0.1
+- pkg:nuget/Dabble.EntityFrameworkCore.Temporal.Query@1.0.2
+- pkg:nuget/Dabble.EntityFrameworkCore.Temporal.Query@1.0.3

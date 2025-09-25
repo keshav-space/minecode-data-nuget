@@ -1,0 +1,5 @@
+- pkg:nuget/OpenSilver.Prism4@1.0.0-beta.1.22.1
+- pkg:nuget/OpenSilver.Prism4@1.0.0.1
+- pkg:nuget/OpenSilver.Prism4@2.0.0
+- pkg:nuget/OpenSilver.Prism4@3.1.0
+- pkg:nuget/OpenSilver.Prism4@3.2.0

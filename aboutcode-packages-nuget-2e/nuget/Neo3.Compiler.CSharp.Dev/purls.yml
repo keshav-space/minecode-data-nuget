@@ -1,0 +1,12 @@
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.0.0
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.0.0-dev1
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.0.0-dev2
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.0.0-rc2
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.0.0-rc3
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.0.0-rc4
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.0.3
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.1.0
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.3.0
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.4.0
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.5.0
+- pkg:nuget/Neo3.Compiler.CSharp.Dev@3.6.0

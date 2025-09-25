@@ -1,0 +1,9 @@
+- pkg:nuget/TemplateAction.NetCore@1.0.0
+- pkg:nuget/TemplateAction.NetCore@4.2.1
+- pkg:nuget/TemplateAction.NetCore@4.4.0
+- pkg:nuget/TemplateAction.NetCore@4.6.1
+- pkg:nuget/TemplateAction.NetCore@4.6.5
+- pkg:nuget/TemplateAction.NetCore@4.7.1
+- pkg:nuget/TemplateAction.NetCore@4.7.3
+- pkg:nuget/TemplateAction.NetCore@4.7.4
+- pkg:nuget/TemplateAction.NetCore@4.8.1

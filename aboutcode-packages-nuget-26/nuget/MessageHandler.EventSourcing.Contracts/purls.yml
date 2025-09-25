@@ -1,0 +1,5 @@
+- pkg:nuget/MessageHandler.EventSourcing.Contracts@3.0.0
+- pkg:nuget/MessageHandler.EventSourcing.Contracts@4.0.0
+- pkg:nuget/MessageHandler.EventSourcing.Contracts@4.0.0-beta1
+- pkg:nuget/MessageHandler.EventSourcing.Contracts@4.0.0-rc1
+- pkg:nuget/MessageHandler.EventSourcing.Contracts@5.0.0

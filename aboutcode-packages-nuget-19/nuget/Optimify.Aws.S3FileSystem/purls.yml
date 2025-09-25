@@ -1,0 +1,9 @@
+- pkg:nuget/Optimify.Aws.S3FileSystem@1.0.0
+- pkg:nuget/Optimify.Aws.S3FileSystem@1.1.0
+- pkg:nuget/Optimify.Aws.S3FileSystem@1.2.0
+- pkg:nuget/Optimify.Aws.S3FileSystem@1.3.0
+- pkg:nuget/Optimify.Aws.S3FileSystem@1.3.1
+- pkg:nuget/Optimify.Aws.S3FileSystem@5.0.0-alpha
+- pkg:nuget/Optimify.Aws.S3FileSystem@5.0.1-alpha
+- pkg:nuget/Optimify.Aws.S3FileSystem@5.0.2
+- pkg:nuget/Optimify.Aws.S3FileSystem@6.0.0

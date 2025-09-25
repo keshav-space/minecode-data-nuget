@@ -1,0 +1,8 @@
+- pkg:nuget/NodaTime.Serialization.ServiceStackText@1.2.17
+- pkg:nuget/NodaTime.Serialization.ServiceStackText@1.2.18
+- pkg:nuget/NodaTime.Serialization.ServiceStackText@1.2.6
+- pkg:nuget/NodaTime.Serialization.ServiceStackText@1.2.8
+- pkg:nuget/NodaTime.Serialization.ServiceStackText@2.0.2.38544
+- pkg:nuget/NodaTime.Serialization.ServiceStackText@3.0.0.43813
+- pkg:nuget/NodaTime.Serialization.ServiceStackText@3.1.2
+- pkg:nuget/NodaTime.Serialization.ServiceStackText@3.1.3

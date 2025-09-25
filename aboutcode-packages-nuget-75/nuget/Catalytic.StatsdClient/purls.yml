@@ -1,0 +1,2 @@
+- pkg:nuget/Catalytic.StatsdClient@1.0.0
+- pkg:nuget/Catalytic.StatsdClient@2.0.0

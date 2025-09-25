@@ -1,0 +1,4 @@
+- pkg:nuget/Solid.ServiceModel@1.0.1-beta
+- pkg:nuget/Solid.ServiceModel@4.0.0
+- pkg:nuget/Solid.ServiceModel@4.0.1
+- pkg:nuget/Solid.ServiceModel@4.0.2

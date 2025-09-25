@@ -1,0 +1,3 @@
+- pkg:nuget/LessCode.EFCore.StronglyTypedIdGenerator.Patched@7.0.1
+- pkg:nuget/LessCode.EFCore.StronglyTypedIdGenerator.Patched@7.0.2
+- pkg:nuget/LessCode.EFCore.StronglyTypedIdGenerator.Patched@7.0.3

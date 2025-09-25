@@ -1,0 +1,4 @@
+- pkg:nuget/LightResults.Extensions.EntityFrameworkCore@8.0.0
+- pkg:nuget/LightResults.Extensions.EntityFrameworkCore@8.0.1
+- pkg:nuget/LightResults.Extensions.EntityFrameworkCore@9.0.0
+- pkg:nuget/LightResults.Extensions.EntityFrameworkCore@9.0.1

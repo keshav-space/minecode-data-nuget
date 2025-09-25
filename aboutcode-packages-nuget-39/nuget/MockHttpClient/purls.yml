@@ -1,0 +1,5 @@
+- pkg:nuget/MockHttpClient@1.0.0
+- pkg:nuget/MockHttpClient@1.0.0-beta
+- pkg:nuget/MockHttpClient@1.0.1
+- pkg:nuget/MockHttpClient@1.10.0
+- pkg:nuget/MockHttpClient@1.11.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Unofficial.MassTransit@8.2.0-develop-01
+- pkg:nuget/Unofficial.MassTransit@8.2.0-develop-1
+- pkg:nuget/Unofficial.MassTransit@8.2.0-rc-1
+- pkg:nuget/Unofficial.MassTransit@8.2.0-rc-2
+- pkg:nuget/Unofficial.MassTransit@8.2.0-rc-3

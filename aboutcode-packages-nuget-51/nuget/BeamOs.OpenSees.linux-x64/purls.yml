@@ -1,0 +1,5 @@
+- pkg:nuget/BeamOs.OpenSees.linux-x64@3.7.0
+- pkg:nuget/BeamOs.OpenSees.linux-x64@3.7.0.1
+- pkg:nuget/BeamOs.OpenSees.linux-x64@3.7.0.2
+- pkg:nuget/BeamOs.OpenSees.linux-x64@3.7.0.3
+- pkg:nuget/BeamOs.OpenSees.linux-x64@3.7.1

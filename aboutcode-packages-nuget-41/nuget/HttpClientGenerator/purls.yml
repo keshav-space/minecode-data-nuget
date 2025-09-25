@@ -1,0 +1,6 @@
+- pkg:nuget/HttpClientGenerator@0.0.1-preview
+- pkg:nuget/HttpClientGenerator@0.5.0
+- pkg:nuget/HttpClientGenerator@0.5.2
+- pkg:nuget/HttpClientGenerator@0.5.3
+- pkg:nuget/HttpClientGenerator@0.6.0
+- pkg:nuget/HttpClientGenerator@0.6.1

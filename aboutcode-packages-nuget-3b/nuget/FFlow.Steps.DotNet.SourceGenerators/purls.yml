@@ -1,0 +1,4 @@
+- pkg:nuget/FFlow.Steps.DotNet.SourceGenerators@1.1.2
+- pkg:nuget/FFlow.Steps.DotNet.SourceGenerators@1.2.1
+- pkg:nuget/FFlow.Steps.DotNet.SourceGenerators@1.2.2
+- pkg:nuget/FFlow.Steps.DotNet.SourceGenerators@1.2.3

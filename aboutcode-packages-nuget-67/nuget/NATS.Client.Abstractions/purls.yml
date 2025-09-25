@@ -1,0 +1,5 @@
+- pkg:nuget/NATS.Client.Abstractions@2.7.0-preview.1
+- pkg:nuget/NATS.Client.Abstractions@2.7.0-preview.2
+- pkg:nuget/NATS.Client.Abstractions@2.7.0-preview.3
+- pkg:nuget/NATS.Client.Abstractions@2.7.0-preview.4
+- pkg:nuget/NATS.Client.Abstractions@2.7.0-preview.5

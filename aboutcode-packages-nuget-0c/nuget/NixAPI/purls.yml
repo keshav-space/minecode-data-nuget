@@ -1,0 +1,4 @@
+- pkg:nuget/NixAPI@1.0.0
+- pkg:nuget/NixAPI@4.8.0
+- pkg:nuget/NixAPI@4.9.0
+- pkg:nuget/NixAPI@5.0.0

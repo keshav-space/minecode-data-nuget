@@ -1,0 +1,3 @@
+- pkg:nuget/AspNetCore.SwaggerUI@0.1.0
+- pkg:nuget/AspNetCore.SwaggerUI@1.0.0
+- pkg:nuget/AspNetCore.SwaggerUI@1.0.1

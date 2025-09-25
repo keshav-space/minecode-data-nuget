@@ -1,0 +1,3 @@
+- pkg:nuget/HB.Infrastructure.IdGen@1.1.0
+- pkg:nuget/HB.Infrastructure.IdGen@1.2.2-alpha
+- pkg:nuget/HB.Infrastructure.IdGen@2.0.0-alpha

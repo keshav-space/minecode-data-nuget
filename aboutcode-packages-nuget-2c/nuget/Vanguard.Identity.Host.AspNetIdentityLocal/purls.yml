@@ -1,0 +1,9 @@
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@1.0.0
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@1.0.1
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@1.0.1.1
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@1.1.0
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@1.1.1
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@1.1.2
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@1.1.3
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@2.0.0
+- pkg:nuget/Vanguard.Identity.Host.AspNetIdentityLocal@3.0.0

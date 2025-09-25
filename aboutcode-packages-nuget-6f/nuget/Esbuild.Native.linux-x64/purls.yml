@@ -1,0 +1,2 @@
+- pkg:nuget/Esbuild.Native.linux-x64@0.21.2
+- pkg:nuget/Esbuild.Native.linux-x64@0.21.3

@@ -1,0 +1,4 @@
+- pkg:nuget/ServiceFabric.Extensions.Configuration@1.0.0
+- pkg:nuget/ServiceFabric.Extensions.Configuration@1.0.0-rc1-001
+- pkg:nuget/ServiceFabric.Extensions.Configuration@1.0.0-rc2-000
+- pkg:nuget/ServiceFabric.Extensions.Configuration@1.0.1
