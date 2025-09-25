@@ -1,0 +1,6 @@
+- pkg:nuget/SQLite.Universal@3.25.3
+- pkg:nuget/SQLite.Universal@3.26.0
+- pkg:nuget/SQLite.Universal@3.26.1
+- pkg:nuget/SQLite.Universal@3.27.1
+- pkg:nuget/SQLite.Universal@3.27.2
+- pkg:nuget/SQLite.Universal@3.28.0

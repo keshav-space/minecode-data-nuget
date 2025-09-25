@@ -1,0 +1,4 @@
+- pkg:nuget/CodeMonarchs.OpenAISharp.Model@0.0.2
+- pkg:nuget/CodeMonarchs.OpenAISharp.Model@0.0.3
+- pkg:nuget/CodeMonarchs.OpenAISharp.Model@0.2.3
+- pkg:nuget/CodeMonarchs.OpenAISharp.Model@1.0.1

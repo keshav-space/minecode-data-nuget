@@ -1,0 +1,15 @@
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.0-alpha
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.1-alpha
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.10
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.11
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.13
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.2-alpha
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.3-alpha
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.4-alpha
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.5-alpha
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.6-alpha
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.7
+- pkg:nuget/Owin.Framework.Authorization.UI@1.0.9
+- pkg:nuget/Owin.Framework.Authorization.UI@1.1.0
+- pkg:nuget/Owin.Framework.Authorization.UI@1.1.1
+- pkg:nuget/Owin.Framework.Authorization.UI@1.1.2

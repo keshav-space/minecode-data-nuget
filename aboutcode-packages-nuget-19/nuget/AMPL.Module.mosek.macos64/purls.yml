@@ -1,0 +1,3 @@
+- pkg:nuget/AMPL.Module.mosek.macos64@2024.4.29
+- pkg:nuget/AMPL.Module.mosek.macos64@2024.9.1
+- pkg:nuget/AMPL.Module.mosek.macos64@2025.2.26

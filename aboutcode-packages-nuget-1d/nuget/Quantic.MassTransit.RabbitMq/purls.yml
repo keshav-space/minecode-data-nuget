@@ -1,0 +1,8 @@
+- pkg:nuget/Quantic.MassTransit.RabbitMq@1.0.0
+- pkg:nuget/Quantic.MassTransit.RabbitMq@1.0.1
+- pkg:nuget/Quantic.MassTransit.RabbitMq@2.0.1
+- pkg:nuget/Quantic.MassTransit.RabbitMq@2.0.2
+- pkg:nuget/Quantic.MassTransit.RabbitMq@2.0.3
+- pkg:nuget/Quantic.MassTransit.RabbitMq@2.0.6
+- pkg:nuget/Quantic.MassTransit.RabbitMq@2.0.7
+- pkg:nuget/Quantic.MassTransit.RabbitMq@2.1.0

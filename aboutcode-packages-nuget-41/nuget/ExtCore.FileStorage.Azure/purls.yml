@@ -1,0 +1,8 @@
+- pkg:nuget/ExtCore.FileStorage.Azure@7.1.0
+- pkg:nuget/ExtCore.FileStorage.Azure@7.1.1
+- pkg:nuget/ExtCore.FileStorage.Azure@7.1.2
+- pkg:nuget/ExtCore.FileStorage.Azure@7.1.3
+- pkg:nuget/ExtCore.FileStorage.Azure@8.0.0
+- pkg:nuget/ExtCore.FileStorage.Azure@8.1.0
+- pkg:nuget/ExtCore.FileStorage.Azure@9.0.0
+- pkg:nuget/ExtCore.FileStorage.Azure@9.0.0-beta1

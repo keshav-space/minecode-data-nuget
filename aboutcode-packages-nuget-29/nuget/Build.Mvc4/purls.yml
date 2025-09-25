@@ -1,0 +1,14 @@
+- pkg:nuget/Build.Mvc4@2012.8.15
+- pkg:nuget/Build.Mvc4@2013.3.5-pre
+- pkg:nuget/Build.Mvc4@2013.3.5.2-pre
+- pkg:nuget/Build.Mvc4@2013.3.5.3-pre
+- pkg:nuget/Build.Mvc4@2013.3.5.4-pre
+- pkg:nuget/Build.Mvc4@2013.3.5.5
+- pkg:nuget/Build.Mvc4@2013.5.23-pre
+- pkg:nuget/Build.Mvc4@2013.5.23.1-pre
+- pkg:nuget/Build.Mvc4@2013.5.23.2-pre
+- pkg:nuget/Build.Mvc4@2013.5.23.3-pre
+- pkg:nuget/Build.Mvc4@2013.5.23.4-pre
+- pkg:nuget/Build.Mvc4@2013.5.23.5-pre
+- pkg:nuget/Build.Mvc4@2013.5.23.6-pre
+- pkg:nuget/Build.Mvc4@2013.5.24-pre

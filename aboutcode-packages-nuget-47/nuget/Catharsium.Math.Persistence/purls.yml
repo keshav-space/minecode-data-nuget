@@ -1,0 +1,15 @@
+- pkg:nuget/Catharsium.Math.Persistence@0.5.3
+- pkg:nuget/Catharsium.Math.Persistence@1.0.0
+- pkg:nuget/Catharsium.Math.Persistence@1.0.1
+- pkg:nuget/Catharsium.Math.Persistence@1.0.2
+- pkg:nuget/Catharsium.Math.Persistence@1.1.0
+- pkg:nuget/Catharsium.Math.Persistence@1.1.1
+- pkg:nuget/Catharsium.Math.Persistence@2021.6.4.3
+- pkg:nuget/Catharsium.Math.Persistence@2021.6.4.4
+- pkg:nuget/Catharsium.Math.Persistence@20210103.1.0
+- pkg:nuget/Catharsium.Math.Persistence@20210103.2.0
+- pkg:nuget/Catharsium.Math.Persistence@20210516.1.0
+- pkg:nuget/Catharsium.Math.Persistence@20210516.2.0
+- pkg:nuget/Catharsium.Math.Persistence@20210516.3.0
+- pkg:nuget/Catharsium.Math.Persistence@20210516.4.0
+- pkg:nuget/Catharsium.Math.Persistence@20210517.1.0

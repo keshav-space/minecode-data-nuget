@@ -1,0 +1,6 @@
+- pkg:nuget/Rocket.Surgery.WebAssembly.Hosting.Autofac@7.2.0
+- pkg:nuget/Rocket.Surgery.WebAssembly.Hosting.Autofac@7.2.0-beta.3
+- pkg:nuget/Rocket.Surgery.WebAssembly.Hosting.Autofac@7.2.0-beta.4
+- pkg:nuget/Rocket.Surgery.WebAssembly.Hosting.Autofac@7.2.0-beta.6
+- pkg:nuget/Rocket.Surgery.WebAssembly.Hosting.Autofac@8.0.0
+- pkg:nuget/Rocket.Surgery.WebAssembly.Hosting.Autofac@8.0.1

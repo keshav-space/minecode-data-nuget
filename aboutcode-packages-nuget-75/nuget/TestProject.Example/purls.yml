@@ -1,0 +1,7 @@
+- pkg:nuget/TestProject.Example@1.0.0
+- pkg:nuget/TestProject.Example@1.0.0-ci-1234
+- pkg:nuget/TestProject.Example@1.0.0-ci-1235
+- pkg:nuget/TestProject.Example@1.0.0-foo
+- pkg:nuget/TestProject.Example@1.1.0
+- pkg:nuget/TestProject.Example@2.0.0-beta-final
+- pkg:nuget/TestProject.Example@2.0.1

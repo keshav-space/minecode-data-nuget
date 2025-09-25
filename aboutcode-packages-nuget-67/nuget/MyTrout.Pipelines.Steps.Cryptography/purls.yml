@@ -1,0 +1,11 @@
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@0.2.2-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@0.4.0-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@0.5.0-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@1.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@2.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@3.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@3.1.0
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@3.2.0
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@4.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@4.1.0
+- pkg:nuget/MyTrout.Pipelines.Steps.Cryptography@4.1.1

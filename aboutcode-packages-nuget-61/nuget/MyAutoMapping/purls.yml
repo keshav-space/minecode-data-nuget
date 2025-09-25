@@ -1,0 +1,5 @@
+- pkg:nuget/MyAutoMapping@1.0.0
+- pkg:nuget/MyAutoMapping@2.0.0
+- pkg:nuget/MyAutoMapping@3.0.0
+- pkg:nuget/MyAutoMapping@3.0.0-beta
+- pkg:nuget/MyAutoMapping@3.0.0-rc

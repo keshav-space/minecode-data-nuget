@@ -1,0 +1,13 @@
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@2.0.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@2.1.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@2.2.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@3.0.54
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@3.0.55
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@3.1.58
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@3.8.97
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@4.0.13
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@4.0.14
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@4.0.15
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@5.1.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@5.2.1
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Redis@5.2.2

@@ -1,0 +1,12 @@
+- pkg:nuget/FlatGeobuf@3.1.1
+- pkg:nuget/FlatGeobuf@3.1.2
+- pkg:nuget/FlatGeobuf@3.1.3
+- pkg:nuget/FlatGeobuf@3.19.0
+- pkg:nuget/FlatGeobuf@3.22.1
+- pkg:nuget/FlatGeobuf@3.22.2
+- pkg:nuget/FlatGeobuf@3.24.0
+- pkg:nuget/FlatGeobuf@3.25.0
+- pkg:nuget/FlatGeobuf@3.25.2
+- pkg:nuget/FlatGeobuf@3.26.0
+- pkg:nuget/FlatGeobuf@3.8.0
+- pkg:nuget/FlatGeobuf@3.9.0

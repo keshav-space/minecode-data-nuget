@@ -1,0 +1,13 @@
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@0.2.1-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@0.3.0-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@0.4.0-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@0.5.0-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@1.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@2.0.1
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@2.0.2
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@2.1.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@3.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@3.1.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@3.2.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@4.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Files@4.1.0

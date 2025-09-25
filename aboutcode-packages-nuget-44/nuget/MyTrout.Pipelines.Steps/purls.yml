@@ -1,0 +1,5 @@
+- pkg:nuget/MyTrout.Pipelines.Steps@0.1.0-beta
+- pkg:nuget/MyTrout.Pipelines.Steps@1.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps@1.0.1
+- pkg:nuget/MyTrout.Pipelines.Steps@2.0.6
+- pkg:nuget/MyTrout.Pipelines.Steps@2.0.7

@@ -1,0 +1,16 @@
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.0.0
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.1.0
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.3.0
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.4.0
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.4.1
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.4.2
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.5.0
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.6.0
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.7.0
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.7.1
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.8.0
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.8.1
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.8.2
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.8.3
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.8.4
+- pkg:nuget/OSS.Core.Comp.DirConfig.Mysql@2.9.0

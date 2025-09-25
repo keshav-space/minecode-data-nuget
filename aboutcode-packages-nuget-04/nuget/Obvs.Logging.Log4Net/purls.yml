@@ -1,0 +1,7 @@
+- pkg:nuget/Obvs.Logging.Log4Net@1.5.2
+- pkg:nuget/Obvs.Logging.Log4Net@1.6.0
+- pkg:nuget/Obvs.Logging.Log4Net@2.0.0.5
+- pkg:nuget/Obvs.Logging.Log4Net@2.0.0.6
+- pkg:nuget/Obvs.Logging.Log4Net@3.0.0.10
+- pkg:nuget/Obvs.Logging.Log4Net@3.0.0.9
+- pkg:nuget/Obvs.Logging.Log4Net@4.0.0.12

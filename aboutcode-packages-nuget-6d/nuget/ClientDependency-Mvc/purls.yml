@@ -1,0 +1,17 @@
+- pkg:nuget/ClientDependency-Mvc@1.2.0
+- pkg:nuget/ClientDependency-Mvc@1.3.0
+- pkg:nuget/ClientDependency-Mvc@1.3.0.1
+- pkg:nuget/ClientDependency-Mvc@1.3.1
+- pkg:nuget/ClientDependency-Mvc@1.3.2
+- pkg:nuget/ClientDependency-Mvc@1.4.0
+- pkg:nuget/ClientDependency-Mvc@1.5.0
+- pkg:nuget/ClientDependency-Mvc@1.5.0.1
+- pkg:nuget/ClientDependency-Mvc@1.5.1
+- pkg:nuget/ClientDependency-Mvc@1.6.0
+- pkg:nuget/ClientDependency-Mvc@1.7.0
+- pkg:nuget/ClientDependency-Mvc@1.7.0.3
+- pkg:nuget/ClientDependency-Mvc@1.7.0.4
+- pkg:nuget/ClientDependency-Mvc@1.8.0
+- pkg:nuget/ClientDependency-Mvc@1.8.0-beta
+- pkg:nuget/ClientDependency-Mvc@1.8.0-beta2
+- pkg:nuget/ClientDependency-Mvc@1.9.3

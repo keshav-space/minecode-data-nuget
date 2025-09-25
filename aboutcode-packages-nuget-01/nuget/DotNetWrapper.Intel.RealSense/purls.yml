@@ -1,0 +1,9 @@
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.36.0
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.36.1
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.36.1-alpha.1
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.36.2
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.36.3
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.49.0
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.49.1
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.49.2
+- pkg:nuget/DotNetWrapper.Intel.RealSense@2.49.3

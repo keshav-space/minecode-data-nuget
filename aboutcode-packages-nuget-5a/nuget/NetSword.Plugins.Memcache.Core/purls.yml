@@ -1,0 +1,4 @@
+- pkg:nuget/NetSword.Plugins.Memcache.Core@1.0.0
+- pkg:nuget/NetSword.Plugins.Memcache.Core@8.1.4.3
+- pkg:nuget/NetSword.Plugins.Memcache.Core@8.1.4.8
+- pkg:nuget/NetSword.Plugins.Memcache.Core@8.1.5

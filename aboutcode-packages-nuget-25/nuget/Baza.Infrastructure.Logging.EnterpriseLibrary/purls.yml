@@ -1,0 +1,8 @@
+- pkg:nuget/Baza.Infrastructure.Logging.EnterpriseLibrary@1.3.0-beta1
+- pkg:nuget/Baza.Infrastructure.Logging.EnterpriseLibrary@1.3.1-beta1
+- pkg:nuget/Baza.Infrastructure.Logging.EnterpriseLibrary@1.3.2-beta1
+- pkg:nuget/Baza.Infrastructure.Logging.EnterpriseLibrary@1.3.3-beta
+- pkg:nuget/Baza.Infrastructure.Logging.EnterpriseLibrary@1.3.3-rc-build01
+- pkg:nuget/Baza.Infrastructure.Logging.EnterpriseLibrary@1.4.0-rc1
+- pkg:nuget/Baza.Infrastructure.Logging.EnterpriseLibrary@1.4.1-rc1
+- pkg:nuget/Baza.Infrastructure.Logging.EnterpriseLibrary@1.5.0

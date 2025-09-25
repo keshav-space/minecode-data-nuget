@@ -1,0 +1,16 @@
+- pkg:nuget/TickSpec.Build@1.0.0
+- pkg:nuget/TickSpec.Build@1.1.0
+- pkg:nuget/TickSpec.Build@2.0.0
+- pkg:nuget/TickSpec.Build@2.1.0
+- pkg:nuget/TickSpec.Build@2.10.0
+- pkg:nuget/TickSpec.Build@2.2.0
+- pkg:nuget/TickSpec.Build@2.3.0
+- pkg:nuget/TickSpec.Build@2.4.0
+- pkg:nuget/TickSpec.Build@2.5.0
+- pkg:nuget/TickSpec.Build@2.6.0
+- pkg:nuget/TickSpec.Build@2.7.0
+- pkg:nuget/TickSpec.Build@2.8.0
+- pkg:nuget/TickSpec.Build@2.9.0
+- pkg:nuget/TickSpec.Build@3.0.0
+- pkg:nuget/TickSpec.Build@4.0.0
+- pkg:nuget/TickSpec.Build@4.1.0

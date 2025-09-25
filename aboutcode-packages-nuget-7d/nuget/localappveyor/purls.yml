@@ -1,0 +1,15 @@
+- pkg:nuget/localappveyor@0.5.0
+- pkg:nuget/localappveyor@0.5.0-alpha.10
+- pkg:nuget/localappveyor@0.5.0-alpha10
+- pkg:nuget/localappveyor@0.5.0-alpha7
+- pkg:nuget/localappveyor@0.5.0-alpha8
+- pkg:nuget/localappveyor@0.5.0-alpha9
+- pkg:nuget/localappveyor@0.5.1
+- pkg:nuget/localappveyor@0.5.2
+- pkg:nuget/localappveyor@0.5.3
+- pkg:nuget/localappveyor@0.5.4
+- pkg:nuget/localappveyor@0.5.5
+- pkg:nuget/localappveyor@0.5.6
+- pkg:nuget/localappveyor@0.5.7
+- pkg:nuget/localappveyor@0.5.8
+- pkg:nuget/localappveyor@0.6.0

@@ -1,0 +1,12 @@
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@0.1.0-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@0.1.1-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@0.1.2-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@0.2.0-beta
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@1.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@2.0.1
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@3.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@3.1.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@4.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@5.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@6.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.IO.Compression@6.1.0

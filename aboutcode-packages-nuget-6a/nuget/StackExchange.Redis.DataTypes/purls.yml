@@ -1,0 +1,3 @@
+- pkg:nuget/StackExchange.Redis.DataTypes@1.0.0
+- pkg:nuget/StackExchange.Redis.DataTypes@1.0.0.1
+- pkg:nuget/StackExchange.Redis.DataTypes@2.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/CodeMonarchs.OpenAISharp.Client@0.0.1-beta
+- pkg:nuget/CodeMonarchs.OpenAISharp.Client@0.0.2
+- pkg:nuget/CodeMonarchs.OpenAISharp.Client@0.0.3
+- pkg:nuget/CodeMonarchs.OpenAISharp.Client@0.2.3
+- pkg:nuget/CodeMonarchs.OpenAISharp.Client@1.0.1

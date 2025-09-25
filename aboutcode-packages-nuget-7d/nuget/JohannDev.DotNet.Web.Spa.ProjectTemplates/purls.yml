@@ -1,0 +1,5 @@
+- pkg:nuget/JohannDev.DotNet.Web.Spa.ProjectTemplates@0.0.0-alpha.0
+- pkg:nuget/JohannDev.DotNet.Web.Spa.ProjectTemplates@0.5.0%2Bbuild.16
+- pkg:nuget/JohannDev.DotNet.Web.Spa.ProjectTemplates@0.5.0-alpha
+- pkg:nuget/JohannDev.DotNet.Web.Spa.ProjectTemplates@0.5.0-alpha.2%2Bbuild.13
+- pkg:nuget/JohannDev.DotNet.Web.Spa.ProjectTemplates@0.6.0%2Bbuild.22

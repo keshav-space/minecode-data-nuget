@@ -1,0 +1,2 @@
+- pkg:nuget/PostgreSQL.PostGIS.CLI@0.1.11
+- pkg:nuget/PostgreSQL.PostGIS.CLI@0.1.14

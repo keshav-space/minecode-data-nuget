@@ -1,0 +1,11 @@
+- pkg:nuget/MyTrout.Pipelines.Hosting@0.15.1-beta
+- pkg:nuget/MyTrout.Pipelines.Hosting@0.19.0-beta
+- pkg:nuget/MyTrout.Pipelines.Hosting@0.20.0-beta
+- pkg:nuget/MyTrout.Pipelines.Hosting@0.21.0-beta
+- pkg:nuget/MyTrout.Pipelines.Hosting@1.0.0
+- pkg:nuget/MyTrout.Pipelines.Hosting@1.2.0
+- pkg:nuget/MyTrout.Pipelines.Hosting@2.0.2
+- pkg:nuget/MyTrout.Pipelines.Hosting@3.0.0
+- pkg:nuget/MyTrout.Pipelines.Hosting@3.1.0
+- pkg:nuget/MyTrout.Pipelines.Hosting@4.0.0
+- pkg:nuget/MyTrout.Pipelines.Hosting@4.1.0

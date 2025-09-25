@@ -1,0 +1,5 @@
+- pkg:nuget/Swisschain.Extensions.Postgres@0.0.1
+- pkg:nuget/Swisschain.Extensions.Postgres@1.0.0
+- pkg:nuget/Swisschain.Extensions.Postgres@1.0.0-beta
+- pkg:nuget/Swisschain.Extensions.Postgres@1.0.0-beta.1
+- pkg:nuget/Swisschain.Extensions.Postgres@1.0.0-beta.2

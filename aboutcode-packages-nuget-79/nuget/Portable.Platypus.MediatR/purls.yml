@@ -1,0 +1,5 @@
+- pkg:nuget/Portable.Platypus.MediatR@1.1.16-beta
+- pkg:nuget/Portable.Platypus.MediatR@1.1.17-beta
+- pkg:nuget/Portable.Platypus.MediatR@1.1.18
+- pkg:nuget/Portable.Platypus.MediatR@1.1.19-beta
+- pkg:nuget/Portable.Platypus.MediatR@1.1.20
