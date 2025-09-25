@@ -1,0 +1,6 @@
+- pkg:nuget/GitOps.TestingApp.WatchdogTests@0.1.10
+- pkg:nuget/GitOps.TestingApp.WatchdogTests@0.1.12
+- pkg:nuget/GitOps.TestingApp.WatchdogTests@0.1.14
+- pkg:nuget/GitOps.TestingApp.WatchdogTests@0.1.16
+- pkg:nuget/GitOps.TestingApp.WatchdogTests@0.1.17
+- pkg:nuget/GitOps.TestingApp.WatchdogTests@0.1.8

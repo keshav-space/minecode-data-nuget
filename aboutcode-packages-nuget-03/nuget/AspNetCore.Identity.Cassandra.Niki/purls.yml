@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCore.Identity.Cassandra.Niki@7.0.0
+- pkg:nuget/AspNetCore.Identity.Cassandra.Niki@7.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Codebrudi.SignalR.Contract@0.0.1
+- pkg:nuget/Codebrudi.SignalR.Contract@1.0.0-preview20240414.3
+- pkg:nuget/Codebrudi.SignalR.Contract@1.0.0-preview20240427.1
+- pkg:nuget/Codebrudi.SignalR.Contract@1.0.0-preview20240427.2
+- pkg:nuget/Codebrudi.SignalR.Contract@1.0.0-preview20240427.3

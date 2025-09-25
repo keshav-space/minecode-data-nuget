@@ -1,0 +1,4 @@
+- pkg:nuget/Esterdigi.Core.Authorization@1.0.0
+- pkg:nuget/Esterdigi.Core.Authorization@1.1.0
+- pkg:nuget/Esterdigi.Core.Authorization@2.0.0
+- pkg:nuget/Esterdigi.Core.Authorization@2.0.1

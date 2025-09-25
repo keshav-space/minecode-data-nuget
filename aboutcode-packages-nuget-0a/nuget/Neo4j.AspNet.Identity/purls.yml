@@ -1,0 +1,9 @@
+- pkg:nuget/Neo4j.AspNet.Identity@0.0.1
+- pkg:nuget/Neo4j.AspNet.Identity@1.0.0
+- pkg:nuget/Neo4j.AspNet.Identity@1.0.21
+- pkg:nuget/Neo4j.AspNet.Identity@1.1.0
+- pkg:nuget/Neo4j.AspNet.Identity@1.1.11
+- pkg:nuget/Neo4j.AspNet.Identity@1.1.19
+- pkg:nuget/Neo4j.AspNet.Identity@1.1.23
+- pkg:nuget/Neo4j.AspNet.Identity@1.1.24
+- pkg:nuget/Neo4j.AspNet.Identity@2.0.2

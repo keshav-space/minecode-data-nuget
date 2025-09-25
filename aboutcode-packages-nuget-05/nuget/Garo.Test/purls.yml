@@ -1,0 +1,4 @@
+- pkg:nuget/Garo.Test@123.0.0
+- pkg:nuget/Garo.Test@1234.0.0
+- pkg:nuget/Garo.Test@12345.0.0
+- pkg:nuget/Garo.Test@444.0.0

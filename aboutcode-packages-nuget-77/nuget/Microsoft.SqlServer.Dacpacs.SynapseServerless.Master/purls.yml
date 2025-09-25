@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.SqlServer.Dacpacs.SynapseServerless.Master@160.0.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs.SynapseServerless.Master@160.1.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs.SynapseServerless.Master@160.2.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs.SynapseServerless.Master@160.2.1
+- pkg:nuget/Microsoft.SqlServer.Dacpacs.SynapseServerless.Master@160.2.2

@@ -1,0 +1,3 @@
+- pkg:nuget/DevTeam.Messaging.Smtp@3.5.8
+- pkg:nuget/DevTeam.Messaging.Smtp@3.6.0
+- pkg:nuget/DevTeam.Messaging.Smtp@3.6.1

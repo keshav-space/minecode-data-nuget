@@ -1,0 +1,5 @@
+- pkg:nuget/RazorClassLibraryTest@1.0.0
+- pkg:nuget/RazorClassLibraryTest@1.1.12
+- pkg:nuget/RazorClassLibraryTest@1.2.0
+- pkg:nuget/RazorClassLibraryTest@1.2.1
+- pkg:nuget/RazorClassLibraryTest@1.2.3-alpha1

@@ -1,0 +1,9 @@
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.1.4.1751-sdk-dotnet-10-p
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.1.7.1839-sdk-dotnet-10-p
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.1.7.1840-sdk-dotnet-10-p
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.1.7.1841-main
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.1.7.1843-main
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.1.7.1845-main
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.1.7.1846-main
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.1.7.1852-main
+- pkg:nuget/FunFair.BuildCheck.win-arm64@474.2.1.1867

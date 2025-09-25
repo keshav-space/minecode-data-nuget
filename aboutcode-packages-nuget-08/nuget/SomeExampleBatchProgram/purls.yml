@@ -1,0 +1,4 @@
+- pkg:nuget/SomeExampleBatchProgram@1.0.0
+- pkg:nuget/SomeExampleBatchProgram@2015.11.30.5
+- pkg:nuget/SomeExampleBatchProgram@2015.11.30.6
+- pkg:nuget/SomeExampleBatchProgram@2015.11.30.7

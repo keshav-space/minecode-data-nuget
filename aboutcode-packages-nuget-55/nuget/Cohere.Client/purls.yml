@@ -1,0 +1,2 @@
+- pkg:nuget/Cohere.Client@0.1.0-dev
+- pkg:nuget/Cohere.Client@0.1.1

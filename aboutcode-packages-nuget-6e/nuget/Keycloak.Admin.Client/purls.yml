@@ -1,0 +1,5 @@
+- pkg:nuget/Keycloak.Admin.Client@1.0.0
+- pkg:nuget/Keycloak.Admin.Client@1.0.1
+- pkg:nuget/Keycloak.Admin.Client@1.0.2
+- pkg:nuget/Keycloak.Admin.Client@1.0.3
+- pkg:nuget/Keycloak.Admin.Client@1.0.4

@@ -1,0 +1,2 @@
+- pkg:nuget/DistributedCircuitbreaker.Redis@1.0.0
+- pkg:nuget/DistributedCircuitbreaker.Redis@1.0.1

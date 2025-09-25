@@ -1,0 +1,4 @@
+- pkg:nuget/Common.Logging.Log4Net.Universal@1.0.0
+- pkg:nuget/Common.Logging.Log4Net.Universal@1.0.1
+- pkg:nuget/Common.Logging.Log4Net.Universal@1.1.0
+- pkg:nuget/Common.Logging.Log4Net.Universal@1.2.0

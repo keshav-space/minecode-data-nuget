@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Sinks.InfluxDB.V1.Syslog@1.5.0
+- pkg:nuget/Serilog.Sinks.InfluxDB.V1.Syslog@2.0.0
