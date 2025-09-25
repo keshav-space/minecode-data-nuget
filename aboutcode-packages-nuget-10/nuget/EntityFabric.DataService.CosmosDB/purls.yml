@@ -1,0 +1,14 @@
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.27
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.42
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.43
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.44
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.46
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.47
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.56
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.61
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.69
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.76
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.77
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.78
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.79
+- pkg:nuget/EntityFabric.DataService.CosmosDB@1.0.88

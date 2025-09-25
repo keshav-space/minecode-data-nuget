@@ -1,0 +1,7 @@
+- pkg:nuget/VsixTesting.Installer@0.1.45-beta
+- pkg:nuget/VsixTesting.Installer@0.1.49-beta
+- pkg:nuget/VsixTesting.Installer@0.1.54-beta
+- pkg:nuget/VsixTesting.Installer@0.1.65
+- pkg:nuget/VsixTesting.Installer@0.1.66
+- pkg:nuget/VsixTesting.Installer@0.1.75
+- pkg:nuget/VsixTesting.Installer@0.1.78

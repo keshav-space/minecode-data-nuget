@@ -1,0 +1,3 @@
+- pkg:nuget/Omnimodus.Core.Implementations.ISerializerHelpers.ServiceStack@0.0.6
+- pkg:nuget/Omnimodus.Core.Implementations.ISerializerHelpers.ServiceStack@0.1.1
+- pkg:nuget/Omnimodus.Core.Implementations.ISerializerHelpers.ServiceStack@0.1.2.1

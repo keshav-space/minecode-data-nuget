@@ -1,0 +1,11 @@
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@1.0.0
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@6.0.0
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@6.0.1
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@6.0.2
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@7.0.0
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@7.0.1
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@7.0.2
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@7.0.3
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@7.1.0
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@8.0.0
+- pkg:nuget/Beginor.AspNetCore.Middlewares.GzipStatic@9.0.0

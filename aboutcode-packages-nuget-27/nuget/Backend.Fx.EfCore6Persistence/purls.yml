@@ -1,0 +1,6 @@
+- pkg:nuget/Backend.Fx.EfCore6Persistence@7.1.13
+- pkg:nuget/Backend.Fx.EfCore6Persistence@7.1.15
+- pkg:nuget/Backend.Fx.EfCore6Persistence@7.1.16
+- pkg:nuget/Backend.Fx.EfCore6Persistence@7.1.17
+- pkg:nuget/Backend.Fx.EfCore6Persistence@7.1.18
+- pkg:nuget/Backend.Fx.EfCore6Persistence@7.1.19

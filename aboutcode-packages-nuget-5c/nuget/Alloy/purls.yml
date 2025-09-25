@@ -1,0 +1,4 @@
+- pkg:nuget/Alloy@0.1.0
+- pkg:nuget/Alloy@1.0.0
+- pkg:nuget/Alloy@2.0.0-alpha
+- pkg:nuget/Alloy@2.1.0-alpha

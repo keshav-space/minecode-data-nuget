@@ -1,0 +1,7 @@
+- pkg:nuget/viajarbarato.unityofwork.mssql@2019.2.18.1
+- pkg:nuget/viajarbarato.unityofwork.mssql@2019.2.18.1-development
+- pkg:nuget/viajarbarato.unityofwork.mssql@2019.2.19.1
+- pkg:nuget/viajarbarato.unityofwork.mssql@2019.2.19.1-staging
+- pkg:nuget/viajarbarato.unityofwork.mssql@2019.2.19.2-development
+- pkg:nuget/viajarbarato.unityofwork.mssql@2019.2.19.3-development
+- pkg:nuget/viajarbarato.unityofwork.mssql@2019.2.19.4-master

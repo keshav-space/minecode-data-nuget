@@ -1,0 +1,7 @@
+- pkg:nuget/CdkCloudFormation.GitHubTeamsMembership@1.0.0-alpha.5
+- pkg:nuget/CdkCloudFormation.GitHubTeamsMembership@1.0.0-alpha.6
+- pkg:nuget/CdkCloudFormation.GitHubTeamsMembership@1.0.0-alpha.7
+- pkg:nuget/CdkCloudFormation.GitHubTeamsMembership@1.1.0-alpha.7
+- pkg:nuget/CdkCloudFormation.GitHubTeamsMembership@1.2.0-alpha.7
+- pkg:nuget/CdkCloudFormation.GitHubTeamsMembership@1.4.0-alpha.7
+- pkg:nuget/CdkCloudFormation.GitHubTeamsMembership@1.6.0-alpha.7

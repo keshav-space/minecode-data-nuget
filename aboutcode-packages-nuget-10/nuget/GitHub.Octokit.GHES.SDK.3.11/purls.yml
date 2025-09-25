@@ -1,0 +1,8 @@
+- pkg:nuget/GitHub.Octokit.GHES.SDK.3.11@0.0.1-GHES.3.11
+- pkg:nuget/GitHub.Octokit.GHES.SDK.3.11@0.0.2-GHES.3.11
+- pkg:nuget/GitHub.Octokit.GHES.SDK.3.11@0.0.3-GHES.3.11
+- pkg:nuget/GitHub.Octokit.GHES.SDK.3.11@0.0.4-GHES.3.11
+- pkg:nuget/GitHub.Octokit.GHES.SDK.3.11@0.0.6-GHES.3.11
+- pkg:nuget/GitHub.Octokit.GHES.SDK.3.11@0.0.7-GHES.3.11
+- pkg:nuget/GitHub.Octokit.GHES.SDK.3.11@0.0.8-GHES.3.11
+- pkg:nuget/GitHub.Octokit.GHES.SDK.3.11@0.0.9-GHES.3.11

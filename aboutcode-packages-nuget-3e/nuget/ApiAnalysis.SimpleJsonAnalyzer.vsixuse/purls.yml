@@ -1,0 +1,4 @@
+- pkg:nuget/ApiAnalysis.SimpleJsonAnalyzer.vsixuse@1.5.0
+- pkg:nuget/ApiAnalysis.SimpleJsonAnalyzer.vsixuse@1.6.2
+- pkg:nuget/ApiAnalysis.SimpleJsonAnalyzer.vsixuse@1.7.0
+- pkg:nuget/ApiAnalysis.SimpleJsonAnalyzer.vsixuse@1.8.0

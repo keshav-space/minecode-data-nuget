@@ -1,0 +1,12 @@
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@1.0.0
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@2.3.1
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@2.3.2
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@3.0.0
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@4.0.2
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@4.0.2.1
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@4.1.0
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@4.2.0
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@4.3.0
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@4.3.1
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@4.6.0
+- pkg:nuget/MSBuild.SonarQube.Runner.Tool@4.8.0

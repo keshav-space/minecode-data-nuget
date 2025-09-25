@@ -1,0 +1,11 @@
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.3.10
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.3.11
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.3.13
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.3.14
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.4.0
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.4.1
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.4.2
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.4.6
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.5.0
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.5.1
+- pkg:nuget/NHibernate.Logging.CommonLogging@5.5.2

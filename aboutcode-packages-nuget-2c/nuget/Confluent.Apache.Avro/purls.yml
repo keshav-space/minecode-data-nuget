@@ -1,0 +1,13 @@
+- pkg:nuget/Confluent.Apache.Avro@1.0.0
+- pkg:nuget/Confluent.Apache.Avro@1.0.1
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.3
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.4
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.4-RC1
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.4-RC2
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.4-RC3
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.4-RC4
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.5
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.5-TEST1
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.6
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.6-test1
+- pkg:nuget/Confluent.Apache.Avro@1.7.7.7

@@ -1,0 +1,6 @@
+- pkg:nuget/ES.FX.Extensions.Microsoft.EntityFrameworkCore@9.0.10
+- pkg:nuget/ES.FX.Extensions.Microsoft.EntityFrameworkCore@9.0.11
+- pkg:nuget/ES.FX.Extensions.Microsoft.EntityFrameworkCore@9.0.12
+- pkg:nuget/ES.FX.Extensions.Microsoft.EntityFrameworkCore@9.0.13
+- pkg:nuget/ES.FX.Extensions.Microsoft.EntityFrameworkCore@9.0.14
+- pkg:nuget/ES.FX.Extensions.Microsoft.EntityFrameworkCore@9.0.15

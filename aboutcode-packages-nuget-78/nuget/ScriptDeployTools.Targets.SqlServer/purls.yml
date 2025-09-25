@@ -1,0 +1,2 @@
+- pkg:nuget/ScriptDeployTools.Targets.SqlServer@2.0.2
+- pkg:nuget/ScriptDeployTools.Targets.SqlServer@2.0.5

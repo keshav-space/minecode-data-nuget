@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.0.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.1.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.1.1
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.1.2
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.3.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.3.1
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.3.2
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.3.3
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.4.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.4.1
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.4.2
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.5.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.Etw@1.7.0

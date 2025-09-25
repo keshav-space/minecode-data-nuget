@@ -1,0 +1,7 @@
+- pkg:nuget/AspNetCore.SassCompiler.Blazor.CI@1.49.7
+- pkg:nuget/AspNetCore.SassCompiler.Blazor.CI@1.49.7.1
+- pkg:nuget/AspNetCore.SassCompiler.Blazor.CI@1.49.7.10
+- pkg:nuget/AspNetCore.SassCompiler.Blazor.CI@1.49.7.3
+- pkg:nuget/AspNetCore.SassCompiler.Blazor.CI@1.49.9.1
+- pkg:nuget/AspNetCore.SassCompiler.Blazor.CI@1.49.9.4
+- pkg:nuget/AspNetCore.SassCompiler.Blazor.CI@1.49.9.5

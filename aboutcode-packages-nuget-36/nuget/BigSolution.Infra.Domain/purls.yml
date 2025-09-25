@@ -1,0 +1,13 @@
+- pkg:nuget/BigSolution.Infra.Domain@1.0.0
+- pkg:nuget/BigSolution.Infra.Domain@1.0.1-preview20239.0
+- pkg:nuget/BigSolution.Infra.Domain@1.1.0
+- pkg:nuget/BigSolution.Infra.Domain@1.2.0
+- pkg:nuget/BigSolution.Infra.Domain@1.2.0-preview72
+- pkg:nuget/BigSolution.Infra.Domain@1.2.0-preview73
+- pkg:nuget/BigSolution.Infra.Domain@1.2.1-preview.210203.0
+- pkg:nuget/BigSolution.Infra.Domain@1.2.1-preview.210204.0
+- pkg:nuget/BigSolution.Infra.Domain@1.2.1-preview.220123.0
+- pkg:nuget/BigSolution.Infra.Domain@1.2.1-preview.220414.0
+- pkg:nuget/BigSolution.Infra.Domain@1.2.1-preview0
+- pkg:nuget/BigSolution.Infra.Domain@1.2.1-preview1
+- pkg:nuget/BigSolution.Infra.Domain@1.2.1-preview20239.1

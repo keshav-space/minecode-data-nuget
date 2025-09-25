@@ -1,0 +1,14 @@
+- pkg:nuget/BitPay@2.0.0
+- pkg:nuget/BitPay@3.0.1907
+- pkg:nuget/BitPay@3.1.1912
+- pkg:nuget/BitPay@3.2.2001
+- pkg:nuget/BitPay@3.3.2003
+- pkg:nuget/BitPay@4.0.2104
+- pkg:nuget/BitPay@4.1.2111
+- pkg:nuget/BitPay@4.2.2111
+- pkg:nuget/BitPay@4.3.2202
+- pkg:nuget/BitPay@4.3.2203
+- pkg:nuget/BitPay@4.4.2203
+- pkg:nuget/BitPay@5.0.0
+- pkg:nuget/BitPay@5.0.1
+- pkg:nuget/BitPay@5.0.2

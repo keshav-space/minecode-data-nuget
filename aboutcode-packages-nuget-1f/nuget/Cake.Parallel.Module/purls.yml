@@ -1,0 +1,13 @@
+- pkg:nuget/Cake.Parallel.Module@0.19.0
+- pkg:nuget/Cake.Parallel.Module@0.20.0
+- pkg:nuget/Cake.Parallel.Module@0.20.0-rc1
+- pkg:nuget/Cake.Parallel.Module@0.20.0-rc2
+- pkg:nuget/Cake.Parallel.Module@0.20.1
+- pkg:nuget/Cake.Parallel.Module@0.20.1-rc1
+- pkg:nuget/Cake.Parallel.Module@0.20.1-rc2
+- pkg:nuget/Cake.Parallel.Module@0.20.1-rc3
+- pkg:nuget/Cake.Parallel.Module@0.20.1-rc4
+- pkg:nuget/Cake.Parallel.Module@0.20.2
+- pkg:nuget/Cake.Parallel.Module@0.20.2-rc1
+- pkg:nuget/Cake.Parallel.Module@0.20.3
+- pkg:nuget/Cake.Parallel.Module@0.21.0

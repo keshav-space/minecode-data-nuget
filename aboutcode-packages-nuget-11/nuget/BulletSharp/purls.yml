@@ -1,0 +1,5 @@
+- pkg:nuget/BulletSharp@0.10.0
+- pkg:nuget/BulletSharp@0.11.0
+- pkg:nuget/BulletSharp@0.11.1
+- pkg:nuget/BulletSharp@0.8.0
+- pkg:nuget/BulletSharp@0.9.0

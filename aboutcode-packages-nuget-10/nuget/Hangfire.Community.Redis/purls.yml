@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.Community.Redis@0.0.1
+- pkg:nuget/Hangfire.Community.Redis@0.0.2

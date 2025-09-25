@@ -1,0 +1,3 @@
+- pkg:nuget/TestableFileSystem.Wrappers@1.0.0
+- pkg:nuget/TestableFileSystem.Wrappers@2.0.0
+- pkg:nuget/TestableFileSystem.Wrappers@2.0.1

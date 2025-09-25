@@ -1,0 +1,9 @@
+- pkg:nuget/MongoMigrations.NETStandard@2.1.0
+- pkg:nuget/MongoMigrations.NETStandard@2.1.10
+- pkg:nuget/MongoMigrations.NETStandard@2.1.12
+- pkg:nuget/MongoMigrations.NETStandard@2.1.13
+- pkg:nuget/MongoMigrations.NETStandard@2.1.7
+- pkg:nuget/MongoMigrations.NETStandard@2.1.8
+- pkg:nuget/MongoMigrations.NETStandard@2.2.25
+- pkg:nuget/MongoMigrations.NETStandard@2.2.26
+- pkg:nuget/MongoMigrations.NETStandard@2.2.27

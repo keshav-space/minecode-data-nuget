@@ -1,0 +1,5 @@
+- pkg:nuget/runtime.ubuntu.18.04-x64.Microsoft.NETCore.DotNetHostPolicy@1.1.10
+- pkg:nuget/runtime.ubuntu.18.04-x64.Microsoft.NETCore.DotNetHostPolicy@1.1.11
+- pkg:nuget/runtime.ubuntu.18.04-x64.Microsoft.NETCore.DotNetHostPolicy@1.1.12
+- pkg:nuget/runtime.ubuntu.18.04-x64.Microsoft.NETCore.DotNetHostPolicy@1.1.13
+- pkg:nuget/runtime.ubuntu.18.04-x64.Microsoft.NETCore.DotNetHostPolicy@1.1.9

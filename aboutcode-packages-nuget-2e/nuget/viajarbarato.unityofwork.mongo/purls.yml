@@ -1,0 +1,6 @@
+- pkg:nuget/viajarbarato.unityofwork.mongo@2019.2.18.1
+- pkg:nuget/viajarbarato.unityofwork.mongo@2019.2.18.2-development
+- pkg:nuget/viajarbarato.unityofwork.mongo@2019.2.19.1
+- pkg:nuget/viajarbarato.unityofwork.mongo@2019.2.19.1-development
+- pkg:nuget/viajarbarato.unityofwork.mongo@2019.2.19.2-staging
+- pkg:nuget/viajarbarato.unityofwork.mongo@2019.2.19.3-master

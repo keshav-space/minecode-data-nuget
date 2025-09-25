@@ -1,0 +1,12 @@
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.0.0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview.210203.0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview.210203.1
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview.210204.0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview.210703.0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview.210704.0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview.220416.0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview.220417.0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview0
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview1
+- pkg:nuget/BigSolution.Infra.Persistence.EntityFramework@1.1.1-preview20240.0

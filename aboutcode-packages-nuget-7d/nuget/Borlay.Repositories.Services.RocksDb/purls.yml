@@ -1,0 +1,5 @@
+- pkg:nuget/Borlay.Repositories.Services.RocksDb@1.0.0
+- pkg:nuget/Borlay.Repositories.Services.RocksDb@1.0.1
+- pkg:nuget/Borlay.Repositories.Services.RocksDb@1.0.2
+- pkg:nuget/Borlay.Repositories.Services.RocksDb@1.0.3
+- pkg:nuget/Borlay.Repositories.Services.RocksDb@1.0.4

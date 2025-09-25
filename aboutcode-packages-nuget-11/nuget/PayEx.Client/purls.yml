@@ -1,0 +1,11 @@
+- pkg:nuget/PayEx.Client@0.1.0-preview001
+- pkg:nuget/PayEx.Client@0.1.0-preview002
+- pkg:nuget/PayEx.Client@0.1.0-preview003
+- pkg:nuget/PayEx.Client@1.0.0
+- pkg:nuget/PayEx.Client@1.0.0-preview001
+- pkg:nuget/PayEx.Client@1.0.1
+- pkg:nuget/PayEx.Client@2.0.0
+- pkg:nuget/PayEx.Client@2.0.1
+- pkg:nuget/PayEx.Client@2.1.0
+- pkg:nuget/PayEx.Client@4.0.0
+- pkg:nuget/PayEx.Client@5.0.0

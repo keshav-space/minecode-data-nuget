@@ -1,0 +1,4 @@
+- pkg:nuget/Monitoring.StatsCollector@1.0.0
+- pkg:nuget/Monitoring.StatsCollector@2.0.0
+- pkg:nuget/Monitoring.StatsCollector@3.0.0
+- pkg:nuget/Monitoring.StatsCollector@3.1.0

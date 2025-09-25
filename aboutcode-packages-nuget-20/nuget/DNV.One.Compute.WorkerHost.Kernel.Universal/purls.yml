@@ -1,0 +1,17 @@
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.0.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.1.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.1.0-alpha0009
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.1.1
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.2.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.3.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.4.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.4.1
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.5.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@10.6.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@11.0.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@11.1.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@11.2.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@11.3.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@11.4.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@11.5.0
+- pkg:nuget/DNV.One.Compute.WorkerHost.Kernel.Universal@11.6.0

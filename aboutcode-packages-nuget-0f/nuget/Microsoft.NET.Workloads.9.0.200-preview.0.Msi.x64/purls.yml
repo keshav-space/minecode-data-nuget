@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.NET.Workloads.9.0.200-preview.0.Msi.x64@9.200.0-preview.0.24612.2
+- pkg:nuget/Microsoft.NET.Workloads.9.0.200-preview.0.Msi.x64@9.200.0-preview.0.24619.14
+- pkg:nuget/Microsoft.NET.Workloads.9.0.200-preview.0.Msi.x64@9.200.0-preview.0.25063.6
+- pkg:nuget/Microsoft.NET.Workloads.9.0.200-preview.0.Msi.x64@9.200.0-preview.0.25073.2

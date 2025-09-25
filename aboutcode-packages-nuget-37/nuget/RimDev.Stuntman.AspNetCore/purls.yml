@@ -1,0 +1,4 @@
+- pkg:nuget/RimDev.Stuntman.AspNetCore@1.1.1
+- pkg:nuget/RimDev.Stuntman.AspNetCore@1.6.0
+- pkg:nuget/RimDev.Stuntman.AspNetCore@1.7.0
+- pkg:nuget/RimDev.Stuntman.AspNetCore@1.7.1

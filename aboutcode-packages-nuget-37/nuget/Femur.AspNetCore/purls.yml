@@ -1,0 +1,4 @@
+- pkg:nuget/Femur.AspNetCore@0.0.11
+- pkg:nuget/Femur.AspNetCore@0.0.13
+- pkg:nuget/Femur.AspNetCore@0.0.14
+- pkg:nuget/Femur.AspNetCore@0.0.8

@@ -1,0 +1,13 @@
+- pkg:nuget/HubSpot.Api@0.1.20-alpha
+- pkg:nuget/HubSpot.Api@0.1.21-alpha
+- pkg:nuget/HubSpot.Api@0.1.22-alpha
+- pkg:nuget/HubSpot.Api@0.1.24-alpha
+- pkg:nuget/HubSpot.Api@0.1.9-alpha
+- pkg:nuget/HubSpot.Api@9.0.10-alpha
+- pkg:nuget/HubSpot.Api@9.0.12-alpha
+- pkg:nuget/HubSpot.Api@9.0.13-alpha
+- pkg:nuget/HubSpot.Api@9.0.2-alpha
+- pkg:nuget/HubSpot.Api@9.0.4-alpha
+- pkg:nuget/HubSpot.Api@9.0.5-alpha
+- pkg:nuget/HubSpot.Api@9.0.7-alpha
+- pkg:nuget/HubSpot.Api@9.0.8-alpha

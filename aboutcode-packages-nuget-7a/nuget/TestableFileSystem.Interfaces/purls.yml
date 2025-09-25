@@ -1,0 +1,3 @@
+- pkg:nuget/TestableFileSystem.Interfaces@1.0.0
+- pkg:nuget/TestableFileSystem.Interfaces@2.0.0
+- pkg:nuget/TestableFileSystem.Interfaces@2.0.1
