@@ -1,0 +1,12 @@
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@0.1.0-beta.10
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@0.1.0-beta.11
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@0.1.0-beta.27
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@0.1.0-beta.6
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@0.1.0-beta.8
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@0.1.0-beta.9
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@1.0.0
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@1.0.1-ci.4
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@1.1.0%2B2
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@1.1.0-ci.1
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@1.1.1%2B3
+- pkg:nuget/Luminis.AzureActiveDirectory.Test@2.0.0%2B0

@@ -1,0 +1,5 @@
+- pkg:nuget/AWS.Lambda.Powertools.EventHandler.Resolvers.BedrockAgentFunction@1.0.0
+- pkg:nuget/AWS.Lambda.Powertools.EventHandler.Resolvers.BedrockAgentFunction@1.0.0-alpha.1
+- pkg:nuget/AWS.Lambda.Powertools.EventHandler.Resolvers.BedrockAgentFunction@1.0.0-alpha.2
+- pkg:nuget/AWS.Lambda.Powertools.EventHandler.Resolvers.BedrockAgentFunction@1.0.0-alpha.3
+- pkg:nuget/AWS.Lambda.Powertools.EventHandler.Resolvers.BedrockAgentFunction@1.0.1

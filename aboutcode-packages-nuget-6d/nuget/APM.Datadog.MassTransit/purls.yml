@@ -1,0 +1,4 @@
+- pkg:nuget/APM.Datadog.MassTransit@1.0.1%2Bbuild.7
+- pkg:nuget/APM.Datadog.MassTransit@1.0.2%2Bbuild.12
+- pkg:nuget/APM.Datadog.MassTransit@1.0.3%2Bbuild.49
+- pkg:nuget/APM.Datadog.MassTransit@2.0.0%2Bbuild.99

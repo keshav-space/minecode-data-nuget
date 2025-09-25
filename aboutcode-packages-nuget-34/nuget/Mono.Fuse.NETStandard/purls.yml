@@ -1,0 +1,4 @@
+- pkg:nuget/Mono.Fuse.NETStandard@1.0.0
+- pkg:nuget/Mono.Fuse.NETStandard@1.0.0-pre1
+- pkg:nuget/Mono.Fuse.NETStandard@1.0.0-pre2
+- pkg:nuget/Mono.Fuse.NETStandard@1.1.0

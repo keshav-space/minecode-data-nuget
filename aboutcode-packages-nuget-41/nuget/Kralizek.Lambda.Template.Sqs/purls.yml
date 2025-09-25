@@ -1,0 +1,7 @@
+- pkg:nuget/Kralizek.Lambda.Template.Sqs@2.0.0
+- pkg:nuget/Kralizek.Lambda.Template.Sqs@2.0.1
+- pkg:nuget/Kralizek.Lambda.Template.Sqs@3.0.0
+- pkg:nuget/Kralizek.Lambda.Template.Sqs@4.0.0
+- pkg:nuget/Kralizek.Lambda.Template.Sqs@4.0.1
+- pkg:nuget/Kralizek.Lambda.Template.Sqs@4.1.0
+- pkg:nuget/Kralizek.Lambda.Template.Sqs@5.0.0

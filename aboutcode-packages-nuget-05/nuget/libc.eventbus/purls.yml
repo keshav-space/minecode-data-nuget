@@ -1,0 +1,13 @@
+- pkg:nuget/libc.eventbus@1.0.0
+- pkg:nuget/libc.eventbus@1.0.1
+- pkg:nuget/libc.eventbus@2.0.0
+- pkg:nuget/libc.eventbus@3.0.0
+- pkg:nuget/libc.eventbus@4.0.0
+- pkg:nuget/libc.eventbus@4.0.1
+- pkg:nuget/libc.eventbus@6.0.0
+- pkg:nuget/libc.eventbus@6.0.1
+- pkg:nuget/libc.eventbus@6.1.0
+- pkg:nuget/libc.eventbus@7.0.0
+- pkg:nuget/libc.eventbus@7.0.1
+- pkg:nuget/libc.eventbus@7.1.1
+- pkg:nuget/libc.eventbus@7.1.2

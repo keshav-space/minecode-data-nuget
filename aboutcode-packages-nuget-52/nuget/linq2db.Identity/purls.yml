@@ -1,0 +1,11 @@
+- pkg:nuget/linq2db.Identity@1.1.1
+- pkg:nuget/linq2db.Identity@1.2.0
+- pkg:nuget/linq2db.Identity@1.2.1
+- pkg:nuget/linq2db.Identity@2.0.0-final1
+- pkg:nuget/linq2db.Identity@2.0.1
+- pkg:nuget/linq2db.Identity@3.0.0
+- pkg:nuget/linq2db.Identity@3.2.0
+- pkg:nuget/linq2db.Identity@3.3.0
+- pkg:nuget/linq2db.Identity@3.4.0
+- pkg:nuget/linq2db.Identity@3.5.0
+- pkg:nuget/linq2db.Identity@4.0.0

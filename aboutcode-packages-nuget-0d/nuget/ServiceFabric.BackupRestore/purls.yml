@@ -1,0 +1,11 @@
+- pkg:nuget/ServiceFabric.BackupRestore@0.9.2
+- pkg:nuget/ServiceFabric.BackupRestore@1.0.0
+- pkg:nuget/ServiceFabric.BackupRestore@1.1.0
+- pkg:nuget/ServiceFabric.BackupRestore@1.2.0
+- pkg:nuget/ServiceFabric.BackupRestore@2.0.0
+- pkg:nuget/ServiceFabric.BackupRestore@2.1.0
+- pkg:nuget/ServiceFabric.BackupRestore@2.2.0
+- pkg:nuget/ServiceFabric.BackupRestore@2.3.0
+- pkg:nuget/ServiceFabric.BackupRestore@3.0.0
+- pkg:nuget/ServiceFabric.BackupRestore@3.1.1
+- pkg:nuget/ServiceFabric.BackupRestore@3.1.3

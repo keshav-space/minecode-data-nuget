@@ -1,0 +1,5 @@
+- pkg:nuget/dotnet-autograph@0.1.0
+- pkg:nuget/dotnet-autograph@0.1.1-preview.0.2
+- pkg:nuget/dotnet-autograph@0.2.0
+- pkg:nuget/dotnet-autograph@0.2.1-preview.0.2
+- pkg:nuget/dotnet-autograph@0.2.1-preview.0.3

@@ -1,0 +1,17 @@
+- pkg:nuget/CharacterGen.Domain@10.0.0
+- pkg:nuget/CharacterGen.Domain@10.0.2
+- pkg:nuget/CharacterGen.Domain@10.0.3
+- pkg:nuget/CharacterGen.Domain@5.0.0
+- pkg:nuget/CharacterGen.Domain@6.0.1
+- pkg:nuget/CharacterGen.Domain@7.0.0
+- pkg:nuget/CharacterGen.Domain@7.1.0
+- pkg:nuget/CharacterGen.Domain@7.2.0
+- pkg:nuget/CharacterGen.Domain@7.3.0
+- pkg:nuget/CharacterGen.Domain@8.0.0
+- pkg:nuget/CharacterGen.Domain@8.0.1
+- pkg:nuget/CharacterGen.Domain@8.1.0
+- pkg:nuget/CharacterGen.Domain@9.0.0
+- pkg:nuget/CharacterGen.Domain@9.0.1
+- pkg:nuget/CharacterGen.Domain@9.0.2
+- pkg:nuget/CharacterGen.Domain@9.0.3
+- pkg:nuget/CharacterGen.Domain@9.0.4

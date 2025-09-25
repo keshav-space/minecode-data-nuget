@@ -1,0 +1,4 @@
+- pkg:nuget/AzureDevOps.Logger@0.1.0-azure-pipelines0035
+- pkg:nuget/AzureDevOps.Logger@1.0.0
+- pkg:nuget/AzureDevOps.Logger@1.0.1
+- pkg:nuget/AzureDevOps.Logger@1.1.0

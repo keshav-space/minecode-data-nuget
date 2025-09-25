@@ -1,0 +1,4 @@
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis45@1.0.0
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis45@1.0.0-alpha
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis45@1.0.0-alpha2
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis45@1.4.0

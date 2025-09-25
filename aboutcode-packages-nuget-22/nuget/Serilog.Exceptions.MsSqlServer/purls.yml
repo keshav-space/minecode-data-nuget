@@ -1,0 +1,11 @@
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@5.6.0%2Bbuild.406
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@5.7.0%2Bbuild.146
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@6.0.0%2Bbuild.159
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@6.1.0%2Bbuild.225
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@7.0.0%2Bbuild.328
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@7.1.0%2Bbuild.402
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@8.0.0%2Bbuild.460
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@8.1.0%2Bbuild.526
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@8.2.0%2Bbuild.634
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@8.3.0%2Bbuild.654
+- pkg:nuget/Serilog.Exceptions.MsSqlServer@8.4.0%2Bbuild.694

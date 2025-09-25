@@ -1,0 +1,7 @@
+- pkg:nuget/Deveel.Webhooks.Receiver.SendGrid@2.0.1
+- pkg:nuget/Deveel.Webhooks.Receiver.SendGrid@2.0.1-preview2
+- pkg:nuget/Deveel.Webhooks.Receiver.SendGrid@2.1.0
+- pkg:nuget/Deveel.Webhooks.Receiver.SendGrid@2.1.1
+- pkg:nuget/Deveel.Webhooks.Receiver.SendGrid@2.1.5
+- pkg:nuget/Deveel.Webhooks.Receiver.SendGrid@2.2.0
+- pkg:nuget/Deveel.Webhooks.Receiver.SendGrid@2.2.1

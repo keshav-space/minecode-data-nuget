@@ -1,0 +1,7 @@
+- pkg:nuget/Rocket.Surgery.AspNetCore.Hosting.Autofac@1.0.1
+- pkg:nuget/Rocket.Surgery.AspNetCore.Hosting.Autofac@1.1.0
+- pkg:nuget/Rocket.Surgery.AspNetCore.Hosting.Autofac@2.0.0
+- pkg:nuget/Rocket.Surgery.AspNetCore.Hosting.Autofac@2.0.1
+- pkg:nuget/Rocket.Surgery.AspNetCore.Hosting.Autofac@2.1.0
+- pkg:nuget/Rocket.Surgery.AspNetCore.Hosting.Autofac@2.1.1
+- pkg:nuget/Rocket.Surgery.AspNetCore.Hosting.Autofac@2.1.2

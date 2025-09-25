@@ -1,0 +1,9 @@
+- pkg:nuget/HealthCheckWithDependencies@1.0.0
+- pkg:nuget/HealthCheckWithDependencies@2.0.0
+- pkg:nuget/HealthCheckWithDependencies@3.0.0
+- pkg:nuget/HealthCheckWithDependencies@4.0.0
+- pkg:nuget/HealthCheckWithDependencies@5.0.0
+- pkg:nuget/HealthCheckWithDependencies@6.0.0
+- pkg:nuget/HealthCheckWithDependencies@6.1.0-beta
+- pkg:nuget/HealthCheckWithDependencies@6.1.1
+- pkg:nuget/HealthCheckWithDependencies@6.2.1

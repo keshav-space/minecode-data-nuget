@@ -1,0 +1,10 @@
+- pkg:nuget/Redis2Go.Alpha@1.0.0-preview
+- pkg:nuget/Redis2Go.Alpha@1.0.0.1-preview
+- pkg:nuget/Redis2Go.Alpha@1.0.0.2-preview
+- pkg:nuget/Redis2Go.Alpha@1.0.0.3
+- pkg:nuget/Redis2Go.Alpha@1.0.0.3-preview
+- pkg:nuget/Redis2Go.Alpha@1.0.0.3-preview-27
+- pkg:nuget/Redis2Go.Alpha@1.0.0.3-preview-28
+- pkg:nuget/Redis2Go.Alpha@1.0.0.3-preview-36
+- pkg:nuget/Redis2Go.Alpha@1.0.0.4-preview-37
+- pkg:nuget/Redis2Go.Alpha@1.0.0.4-preview-38

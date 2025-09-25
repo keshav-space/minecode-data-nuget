@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@3.0.12
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@4.0.12
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@4.0.13
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@4.0.14
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@4.0.16
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@5.1.3
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@5.2.2
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@5.2.5
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@5.2.7
+- pkg:nuget/Microsoft.AzureStack.ResourceProvider.Contracts@5.3.3

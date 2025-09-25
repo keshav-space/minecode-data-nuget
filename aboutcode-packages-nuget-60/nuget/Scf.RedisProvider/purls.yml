@@ -1,0 +1,2 @@
+- pkg:nuget/Scf.RedisProvider@4.0.0
+- pkg:nuget/Scf.RedisProvider@5.0.0

@@ -1,0 +1,9 @@
+- pkg:nuget/Abp.Auditing.MongoDb@4.1.0
+- pkg:nuget/Abp.Auditing.MongoDb@4.3.0
+- pkg:nuget/Abp.Auditing.MongoDb@4.4.0
+- pkg:nuget/Abp.Auditing.MongoDb@4.5.0
+- pkg:nuget/Abp.Auditing.MongoDb@4.5.1
+- pkg:nuget/Abp.Auditing.MongoDb@4.7.0
+- pkg:nuget/Abp.Auditing.MongoDb@4.9.0
+- pkg:nuget/Abp.Auditing.MongoDb@5.0.0
+- pkg:nuget/Abp.Auditing.MongoDb@6.1.1

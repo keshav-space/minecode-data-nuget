@@ -1,0 +1,15 @@
+- pkg:nuget/IntegrationMocks.Cleaner@0.0.0-main
+- pkg:nuget/IntegrationMocks.Cleaner@0.0.1-main
+- pkg:nuget/IntegrationMocks.Cleaner@0.0.2-main
+- pkg:nuget/IntegrationMocks.Cleaner@0.1.0
+- pkg:nuget/IntegrationMocks.Cleaner@1.0.0
+- pkg:nuget/IntegrationMocks.Cleaner@1.1.1
+- pkg:nuget/IntegrationMocks.Cleaner@1.2.0
+- pkg:nuget/IntegrationMocks.Cleaner@1.2.1
+- pkg:nuget/IntegrationMocks.Cleaner@1.2.2
+- pkg:nuget/IntegrationMocks.Cleaner@2.0.0
+- pkg:nuget/IntegrationMocks.Cleaner@2.0.1
+- pkg:nuget/IntegrationMocks.Cleaner@2.1.0
+- pkg:nuget/IntegrationMocks.Cleaner@2.1.1
+- pkg:nuget/IntegrationMocks.Cleaner@3.0.0
+- pkg:nuget/IntegrationMocks.Cleaner@3.0.1

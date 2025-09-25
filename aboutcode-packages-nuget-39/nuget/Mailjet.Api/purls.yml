@@ -1,0 +1,10 @@
+- pkg:nuget/Mailjet.Api@1.0.0
+- pkg:nuget/Mailjet.Api@1.0.0-rc
+- pkg:nuget/Mailjet.Api@1.0.1
+- pkg:nuget/Mailjet.Api@1.2.2
+- pkg:nuget/Mailjet.Api@1.2.3
+- pkg:nuget/Mailjet.Api@2.0.0
+- pkg:nuget/Mailjet.Api@2.0.1
+- pkg:nuget/Mailjet.Api@2.0.2
+- pkg:nuget/Mailjet.Api@2.1.0
+- pkg:nuget/Mailjet.Api@3.0.0

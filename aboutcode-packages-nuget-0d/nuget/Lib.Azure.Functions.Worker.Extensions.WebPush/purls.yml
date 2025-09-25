@@ -1,0 +1,2 @@
+- pkg:nuget/Lib.Azure.Functions.Worker.Extensions.WebPush@1.0.0
+- pkg:nuget/Lib.Azure.Functions.Worker.Extensions.WebPush@1.0.1

@@ -1,0 +1,10 @@
+- pkg:nuget/ManagedCuda-NVJPEG@10.2.40
+- pkg:nuget/ManagedCuda-NVJPEG@10.2.41
+- pkg:nuget/ManagedCuda-NVJPEG@11.0.43
+- pkg:nuget/ManagedCuda-NVJPEG@11.4.47
+- pkg:nuget/ManagedCuda-NVJPEG@12.0.48
+- pkg:nuget/ManagedCuda-NVJPEG@12.1.51
+- pkg:nuget/ManagedCuda-NVJPEG@12.2.52
+- pkg:nuget/ManagedCuda-NVJPEG@12.3.54
+- pkg:nuget/ManagedCuda-NVJPEG@12.4.57
+- pkg:nuget/ManagedCuda-NVJPEG@12.8.60

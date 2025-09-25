@@ -1,0 +1,2 @@
+- pkg:nuget/Azure.IoT.Gateway.SDK.NetCore@2017.3.27-beta
+- pkg:nuget/Azure.IoT.Gateway.SDK.NetCore@2017.3.6-beta

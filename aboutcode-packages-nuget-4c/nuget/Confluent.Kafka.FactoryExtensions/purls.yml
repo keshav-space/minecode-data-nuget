@@ -1,0 +1,9 @@
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@6.0.0
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@6.0.1
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@6.0.2
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@7.0.0
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@7.0.1
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@8.0.0
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@8.0.1
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@8.0.2
+- pkg:nuget/Confluent.Kafka.FactoryExtensions@9.0.0

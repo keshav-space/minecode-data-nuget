@@ -1,0 +1,14 @@
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@3.0.0
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@3.0.1
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@3.0.2
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@3.1.0
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@3.2.0
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@3.3.0
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@3.3.1
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@4.0.0
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@4.0.0-beta.2
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@4.0.0-rc.2
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@4.0.1
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@4.0.2
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@5.0.0
+- pkg:nuget/NServiceBus.Gateway.AcceptanceTests.Sources@5.1.0

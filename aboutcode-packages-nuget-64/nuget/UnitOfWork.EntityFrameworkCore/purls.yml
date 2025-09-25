@@ -1,0 +1,13 @@
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@5.0.0
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@5.1.0
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@5.2.0
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@5.2.1
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@5.3.0
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@5.3.1
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@6.0.2
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@6.0.3
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@7.0.1
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@7.0.2
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@8.0.1
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@8.0.2
+- pkg:nuget/UnitOfWork.EntityFrameworkCore@8.0.6

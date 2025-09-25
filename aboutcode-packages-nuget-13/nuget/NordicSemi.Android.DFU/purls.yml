@@ -1,0 +1,7 @@
+- pkg:nuget/NordicSemi.Android.DFU@2.0.2
+- pkg:nuget/NordicSemi.Android.DFU@2.4.1
+- pkg:nuget/NordicSemi.Android.DFU@2.4.2
+- pkg:nuget/NordicSemi.Android.DFU@2.5.0
+- pkg:nuget/NordicSemi.Android.DFU@2.6.0
+- pkg:nuget/NordicSemi.Android.DFU@2.7.0
+- pkg:nuget/NordicSemi.Android.DFU@2.8.0

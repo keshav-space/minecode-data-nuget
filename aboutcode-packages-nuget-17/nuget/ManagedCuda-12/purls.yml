@@ -1,0 +1,6 @@
+- pkg:nuget/ManagedCuda-12@12.0.48
+- pkg:nuget/ManagedCuda-12@12.1.51
+- pkg:nuget/ManagedCuda-12@12.2.52
+- pkg:nuget/ManagedCuda-12@12.3.54
+- pkg:nuget/ManagedCuda-12@12.4.57
+- pkg:nuget/ManagedCuda-12@12.8.60

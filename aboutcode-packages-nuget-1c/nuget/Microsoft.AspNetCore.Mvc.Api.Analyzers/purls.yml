@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Api.Analyzers@2.2.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Api.Analyzers@2.2.0-preview1-35029
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Api.Analyzers@2.2.0-preview2-35157
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Api.Analyzers@2.2.0-preview3-35497
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Api.Analyzers@2.2.6
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Api.Analyzers@3.0.0-preview-18579-0056
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Api.Analyzers@3.0.0-preview-19075-0444
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Api.Analyzers@3.0.0-preview3-19153-02

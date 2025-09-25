@@ -1,0 +1,15 @@
+- pkg:nuget/NLog.Etw@1.1.0
+- pkg:nuget/NLog.Etw@4.0.0
+- pkg:nuget/NLog.Etw@4.0.1
+- pkg:nuget/NLog.Etw@4.1.0
+- pkg:nuget/NLog.Etw@4.2.0
+- pkg:nuget/NLog.Etw@4.3.0
+- pkg:nuget/NLog.Etw@5.0.0
+- pkg:nuget/NLog.Etw@5.0.0-rc1
+- pkg:nuget/NLog.Etw@5.2.0
+- pkg:nuget/NLog.Etw@5.2.1
+- pkg:nuget/NLog.Etw@5.2.2
+- pkg:nuget/NLog.Etw@5.2.4
+- pkg:nuget/NLog.Etw@6.0.0
+- pkg:nuget/NLog.Etw@6.0.1
+- pkg:nuget/NLog.Etw@6.0.2

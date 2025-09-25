@@ -1,0 +1,5 @@
+- pkg:nuget/EntityManager.AspNetCore@0.0.1
+- pkg:nuget/EntityManager.AspNetCore@1.0.1-beta0
+- pkg:nuget/EntityManager.AspNetCore@1.0.1-beta1
+- pkg:nuget/EntityManager.AspNetCore@1.0.1-beta2
+- pkg:nuget/EntityManager.AspNetCore@1.0.1-beta3

@@ -1,0 +1,6 @@
+- pkg:nuget/Serilog.Exceptions.Refit@7.1.0%2Bbuild.402
+- pkg:nuget/Serilog.Exceptions.Refit@8.0.0%2Bbuild.460
+- pkg:nuget/Serilog.Exceptions.Refit@8.1.0%2Bbuild.526
+- pkg:nuget/Serilog.Exceptions.Refit@8.2.0%2Bbuild.634
+- pkg:nuget/Serilog.Exceptions.Refit@8.3.0%2Bbuild.654
+- pkg:nuget/Serilog.Exceptions.Refit@8.4.0%2Bbuild.694

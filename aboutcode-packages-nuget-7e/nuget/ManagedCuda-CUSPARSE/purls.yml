@@ -1,0 +1,13 @@
+- pkg:nuget/ManagedCuda-CUSPARSE@10.0.31
+- pkg:nuget/ManagedCuda-CUSPARSE@10.2.40
+- pkg:nuget/ManagedCuda-CUSPARSE@10.2.41
+- pkg:nuget/ManagedCuda-CUSPARSE@11.0.43
+- pkg:nuget/ManagedCuda-CUSPARSE@11.4.47
+- pkg:nuget/ManagedCuda-CUSPARSE@12.0.48
+- pkg:nuget/ManagedCuda-CUSPARSE@12.1.51
+- pkg:nuget/ManagedCuda-CUSPARSE@12.2.52
+- pkg:nuget/ManagedCuda-CUSPARSE@12.3.54
+- pkg:nuget/ManagedCuda-CUSPARSE@12.4.57
+- pkg:nuget/ManagedCuda-CUSPARSE@12.8.60
+- pkg:nuget/ManagedCuda-CUSPARSE@8.0.13
+- pkg:nuget/ManagedCuda-CUSPARSE@8.0.22

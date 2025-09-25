@@ -1,0 +1,5 @@
+- pkg:nuget/Elika.Orleans.Consul@0.33.0
+- pkg:nuget/Elika.Orleans.Consul@0.33.3
+- pkg:nuget/Elika.Orleans.Consul@0.39.0
+- pkg:nuget/Elika.Orleans.Consul@0.40.0
+- pkg:nuget/Elika.Orleans.Consul@0.41.0

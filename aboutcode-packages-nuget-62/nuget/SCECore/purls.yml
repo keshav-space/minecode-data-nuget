@@ -1,0 +1,17 @@
+- pkg:nuget/SCECore@1.0.0-RC.1
+- pkg:nuget/SCECore@1.0.0-RC.2
+- pkg:nuget/SCECore@2.1.0
+- pkg:nuget/SCECore@3.1.1
+- pkg:nuget/SCECore@3.2.1
+- pkg:nuget/SCECore@3.3.2
+- pkg:nuget/SCECore@3.4.2
+- pkg:nuget/SCECore@3.4.3
+- pkg:nuget/SCECore@3.4.4
+- pkg:nuget/SCECore@3.4.5
+- pkg:nuget/SCECore@3.5.5
+- pkg:nuget/SCECore@3.6.5
+- pkg:nuget/SCECore@3.7.5
+- pkg:nuget/SCECore@3.8.5
+- pkg:nuget/SCECore@3.8.6
+- pkg:nuget/SCECore@3.9.6
+- pkg:nuget/SCECore@3.9.7

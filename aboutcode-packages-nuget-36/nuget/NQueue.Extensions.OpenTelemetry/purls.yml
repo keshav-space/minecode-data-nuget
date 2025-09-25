@@ -1,0 +1,3 @@
+- pkg:nuget/NQueue.Extensions.OpenTelemetry@0.0.1-alpha-016
+- pkg:nuget/NQueue.Extensions.OpenTelemetry@1.0.0
+- pkg:nuget/NQueue.Extensions.OpenTelemetry@1.1.1

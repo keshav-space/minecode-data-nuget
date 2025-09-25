@@ -1,0 +1,4 @@
+- pkg:nuget/Fluxera.Extensions.Hosting.Modules.Scheduler.Persistent@8.5.0
+- pkg:nuget/Fluxera.Extensions.Hosting.Modules.Scheduler.Persistent@8.6.0
+- pkg:nuget/Fluxera.Extensions.Hosting.Modules.Scheduler.Persistent@8.7.0
+- pkg:nuget/Fluxera.Extensions.Hosting.Modules.Scheduler.Persistent@8.8.0

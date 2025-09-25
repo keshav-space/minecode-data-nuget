@@ -1,0 +1,4 @@
+- pkg:nuget/Common.Logging.NLog@1.2.0
+- pkg:nuget/Common.Logging.NLog@2.0.0
+- pkg:nuget/Common.Logging.NLog@2.0.1
+- pkg:nuget/Common.Logging.NLog@2.1.0-M1

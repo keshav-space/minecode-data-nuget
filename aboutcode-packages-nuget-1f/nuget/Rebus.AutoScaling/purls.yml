@@ -1,0 +1,11 @@
+- pkg:nuget/Rebus.AutoScaling@2.0.0-b01
+- pkg:nuget/Rebus.AutoScaling@3.0.0
+- pkg:nuget/Rebus.AutoScaling@4.0.0
+- pkg:nuget/Rebus.AutoScaling@4.0.0-b01
+- pkg:nuget/Rebus.AutoScaling@4.0.0-b02
+- pkg:nuget/Rebus.AutoScaling@4.0.0-b03
+- pkg:nuget/Rebus.AutoScaling@4.1.0
+- pkg:nuget/Rebus.AutoScaling@5.0.0
+- pkg:nuget/Rebus.AutoScaling@5.0.0-alpha01
+- pkg:nuget/Rebus.AutoScaling@5.0.0-alpha02
+- pkg:nuget/Rebus.AutoScaling@5.0.0-alpha03

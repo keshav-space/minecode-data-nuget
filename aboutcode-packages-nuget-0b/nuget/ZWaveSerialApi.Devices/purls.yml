@@ -1,0 +1,13 @@
+- pkg:nuget/ZWaveSerialApi.Devices@0.1.1
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-alpha
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-beta1
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-beta2
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-rc1
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-rc2
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-rc3
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-rc4
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-rc5
+- pkg:nuget/ZWaveSerialApi.Devices@1.0.0-rc6
+- pkg:nuget/ZWaveSerialApi.Devices@1.1.0
+- pkg:nuget/ZWaveSerialApi.Devices@1.1.1

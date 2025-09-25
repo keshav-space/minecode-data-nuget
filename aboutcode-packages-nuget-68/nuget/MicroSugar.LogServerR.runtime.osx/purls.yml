@@ -1,0 +1,5 @@
+- pkg:nuget/MicroSugar.LogServerR.runtime.osx@0.0.1.4-preview
+- pkg:nuget/MicroSugar.LogServerR.runtime.osx@0.0.1.5-preview
+- pkg:nuget/MicroSugar.LogServerR.runtime.osx@0.0.1.6-preview
+- pkg:nuget/MicroSugar.LogServerR.runtime.osx@0.0.1.7-preview
+- pkg:nuget/MicroSugar.LogServerR.runtime.osx@0.0.1.8-preview

@@ -1,0 +1,13 @@
+- pkg:nuget/RentManager.CoreLibrary@1.0.1
+- pkg:nuget/RentManager.CoreLibrary@2.0.1
+- pkg:nuget/RentManager.CoreLibrary@3.0.1
+- pkg:nuget/RentManager.CoreLibrary@3.0.2
+- pkg:nuget/RentManager.CoreLibrary@3.0.3
+- pkg:nuget/RentManager.CoreLibrary@7.0.1
+- pkg:nuget/RentManager.CoreLibrary@7.0.2
+- pkg:nuget/RentManager.CoreLibrary@7.0.3
+- pkg:nuget/RentManager.CoreLibrary@8.0.1
+- pkg:nuget/RentManager.CoreLibrary@9.0.1
+- pkg:nuget/RentManager.CoreLibrary@9.0.2
+- pkg:nuget/RentManager.CoreLibrary@9.0.3
+- pkg:nuget/RentManager.CoreLibrary@9.0.7

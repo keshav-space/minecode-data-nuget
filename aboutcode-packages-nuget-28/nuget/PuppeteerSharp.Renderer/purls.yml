@@ -1,0 +1,14 @@
+- pkg:nuget/PuppeteerSharp.Renderer@1.0.0
+- pkg:nuget/PuppeteerSharp.Renderer@1.0.12
+- pkg:nuget/PuppeteerSharp.Renderer@1.0.6-prerelease
+- pkg:nuget/PuppeteerSharp.Renderer@1.0.7-prerelease
+- pkg:nuget/PuppeteerSharp.Renderer@1.0.8-prerelease
+- pkg:nuget/PuppeteerSharp.Renderer@1.1.13
+- pkg:nuget/PuppeteerSharp.Renderer@1.1.14
+- pkg:nuget/PuppeteerSharp.Renderer@1.1.23
+- pkg:nuget/PuppeteerSharp.Renderer@1.1.32
+- pkg:nuget/PuppeteerSharp.Renderer@1.1.35
+- pkg:nuget/PuppeteerSharp.Renderer@1.1.36
+- pkg:nuget/PuppeteerSharp.Renderer@1.1.37
+- pkg:nuget/PuppeteerSharp.Renderer@1.1.40
+- pkg:nuget/PuppeteerSharp.Renderer@1.2.21

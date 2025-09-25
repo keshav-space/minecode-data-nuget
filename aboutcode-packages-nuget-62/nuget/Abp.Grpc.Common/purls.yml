@@ -1,0 +1,16 @@
+- pkg:nuget/Abp.Grpc.Common@3.8.2
+- pkg:nuget/Abp.Grpc.Common@3.8.2.1
+- pkg:nuget/Abp.Grpc.Common@3.9.0
+- pkg:nuget/Abp.Grpc.Common@3.9.0.1
+- pkg:nuget/Abp.Grpc.Common@4.0.2
+- pkg:nuget/Abp.Grpc.Common@4.1.0
+- pkg:nuget/Abp.Grpc.Common@4.3.0
+- pkg:nuget/Abp.Grpc.Common@4.4.0
+- pkg:nuget/Abp.Grpc.Common@4.5.0
+- pkg:nuget/Abp.Grpc.Common@4.5.1
+- pkg:nuget/Abp.Grpc.Common@4.6.0
+- pkg:nuget/Abp.Grpc.Common@4.7.0
+- pkg:nuget/Abp.Grpc.Common@4.8.1
+- pkg:nuget/Abp.Grpc.Common@4.9.0
+- pkg:nuget/Abp.Grpc.Common@5.0.0
+- pkg:nuget/Abp.Grpc.Common@5.1.0

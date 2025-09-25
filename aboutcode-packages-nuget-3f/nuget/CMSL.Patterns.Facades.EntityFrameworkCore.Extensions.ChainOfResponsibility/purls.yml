@@ -1,0 +1,4 @@
+- pkg:nuget/CMSL.Patterns.Facades.EntityFrameworkCore.Extensions.ChainOfResponsibility@1.0.0
+- pkg:nuget/CMSL.Patterns.Facades.EntityFrameworkCore.Extensions.ChainOfResponsibility@1.1.0
+- pkg:nuget/CMSL.Patterns.Facades.EntityFrameworkCore.Extensions.ChainOfResponsibility@2.0.0
+- pkg:nuget/CMSL.Patterns.Facades.EntityFrameworkCore.Extensions.ChainOfResponsibility@2.1.0

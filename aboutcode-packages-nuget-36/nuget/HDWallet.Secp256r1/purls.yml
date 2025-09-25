@@ -1,0 +1,4 @@
+- pkg:nuget/HDWallet.Secp256r1@0.1.0
+- pkg:nuget/HDWallet.Secp256r1@0.1.1
+- pkg:nuget/HDWallet.Secp256r1@0.3.0-rc.1
+- pkg:nuget/HDWallet.Secp256r1@0.3.0-rc.2

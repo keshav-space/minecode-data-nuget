@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Bot.Builder.Integration.Runtime@4.12.0-preview
+- pkg:nuget/Microsoft.Bot.Builder.Integration.Runtime@4.12.1-preview
+- pkg:nuget/Microsoft.Bot.Builder.Integration.Runtime@4.12.2-preview
+- pkg:nuget/Microsoft.Bot.Builder.Integration.Runtime@4.12.3-preview
+- pkg:nuget/Microsoft.Bot.Builder.Integration.Runtime@4.12.4-preview

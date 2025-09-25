@@ -1,0 +1,4 @@
+- pkg:nuget/HotChocolate.Core@1.0.0-alpha10
+- pkg:nuget/HotChocolate.Core@1.0.0-alpha7
+- pkg:nuget/HotChocolate.Core@1.0.0-alpha8
+- pkg:nuget/HotChocolate.Core@1.0.0-alpha9

@@ -1,0 +1,14 @@
+- pkg:nuget/specflow.plugins.codedui@1.0.15-alpha
+- pkg:nuget/specflow.plugins.codedui@1.0.16-alpha
+- pkg:nuget/specflow.plugins.codedui@1.0.17-alpha
+- pkg:nuget/specflow.plugins.codedui@1.0.18-alpha
+- pkg:nuget/specflow.plugins.codedui@1.0.19-alpha
+- pkg:nuget/specflow.plugins.codedui@1.0.26-alpha
+- pkg:nuget/specflow.plugins.codedui@1.0.27-beta
+- pkg:nuget/specflow.plugins.codedui@1.0.29-beta
+- pkg:nuget/specflow.plugins.codedui@1.0.34-beta
+- pkg:nuget/specflow.plugins.codedui@1.0.35
+- pkg:nuget/specflow.plugins.codedui@1.0.35-beta
+- pkg:nuget/specflow.plugins.codedui@2.1.0.36
+- pkg:nuget/specflow.plugins.codedui@2.1.0.36-beta
+- pkg:nuget/specflow.plugins.codedui@2.1.0.37-beta

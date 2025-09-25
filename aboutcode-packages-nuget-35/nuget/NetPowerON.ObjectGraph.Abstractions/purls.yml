@@ -1,0 +1,6 @@
+- pkg:nuget/NetPowerON.ObjectGraph.Abstractions@0.0.0.10
+- pkg:nuget/NetPowerON.ObjectGraph.Abstractions@0.0.0.12
+- pkg:nuget/NetPowerON.ObjectGraph.Abstractions@0.0.0.2
+- pkg:nuget/NetPowerON.ObjectGraph.Abstractions@0.0.0.5
+- pkg:nuget/NetPowerON.ObjectGraph.Abstractions@0.0.0.6
+- pkg:nuget/NetPowerON.ObjectGraph.Abstractions@0.0.0.8

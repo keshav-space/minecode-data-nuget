@@ -1,0 +1,6 @@
+- pkg:nuget/QSS.TestBase@0.8.0-beta
+- pkg:nuget/QSS.TestBase@0.8.4-beta
+- pkg:nuget/QSS.TestBase@0.8.6-beta
+- pkg:nuget/QSS.TestBase@0.8.7-beta
+- pkg:nuget/QSS.TestBase@0.8.8-beta
+- pkg:nuget/QSS.TestBase@0.9.0-beta

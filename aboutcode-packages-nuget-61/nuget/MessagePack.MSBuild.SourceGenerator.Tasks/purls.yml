@@ -1,0 +1,4 @@
+- pkg:nuget/MessagePack.MSBuild.SourceGenerator.Tasks@1.0.0
+- pkg:nuget/MessagePack.MSBuild.SourceGenerator.Tasks@1.1.0
+- pkg:nuget/MessagePack.MSBuild.SourceGenerator.Tasks@1.2.0
+- pkg:nuget/MessagePack.MSBuild.SourceGenerator.Tasks@1.2.1

@@ -1,0 +1,5 @@
+- pkg:nuget/CoreLib.Application.Logging@0.1.20083.2
+- pkg:nuget/CoreLib.Application.Logging@1.0.0
+- pkg:nuget/CoreLib.Application.Logging@1.0.1
+- pkg:nuget/CoreLib.Application.Logging@1.0.2
+- pkg:nuget/CoreLib.Application.Logging@1.0.3

@@ -1,0 +1,5 @@
+- pkg:nuget/Sample-Test-Library@1.0.0
+- pkg:nuget/Sample-Test-Library@1.0.1-alpha
+- pkg:nuget/Sample-Test-Library@1.0.1-beta
+- pkg:nuget/Sample-Test-Library@1.0.1-rc
+- pkg:nuget/Sample-Test-Library@1.0.1-rc2

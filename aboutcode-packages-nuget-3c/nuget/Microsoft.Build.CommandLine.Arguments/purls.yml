@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Build.CommandLine.Arguments@1.0.0-beta
+- pkg:nuget/Microsoft.Build.CommandLine.Arguments@1.0.0-beta-012
+- pkg:nuget/Microsoft.Build.CommandLine.Arguments@1.0.1

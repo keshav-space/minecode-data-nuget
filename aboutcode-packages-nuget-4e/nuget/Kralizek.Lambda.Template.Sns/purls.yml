@@ -1,0 +1,8 @@
+- pkg:nuget/Kralizek.Lambda.Template.Sns@1.0.0
+- pkg:nuget/Kralizek.Lambda.Template.Sns@2.0.0
+- pkg:nuget/Kralizek.Lambda.Template.Sns@2.0.1
+- pkg:nuget/Kralizek.Lambda.Template.Sns@3.0.0
+- pkg:nuget/Kralizek.Lambda.Template.Sns@4.0.0
+- pkg:nuget/Kralizek.Lambda.Template.Sns@4.0.1
+- pkg:nuget/Kralizek.Lambda.Template.Sns@4.1.0
+- pkg:nuget/Kralizek.Lambda.Template.Sns@5.0.0

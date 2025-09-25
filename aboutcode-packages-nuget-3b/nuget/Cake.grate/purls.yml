@@ -1,0 +1,9 @@
+- pkg:nuget/Cake.grate@0.0.1-preview
+- pkg:nuget/Cake.grate@0.0.15-preview
+- pkg:nuget/Cake.grate@0.0.2-preview
+- pkg:nuget/Cake.grate@0.0.3-preview
+- pkg:nuget/Cake.grate@1.5.4
+- pkg:nuget/Cake.grate@1.6.2
+- pkg:nuget/Cake.grate@1.7.3
+- pkg:nuget/Cake.grate@1.7.4
+- pkg:nuget/Cake.grate@1.8.0

@@ -1,0 +1,4 @@
+- pkg:nuget/BSynchro.Integration.Domain@1.0.0
+- pkg:nuget/BSynchro.Integration.Domain@1.0.1
+- pkg:nuget/BSynchro.Integration.Domain@8.0.0
+- pkg:nuget/BSynchro.Integration.Domain@8.0.1
