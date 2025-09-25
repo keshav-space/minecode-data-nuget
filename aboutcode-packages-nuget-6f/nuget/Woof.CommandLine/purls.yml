@@ -1,0 +1,14 @@
+- pkg:nuget/Woof.CommandLine@5.0.0
+- pkg:nuget/Woof.CommandLine@5.0.1
+- pkg:nuget/Woof.CommandLine@5.1.0
+- pkg:nuget/Woof.CommandLine@5.1.1
+- pkg:nuget/Woof.CommandLine@5.2.0
+- pkg:nuget/Woof.CommandLine@5.2.1
+- pkg:nuget/Woof.CommandLine@5.3.0
+- pkg:nuget/Woof.CommandLine@5.4.0
+- pkg:nuget/Woof.CommandLine@5.4.1
+- pkg:nuget/Woof.CommandLine@6.0.0
+- pkg:nuget/Woof.CommandLine@6.0.1
+- pkg:nuget/Woof.CommandLine@6.2.0
+- pkg:nuget/Woof.CommandLine@7.0.0
+- pkg:nuget/Woof.CommandLine@9.0.0

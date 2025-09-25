@@ -1,0 +1,5 @@
+- pkg:nuget/TestDatabase.SqlServerDocker@1.0.0
+- pkg:nuget/TestDatabase.SqlServerDocker@1.1.0
+- pkg:nuget/TestDatabase.SqlServerDocker@1.1.1
+- pkg:nuget/TestDatabase.SqlServerDocker@1.2.0
+- pkg:nuget/TestDatabase.SqlServerDocker@1.3.0

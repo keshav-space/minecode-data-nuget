@@ -1,0 +1,6 @@
+- pkg:nuget/Advitex.Infrastructure.Storage.Sqlite@0.1.0
+- pkg:nuget/Advitex.Infrastructure.Storage.Sqlite@0.1.1
+- pkg:nuget/Advitex.Infrastructure.Storage.Sqlite@0.1.4
+- pkg:nuget/Advitex.Infrastructure.Storage.Sqlite@0.1.5
+- pkg:nuget/Advitex.Infrastructure.Storage.Sqlite@0.1.6
+- pkg:nuget/Advitex.Infrastructure.Storage.Sqlite@0.2.0

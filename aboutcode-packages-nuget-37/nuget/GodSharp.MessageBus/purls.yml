@@ -1,0 +1,5 @@
+- pkg:nuget/GodSharp.MessageBus@2019.3.20813
+- pkg:nuget/GodSharp.MessageBus@2019.3.20831
+- pkg:nuget/GodSharp.MessageBus@2019.4.21108.210-preview
+- pkg:nuget/GodSharp.MessageBus@2019.4.21109.140-preview
+- pkg:nuget/GodSharp.MessageBus@2019.4.31205.160-preview

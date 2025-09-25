@@ -1,0 +1,8 @@
+- pkg:nuget/EnvDTE100@10.0.0
+- pkg:nuget/EnvDTE100@10.0.1
+- pkg:nuget/EnvDTE100@10.0.2
+- pkg:nuget/EnvDTE100@10.0.3
+- pkg:nuget/EnvDTE100@16.10.31320.204
+- pkg:nuget/EnvDTE100@16.7.30328.74
+- pkg:nuget/EnvDTE100@16.8.30705.32
+- pkg:nuget/EnvDTE100@16.9.31023.347

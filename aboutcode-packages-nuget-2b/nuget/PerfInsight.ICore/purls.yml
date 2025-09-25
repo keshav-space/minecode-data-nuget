@@ -1,0 +1,3 @@
+- pkg:nuget/PerfInsight.ICore@0.1.0
+- pkg:nuget/PerfInsight.ICore@5.0.0
+- pkg:nuget/PerfInsight.ICore@6.0.0

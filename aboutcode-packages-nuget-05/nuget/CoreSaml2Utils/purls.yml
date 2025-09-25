@@ -1,0 +1,17 @@
+- pkg:nuget/CoreSaml2Utils@0.9.8
+- pkg:nuget/CoreSaml2Utils@1.0.0
+- pkg:nuget/CoreSaml2Utils@1.0.1
+- pkg:nuget/CoreSaml2Utils@1.0.2
+- pkg:nuget/CoreSaml2Utils@1.0.3
+- pkg:nuget/CoreSaml2Utils@1.0.3-lnx
+- pkg:nuget/CoreSaml2Utils@1.0.3-nix19
+- pkg:nuget/CoreSaml2Utils@1.0.4
+- pkg:nuget/CoreSaml2Utils@1.0.5
+- pkg:nuget/CoreSaml2Utils@1.0.6
+- pkg:nuget/CoreSaml2Utils@1.1.0
+- pkg:nuget/CoreSaml2Utils@1.1.1
+- pkg:nuget/CoreSaml2Utils@1.1.1-logout30
+- pkg:nuget/CoreSaml2Utils@1.2.0
+- pkg:nuget/CoreSaml2Utils@1.2.0-logout31
+- pkg:nuget/CoreSaml2Utils@1.2.0-logout32
+- pkg:nuget/CoreSaml2Utils@1.2.0-logout33

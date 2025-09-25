@@ -1,0 +1,9 @@
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.0.0
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.0.1
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.0.1-preview.1.254
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.0.2
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.1.0
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.1.1
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.2.0
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.2.1
+- pkg:nuget/Pdsr.HealthChecks.Redis@2.3.0

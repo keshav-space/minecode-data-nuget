@@ -1,0 +1,8 @@
+- pkg:nuget/StockportGovUK.AspNetCore.Polly@0.1.0
+- pkg:nuget/StockportGovUK.AspNetCore.Polly@0.2.0
+- pkg:nuget/StockportGovUK.AspNetCore.Polly@0.2.0-prerelease1
+- pkg:nuget/StockportGovUK.AspNetCore.Polly@0.3.0
+- pkg:nuget/StockportGovUK.AspNetCore.Polly@0.3.0-prerelease2
+- pkg:nuget/StockportGovUK.AspNetCore.Polly@0.3.0-prerelease3
+- pkg:nuget/StockportGovUK.AspNetCore.Polly@0.4.0
+- pkg:nuget/StockportGovUK.AspNetCore.Polly@0.4.0-prerelease6

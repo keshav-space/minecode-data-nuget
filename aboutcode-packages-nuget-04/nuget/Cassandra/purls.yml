@@ -1,0 +1,2 @@
+- pkg:nuget/Cassandra@2.2.3
+- pkg:nuget/Cassandra@2.2.5

@@ -1,0 +1,12 @@
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.0.0
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.0.0-rc1
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.1.0
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.2.0
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.2.1
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.3.0
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.3.2
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.3.3
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.3.4
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.3.4-pre.1
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.3.4-pre.2
+- pkg:nuget/GedasFX.SourceGenerators.gRPC.MediatR@1.3.4-pre.3

@@ -1,0 +1,5 @@
+- pkg:nuget/Hangfire.Tags.MySql.Official@1.0.0
+- pkg:nuget/Hangfire.Tags.MySql.Official@1.6.4
+- pkg:nuget/Hangfire.Tags.MySql.Official@1.7.0
+- pkg:nuget/Hangfire.Tags.MySql.Official@1.8.0
+- pkg:nuget/Hangfire.Tags.MySql.Official@1.8.1

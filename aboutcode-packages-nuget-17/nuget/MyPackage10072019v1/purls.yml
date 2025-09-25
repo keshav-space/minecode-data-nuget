@@ -1,0 +1,13 @@
+- pkg:nuget/MyPackage10072019v1@1.0.0
+- pkg:nuget/MyPackage10072019v1@1.1.0
+- pkg:nuget/MyPackage10072019v1@1.2.0
+- pkg:nuget/MyPackage10072019v1@1.3.0
+- pkg:nuget/MyPackage10072019v1@2.0.0
+- pkg:nuget/MyPackage10072019v1@2.1.0
+- pkg:nuget/MyPackage10072019v1@2.2.0
+- pkg:nuget/MyPackage10072019v1@3.1.0-alpha.1
+- pkg:nuget/MyPackage10072019v1@3.1.0-alpha.2
+- pkg:nuget/MyPackage10072019v1@3.1.0-alpha.3
+- pkg:nuget/MyPackage10072019v1@3.1.0-alpha.4
+- pkg:nuget/MyPackage10072019v1@3.1.0-alpha.5
+- pkg:nuget/MyPackage10072019v1@3.1.0-rc.1

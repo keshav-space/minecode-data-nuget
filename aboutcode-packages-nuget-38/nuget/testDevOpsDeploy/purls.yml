@@ -1,0 +1,11 @@
+- pkg:nuget/testDevOpsDeploy@1.0.0
+- pkg:nuget/testDevOpsDeploy@10.0.0
+- pkg:nuget/testDevOpsDeploy@11.0.0
+- pkg:nuget/testDevOpsDeploy@2.0.0
+- pkg:nuget/testDevOpsDeploy@3.0.0
+- pkg:nuget/testDevOpsDeploy@4.0.0
+- pkg:nuget/testDevOpsDeploy@5.0.0
+- pkg:nuget/testDevOpsDeploy@6.0.0
+- pkg:nuget/testDevOpsDeploy@7.0.0
+- pkg:nuget/testDevOpsDeploy@8.0.0
+- pkg:nuget/testDevOpsDeploy@9.0.0

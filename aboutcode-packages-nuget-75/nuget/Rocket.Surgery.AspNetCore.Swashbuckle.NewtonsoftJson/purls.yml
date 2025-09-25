@@ -1,0 +1,6 @@
+- pkg:nuget/Rocket.Surgery.AspNetCore.Swashbuckle.NewtonsoftJson@8.0.0
+- pkg:nuget/Rocket.Surgery.AspNetCore.Swashbuckle.NewtonsoftJson@8.0.1
+- pkg:nuget/Rocket.Surgery.AspNetCore.Swashbuckle.NewtonsoftJson@8.0.2
+- pkg:nuget/Rocket.Surgery.AspNetCore.Swashbuckle.NewtonsoftJson@9.0.0
+- pkg:nuget/Rocket.Surgery.AspNetCore.Swashbuckle.NewtonsoftJson@9.0.0-beta.2
+- pkg:nuget/Rocket.Surgery.AspNetCore.Swashbuckle.NewtonsoftJson@9.0.0-beta.3

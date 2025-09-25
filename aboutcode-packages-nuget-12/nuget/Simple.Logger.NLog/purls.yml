@@ -1,0 +1,11 @@
+- pkg:nuget/Simple.Logger.NLog@1.0.0.4
+- pkg:nuget/Simple.Logger.NLog@1.0.0.7
+- pkg:nuget/Simple.Logger.NLog@1.0.0.8
+- pkg:nuget/Simple.Logger.NLog@1.0.0.9
+- pkg:nuget/Simple.Logger.NLog@1.1.0.11
+- pkg:nuget/Simple.Logger.NLog@1.2.0.13
+- pkg:nuget/Simple.Logger.NLog@2.0.0.18
+- pkg:nuget/Simple.Logger.NLog@2.0.0.21
+- pkg:nuget/Simple.Logger.NLog@2.0.0.22
+- pkg:nuget/Simple.Logger.NLog@3.0.0.26
+- pkg:nuget/Simple.Logger.NLog@3.0.0.30

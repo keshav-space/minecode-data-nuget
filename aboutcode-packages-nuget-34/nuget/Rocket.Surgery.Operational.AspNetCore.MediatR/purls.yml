@@ -1,0 +1,4 @@
+- pkg:nuget/Rocket.Surgery.Operational.AspNetCore.MediatR@8.0.0
+- pkg:nuget/Rocket.Surgery.Operational.AspNetCore.MediatR@8.0.1
+- pkg:nuget/Rocket.Surgery.Operational.AspNetCore.MediatR@9.0.0
+- pkg:nuget/Rocket.Surgery.Operational.AspNetCore.MediatR@9.0.0-beta.1

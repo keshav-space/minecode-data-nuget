@@ -1,0 +1,5 @@
+- pkg:nuget/ZXing.Net.Bindings.ImageSharp.V2@0.16.13
+- pkg:nuget/ZXing.Net.Bindings.ImageSharp.V2@0.16.14
+- pkg:nuget/ZXing.Net.Bindings.ImageSharp.V2@0.16.15
+- pkg:nuget/ZXing.Net.Bindings.ImageSharp.V2@0.16.16
+- pkg:nuget/ZXing.Net.Bindings.ImageSharp.V2@0.16.17

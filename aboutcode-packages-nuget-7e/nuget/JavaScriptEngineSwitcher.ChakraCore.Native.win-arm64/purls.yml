@@ -1,0 +1,12 @@
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.12.6
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.16.0
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.18.2
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.20.5
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.20.6
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.21.0
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.24.1
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.26.0
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.27.3
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.7.2
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.8.5
+- pkg:nuget/JavaScriptEngineSwitcher.ChakraCore.Native.win-arm64@3.9.1

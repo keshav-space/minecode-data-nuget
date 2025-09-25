@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Azure.Functions.Extensions.Dapr.Core@0.14.0-preview01
+- pkg:nuget/Microsoft.Azure.Functions.Extensions.Dapr.Core@0.15.0-preview01
+- pkg:nuget/Microsoft.Azure.Functions.Extensions.Dapr.Core@0.16.0-preview01
+- pkg:nuget/Microsoft.Azure.Functions.Extensions.Dapr.Core@0.17.0-preview01
+- pkg:nuget/Microsoft.Azure.Functions.Extensions.Dapr.Core@1.0.0
+- pkg:nuget/Microsoft.Azure.Functions.Extensions.Dapr.Core@1.0.1

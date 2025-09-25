@@ -1,0 +1,3 @@
+- pkg:nuget/NFramework.OAuthClient@1.0.0
+- pkg:nuget/NFramework.OAuthClient@2.0.0-preview.1
+- pkg:nuget/NFramework.OAuthClient@2.0.0-preview.2

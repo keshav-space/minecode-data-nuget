@@ -1,0 +1,9 @@
+- pkg:nuget/EmptyNugetPackage@2.1.1.1
+- pkg:nuget/EmptyNugetPackage@5.1.1
+- pkg:nuget/EmptyNugetPackage@5.1.2
+- pkg:nuget/EmptyNugetPackage@5.2.0
+- pkg:nuget/EmptyNugetPackage@5.3.0
+- pkg:nuget/EmptyNugetPackage@5.4.0
+- pkg:nuget/EmptyNugetPackage@5.4.1
+- pkg:nuget/EmptyNugetPackage@5.4.2
+- pkg:nuget/EmptyNugetPackage@5.4.3

@@ -1,0 +1,13 @@
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190320-061146
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190404-134035
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190404-135217
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190404-141942
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190406-041734
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190406-042535
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190406-042809
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190406-045457
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190407-100733
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190408-110556
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190408-122421
+- pkg:nuget/ThridPartyLogin-AspNetCore@1.0.0-CI-20190410-012715

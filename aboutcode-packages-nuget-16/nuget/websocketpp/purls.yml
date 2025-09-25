@@ -1,0 +1,3 @@
+- pkg:nuget/websocketpp@0.5.1
+- pkg:nuget/websocketpp@0.6.0
+- pkg:nuget/websocketpp@0.6.0.1

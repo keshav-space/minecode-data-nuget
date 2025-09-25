@@ -1,0 +1,5 @@
+- pkg:nuget/ZXing.Net.Bindings.Android@0.16.10
+- pkg:nuget/ZXing.Net.Bindings.Android@0.16.6
+- pkg:nuget/ZXing.Net.Bindings.Android@0.16.7
+- pkg:nuget/ZXing.Net.Bindings.Android@0.16.8
+- pkg:nuget/ZXing.Net.Bindings.Android@0.16.9

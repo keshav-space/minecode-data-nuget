@@ -1,0 +1,15 @@
+- pkg:nuget/dotnet-tool-exec@0.0.0
+- pkg:nuget/dotnet-tool-exec@1.0.0
+- pkg:nuget/dotnet-tool-exec@1.0.1
+- pkg:nuget/dotnet-tool-exec@1.0.2
+- pkg:nuget/dotnet-tool-exec@1.0.3
+- pkg:nuget/dotnet-tool-exec@1.2.0
+- pkg:nuget/dotnet-tool-exec@2.0.0
+- pkg:nuget/dotnet-tool-exec@2.0.1
+- pkg:nuget/dotnet-tool-exec@2.0.2
+- pkg:nuget/dotnet-tool-exec@2.0.3
+- pkg:nuget/dotnet-tool-exec@2.0.4
+- pkg:nuget/dotnet-tool-exec@2.0.5
+- pkg:nuget/dotnet-tool-exec@3.0.0
+- pkg:nuget/dotnet-tool-exec@3.1.0
+- pkg:nuget/dotnet-tool-exec@3.1.1

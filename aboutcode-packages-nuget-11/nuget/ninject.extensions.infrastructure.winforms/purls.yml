@@ -1,0 +1,4 @@
+- pkg:nuget/ninject.extensions.infrastructure.winforms@1.0.0
+- pkg:nuget/ninject.extensions.infrastructure.winforms@1.0.0.1
+- pkg:nuget/ninject.extensions.infrastructure.winforms@2.0.0
+- pkg:nuget/ninject.extensions.infrastructure.winforms@2.0.0.1

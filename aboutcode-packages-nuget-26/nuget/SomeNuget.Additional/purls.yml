@@ -1,0 +1,5 @@
+- pkg:nuget/SomeNuget.Additional@0.0.2
+- pkg:nuget/SomeNuget.Additional@0.0.3-preview001
+- pkg:nuget/SomeNuget.Additional@0.0.3-preview2
+- pkg:nuget/SomeNuget.Additional@0.0.4
+- pkg:nuget/SomeNuget.Additional@0.0.4-preview001

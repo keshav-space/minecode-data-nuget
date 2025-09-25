@@ -1,0 +1,6 @@
+- pkg:nuget/Salix.Dapper.Cqrs.MsSql@1.0.0
+- pkg:nuget/Salix.Dapper.Cqrs.MsSql@1.0.0-rc1
+- pkg:nuget/Salix.Dapper.Cqrs.MsSql@1.1.0
+- pkg:nuget/Salix.Dapper.Cqrs.MsSql@1.2.0
+- pkg:nuget/Salix.Dapper.Cqrs.MsSql@1.2.1
+- pkg:nuget/Salix.Dapper.Cqrs.MsSql@1.2.3

@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.191006.1
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.191017.1
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.191018.1
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.191019.1
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.191020.1
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.191021.1
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.191022.1
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.210225.2
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.210311.2
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.210311.4
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.210505.3
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.210629.2
+- pkg:nuget/Microsoft.Windows.WinMD@1.0.250131.1

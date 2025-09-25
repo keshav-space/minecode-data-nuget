@@ -1,0 +1,14 @@
+- pkg:nuget/JetBlack.MessageBus.Common@0.1.0
+- pkg:nuget/JetBlack.MessageBus.Common@1.0.0
+- pkg:nuget/JetBlack.MessageBus.Common@1.0.1
+- pkg:nuget/JetBlack.MessageBus.Common@2.0.0
+- pkg:nuget/JetBlack.MessageBus.Common@3.0.0
+- pkg:nuget/JetBlack.MessageBus.Common@4.0.0
+- pkg:nuget/JetBlack.MessageBus.Common@4.2.0
+- pkg:nuget/JetBlack.MessageBus.Common@5.0.0
+- pkg:nuget/JetBlack.MessageBus.Common@6.0.0-alpha.1
+- pkg:nuget/JetBlack.MessageBus.Common@6.0.0-alpha.2
+- pkg:nuget/JetBlack.MessageBus.Common@6.0.0-alpha.3
+- pkg:nuget/JetBlack.MessageBus.Common@6.0.0-alpha.4
+- pkg:nuget/JetBlack.MessageBus.Common@6.0.0-alpha.5
+- pkg:nuget/JetBlack.MessageBus.Common@6.0.0-alpha.6

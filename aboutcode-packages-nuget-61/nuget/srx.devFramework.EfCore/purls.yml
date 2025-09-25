@@ -1,0 +1,3 @@
+- pkg:nuget/srx.devFramework.EfCore@1.0.2
+- pkg:nuget/srx.devFramework.EfCore@1.1.0
+- pkg:nuget/srx.devFramework.EfCore@2.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/ZXing.Net.Bindings.OpenCV.V4@0.16.10
+- pkg:nuget/ZXing.Net.Bindings.OpenCV.V4@0.16.6
+- pkg:nuget/ZXing.Net.Bindings.OpenCV.V4@0.16.8
+- pkg:nuget/ZXing.Net.Bindings.OpenCV.V4@0.16.9

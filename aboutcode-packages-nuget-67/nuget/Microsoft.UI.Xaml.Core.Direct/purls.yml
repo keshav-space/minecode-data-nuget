@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.UI.Xaml.Core.Direct@2.0.180718001-prerelease
+- pkg:nuget/Microsoft.UI.Xaml.Core.Direct@2.0.180723002-prerelease
+- pkg:nuget/Microsoft.UI.Xaml.Core.Direct@2.0.180814001-prerelease
+- pkg:nuget/Microsoft.UI.Xaml.Core.Direct@2.0.180822001-prerelease
+- pkg:nuget/Microsoft.UI.Xaml.Core.Direct@2.0.180924001-prerelease
+- pkg:nuget/Microsoft.UI.Xaml.Core.Direct@2.0.190315001-prerelease

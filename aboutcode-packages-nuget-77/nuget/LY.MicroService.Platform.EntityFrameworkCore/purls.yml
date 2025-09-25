@@ -1,0 +1,10 @@
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.0.2.2
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.0.3.1
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.1.0.1
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.1.1.1
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.2.1.1
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.2.2.1
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.2.2.2
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.3.2.1
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.3.3.1
+- pkg:nuget/LY.MicroService.Platform.EntityFrameworkCore@7.4.0.1

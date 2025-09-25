@@ -1,0 +1,5 @@
+- pkg:nuget/LeaflyApi.Web@0.6.0-beta
+- pkg:nuget/LeaflyApi.Web@0.6.1-beta
+- pkg:nuget/LeaflyApi.Web@0.7.0-beta
+- pkg:nuget/LeaflyApi.Web@0.7.1-beta
+- pkg:nuget/LeaflyApi.Web@0.7.2-beta

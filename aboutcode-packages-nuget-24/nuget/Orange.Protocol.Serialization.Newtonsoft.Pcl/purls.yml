@@ -1,0 +1,5 @@
+- pkg:nuget/Orange.Protocol.Serialization.Newtonsoft.Pcl@0.4.9
+- pkg:nuget/Orange.Protocol.Serialization.Newtonsoft.Pcl@0.5.10
+- pkg:nuget/Orange.Protocol.Serialization.Newtonsoft.Pcl@0.5.11
+- pkg:nuget/Orange.Protocol.Serialization.Newtonsoft.Pcl@0.5.12
+- pkg:nuget/Orange.Protocol.Serialization.Newtonsoft.Pcl@0.5.13

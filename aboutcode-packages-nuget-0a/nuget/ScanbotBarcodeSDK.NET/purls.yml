@@ -1,0 +1,12 @@
+- pkg:nuget/ScanbotBarcodeSDK.NET@3.6.0
+- pkg:nuget/ScanbotBarcodeSDK.NET@3.6.0-alpha.1
+- pkg:nuget/ScanbotBarcodeSDK.NET@3.6.0-beta.1
+- pkg:nuget/ScanbotBarcodeSDK.NET@3.7.0
+- pkg:nuget/ScanbotBarcodeSDK.NET@4.0.0
+- pkg:nuget/ScanbotBarcodeSDK.NET@4.2.0
+- pkg:nuget/ScanbotBarcodeSDK.NET@4.2.0-beta.1
+- pkg:nuget/ScanbotBarcodeSDK.NET@5.1.0
+- pkg:nuget/ScanbotBarcodeSDK.NET@5.1.1-beta.1
+- pkg:nuget/ScanbotBarcodeSDK.NET@6.1.0
+- pkg:nuget/ScanbotBarcodeSDK.NET@7.0.0
+- pkg:nuget/ScanbotBarcodeSDK.NET@7.1.0

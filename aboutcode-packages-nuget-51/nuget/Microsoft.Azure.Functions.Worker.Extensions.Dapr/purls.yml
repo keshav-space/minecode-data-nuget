@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Dapr@0.14.0-preview01
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Dapr@0.15.0-preview01
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Dapr@0.16.0-preview01
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Dapr@0.17.0-preview01
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Dapr@1.0.0
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Dapr@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/VirtoCommerce.ContentModule.Client@2.10.4
+- pkg:nuget/VirtoCommerce.ContentModule.Client@2.11.0
+- pkg:nuget/VirtoCommerce.ContentModule.Client@2.11.0-rc1
+- pkg:nuget/VirtoCommerce.ContentModule.Client@2.11.4

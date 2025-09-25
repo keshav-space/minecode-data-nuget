@@ -1,0 +1,11 @@
+- pkg:nuget/PublishCoverity@0.1.0
+- pkg:nuget/PublishCoverity@0.10.0
+- pkg:nuget/PublishCoverity@0.10.0-beta0001
+- pkg:nuget/PublishCoverity@0.10.0-beta0002
+- pkg:nuget/PublishCoverity@0.10.0-beta0003
+- pkg:nuget/PublishCoverity@0.11.0
+- pkg:nuget/PublishCoverity@0.11.0-beta0004
+- pkg:nuget/PublishCoverity@0.11.0-unstable0004
+- pkg:nuget/PublishCoverity@0.9.0
+- pkg:nuget/PublishCoverity@0.9.0-beta0001
+- pkg:nuget/PublishCoverity@0.9.0-beta0002

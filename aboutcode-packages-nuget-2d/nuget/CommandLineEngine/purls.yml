@@ -1,0 +1,5 @@
+- pkg:nuget/CommandLineEngine@1.0.0
+- pkg:nuget/CommandLineEngine@1.0.0-rc
+- pkg:nuget/CommandLineEngine@1.0.0.1
+- pkg:nuget/CommandLineEngine@1.0.0.1-rc
+- pkg:nuget/CommandLineEngine@1.1.0

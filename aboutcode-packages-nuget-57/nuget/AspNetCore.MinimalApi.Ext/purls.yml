@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.MinimalApi.Ext@3.0.0-alpha
+- pkg:nuget/AspNetCore.MinimalApi.Ext@3.0.1-alpha
+- pkg:nuget/AspNetCore.MinimalApi.Ext@3.1.0-alpha
+- pkg:nuget/AspNetCore.MinimalApi.Ext@3.2.1-beta
+- pkg:nuget/AspNetCore.MinimalApi.Ext@3.2.2

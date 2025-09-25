@@ -1,0 +1,3 @@
+- pkg:nuget/Serilog.Sinks.SignalR.Core@0.1.0
+- pkg:nuget/Serilog.Sinks.SignalR.Core@0.1.1
+- pkg:nuget/Serilog.Sinks.SignalR.Core@0.1.2

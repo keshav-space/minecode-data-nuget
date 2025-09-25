@@ -1,0 +1,12 @@
+- pkg:nuget/Docker.Registry.DotNet@1.0.10
+- pkg:nuget/Docker.Registry.DotNet@1.0.6
+- pkg:nuget/Docker.Registry.DotNet@1.0.7
+- pkg:nuget/Docker.Registry.DotNet@1.0.8
+- pkg:nuget/Docker.Registry.DotNet@1.0.9
+- pkg:nuget/Docker.Registry.DotNet@1.1.1
+- pkg:nuget/Docker.Registry.DotNet@1.1.11
+- pkg:nuget/Docker.Registry.DotNet@1.1.15
+- pkg:nuget/Docker.Registry.DotNet@1.1.33
+- pkg:nuget/Docker.Registry.DotNet@1.1.7
+- pkg:nuget/Docker.Registry.DotNet@1.2.1
+- pkg:nuget/Docker.Registry.DotNet@2.0.0

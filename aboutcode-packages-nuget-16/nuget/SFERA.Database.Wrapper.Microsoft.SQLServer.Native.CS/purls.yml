@@ -1,0 +1,7 @@
+- pkg:nuget/SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS@10.2019.333.184
+- pkg:nuget/SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS@10.2019.338.188
+- pkg:nuget/SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS@10.2020.23.194
+- pkg:nuget/SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS@10.2021.1
+- pkg:nuget/SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS@10.2021.2
+- pkg:nuget/SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS@10.2021.3
+- pkg:nuget/SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS@10.2021.4

@@ -1,0 +1,3 @@
+- pkg:nuget/SqlDataProvider@1.1.0
+- pkg:nuget/SqlDataProvider@1.2.0
+- pkg:nuget/SqlDataProvider@2.0.0

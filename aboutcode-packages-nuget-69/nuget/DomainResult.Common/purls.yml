@@ -1,0 +1,15 @@
+- pkg:nuget/DomainResult.Common@0.3.3-alpha.1
+- pkg:nuget/DomainResult.Common@0.4.0
+- pkg:nuget/DomainResult.Common@0.4.1
+- pkg:nuget/DomainResult.Common@1.0.0
+- pkg:nuget/DomainResult.Common@1.0.1
+- pkg:nuget/DomainResult.Common@1.0.2
+- pkg:nuget/DomainResult.Common@1.1.0
+- pkg:nuget/DomainResult.Common@1.1.0-beta.1
+- pkg:nuget/DomainResult.Common@1.1.1
+- pkg:nuget/DomainResult.Common@2.0.0
+- pkg:nuget/DomainResult.Common@3.0.0
+- pkg:nuget/DomainResult.Common@3.1.0
+- pkg:nuget/DomainResult.Common@3.2.0
+- pkg:nuget/DomainResult.Common@3.3.0
+- pkg:nuget/DomainResult.Common@3.3.1

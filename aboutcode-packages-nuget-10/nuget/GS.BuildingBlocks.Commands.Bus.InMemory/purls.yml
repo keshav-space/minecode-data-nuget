@@ -1,0 +1,2 @@
+- pkg:nuget/GS.BuildingBlocks.Commands.Bus.InMemory@2.0.1
+- pkg:nuget/GS.BuildingBlocks.Commands.Bus.InMemory@2.0.5
