@@ -1,0 +1,12 @@
+- pkg:nuget/Vertica.Integration.UCommerce@1.14.0
+- pkg:nuget/Vertica.Integration.UCommerce@1.15.0
+- pkg:nuget/Vertica.Integration.UCommerce@1.16.0
+- pkg:nuget/Vertica.Integration.UCommerce@1.17.0
+- pkg:nuget/Vertica.Integration.UCommerce@1.18.0
+- pkg:nuget/Vertica.Integration.UCommerce@1.18.1
+- pkg:nuget/Vertica.Integration.UCommerce@1.18.2
+- pkg:nuget/Vertica.Integration.UCommerce@1.19.0
+- pkg:nuget/Vertica.Integration.UCommerce@1.19.1
+- pkg:nuget/Vertica.Integration.UCommerce@2.0.0-alpha01
+- pkg:nuget/Vertica.Integration.UCommerce@2.0.0-alpha02
+- pkg:nuget/Vertica.Integration.UCommerce@2.0.0-alpha03

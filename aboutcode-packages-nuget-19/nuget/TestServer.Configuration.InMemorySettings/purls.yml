@@ -1,0 +1,4 @@
+- pkg:nuget/TestServer.Configuration.InMemorySettings@1.0.0
+- pkg:nuget/TestServer.Configuration.InMemorySettings@2.0.0
+- pkg:nuget/TestServer.Configuration.InMemorySettings@2.1.1
+- pkg:nuget/TestServer.Configuration.InMemorySettings@2.1.2

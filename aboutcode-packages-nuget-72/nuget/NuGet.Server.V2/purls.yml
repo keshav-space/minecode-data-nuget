@@ -1,0 +1,13 @@
+- pkg:nuget/NuGet.Server.V2@3.0.0
+- pkg:nuget/NuGet.Server.V2@3.0.0-beta
+- pkg:nuget/NuGet.Server.V2@3.0.1
+- pkg:nuget/NuGet.Server.V2@3.0.2
+- pkg:nuget/NuGet.Server.V2@3.1.0
+- pkg:nuget/NuGet.Server.V2@3.1.1
+- pkg:nuget/NuGet.Server.V2@3.1.2
+- pkg:nuget/NuGet.Server.V2@3.2.0
+- pkg:nuget/NuGet.Server.V2@3.2.1
+- pkg:nuget/NuGet.Server.V2@3.3.0
+- pkg:nuget/NuGet.Server.V2@3.4.0
+- pkg:nuget/NuGet.Server.V2@3.4.1
+- pkg:nuget/NuGet.Server.V2@3.4.2

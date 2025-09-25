@@ -1,0 +1,8 @@
+- pkg:nuget/AzureWebFarm.OctopusDeploy@0.0.1.39
+- pkg:nuget/AzureWebFarm.OctopusDeploy@1.0.0.8
+- pkg:nuget/AzureWebFarm.OctopusDeploy@1.0.1.16
+- pkg:nuget/AzureWebFarm.OctopusDeploy@1.1.0.10
+- pkg:nuget/AzureWebFarm.OctopusDeploy@1.2.0.11
+- pkg:nuget/AzureWebFarm.OctopusDeploy@1.2.1
+- pkg:nuget/AzureWebFarm.OctopusDeploy@1.3.0
+- pkg:nuget/AzureWebFarm.OctopusDeploy@2.0.0

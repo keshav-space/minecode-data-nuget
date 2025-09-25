@@ -1,0 +1,5 @@
+- pkg:nuget/PepperDash.Essentials.Plugin.EpsonProjector@2.0.6-beta-13
+- pkg:nuget/PepperDash.Essentials.Plugin.EpsonProjector@2.0.6-beta-14
+- pkg:nuget/PepperDash.Essentials.Plugin.EpsonProjector@2.1.5
+- pkg:nuget/PepperDash.Essentials.Plugin.EpsonProjector@2.2.0
+- pkg:nuget/PepperDash.Essentials.Plugin.EpsonProjector@2.3.0-wip-auth.7

@@ -1,0 +1,12 @@
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@0.0.0.10
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-pre-release.12
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-pre-release.13
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-pre-release.14
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-pre-release.16
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-pre-release.18
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-pre-release.19
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-prerelease.20
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-prerelease.29
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0-prerelease.31
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0.8
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking.Linq@1.0.0.9

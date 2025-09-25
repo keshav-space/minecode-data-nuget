@@ -1,0 +1,13 @@
+- pkg:nuget/EfCore.GenericServices.AspNetCore@1.0.0
+- pkg:nuget/EfCore.GenericServices.AspNetCore@1.1.0
+- pkg:nuget/EfCore.GenericServices.AspNetCore@1.2.0
+- pkg:nuget/EfCore.GenericServices.AspNetCore@1.2.1
+- pkg:nuget/EfCore.GenericServices.AspNetCore@2.0.0
+- pkg:nuget/EfCore.GenericServices.AspNetCore@3.0.0
+- pkg:nuget/EfCore.GenericServices.AspNetCore@3.0.0-preview01
+- pkg:nuget/EfCore.GenericServices.AspNetCore@3.0.1
+- pkg:nuget/EfCore.GenericServices.AspNetCore@3.0.2
+- pkg:nuget/EfCore.GenericServices.AspNetCore@4.0.0
+- pkg:nuget/EfCore.GenericServices.AspNetCore@4.0.0-preview001
+- pkg:nuget/EfCore.GenericServices.AspNetCore@4.1.0
+- pkg:nuget/EfCore.GenericServices.AspNetCore@4.1.1

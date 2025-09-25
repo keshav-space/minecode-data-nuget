@@ -1,0 +1,14 @@
+- pkg:nuget/Linbik.Server@0.0.1
+- pkg:nuget/Linbik.Server@0.1.0
+- pkg:nuget/Linbik.Server@0.1.0-ci0025
+- pkg:nuget/Linbik.Server@0.36.0
+- pkg:nuget/Linbik.Server@0.37.0
+- pkg:nuget/Linbik.Server@0.38.0
+- pkg:nuget/Linbik.Server@0.39.0
+- pkg:nuget/Linbik.Server@0.40.0
+- pkg:nuget/Linbik.Server@0.41.0
+- pkg:nuget/Linbik.Server@0.42.0
+- pkg:nuget/Linbik.Server@0.44.0
+- pkg:nuget/Linbik.Server@0.45.5
+- pkg:nuget/Linbik.Server@0.45.6
+- pkg:nuget/Linbik.Server@0.45.7

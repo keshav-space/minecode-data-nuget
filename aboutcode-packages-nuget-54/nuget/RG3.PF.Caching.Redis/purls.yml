@@ -1,0 +1,15 @@
+- pkg:nuget/RG3.PF.Caching.Redis@3.1.2
+- pkg:nuget/RG3.PF.Caching.Redis@3.2.0
+- pkg:nuget/RG3.PF.Caching.Redis@3.2.1
+- pkg:nuget/RG3.PF.Caching.Redis@6.0.0
+- pkg:nuget/RG3.PF.Caching.Redis@6.0.1
+- pkg:nuget/RG3.PF.Caching.Redis@6.0.26
+- pkg:nuget/RG3.PF.Caching.Redis@6.0.55
+- pkg:nuget/RG3.PF.Caching.Redis@6.0.77
+- pkg:nuget/RG3.PF.Caching.Redis@6.0.9
+- pkg:nuget/RG3.PF.Caching.Redis@7.1.23
+- pkg:nuget/RG3.PF.Caching.Redis@7.1.46
+- pkg:nuget/RG3.PF.Caching.Redis@7.2.29
+- pkg:nuget/RG3.PF.Caching.Redis@7.2.5
+- pkg:nuget/RG3.PF.Caching.Redis@8.0.1
+- pkg:nuget/RG3.PF.Caching.Redis@9.0.1

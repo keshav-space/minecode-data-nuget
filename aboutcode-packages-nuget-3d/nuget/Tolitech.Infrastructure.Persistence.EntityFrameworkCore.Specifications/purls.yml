@@ -1,0 +1,5 @@
+- pkg:nuget/Tolitech.Infrastructure.Persistence.EntityFrameworkCore.Specifications@1.0.0-preview.1
+- pkg:nuget/Tolitech.Infrastructure.Persistence.EntityFrameworkCore.Specifications@1.0.0-preview.2
+- pkg:nuget/Tolitech.Infrastructure.Persistence.EntityFrameworkCore.Specifications@1.0.0-preview.3
+- pkg:nuget/Tolitech.Infrastructure.Persistence.EntityFrameworkCore.Specifications@1.0.0-preview.4
+- pkg:nuget/Tolitech.Infrastructure.Persistence.EntityFrameworkCore.Specifications@1.0.0-preview.5

@@ -1,0 +1,4 @@
+- pkg:nuget/AutomationToolkit.Octopus@0.1.0
+- pkg:nuget/AutomationToolkit.Octopus@1.0.0
+- pkg:nuget/AutomationToolkit.Octopus@1.0.3
+- pkg:nuget/AutomationToolkit.Octopus@3.1.0

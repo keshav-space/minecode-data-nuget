@@ -1,0 +1,6 @@
+- pkg:nuget/Adobe.Target.Delivery@1.0.0%2Bbuild.60
+- pkg:nuget/Adobe.Target.Delivery@1.1.0%2Bbuild.75
+- pkg:nuget/Adobe.Target.Delivery@1.1.1%2Bbuild.79
+- pkg:nuget/Adobe.Target.Delivery@1.1.2%2Bbuild.105
+- pkg:nuget/Adobe.Target.Delivery@1.1.3%2Bbuild.120
+- pkg:nuget/Adobe.Target.Delivery@1.1.4%2Bbuild.136

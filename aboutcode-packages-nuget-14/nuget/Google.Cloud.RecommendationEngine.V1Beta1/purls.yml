@@ -1,0 +1,9 @@
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@1.0.0-beta01
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@1.0.0-beta02
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@1.0.0-beta03
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@2.0.0-beta01
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@2.0.0-beta02
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@2.0.0-beta03
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@2.0.0-beta04
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@2.0.0-beta05
+- pkg:nuget/Google.Cloud.RecommendationEngine.V1Beta1@2.0.0-beta06

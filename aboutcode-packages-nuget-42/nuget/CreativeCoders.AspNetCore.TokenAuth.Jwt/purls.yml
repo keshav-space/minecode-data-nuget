@@ -1,0 +1,9 @@
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@3.0.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@3.1.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@3.2.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@4.0.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@4.1.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@4.2.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@4.3.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@4.4.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuth.Jwt@4.5.0

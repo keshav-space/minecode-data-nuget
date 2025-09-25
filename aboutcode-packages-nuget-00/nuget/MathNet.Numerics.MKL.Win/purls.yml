@@ -1,0 +1,13 @@
+- pkg:nuget/MathNet.Numerics.MKL.Win@1.8.0
+- pkg:nuget/MathNet.Numerics.MKL.Win@2.0.0
+- pkg:nuget/MathNet.Numerics.MKL.Win@2.1.0
+- pkg:nuget/MathNet.Numerics.MKL.Win@2.2.0
+- pkg:nuget/MathNet.Numerics.MKL.Win@2.3.0
+- pkg:nuget/MathNet.Numerics.MKL.Win@2.4.0
+- pkg:nuget/MathNet.Numerics.MKL.Win@2.5.0
+- pkg:nuget/MathNet.Numerics.MKL.Win@2.6.0-beta2
+- pkg:nuget/MathNet.Numerics.MKL.Win@2.6.0-beta3
+- pkg:nuget/MathNet.Numerics.MKL.Win@3.0.0
+- pkg:nuget/MathNet.Numerics.MKL.Win@3.0.0-beta1
+- pkg:nuget/MathNet.Numerics.MKL.Win@3.0.0-beta2
+- pkg:nuget/MathNet.Numerics.MKL.Win@3.0.0-beta3

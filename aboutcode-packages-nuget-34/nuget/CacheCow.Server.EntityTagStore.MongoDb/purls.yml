@@ -1,0 +1,11 @@
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.2.4
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.3.0
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.4.0
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.4.1
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.4.11
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.5.0-alpha
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.5.1
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.6.0
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.6.1
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@0.6.6
+- pkg:nuget/CacheCow.Server.EntityTagStore.MongoDb@1.0.0

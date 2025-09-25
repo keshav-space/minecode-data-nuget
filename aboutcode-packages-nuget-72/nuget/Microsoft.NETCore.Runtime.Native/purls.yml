@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.NETCore.Runtime.Native@1.0.0
+- pkg:nuget/Microsoft.NETCore.Runtime.Native@1.0.1
+- pkg:nuget/Microsoft.NETCore.Runtime.Native@1.0.1-beta-23225
+- pkg:nuget/Microsoft.NETCore.Runtime.Native@1.0.1-beta-23409
+- pkg:nuget/Microsoft.NETCore.Runtime.Native@1.0.1-beta-23516
+- pkg:nuget/Microsoft.NETCore.Runtime.Native@1.0.2-rc2-24027

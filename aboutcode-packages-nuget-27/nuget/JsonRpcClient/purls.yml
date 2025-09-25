@@ -1,0 +1,10 @@
+- pkg:nuget/JsonRpcClient@1.0.0
+- pkg:nuget/JsonRpcClient@1.0.1
+- pkg:nuget/JsonRpcClient@3.0.0
+- pkg:nuget/JsonRpcClient@4.0.1
+- pkg:nuget/JsonRpcClient@4.0.2
+- pkg:nuget/JsonRpcClient@5.0.0
+- pkg:nuget/JsonRpcClient@5.0.1
+- pkg:nuget/JsonRpcClient@5.1.0
+- pkg:nuget/JsonRpcClient@5.2.0
+- pkg:nuget/JsonRpcClient@5.2.1

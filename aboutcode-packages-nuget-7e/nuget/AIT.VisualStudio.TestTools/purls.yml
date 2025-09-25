@@ -1,0 +1,13 @@
+- pkg:nuget/AIT.VisualStudio.TestTools@0.2.1396-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.2.1398-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.3.1400-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.3.1401-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.3.1403-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.3.1411-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.3.1454-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.3.2548-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.3.2606-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.3.2646-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.4.0-alpha
+- pkg:nuget/AIT.VisualStudio.TestTools@0.4.0-beta001
+- pkg:nuget/AIT.VisualStudio.TestTools@0.4.0-beta002

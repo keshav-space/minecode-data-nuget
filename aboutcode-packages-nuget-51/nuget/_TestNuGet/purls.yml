@@ -1,0 +1,4 @@
+- pkg:nuget/_TestNuGet@1.0.0
+- pkg:nuget/_TestNuGet@1.0.0.1
+- pkg:nuget/_TestNuGet@2.0.0
+- pkg:nuget/_TestNuGet@3.0.0

@@ -1,0 +1,15 @@
+- pkg:nuget/REstate.Domain.Core@1.0.1
+- pkg:nuget/REstate.Domain.Core@1.0.2
+- pkg:nuget/REstate.Domain.Core@2.0.0
+- pkg:nuget/REstate.Domain.Core@2.1.0
+- pkg:nuget/REstate.Domain.Core@3.0.1
+- pkg:nuget/REstate.Domain.Core@4.0.1
+- pkg:nuget/REstate.Domain.Core@5.0.1
+- pkg:nuget/REstate.Domain.Core@6.0.0
+- pkg:nuget/REstate.Domain.Core@7.0.0
+- pkg:nuget/REstate.Domain.Core@7.1.0
+- pkg:nuget/REstate.Domain.Core@7.1.1
+- pkg:nuget/REstate.Domain.Core@7.2.1
+- pkg:nuget/REstate.Domain.Core@7.3.0
+- pkg:nuget/REstate.Domain.Core@8.0.0
+- pkg:nuget/REstate.Domain.Core@8.0.7

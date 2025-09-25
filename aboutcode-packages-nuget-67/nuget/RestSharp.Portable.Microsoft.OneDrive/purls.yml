@@ -1,0 +1,2 @@
+- pkg:nuget/RestSharp.Portable.Microsoft.OneDrive@0.1.0-beta01
+- pkg:nuget/RestSharp.Portable.Microsoft.OneDrive@0.7.0

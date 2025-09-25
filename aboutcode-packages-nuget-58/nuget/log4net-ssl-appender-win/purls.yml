@@ -1,0 +1,5 @@
+- pkg:nuget/log4net-ssl-appender-win@1.0.0.1
+- pkg:nuget/log4net-ssl-appender-win@1.0.0.2
+- pkg:nuget/log4net-ssl-appender-win@1.2.0
+- pkg:nuget/log4net-ssl-appender-win@1.2.1
+- pkg:nuget/log4net-ssl-appender-win@1.2.1-rc1

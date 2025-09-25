@@ -1,0 +1,12 @@
+- pkg:nuget/Build.Mvc5@2013.5.24
+- pkg:nuget/Build.Mvc5@2014.1.15
+- pkg:nuget/Build.Mvc5@2014.1.18
+- pkg:nuget/Build.Mvc5@2014.1.18.1
+- pkg:nuget/Build.Mvc5@2014.1.20
+- pkg:nuget/Build.Mvc5@2014.1.20.1
+- pkg:nuget/Build.Mvc5@2014.1.20.2
+- pkg:nuget/Build.Mvc5@2014.1.20.3
+- pkg:nuget/Build.Mvc5@2014.1.20.4
+- pkg:nuget/Build.Mvc5@2014.1.20.5
+- pkg:nuget/Build.Mvc5@2014.1.21
+- pkg:nuget/Build.Mvc5@2014.5.26

@@ -1,0 +1,5 @@
+- pkg:nuget/Zamin.Infra.Localizations.Microsoft@1.0.0-Preview.3.0.0
+- pkg:nuget/Zamin.Infra.Localizations.Microsoft@5.0.0
+- pkg:nuget/Zamin.Infra.Localizations.Microsoft@5.1.0
+- pkg:nuget/Zamin.Infra.Localizations.Microsoft@5.1.2
+- pkg:nuget/Zamin.Infra.Localizations.Microsoft@5.1.3

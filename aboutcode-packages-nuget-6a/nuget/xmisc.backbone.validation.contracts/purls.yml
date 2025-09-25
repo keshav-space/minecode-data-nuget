@@ -1,0 +1,6 @@
+- pkg:nuget/xmisc.backbone.validation.contracts@2.0.24-alpha
+- pkg:nuget/xmisc.backbone.validation.contracts@4.0.59-alpha
+- pkg:nuget/xmisc.backbone.validation.contracts@4.1.7-beta
+- pkg:nuget/xmisc.backbone.validation.contracts@6.0.18
+- pkg:nuget/xmisc.backbone.validation.contracts@8.2.14
+- pkg:nuget/xmisc.backbone.validation.contracts@9.0.11

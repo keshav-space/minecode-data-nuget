@@ -1,0 +1,5 @@
+- pkg:nuget/Airbyte.Cdk@0.0.1
+- pkg:nuget/Airbyte.Cdk@0.0.1-preview
+- pkg:nuget/Airbyte.Cdk@0.0.2-preview
+- pkg:nuget/Airbyte.Cdk@0.0.5
+- pkg:nuget/Airbyte.Cdk@0.0.6

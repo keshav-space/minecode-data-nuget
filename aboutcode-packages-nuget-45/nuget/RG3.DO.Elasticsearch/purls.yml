@@ -1,0 +1,12 @@
+- pkg:nuget/RG3.DO.Elasticsearch@3.2.0
+- pkg:nuget/RG3.DO.Elasticsearch@3.2.1
+- pkg:nuget/RG3.DO.Elasticsearch@6.0.0
+- pkg:nuget/RG3.DO.Elasticsearch@6.0.1
+- pkg:nuget/RG3.DO.Elasticsearch@6.0.26
+- pkg:nuget/RG3.DO.Elasticsearch@6.0.34
+- pkg:nuget/RG3.DO.Elasticsearch@6.0.61
+- pkg:nuget/RG3.DO.Elasticsearch@6.0.77
+- pkg:nuget/RG3.DO.Elasticsearch@6.0.9
+- pkg:nuget/RG3.DO.Elasticsearch@7.1.23
+- pkg:nuget/RG3.DO.Elasticsearch@7.2.5
+- pkg:nuget/RG3.DO.Elasticsearch@9.0.1

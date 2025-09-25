@@ -1,0 +1,3 @@
+- pkg:nuget/dotnet-coveralls@0.10.0
+- pkg:nuget/dotnet-coveralls@0.11.0
+- pkg:nuget/dotnet-coveralls@0.9.0

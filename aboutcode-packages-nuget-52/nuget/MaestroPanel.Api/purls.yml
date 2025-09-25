@@ -1,0 +1,4 @@
+- pkg:nuget/MaestroPanel.Api@1.0.0
+- pkg:nuget/MaestroPanel.Api@1.1.0-beta
+- pkg:nuget/MaestroPanel.Api@1.2.0-beta
+- pkg:nuget/MaestroPanel.Api@1.2.1-beta

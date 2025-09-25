@@ -1,0 +1,2 @@
+- pkg:nuget/Stride.NuGet.PackageManagement@5.5.1
+- pkg:nuget/Stride.NuGet.PackageManagement@5.8.0

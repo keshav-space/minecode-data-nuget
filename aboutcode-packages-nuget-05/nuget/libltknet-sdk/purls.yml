@@ -1,0 +1,15 @@
+- pkg:nuget/libltknet-sdk@10.26.1
+- pkg:nuget/libltknet-sdk@10.28.0
+- pkg:nuget/libltknet-sdk@10.30.0
+- pkg:nuget/libltknet-sdk@10.30.1
+- pkg:nuget/libltknet-sdk@10.34.0
+- pkg:nuget/libltknet-sdk@10.36.0
+- pkg:nuget/libltknet-sdk@10.38.0
+- pkg:nuget/libltknet-sdk@10.40.0
+- pkg:nuget/libltknet-sdk@10.42.0
+- pkg:nuget/libltknet-sdk@10.44.0
+- pkg:nuget/libltknet-sdk@10.46.0
+- pkg:nuget/libltknet-sdk@11.0.0
+- pkg:nuget/libltknet-sdk@11.2.0
+- pkg:nuget/libltknet-sdk@11.4.0
+- pkg:nuget/libltknet-sdk@12.0.0

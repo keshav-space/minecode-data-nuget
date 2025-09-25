@@ -1,0 +1,4 @@
+- pkg:nuget/MyFirstPackageHaji@1.0.0
+- pkg:nuget/MyFirstPackageHaji@2.0.0
+- pkg:nuget/MyFirstPackageHaji@3.0.0
+- pkg:nuget/MyFirstPackageHaji@4.0.0

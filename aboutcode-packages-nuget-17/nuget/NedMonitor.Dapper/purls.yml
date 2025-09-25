@@ -1,0 +1,11 @@
+- pkg:nuget/NedMonitor.Dapper@1.0.0
+- pkg:nuget/NedMonitor.Dapper@1.0.0-dev
+- pkg:nuget/NedMonitor.Dapper@1.0.1
+- pkg:nuget/NedMonitor.Dapper@1.0.1-dev
+- pkg:nuget/NedMonitor.Dapper@1.1.0-dev
+- pkg:nuget/NedMonitor.Dapper@1.2.0-dev
+- pkg:nuget/NedMonitor.Dapper@1.2.1-dev
+- pkg:nuget/NedMonitor.Dapper@1.2.2-dev
+- pkg:nuget/NedMonitor.Dapper@1.2.3-dev
+- pkg:nuget/NedMonitor.Dapper@1.2.4-dev
+- pkg:nuget/NedMonitor.Dapper@1.2.5-dev

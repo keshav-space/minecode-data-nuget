@@ -1,0 +1,3 @@
+- pkg:nuget/CQRS.Light.Repository.DocumentDB@1.1.0.4
+- pkg:nuget/CQRS.Light.Repository.DocumentDB@1.1.0.5
+- pkg:nuget/CQRS.Light.Repository.DocumentDB@1.1.0.9

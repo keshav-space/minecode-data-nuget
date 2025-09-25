@@ -1,0 +1,8 @@
+- pkg:nuget/Fabric-Container@0.0.0.1-alpha
+- pkg:nuget/Fabric-Container@0.0.1
+- pkg:nuget/Fabric-Container@1.0.0
+- pkg:nuget/Fabric-Container@1.0.1
+- pkg:nuget/Fabric-Container@1.0.1.1
+- pkg:nuget/Fabric-Container@1.0.1.2
+- pkg:nuget/Fabric-Container@1.0.1.3
+- pkg:nuget/Fabric-Container@1.0.1.5

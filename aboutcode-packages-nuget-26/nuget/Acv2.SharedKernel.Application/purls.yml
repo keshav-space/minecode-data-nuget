@@ -1,0 +1,5 @@
+- pkg:nuget/Acv2.SharedKernel.Application@1.5.0
+- pkg:nuget/Acv2.SharedKernel.Application@2.0.0
+- pkg:nuget/Acv2.SharedKernel.Application@2.0.1
+- pkg:nuget/Acv2.SharedKernel.Application@2.0.2
+- pkg:nuget/Acv2.SharedKernel.Application@2.1.2

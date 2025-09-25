@@ -1,0 +1,4 @@
+- pkg:nuget/Ixq.Redis@1.0.0
+- pkg:nuget/Ixq.Redis@1.0.1
+- pkg:nuget/Ixq.Redis@1.1.0
+- pkg:nuget/Ixq.Redis@2.0.0

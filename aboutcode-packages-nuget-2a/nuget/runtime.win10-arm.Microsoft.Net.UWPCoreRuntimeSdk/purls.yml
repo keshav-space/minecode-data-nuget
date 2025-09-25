@@ -1,0 +1,14 @@
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.1.1
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.1.2
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.0-preview1-26831-02
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.0-preview1-26926-04
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.10
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.11
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.12
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.13
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.13-preview-30606-01
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.14
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.2
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.3
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.8
+- pkg:nuget/runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk@2.2.9

@@ -1,0 +1,7 @@
+- pkg:nuget/DataJam.EntityFramework@5.0.0
+- pkg:nuget/DataJam.EntityFramework@5.0.1
+- pkg:nuget/DataJam.EntityFramework@6.0.0
+- pkg:nuget/DataJam.EntityFramework@7.0.0
+- pkg:nuget/DataJam.EntityFramework@7.0.1
+- pkg:nuget/DataJam.EntityFramework@7.0.2
+- pkg:nuget/DataJam.EntityFramework@7.0.3

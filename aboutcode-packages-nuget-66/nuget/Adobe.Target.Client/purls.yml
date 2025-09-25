@@ -1,0 +1,10 @@
+- pkg:nuget/Adobe.Target.Client@1.0.0%2Bbuild.60
+- pkg:nuget/Adobe.Target.Client@1.0.1%2Bbuild.65
+- pkg:nuget/Adobe.Target.Client@1.1.1%2Bbuild.82
+- pkg:nuget/Adobe.Target.Client@1.1.2%2Bbuild.95
+- pkg:nuget/Adobe.Target.Client@1.1.3%2Bbuild.107
+- pkg:nuget/Adobe.Target.Client@1.1.4%2Bbuild.115
+- pkg:nuget/Adobe.Target.Client@1.1.5%2Bbuild.124
+- pkg:nuget/Adobe.Target.Client@1.1.6%2Bbuild.138
+- pkg:nuget/Adobe.Target.Client@1.1.7%2Bbuild.142
+- pkg:nuget/Adobe.Target.Client@1.1.8%2Bbuild.146

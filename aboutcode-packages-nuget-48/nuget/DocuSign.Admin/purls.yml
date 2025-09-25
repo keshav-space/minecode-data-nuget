@@ -1,0 +1,15 @@
+- pkg:nuget/DocuSign.Admin@1.0.0
+- pkg:nuget/DocuSign.Admin@1.0.0-alpha
+- pkg:nuget/DocuSign.Admin@1.1.0
+- pkg:nuget/DocuSign.Admin@1.2.0
+- pkg:nuget/DocuSign.Admin@1.3.0
+- pkg:nuget/DocuSign.Admin@1.4.0
+- pkg:nuget/DocuSign.Admin@1.4.1
+- pkg:nuget/DocuSign.Admin@2.0.0
+- pkg:nuget/DocuSign.Admin@2.0.0-rc1
+- pkg:nuget/DocuSign.Admin@2.0.0-rc2
+- pkg:nuget/DocuSign.Admin@2.0.0-rc3
+- pkg:nuget/DocuSign.Admin@2.0.0-rc4
+- pkg:nuget/DocuSign.Admin@2.0.0-rc5
+- pkg:nuget/DocuSign.Admin@2.0.1
+- pkg:nuget/DocuSign.Admin@2.0.2

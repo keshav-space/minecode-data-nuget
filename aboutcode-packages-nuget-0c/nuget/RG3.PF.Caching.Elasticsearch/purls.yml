@@ -1,0 +1,12 @@
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@6.0.0
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@6.0.1
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@6.0.26
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@6.0.55
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@6.0.77
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@6.0.9
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@7.1.23
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@7.2.10
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@7.2.4
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@7.2.5
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@8.0.1
+- pkg:nuget/RG3.PF.Caching.Elasticsearch@9.0.1
