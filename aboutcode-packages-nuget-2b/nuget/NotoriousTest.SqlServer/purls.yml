@@ -1,0 +1,14 @@
+- pkg:nuget/NotoriousTest.SqlServer@2.3.0
+- pkg:nuget/NotoriousTest.SqlServer@2.3.0-beta.14
+- pkg:nuget/NotoriousTest.SqlServer@2.3.0-beta.16
+- pkg:nuget/NotoriousTest.SqlServer@2.3.0-beta.18
+- pkg:nuget/NotoriousTest.SqlServer@2.3.1
+- pkg:nuget/NotoriousTest.SqlServer@2.3.1-beta.20
+- pkg:nuget/NotoriousTest.SqlServer@2.3.1-beta.23
+- pkg:nuget/NotoriousTest.SqlServer@2.3.1-beta.25
+- pkg:nuget/NotoriousTest.SqlServer@3.0.0
+- pkg:nuget/NotoriousTest.SqlServer@3.0.0-beta.28
+- pkg:nuget/NotoriousTest.SqlServer@3.0.0-beta.35
+- pkg:nuget/NotoriousTest.SqlServer@3.0.0-beta.39
+- pkg:nuget/NotoriousTest.SqlServer@3.1.0
+- pkg:nuget/NotoriousTest.SqlServer@3.1.0-beta.41

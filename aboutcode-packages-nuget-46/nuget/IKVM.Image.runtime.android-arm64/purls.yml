@@ -1,0 +1,4 @@
+- pkg:nuget/IKVM.Image.runtime.android-arm64@8.11.0
+- pkg:nuget/IKVM.Image.runtime.android-arm64@8.11.0-pre.2
+- pkg:nuget/IKVM.Image.runtime.android-arm64@8.11.0-pre.4
+- pkg:nuget/IKVM.Image.runtime.android-arm64@8.11.1

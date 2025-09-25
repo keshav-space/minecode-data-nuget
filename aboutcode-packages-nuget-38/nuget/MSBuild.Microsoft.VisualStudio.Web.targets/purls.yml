@@ -1,0 +1,8 @@
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Web.targets@11.0.2
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Web.targets@11.0.2.1
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Web.targets@12.0.1
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Web.targets@12.0.4
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Web.targets@14.0.0
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Web.targets@14.0.0.1
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Web.targets@14.0.0.2
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Web.targets@14.0.0.3

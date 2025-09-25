@@ -1,0 +1,13 @@
+- pkg:nuget/SimpleRabbit.NetCore.Publish@1.0.1-alpha
+- pkg:nuget/SimpleRabbit.NetCore.Publish@1.0.196
+- pkg:nuget/SimpleRabbit.NetCore.Publish@1.0.208
+- pkg:nuget/SimpleRabbit.NetCore.Publish@3.1.222
+- pkg:nuget/SimpleRabbit.NetCore.Publish@3.2.1
+- pkg:nuget/SimpleRabbit.NetCore.Publish@3.2.2
+- pkg:nuget/SimpleRabbit.NetCore.Publish@3.3.1
+- pkg:nuget/SimpleRabbit.NetCore.Publish@3.3.2
+- pkg:nuget/SimpleRabbit.NetCore.Publish@6.0.0
+- pkg:nuget/SimpleRabbit.NetCore.Publish@6.0.1
+- pkg:nuget/SimpleRabbit.NetCore.Publish@6.0.2
+- pkg:nuget/SimpleRabbit.NetCore.Publish@6.0.3
+- pkg:nuget/SimpleRabbit.NetCore.Publish@6.0.4

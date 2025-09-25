@@ -1,0 +1,17 @@
+- pkg:nuget/Cake.DoInDirectory@0.0.1
+- pkg:nuget/Cake.DoInDirectory@0.0.1-build6
+- pkg:nuget/Cake.DoInDirectory@0.0.1-build9
+- pkg:nuget/Cake.DoInDirectory@0.1.0
+- pkg:nuget/Cake.DoInDirectory@0.1.1
+- pkg:nuget/Cake.DoInDirectory@1.0.1
+- pkg:nuget/Cake.DoInDirectory@1.0.2
+- pkg:nuget/Cake.DoInDirectory@2.0.0
+- pkg:nuget/Cake.DoInDirectory@3.0.0
+- pkg:nuget/Cake.DoInDirectory@3.1.0
+- pkg:nuget/Cake.DoInDirectory@3.2.0
+- pkg:nuget/Cake.DoInDirectory@3.3.0
+- pkg:nuget/Cake.DoInDirectory@4.0.0
+- pkg:nuget/Cake.DoInDirectory@4.0.1
+- pkg:nuget/Cake.DoInDirectory@4.0.2
+- pkg:nuget/Cake.DoInDirectory@5.0.0
+- pkg:nuget/Cake.DoInDirectory@6.0.0

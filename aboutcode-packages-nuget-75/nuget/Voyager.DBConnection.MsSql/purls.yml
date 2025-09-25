@@ -1,0 +1,10 @@
+- pkg:nuget/Voyager.DBConnection.MsSql@3.0.0
+- pkg:nuget/Voyager.DBConnection.MsSql@4.0.1
+- pkg:nuget/Voyager.DBConnection.MsSql@4.0.3
+- pkg:nuget/Voyager.DBConnection.MsSql@4.1.0
+- pkg:nuget/Voyager.DBConnection.MsSql@4.1.1
+- pkg:nuget/Voyager.DBConnection.MsSql@4.1.2
+- pkg:nuget/Voyager.DBConnection.MsSql@4.1.3
+- pkg:nuget/Voyager.DBConnection.MsSql@4.1.5
+- pkg:nuget/Voyager.DBConnection.MsSql@4.2.1
+- pkg:nuget/Voyager.DBConnection.MsSql@4.3.1

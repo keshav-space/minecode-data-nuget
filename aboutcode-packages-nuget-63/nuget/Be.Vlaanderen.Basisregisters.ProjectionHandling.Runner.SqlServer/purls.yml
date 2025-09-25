@@ -1,0 +1,10 @@
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@12.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@12.0.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@12.1.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@12.1.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@12.1.2
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@12.1.3
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@13.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@14.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@15.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.ProjectionHandling.Runner.SqlServer@15.0.1

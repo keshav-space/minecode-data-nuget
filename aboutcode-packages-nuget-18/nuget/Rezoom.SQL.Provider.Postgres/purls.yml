@@ -1,0 +1,2 @@
+- pkg:nuget/Rezoom.SQL.Provider.Postgres@0.6.1
+- pkg:nuget/Rezoom.SQL.Provider.Postgres@0.7.0

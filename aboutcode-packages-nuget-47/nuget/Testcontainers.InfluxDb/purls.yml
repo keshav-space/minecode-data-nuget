@@ -1,0 +1,17 @@
+- pkg:nuget/Testcontainers.InfluxDb@3.10.0
+- pkg:nuget/Testcontainers.InfluxDb@3.5.0
+- pkg:nuget/Testcontainers.InfluxDb@3.6.0
+- pkg:nuget/Testcontainers.InfluxDb@3.7.0
+- pkg:nuget/Testcontainers.InfluxDb@3.8.0
+- pkg:nuget/Testcontainers.InfluxDb@3.8.0-beta.8238206979
+- pkg:nuget/Testcontainers.InfluxDb@3.9.0
+- pkg:nuget/Testcontainers.InfluxDb@4.0.0
+- pkg:nuget/Testcontainers.InfluxDb@4.1.0
+- pkg:nuget/Testcontainers.InfluxDb@4.1.0-beta.11746011829
+- pkg:nuget/Testcontainers.InfluxDb@4.1.0-beta.12035377103
+- pkg:nuget/Testcontainers.InfluxDb@4.2.0
+- pkg:nuget/Testcontainers.InfluxDb@4.3.0
+- pkg:nuget/Testcontainers.InfluxDb@4.4.0
+- pkg:nuget/Testcontainers.InfluxDb@4.5.0
+- pkg:nuget/Testcontainers.InfluxDb@4.6.0
+- pkg:nuget/Testcontainers.InfluxDb@4.7.0

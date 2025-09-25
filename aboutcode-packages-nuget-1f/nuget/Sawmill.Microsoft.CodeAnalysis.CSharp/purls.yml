@@ -1,0 +1,15 @@
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@1.2.0
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@1.2.1
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@1.2.6
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@1.3.0
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@1.3.1
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@2.0.0
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@2.1.0
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@2.2.0
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@2.2.1
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@3.1.0
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@3.2.0
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@3.2.1
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@3.2.2-build.786278716
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@3.3.0
+- pkg:nuget/Sawmill.Microsoft.CodeAnalysis.CSharp@3.4.0

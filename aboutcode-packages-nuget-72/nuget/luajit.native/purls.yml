@@ -1,0 +1,6 @@
+- pkg:nuget/luajit.native@2.0.5
+- pkg:nuget/luajit.native@2.1.0-beta3a
+- pkg:nuget/luajit.native@2.1.0-beta3b
+- pkg:nuget/luajit.native@2.1.0-beta3c
+- pkg:nuget/luajit.native@2.1.0-beta3d
+- pkg:nuget/luajit.native@2.1.1739213504

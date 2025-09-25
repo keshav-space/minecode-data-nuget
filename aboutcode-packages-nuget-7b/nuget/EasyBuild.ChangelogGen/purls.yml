@@ -1,0 +1,11 @@
+- pkg:nuget/EasyBuild.ChangelogGen@0.0.0
+- pkg:nuget/EasyBuild.ChangelogGen@1.0.0
+- pkg:nuget/EasyBuild.ChangelogGen@1.1.0
+- pkg:nuget/EasyBuild.ChangelogGen@1.1.1
+- pkg:nuget/EasyBuild.ChangelogGen@1.1.2
+- pkg:nuget/EasyBuild.ChangelogGen@2.0.0
+- pkg:nuget/EasyBuild.ChangelogGen@3.0.0
+- pkg:nuget/EasyBuild.ChangelogGen@4.0.0
+- pkg:nuget/EasyBuild.ChangelogGen@4.1.0
+- pkg:nuget/EasyBuild.ChangelogGen@5.0.0
+- pkg:nuget/EasyBuild.ChangelogGen@5.0.1

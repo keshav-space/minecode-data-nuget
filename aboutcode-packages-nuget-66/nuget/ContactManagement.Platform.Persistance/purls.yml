@@ -1,0 +1,4 @@
+- pkg:nuget/ContactManagement.Platform.Persistance@1.0.0
+- pkg:nuget/ContactManagement.Platform.Persistance@2.0.0
+- pkg:nuget/ContactManagement.Platform.Persistance@3.0.0
+- pkg:nuget/ContactManagement.Platform.Persistance@4.0.0

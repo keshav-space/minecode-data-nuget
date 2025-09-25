@@ -1,0 +1,3 @@
+- pkg:nuget/Pulumi.Str@0.0.6
+- pkg:nuget/Pulumi.Str@0.0.7
+- pkg:nuget/Pulumi.Str@1.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Streamiz.Kafka.Net.SchemaRegistry.Mock@1.1.4
+- pkg:nuget/Streamiz.Kafka.Net.SchemaRegistry.Mock@1.1.5
+- pkg:nuget/Streamiz.Kafka.Net.SchemaRegistry.Mock@1.2.0-RC1

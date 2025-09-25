@@ -1,0 +1,17 @@
+- pkg:nuget/Smart.StackRedis@1.0.0
+- pkg:nuget/Smart.StackRedis@1.0.0.1
+- pkg:nuget/Smart.StackRedis@1.1.0
+- pkg:nuget/Smart.StackRedis@1.1.0.1
+- pkg:nuget/Smart.StackRedis@1.2.0
+- pkg:nuget/Smart.StackRedis@2.0.0
+- pkg:nuget/Smart.StackRedis@2.0.1
+- pkg:nuget/Smart.StackRedis@2.0.2
+- pkg:nuget/Smart.StackRedis@2.1.0
+- pkg:nuget/Smart.StackRedis@2.1.1
+- pkg:nuget/Smart.StackRedis@2.1.2
+- pkg:nuget/Smart.StackRedis@3.0.0
+- pkg:nuget/Smart.StackRedis@3.0.1
+- pkg:nuget/Smart.StackRedis@3.1.0
+- pkg:nuget/Smart.StackRedis@3.1.1
+- pkg:nuget/Smart.StackRedis@3.2.0
+- pkg:nuget/Smart.StackRedis@4.0.0

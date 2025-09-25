@@ -1,0 +1,12 @@
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@1.3.1
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@1.3.2
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@1.3.3
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@1.3.4
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@1.4.0
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@1.5.0
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@1.6.0
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@1.7.0
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@2.0.0
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@2.1.0
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@5.0.0
+- pkg:nuget/Catglobe.Openiddict.Contrib.Server@6.0.0

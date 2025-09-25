@@ -1,0 +1,5 @@
+- pkg:nuget/Cake.Electron.Net@0.0.11
+- pkg:nuget/Cake.Electron.Net@0.0.9
+- pkg:nuget/Cake.Electron.Net@1.0.0
+- pkg:nuget/Cake.Electron.Net@1.1.0
+- pkg:nuget/Cake.Electron.Net@1.1.0.7

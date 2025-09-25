@@ -1,0 +1,15 @@
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.0.0
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.0.0-preview1-0001
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.0.1
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.1.0
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.1.0-preview57-
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.1.1
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.2.0
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.2.1
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@8.3.0
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@9.0.0
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@9.0.0-preview106-
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@9.1.0
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@9.1.1
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@9.1.1-preview21-
+- pkg:nuget/Aguacongas.TheIdServer.Identity.ScryptPasswordHasher@9.1.2

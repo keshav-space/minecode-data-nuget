@@ -1,0 +1,4 @@
+- pkg:nuget/Couchbase@1.0.0
+- pkg:nuget/Couchbase@3.4.14-rc1
+- pkg:nuget/Couchbase@3.4.14-rc2
+- pkg:nuget/Couchbase@3.4.14-rc3

@@ -1,0 +1,10 @@
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.4.20231215.1-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.4.20231218.1-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.4.20231218.2-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.4.20231218.3-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.4.20240110.1-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.4.20240110.2-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.4.20240110.3-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.5.2024011104-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@0.5.2024011501-beta
+- pkg:nuget/SmartIOT.Connector.DependencyInjection@1.0.0

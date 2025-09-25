@@ -1,0 +1,4 @@
+- pkg:nuget/JustBytes.CommandLine@0.0.11
+- pkg:nuget/JustBytes.CommandLine@1.1.7-alpha
+- pkg:nuget/JustBytes.CommandLine@1.2.1-alpha
+- pkg:nuget/JustBytes.CommandLine@1.3.5-alpha

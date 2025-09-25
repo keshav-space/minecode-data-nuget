@@ -1,0 +1,4 @@
+- pkg:nuget/Onactuate.Common.Core@1.0.0
+- pkg:nuget/Onactuate.Common.Core@1.0.1
+- pkg:nuget/Onactuate.Common.Core@2.0.0-CI-20190703-211806
+- pkg:nuget/Onactuate.Common.Core@2.0.0-CI-20190703-214620

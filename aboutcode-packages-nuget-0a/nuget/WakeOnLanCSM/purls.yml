@@ -1,0 +1,6 @@
+- pkg:nuget/WakeOnLanCSM@2.2.0
+- pkg:nuget/WakeOnLanCSM@2.2.0-RC1
+- pkg:nuget/WakeOnLanCSM@2.2.0-RC2
+- pkg:nuget/WakeOnLanCSM@2.2.0-beta
+- pkg:nuget/WakeOnLanCSM@3.0.0
+- pkg:nuget/WakeOnLanCSM@3.0.0-test
