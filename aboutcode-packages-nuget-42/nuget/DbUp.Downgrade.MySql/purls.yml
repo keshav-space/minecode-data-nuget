@@ -1,0 +1,2 @@
+- pkg:nuget/DbUp.Downgrade.MySql@2.4.0
+- pkg:nuget/DbUp.Downgrade.MySql@2.5.0

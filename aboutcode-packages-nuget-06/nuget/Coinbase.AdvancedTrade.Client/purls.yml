@@ -1,0 +1,3 @@
+- pkg:nuget/Coinbase.AdvancedTrade.Client@0.0.0
+- pkg:nuget/Coinbase.AdvancedTrade.Client@0.1.0-alpha
+- pkg:nuget/Coinbase.AdvancedTrade.Client@1.0.0

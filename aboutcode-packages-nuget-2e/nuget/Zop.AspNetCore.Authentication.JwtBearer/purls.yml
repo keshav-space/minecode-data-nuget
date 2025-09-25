@@ -1,0 +1,2 @@
+- pkg:nuget/Zop.AspNetCore.Authentication.JwtBearer@1.0.0
+- pkg:nuget/Zop.AspNetCore.Authentication.JwtBearer@1.0.1

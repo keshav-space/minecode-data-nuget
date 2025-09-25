@@ -1,0 +1,4 @@
+- pkg:nuget/ibm-mq-client@1.0.0
+- pkg:nuget/ibm-mq-client@9.1.2
+- pkg:nuget/ibm-mq-client@9.1.5
+- pkg:nuget/ibm-mq-client@9.2.0
