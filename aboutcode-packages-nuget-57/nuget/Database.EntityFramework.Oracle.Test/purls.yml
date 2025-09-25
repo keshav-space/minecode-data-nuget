@@ -1,0 +1,4 @@
+- pkg:nuget/Database.EntityFramework.Oracle.Test@1.0.0
+- pkg:nuget/Database.EntityFramework.Oracle.Test@1.0.0-alpha
+- pkg:nuget/Database.EntityFramework.Oracle.Test@1.0.0-beta
+- pkg:nuget/Database.EntityFramework.Oracle.Test@1.0.0-preview

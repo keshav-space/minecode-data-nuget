@@ -1,0 +1,3 @@
+- pkg:nuget/TrinoClient@0.1.0
+- pkg:nuget/TrinoClient@0.1.1
+- pkg:nuget/TrinoClient@1.0.0

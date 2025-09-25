@@ -1,0 +1,2 @@
+- pkg:nuget/Astronaut.Broker.AzureEventGrid@3.0.0
+- pkg:nuget/Astronaut.Broker.AzureEventGrid@3.1.0

@@ -1,0 +1,2 @@
+- pkg:nuget/OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore@0.6.0-beta
+- pkg:nuget/OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore@1.0.0-beta2

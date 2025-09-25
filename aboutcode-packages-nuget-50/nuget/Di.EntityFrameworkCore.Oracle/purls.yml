@@ -1,0 +1,5 @@
+- pkg:nuget/Di.EntityFrameworkCore.Oracle@1.0.0
+- pkg:nuget/Di.EntityFrameworkCore.Oracle@1.0.1
+- pkg:nuget/Di.EntityFrameworkCore.Oracle@1.0.1-bate
+- pkg:nuget/Di.EntityFrameworkCore.Oracle@1.0.1-bate1
+- pkg:nuget/Di.EntityFrameworkCore.Oracle@1.0.2-bate

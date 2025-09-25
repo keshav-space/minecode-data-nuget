@@ -1,0 +1,10 @@
+- pkg:nuget/SimpleDependencyInjector@0.1.0-beta
+- pkg:nuget/SimpleDependencyInjector@0.4.0
+- pkg:nuget/SimpleDependencyInjector@1.0.0-beta
+- pkg:nuget/SimpleDependencyInjector@1.0.0-beta2
+- pkg:nuget/SimpleDependencyInjector@1.0.0-rc
+- pkg:nuget/SimpleDependencyInjector@1.0.0-rc2
+- pkg:nuget/SimpleDependencyInjector@1.0.0-rc6
+- pkg:nuget/SimpleDependencyInjector@1.0.0-rc7
+- pkg:nuget/SimpleDependencyInjector@1.0.0-rc8
+- pkg:nuget/SimpleDependencyInjector@1.0.0-rc9

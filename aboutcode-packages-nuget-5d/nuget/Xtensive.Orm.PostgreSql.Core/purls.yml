@@ -1,0 +1,4 @@
+- pkg:nuget/Xtensive.Orm.PostgreSql.Core@0.1.0-Beta-2
+- pkg:nuget/Xtensive.Orm.PostgreSql.Core@0.1.0-Beta-3
+- pkg:nuget/Xtensive.Orm.PostgreSql.Core@0.1.0-Beta-4
+- pkg:nuget/Xtensive.Orm.PostgreSql.Core@0.1.0-rc

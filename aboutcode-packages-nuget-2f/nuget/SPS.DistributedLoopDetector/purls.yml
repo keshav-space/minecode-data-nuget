@@ -1,0 +1,5 @@
+- pkg:nuget/SPS.DistributedLoopDetector@1.0.0
+- pkg:nuget/SPS.DistributedLoopDetector@1.0.0-beta
+- pkg:nuget/SPS.DistributedLoopDetector@1.0.1
+- pkg:nuget/SPS.DistributedLoopDetector@1.7.0
+- pkg:nuget/SPS.DistributedLoopDetector@1.8.0

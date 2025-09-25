@@ -1,0 +1,7 @@
+- pkg:nuget/Dequeueable.AzureQueueStorage@1.0.0
+- pkg:nuget/Dequeueable.AzureQueueStorage@1.1.0
+- pkg:nuget/Dequeueable.AzureQueueStorage@1.1.1
+- pkg:nuget/Dequeueable.AzureQueueStorage@1.1.2
+- pkg:nuget/Dequeueable.AzureQueueStorage@1.1.3
+- pkg:nuget/Dequeueable.AzureQueueStorage@2.0.0
+- pkg:nuget/Dequeueable.AzureQueueStorage@3.0.0

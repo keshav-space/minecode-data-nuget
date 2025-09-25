@@ -1,0 +1,5 @@
+- pkg:nuget/DevTeam.TestFramework@1.0.0
+- pkg:nuget/DevTeam.TestFramework@1.0.24-beta
+- pkg:nuget/DevTeam.TestFramework@1.0.6-beta
+- pkg:nuget/DevTeam.TestFramework@1.0.7-beta
+- pkg:nuget/DevTeam.TestFramework@1.0.9-beta

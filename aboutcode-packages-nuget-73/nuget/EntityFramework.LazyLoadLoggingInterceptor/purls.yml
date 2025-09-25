@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFramework.LazyLoadLoggingInterceptor@1.1.0
+- pkg:nuget/EntityFramework.LazyLoadLoggingInterceptor@1.2.0

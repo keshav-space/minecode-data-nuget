@@ -1,0 +1,2 @@
+- pkg:nuget/Simple.ServiceBus.Autofac@0.1.0-alpha
+- pkg:nuget/Simple.ServiceBus.Autofac@0.1.6

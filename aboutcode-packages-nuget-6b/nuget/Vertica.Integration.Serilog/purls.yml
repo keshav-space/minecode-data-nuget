@@ -1,0 +1,8 @@
+- pkg:nuget/Vertica.Integration.Serilog@0.1.0-alpha1
+- pkg:nuget/Vertica.Integration.Serilog@0.1.0-alpha2
+- pkg:nuget/Vertica.Integration.Serilog@0.1.0-alpha3
+- pkg:nuget/Vertica.Integration.Serilog@1.0.0
+- pkg:nuget/Vertica.Integration.Serilog@1.0.1
+- pkg:nuget/Vertica.Integration.Serilog@1.0.2
+- pkg:nuget/Vertica.Integration.Serilog@2.0.0-alpha03
+- pkg:nuget/Vertica.Integration.Serilog@2.0.1-alpha1

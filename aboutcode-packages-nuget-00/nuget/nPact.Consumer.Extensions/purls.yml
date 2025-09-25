@@ -1,0 +1,5 @@
+- pkg:nuget/nPact.Consumer.Extensions@0.1.0
+- pkg:nuget/nPact.Consumer.Extensions@0.1.0-beta
+- pkg:nuget/nPact.Consumer.Extensions@1.0.0
+- pkg:nuget/nPact.Consumer.Extensions@1.0.1
+- pkg:nuget/nPact.Consumer.Extensions@1.0.1-rc

@@ -1,0 +1,8 @@
+- pkg:nuget/nPact.Consumer@0.1.0
+- pkg:nuget/nPact.Consumer@0.1.0-beta
+- pkg:nuget/nPact.Consumer@0.1.0.1-beta
+- pkg:nuget/nPact.Consumer@1.0.0
+- pkg:nuget/nPact.Consumer@1.0.0-rc
+- pkg:nuget/nPact.Consumer@1.0.1
+- pkg:nuget/nPact.Consumer@1.0.1-rc
+- pkg:nuget/nPact.Consumer@1.0.2

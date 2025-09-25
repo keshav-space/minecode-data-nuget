@@ -1,0 +1,4 @@
+- pkg:nuget/Chorus.Restier.Publishers.OData@1.0.1-beta
+- pkg:nuget/Chorus.Restier.Publishers.OData@1.0.2-beta
+- pkg:nuget/Chorus.Restier.Publishers.OData@1.0.5
+- pkg:nuget/Chorus.Restier.Publishers.OData@1.0.6

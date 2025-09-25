@@ -1,0 +1,3 @@
+- pkg:nuget/IXRay.Packages.LuaJIT.Runtimes.linux-x64@2020.5.30-open
+- pkg:nuget/IXRay.Packages.LuaJIT.Runtimes.linux-x64@2023.8.23.1-open
+- pkg:nuget/IXRay.Packages.LuaJIT.Runtimes.linux-x64@2025.2.5

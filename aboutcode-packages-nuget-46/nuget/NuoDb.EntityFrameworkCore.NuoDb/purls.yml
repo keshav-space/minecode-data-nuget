@@ -1,0 +1,3 @@
+- pkg:nuget/NuoDb.EntityFrameworkCore.NuoDb@4.0.0
+- pkg:nuget/NuoDb.EntityFrameworkCore.NuoDb@4.0.1
+- pkg:nuget/NuoDb.EntityFrameworkCore.NuoDb@5.0.0

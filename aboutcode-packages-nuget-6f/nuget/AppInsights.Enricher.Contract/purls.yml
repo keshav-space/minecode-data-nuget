@@ -1,0 +1,4 @@
+- pkg:nuget/AppInsights.Enricher.Contract@0.0.1
+- pkg:nuget/AppInsights.Enricher.Contract@0.0.2
+- pkg:nuget/AppInsights.Enricher.Contract@0.0.3
+- pkg:nuget/AppInsights.Enricher.Contract@0.1.0

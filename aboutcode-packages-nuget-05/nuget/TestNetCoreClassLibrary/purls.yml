@@ -1,0 +1,4 @@
+- pkg:nuget/TestNetCoreClassLibrary@1.0.0
+- pkg:nuget/TestNetCoreClassLibrary@2.0.0
+- pkg:nuget/TestNetCoreClassLibrary@2.1.1
+- pkg:nuget/TestNetCoreClassLibrary@3.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/AgateLib.ContentAssembler@1.0.14-e-build
+- pkg:nuget/AgateLib.ContentAssembler@1.0.15-e-build
+- pkg:nuget/AgateLib.ContentAssembler@1.0.2-devel
+- pkg:nuget/AgateLib.ContentAssembler@1.0.3-devel
+- pkg:nuget/AgateLib.ContentAssembler@1.0.3-e-artifacts
+- pkg:nuget/AgateLib.ContentAssembler@1.0.4-devel
+- pkg:nuget/AgateLib.ContentAssembler@1.0.4-e-artifacts
+- pkg:nuget/AgateLib.ContentAssembler@1.1.10-devel
+- pkg:nuget/AgateLib.ContentAssembler@1.1.5
+- pkg:nuget/AgateLib.ContentAssembler@1.1.6-devel
+- pkg:nuget/AgateLib.ContentAssembler@1.1.8-devel
+- pkg:nuget/AgateLib.ContentAssembler@1.1.9-devel

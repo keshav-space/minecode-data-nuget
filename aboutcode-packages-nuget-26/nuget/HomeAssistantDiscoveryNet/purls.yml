@@ -1,0 +1,4 @@
+- pkg:nuget/HomeAssistantDiscoveryNet@3.0.2
+- pkg:nuget/HomeAssistantDiscoveryNet@4.0.1
+- pkg:nuget/HomeAssistantDiscoveryNet@5.0.0
+- pkg:nuget/HomeAssistantDiscoveryNet@5.1.0

@@ -1,0 +1,2 @@
+- pkg:nuget/MDP.AspNetCore.DataProtection.MSSql@8.0.7.63
+- pkg:nuget/MDP.AspNetCore.DataProtection.MSSql@8.0.7.65

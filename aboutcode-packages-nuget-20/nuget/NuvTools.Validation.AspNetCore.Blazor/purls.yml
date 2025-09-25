@@ -1,0 +1,4 @@
+- pkg:nuget/NuvTools.Validation.AspNetCore.Blazor@9.1.0
+- pkg:nuget/NuvTools.Validation.AspNetCore.Blazor@9.1.2
+- pkg:nuget/NuvTools.Validation.AspNetCore.Blazor@9.2.0
+- pkg:nuget/NuvTools.Validation.AspNetCore.Blazor@9.2.1

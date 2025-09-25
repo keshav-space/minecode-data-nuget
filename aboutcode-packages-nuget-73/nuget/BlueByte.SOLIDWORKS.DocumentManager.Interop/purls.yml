@@ -1,0 +1,6 @@
+- pkg:nuget/BlueByte.SOLIDWORKS.DocumentManager.Interop@2017.0.0
+- pkg:nuget/BlueByte.SOLIDWORKS.DocumentManager.Interop@2019.0.0
+- pkg:nuget/BlueByte.SOLIDWORKS.DocumentManager.Interop@2020.2.0
+- pkg:nuget/BlueByte.SOLIDWORKS.DocumentManager.Interop@2021.1.0
+- pkg:nuget/BlueByte.SOLIDWORKS.DocumentManager.Interop@2022.4.0
+- pkg:nuget/BlueByte.SOLIDWORKS.DocumentManager.Interop@2023.0.1

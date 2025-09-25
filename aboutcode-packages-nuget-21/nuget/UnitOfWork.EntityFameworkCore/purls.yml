@@ -1,0 +1,6 @@
+- pkg:nuget/UnitOfWork.EntityFameworkCore@0.0.0
+- pkg:nuget/UnitOfWork.EntityFameworkCore@2021.5.19.91037-CI
+- pkg:nuget/UnitOfWork.EntityFameworkCore@2021.5.19.91205-CI
+- pkg:nuget/UnitOfWork.EntityFameworkCore@2021.5.19.92218-CI
+- pkg:nuget/UnitOfWork.EntityFameworkCore@2021.5.19.93136-CI
+- pkg:nuget/UnitOfWork.EntityFameworkCore@2021.5.19.94814-CI

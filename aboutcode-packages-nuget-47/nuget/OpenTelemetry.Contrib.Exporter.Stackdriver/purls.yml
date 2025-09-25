@@ -1,0 +1,2 @@
+- pkg:nuget/OpenTelemetry.Contrib.Exporter.Stackdriver@0.6.0-beta
+- pkg:nuget/OpenTelemetry.Contrib.Exporter.Stackdriver@1.0.0-beta1

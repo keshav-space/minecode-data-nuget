@@ -1,0 +1,4 @@
+- pkg:nuget/Dapr.Jobs.Analyzers@1.16.0-rc18
+- pkg:nuget/Dapr.Jobs.Analyzers@1.16.0-rc19
+- pkg:nuget/Dapr.Jobs.Analyzers@1.16.0-rc20
+- pkg:nuget/Dapr.Jobs.Analyzers@1.16.0-rc21

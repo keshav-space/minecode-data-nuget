@@ -1,0 +1,5 @@
+- pkg:nuget/Mariowski.Common.AspNet@1.0.0
+- pkg:nuget/Mariowski.Common.AspNet@3.0.0
+- pkg:nuget/Mariowski.Common.AspNet@3.1.0
+- pkg:nuget/Mariowski.Common.AspNet@3.2.0
+- pkg:nuget/Mariowski.Common.AspNet@5.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/NLog.Targets.SNS@0.1.0-spike001
+- pkg:nuget/NLog.Targets.SNS@0.2.0
+- pkg:nuget/NLog.Targets.SNS@0.3.0
+- pkg:nuget/NLog.Targets.SNS@1.0.0
+- pkg:nuget/NLog.Targets.SNS@2.0.0

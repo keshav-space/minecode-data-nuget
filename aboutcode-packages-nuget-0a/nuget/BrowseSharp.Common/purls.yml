@@ -1,0 +1,4 @@
+- pkg:nuget/BrowseSharp.Common@0.1.1
+- pkg:nuget/BrowseSharp.Common@0.1.1-alpha
+- pkg:nuget/BrowseSharp.Common@0.1.1-beta
+- pkg:nuget/BrowseSharp.Common@0.1.2-alpha

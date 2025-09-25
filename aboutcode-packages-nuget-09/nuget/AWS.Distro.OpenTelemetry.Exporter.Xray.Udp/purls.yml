@@ -1,0 +1,2 @@
+- pkg:nuget/AWS.Distro.OpenTelemetry.Exporter.Xray.Udp@0.1.0
+- pkg:nuget/AWS.Distro.OpenTelemetry.Exporter.Xray.Udp@1.0.0

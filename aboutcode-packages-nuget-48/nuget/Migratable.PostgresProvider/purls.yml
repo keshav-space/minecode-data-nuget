@@ -1,0 +1,2 @@
+- pkg:nuget/Migratable.PostgresProvider@1.0.1
+- pkg:nuget/Migratable.PostgresProvider@2.2.0

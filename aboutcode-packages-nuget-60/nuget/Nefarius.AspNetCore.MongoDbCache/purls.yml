@@ -1,0 +1,4 @@
+- pkg:nuget/Nefarius.AspNetCore.MongoDbCache@2.6.0
+- pkg:nuget/Nefarius.AspNetCore.MongoDbCache@2.6.0-pre001
+- pkg:nuget/Nefarius.AspNetCore.MongoDbCache@2.6.0-pre002
+- pkg:nuget/Nefarius.AspNetCore.MongoDbCache@2.6.2

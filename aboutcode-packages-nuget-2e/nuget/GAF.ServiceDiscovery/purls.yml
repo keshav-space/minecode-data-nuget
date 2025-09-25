@@ -1,0 +1,3 @@
+- pkg:nuget/GAF.ServiceDiscovery@2.2.5
+- pkg:nuget/GAF.ServiceDiscovery@2.3.0
+- pkg:nuget/GAF.ServiceDiscovery@2.3.1
