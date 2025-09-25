@@ -1,0 +1,6 @@
+- pkg:nuget/Walthamstow.MassTransit.AzurePlatform.FunctionApp@1.0.0
+- pkg:nuget/Walthamstow.MassTransit.AzurePlatform.FunctionApp@1.0.1
+- pkg:nuget/Walthamstow.MassTransit.AzurePlatform.FunctionApp@3.1.11
+- pkg:nuget/Walthamstow.MassTransit.AzurePlatform.FunctionApp@7.1.6.2
+- pkg:nuget/Walthamstow.MassTransit.AzurePlatform.FunctionApp@7.1.6.3
+- pkg:nuget/Walthamstow.MassTransit.AzurePlatform.FunctionApp@7.1.7.2

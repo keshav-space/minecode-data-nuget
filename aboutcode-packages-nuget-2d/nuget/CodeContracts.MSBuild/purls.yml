@@ -1,0 +1,14 @@
+- pkg:nuget/CodeContracts.MSBuild@1.10.0
+- pkg:nuget/CodeContracts.MSBuild@1.10.1
+- pkg:nuget/CodeContracts.MSBuild@1.11.0
+- pkg:nuget/CodeContracts.MSBuild@1.11.0-alpha
+- pkg:nuget/CodeContracts.MSBuild@1.12.0
+- pkg:nuget/CodeContracts.MSBuild@1.12.0-rc
+- pkg:nuget/CodeContracts.MSBuild@1.13.0-rc
+- pkg:nuget/CodeContracts.MSBuild@1.6.60617.1501-alpha
+- pkg:nuget/CodeContracts.MSBuild@1.6.60617.1502-alpha
+- pkg:nuget/CodeContracts.MSBuild@1.7.10908.1101-beta
+- pkg:nuget/CodeContracts.MSBuild@1.7.11106.1001-beta
+- pkg:nuget/CodeContracts.MSBuild@1.7.11202.1001
+- pkg:nuget/CodeContracts.MSBuild@1.9.10714.2
+- pkg:nuget/CodeContracts.MSBuild@1.9.10714.3

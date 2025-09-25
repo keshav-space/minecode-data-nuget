@@ -1,0 +1,4 @@
+- pkg:nuget/Twilio.Voice.Android.XamarinBinding@2.0.9
+- pkg:nuget/Twilio.Voice.Android.XamarinBinding@4.0.0
+- pkg:nuget/Twilio.Voice.Android.XamarinBinding@5.4.0
+- pkg:nuget/Twilio.Voice.Android.XamarinBinding@6.0.2

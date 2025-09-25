@@ -1,0 +1,6 @@
+- pkg:nuget/FluentHelper.EntityFrameworkCore.Moq@1.3.0
+- pkg:nuget/FluentHelper.EntityFrameworkCore.Moq@1.5.0
+- pkg:nuget/FluentHelper.EntityFrameworkCore.Moq@1.6.0
+- pkg:nuget/FluentHelper.EntityFrameworkCore.Moq@1.6.1
+- pkg:nuget/FluentHelper.EntityFrameworkCore.Moq@1.7.0
+- pkg:nuget/FluentHelper.EntityFrameworkCore.Moq@1.7.2

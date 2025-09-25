@@ -1,0 +1,4 @@
+- pkg:nuget/braes.Framework.Http@1.0.0%2B33
+- pkg:nuget/braes.Framework.Http@2.0.0%2B36
+- pkg:nuget/braes.Framework.Http@2.1.0%2B40
+- pkg:nuget/braes.Framework.Http@2.1.1%2B45

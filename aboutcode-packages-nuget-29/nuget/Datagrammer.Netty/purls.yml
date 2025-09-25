@@ -1,0 +1,11 @@
+- pkg:nuget/Datagrammer.Netty@0.0.1-alpha
+- pkg:nuget/Datagrammer.Netty@0.0.2-alpha
+- pkg:nuget/Datagrammer.Netty@1.0.0
+- pkg:nuget/Datagrammer.Netty@1.0.1
+- pkg:nuget/Datagrammer.Netty@1.0.2
+- pkg:nuget/Datagrammer.Netty@2.0.0
+- pkg:nuget/Datagrammer.Netty@2.1.0
+- pkg:nuget/Datagrammer.Netty@3.0.0
+- pkg:nuget/Datagrammer.Netty@4.0.0
+- pkg:nuget/Datagrammer.Netty@4.0.0-alpha
+- pkg:nuget/Datagrammer.Netty@5.0.0-rc

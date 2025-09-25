@@ -1,0 +1,7 @@
+- pkg:nuget/DD4T.DI.SimpleInjector@2.4.9.6
+- pkg:nuget/DD4T.DI.SimpleInjector@2.4.9.7
+- pkg:nuget/DD4T.DI.SimpleInjector@2.4.9.9-alpha
+- pkg:nuget/DD4T.DI.SimpleInjector@2.5.0
+- pkg:nuget/DD4T.DI.SimpleInjector@2.5.12-alpha
+- pkg:nuget/DD4T.DI.SimpleInjector@2.5.13-alpha
+- pkg:nuget/DD4T.DI.SimpleInjector@2.6.0

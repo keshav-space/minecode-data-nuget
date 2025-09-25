@@ -1,0 +1,5 @@
+- pkg:nuget/Schemavolution.EntityFramework@0.8.0
+- pkg:nuget/Schemavolution.EntityFramework@0.8.1
+- pkg:nuget/Schemavolution.EntityFramework@0.8.2
+- pkg:nuget/Schemavolution.EntityFramework@0.8.3
+- pkg:nuget/Schemavolution.EntityFramework@0.8.4

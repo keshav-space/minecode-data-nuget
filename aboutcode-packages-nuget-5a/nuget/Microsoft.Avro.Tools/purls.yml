@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Avro.Tools@0.0.1-alpha
+- pkg:nuget/Microsoft.Avro.Tools@0.1.0
+- pkg:nuget/Microsoft.Avro.Tools@0.1.0-beta
+- pkg:nuget/Microsoft.Avro.Tools@0.16.0

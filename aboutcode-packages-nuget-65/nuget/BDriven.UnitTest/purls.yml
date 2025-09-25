@@ -1,0 +1,11 @@
+- pkg:nuget/BDriven.UnitTest@1.0.0-alpha
+- pkg:nuget/BDriven.UnitTest@1.0.0-beta
+- pkg:nuget/BDriven.UnitTest@1.0.0-charlie
+- pkg:nuget/BDriven.UnitTest@1.0.0-delta
+- pkg:nuget/BDriven.UnitTest@1.0.0-echo
+- pkg:nuget/BDriven.UnitTest@1.0.0-foxtrot
+- pkg:nuget/BDriven.UnitTest@1.0.0-gamma
+- pkg:nuget/BDriven.UnitTest@1.0.0-helo
+- pkg:nuget/BDriven.UnitTest@1.0.0-indego
+- pkg:nuget/BDriven.UnitTest@1.0.0-jackpot
+- pkg:nuget/BDriven.UnitTest@1.0.0-kilo

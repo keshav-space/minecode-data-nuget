@@ -1,0 +1,14 @@
+- pkg:nuget/Esri.ArcGISRuntime.Maui@100.13.1-preview1
+- pkg:nuget/Esri.ArcGISRuntime.Maui@100.14.0-preview2
+- pkg:nuget/Esri.ArcGISRuntime.Maui@100.14.1-preview3
+- pkg:nuget/Esri.ArcGISRuntime.Maui@100.15.0-preview4
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.0.0
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.0.0-beta
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.1.0
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.2.0
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.3.0
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.4.0
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.5.0
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.6.0
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.7.0
+- pkg:nuget/Esri.ArcGISRuntime.Maui@200.8.0

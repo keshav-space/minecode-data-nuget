@@ -1,0 +1,4 @@
+- pkg:nuget/AstreCode.Backend.Shared.Application@8.0.0
+- pkg:nuget/AstreCode.Backend.Shared.Application@9.0.0
+- pkg:nuget/AstreCode.Backend.Shared.Application@9.0.0.1
+- pkg:nuget/AstreCode.Backend.Shared.Application@9.0.0.2

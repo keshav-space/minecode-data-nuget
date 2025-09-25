@@ -1,0 +1,13 @@
+- pkg:nuget/AutoMoq@1.3.1.3
+- pkg:nuget/AutoMoq@1.4.0
+- pkg:nuget/AutoMoq@1.4.1
+- pkg:nuget/AutoMoq@1.4.2
+- pkg:nuget/AutoMoq@1.5.0
+- pkg:nuget/AutoMoq@1.6.0
+- pkg:nuget/AutoMoq@1.6.1
+- pkg:nuget/AutoMoq@1.6.2
+- pkg:nuget/AutoMoq@1.7.0
+- pkg:nuget/AutoMoq@1.7.1
+- pkg:nuget/AutoMoq@1.8.0
+- pkg:nuget/AutoMoq@1.8.1
+- pkg:nuget/AutoMoq@2.0.0

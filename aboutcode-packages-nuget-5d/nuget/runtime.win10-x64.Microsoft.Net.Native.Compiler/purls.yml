@@ -1,0 +1,13 @@
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.1.11
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.1.6
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.1.8
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.0-rel-26924-00
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.1
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.10-rel-29722-00
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.11-rel-30601-02
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.12-rel-31116-00
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.12-rel-33220-00
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.3
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.7-rel-27913-00
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.8-rel-28605-00
+- pkg:nuget/runtime.win10-x64.Microsoft.Net.Native.Compiler@2.2.9-rel-29512-01

@@ -1,0 +1,8 @@
+- pkg:nuget/Couchbase.Extensions.Encryption@1.0.0
+- pkg:nuget/Couchbase.Extensions.Encryption@1.0.0-beta
+- pkg:nuget/Couchbase.Extensions.Encryption@1.0.0-beta2
+- pkg:nuget/Couchbase.Extensions.Encryption@1.0.0-dp1
+- pkg:nuget/Couchbase.Extensions.Encryption@2.0.0
+- pkg:nuget/Couchbase.Extensions.Encryption@2.0.0-dp.1
+- pkg:nuget/Couchbase.Extensions.Encryption@2.0.0-rc.1
+- pkg:nuget/Couchbase.Extensions.Encryption@2.0.0-rc.2

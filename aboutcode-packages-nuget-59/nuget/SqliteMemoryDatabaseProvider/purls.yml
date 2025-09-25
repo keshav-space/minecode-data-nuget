@@ -1,0 +1,13 @@
+- pkg:nuget/SqliteMemoryDatabaseProvider@1.0.0
+- pkg:nuget/SqliteMemoryDatabaseProvider@1.0.1
+- pkg:nuget/SqliteMemoryDatabaseProvider@1.0.2
+- pkg:nuget/SqliteMemoryDatabaseProvider@1.0.3
+- pkg:nuget/SqliteMemoryDatabaseProvider@6.0.0
+- pkg:nuget/SqliteMemoryDatabaseProvider@7.0.0
+- pkg:nuget/SqliteMemoryDatabaseProvider@7.1.0
+- pkg:nuget/SqliteMemoryDatabaseProvider@7.2.0
+- pkg:nuget/SqliteMemoryDatabaseProvider@7.2.1
+- pkg:nuget/SqliteMemoryDatabaseProvider@7.2.2
+- pkg:nuget/SqliteMemoryDatabaseProvider@7.2.3
+- pkg:nuget/SqliteMemoryDatabaseProvider@7.2.4
+- pkg:nuget/SqliteMemoryDatabaseProvider@7.3.0

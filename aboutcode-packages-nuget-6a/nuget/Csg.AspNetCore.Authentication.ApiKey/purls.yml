@@ -1,0 +1,3 @@
+- pkg:nuget/Csg.AspNetCore.Authentication.ApiKey@1.0.1
+- pkg:nuget/Csg.AspNetCore.Authentication.ApiKey@1.1.11
+- pkg:nuget/Csg.AspNetCore.Authentication.ApiKey@2.0.2

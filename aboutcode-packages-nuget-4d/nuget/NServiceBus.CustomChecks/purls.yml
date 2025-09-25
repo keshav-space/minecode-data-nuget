@@ -1,0 +1,13 @@
+- pkg:nuget/NServiceBus.CustomChecks@1.0.0
+- pkg:nuget/NServiceBus.CustomChecks@2.0.0
+- pkg:nuget/NServiceBus.CustomChecks@2.0.1
+- pkg:nuget/NServiceBus.CustomChecks@3.0.0
+- pkg:nuget/NServiceBus.CustomChecks@3.0.0-beta0003
+- pkg:nuget/NServiceBus.CustomChecks@3.0.0-rc0001
+- pkg:nuget/NServiceBus.CustomChecks@3.0.1
+- pkg:nuget/NServiceBus.CustomChecks@4.0.0
+- pkg:nuget/NServiceBus.CustomChecks@4.0.0-beta.2
+- pkg:nuget/NServiceBus.CustomChecks@4.0.0-rc.2
+- pkg:nuget/NServiceBus.CustomChecks@4.0.1
+- pkg:nuget/NServiceBus.CustomChecks@5.0.0
+- pkg:nuget/NServiceBus.CustomChecks@5.0.1

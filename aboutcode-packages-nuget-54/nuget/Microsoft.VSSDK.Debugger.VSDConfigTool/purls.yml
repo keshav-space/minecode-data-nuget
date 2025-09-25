@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@16.0.2012201-preview
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@16.0.2032702
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@16.10.1051404
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@16.4.1111102
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@17.0.1051901-preview
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@17.0.1110801
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@17.0.2012801
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@17.0.3041101
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@17.14.1051801
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@17.8.1101801
+- pkg:nuget/Microsoft.VSSDK.Debugger.VSDConfigTool@18.0.1082202-preview

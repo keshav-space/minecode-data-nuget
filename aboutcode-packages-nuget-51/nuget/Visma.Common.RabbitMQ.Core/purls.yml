@@ -1,0 +1,4 @@
+- pkg:nuget/Visma.Common.RabbitMQ.Core@1.0.0
+- pkg:nuget/Visma.Common.RabbitMQ.Core@2.0.0
+- pkg:nuget/Visma.Common.RabbitMQ.Core@2.0.0-rc1
+- pkg:nuget/Visma.Common.RabbitMQ.Core@2.0.0-rc2

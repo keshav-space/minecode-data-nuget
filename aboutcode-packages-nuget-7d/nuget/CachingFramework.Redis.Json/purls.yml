@@ -1,0 +1,13 @@
+- pkg:nuget/CachingFramework.Redis.Json@1.0.0
+- pkg:nuget/CachingFramework.Redis.Json@3.4.0
+- pkg:nuget/CachingFramework.Redis.Json@4.0.0
+- pkg:nuget/CachingFramework.Redis.Json@4.1.0
+- pkg:nuget/CachingFramework.Redis.Json@4.3.0
+- pkg:nuget/CachingFramework.Redis.Json@4.5.0
+- pkg:nuget/CachingFramework.Redis.Json@4.6.0
+- pkg:nuget/CachingFramework.Redis.Json@4.7.0
+- pkg:nuget/CachingFramework.Redis.Json@4.7.1
+- pkg:nuget/CachingFramework.Redis.Json@4.8.0
+- pkg:nuget/CachingFramework.Redis.Json@4.9.0
+- pkg:nuget/CachingFramework.Redis.Json@5.0.0
+- pkg:nuget/CachingFramework.Redis.Json@5.1.0

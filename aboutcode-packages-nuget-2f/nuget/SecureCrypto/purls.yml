@@ -1,0 +1,3 @@
+- pkg:nuget/SecureCrypto@0.1.0-alpha.2
+- pkg:nuget/SecureCrypto@1.0.0
+- pkg:nuget/SecureCrypto@1.0.1

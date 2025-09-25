@@ -1,0 +1,8 @@
+- pkg:nuget/Gnu.Framework.EntityFramework.DataAccess@2.0.0
+- pkg:nuget/Gnu.Framework.EntityFramework.DataAccess@2.0.1
+- pkg:nuget/Gnu.Framework.EntityFramework.DataAccess@2.0.2
+- pkg:nuget/Gnu.Framework.EntityFramework.DataAccess@2.0.3
+- pkg:nuget/Gnu.Framework.EntityFramework.DataAccess@2.2.0
+- pkg:nuget/Gnu.Framework.EntityFramework.DataAccess@2.2.1
+- pkg:nuget/Gnu.Framework.EntityFramework.DataAccess@3.0.0
+- pkg:nuget/Gnu.Framework.EntityFramework.DataAccess@3.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.SourceLink.Gitea@1.1.0
+- pkg:nuget/Microsoft.SourceLink.Gitea@1.1.0-beta-21055-01
+- pkg:nuget/Microsoft.SourceLink.Gitea@1.1.1
+- pkg:nuget/Microsoft.SourceLink.Gitea@8.0.0

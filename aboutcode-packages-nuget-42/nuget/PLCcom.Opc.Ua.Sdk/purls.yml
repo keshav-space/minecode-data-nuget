@@ -1,0 +1,16 @@
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@5.1.1.2
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@5.1.1.3
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@5.1.1.4
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@5.1.2.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@5.1.3.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@5.2.1.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@6.1.1.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@7.1.1.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@7.1.3.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@7.3.2.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@8.1.1.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@9.1.1.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@9.1.1.2
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@9.2.2.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@9.2.3.1
+- pkg:nuget/PLCcom.Opc.Ua.Sdk@9.2.4.1

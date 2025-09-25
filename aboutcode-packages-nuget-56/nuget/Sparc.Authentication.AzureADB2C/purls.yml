@@ -1,0 +1,5 @@
+- pkg:nuget/Sparc.Authentication.AzureADB2C@2.0.2
+- pkg:nuget/Sparc.Authentication.AzureADB2C@2.0.3
+- pkg:nuget/Sparc.Authentication.AzureADB2C@2.7.0
+- pkg:nuget/Sparc.Authentication.AzureADB2C@6.0.0
+- pkg:nuget/Sparc.Authentication.AzureADB2C@7.0.0

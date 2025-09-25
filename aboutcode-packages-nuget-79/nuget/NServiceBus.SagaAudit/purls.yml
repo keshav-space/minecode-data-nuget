@@ -1,0 +1,14 @@
+- pkg:nuget/NServiceBus.SagaAudit@1.0.0
+- pkg:nuget/NServiceBus.SagaAudit@2.0.0
+- pkg:nuget/NServiceBus.SagaAudit@2.0.1
+- pkg:nuget/NServiceBus.SagaAudit@3.0.0
+- pkg:nuget/NServiceBus.SagaAudit@3.0.0-beta0003
+- pkg:nuget/NServiceBus.SagaAudit@3.0.0-rc0001
+- pkg:nuget/NServiceBus.SagaAudit@3.0.1
+- pkg:nuget/NServiceBus.SagaAudit@4.0.0
+- pkg:nuget/NServiceBus.SagaAudit@4.0.0-beta.2
+- pkg:nuget/NServiceBus.SagaAudit@4.0.0-rc.2
+- pkg:nuget/NServiceBus.SagaAudit@4.0.1
+- pkg:nuget/NServiceBus.SagaAudit@5.0.0
+- pkg:nuget/NServiceBus.SagaAudit@5.0.1
+- pkg:nuget/NServiceBus.SagaAudit@5.0.2

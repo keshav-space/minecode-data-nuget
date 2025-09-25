@@ -1,0 +1,3 @@
+- pkg:nuget/dotnet-guit@0.1.2-pre
+- pkg:nuget/dotnet-guit@0.3.16%2Bsha.e8dd16f-azdo.1304
+- pkg:nuget/dotnet-guit@0.3.20%2Bsha.2be715a-azdo.1788

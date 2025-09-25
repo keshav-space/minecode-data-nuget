@@ -1,0 +1,7 @@
+- pkg:nuget/Nerdbank.FullDuplexStream@0.1.15-beta
+- pkg:nuget/Nerdbank.FullDuplexStream@0.1.24-beta
+- pkg:nuget/Nerdbank.FullDuplexStream@1.0.1
+- pkg:nuget/Nerdbank.FullDuplexStream@1.0.9
+- pkg:nuget/Nerdbank.FullDuplexStream@1.1.11
+- pkg:nuget/Nerdbank.FullDuplexStream@1.1.12
+- pkg:nuget/Nerdbank.FullDuplexStream@1.1.7

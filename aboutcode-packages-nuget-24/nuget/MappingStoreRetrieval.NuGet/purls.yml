@@ -1,0 +1,15 @@
+- pkg:nuget/MappingStoreRetrieval.NuGet@4.5.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@4.6.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@4.7.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@5.0.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@5.1.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@5.1.1
+- pkg:nuget/MappingStoreRetrieval.NuGet@5.1.2
+- pkg:nuget/MappingStoreRetrieval.NuGet@7.0.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@7.0.1
+- pkg:nuget/MappingStoreRetrieval.NuGet@7.1.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@7.2.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@7.3.0
+- pkg:nuget/MappingStoreRetrieval.NuGet@7.3.1
+- pkg:nuget/MappingStoreRetrieval.NuGet@7.3.2
+- pkg:nuget/MappingStoreRetrieval.NuGet@7.4.0

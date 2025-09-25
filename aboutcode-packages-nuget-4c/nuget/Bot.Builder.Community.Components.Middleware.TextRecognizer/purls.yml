@@ -1,0 +1,4 @@
+- pkg:nuget/Bot.Builder.Community.Components.Middleware.TextRecognizer@4.13.2
+- pkg:nuget/Bot.Builder.Community.Components.Middleware.TextRecognizer@4.13.3
+- pkg:nuget/Bot.Builder.Community.Components.Middleware.TextRecognizer@4.13.4
+- pkg:nuget/Bot.Builder.Community.Components.Middleware.TextRecognizer@4.13.5

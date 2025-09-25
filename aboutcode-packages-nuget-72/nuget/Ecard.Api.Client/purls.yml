@@ -1,0 +1,5 @@
+- pkg:nuget/Ecard.Api.Client@0.5.26
+- pkg:nuget/Ecard.Api.Client@0.7.6
+- pkg:nuget/Ecard.Api.Client@0.7.8
+- pkg:nuget/Ecard.Api.Client@0.7.9
+- pkg:nuget/Ecard.Api.Client@0.8.1

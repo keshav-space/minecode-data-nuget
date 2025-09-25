@@ -1,0 +1,4 @@
+- pkg:nuget/Fornax.Core@0.15.1
+- pkg:nuget/Fornax.Core@0.15.1-beta002
+- pkg:nuget/Fornax.Core@0.16.0-beta002
+- pkg:nuget/Fornax.Core@0.16.0-beta005

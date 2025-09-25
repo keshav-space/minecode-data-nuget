@@ -1,0 +1,4 @@
+- pkg:nuget/Mniak.AspNetCore.RequestDecompression.Gzip@0.0.1
+- pkg:nuget/Mniak.AspNetCore.RequestDecompression.Gzip@0.0.2
+- pkg:nuget/Mniak.AspNetCore.RequestDecompression.Gzip@0.0.3
+- pkg:nuget/Mniak.AspNetCore.RequestDecompression.Gzip@0.0.4

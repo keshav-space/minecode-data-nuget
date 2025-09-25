@@ -1,0 +1,3 @@
+- pkg:nuget/Owin.Antiforgery@0.1.0
+- pkg:nuget/Owin.Antiforgery@1.0.0
+- pkg:nuget/Owin.Antiforgery@1.1.0

@@ -1,0 +1,5 @@
+- pkg:nuget/System.Threading.Tasks.WindowsCE@1.0.0
+- pkg:nuget/System.Threading.Tasks.WindowsCE@1.1.0
+- pkg:nuget/System.Threading.Tasks.WindowsCE@1.1.1
+- pkg:nuget/System.Threading.Tasks.WindowsCE@1.2.0
+- pkg:nuget/System.Threading.Tasks.WindowsCE@1.3.0

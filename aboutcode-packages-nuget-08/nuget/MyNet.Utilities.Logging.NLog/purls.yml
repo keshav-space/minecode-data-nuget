@@ -1,0 +1,15 @@
+- pkg:nuget/MyNet.Utilities.Logging.NLog@1.0.1
+- pkg:nuget/MyNet.Utilities.Logging.NLog@1.1.0
+- pkg:nuget/MyNet.Utilities.Logging.NLog@5.0.0
+- pkg:nuget/MyNet.Utilities.Logging.NLog@5.0.0-pre
+- pkg:nuget/MyNet.Utilities.Logging.NLog@6.0.0
+- pkg:nuget/MyNet.Utilities.Logging.NLog@6.0.1
+- pkg:nuget/MyNet.Utilities.Logging.NLog@7.0.0
+- pkg:nuget/MyNet.Utilities.Logging.NLog@8.0.0
+- pkg:nuget/MyNet.Utilities.Logging.NLog@8.0.10
+- pkg:nuget/MyNet.Utilities.Logging.NLog@8.0.11
+- pkg:nuget/MyNet.Utilities.Logging.NLog@8.0.25
+- pkg:nuget/MyNet.Utilities.Logging.NLog@8.0.27
+- pkg:nuget/MyNet.Utilities.Logging.NLog@8.0.30
+- pkg:nuget/MyNet.Utilities.Logging.NLog@8.0.43
+- pkg:nuget/MyNet.Utilities.Logging.NLog@8.0.9

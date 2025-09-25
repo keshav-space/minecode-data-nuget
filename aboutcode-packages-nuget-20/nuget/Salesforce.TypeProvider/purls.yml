@@ -1,0 +1,4 @@
+- pkg:nuget/Salesforce.TypeProvider@0.2.6-beta
+- pkg:nuget/Salesforce.TypeProvider@0.2.8-beta
+- pkg:nuget/Salesforce.TypeProvider@1.0.0
+- pkg:nuget/Salesforce.TypeProvider@1.0.0-alpha

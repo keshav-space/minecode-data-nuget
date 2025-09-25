@@ -1,0 +1,5 @@
+- pkg:nuget/DD4T.Logging.Serilog@2.1.0.6-alpha
+- pkg:nuget/DD4T.Logging.Serilog@2.1.0.7-alpha
+- pkg:nuget/DD4T.Logging.Serilog@2.5.0
+- pkg:nuget/DD4T.Logging.Serilog@2.5.9-alpha
+- pkg:nuget/DD4T.Logging.Serilog@2.6.0

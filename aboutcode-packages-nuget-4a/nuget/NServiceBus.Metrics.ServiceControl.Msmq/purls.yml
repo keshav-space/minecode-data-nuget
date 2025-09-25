@@ -1,0 +1,11 @@
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@1.0.0
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@1.0.1
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@2.0.0
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@2.0.2
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@2.0.3
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@3.0.0
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@3.0.1
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@4.0.0
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@4.0.0-beta.2
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@4.0.0-rc.2
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@4.0.1

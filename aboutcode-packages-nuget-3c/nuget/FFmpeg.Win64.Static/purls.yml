@@ -1,0 +1,8 @@
+- pkg:nuget/FFmpeg.Win64.Static@3.1.5
+- pkg:nuget/FFmpeg.Win64.Static@3.1.5.1
+- pkg:nuget/FFmpeg.Win64.Static@3.1.5.2
+- pkg:nuget/FFmpeg.Win64.Static@3.1.5.3
+- pkg:nuget/FFmpeg.Win64.Static@3.2.2
+- pkg:nuget/FFmpeg.Win64.Static@3.2.2.1
+- pkg:nuget/FFmpeg.Win64.Static@3.3.3.1
+- pkg:nuget/FFmpeg.Win64.Static@4.1.1.1

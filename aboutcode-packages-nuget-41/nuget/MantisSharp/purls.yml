@@ -1,0 +1,4 @@
+- pkg:nuget/MantisSharp@0.0.1-alpha
+- pkg:nuget/MantisSharp@0.0.2-alpha
+- pkg:nuget/MantisSharp@0.3.0-alpha
+- pkg:nuget/MantisSharp@0.4.0-alpha

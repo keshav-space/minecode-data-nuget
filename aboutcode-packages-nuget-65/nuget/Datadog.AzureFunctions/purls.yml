@@ -1,0 +1,16 @@
+- pkg:nuget/Datadog.AzureFunctions@3.20.0-preview1
+- pkg:nuget/Datadog.AzureFunctions@3.20.0-preview2
+- pkg:nuget/Datadog.AzureFunctions@3.20.0-preview3
+- pkg:nuget/Datadog.AzureFunctions@3.20.0-preview4
+- pkg:nuget/Datadog.AzureFunctions@3.20.0-preview5
+- pkg:nuget/Datadog.AzureFunctions@3.20.0-preview6
+- pkg:nuget/Datadog.AzureFunctions@3.21.0-preview
+- pkg:nuget/Datadog.AzureFunctions@3.22.0
+- pkg:nuget/Datadog.AzureFunctions@3.23.0
+- pkg:nuget/Datadog.AzureFunctions@3.24.0
+- pkg:nuget/Datadog.AzureFunctions@3.24.1
+- pkg:nuget/Datadog.AzureFunctions@3.25.0
+- pkg:nuget/Datadog.AzureFunctions@3.26.0
+- pkg:nuget/Datadog.AzureFunctions@3.26.1
+- pkg:nuget/Datadog.AzureFunctions@3.26.2
+- pkg:nuget/Datadog.AzureFunctions@3.26.3

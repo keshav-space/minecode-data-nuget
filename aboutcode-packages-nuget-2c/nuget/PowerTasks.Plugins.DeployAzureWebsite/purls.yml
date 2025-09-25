@@ -1,0 +1,2 @@
+- pkg:nuget/PowerTasks.Plugins.DeployAzureWebsite@1.0.0
+- pkg:nuget/PowerTasks.Plugins.DeployAzureWebsite@2.0.0

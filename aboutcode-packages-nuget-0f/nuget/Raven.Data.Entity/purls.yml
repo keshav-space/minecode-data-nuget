@@ -1,0 +1,4 @@
+- pkg:nuget/Raven.Data.Entity@1.0.0
+- pkg:nuget/Raven.Data.Entity@1.0.3
+- pkg:nuget/Raven.Data.Entity@2.0.0
+- pkg:nuget/Raven.Data.Entity@2.0.1

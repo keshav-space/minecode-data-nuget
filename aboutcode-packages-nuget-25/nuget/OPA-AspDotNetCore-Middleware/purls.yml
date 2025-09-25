@@ -1,0 +1,14 @@
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.0.0-preview.0.2%2B3e9e87982f683a05c404c79040d04bafee6689bb
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.0.0-preview.0.3%2B46978c47595fa0e02a9f504bc5e43ac5109c19dc
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.0.0-preview.0.5
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.0.0-preview.0.6
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.0.0-preview.0.7
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.0.1%2Bbuild.6
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.0.2%2Bbuild.10
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.0.3%2Bbuild.16
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.1.0%2Bbuild.22
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.1.4%2Bbuild.47
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.1.5%2Bbuild.50
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.1.6%2Bbuild.53
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.1.7%2Bbuild.56
+- pkg:nuget/OPA-AspDotNetCore-Middleware@0.1.8%2Bbuild.99

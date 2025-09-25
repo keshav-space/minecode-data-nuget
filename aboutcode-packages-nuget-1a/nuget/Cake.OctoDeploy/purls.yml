@@ -1,0 +1,7 @@
+- pkg:nuget/Cake.OctoDeploy@1.0.2
+- pkg:nuget/Cake.OctoDeploy@1.0.3
+- pkg:nuget/Cake.OctoDeploy@2.0.0
+- pkg:nuget/Cake.OctoDeploy@2.0.1
+- pkg:nuget/Cake.OctoDeploy@3.0.0
+- pkg:nuget/Cake.OctoDeploy@3.1.0
+- pkg:nuget/Cake.OctoDeploy@3.2.0

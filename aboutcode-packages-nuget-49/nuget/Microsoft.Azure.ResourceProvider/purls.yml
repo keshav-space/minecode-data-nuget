@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.ResourceProvider@1.0.292-alpha
+- pkg:nuget/Microsoft.Azure.ResourceProvider@1.0.303-alpha
+- pkg:nuget/Microsoft.Azure.ResourceProvider@1.0.379-alpha
+- pkg:nuget/Microsoft.Azure.ResourceProvider@3.0.12

@@ -1,0 +1,14 @@
+- pkg:nuget/bgTeam.Impl.Kafka@5.0.38
+- pkg:nuget/bgTeam.Impl.Kafka@5.0.40
+- pkg:nuget/bgTeam.Impl.Kafka@5.0.42
+- pkg:nuget/bgTeam.Impl.Kafka@5.0.45
+- pkg:nuget/bgTeam.Impl.Kafka@5.0.47
+- pkg:nuget/bgTeam.Impl.Kafka@5.0.48
+- pkg:nuget/bgTeam.Impl.Kafka@5.0.51
+- pkg:nuget/bgTeam.Impl.Kafka@5.0.53
+- pkg:nuget/bgTeam.Impl.Kafka@6.0.76-beta
+- pkg:nuget/bgTeam.Impl.Kafka@6.0.77-beta
+- pkg:nuget/bgTeam.Impl.Kafka@6.1.1
+- pkg:nuget/bgTeam.Impl.Kafka@6.1.3
+- pkg:nuget/bgTeam.Impl.Kafka@6.1.5
+- pkg:nuget/bgTeam.Impl.Kafka@6.1.6

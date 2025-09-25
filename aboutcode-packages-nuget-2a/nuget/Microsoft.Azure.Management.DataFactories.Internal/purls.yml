@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Azure.Management.DataFactories.Internal@4.0.0
+- pkg:nuget/Microsoft.Azure.Management.DataFactories.Internal@4.1.0
+- pkg:nuget/Microsoft.Azure.Management.DataFactories.Internal@4.1.1

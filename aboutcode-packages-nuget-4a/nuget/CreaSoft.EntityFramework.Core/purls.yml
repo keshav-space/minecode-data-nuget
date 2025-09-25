@@ -1,0 +1,4 @@
+- pkg:nuget/CreaSoft.EntityFramework.Core@1.0.0
+- pkg:nuget/CreaSoft.EntityFramework.Core@1.1.0
+- pkg:nuget/CreaSoft.EntityFramework.Core@1.2.0
+- pkg:nuget/CreaSoft.EntityFramework.Core@3.8.0

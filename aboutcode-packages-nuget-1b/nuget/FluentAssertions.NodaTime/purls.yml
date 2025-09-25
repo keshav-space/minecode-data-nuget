@@ -1,0 +1,5 @@
+- pkg:nuget/FluentAssertions.NodaTime@1.0.0-alpha
+- pkg:nuget/FluentAssertions.NodaTime@1.0.1-alpha
+- pkg:nuget/FluentAssertions.NodaTime@1.0.2-alpha
+- pkg:nuget/FluentAssertions.NodaTime@2.0.0
+- pkg:nuget/FluentAssertions.NodaTime@2.0.1

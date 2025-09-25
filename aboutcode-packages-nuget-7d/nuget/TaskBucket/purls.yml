@@ -1,0 +1,16 @@
+- pkg:nuget/TaskBucket@1.0.0.1-prerelease
+- pkg:nuget/TaskBucket@1.0.0.10-prerelease
+- pkg:nuget/TaskBucket@1.0.0.11-prerelease
+- pkg:nuget/TaskBucket@1.0.0.12-prerelease
+- pkg:nuget/TaskBucket@1.0.0.13-prerelease
+- pkg:nuget/TaskBucket@1.0.0.14-prerelease
+- pkg:nuget/TaskBucket@1.0.0.2-prerelease
+- pkg:nuget/TaskBucket@1.0.0.3-prerelease
+- pkg:nuget/TaskBucket@1.0.0.4-prerelease
+- pkg:nuget/TaskBucket@1.0.0.5-prerelease
+- pkg:nuget/TaskBucket@1.0.0.6-prerelease
+- pkg:nuget/TaskBucket@1.0.0.7-prerelease
+- pkg:nuget/TaskBucket@1.0.0.8-prerelease
+- pkg:nuget/TaskBucket@1.0.0.9-prerelease
+- pkg:nuget/TaskBucket@5.0.0.1
+- pkg:nuget/TaskBucket@8.0.0.1
