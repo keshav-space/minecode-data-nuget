@@ -1,0 +1,5 @@
+- pkg:nuget/EWSoftware.Sandcastle.Core@2021.10.23
+- pkg:nuget/EWSoftware.Sandcastle.Core@2022.12.30
+- pkg:nuget/EWSoftware.Sandcastle.Core@2022.8.14
+- pkg:nuget/EWSoftware.Sandcastle.Core@2024.2.18
+- pkg:nuget/EWSoftware.Sandcastle.Core@2025.3.22

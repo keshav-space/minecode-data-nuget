@@ -1,0 +1,9 @@
+- pkg:nuget/Test.Test@1.0.0
+- pkg:nuget/Test.Test@1.1.0
+- pkg:nuget/Test.Test@1.2.0
+- pkg:nuget/Test.Test@1.2.0-hotfix
+- pkg:nuget/Test.Test@1.3.0
+- pkg:nuget/Test.Test@1.4.0
+- pkg:nuget/Test.Test@1.5.0
+- pkg:nuget/Test.Test@1.5.1
+- pkg:nuget/Test.Test@10.8.0

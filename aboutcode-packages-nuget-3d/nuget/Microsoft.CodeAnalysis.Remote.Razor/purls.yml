@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.CodeAnalysis.Remote.Razor@0.0.1-alpha
+- pkg:nuget/Microsoft.CodeAnalysis.Remote.Razor@2.0.0-preview1-final

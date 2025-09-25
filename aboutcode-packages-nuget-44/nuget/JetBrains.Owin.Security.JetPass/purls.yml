@@ -1,0 +1,5 @@
+- pkg:nuget/JetBrains.Owin.Security.JetPass@0.1.0-alpha
+- pkg:nuget/JetBrains.Owin.Security.JetPass@0.1.0-beta
+- pkg:nuget/JetBrains.Owin.Security.JetPass@0.1.1-beta
+- pkg:nuget/JetBrains.Owin.Security.JetPass@0.1.2
+- pkg:nuget/JetBrains.Owin.Security.JetPass@0.1.3

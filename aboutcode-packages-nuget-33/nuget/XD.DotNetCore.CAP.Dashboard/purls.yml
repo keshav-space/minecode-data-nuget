@@ -1,0 +1,4 @@
+- pkg:nuget/XD.DotNetCore.CAP.Dashboard@5.1.4.1-alpha
+- pkg:nuget/XD.DotNetCore.CAP.Dashboard@5.2.0-alpha
+- pkg:nuget/XD.DotNetCore.CAP.Dashboard@5.2.0.1-alpha
+- pkg:nuget/XD.DotNetCore.CAP.Dashboard@6.1.0-alpha

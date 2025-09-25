@@ -1,0 +1,3 @@
+- pkg:nuget/IntegrationMocks.Modules.Yugabyte@2.1.1
+- pkg:nuget/IntegrationMocks.Modules.Yugabyte@3.0.0
+- pkg:nuget/IntegrationMocks.Modules.Yugabyte@3.0.1

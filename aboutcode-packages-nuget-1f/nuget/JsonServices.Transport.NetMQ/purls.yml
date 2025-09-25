@@ -1,0 +1,2 @@
+- pkg:nuget/JsonServices.Transport.NetMQ@0.0.0.1
+- pkg:nuget/JsonServices.Transport.NetMQ@0.1.10

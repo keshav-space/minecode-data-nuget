@@ -1,0 +1,6 @@
+- pkg:nuget/IX.StandardExtensions.RestSharp@0.7.18-alpha1
+- pkg:nuget/IX.StandardExtensions.RestSharp@0.7.18-alpha2
+- pkg:nuget/IX.StandardExtensions.RestSharp@0.7.19
+- pkg:nuget/IX.StandardExtensions.RestSharp@0.7.21
+- pkg:nuget/IX.StandardExtensions.RestSharp@0.7.22
+- pkg:nuget/IX.StandardExtensions.RestSharp@0.7.25

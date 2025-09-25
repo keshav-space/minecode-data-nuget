@@ -1,0 +1,8 @@
+- pkg:nuget/RedmentCore.PaymentGateways.Abstractions@1.0.0-beta
+- pkg:nuget/RedmentCore.PaymentGateways.Abstractions@1.0.0-beta-1
+- pkg:nuget/RedmentCore.PaymentGateways.Abstractions@1.0.1
+- pkg:nuget/RedmentCore.PaymentGateways.Abstractions@1.0.2
+- pkg:nuget/RedmentCore.PaymentGateways.Abstractions@1.0.3
+- pkg:nuget/RedmentCore.PaymentGateways.Abstractions@6.1.0.3
+- pkg:nuget/RedmentCore.PaymentGateways.Abstractions@8.0.0
+- pkg:nuget/RedmentCore.PaymentGateways.Abstractions@8.0.1

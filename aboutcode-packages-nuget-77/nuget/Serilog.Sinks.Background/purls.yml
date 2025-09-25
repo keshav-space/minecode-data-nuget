@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Sinks.Background@0.0.1
+- pkg:nuget/Serilog.Sinks.Background@0.0.2

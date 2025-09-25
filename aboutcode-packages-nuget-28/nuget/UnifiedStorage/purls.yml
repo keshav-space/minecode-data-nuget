@@ -1,0 +1,5 @@
+- pkg:nuget/UnifiedStorage@1.0.0-beta0001
+- pkg:nuget/UnifiedStorage@1.0.0.1-prerelease
+- pkg:nuget/UnifiedStorage@1.0.0.2-prerelease
+- pkg:nuget/UnifiedStorage@1.0.0.3-prerelease
+- pkg:nuget/UnifiedStorage@1.0.4

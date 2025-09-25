@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Precompilation.Design@0.0.1-alpha
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Precompilation.Design@1.0.0-preview1-final

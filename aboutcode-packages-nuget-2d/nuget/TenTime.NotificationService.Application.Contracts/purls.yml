@@ -1,0 +1,5 @@
+- pkg:nuget/TenTime.NotificationService.Application.Contracts@1.0.0
+- pkg:nuget/TenTime.NotificationService.Application.Contracts@1.0.1
+- pkg:nuget/TenTime.NotificationService.Application.Contracts@1.0.2
+- pkg:nuget/TenTime.NotificationService.Application.Contracts@1.0.3
+- pkg:nuget/TenTime.NotificationService.Application.Contracts@2.0.0

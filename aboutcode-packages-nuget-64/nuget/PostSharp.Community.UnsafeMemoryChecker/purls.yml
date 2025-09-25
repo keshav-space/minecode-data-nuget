@@ -1,0 +1,2 @@
+- pkg:nuget/PostSharp.Community.UnsafeMemoryChecker@1.1.0-preview
+- pkg:nuget/PostSharp.Community.UnsafeMemoryChecker@1.2.0

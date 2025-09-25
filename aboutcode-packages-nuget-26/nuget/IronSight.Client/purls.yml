@@ -1,0 +1,5 @@
+- pkg:nuget/IronSight.Client@0.0.2-beta2d
+- pkg:nuget/IronSight.Client@0.0.3-beta2d
+- pkg:nuget/IronSight.Client@0.0.4-beta
+- pkg:nuget/IronSight.Client@0.0.5-beta
+- pkg:nuget/IronSight.Client@0.0.6-beta

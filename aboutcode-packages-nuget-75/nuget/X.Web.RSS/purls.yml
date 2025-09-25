@@ -1,0 +1,4 @@
+- pkg:nuget/X.Web.RSS@2.7.0
+- pkg:nuget/X.Web.RSS@2.7.1
+- pkg:nuget/X.Web.RSS@2.7.3
+- pkg:nuget/X.Web.RSS@3.0.0-pre

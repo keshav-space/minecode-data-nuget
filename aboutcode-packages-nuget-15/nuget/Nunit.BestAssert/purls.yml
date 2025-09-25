@@ -1,0 +1,3 @@
+- pkg:nuget/Nunit.BestAssert@1.0.0
+- pkg:nuget/Nunit.BestAssert@2.0.0
+- pkg:nuget/Nunit.BestAssert@3.0.0

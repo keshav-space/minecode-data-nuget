@@ -1,0 +1,6 @@
+- pkg:nuget/CleanArchitectureLayers.ApplicationLayer.AspNetCore.Identity@1.0.0
+- pkg:nuget/CleanArchitectureLayers.ApplicationLayer.AspNetCore.Identity@1.0.1
+- pkg:nuget/CleanArchitectureLayers.ApplicationLayer.AspNetCore.Identity@1.0.2
+- pkg:nuget/CleanArchitectureLayers.ApplicationLayer.AspNetCore.Identity@2.0.0
+- pkg:nuget/CleanArchitectureLayers.ApplicationLayer.AspNetCore.Identity@2.1.0
+- pkg:nuget/CleanArchitectureLayers.ApplicationLayer.AspNetCore.Identity@4.0.0

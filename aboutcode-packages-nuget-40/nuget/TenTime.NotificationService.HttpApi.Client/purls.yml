@@ -1,0 +1,4 @@
+- pkg:nuget/TenTime.NotificationService.HttpApi.Client@1.0.1
+- pkg:nuget/TenTime.NotificationService.HttpApi.Client@1.0.2
+- pkg:nuget/TenTime.NotificationService.HttpApi.Client@1.0.3
+- pkg:nuget/TenTime.NotificationService.HttpApi.Client@2.0.0

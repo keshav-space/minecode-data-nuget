@@ -1,0 +1,9 @@
+- pkg:nuget/Weaviate.Client@0.0.0-alpha.0.34
+- pkg:nuget/Weaviate.Client@0.0.0-alpha.0.35
+- pkg:nuget/Weaviate.Client@0.0.0-alpha.0.36
+- pkg:nuget/Weaviate.Client@0.0.0-alpha.0.37
+- pkg:nuget/Weaviate.Client@0.0.0-alpha.0.38
+- pkg:nuget/Weaviate.Client@0.0.0-alpha.0.39
+- pkg:nuget/Weaviate.Client@0.0.0-alpha.0.40
+- pkg:nuget/Weaviate.Client@0.0.1-beta.2
+- pkg:nuget/Weaviate.Client@0.0.1-beta.3

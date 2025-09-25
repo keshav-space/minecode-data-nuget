@@ -1,0 +1,10 @@
+- pkg:nuget/WCLShared@1.0.0
+- pkg:nuget/WCLShared@2.0.0
+- pkg:nuget/WCLShared@3.0.0
+- pkg:nuget/WCLShared@4.0.0
+- pkg:nuget/WCLShared@4.1.0
+- pkg:nuget/WCLShared@4.1.1
+- pkg:nuget/WCLShared@4.1.2
+- pkg:nuget/WCLShared@4.2.0
+- pkg:nuget/WCLShared@4.3.0
+- pkg:nuget/WCLShared@4.4.0

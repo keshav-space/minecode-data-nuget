@@ -1,0 +1,4 @@
+- pkg:nuget/XD.DotNetCore.CAP.MySql@5.1.4.1-alpha
+- pkg:nuget/XD.DotNetCore.CAP.MySql@5.1.4.2-alpha
+- pkg:nuget/XD.DotNetCore.CAP.MySql@5.1.4.3-alpha
+- pkg:nuget/XD.DotNetCore.CAP.MySql@6.1.0-alpha

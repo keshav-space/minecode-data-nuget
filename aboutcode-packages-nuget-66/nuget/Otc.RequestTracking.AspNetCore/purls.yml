@@ -1,0 +1,6 @@
+- pkg:nuget/Otc.RequestTracking.AspNetCore@1.0.0
+- pkg:nuget/Otc.RequestTracking.AspNetCore@1.0.0-v100-alpha2-build3
+- pkg:nuget/Otc.RequestTracking.AspNetCore@1.0.1
+- pkg:nuget/Otc.RequestTracking.AspNetCore@1.0.2
+- pkg:nuget/Otc.RequestTracking.AspNetCore@1.0.3
+- pkg:nuget/Otc.RequestTracking.AspNetCore@1.0.4

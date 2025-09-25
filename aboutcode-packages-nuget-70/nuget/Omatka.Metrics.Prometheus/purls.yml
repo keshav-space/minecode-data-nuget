@@ -1,0 +1,3 @@
+- pkg:nuget/Omatka.Metrics.Prometheus@1.0.0
+- pkg:nuget/Omatka.Metrics.Prometheus@1.0.1
+- pkg:nuget/Omatka.Metrics.Prometheus@1.0.2

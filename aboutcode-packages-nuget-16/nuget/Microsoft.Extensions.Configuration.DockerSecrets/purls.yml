@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Extensions.Configuration.DockerSecrets@0.0.1-alpha
+- pkg:nuget/Microsoft.Extensions.Configuration.DockerSecrets@2.0.0-preview1-final
