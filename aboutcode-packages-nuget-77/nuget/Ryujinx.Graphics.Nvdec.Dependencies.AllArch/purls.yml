@@ -1,0 +1,4 @@
+- pkg:nuget/Ryujinx.Graphics.Nvdec.Dependencies.AllArch@6.1.2-build1
+- pkg:nuget/Ryujinx.Graphics.Nvdec.Dependencies.AllArch@6.1.2-build2
+- pkg:nuget/Ryujinx.Graphics.Nvdec.Dependencies.AllArch@6.1.2-build3
+- pkg:nuget/Ryujinx.Graphics.Nvdec.Dependencies.AllArch@6.1.3-build5

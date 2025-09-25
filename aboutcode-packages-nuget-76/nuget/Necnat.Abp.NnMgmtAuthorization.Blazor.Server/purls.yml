@@ -1,0 +1,4 @@
+- pkg:nuget/Necnat.Abp.NnMgmtAuthorization.Blazor.Server@0.2.6
+- pkg:nuget/Necnat.Abp.NnMgmtAuthorization.Blazor.Server@0.4.2
+- pkg:nuget/Necnat.Abp.NnMgmtAuthorization.Blazor.Server@0.4.3
+- pkg:nuget/Necnat.Abp.NnMgmtAuthorization.Blazor.Server@0.4.4

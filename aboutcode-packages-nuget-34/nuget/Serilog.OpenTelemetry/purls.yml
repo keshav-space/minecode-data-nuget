@@ -1,0 +1,9 @@
+- pkg:nuget/Serilog.OpenTelemetry@1.0.0
+- pkg:nuget/Serilog.OpenTelemetry@1.0.7
+- pkg:nuget/Serilog.OpenTelemetry@1.0.9
+- pkg:nuget/Serilog.OpenTelemetry@1.1.0
+- pkg:nuget/Serilog.OpenTelemetry@1.4.2
+- pkg:nuget/Serilog.OpenTelemetry@1.4.3
+- pkg:nuget/Serilog.OpenTelemetry@1.4.4
+- pkg:nuget/Serilog.OpenTelemetry@2.0.0
+- pkg:nuget/Serilog.OpenTelemetry@2.1.0

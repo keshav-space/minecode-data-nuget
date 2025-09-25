@@ -1,0 +1,11 @@
+- pkg:nuget/NLog.Targets.MicrosoftTeams@1.0.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@1.1.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@1.2.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@1.3.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@1.4.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@2.0.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@3.0.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@3.0.1
+- pkg:nuget/NLog.Targets.MicrosoftTeams@4.0.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@5.0.0
+- pkg:nuget/NLog.Targets.MicrosoftTeams@6.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Wheel.EventBus.MediatR@1.0.0
+- pkg:nuget/Wheel.EventBus.MediatR@1.0.1
+- pkg:nuget/Wheel.EventBus.MediatR@1.0.2

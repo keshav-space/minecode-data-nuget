@@ -1,0 +1,4 @@
+- pkg:nuget/Ocelot.Provider.Consul.Extensions@16.0.1
+- pkg:nuget/Ocelot.Provider.Consul.Extensions@17.0.0
+- pkg:nuget/Ocelot.Provider.Consul.Extensions@17.1.0
+- pkg:nuget/Ocelot.Provider.Consul.Extensions@17.2.0

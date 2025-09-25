@@ -1,0 +1,10 @@
+- pkg:nuget/Sentry.AzureFunctions.Worker@0.0.1-temp
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.32.0-beta.1
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.33.0-beta.1
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.33.1-beta.1
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.34.0-beta.1
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.35.0-beta.1
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.35.1-beta.1
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.36.0-beta.1
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.39.0-beta.1
+- pkg:nuget/Sentry.AzureFunctions.Worker@3.39.1-beta.1

@@ -1,0 +1,8 @@
+- pkg:nuget/Zongsoft.Data.MsSql@5.1.0
+- pkg:nuget/Zongsoft.Data.MsSql@6.0.0
+- pkg:nuget/Zongsoft.Data.MsSql@6.2.0
+- pkg:nuget/Zongsoft.Data.MsSql@6.3.0
+- pkg:nuget/Zongsoft.Data.MsSql@6.4.0
+- pkg:nuget/Zongsoft.Data.MsSql@6.5.0
+- pkg:nuget/Zongsoft.Data.MsSql@7.0.0
+- pkg:nuget/Zongsoft.Data.MsSql@7.1.0

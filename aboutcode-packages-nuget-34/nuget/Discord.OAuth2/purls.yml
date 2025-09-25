@@ -1,0 +1,3 @@
+- pkg:nuget/Discord.OAuth2@1.0.0
+- pkg:nuget/Discord.OAuth2@1.1.0
+- pkg:nuget/Discord.OAuth2@2.0.0

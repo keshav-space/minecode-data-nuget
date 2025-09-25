@@ -1,0 +1,13 @@
+- pkg:nuget/Codehard.Functional.EntityFramework@2.4.0
+- pkg:nuget/Codehard.Functional.EntityFramework@2.5.0
+- pkg:nuget/Codehard.Functional.EntityFramework@2.5.0-rc1
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0-preview-1
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0-preview-2
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0-preview-3
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0-preview-4
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0-preview-5
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0-preview-6
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0-preview-7
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.0-preview-8
+- pkg:nuget/Codehard.Functional.EntityFramework@3.0.1

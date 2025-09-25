@@ -1,0 +1,11 @@
+- pkg:nuget/dotnet-fantomas@2.7.0
+- pkg:nuget/dotnet-fantomas@2.7.1
+- pkg:nuget/dotnet-fantomas@2.8.0
+- pkg:nuget/dotnet-fantomas@2.8.1
+- pkg:nuget/dotnet-fantomas@2.9.0
+- pkg:nuget/dotnet-fantomas@2.9.1
+- pkg:nuget/dotnet-fantomas@2.9.2
+- pkg:nuget/dotnet-fantomas@3.0.0-beta-001
+- pkg:nuget/dotnet-fantomas@3.0.0-beta-002
+- pkg:nuget/dotnet-fantomas@3.0.0-beta-003
+- pkg:nuget/dotnet-fantomas@3.0.0-beta-004

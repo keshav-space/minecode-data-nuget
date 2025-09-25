@@ -1,0 +1,10 @@
+- pkg:nuget/AspNetCore.Authentication.ApiKey@2.2.0
+- pkg:nuget/AspNetCore.Authentication.ApiKey@3.1.0
+- pkg:nuget/AspNetCore.Authentication.ApiKey@3.1.1
+- pkg:nuget/AspNetCore.Authentication.ApiKey@5.0.0
+- pkg:nuget/AspNetCore.Authentication.ApiKey@5.1.0
+- pkg:nuget/AspNetCore.Authentication.ApiKey@6.0.1
+- pkg:nuget/AspNetCore.Authentication.ApiKey@7.0.0
+- pkg:nuget/AspNetCore.Authentication.ApiKey@8.0.0
+- pkg:nuget/AspNetCore.Authentication.ApiKey@8.0.1
+- pkg:nuget/AspNetCore.Authentication.ApiKey@9.0.0

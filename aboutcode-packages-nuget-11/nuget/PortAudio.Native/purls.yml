@@ -1,0 +1,4 @@
+- pkg:nuget/PortAudio.Native@19.7.0%2B20240826110741
+- pkg:nuget/PortAudio.Native@19.7.0-build20240826111929
+- pkg:nuget/PortAudio.Native@19.7.0-build20240827003614
+- pkg:nuget/PortAudio.Native@19.7.0-build20240827150131

@@ -1,0 +1,6 @@
+- pkg:nuget/Gohopo.GitVersion@0.2.4.19%2Bsha.729d576
+- pkg:nuget/Gohopo.GitVersion@0.3.0.7%2Bsha.acadf5a
+- pkg:nuget/Gohopo.GitVersion@0.3.1%2B0-sha.6646cdb-azdo.6945368410
+- pkg:nuget/Gohopo.GitVersion@0.3.2%2B0-sha.812b5dd-azdo.6969945807
+- pkg:nuget/Gohopo.GitVersion@0.3.3%2B0-sha.3c227fc-azdo.6970262469
+- pkg:nuget/Gohopo.GitVersion@0.3.5%2B0-sha.ad81737-azdo.7422569003

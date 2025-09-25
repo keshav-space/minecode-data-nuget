@@ -1,0 +1,11 @@
+- pkg:nuget/sqlstresscmd@0.9.11
+- pkg:nuget/sqlstresscmd@0.9.12
+- pkg:nuget/sqlstresscmd@0.9.14
+- pkg:nuget/sqlstresscmd@0.9.15
+- pkg:nuget/sqlstresscmd@0.9.16
+- pkg:nuget/sqlstresscmd@0.9.17
+- pkg:nuget/sqlstresscmd@0.9.18
+- pkg:nuget/sqlstresscmd@0.9.19
+- pkg:nuget/sqlstresscmd@0.9.20
+- pkg:nuget/sqlstresscmd@0.9.8
+- pkg:nuget/sqlstresscmd@0.9.9

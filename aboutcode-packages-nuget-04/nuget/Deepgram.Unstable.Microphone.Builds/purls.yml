@@ -1,0 +1,10 @@
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.0.0-alpha.4
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.0.0-alpha.5
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.0.0-beta.1
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.0.0-beta.2
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.0.0-beta.3
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.0.0-rc.1
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.0.0-rc.2
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.0.0-rc.3
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.3.0-beta.1
+- pkg:nuget/Deepgram.Unstable.Microphone.Builds@4.5.0-dev.1

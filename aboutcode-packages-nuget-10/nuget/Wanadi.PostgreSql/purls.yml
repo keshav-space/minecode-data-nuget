@@ -1,0 +1,15 @@
+- pkg:nuget/Wanadi.PostgreSql@8.0.0
+- pkg:nuget/Wanadi.PostgreSql@8.0.1
+- pkg:nuget/Wanadi.PostgreSql@8.0.10
+- pkg:nuget/Wanadi.PostgreSql@8.0.2
+- pkg:nuget/Wanadi.PostgreSql@8.0.3
+- pkg:nuget/Wanadi.PostgreSql@8.0.4
+- pkg:nuget/Wanadi.PostgreSql@8.0.5
+- pkg:nuget/Wanadi.PostgreSql@8.0.6
+- pkg:nuget/Wanadi.PostgreSql@8.0.7
+- pkg:nuget/Wanadi.PostgreSql@8.0.8
+- pkg:nuget/Wanadi.PostgreSql@8.0.9
+- pkg:nuget/Wanadi.PostgreSql@8.1.0
+- pkg:nuget/Wanadi.PostgreSql@8.2.0
+- pkg:nuget/Wanadi.PostgreSql@8.2.1
+- pkg:nuget/Wanadi.PostgreSql@8.2.2

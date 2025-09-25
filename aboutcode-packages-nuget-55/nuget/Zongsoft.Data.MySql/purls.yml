@@ -1,0 +1,17 @@
+- pkg:nuget/Zongsoft.Data.MySql@5.1.0
+- pkg:nuget/Zongsoft.Data.MySql@6.0.0
+- pkg:nuget/Zongsoft.Data.MySql@6.2.0
+- pkg:nuget/Zongsoft.Data.MySql@6.3.0
+- pkg:nuget/Zongsoft.Data.MySql@6.3.1
+- pkg:nuget/Zongsoft.Data.MySql@6.3.3
+- pkg:nuget/Zongsoft.Data.MySql@6.4.0
+- pkg:nuget/Zongsoft.Data.MySql@6.5.0
+- pkg:nuget/Zongsoft.Data.MySql@6.6.0
+- pkg:nuget/Zongsoft.Data.MySql@6.6.1
+- pkg:nuget/Zongsoft.Data.MySql@6.7.0
+- pkg:nuget/Zongsoft.Data.MySql@6.8.0
+- pkg:nuget/Zongsoft.Data.MySql@6.8.1
+- pkg:nuget/Zongsoft.Data.MySql@7.0.0
+- pkg:nuget/Zongsoft.Data.MySql@7.1.0
+- pkg:nuget/Zongsoft.Data.MySql@7.2.0
+- pkg:nuget/Zongsoft.Data.MySql@7.3.0

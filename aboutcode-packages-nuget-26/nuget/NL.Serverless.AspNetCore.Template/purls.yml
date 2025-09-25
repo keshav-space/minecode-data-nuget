@@ -1,0 +1,14 @@
+- pkg:nuget/NL.Serverless.AspNetCore.Template@1.0.0
+- pkg:nuget/NL.Serverless.AspNetCore.Template@1.0.1
+- pkg:nuget/NL.Serverless.AspNetCore.Template@1.0.2
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.11
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.2
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.3
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.5
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.7
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.7.1
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.7.2
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.8
+- pkg:nuget/NL.Serverless.AspNetCore.Template@3.0.9
+- pkg:nuget/NL.Serverless.AspNetCore.Template@5.0.0
+- pkg:nuget/NL.Serverless.AspNetCore.Template@5.1.0

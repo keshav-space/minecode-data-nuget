@@ -1,0 +1,4 @@
+- pkg:nuget/RabbitVerse.Consuming.AspNetCore@1.0.1
+- pkg:nuget/RabbitVerse.Consuming.AspNetCore@1.0.1-alpha
+- pkg:nuget/RabbitVerse.Consuming.AspNetCore@1.0.1-alpha-2
+- pkg:nuget/RabbitVerse.Consuming.AspNetCore@1.0.1-alpha-3

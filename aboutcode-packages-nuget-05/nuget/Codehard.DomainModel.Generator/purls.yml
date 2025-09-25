@@ -1,0 +1,4 @@
+- pkg:nuget/Codehard.DomainModel.Generator@3.0.0
+- pkg:nuget/Codehard.DomainModel.Generator@3.0.0-preview-1
+- pkg:nuget/Codehard.DomainModel.Generator@3.0.0-preview-2
+- pkg:nuget/Codehard.DomainModel.Generator@3.0.0-preview-3

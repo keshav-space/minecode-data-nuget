@@ -1,0 +1,7 @@
+- pkg:nuget/Sumo.Data.Orm@4.0.0-beta
+- pkg:nuget/Sumo.Data.Orm@4.0.1-beta
+- pkg:nuget/Sumo.Data.Orm@4.1.0-beta
+- pkg:nuget/Sumo.Data.Orm@4.2.0-beta
+- pkg:nuget/Sumo.Data.Orm@4.2.1-beta
+- pkg:nuget/Sumo.Data.Orm@4.2.2-beta
+- pkg:nuget/Sumo.Data.Orm@5.0.0-beta

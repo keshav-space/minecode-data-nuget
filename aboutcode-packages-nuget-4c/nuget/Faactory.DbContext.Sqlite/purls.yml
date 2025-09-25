@@ -1,0 +1,6 @@
+- pkg:nuget/Faactory.DbContext.Sqlite@0.7.1
+- pkg:nuget/Faactory.DbContext.Sqlite@0.7.2
+- pkg:nuget/Faactory.DbContext.Sqlite@0.8.0
+- pkg:nuget/Faactory.DbContext.Sqlite@0.8.1
+- pkg:nuget/Faactory.DbContext.Sqlite@0.8.4
+- pkg:nuget/Faactory.DbContext.Sqlite@0.8.5

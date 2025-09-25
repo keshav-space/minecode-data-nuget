@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Automatic.Graph.Layout@0.7.0-beta
+- pkg:nuget/Microsoft.Automatic.Graph.Layout@1.0.0
+- pkg:nuget/Microsoft.Automatic.Graph.Layout@2.0.0
+- pkg:nuget/Microsoft.Automatic.Graph.Layout@2.0.1
+- pkg:nuget/Microsoft.Automatic.Graph.Layout@2.0.2

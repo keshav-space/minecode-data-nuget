@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.ConfigurationManager@1.0.0
+- pkg:nuget/AspNetCore.ConfigurationManager@2.2.0
+- pkg:nuget/AspNetCore.ConfigurationManager@3.1.10
+- pkg:nuget/AspNetCore.ConfigurationManager@5.0.0
+- pkg:nuget/AspNetCore.ConfigurationManager@5.0.1

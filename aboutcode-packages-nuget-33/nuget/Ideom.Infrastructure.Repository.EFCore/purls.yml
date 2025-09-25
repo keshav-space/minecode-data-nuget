@@ -1,0 +1,4 @@
+- pkg:nuget/Ideom.Infrastructure.Repository.EFCore@1.2.12
+- pkg:nuget/Ideom.Infrastructure.Repository.EFCore@1.2.13
+- pkg:nuget/Ideom.Infrastructure.Repository.EFCore@1.2.14
+- pkg:nuget/Ideom.Infrastructure.Repository.EFCore@1.2.15

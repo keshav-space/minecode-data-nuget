@@ -1,0 +1,9 @@
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.6.20104.2
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.6.20104.6
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.6.20104.7
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.7.19294.1-alpha
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.7.20109.1
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.8.0
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.8.0-preview1
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.8.0-preview2
+- pkg:nuget/XPlat.ApplicationModel.DataTransfer@1.8.1

@@ -1,0 +1,7 @@
+- pkg:nuget/ProgrammerAL.Analyzers.RequiredAuthAnalyzer@0.1.0-preview.12
+- pkg:nuget/ProgrammerAL.Analyzers.RequiredAuthAnalyzer@0.1.0-preview.14
+- pkg:nuget/ProgrammerAL.Analyzers.RequiredAuthAnalyzer@0.1.0-preview.16
+- pkg:nuget/ProgrammerAL.Analyzers.RequiredAuthAnalyzer@0.1.0-preview.7
+- pkg:nuget/ProgrammerAL.Analyzers.RequiredAuthAnalyzer@0.1.0-preview.9
+- pkg:nuget/ProgrammerAL.Analyzers.RequiredAuthAnalyzer@1.0.0.20
+- pkg:nuget/ProgrammerAL.Analyzers.RequiredAuthAnalyzer@1.0.1.23

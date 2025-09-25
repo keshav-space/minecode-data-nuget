@@ -1,0 +1,11 @@
+- pkg:nuget/CliAppBuilder@0.1.0-ci.380474362
+- pkg:nuget/CliAppBuilder@0.1.1-ci-380475916
+- pkg:nuget/CliAppBuilder@0.2.0-alpha%2BCiBuildId
+- pkg:nuget/CliAppBuilder@0.2.1-alpha
+- pkg:nuget/CliAppBuilder@0.2.2-alpha-ci35
+- pkg:nuget/CliAppBuilder@0.2.2-alpha-ci38
+- pkg:nuget/CliAppBuilder@0.2.2-alpha-ci43
+- pkg:nuget/CliAppBuilder@0.2.2-alpha-ci47
+- pkg:nuget/CliAppBuilder@0.3.0
+- pkg:nuget/CliAppBuilder@0.4.0
+- pkg:nuget/CliAppBuilder@0.4.1

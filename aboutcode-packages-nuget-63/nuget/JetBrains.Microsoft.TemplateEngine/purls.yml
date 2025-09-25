@@ -1,0 +1,5 @@
+- pkg:nuget/JetBrains.Microsoft.TemplateEngine@20171128.0.1
+- pkg:nuget/JetBrains.Microsoft.TemplateEngine@20180520.0.1
+- pkg:nuget/JetBrains.Microsoft.TemplateEngine@20191031.0.1
+- pkg:nuget/JetBrains.Microsoft.TemplateEngine@20210621.204235.0
+- pkg:nuget/JetBrains.Microsoft.TemplateEngine@20211110.131557.0
