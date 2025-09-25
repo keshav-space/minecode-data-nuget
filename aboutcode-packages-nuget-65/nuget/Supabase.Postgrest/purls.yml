@@ -1,0 +1,5 @@
+- pkg:nuget/Supabase.Postgrest@4.0.0
+- pkg:nuget/Supabase.Postgrest@4.0.1
+- pkg:nuget/Supabase.Postgrest@4.0.2
+- pkg:nuget/Supabase.Postgrest@4.0.3
+- pkg:nuget/Supabase.Postgrest@4.1.0

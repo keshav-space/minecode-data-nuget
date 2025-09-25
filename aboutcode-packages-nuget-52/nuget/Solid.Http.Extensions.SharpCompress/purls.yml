@@ -1,0 +1,4 @@
+- pkg:nuget/Solid.Http.Extensions.SharpCompress@1.0.0
+- pkg:nuget/Solid.Http.Extensions.SharpCompress@1.0.0-CI00006
+- pkg:nuget/Solid.Http.Extensions.SharpCompress@1.0.7
+- pkg:nuget/Solid.Http.Extensions.SharpCompress@1.0.8

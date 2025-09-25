@@ -1,0 +1,4 @@
+- pkg:nuget/Cake.Deploy.Bot.LUIS@0.0.1
+- pkg:nuget/Cake.Deploy.Bot.LUIS@0.0.1.1
+- pkg:nuget/Cake.Deploy.Bot.LUIS@0.0.1.2
+- pkg:nuget/Cake.Deploy.Bot.LUIS@0.0.1.4

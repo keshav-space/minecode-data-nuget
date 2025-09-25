@@ -1,0 +1,4 @@
+- pkg:nuget/Transformalize.Provider.MySql.Autofac@0.3.4-beta
+- pkg:nuget/Transformalize.Provider.MySql.Autofac@0.3.5-beta
+- pkg:nuget/Transformalize.Provider.MySql.Autofac@0.4.0-beta
+- pkg:nuget/Transformalize.Provider.MySql.Autofac@0.6.31-beta

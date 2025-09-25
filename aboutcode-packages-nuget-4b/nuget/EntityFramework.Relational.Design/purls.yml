@@ -1,0 +1,6 @@
+- pkg:nuget/EntityFramework.Relational.Design@7.0.0-beta4
+- pkg:nuget/EntityFramework.Relational.Design@7.0.0-beta5
+- pkg:nuget/EntityFramework.Relational.Design@7.0.0-beta6
+- pkg:nuget/EntityFramework.Relational.Design@7.0.0-beta7
+- pkg:nuget/EntityFramework.Relational.Design@7.0.0-beta8
+- pkg:nuget/EntityFramework.Relational.Design@7.0.0-rc1-final

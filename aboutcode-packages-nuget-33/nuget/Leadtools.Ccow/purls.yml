@@ -1,0 +1,16 @@
+- pkg:nuget/Leadtools.Ccow@20.0.0
+- pkg:nuget/Leadtools.Ccow@20.0.0.1
+- pkg:nuget/Leadtools.Ccow@20.0.0.2
+- pkg:nuget/Leadtools.Ccow@20.0.0.3
+- pkg:nuget/Leadtools.Ccow@20.0.0.4
+- pkg:nuget/Leadtools.Ccow@20.0.0.5
+- pkg:nuget/Leadtools.Ccow@20.0.0.6
+- pkg:nuget/Leadtools.Ccow@20.0.0.7
+- pkg:nuget/Leadtools.Ccow@20.0.0.8
+- pkg:nuget/Leadtools.Ccow@21.0.0.1
+- pkg:nuget/Leadtools.Ccow@21.0.0.2
+- pkg:nuget/Leadtools.Ccow@22.0.0.1
+- pkg:nuget/Leadtools.Ccow@22.0.0.2
+- pkg:nuget/Leadtools.Ccow@22.0.0.3
+- pkg:nuget/Leadtools.Ccow@22.0.0.4
+- pkg:nuget/Leadtools.Ccow@22.0.0.5

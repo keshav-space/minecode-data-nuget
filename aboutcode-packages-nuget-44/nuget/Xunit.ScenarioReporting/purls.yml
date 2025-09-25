@@ -1,0 +1,11 @@
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-alpha-3
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-beta.4
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-beta1
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-beta2
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-beta3
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-rc.1
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-rc.2
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-rc.3
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-rc.4
+- pkg:nuget/Xunit.ScenarioReporting@1.0.0-rc.5

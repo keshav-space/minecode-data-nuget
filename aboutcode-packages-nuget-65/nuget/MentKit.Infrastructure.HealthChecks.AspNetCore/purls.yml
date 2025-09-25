@@ -1,0 +1,2 @@
+- pkg:nuget/MentKit.Infrastructure.HealthChecks.AspNetCore@3.0.0
+- pkg:nuget/MentKit.Infrastructure.HealthChecks.AspNetCore@4.0.0

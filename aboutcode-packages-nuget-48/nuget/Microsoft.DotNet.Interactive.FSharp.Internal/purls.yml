@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.DotNet.Interactive.FSharp.Internal@1.0.0-beta.20426.1
+- pkg:nuget/Microsoft.DotNet.Interactive.FSharp.Internal@1.0.0-beta.20475.1
+- pkg:nuget/Microsoft.DotNet.Interactive.FSharp.Internal@1.0.0-beta.20480.3
+- pkg:nuget/Microsoft.DotNet.Interactive.FSharp.Internal@1.0.0-beta.20553.2

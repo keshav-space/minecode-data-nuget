@@ -1,0 +1,7 @@
+- pkg:nuget/Elmah.AspNetCore.StackExchange.Redis@0.0.0-preview.0.139
+- pkg:nuget/Elmah.AspNetCore.StackExchange.Redis@1.0.0
+- pkg:nuget/Elmah.AspNetCore.StackExchange.Redis@1.0.1
+- pkg:nuget/Elmah.AspNetCore.StackExchange.Redis@1.0.2
+- pkg:nuget/Elmah.AspNetCore.StackExchange.Redis@1.0.3
+- pkg:nuget/Elmah.AspNetCore.StackExchange.Redis@1.1.0
+- pkg:nuget/Elmah.AspNetCore.StackExchange.Redis@1.1.1

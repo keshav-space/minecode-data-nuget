@@ -1,0 +1,13 @@
+- pkg:nuget/ClientKeyMaker@1.0.0
+- pkg:nuget/ClientKeyMaker@2.0.0
+- pkg:nuget/ClientKeyMaker@2.1.0
+- pkg:nuget/ClientKeyMaker@2.3.0
+- pkg:nuget/ClientKeyMaker@2.4.0
+- pkg:nuget/ClientKeyMaker@2.5.1
+- pkg:nuget/ClientKeyMaker@2.6.0
+- pkg:nuget/ClientKeyMaker@2.7.0
+- pkg:nuget/ClientKeyMaker@3.0.0
+- pkg:nuget/ClientKeyMaker@3.1.0
+- pkg:nuget/ClientKeyMaker@4.0.0
+- pkg:nuget/ClientKeyMaker@4.1.0
+- pkg:nuget/ClientKeyMaker@4.2.0

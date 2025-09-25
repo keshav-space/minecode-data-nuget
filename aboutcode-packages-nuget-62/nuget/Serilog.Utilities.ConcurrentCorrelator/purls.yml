@@ -1,0 +1,6 @@
+- pkg:nuget/Serilog.Utilities.ConcurrentCorrelator@1.0.0
+- pkg:nuget/Serilog.Utilities.ConcurrentCorrelator@1.0.1.5
+- pkg:nuget/Serilog.Utilities.ConcurrentCorrelator@1.0.1.7
+- pkg:nuget/Serilog.Utilities.ConcurrentCorrelator@1.0.1.9
+- pkg:nuget/Serilog.Utilities.ConcurrentCorrelator@2.0.0.13
+- pkg:nuget/Serilog.Utilities.ConcurrentCorrelator@2.0.0.15

@@ -1,0 +1,6 @@
+- pkg:nuget/ModuleConfigurations.SDK@2024.0.0-dev001
+- pkg:nuget/ModuleConfigurations.SDK@2024.0.0-rc001
+- pkg:nuget/ModuleConfigurations.SDK@2024.0.0-rc002
+- pkg:nuget/ModuleConfigurations.SDK@2024.0.0-rc003
+- pkg:nuget/ModuleConfigurations.SDK@2024.0.0-rc004
+- pkg:nuget/ModuleConfigurations.SDK@2024.0.0-rc005

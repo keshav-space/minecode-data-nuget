@@ -1,0 +1,5 @@
+- pkg:nuget/JetBrains.DotNetCore.DbgShim.windows-arm64@6.0.20220228.9
+- pkg:nuget/JetBrains.DotNetCore.DbgShim.windows-arm64@6.0.20220312.10
+- pkg:nuget/JetBrains.DotNetCore.DbgShim.windows-arm64@6.0.20220531.16
+- pkg:nuget/JetBrains.DotNetCore.DbgShim.windows-arm64@6.0.20220615.17
+- pkg:nuget/JetBrains.DotNetCore.DbgShim.windows-arm64@6.0.20220811.19

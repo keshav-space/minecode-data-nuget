@@ -1,0 +1,3 @@
+- pkg:nuget/Dorssel.EntityFrameworkCore.Sqlite.Timestamp@8.0.0
+- pkg:nuget/Dorssel.EntityFrameworkCore.Sqlite.Timestamp@8.0.1
+- pkg:nuget/Dorssel.EntityFrameworkCore.Sqlite.Timestamp@8.0.2

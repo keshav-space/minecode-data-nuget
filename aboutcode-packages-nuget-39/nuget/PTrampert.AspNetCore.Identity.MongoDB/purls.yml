@@ -1,0 +1,13 @@
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@1.0.0
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@1.1.0
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@1.1.1
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@2.0.0
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@2.0.1
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@2.0.2
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@2.0.3
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@3.0.0
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@3.0.1
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@3.0.2
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@3.0.3
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@4.0.0
+- pkg:nuget/PTrampert.AspNetCore.Identity.MongoDB@4.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/RUA.ServiceBus.Client@1.1.1
+- pkg:nuget/RUA.ServiceBus.Client@3.3.13
+- pkg:nuget/RUA.ServiceBus.Client@3.3.14
+- pkg:nuget/RUA.ServiceBus.Client@3.3.2
+- pkg:nuget/RUA.ServiceBus.Client@3.3.5

@@ -1,0 +1,14 @@
+- pkg:nuget/WebApi.Hal@1.0.0
+- pkg:nuget/WebApi.Hal@2.0.0.5
+- pkg:nuget/WebApi.Hal@2.1.0.14
+- pkg:nuget/WebApi.Hal@2.2.0.16
+- pkg:nuget/WebApi.Hal@2.2.0.18
+- pkg:nuget/WebApi.Hal@2.3.0
+- pkg:nuget/WebApi.Hal@2.4.0
+- pkg:nuget/WebApi.Hal@2.5.0
+- pkg:nuget/WebApi.Hal@2.5.1
+- pkg:nuget/WebApi.Hal@2.6.0
+- pkg:nuget/WebApi.Hal@3.0.0
+- pkg:nuget/WebApi.Hal@3.1.0
+- pkg:nuget/WebApi.Hal@4.0.1
+- pkg:nuget/WebApi.Hal@8.0.0-prerelease

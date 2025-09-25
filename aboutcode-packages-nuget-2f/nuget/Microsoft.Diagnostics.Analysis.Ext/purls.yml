@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Diagnostics.Analysis.Ext@10.240307.212707-REL-2403-52
+- pkg:nuget/Microsoft.Diagnostics.Analysis.Ext@10.240507.175259-REL-2405-11
+- pkg:nuget/Microsoft.Diagnostics.Analysis.Ext@10.240607.233526-REL-2406-32
+- pkg:nuget/Microsoft.Diagnostics.Analysis.Ext@10.250610.170747-REL-2506-61
+- pkg:nuget/Microsoft.Diagnostics.Analysis.Ext@10.250627.230317-REL-2506-231

@@ -1,0 +1,9 @@
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.0.0
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.0.0.1
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.0.1
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.1.0
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.1.1
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.1.2
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.1.4
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.1.5
+- pkg:nuget/Orleans.EventSourcing.Couchbase@1.1.5.1

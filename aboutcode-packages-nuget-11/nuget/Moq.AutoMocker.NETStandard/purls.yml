@@ -1,0 +1,4 @@
+- pkg:nuget/Moq.AutoMocker.NETStandard@0.5.0.6
+- pkg:nuget/Moq.AutoMocker.NETStandard@0.5.0.7
+- pkg:nuget/Moq.AutoMocker.NETStandard@0.5.0.8
+- pkg:nuget/Moq.AutoMocker.NETStandard@0.5.0.9

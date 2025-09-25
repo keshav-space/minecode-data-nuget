@@ -1,0 +1,12 @@
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@6.0.0-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.0.0-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.0.1-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.0.2-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.0.3-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.0.4-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.0.5-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.0.6-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.1.0-rc.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.1.1
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.1.2
+- pkg:nuget/MWSDistributedResponseCachingMiddleware@9.1.2-beta

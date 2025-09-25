@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Bot.Expressions@4.6.0-preview2
+- pkg:nuget/Microsoft.Bot.Expressions@4.6.1-preview
+- pkg:nuget/Microsoft.Bot.Expressions@4.6.2-preview
+- pkg:nuget/Microsoft.Bot.Expressions@4.6.3-preview
+- pkg:nuget/Microsoft.Bot.Expressions@4.6.4-preview
+- pkg:nuget/Microsoft.Bot.Expressions@4.7.0-preview
+- pkg:nuget/Microsoft.Bot.Expressions@4.7.1-preview
+- pkg:nuget/Microsoft.Bot.Expressions@4.7.2-preview
+- pkg:nuget/Microsoft.Bot.Expressions@4.7.3-preview

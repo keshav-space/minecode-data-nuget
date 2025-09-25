@@ -1,0 +1,2 @@
+- pkg:nuget/SemanticKernel.Assistants.Ollama@0.0.1-alpha
+- pkg:nuget/SemanticKernel.Assistants.Ollama@1.2.0-preview

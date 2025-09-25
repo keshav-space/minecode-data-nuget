@@ -1,0 +1,16 @@
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.13-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.14-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.15-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.17-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.19-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.2-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.22-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.24-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.29-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.30-beta
+- pkg:nuget/Icu4c.Win.Fw.Bin@54.1.31
+- pkg:nuget/Icu4c.Win.Fw.Bin@70.1.123
+- pkg:nuget/Icu4c.Win.Fw.Bin@70.1.149
+- pkg:nuget/Icu4c.Win.Fw.Bin@70.1.152
+- pkg:nuget/Icu4c.Win.Fw.Bin@70.1.153
+- pkg:nuget/Icu4c.Win.Fw.Bin@70.1.47

@@ -1,0 +1,15 @@
+- pkg:nuget/Audis.Analyzer.Common@1.0.0
+- pkg:nuget/Audis.Analyzer.Common@1.0.1
+- pkg:nuget/Audis.Analyzer.Common@2.0.0
+- pkg:nuget/Audis.Analyzer.Common@2.0.1
+- pkg:nuget/Audis.Analyzer.Common@3.0.0
+- pkg:nuget/Audis.Analyzer.Common@3.0.1
+- pkg:nuget/Audis.Analyzer.Common@4.0.0
+- pkg:nuget/Audis.Analyzer.Common@5.0.0
+- pkg:nuget/Audis.Analyzer.Common@5.1.0
+- pkg:nuget/Audis.Analyzer.Common@5.2.0
+- pkg:nuget/Audis.Analyzer.Common@5.2.1
+- pkg:nuget/Audis.Analyzer.Common@6.0.0
+- pkg:nuget/Audis.Analyzer.Common@6.0.1
+- pkg:nuget/Audis.Analyzer.Common@6.1.0
+- pkg:nuget/Audis.Analyzer.Common@7.0.0

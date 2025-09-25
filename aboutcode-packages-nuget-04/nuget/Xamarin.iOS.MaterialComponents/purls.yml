@@ -1,0 +1,16 @@
+- pkg:nuget/Xamarin.iOS.MaterialComponents@30.0.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@31.0.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@31.0.1
+- pkg:nuget/Xamarin.iOS.MaterialComponents@31.0.2
+- pkg:nuget/Xamarin.iOS.MaterialComponents@34.0.1
+- pkg:nuget/Xamarin.iOS.MaterialComponents@35.0.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@35.1.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@35.2.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@39.0.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@60.1.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@72.2.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@72.2.0.1
+- pkg:nuget/Xamarin.iOS.MaterialComponents@92.0.0
+- pkg:nuget/Xamarin.iOS.MaterialComponents@92.0.0-rc1
+- pkg:nuget/Xamarin.iOS.MaterialComponents@92.0.0-rc2
+- pkg:nuget/Xamarin.iOS.MaterialComponents@92.0.0-rc3

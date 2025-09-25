@@ -1,0 +1,16 @@
+- pkg:nuget/cx.DataAccess.Base@1.0.0
+- pkg:nuget/cx.DataAccess.Base@1.1.0
+- pkg:nuget/cx.DataAccess.Base@2.0.0
+- pkg:nuget/cx.DataAccess.Base@2.1.0
+- pkg:nuget/cx.DataAccess.Base@2.2.0
+- pkg:nuget/cx.DataAccess.Base@2.3.0
+- pkg:nuget/cx.DataAccess.Base@2.3.1
+- pkg:nuget/cx.DataAccess.Base@2.3.2
+- pkg:nuget/cx.DataAccess.Base@8.0.0
+- pkg:nuget/cx.DataAccess.Base@8.0.1
+- pkg:nuget/cx.DataAccess.Base@8.0.2
+- pkg:nuget/cx.DataAccess.Base@8.0.3
+- pkg:nuget/cx.DataAccess.Base@8.0.5
+- pkg:nuget/cx.DataAccess.Base@8.0.6
+- pkg:nuget/cx.DataAccess.Base@8.0.7
+- pkg:nuget/cx.DataAccess.Base@8.0.8

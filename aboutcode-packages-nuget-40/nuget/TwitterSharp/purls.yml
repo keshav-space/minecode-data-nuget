@@ -1,0 +1,17 @@
+- pkg:nuget/TwitterSharp@0.0.0-alpha
+- pkg:nuget/TwitterSharp@0.1.0-alpha
+- pkg:nuget/TwitterSharp@0.2.0-alpha
+- pkg:nuget/TwitterSharp@1.0.0
+- pkg:nuget/TwitterSharp@1.0.1
+- pkg:nuget/TwitterSharp@1.1.0
+- pkg:nuget/TwitterSharp@1.1.1
+- pkg:nuget/TwitterSharp@1.2.0
+- pkg:nuget/TwitterSharp@1.3.0
+- pkg:nuget/TwitterSharp@1.4.0
+- pkg:nuget/TwitterSharp@1.5.0
+- pkg:nuget/TwitterSharp@1.6.0
+- pkg:nuget/TwitterSharp@2.0.0
+- pkg:nuget/TwitterSharp@2.1.0
+- pkg:nuget/TwitterSharp@2.2.0
+- pkg:nuget/TwitterSharp@2.3.0
+- pkg:nuget/TwitterSharp@2.4.0

@@ -1,0 +1,12 @@
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-alpha1
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-alpha2
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-alpha3
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-alpha4
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-alpha5
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-beta01
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-beta02
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-beta03
+- pkg:nuget/DotNetEtl.SqlServer@1.0.0-beta04
+- pkg:nuget/DotNetEtl.SqlServer@2.0.0
+- pkg:nuget/DotNetEtl.SqlServer@2.1.0

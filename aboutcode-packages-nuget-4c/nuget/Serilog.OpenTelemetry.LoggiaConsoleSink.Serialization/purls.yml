@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.OpenTelemetry.LoggiaConsoleSink.Serialization@2.0.0

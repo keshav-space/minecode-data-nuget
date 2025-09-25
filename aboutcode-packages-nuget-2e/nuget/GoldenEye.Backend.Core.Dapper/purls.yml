@@ -1,0 +1,15 @@
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@1.0.0
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@1.0.1
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@1.0.2
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@2.0.0
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@3.0.0
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@3.0.1
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@4.0.0
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@5.0.0
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@5.1.0
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@6.0.0
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@6.1.0
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@7.0.0-alpha1
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@7.0.0-alpha2
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@7.0.0-alpha3
+- pkg:nuget/GoldenEye.Backend.Core.Dapper@8.0.0

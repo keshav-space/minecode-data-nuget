@@ -1,0 +1,17 @@
+- pkg:nuget/wisecons.sdk.aws@1.100.6
+- pkg:nuget/wisecons.sdk.aws@1.101.1
+- pkg:nuget/wisecons.sdk.aws@1.101.2
+- pkg:nuget/wisecons.sdk.aws@1.301.1
+- pkg:nuget/wisecons.sdk.aws@1.301.2
+- pkg:nuget/wisecons.sdk.aws@1.302.1
+- pkg:nuget/wisecons.sdk.aws@1.303.10
+- pkg:nuget/wisecons.sdk.aws@1.304.1
+- pkg:nuget/wisecons.sdk.aws@1.305.1
+- pkg:nuget/wisecons.sdk.aws@1.306.1
+- pkg:nuget/wisecons.sdk.aws@1.306.3
+- pkg:nuget/wisecons.sdk.aws@1.306.4
+- pkg:nuget/wisecons.sdk.aws@1.307.1
+- pkg:nuget/wisecons.sdk.aws@1.308.1
+- pkg:nuget/wisecons.sdk.aws@2.0.0
+- pkg:nuget/wisecons.sdk.aws@2.1.2
+- pkg:nuget/wisecons.sdk.aws@3.112.1

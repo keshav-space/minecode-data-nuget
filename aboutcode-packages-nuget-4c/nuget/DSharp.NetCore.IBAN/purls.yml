@@ -1,0 +1,5 @@
+- pkg:nuget/DSharp.NetCore.IBAN@5.2.206.1733
+- pkg:nuget/DSharp.NetCore.IBAN@6.0.402.2329
+- pkg:nuget/DSharp.NetCore.IBAN@6.0.403.1658
+- pkg:nuget/DSharp.NetCore.IBAN@6.0.608
+- pkg:nuget/DSharp.NetCore.IBAN@6.0.610

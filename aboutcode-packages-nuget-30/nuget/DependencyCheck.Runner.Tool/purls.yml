@@ -1,0 +1,5 @@
+- pkg:nuget/DependencyCheck.Runner.Tool@3.1.0
+- pkg:nuget/DependencyCheck.Runner.Tool@3.1.1
+- pkg:nuget/DependencyCheck.Runner.Tool@3.1.2
+- pkg:nuget/DependencyCheck.Runner.Tool@3.2.0
+- pkg:nuget/DependencyCheck.Runner.Tool@3.2.1

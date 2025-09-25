@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@1.0.0
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@1.0.0-preview
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@1.0.0-preview2
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@1.0.0-preview3
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@1.0.1
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@1.0.2
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@2.0.0
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@2.0.0-beta
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@2.0.0-rc
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@3.0.0
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@3.0.0-preview1
+- pkg:nuget/Microsoft.Configuration.ConfigurationBuilders.Base@3.0.0-preview2

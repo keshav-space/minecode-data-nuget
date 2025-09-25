@@ -1,0 +1,10 @@
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.0.0
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.0.1
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.1.1
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.1.1-ci0001
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.2.0
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.3.0
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.4.0
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.5.0
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.6.1
+- pkg:nuget/NatMarchand.OpenApiSourceGenerator@0.6.2

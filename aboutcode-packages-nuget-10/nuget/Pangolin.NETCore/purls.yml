@@ -1,0 +1,9 @@
+- pkg:nuget/Pangolin.NETCore@1.0.0-prerelease
+- pkg:nuget/Pangolin.NETCore@1.0.1-prerelease
+- pkg:nuget/Pangolin.NETCore@1.0.2-prerelease
+- pkg:nuget/Pangolin.NETCore@1.0.3-prerelease
+- pkg:nuget/Pangolin.NETCore@1.0.4-prerelease
+- pkg:nuget/Pangolin.NETCore@1.0.5-prerelease
+- pkg:nuget/Pangolin.NETCore@1.0.6
+- pkg:nuget/Pangolin.NETCore@1.0.7
+- pkg:nuget/Pangolin.NETCore@1.0.8

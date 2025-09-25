@@ -1,0 +1,14 @@
+- pkg:nuget/Light.Abp.AuditLogging.Application@1.0.0
+- pkg:nuget/Light.Abp.AuditLogging.Application@2.2.1
+- pkg:nuget/Light.Abp.AuditLogging.Application@2.3.0
+- pkg:nuget/Light.Abp.AuditLogging.Application@2.3.1
+- pkg:nuget/Light.Abp.AuditLogging.Application@2.4.0
+- pkg:nuget/Light.Abp.AuditLogging.Application@2.7.0
+- pkg:nuget/Light.Abp.AuditLogging.Application@3.0.4
+- pkg:nuget/Light.Abp.AuditLogging.Application@3.1.2
+- pkg:nuget/Light.Abp.AuditLogging.Application@4.0.0
+- pkg:nuget/Light.Abp.AuditLogging.Application@5.3.3
+- pkg:nuget/Light.Abp.AuditLogging.Application@6.0.1
+- pkg:nuget/Light.Abp.AuditLogging.Application@7.1.1
+- pkg:nuget/Light.Abp.AuditLogging.Application@7.3.0
+- pkg:nuget/Light.Abp.AuditLogging.Application@7.4.0

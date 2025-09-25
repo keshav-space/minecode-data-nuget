@@ -1,0 +1,17 @@
+- pkg:nuget/RasterEdge.Core.Web@12.2.0.1
+- pkg:nuget/RasterEdge.Core.Web@12.2.0.1-alpha
+- pkg:nuget/RasterEdge.Core.Web@12.2.0.1-rc1
+- pkg:nuget/RasterEdge.Core.Web@12.3.0.1
+- pkg:nuget/RasterEdge.Core.Web@12.3.0.2
+- pkg:nuget/RasterEdge.Core.Web@12.3.0.3
+- pkg:nuget/RasterEdge.Core.Web@12.3.1.1
+- pkg:nuget/RasterEdge.Core.Web@12.3.2.1
+- pkg:nuget/RasterEdge.Core.Web@12.3.2.2
+- pkg:nuget/RasterEdge.Core.Web@12.3.3
+- pkg:nuget/RasterEdge.Core.Web@12.3.3.1
+- pkg:nuget/RasterEdge.Core.Web@12.3.3.2
+- pkg:nuget/RasterEdge.Core.Web@12.3.4
+- pkg:nuget/RasterEdge.Core.Web@12.3.5
+- pkg:nuget/RasterEdge.Core.Web@12.3.5.10
+- pkg:nuget/RasterEdge.Core.Web@12.3.6
+- pkg:nuget/RasterEdge.Core.Web@12.3.7

@@ -1,0 +1,4 @@
+- pkg:nuget/Byndyusoft.Logging.OpenTelemetry@2.0.0
+- pkg:nuget/Byndyusoft.Logging.OpenTelemetry@3.0.0
+- pkg:nuget/Byndyusoft.Logging.OpenTelemetry@3.0.1
+- pkg:nuget/Byndyusoft.Logging.OpenTelemetry@3.0.1-tags-v3.0.1-alpha

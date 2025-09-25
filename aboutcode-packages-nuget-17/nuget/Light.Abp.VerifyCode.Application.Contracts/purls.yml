@@ -1,0 +1,6 @@
+- pkg:nuget/Light.Abp.VerifyCode.Application.Contracts@2.2.1
+- pkg:nuget/Light.Abp.VerifyCode.Application.Contracts@2.3.0
+- pkg:nuget/Light.Abp.VerifyCode.Application.Contracts@2.3.1
+- pkg:nuget/Light.Abp.VerifyCode.Application.Contracts@2.4.0
+- pkg:nuget/Light.Abp.VerifyCode.Application.Contracts@2.7.0
+- pkg:nuget/Light.Abp.VerifyCode.Application.Contracts@3.0.4

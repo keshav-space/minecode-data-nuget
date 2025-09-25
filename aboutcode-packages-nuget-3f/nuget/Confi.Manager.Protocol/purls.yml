@@ -1,0 +1,17 @@
+- pkg:nuget/Confi.Manager.Protocol@2025.102.124.2-manager-nuget
+- pkg:nuget/Confi.Manager.Protocol@2025.102.124.3
+- pkg:nuget/Confi.Manager.Protocol@2025.102.125.4-v0.4
+- pkg:nuget/Confi.Manager.Protocol@2025.105.113.6
+- pkg:nuget/Confi.Manager.Protocol@2025.105.114.7-v0.5
+- pkg:nuget/Confi.Manager.Protocol@2025.106.103.8-confi-manager-consumer-upload
+- pkg:nuget/Confi.Manager.Protocol@2025.106.103.9
+- pkg:nuget/Confi.Manager.Protocol@2025.106.104.10-v0.6
+- pkg:nuget/Confi.Manager.Protocol@2025.107.104.11
+- pkg:nuget/Confi.Manager.Protocol@2025.107.107.12
+- pkg:nuget/Confi.Manager.Protocol@2025.108.118.13-manger-app-versions-support
+- pkg:nuget/Confi.Manager.Protocol@2025.108.118.14-manger-app-versions-support
+- pkg:nuget/Confi.Manager.Protocol@2025.108.118.15
+- pkg:nuget/Confi.Manager.Protocol@2025.108.119.16-versioning-endpoints-update
+- pkg:nuget/Confi.Manager.Protocol@2025.108.119.17-versioning-endpoints-update
+- pkg:nuget/Confi.Manager.Protocol@2025.108.119.18-versioning-endpoints-update
+- pkg:nuget/Confi.Manager.Protocol@2025.108.119.19

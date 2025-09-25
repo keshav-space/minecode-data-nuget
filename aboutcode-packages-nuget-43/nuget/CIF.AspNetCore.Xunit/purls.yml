@@ -1,0 +1,4 @@
+- pkg:nuget/CIF.AspNetCore.Xunit@1.0.0
+- pkg:nuget/CIF.AspNetCore.Xunit@1.0.0-alpha
+- pkg:nuget/CIF.AspNetCore.Xunit@1.0.1
+- pkg:nuget/CIF.AspNetCore.Xunit@1.1.0

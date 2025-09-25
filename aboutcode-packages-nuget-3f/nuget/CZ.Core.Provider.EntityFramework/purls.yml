@@ -1,0 +1,5 @@
+- pkg:nuget/CZ.Core.Provider.EntityFramework@1.0.0
+- pkg:nuget/CZ.Core.Provider.EntityFramework@1.0.1
+- pkg:nuget/CZ.Core.Provider.EntityFramework@1.0.2
+- pkg:nuget/CZ.Core.Provider.EntityFramework@1.0.3
+- pkg:nuget/CZ.Core.Provider.EntityFramework@1.0.6

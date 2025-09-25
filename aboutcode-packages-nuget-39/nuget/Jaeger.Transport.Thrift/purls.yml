@@ -1,0 +1,2 @@
+- pkg:nuget/Jaeger.Transport.Thrift@0.0.8
+- pkg:nuget/Jaeger.Transport.Thrift@0.0.9

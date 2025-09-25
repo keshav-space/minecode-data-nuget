@@ -1,0 +1,6 @@
+- pkg:nuget/Rebus.AzureServiceBus.RebusPerQueueTopic@6.0.2
+- pkg:nuget/Rebus.AzureServiceBus.RebusPerQueueTopic@6.1.0
+- pkg:nuget/Rebus.AzureServiceBus.RebusPerQueueTopic@6.2.0
+- pkg:nuget/Rebus.AzureServiceBus.RebusPerQueueTopic@6.3.0
+- pkg:nuget/Rebus.AzureServiceBus.RebusPerQueueTopic@6.3.1
+- pkg:nuget/Rebus.AzureServiceBus.RebusPerQueueTopic@6.3.2

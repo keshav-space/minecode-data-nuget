@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.10-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.11-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.12-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.13-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.14-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.15-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.16-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.17-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.18-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.19-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.20-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.21-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.22-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.23-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.7-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.8-prerelease
+- pkg:nuget/Microsoft.Health.Fhir.Proxy.Core@0.9.9-prerelease

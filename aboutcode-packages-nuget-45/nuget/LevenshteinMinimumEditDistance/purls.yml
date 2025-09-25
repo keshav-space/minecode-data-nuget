@@ -1,0 +1,4 @@
+- pkg:nuget/LevenshteinMinimumEditDistance@0.9.0
+- pkg:nuget/LevenshteinMinimumEditDistance@1.0.0
+- pkg:nuget/LevenshteinMinimumEditDistance@1.1.0
+- pkg:nuget/LevenshteinMinimumEditDistance@1.2.0

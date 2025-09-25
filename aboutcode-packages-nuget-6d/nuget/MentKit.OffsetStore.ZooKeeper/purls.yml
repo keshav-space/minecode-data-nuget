@@ -1,0 +1,12 @@
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@0.1.0-alpha7
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@1.0.0
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@1.0.1
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@1.0.1-alpha01
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@1.0.2
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@1.0.3
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@1.0.4
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@1.1.1
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@1.1.2
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@2.0.0
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@3.0.0
+- pkg:nuget/MentKit.OffsetStore.ZooKeeper@4.0.0

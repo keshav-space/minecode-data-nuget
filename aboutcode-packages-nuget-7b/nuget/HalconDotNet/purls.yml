@@ -1,0 +1,15 @@
+- pkg:nuget/HalconDotNet@13.0.1.1
+- pkg:nuget/HalconDotNet@13.0.2
+- pkg:nuget/HalconDotNet@13.0.2.5
+- pkg:nuget/HalconDotNet@13.0.3
+- pkg:nuget/HalconDotNet@13.0.4
+- pkg:nuget/HalconDotNet@13.0.4-beta.1
+- pkg:nuget/HalconDotNet@17.12.0
+- pkg:nuget/HalconDotNet@18.11.0.1
+- pkg:nuget/HalconDotNet@18.11.1.1
+- pkg:nuget/HalconDotNet@18.11.2
+- pkg:nuget/HalconDotNet@18.11.3
+- pkg:nuget/HalconDotNet@18.5.0
+- pkg:nuget/HalconDotNet@18.5.0.2
+- pkg:nuget/HalconDotNet@19.11.0
+- pkg:nuget/HalconDotNet@19.5.0

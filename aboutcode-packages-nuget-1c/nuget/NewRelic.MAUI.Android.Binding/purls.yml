@@ -1,0 +1,15 @@
+- pkg:nuget/NewRelic.MAUI.Android.Binding@6.11.1
+- pkg:nuget/NewRelic.MAUI.Android.Binding@6.11.1.1
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.1.0
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.2.0
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.3.0
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.3.1
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.3.2
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.5.0
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.5.1
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.1
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.2
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.4
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.5
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.6
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.8

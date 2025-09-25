@@ -1,0 +1,3 @@
+- pkg:nuget/CacheCow.Server.Core@2.0.0-beta
+- pkg:nuget/CacheCow.Server.Core@2.0.0-beta2
+- pkg:nuget/CacheCow.Server.Core@2.0.0-preview

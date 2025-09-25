@@ -1,0 +1,14 @@
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.6.10
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.6.10.1
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.6.10.2
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.6.20
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.6.20.1
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.7.20
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.7.20.3
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.8.21
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.8.22
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.8.22.3
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.9.10
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.9.24
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@1.9.25
+- pkg:nuget/Org.Jetbrains.Kotlin.KotlinParcelizeRuntime@2.0.21

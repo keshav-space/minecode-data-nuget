@@ -1,0 +1,4 @@
+- pkg:nuget/Cake.WindowsAppStore@1.1.1
+- pkg:nuget/Cake.WindowsAppStore@1.3.0
+- pkg:nuget/Cake.WindowsAppStore@1.4.0
+- pkg:nuget/Cake.WindowsAppStore@2.0.0

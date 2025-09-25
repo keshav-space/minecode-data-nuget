@@ -1,0 +1,3 @@
+- pkg:nuget/IntervalTree@0.9.0-Alpha
+- pkg:nuget/IntervalTree@0.9.1-Alpha
+- pkg:nuget/IntervalTree@1.0.0

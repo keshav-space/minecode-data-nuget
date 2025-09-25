@@ -1,0 +1,6 @@
+- pkg:nuget/Visual.Microsoft.AspNet.WebApi@5.2.9-beta1
+- pkg:nuget/Visual.Microsoft.AspNet.WebApi@5.3.9-beta1
+- pkg:nuget/Visual.Microsoft.AspNet.WebApi@5.4.9-beta1
+- pkg:nuget/Visual.Microsoft.AspNet.WebApi@5.5.9-beta1
+- pkg:nuget/Visual.Microsoft.AspNet.WebApi@8.4.9-beta1
+- pkg:nuget/Visual.Microsoft.AspNet.WebApi@9.4.9-beta1

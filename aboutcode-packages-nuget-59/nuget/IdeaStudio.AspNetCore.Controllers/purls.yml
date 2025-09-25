@@ -1,0 +1,13 @@
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.20.13
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.20.14
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.20.15
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.20.17
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.20.18
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.21.19
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.21.20
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.21.21
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.21.22
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.24.23
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.24.24
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.24.25
+- pkg:nuget/IdeaStudio.AspNetCore.Controllers@2017.4.30.27

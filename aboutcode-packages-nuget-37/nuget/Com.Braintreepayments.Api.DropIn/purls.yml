@@ -1,0 +1,12 @@
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.12.0
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.13.0.1
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.14.0.1
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.14.0.2
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.14.0.3
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.14.0.4
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.14.0.5
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.16.0
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.16.0.1
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.16.0.2
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.8.0
+- pkg:nuget/Com.Braintreepayments.Api.DropIn@6.8.0.1

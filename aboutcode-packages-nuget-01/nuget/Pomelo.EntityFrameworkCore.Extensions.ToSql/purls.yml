@@ -1,0 +1,3 @@
+- pkg:nuget/Pomelo.EntityFrameworkCore.Extensions.ToSql@2.0.0-preview2-final
+- pkg:nuget/Pomelo.EntityFrameworkCore.Extensions.ToSql@2.0.0-preview3-10000
+- pkg:nuget/Pomelo.EntityFrameworkCore.Extensions.ToSql@2.0.0-rtm-10002

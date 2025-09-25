@@ -1,0 +1,16 @@
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181012.113640-eap02
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181017.142450-eap03
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181023.214625-eap04
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181102.153028-eap05
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181119.221456-eap06
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181127.61205-eap07
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181206.90155-eap08
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181211.222643-eap09
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181217.72706
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20181223.64945
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20190124.112737
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20190208.92007
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20190304.43031
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@183.0.20190516.161340
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@191.0.20190313.215757-eap01
+- pkg:nuget/JetBrains.dotCommon.Native.Linux.Core@191.0.20190319.215954-eap02

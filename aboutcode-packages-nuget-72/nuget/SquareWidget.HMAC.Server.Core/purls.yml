@@ -1,0 +1,6 @@
+- pkg:nuget/SquareWidget.HMAC.Server.Core@1.0.0
+- pkg:nuget/SquareWidget.HMAC.Server.Core@2.1.0
+- pkg:nuget/SquareWidget.HMAC.Server.Core@3.0.0
+- pkg:nuget/SquareWidget.HMAC.Server.Core@6.0.0
+- pkg:nuget/SquareWidget.HMAC.Server.Core@8.0.0
+- pkg:nuget/SquareWidget.HMAC.Server.Core@8.1.0
