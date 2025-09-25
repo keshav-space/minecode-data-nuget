@@ -1,0 +1,4 @@
+- pkg:nuget/Acrotech.PortableViewModel.Commands.WPF.NET45@1.1.0-DEV4
+- pkg:nuget/Acrotech.PortableViewModel.Commands.WPF.NET45@1.1.0-RC1
+- pkg:nuget/Acrotech.PortableViewModel.Commands.WPF.NET45@2.0.0
+- pkg:nuget/Acrotech.PortableViewModel.Commands.WPF.NET45@2.0.0-beta0001

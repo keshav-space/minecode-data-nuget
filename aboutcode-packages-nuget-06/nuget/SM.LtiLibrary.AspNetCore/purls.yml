@@ -1,0 +1,6 @@
+- pkg:nuget/SM.LtiLibrary.AspNetCore@1.0.2.4
+- pkg:nuget/SM.LtiLibrary.AspNetCore@1.0.2.6
+- pkg:nuget/SM.LtiLibrary.AspNetCore@1.0.2.7
+- pkg:nuget/SM.LtiLibrary.AspNetCore@3.1.2
+- pkg:nuget/SM.LtiLibrary.AspNetCore@3.1.2-CI-20220902-214731
+- pkg:nuget/SM.LtiLibrary.AspNetCore@3.1.3

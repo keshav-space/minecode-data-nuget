@@ -1,0 +1,5 @@
+- pkg:nuget/log4net.Appender.Msmq@1.0.0
+- pkg:nuget/log4net.Appender.Msmq@1.0.1
+- pkg:nuget/log4net.Appender.Msmq@1.0.2
+- pkg:nuget/log4net.Appender.Msmq@1.0.3
+- pkg:nuget/log4net.Appender.Msmq@1.0.4

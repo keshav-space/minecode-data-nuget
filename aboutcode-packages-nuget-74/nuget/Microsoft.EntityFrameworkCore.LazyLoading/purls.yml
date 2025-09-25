@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.EntityFrameworkCore.LazyLoading@1.1.1
+- pkg:nuget/Microsoft.EntityFrameworkCore.LazyLoading@1.1.1-beta1
+- pkg:nuget/Microsoft.EntityFrameworkCore.LazyLoading@1.1.1-beta2
+- pkg:nuget/Microsoft.EntityFrameworkCore.LazyLoading@1.1.1-beta3
+- pkg:nuget/Microsoft.EntityFrameworkCore.LazyLoading@1.1.1-beta4

@@ -1,0 +1,16 @@
+- pkg:nuget/Shuttle.Core.Pipelines@10.0.0
+- pkg:nuget/Shuttle.Core.Pipelines@10.0.1
+- pkg:nuget/Shuttle.Core.Pipelines@10.0.2
+- pkg:nuget/Shuttle.Core.Pipelines@10.0.3
+- pkg:nuget/Shuttle.Core.Pipelines@10.0.4
+- pkg:nuget/Shuttle.Core.Pipelines@10.0.5
+- pkg:nuget/Shuttle.Core.Pipelines@10.0.6
+- pkg:nuget/Shuttle.Core.Pipelines@10.0.7
+- pkg:nuget/Shuttle.Core.Pipelines@10.1.0
+- pkg:nuget/Shuttle.Core.Pipelines@11.0.0
+- pkg:nuget/Shuttle.Core.Pipelines@11.0.1
+- pkg:nuget/Shuttle.Core.Pipelines@12.0.0
+- pkg:nuget/Shuttle.Core.Pipelines@12.1.1
+- pkg:nuget/Shuttle.Core.Pipelines@13.0.0
+- pkg:nuget/Shuttle.Core.Pipelines@14.0.0
+- pkg:nuget/Shuttle.Core.Pipelines@20.0.0

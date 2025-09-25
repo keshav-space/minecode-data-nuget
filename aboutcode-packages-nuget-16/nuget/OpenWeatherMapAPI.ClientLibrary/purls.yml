@@ -1,0 +1,16 @@
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@1.0.0
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@1.1.0
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@1.1.0-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.0
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.0-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.1-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.15-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.3-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.4-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.5-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.6-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.7-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.8-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.0.9-beta
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.1.0
+- pkg:nuget/OpenWeatherMapAPI.ClientLibrary@2.1.0-beta

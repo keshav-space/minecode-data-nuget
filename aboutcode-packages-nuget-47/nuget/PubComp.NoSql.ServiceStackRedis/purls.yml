@@ -1,0 +1,5 @@
+- pkg:nuget/PubComp.NoSql.ServiceStackRedis@2.0.0
+- pkg:nuget/PubComp.NoSql.ServiceStackRedis@2.3.0
+- pkg:nuget/PubComp.NoSql.ServiceStackRedis@3.0.0
+- pkg:nuget/PubComp.NoSql.ServiceStackRedis@4.0.0
+- pkg:nuget/PubComp.NoSql.ServiceStackRedis@4.1.0

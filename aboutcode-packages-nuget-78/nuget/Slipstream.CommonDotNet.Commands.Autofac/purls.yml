@@ -1,0 +1,12 @@
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@1.0.0
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@1.0.2
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0-beta1
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0-beta2
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0-beta3
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0-beta4
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0-beta5
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0-beta6
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0-beta7
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@2.0.0-beta8
+- pkg:nuget/Slipstream.CommonDotNet.Commands.Autofac@3.0.0-alpha.47

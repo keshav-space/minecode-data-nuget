@@ -1,0 +1,6 @@
+- pkg:nuget/RapidField.SolidInstruments.DataAccess.EntityFramework@1.0.23-preview1
+- pkg:nuget/RapidField.SolidInstruments.DataAccess.EntityFramework@1.0.24-preview1
+- pkg:nuget/RapidField.SolidInstruments.DataAccess.EntityFramework@1.0.25
+- pkg:nuget/RapidField.SolidInstruments.DataAccess.EntityFramework@1.0.25-preview1
+- pkg:nuget/RapidField.SolidInstruments.DataAccess.EntityFramework@1.0.26
+- pkg:nuget/RapidField.SolidInstruments.DataAccess.EntityFramework@1.0.26-preview1

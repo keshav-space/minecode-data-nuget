@@ -1,0 +1,9 @@
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.16.0
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.16.1
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.16.2
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.17.0
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.17.1
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.20.0
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.21.0
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.21.1
+- pkg:nuget/Khala.EventSourcing.SqlCore@0.22.0

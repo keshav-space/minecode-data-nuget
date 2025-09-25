@@ -1,0 +1,4 @@
+- pkg:nuget/Z.Expressions.Compiler@0.0.1-alpha
+- pkg:nuget/Z.Expressions.Compiler@0.0.2-beta
+- pkg:nuget/Z.Expressions.Compiler@1.0.0
+- pkg:nuget/Z.Expressions.Compiler@1.0.1

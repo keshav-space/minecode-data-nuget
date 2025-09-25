@@ -1,0 +1,16 @@
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.10-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.11-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.12-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.13-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.14-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.16-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.17-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.18-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.19-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.21-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.22-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.23-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.24-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.25-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.26-alpha
+- pkg:nuget/Cythral.CloudFormation.CustomResource.Core@0.2.27-alpha

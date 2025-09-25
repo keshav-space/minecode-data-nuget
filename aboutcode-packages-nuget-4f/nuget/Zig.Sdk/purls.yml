@@ -1,0 +1,17 @@
+- pkg:nuget/Zig.Sdk@1.0.4-g4115f98ef5
+- pkg:nuget/Zig.Sdk@1.0.5
+- pkg:nuget/Zig.Sdk@1.0.6
+- pkg:nuget/Zig.Sdk@1.0.9
+- pkg:nuget/Zig.Sdk@1.1.5
+- pkg:nuget/Zig.Sdk@2.0.22
+- pkg:nuget/Zig.Sdk@2.1.10
+- pkg:nuget/Zig.Sdk@2.1.13
+- pkg:nuget/Zig.Sdk@2.1.4
+- pkg:nuget/Zig.Sdk@2.1.8
+- pkg:nuget/Zig.Sdk@2.2.11
+- pkg:nuget/Zig.Sdk@2.2.12
+- pkg:nuget/Zig.Sdk@2.2.13
+- pkg:nuget/Zig.Sdk@2.3.2
+- pkg:nuget/Zig.Sdk@2.3.3
+- pkg:nuget/Zig.Sdk@2.3.4
+- pkg:nuget/Zig.Sdk@3.0.16-dev

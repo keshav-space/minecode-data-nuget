@@ -1,0 +1,16 @@
+- pkg:nuget/OpenStrata.MSBuild@0.1.0-Beta
+- pkg:nuget/OpenStrata.MSBuild@0.1.1-Beta
+- pkg:nuget/OpenStrata.MSBuild@0.1.2-Beta
+- pkg:nuget/OpenStrata.MSBuild@0.2.6-beta
+- pkg:nuget/OpenStrata.MSBuild@0.2.61-beta
+- pkg:nuget/OpenStrata.MSBuild@0.2.62-beta
+- pkg:nuget/OpenStrata.MSBuild@0.2.7-beta
+- pkg:nuget/OpenStrata.MSBuild@0.2.82-beta
+- pkg:nuget/OpenStrata.MSBuild@0.2.83-beta
+- pkg:nuget/OpenStrata.MSBuild@0.3.0-preview
+- pkg:nuget/OpenStrata.MSBuild@0.3.32-preview
+- pkg:nuget/OpenStrata.MSBuild@0.3.33-preview
+- pkg:nuget/OpenStrata.MSBuild@0.3.72-preview.1
+- pkg:nuget/OpenStrata.MSBuild@0.3.76-preview
+- pkg:nuget/OpenStrata.MSBuild@0.3.79-preview
+- pkg:nuget/OpenStrata.MSBuild@0.3.82-preview

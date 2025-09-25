@@ -1,0 +1,4 @@
+- pkg:nuget/NpgsqlBulkCopy@1.0.0
+- pkg:nuget/NpgsqlBulkCopy@1.0.1
+- pkg:nuget/NpgsqlBulkCopy@1.0.2
+- pkg:nuget/NpgsqlBulkCopy@1.2.0

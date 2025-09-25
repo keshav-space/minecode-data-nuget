@@ -1,0 +1,17 @@
+- pkg:nuget/DistributedResponseCachingMiddleware@0.0.1
+- pkg:nuget/DistributedResponseCachingMiddleware@0.0.2
+- pkg:nuget/DistributedResponseCachingMiddleware@0.0.3
+- pkg:nuget/DistributedResponseCachingMiddleware@0.0.4
+- pkg:nuget/DistributedResponseCachingMiddleware@1.0.0
+- pkg:nuget/DistributedResponseCachingMiddleware@1.0.1
+- pkg:nuget/DistributedResponseCachingMiddleware@1.0.2
+- pkg:nuget/DistributedResponseCachingMiddleware@1.0.3
+- pkg:nuget/DistributedResponseCachingMiddleware@2.0.0
+- pkg:nuget/DistributedResponseCachingMiddleware@2.0.1
+- pkg:nuget/DistributedResponseCachingMiddleware@2.5.0
+- pkg:nuget/DistributedResponseCachingMiddleware@2.5.1
+- pkg:nuget/DistributedResponseCachingMiddleware@2.5.2
+- pkg:nuget/DistributedResponseCachingMiddleware@3.0.0
+- pkg:nuget/DistributedResponseCachingMiddleware@3.0.1
+- pkg:nuget/DistributedResponseCachingMiddleware@3.0.2
+- pkg:nuget/DistributedResponseCachingMiddleware@6.0.0-rc.2

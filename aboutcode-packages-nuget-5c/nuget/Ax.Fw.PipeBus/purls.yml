@@ -1,0 +1,15 @@
+- pkg:nuget/Ax.Fw.PipeBus@10.0.10
+- pkg:nuget/Ax.Fw.PipeBus@10.0.11
+- pkg:nuget/Ax.Fw.PipeBus@10.0.6
+- pkg:nuget/Ax.Fw.PipeBus@10.0.8
+- pkg:nuget/Ax.Fw.PipeBus@10.0.9
+- pkg:nuget/Ax.Fw.PipeBus@10.1.0
+- pkg:nuget/Ax.Fw.PipeBus@10.2.1
+- pkg:nuget/Ax.Fw.PipeBus@10.2.3
+- pkg:nuget/Ax.Fw.PipeBus@10.3.1
+- pkg:nuget/Ax.Fw.PipeBus@10.4.0
+- pkg:nuget/Ax.Fw.PipeBus@10.4.1
+- pkg:nuget/Ax.Fw.PipeBus@10.4.2
+- pkg:nuget/Ax.Fw.PipeBus@10.4.3
+- pkg:nuget/Ax.Fw.PipeBus@10.4.4
+- pkg:nuget/Ax.Fw.PipeBus@10.5.0

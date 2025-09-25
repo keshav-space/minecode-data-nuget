@@ -1,0 +1,8 @@
+- pkg:nuget/ApplicationInsights.Log4Net@0.31.0-beta
+- pkg:nuget/ApplicationInsights.Log4Net@0.32.0-beta
+- pkg:nuget/ApplicationInsights.Log4Net@0.33.0-beta
+- pkg:nuget/ApplicationInsights.Log4Net@0.34.0-beta
+- pkg:nuget/ApplicationInsights.Log4Net@0.35.0-beta
+- pkg:nuget/ApplicationInsights.Log4Net@0.36.0-beta
+- pkg:nuget/ApplicationInsights.Log4Net@0.37.0-beta
+- pkg:nuget/ApplicationInsights.Log4Net@0.38.0-beta

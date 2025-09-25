@@ -1,0 +1,6 @@
+- pkg:nuget/ANSH.DDD.Domain.Repository.EFCore@1.1.0
+- pkg:nuget/ANSH.DDD.Domain.Repository.EFCore@2.0.0-alpha14
+- pkg:nuget/ANSH.DDD.Domain.Repository.EFCore@2.0.0-alpha2
+- pkg:nuget/ANSH.DDD.Domain.Repository.EFCore@2.0.0-alpha3
+- pkg:nuget/ANSH.DDD.Domain.Repository.EFCore@2.0.0-alpha4
+- pkg:nuget/ANSH.DDD.Domain.Repository.EFCore@2.0.0-alpha6

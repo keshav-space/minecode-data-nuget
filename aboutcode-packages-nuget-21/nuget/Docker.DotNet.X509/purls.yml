@@ -1,0 +1,13 @@
+- pkg:nuget/Docker.DotNet.X509@1.0.0
+- pkg:nuget/Docker.DotNet.X509@1.2.2
+- pkg:nuget/Docker.DotNet.X509@2.124.1
+- pkg:nuget/Docker.DotNet.X509@2.124.3
+- pkg:nuget/Docker.DotNet.X509@3.125.0
+- pkg:nuget/Docker.DotNet.X509@3.125.1
+- pkg:nuget/Docker.DotNet.X509@3.125.10
+- pkg:nuget/Docker.DotNet.X509@3.125.11
+- pkg:nuget/Docker.DotNet.X509@3.125.12
+- pkg:nuget/Docker.DotNet.X509@3.125.13
+- pkg:nuget/Docker.DotNet.X509@3.125.14
+- pkg:nuget/Docker.DotNet.X509@3.125.15
+- pkg:nuget/Docker.DotNet.X509@3.125.2

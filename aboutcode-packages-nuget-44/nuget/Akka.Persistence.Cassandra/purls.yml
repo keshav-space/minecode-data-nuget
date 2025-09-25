@@ -1,0 +1,5 @@
+- pkg:nuget/Akka.Persistence.Cassandra@1.0.2.9-beta
+- pkg:nuget/Akka.Persistence.Cassandra@1.0.3-beta
+- pkg:nuget/Akka.Persistence.Cassandra@1.0.4.1-beta
+- pkg:nuget/Akka.Persistence.Cassandra@1.0.5.2-beta
+- pkg:nuget/Akka.Persistence.Cassandra@1.0.6.3-beta

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Edge.SeleniumTools@3.141.0
+- pkg:nuget/Microsoft.Edge.SeleniumTools@3.141.1
+- pkg:nuget/Microsoft.Edge.SeleniumTools@3.141.2
+- pkg:nuget/Microsoft.Edge.SeleniumTools@3.141.3

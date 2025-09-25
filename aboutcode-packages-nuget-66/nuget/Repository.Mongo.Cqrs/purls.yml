@@ -1,0 +1,4 @@
+- pkg:nuget/Repository.Mongo.Cqrs@1.0.0
+- pkg:nuget/Repository.Mongo.Cqrs@1.0.0-rc
+- pkg:nuget/Repository.Mongo.Cqrs@1.0.0-rc2
+- pkg:nuget/Repository.Mongo.Cqrs@1.0.1

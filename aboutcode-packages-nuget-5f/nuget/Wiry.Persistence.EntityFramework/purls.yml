@@ -1,0 +1,2 @@
+- pkg:nuget/Wiry.Persistence.EntityFramework@1.0.0-preview
+- pkg:nuget/Wiry.Persistence.EntityFramework@1.0.1-preview

@@ -1,0 +1,4 @@
+- pkg:nuget/velox.db.sqlite.windows@0.9.15.411
+- pkg:nuget/velox.db.sqlite.windows@0.9.18
+- pkg:nuget/velox.db.sqlite.windows@0.9.19
+- pkg:nuget/velox.db.sqlite.windows@0.9.20

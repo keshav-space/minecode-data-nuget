@@ -1,0 +1,10 @@
+- pkg:nuget/linq2db.Core@1.10.0
+- pkg:nuget/linq2db.Core@1.10.1
+- pkg:nuget/linq2db.Core@1.10.2
+- pkg:nuget/linq2db.Core@1.7.5
+- pkg:nuget/linq2db.Core@1.7.6
+- pkg:nuget/linq2db.Core@1.8.0
+- pkg:nuget/linq2db.Core@1.8.1
+- pkg:nuget/linq2db.Core@1.8.2
+- pkg:nuget/linq2db.Core@1.8.3
+- pkg:nuget/linq2db.Core@1.9.0

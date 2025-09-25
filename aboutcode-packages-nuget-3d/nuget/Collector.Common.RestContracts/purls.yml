@@ -1,0 +1,11 @@
+- pkg:nuget/Collector.Common.RestContracts@5.0.0
+- pkg:nuget/Collector.Common.RestContracts@5.0.1
+- pkg:nuget/Collector.Common.RestContracts@5.1.0
+- pkg:nuget/Collector.Common.RestContracts@5.1.1
+- pkg:nuget/Collector.Common.RestContracts@6.0.0
+- pkg:nuget/Collector.Common.RestContracts@6.1.0
+- pkg:nuget/Collector.Common.RestContracts@6.2.0
+- pkg:nuget/Collector.Common.RestContracts@7.0.0
+- pkg:nuget/Collector.Common.RestContracts@8.0.0
+- pkg:nuget/Collector.Common.RestContracts@9.0.0
+- pkg:nuget/Collector.Common.RestContracts@9.1.0

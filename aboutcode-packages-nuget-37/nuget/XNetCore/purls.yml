@@ -1,0 +1,13 @@
+- pkg:nuget/XNetCore@1.0.0
+- pkg:nuget/XNetCore@2020.12.17
+- pkg:nuget/XNetCore@2020.5.27
+- pkg:nuget/XNetCore@2020.5.28
+- pkg:nuget/XNetCore@2020.5.29
+- pkg:nuget/XNetCore@2020.6.5
+- pkg:nuget/XNetCore@2020.6.6
+- pkg:nuget/XNetCore@2020.7.2
+- pkg:nuget/XNetCore@2020.8.27
+- pkg:nuget/XNetCore@2020.8.27.1
+- pkg:nuget/XNetCore@2020.9.18
+- pkg:nuget/XNetCore@2020.9.27
+- pkg:nuget/XNetCore@2020.9.7

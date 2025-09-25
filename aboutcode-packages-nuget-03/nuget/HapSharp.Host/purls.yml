@@ -1,0 +1,5 @@
+- pkg:nuget/HapSharp.Host@0.40.0
+- pkg:nuget/HapSharp.Host@0.41.0
+- pkg:nuget/HapSharp.Host@0.6.0
+- pkg:nuget/HapSharp.Host@0.7.0
+- pkg:nuget/HapSharp.Host@0.8.0

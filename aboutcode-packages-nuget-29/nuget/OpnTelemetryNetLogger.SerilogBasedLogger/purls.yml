@@ -1,0 +1,8 @@
+- pkg:nuget/OpnTelemetryNetLogger.SerilogBasedLogger@1.0.4
+- pkg:nuget/OpnTelemetryNetLogger.SerilogBasedLogger@1.0.7
+- pkg:nuget/OpnTelemetryNetLogger.SerilogBasedLogger@1.0.9
+- pkg:nuget/OpnTelemetryNetLogger.SerilogBasedLogger@1.1.0
+- pkg:nuget/OpnTelemetryNetLogger.SerilogBasedLogger@1.4.0
+- pkg:nuget/OpnTelemetryNetLogger.SerilogBasedLogger@1.4.2
+- pkg:nuget/OpnTelemetryNetLogger.SerilogBasedLogger@1.4.3
+- pkg:nuget/OpnTelemetryNetLogger.SerilogBasedLogger@2.0.0

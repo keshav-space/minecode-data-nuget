@@ -1,0 +1,4 @@
+- pkg:nuget/MaxLevs.Extensions.Logging.NLog@1.4.5
+- pkg:nuget/MaxLevs.Extensions.Logging.NLog@1.5.0
+- pkg:nuget/MaxLevs.Extensions.Logging.NLog@1.5.1
+- pkg:nuget/MaxLevs.Extensions.Logging.NLog@1.5.3

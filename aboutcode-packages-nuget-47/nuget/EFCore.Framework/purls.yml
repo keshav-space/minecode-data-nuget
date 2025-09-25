@@ -1,0 +1,4 @@
+- pkg:nuget/EFCore.Framework@2019.7.18.1
+- pkg:nuget/EFCore.Framework@2019.7.22.1
+- pkg:nuget/EFCore.Framework@2019.7.22.2
+- pkg:nuget/EFCore.Framework@2019.7.22.3

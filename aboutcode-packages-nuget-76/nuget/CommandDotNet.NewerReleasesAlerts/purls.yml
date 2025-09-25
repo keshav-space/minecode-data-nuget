@@ -1,0 +1,11 @@
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@1.0.0
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@2.0.0
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@2.0.0-preview-001
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@2.0.0-preview-003
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@2.0.0-preview-004
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@2.0.1
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@3.0.0
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@3.0.1
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@4.0.1
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@5.0.0
+- pkg:nuget/CommandDotNet.NewerReleasesAlerts@5.1.0

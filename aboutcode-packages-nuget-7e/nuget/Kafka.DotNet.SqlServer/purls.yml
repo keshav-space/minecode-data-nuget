@@ -1,0 +1,7 @@
+- pkg:nuget/Kafka.DotNet.SqlServer@0.1.0
+- pkg:nuget/Kafka.DotNet.SqlServer@0.1.0-rc.1
+- pkg:nuget/Kafka.DotNet.SqlServer@0.1.0-rc.2
+- pkg:nuget/Kafka.DotNet.SqlServer@0.2.0
+- pkg:nuget/Kafka.DotNet.SqlServer@0.2.0-rc.1
+- pkg:nuget/Kafka.DotNet.SqlServer@0.2.0-rc.2
+- pkg:nuget/Kafka.DotNet.SqlServer@0.3.0-rc.1

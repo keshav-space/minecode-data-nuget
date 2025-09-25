@@ -1,0 +1,6 @@
+- pkg:nuget/CodeFirstDbGenerator.Npgsql@5.7.0
+- pkg:nuget/CodeFirstDbGenerator.Npgsql@5.7.1
+- pkg:nuget/CodeFirstDbGenerator.Npgsql@5.7.2
+- pkg:nuget/CodeFirstDbGenerator.Npgsql@5.8.0
+- pkg:nuget/CodeFirstDbGenerator.Npgsql@5.8.1
+- pkg:nuget/CodeFirstDbGenerator.Npgsql@6.0.0

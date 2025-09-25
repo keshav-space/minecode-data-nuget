@@ -1,0 +1,11 @@
+- pkg:nuget/DryIoc.SignalR.dll@2.0.0
+- pkg:nuget/DryIoc.SignalR.dll@2.0.0-rc1
+- pkg:nuget/DryIoc.SignalR.dll@2.0.0-rc2
+- pkg:nuget/DryIoc.SignalR.dll@2.0.0-rc3
+- pkg:nuget/DryIoc.SignalR.dll@2.0.0-rc4
+- pkg:nuget/DryIoc.SignalR.dll@2.0.1
+- pkg:nuget/DryIoc.SignalR.dll@2.1.0
+- pkg:nuget/DryIoc.SignalR.dll@3.0.0
+- pkg:nuget/DryIoc.SignalR.dll@4.0.0
+- pkg:nuget/DryIoc.SignalR.dll@4.1.0
+- pkg:nuget/DryIoc.SignalR.dll@5.0.0

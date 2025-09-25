@@ -1,0 +1,9 @@
+- pkg:nuget/Shuttle.Core.Encryption@10.0.0
+- pkg:nuget/Shuttle.Core.Encryption@10.0.1
+- pkg:nuget/Shuttle.Core.Encryption@10.0.2
+- pkg:nuget/Shuttle.Core.Encryption@10.0.3
+- pkg:nuget/Shuttle.Core.Encryption@11.0.0
+- pkg:nuget/Shuttle.Core.Encryption@11.0.1
+- pkg:nuget/Shuttle.Core.Encryption@12.0.0
+- pkg:nuget/Shuttle.Core.Encryption@12.0.1
+- pkg:nuget/Shuttle.Core.Encryption@20.0.0
