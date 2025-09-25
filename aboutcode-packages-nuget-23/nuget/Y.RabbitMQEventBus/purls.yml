@@ -1,0 +1,6 @@
+- pkg:nuget/Y.RabbitMQEventBus@1.0.1
+- pkg:nuget/Y.RabbitMQEventBus@1.0.2
+- pkg:nuget/Y.RabbitMQEventBus@2.0.1
+- pkg:nuget/Y.RabbitMQEventBus@2.0.2
+- pkg:nuget/Y.RabbitMQEventBus@3.0.1
+- pkg:nuget/Y.RabbitMQEventBus@3.0.2

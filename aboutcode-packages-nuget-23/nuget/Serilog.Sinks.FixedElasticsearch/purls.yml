@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.FixedElasticsearch@8.4.3

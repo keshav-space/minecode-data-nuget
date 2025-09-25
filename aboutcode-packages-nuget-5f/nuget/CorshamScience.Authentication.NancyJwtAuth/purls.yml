@@ -1,0 +1,2 @@
+- pkg:nuget/CorshamScience.Authentication.NancyJwtAuth@2.0.0-rc1-jwt
+- pkg:nuget/CorshamScience.Authentication.NancyJwtAuth@3.0.0

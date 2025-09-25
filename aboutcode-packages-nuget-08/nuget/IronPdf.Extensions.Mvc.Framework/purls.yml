@@ -1,0 +1,4 @@
+- pkg:nuget/IronPdf.Extensions.Mvc.Framework@2023.9.1
+- pkg:nuget/IronPdf.Extensions.Mvc.Framework@2024.2.18
+- pkg:nuget/IronPdf.Extensions.Mvc.Framework@2024.5.2
+- pkg:nuget/IronPdf.Extensions.Mvc.Framework@2025.1.4

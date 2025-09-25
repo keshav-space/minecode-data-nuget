@@ -1,0 +1,5 @@
+- pkg:nuget/wChloe.SQLite@3.9.2
+- pkg:nuget/wChloe.SQLite@4.0.3
+- pkg:nuget/wChloe.SQLite@4.11.0
+- pkg:nuget/wChloe.SQLite@4.12.0
+- pkg:nuget/wChloe.SQLite@4.12.1

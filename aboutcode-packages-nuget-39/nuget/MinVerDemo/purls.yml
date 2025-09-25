@@ -1,0 +1,7 @@
+- pkg:nuget/MinVerDemo@0.2.0%2B31b22a42993dc70eab4db40a8ea3952292fe457f
+- pkg:nuget/MinVerDemo@0.3.0%2B9c59b2b96367a49e645ebd0d008a5c240c984122
+- pkg:nuget/MinVerDemo@0.4.0%2B2d171505ee33dbfc6fbba6ecaa3568860fae3b39
+- pkg:nuget/MinVerDemo@0.4.0-preview.1%2B265accb3a23fd23691c6056be04580bd8b1bee53
+- pkg:nuget/MinVerDemo@0.4.0-preview.2%2B2d171505ee33dbfc6fbba6ecaa3568860fae3b39
+- pkg:nuget/MinVerDemo@0.5.0-preview.2%2B16ad7fe1677430b01abb86dbcef1a393db90d1ce
+- pkg:nuget/MinVerDemo@0.5.0-preview.3%2B9ccd27023940fd3e3efa3ed75f08fa0c2d4ba433

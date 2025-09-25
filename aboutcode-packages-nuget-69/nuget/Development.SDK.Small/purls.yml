@@ -1,0 +1,4 @@
+- pkg:nuget/Development.SDK.Small@1.0.0
+- pkg:nuget/Development.SDK.Small@5.2.1-preview
+- pkg:nuget/Development.SDK.Small@5.2.2-preview
+- pkg:nuget/Development.SDK.Small@5.2.3-preview

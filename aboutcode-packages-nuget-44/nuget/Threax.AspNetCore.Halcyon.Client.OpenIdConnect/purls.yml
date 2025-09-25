@@ -1,0 +1,5 @@
+- pkg:nuget/Threax.AspNetCore.Halcyon.Client.OpenIdConnect@1.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.Client.OpenIdConnect@1.0.1
+- pkg:nuget/Threax.AspNetCore.Halcyon.Client.OpenIdConnect@18.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.Client.OpenIdConnect@2.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.Client.OpenIdConnect@3.0.0

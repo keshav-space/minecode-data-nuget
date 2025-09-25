@@ -1,0 +1,5 @@
+- pkg:nuget/Cave.CodeGen@2.1.0-ci-20230331-6
+- pkg:nuget/Cave.CodeGen@3.0.0
+- pkg:nuget/Cave.CodeGen@3.0.0-ci-20230427-1
+- pkg:nuget/Cave.CodeGen@3.0.0-ci-20230511-1
+- pkg:nuget/Cave.CodeGen@3.0.1

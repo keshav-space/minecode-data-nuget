@@ -1,0 +1,4 @@
+- pkg:nuget/Bittrex.Api.Client@1.0.0
+- pkg:nuget/Bittrex.Api.Client@1.1.0
+- pkg:nuget/Bittrex.Api.Client@1.1.1
+- pkg:nuget/Bittrex.Api.Client@1.1.2

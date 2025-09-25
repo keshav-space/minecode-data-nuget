@@ -1,0 +1,4 @@
+- pkg:nuget/RCL.Identity.AAD.Groups@6.1.0
+- pkg:nuget/RCL.Identity.AAD.Groups@6.1.1
+- pkg:nuget/RCL.Identity.AAD.Groups@6.1.3
+- pkg:nuget/RCL.Identity.AAD.Groups@6.1.4

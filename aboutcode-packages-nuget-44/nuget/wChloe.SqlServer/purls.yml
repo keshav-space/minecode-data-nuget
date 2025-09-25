@@ -1,0 +1,4 @@
+- pkg:nuget/wChloe.SqlServer@3.9.2
+- pkg:nuget/wChloe.SqlServer@4.0.3
+- pkg:nuget/wChloe.SqlServer@4.11.0
+- pkg:nuget/wChloe.SqlServer@4.12.0

@@ -1,0 +1,4 @@
+- pkg:nuget/NCBI_localblast@1.0.0
+- pkg:nuget/NCBI_localblast@1.0.1
+- pkg:nuget/NCBI_localblast@1.0.11
+- pkg:nuget/NCBI_localblast@1.0.12

@@ -1,0 +1,3 @@
+- pkg:nuget/Ninject.Features@0.1.38-alpha
+- pkg:nuget/Ninject.Features@0.2.1.4
+- pkg:nuget/Ninject.Features@1.12.0

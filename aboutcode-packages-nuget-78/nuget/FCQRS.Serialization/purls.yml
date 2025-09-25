@@ -1,0 +1,6 @@
+- pkg:nuget/FCQRS.Serialization@1.0.2
+- pkg:nuget/FCQRS.Serialization@1.0.7
+- pkg:nuget/FCQRS.Serialization@1.1.4
+- pkg:nuget/FCQRS.Serialization@1.13.0
+- pkg:nuget/FCQRS.Serialization@1.7.3
+- pkg:nuget/FCQRS.Serialization@2.2.0

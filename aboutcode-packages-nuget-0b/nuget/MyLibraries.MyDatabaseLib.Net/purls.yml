@@ -1,0 +1,6 @@
+- pkg:nuget/MyLibraries.MyDatabaseLib.Net@10.14.6.23
+- pkg:nuget/MyLibraries.MyDatabaseLib.Net@11.16.6.23
+- pkg:nuget/MyLibraries.MyDatabaseLib.Net@12.16.6.23
+- pkg:nuget/MyLibraries.MyDatabaseLib.Net@3.22.5.23
+- pkg:nuget/MyLibraries.MyDatabaseLib.Net@8.6.6.23
+- pkg:nuget/MyLibraries.MyDatabaseLib.Net@9.6.6.23

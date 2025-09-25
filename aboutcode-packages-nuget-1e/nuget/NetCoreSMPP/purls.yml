@@ -1,0 +1,8 @@
+- pkg:nuget/NetCoreSMPP@1.0.0-netcore
+- pkg:nuget/NetCoreSMPP@1.0.1-netcore
+- pkg:nuget/NetCoreSMPP@1.0.2-netcore
+- pkg:nuget/NetCoreSMPP@1.0.3-netcore
+- pkg:nuget/NetCoreSMPP@1.0.4-netcore
+- pkg:nuget/NetCoreSMPP@1.1.0
+- pkg:nuget/NetCoreSMPP@1.1.1
+- pkg:nuget/NetCoreSMPP@1.1.2

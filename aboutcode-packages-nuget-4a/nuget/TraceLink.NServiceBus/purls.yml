@@ -1,0 +1,4 @@
+- pkg:nuget/TraceLink.NServiceBus@7.0.0.1
+- pkg:nuget/TraceLink.NServiceBus@7.0.0.2
+- pkg:nuget/TraceLink.NServiceBus@7.0.0.3
+- pkg:nuget/TraceLink.NServiceBus@7.0.0.4

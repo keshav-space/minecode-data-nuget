@@ -1,0 +1,2 @@
+- pkg:nuget/KS.Amazon.Lambda.RuntimeSupport.Net5Only@5.0.0
+- pkg:nuget/KS.Amazon.Lambda.RuntimeSupport.Net5Only@5.0.1

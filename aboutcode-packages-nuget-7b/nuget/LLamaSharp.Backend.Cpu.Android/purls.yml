@@ -1,0 +1,2 @@
+- pkg:nuget/LLamaSharp.Backend.Cpu.Android@0.24.0
+- pkg:nuget/LLamaSharp.Backend.Cpu.Android@0.25.0

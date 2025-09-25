@@ -1,0 +1,3 @@
+- pkg:nuget/Ro.Data.SqlClient@1.0.0
+- pkg:nuget/Ro.Data.SqlClient@2.0.0
+- pkg:nuget/Ro.Data.SqlClient@2.0.0.5

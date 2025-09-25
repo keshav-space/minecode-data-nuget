@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.WindowsServer.SystemInsights@10.0.17723.1000-180720-1452.rs5-release.amd64fre
+- pkg:nuget/Microsoft.WindowsServer.SystemInsights@10.0.17744.1001-180818-1845.rs5-release.amd64fre
+- pkg:nuget/Microsoft.WindowsServer.SystemInsights@10.0.17763.1-180914-1434.rs5-release.amd64fre
+- pkg:nuget/Microsoft.WindowsServer.SystemInsights@10.1809.0

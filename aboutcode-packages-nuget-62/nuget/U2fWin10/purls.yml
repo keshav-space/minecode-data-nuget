@@ -1,0 +1,5 @@
+- pkg:nuget/U2fWin10@1.0.0-preview1
+- pkg:nuget/U2fWin10@2.0.0
+- pkg:nuget/U2fWin10@2.0.0-preview1
+- pkg:nuget/U2fWin10@2.1.0
+- pkg:nuget/U2fWin10@2.2.0

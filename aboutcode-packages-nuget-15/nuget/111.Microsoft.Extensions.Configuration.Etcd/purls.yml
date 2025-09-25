@@ -1,0 +1,3 @@
+- pkg:nuget/111.Microsoft.Extensions.Configuration.Etcd@8.0.0
+- pkg:nuget/111.Microsoft.Extensions.Configuration.Etcd@8.1.0
+- pkg:nuget/111.Microsoft.Extensions.Configuration.Etcd@8.1.1

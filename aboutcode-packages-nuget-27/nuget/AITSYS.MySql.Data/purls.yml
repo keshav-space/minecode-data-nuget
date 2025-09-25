@@ -1,0 +1,2 @@
+- pkg:nuget/AITSYS.MySql.Data@8.1.0-mariadb
+- pkg:nuget/AITSYS.MySql.Data@8.3.0-mariadb

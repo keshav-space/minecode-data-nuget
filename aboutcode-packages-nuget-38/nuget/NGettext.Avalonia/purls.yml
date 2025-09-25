@@ -1,0 +1,3 @@
+- pkg:nuget/NGettext.Avalonia@0.0.1-alpha
+- pkg:nuget/NGettext.Avalonia@0.3.13-rc
+- pkg:nuget/NGettext.Avalonia@0.3.14-rc

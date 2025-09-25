@@ -1,0 +1,5 @@
+- pkg:nuget/Bau.MSBuild@0.0.0-placeholder
+- pkg:nuget/Bau.MSBuild@0.1.0-alpha14
+- pkg:nuget/Bau.MSBuild@0.1.0-alpha15
+- pkg:nuget/Bau.MSBuild@0.1.0-beta01
+- pkg:nuget/Bau.MSBuild@0.1.0-beta02

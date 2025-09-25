@@ -1,0 +1,5 @@
+- pkg:nuget/tsh.xunit.logging@0.0.0.10-beta
+- pkg:nuget/tsh.xunit.logging@0.0.0.2-beta
+- pkg:nuget/tsh.xunit.logging@0.0.0.8-beta
+- pkg:nuget/tsh.xunit.logging@0.1.0.12
+- pkg:nuget/tsh.xunit.logging@0.1.0.3-beta

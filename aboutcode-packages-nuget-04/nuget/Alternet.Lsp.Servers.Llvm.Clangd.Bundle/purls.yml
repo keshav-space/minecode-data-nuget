@@ -1,0 +1,5 @@
+- pkg:nuget/Alternet.Lsp.Servers.Llvm.Clangd.Bundle@12.0.0
+- pkg:nuget/Alternet.Lsp.Servers.Llvm.Clangd.Bundle@16.0.2
+- pkg:nuget/Alternet.Lsp.Servers.Llvm.Clangd.Bundle@20.1.0
+- pkg:nuget/Alternet.Lsp.Servers.Llvm.Clangd.Bundle@9.0.0
+- pkg:nuget/Alternet.Lsp.Servers.Llvm.Clangd.Bundle@9.0.0.1

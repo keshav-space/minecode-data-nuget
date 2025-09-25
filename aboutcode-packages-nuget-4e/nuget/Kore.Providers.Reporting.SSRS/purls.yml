@@ -1,0 +1,4 @@
+- pkg:nuget/Kore.Providers.Reporting.SSRS@1.0.0
+- pkg:nuget/Kore.Providers.Reporting.SSRS@1.0.2-beta
+- pkg:nuget/Kore.Providers.Reporting.SSRS@1.0.3
+- pkg:nuget/Kore.Providers.Reporting.SSRS@1.1.0

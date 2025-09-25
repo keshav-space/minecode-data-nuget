@@ -1,0 +1,3 @@
+- pkg:nuget/PasswordHashing@1.0.0
+- pkg:nuget/PasswordHashing@2.0.0
+- pkg:nuget/PasswordHashing@2.0.1
