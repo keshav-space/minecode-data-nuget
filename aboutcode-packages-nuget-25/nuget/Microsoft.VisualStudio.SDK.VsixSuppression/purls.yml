@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.0.50420-pre
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.0.50430-pre
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.0.50619-pre
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.0.50703
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.1.13
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.1.15
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.1.25
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.1.28
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.1.29
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.1.32
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.1.33
+- pkg:nuget/Microsoft.VisualStudio.SDK.VsixSuppression@14.1.37

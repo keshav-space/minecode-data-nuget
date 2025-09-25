@@ -1,0 +1,5 @@
+- pkg:nuget/VSSDK.Shell.Interop.8@8.0.1
+- pkg:nuget/VSSDK.Shell.Interop.8@8.0.2
+- pkg:nuget/VSSDK.Shell.Interop.8@8.0.2.1
+- pkg:nuget/VSSDK.Shell.Interop.8@8.0.3
+- pkg:nuget/VSSDK.Shell.Interop.8@8.0.4

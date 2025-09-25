@@ -1,0 +1,11 @@
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@5.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@5.0.1
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@6.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@6.3.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@6.4.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@7.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@8.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@8.0.0.1
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@8.0.0.2
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@8.0.0.3
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.PostgreSql@9.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Diagnostics.EventFlow@1.0.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow@1.0.0-preview
+- pkg:nuget/Microsoft.Diagnostics.EventFlow@1.0.0-preview2
+- pkg:nuget/Microsoft.Diagnostics.EventFlow@1.0.0-preview3
+- pkg:nuget/Microsoft.Diagnostics.EventFlow@1.0.0-preview4
+- pkg:nuget/Microsoft.Diagnostics.EventFlow@1.1.0

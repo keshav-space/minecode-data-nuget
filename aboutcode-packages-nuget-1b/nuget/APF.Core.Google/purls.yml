@@ -1,0 +1,13 @@
+- pkg:nuget/APF.Core.Google@6.0.0
+- pkg:nuget/APF.Core.Google@6.0.0.1
+- pkg:nuget/APF.Core.Google@6.0.0.2
+- pkg:nuget/APF.Core.Google@6.0.0.3
+- pkg:nuget/APF.Core.Google@6.0.0.3-Beta-01
+- pkg:nuget/APF.Core.Google@6.0.0.4-Beta-01
+- pkg:nuget/APF.Core.Google@8.0.0-preview.1
+- pkg:nuget/APF.Core.Google@8.0.0.1
+- pkg:nuget/APF.Core.Google@8.0.0.1-Beta-01
+- pkg:nuget/APF.Core.Google@8.0.0.12-beta-migration
+- pkg:nuget/APF.Core.Google@8.0.0.13-beta
+- pkg:nuget/APF.Core.Google@8.0.0.2
+- pkg:nuget/APF.Core.Google@8.0.0.2-migration

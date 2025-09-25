@@ -1,0 +1,4 @@
+- pkg:nuget/Ridvay.Azure.ServiceBus.Client.Abstractions@5.0.0-beta
+- pkg:nuget/Ridvay.Azure.ServiceBus.Client.Abstractions@5.0.1-beta
+- pkg:nuget/Ridvay.Azure.ServiceBus.Client.Abstractions@5.0.5.6
+- pkg:nuget/Ridvay.Azure.ServiceBus.Client.Abstractions@6.0.1.1

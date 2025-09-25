@@ -1,0 +1,7 @@
+- pkg:nuget/xunit.execution@2.0.0-alpha-build2595
+- pkg:nuget/xunit.execution@2.0.0-alpha-build2606
+- pkg:nuget/xunit.execution@2.0.0-beta-build2616
+- pkg:nuget/xunit.execution@2.0.0-beta-build2650
+- pkg:nuget/xunit.execution@2.0.0-beta-build2700
+- pkg:nuget/xunit.execution@2.0.0-beta4-build2738
+- pkg:nuget/xunit.execution@2.0.0-beta5-build2785

@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@0.1.539
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@0.2.549
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@0.2.553
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@0.2.575
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@0.3.36
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@1.0.119
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@1.1.157.1
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@2.0.0
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@2.0.1
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@2.0.2
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Notifications@2.0.3

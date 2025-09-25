@@ -1,0 +1,11 @@
+- pkg:nuget/slavanap.NemtClient@0.0.1
+- pkg:nuget/slavanap.NemtClient@0.0.2-alpha
+- pkg:nuget/slavanap.NemtClient@0.0.3-alpha
+- pkg:nuget/slavanap.NemtClient@0.1.0-beta
+- pkg:nuget/slavanap.NemtClient@3.0.1-beta
+- pkg:nuget/slavanap.NemtClient@3.0.2-beta
+- pkg:nuget/slavanap.NemtClient@3.0.3.1-beta
+- pkg:nuget/slavanap.NemtClient@3.0.4-beta
+- pkg:nuget/slavanap.NemtClient@3.0.5-beta
+- pkg:nuget/slavanap.NemtClient@3.0.6-beta
+- pkg:nuget/slavanap.NemtClient@3.0.7-beta

@@ -1,0 +1,6 @@
+- pkg:nuget/Pulumi.Openstack@1.1.0-preview-
+- pkg:nuget/Pulumi.Openstack@1.1.0-preview-alpha.1572728059%2Bgbc5699d
+- pkg:nuget/Pulumi.Openstack@1.2.0-preview
+- pkg:nuget/Pulumi.Openstack@1.2.0-preview-alpha.1574250136%2Bg71676bd
+- pkg:nuget/Pulumi.Openstack@1.2.0-preview-alpha.1574676475%2Bg001df71
+- pkg:nuget/Pulumi.Openstack@1.2.0-preview-alpha.1575303795%2Bg3d16ec4

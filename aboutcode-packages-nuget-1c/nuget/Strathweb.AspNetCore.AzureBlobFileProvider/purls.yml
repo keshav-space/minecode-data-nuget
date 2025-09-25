@@ -1,0 +1,4 @@
+- pkg:nuget/Strathweb.AspNetCore.AzureBlobFileProvider@0.1.0-preview
+- pkg:nuget/Strathweb.AspNetCore.AzureBlobFileProvider@0.2.0-preview
+- pkg:nuget/Strathweb.AspNetCore.AzureBlobFileProvider@0.3.0
+- pkg:nuget/Strathweb.AspNetCore.AzureBlobFileProvider@0.4.0

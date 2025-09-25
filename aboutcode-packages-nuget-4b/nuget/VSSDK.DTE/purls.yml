@@ -1,0 +1,4 @@
+- pkg:nuget/VSSDK.DTE@7.0.1
+- pkg:nuget/VSSDK.DTE@7.0.2
+- pkg:nuget/VSSDK.DTE@7.0.3
+- pkg:nuget/VSSDK.DTE@7.0.4

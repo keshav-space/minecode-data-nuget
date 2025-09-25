@@ -1,0 +1,11 @@
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@1.0.0
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@1.1.0
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.0.0
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.2.0
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.4.0
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.4.1
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.4.2
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.4.3
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.4.4
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.4.5
+- pkg:nuget/AspNet.WebApi.HtmlMicrodataFormatter.WebActivator@2.5.0

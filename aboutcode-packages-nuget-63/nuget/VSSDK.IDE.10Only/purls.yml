@@ -1,0 +1,5 @@
+- pkg:nuget/VSSDK.IDE.10Only@10.0.0
+- pkg:nuget/VSSDK.IDE.10Only@10.0.1
+- pkg:nuget/VSSDK.IDE.10Only@10.0.2
+- pkg:nuget/VSSDK.IDE.10Only@10.0.3
+- pkg:nuget/VSSDK.IDE.10Only@10.0.4

@@ -1,0 +1,6 @@
+- pkg:nuget/XCZ.Abp.PermissionManagement.Domain.Identity@3.0.4
+- pkg:nuget/XCZ.Abp.PermissionManagement.Domain.Identity@3.0.4.1
+- pkg:nuget/XCZ.Abp.PermissionManagement.Domain.Identity@3.0.4.2
+- pkg:nuget/XCZ.Abp.PermissionManagement.Domain.Identity@3.1.0
+- pkg:nuget/XCZ.Abp.PermissionManagement.Domain.Identity@4.0.0
+- pkg:nuget/XCZ.Abp.PermissionManagement.Domain.Identity@4.0.1

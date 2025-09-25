@@ -1,0 +1,11 @@
+- pkg:nuget/dotnet-ssh@1.1.0
+- pkg:nuget/dotnet-ssh@1.1.1
+- pkg:nuget/dotnet-ssh@1.1.2
+- pkg:nuget/dotnet-ssh@1.1.3
+- pkg:nuget/dotnet-ssh@2.0.0
+- pkg:nuget/dotnet-ssh@2.0.1
+- pkg:nuget/dotnet-ssh@2.0.2
+- pkg:nuget/dotnet-ssh@2.1.0
+- pkg:nuget/dotnet-ssh@2.2.0
+- pkg:nuget/dotnet-ssh@3.0.0
+- pkg:nuget/dotnet-ssh@3.1.0

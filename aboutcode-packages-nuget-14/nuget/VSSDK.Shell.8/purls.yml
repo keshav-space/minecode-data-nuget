@@ -1,0 +1,4 @@
+- pkg:nuget/VSSDK.Shell.8@8.0.1
+- pkg:nuget/VSSDK.Shell.8@8.0.2
+- pkg:nuget/VSSDK.Shell.8@8.0.3
+- pkg:nuget/VSSDK.Shell.8@8.0.4

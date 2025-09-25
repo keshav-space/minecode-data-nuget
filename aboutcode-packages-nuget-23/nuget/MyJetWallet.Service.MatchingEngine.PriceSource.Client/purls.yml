@@ -1,0 +1,6 @@
+- pkg:nuget/MyJetWallet.Service.MatchingEngine.PriceSource.Client@1.0.0
+- pkg:nuget/MyJetWallet.Service.MatchingEngine.PriceSource.Client@1.1.0
+- pkg:nuget/MyJetWallet.Service.MatchingEngine.PriceSource.Client@1.2.0
+- pkg:nuget/MyJetWallet.Service.MatchingEngine.PriceSource.Client@1.2.1
+- pkg:nuget/MyJetWallet.Service.MatchingEngine.PriceSource.Client@2.1.0
+- pkg:nuget/MyJetWallet.Service.MatchingEngine.PriceSource.Client@3.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.1.0
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.2.0
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.2.1
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.3.0
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.3.0-alpha
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.3.0-alpha.1
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.3.0-alpha.2
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.3.1
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.4.0-beta
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.4.0-beta.1
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.4.0-beta.6
+- pkg:nuget/ZetaLib.AspNetCore.Identity.MongoDB@0.4.0-beta.7

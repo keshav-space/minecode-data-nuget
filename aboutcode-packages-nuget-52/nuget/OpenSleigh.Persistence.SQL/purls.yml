@@ -1,0 +1,14 @@
+- pkg:nuget/OpenSleigh.Persistence.SQL@0.1.0
+- pkg:nuget/OpenSleigh.Persistence.SQL@1.0.0
+- pkg:nuget/OpenSleigh.Persistence.SQL@1.0.1
+- pkg:nuget/OpenSleigh.Persistence.SQL@1.0.2
+- pkg:nuget/OpenSleigh.Persistence.SQL@1.1.0
+- pkg:nuget/OpenSleigh.Persistence.SQL@1.2.0
+- pkg:nuget/OpenSleigh.Persistence.SQL@1.2.1
+- pkg:nuget/OpenSleigh.Persistence.SQL@1.3.1
+- pkg:nuget/OpenSleigh.Persistence.SQL@1.3.2
+- pkg:nuget/OpenSleigh.Persistence.SQL@2.0.0
+- pkg:nuget/OpenSleigh.Persistence.SQL@2.0.1
+- pkg:nuget/OpenSleigh.Persistence.SQL@3.0.0-alpha
+- pkg:nuget/OpenSleigh.Persistence.SQL@3.0.4
+- pkg:nuget/OpenSleigh.Persistence.SQL@3.0.5

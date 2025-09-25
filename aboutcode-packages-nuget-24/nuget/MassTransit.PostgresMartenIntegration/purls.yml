@@ -1,0 +1,4 @@
+- pkg:nuget/MassTransit.PostgresMartenIntegration@0.1.0-unstable0006
+- pkg:nuget/MassTransit.PostgresMartenIntegration@0.1.0-unstable0007
+- pkg:nuget/MassTransit.PostgresMartenIntegration@0.2.0-unstable0002
+- pkg:nuget/MassTransit.PostgresMartenIntegration@1.0.0

@@ -1,0 +1,14 @@
+- pkg:nuget/HttpWorker@0.1.0
+- pkg:nuget/HttpWorker@0.2.0
+- pkg:nuget/HttpWorker@0.3.0
+- pkg:nuget/HttpWorker@0.4.0
+- pkg:nuget/HttpWorker@0.5.0
+- pkg:nuget/HttpWorker@0.6.0
+- pkg:nuget/HttpWorker@0.6.24
+- pkg:nuget/HttpWorker@0.6.25
+- pkg:nuget/HttpWorker@1.0.0
+- pkg:nuget/HttpWorker@1.1.0
+- pkg:nuget/HttpWorker@1.2.0
+- pkg:nuget/HttpWorker@1.2.1
+- pkg:nuget/HttpWorker@1.2.2
+- pkg:nuget/HttpWorker@1.2.3

@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.NETFramework.ReferenceAssemblies.net472@1.0.0
+- pkg:nuget/Microsoft.NETFramework.ReferenceAssemblies.net472@1.0.0-preview.1
+- pkg:nuget/Microsoft.NETFramework.ReferenceAssemblies.net472@1.0.0-preview.2
+- pkg:nuget/Microsoft.NETFramework.ReferenceAssemblies.net472@1.0.1
+- pkg:nuget/Microsoft.NETFramework.ReferenceAssemblies.net472@1.0.2
+- pkg:nuget/Microsoft.NETFramework.ReferenceAssemblies.net472@1.0.3

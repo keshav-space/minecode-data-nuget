@@ -1,0 +1,5 @@
+- pkg:nuget/Pulumi.Dnsimple@0.18.8-preview-alpha.1572718881%2Bga7cc479
+- pkg:nuget/Pulumi.Dnsimple@1.0.0-preview-
+- pkg:nuget/Pulumi.Dnsimple@1.1.0-preview
+- pkg:nuget/Pulumi.Dnsimple@1.1.0-preview-alpha.1574003002%2Bg55d4be8
+- pkg:nuget/Pulumi.Dnsimple@1.1.0-preview-alpha.1575305793%2Bg56fc78d

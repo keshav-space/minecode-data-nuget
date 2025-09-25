@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@0.12.0
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@0.12.1
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@1.0.0
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@1.0.1
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@1.0.2
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@1.1.0
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@1.1.1
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@2.0.0
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@2.1.0
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@2.1.1
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@2.3.0
+- pkg:nuget/Microsoft.Spark.Extensions.Hyperspace@2.3.0-rc1

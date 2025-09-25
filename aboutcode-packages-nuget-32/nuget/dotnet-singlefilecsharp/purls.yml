@@ -1,0 +1,4 @@
+- pkg:nuget/dotnet-singlefilecsharp@1.0.1%2B68
+- pkg:nuget/dotnet-singlefilecsharp@1.0.2%2B69
+- pkg:nuget/dotnet-singlefilecsharp@1.0.7%2B2
+- pkg:nuget/dotnet-singlefilecsharp@1.1.0

@@ -1,0 +1,12 @@
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0-pre.10
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0-pre.12
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0-pre.13
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0-pre.5
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0-pre.6
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0-pre.7
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0-pre.8
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.0-pre.9
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.1
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.1-pre.1
+- pkg:nuget/AspNetCore.NonInteractiveOidcHandlers@1.0.1-pre.2

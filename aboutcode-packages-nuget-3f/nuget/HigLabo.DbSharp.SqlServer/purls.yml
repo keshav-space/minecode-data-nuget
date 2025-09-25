@@ -1,0 +1,11 @@
+- pkg:nuget/HigLabo.DbSharp.SqlServer@1.1.0
+- pkg:nuget/HigLabo.DbSharp.SqlServer@1.1.0.1
+- pkg:nuget/HigLabo.DbSharp.SqlServer@1.1.0.2
+- pkg:nuget/HigLabo.DbSharp.SqlServer@2.0.0
+- pkg:nuget/HigLabo.DbSharp.SqlServer@6.0.0
+- pkg:nuget/HigLabo.DbSharp.SqlServer@6.3.0
+- pkg:nuget/HigLabo.DbSharp.SqlServer@6.4.0
+- pkg:nuget/HigLabo.DbSharp.SqlServer@7.0.0
+- pkg:nuget/HigLabo.DbSharp.SqlServer@8.0.0
+- pkg:nuget/HigLabo.DbSharp.SqlServer@8.0.0.1
+- pkg:nuget/HigLabo.DbSharp.SqlServer@9.0.0

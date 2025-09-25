@@ -1,0 +1,12 @@
+- pkg:nuget/FakeOrm.AzureTables@1.0.0
+- pkg:nuget/FakeOrm.AzureTables@1.0.0-CI-20210330-142558
+- pkg:nuget/FakeOrm.AzureTables@1.0.0-CI-20210330-150412
+- pkg:nuget/FakeOrm.AzureTables@1.0.0-CI-20210330-154029
+- pkg:nuget/FakeOrm.AzureTables@1.0.1
+- pkg:nuget/FakeOrm.AzureTables@1.0.2
+- pkg:nuget/FakeOrm.AzureTables@1.0.3
+- pkg:nuget/FakeOrm.AzureTables@1.0.4
+- pkg:nuget/FakeOrm.AzureTables@1.0.5
+- pkg:nuget/FakeOrm.AzureTables@1.0.6
+- pkg:nuget/FakeOrm.AzureTables@20210330.7.0
+- pkg:nuget/FakeOrm.AzureTables@20210330.9.0

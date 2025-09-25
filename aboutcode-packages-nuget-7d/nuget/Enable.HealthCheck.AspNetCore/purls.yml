@@ -1,0 +1,6 @@
+- pkg:nuget/Enable.HealthCheck.AspNetCore@0.0.1-pre1
+- pkg:nuget/Enable.HealthCheck.AspNetCore@0.1.0
+- pkg:nuget/Enable.HealthCheck.AspNetCore@0.1.1
+- pkg:nuget/Enable.HealthCheck.AspNetCore@0.1.2
+- pkg:nuget/Enable.HealthCheck.AspNetCore@1.0.0
+- pkg:nuget/Enable.HealthCheck.AspNetCore@1.0.1

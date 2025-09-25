@@ -1,0 +1,12 @@
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@5.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@5.0.1
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@6.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@6.1.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@6.3.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@6.4.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@6.5.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@7.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@8.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@8.0.0.1
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@8.0.0.2
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.SqlServer@9.0.0

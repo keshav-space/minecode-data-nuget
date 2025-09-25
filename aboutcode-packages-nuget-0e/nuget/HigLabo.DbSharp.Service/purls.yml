@@ -1,0 +1,15 @@
+- pkg:nuget/HigLabo.DbSharp.Service@1.2.1
+- pkg:nuget/HigLabo.DbSharp.Service@1.2.1.1
+- pkg:nuget/HigLabo.DbSharp.Service@1.2.1.2
+- pkg:nuget/HigLabo.DbSharp.Service@1.2.1.3
+- pkg:nuget/HigLabo.DbSharp.Service@2.0.0
+- pkg:nuget/HigLabo.DbSharp.Service@2.0.1
+- pkg:nuget/HigLabo.DbSharp.Service@2.1.0
+- pkg:nuget/HigLabo.DbSharp.Service@5.0.0
+- pkg:nuget/HigLabo.DbSharp.Service@6.0.0
+- pkg:nuget/HigLabo.DbSharp.Service@6.1.0
+- pkg:nuget/HigLabo.DbSharp.Service@6.2.0
+- pkg:nuget/HigLabo.DbSharp.Service@6.3.0
+- pkg:nuget/HigLabo.DbSharp.Service@6.4.0
+- pkg:nuget/HigLabo.DbSharp.Service@6.5.0
+- pkg:nuget/HigLabo.DbSharp.Service@6.5.1

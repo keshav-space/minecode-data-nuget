@@ -1,0 +1,5 @@
+- pkg:nuget/VSSDK.GraphModel.11@11.0.0
+- pkg:nuget/VSSDK.GraphModel.11@11.0.1
+- pkg:nuget/VSSDK.GraphModel.11@11.0.2
+- pkg:nuget/VSSDK.GraphModel.11@11.0.3
+- pkg:nuget/VSSDK.GraphModel.11@11.0.4

@@ -1,0 +1,16 @@
+- pkg:nuget/Our.Iconic.Core@12.0.0
+- pkg:nuget/Our.Iconic.Core@14.0.0-beat1
+- pkg:nuget/Our.Iconic.Core@14.0.0-beta2
+- pkg:nuget/Our.Iconic.Core@15.0.0
+- pkg:nuget/Our.Iconic.Core@15.1.0
+- pkg:nuget/Our.Iconic.Core@16.0.0
+- pkg:nuget/Our.Iconic.Core@16.0.0-rc1
+- pkg:nuget/Our.Iconic.Core@3.1.1
+- pkg:nuget/Our.Iconic.Core@3.1.1-pre001
+- pkg:nuget/Our.Iconic.Core@3.1.2
+- pkg:nuget/Our.Iconic.Core@3.2.0
+- pkg:nuget/Our.Iconic.Core@5.0.0
+- pkg:nuget/Our.Iconic.Core@5.1.0-beta1
+- pkg:nuget/Our.Iconic.Core@5.2.0
+- pkg:nuget/Our.Iconic.Core@5.2.0-beta3
+- pkg:nuget/Our.Iconic.Core@5.3.0

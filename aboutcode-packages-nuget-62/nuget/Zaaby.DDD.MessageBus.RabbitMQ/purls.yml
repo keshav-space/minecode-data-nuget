@@ -1,0 +1,9 @@
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2021.1.0
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2021.1.1
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2021.1.2
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2021.1.3
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2022.1.0
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2022.2.0
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2022.2.0.2
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2022.2.0.4
+- pkg:nuget/Zaaby.DDD.MessageBus.RabbitMQ@2022.3.0

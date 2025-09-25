@@ -1,0 +1,6 @@
+- pkg:nuget/XPike.Metrics.DataDog@1.0.0
+- pkg:nuget/XPike.Metrics.DataDog@2.0.0
+- pkg:nuget/XPike.Metrics.DataDog@2.2.0
+- pkg:nuget/XPike.Metrics.DataDog@2.3.1
+- pkg:nuget/XPike.Metrics.DataDog@2.4.0
+- pkg:nuget/XPike.Metrics.DataDog@2.4.1

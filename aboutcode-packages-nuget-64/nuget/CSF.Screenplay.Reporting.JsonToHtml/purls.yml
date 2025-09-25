@@ -1,0 +1,4 @@
+- pkg:nuget/CSF.Screenplay.Reporting.JsonToHtml@0.14.0-beta
+- pkg:nuget/CSF.Screenplay.Reporting.JsonToHtml@0.15.0-rc1
+- pkg:nuget/CSF.Screenplay.Reporting.JsonToHtml@0.15.1-rc2
+- pkg:nuget/CSF.Screenplay.Reporting.JsonToHtml@1.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/FSharp.NET.Sdk@1.0.0
+- pkg:nuget/FSharp.NET.Sdk@1.0.0-alpha-000007
+- pkg:nuget/FSharp.NET.Sdk@1.0.0-alpha-000009
+- pkg:nuget/FSharp.NET.Sdk@1.0.0-beta-040011
+- pkg:nuget/FSharp.NET.Sdk@1.0.0-beta-050000
+- pkg:nuget/FSharp.NET.Sdk@1.0.0-beta-060000
+- pkg:nuget/FSharp.NET.Sdk@1.0.1
+- pkg:nuget/FSharp.NET.Sdk@1.0.2
+- pkg:nuget/FSharp.NET.Sdk@1.0.3
+- pkg:nuget/FSharp.NET.Sdk@1.0.4
+- pkg:nuget/FSharp.NET.Sdk@1.0.4-bundled-0100
+- pkg:nuget/FSharp.NET.Sdk@1.0.5

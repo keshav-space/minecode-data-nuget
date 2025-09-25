@@ -1,0 +1,5 @@
+- pkg:nuget/EntityFrameworkIncludeBuilder@1.0.0
+- pkg:nuget/EntityFrameworkIncludeBuilder@1.0.1
+- pkg:nuget/EntityFrameworkIncludeBuilder@2.0.0
+- pkg:nuget/EntityFrameworkIncludeBuilder@3.0.0
+- pkg:nuget/EntityFrameworkIncludeBuilder@5.0.0

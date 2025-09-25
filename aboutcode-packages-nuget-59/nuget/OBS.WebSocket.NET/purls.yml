@@ -1,0 +1,4 @@
+- pkg:nuget/OBS.WebSocket.NET@4.6.1
+- pkg:nuget/OBS.WebSocket.NET@4.7.0
+- pkg:nuget/OBS.WebSocket.NET@4.7.1
+- pkg:nuget/OBS.WebSocket.NET@4.7.2

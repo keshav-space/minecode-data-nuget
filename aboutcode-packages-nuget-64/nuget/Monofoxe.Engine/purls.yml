@@ -1,0 +1,5 @@
+- pkg:nuget/Monofoxe.Engine@2.0.0
+- pkg:nuget/Monofoxe.Engine@2.1.0
+- pkg:nuget/Monofoxe.Engine@2.2.0
+- pkg:nuget/Monofoxe.Engine@3.0.0-dev.1
+- pkg:nuget/Monofoxe.Engine@3.0.0-dev.2

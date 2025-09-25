@@ -1,0 +1,10 @@
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@5.0.0
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@5.0.0-preview.1
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@5.0.1
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@5.0.17.16649
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@5.0.2
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@5.0.3
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@6.0.0
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@6.0.16.16649
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@6.0.28.20604
+- pkg:nuget/dmdbms.Microsoft.EntityFrameworkCore.Dm@8.0.0.29681

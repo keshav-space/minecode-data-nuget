@@ -1,0 +1,7 @@
+- pkg:nuget/Pipaslot.Authorization@1.0.0
+- pkg:nuget/Pipaslot.Authorization@2.0.0
+- pkg:nuget/Pipaslot.Authorization@2.1.0
+- pkg:nuget/Pipaslot.Authorization@2.2.0-beta
+- pkg:nuget/Pipaslot.Authorization@2.2.2
+- pkg:nuget/Pipaslot.Authorization@2.2.3
+- pkg:nuget/Pipaslot.Authorization@2.3.0

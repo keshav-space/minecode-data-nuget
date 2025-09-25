@@ -1,0 +1,6 @@
+- pkg:nuget/Orleans.Http.MediaTypes.Protobuf@1.0.0
+- pkg:nuget/Orleans.Http.MediaTypes.Protobuf@1.0.0-preview1
+- pkg:nuget/Orleans.Http.MediaTypes.Protobuf@1.1.0
+- pkg:nuget/Orleans.Http.MediaTypes.Protobuf@1.2.0
+- pkg:nuget/Orleans.Http.MediaTypes.Protobuf@1.3.0
+- pkg:nuget/Orleans.Http.MediaTypes.Protobuf@1.3.1
