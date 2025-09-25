@@ -1,0 +1,4 @@
+- pkg:nuget/SimpleValidatorBuilder.Extensions.EntityFrameworkCore6@1.4.0-preview.1
+- pkg:nuget/SimpleValidatorBuilder.Extensions.EntityFrameworkCore6@1.5.0
+- pkg:nuget/SimpleValidatorBuilder.Extensions.EntityFrameworkCore6@1.5.1
+- pkg:nuget/SimpleValidatorBuilder.Extensions.EntityFrameworkCore6@1.5.2

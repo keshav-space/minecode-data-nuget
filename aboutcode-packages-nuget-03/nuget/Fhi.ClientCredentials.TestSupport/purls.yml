@@ -1,0 +1,13 @@
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@1.0.0-beta.1
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@1.0.0-beta.4
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@1.0.0-beta.5
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@1.0.0-beta.6
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@2.0.0
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@2.0.0-beta1
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@2.0.0-beta2
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@2.1.0
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@2.1.0-beta1
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@2.1.0-beta2
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@2.1.0-beta3
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@3.2.0
+- pkg:nuget/Fhi.ClientCredentials.TestSupport@3.3.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Ah.Framework.MySqlClient@1.0.0
+- pkg:nuget/Ah.Framework.MySqlClient@2.0.0
+- pkg:nuget/Ah.Framework.MySqlClient@3.0.0
+- pkg:nuget/Ah.Framework.MySqlClient@4.0.0

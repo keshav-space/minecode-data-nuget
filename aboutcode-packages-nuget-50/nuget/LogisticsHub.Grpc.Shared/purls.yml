@@ -1,0 +1,4 @@
+- pkg:nuget/LogisticsHub.Grpc.Shared@1.0.0
+- pkg:nuget/LogisticsHub.Grpc.Shared@1.0.0-alpha
+- pkg:nuget/LogisticsHub.Grpc.Shared@2.0.0
+- pkg:nuget/LogisticsHub.Grpc.Shared@2.0.0-alpha

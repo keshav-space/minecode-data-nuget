@@ -1,0 +1,4 @@
+- pkg:nuget/LiveScope.Common@0.4.4-alpha10
+- pkg:nuget/LiveScope.Common@0.5.335-beta
+- pkg:nuget/LiveScope.Common@0.5.400-beta
+- pkg:nuget/LiveScope.Common@0.5.501-beta

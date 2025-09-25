@@ -1,0 +1,7 @@
+- pkg:nuget/AspNet.Identity.EntityFramework.Multitenant@0.10.0-beta
+- pkg:nuget/AspNet.Identity.EntityFramework.Multitenant@0.5.0-alpha
+- pkg:nuget/AspNet.Identity.EntityFramework.Multitenant@0.9.0-alpha
+- pkg:nuget/AspNet.Identity.EntityFramework.Multitenant@1.0.0
+- pkg:nuget/AspNet.Identity.EntityFramework.Multitenant@1.1.0
+- pkg:nuget/AspNet.Identity.EntityFramework.Multitenant@1.2.0
+- pkg:nuget/AspNet.Identity.EntityFramework.Multitenant@1.2.1

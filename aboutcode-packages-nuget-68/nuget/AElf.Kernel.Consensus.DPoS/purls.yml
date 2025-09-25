@@ -1,0 +1,4 @@
+- pkg:nuget/AElf.Kernel.Consensus.DPoS@0.7.0-alpha.1
+- pkg:nuget/AElf.Kernel.Consensus.DPoS@0.7.0-alpha.2
+- pkg:nuget/AElf.Kernel.Consensus.DPoS@0.7.0-beta
+- pkg:nuget/AElf.Kernel.Consensus.DPoS@0.7.0-beta.1

@@ -1,0 +1,8 @@
+- pkg:nuget/Cake.SemVer@1.0.1
+- pkg:nuget/Cake.SemVer@1.0.14
+- pkg:nuget/Cake.SemVer@1.0.3
+- pkg:nuget/Cake.SemVer@1.0.4
+- pkg:nuget/Cake.SemVer@1.0.6
+- pkg:nuget/Cake.SemVer@2.0.0
+- pkg:nuget/Cake.SemVer@3.0.0
+- pkg:nuget/Cake.SemVer@4.0.0

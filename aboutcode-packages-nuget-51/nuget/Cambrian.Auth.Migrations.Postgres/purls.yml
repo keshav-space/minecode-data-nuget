@@ -1,0 +1,16 @@
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.17-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.18-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.19-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.20-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.21-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.22-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.23-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.24-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.25-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.26-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.27-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.28-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.35-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.2.36-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.6.37-dev
+- pkg:nuget/Cambrian.Auth.Migrations.Postgres@1.6.38-dev

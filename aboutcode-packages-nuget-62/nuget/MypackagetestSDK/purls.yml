@@ -1,0 +1,4 @@
+- pkg:nuget/MypackagetestSDK@1.2.3
+- pkg:nuget/MypackagetestSDK@2.0.2
+- pkg:nuget/MypackagetestSDK@2.3.3
+- pkg:nuget/MypackagetestSDK@5.0.0

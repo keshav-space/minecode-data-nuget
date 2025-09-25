@@ -1,0 +1,11 @@
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@1.0.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@1.0.0-alpha1
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@1.0.0-rc1
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@1.1.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@2.0.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@2.1.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@2.2.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@3.0.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@3.1.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@3.2.0
+- pkg:nuget/Lib.AspNetCore.Mvc.Security@3.2.1

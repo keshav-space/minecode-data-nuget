@@ -1,0 +1,16 @@
+- pkg:nuget/jmessage-cpp@1.1.0
+- pkg:nuget/jmessage-cpp@1.1.0-beta171114-5
+- pkg:nuget/jmessage-cpp@1.1.0-beta171116-0
+- pkg:nuget/jmessage-cpp@1.1.0-beta171120-0
+- pkg:nuget/jmessage-cpp@1.1.0-beta171120-1
+- pkg:nuget/jmessage-cpp@1.1.0-beta171120-2
+- pkg:nuget/jmessage-cpp@1.1.0-beta171124-0
+- pkg:nuget/jmessage-cpp@1.1.0-rc1
+- pkg:nuget/jmessage-cpp@1.2.0
+- pkg:nuget/jmessage-cpp@1.2.1
+- pkg:nuget/jmessage-cpp@1.2.1.1
+- pkg:nuget/jmessage-cpp@1.2.2
+- pkg:nuget/jmessage-cpp@1.2.2.1
+- pkg:nuget/jmessage-cpp@1.2.2.2
+- pkg:nuget/jmessage-cpp@1.2.3
+- pkg:nuget/jmessage-cpp@1.2.3.2

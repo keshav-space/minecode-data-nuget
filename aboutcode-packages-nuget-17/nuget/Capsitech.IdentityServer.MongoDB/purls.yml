@@ -1,0 +1,6 @@
+- pkg:nuget/Capsitech.IdentityServer.MongoDB@1.0.9
+- pkg:nuget/Capsitech.IdentityServer.MongoDB@1.1.0
+- pkg:nuget/Capsitech.IdentityServer.MongoDB@1.1.1
+- pkg:nuget/Capsitech.IdentityServer.MongoDB@1.1.2
+- pkg:nuget/Capsitech.IdentityServer.MongoDB@1.1.3
+- pkg:nuget/Capsitech.IdentityServer.MongoDB@1.1.4

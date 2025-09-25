@@ -1,0 +1,10 @@
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@2.0.1
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@3.1.3
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@6.0.1
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@6.0.2
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@6.0.3
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@6.0.4
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@6.0.5
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@7.0.0
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@7.0.1
+- pkg:nuget/SwitchSoftware.Messaging.Queues.RabbitMQ@8.0.0

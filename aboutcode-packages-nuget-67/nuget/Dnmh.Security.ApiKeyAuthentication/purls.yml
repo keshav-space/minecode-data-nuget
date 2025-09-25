@@ -1,0 +1,9 @@
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@1.0.0
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@1.0.1
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@1.1.0
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@2.0.0
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@2.0.1
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@3.0.0
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@3.1.0
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@9.0.0
+- pkg:nuget/Dnmh.Security.ApiKeyAuthentication@9.0.1

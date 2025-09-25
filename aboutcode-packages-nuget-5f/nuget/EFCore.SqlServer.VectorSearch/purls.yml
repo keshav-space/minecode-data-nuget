@@ -1,0 +1,8 @@
+- pkg:nuget/EFCore.SqlServer.VectorSearch@0.1.0
+- pkg:nuget/EFCore.SqlServer.VectorSearch@0.1.1
+- pkg:nuget/EFCore.SqlServer.VectorSearch@0.2.0
+- pkg:nuget/EFCore.SqlServer.VectorSearch@8.0.0
+- pkg:nuget/EFCore.SqlServer.VectorSearch@8.0.0-preview.1
+- pkg:nuget/EFCore.SqlServer.VectorSearch@9.0.0
+- pkg:nuget/EFCore.SqlServer.VectorSearch@9.0.0-preview.1
+- pkg:nuget/EFCore.SqlServer.VectorSearch@9.0.0-preview.2

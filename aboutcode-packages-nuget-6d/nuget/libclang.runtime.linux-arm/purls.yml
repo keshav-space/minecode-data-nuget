@@ -1,0 +1,4 @@
+- pkg:nuget/libclang.runtime.linux-arm@10.0.0
+- pkg:nuget/libclang.runtime.linux-arm@12.0.0
+- pkg:nuget/libclang.runtime.linux-arm@8.0.0
+- pkg:nuget/libclang.runtime.linux-arm@9.0.0

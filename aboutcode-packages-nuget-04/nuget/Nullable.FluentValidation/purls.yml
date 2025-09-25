@@ -1,0 +1,4 @@
+- pkg:nuget/Nullable.FluentValidation@0.2.0
+- pkg:nuget/Nullable.FluentValidation@0.2.1
+- pkg:nuget/Nullable.FluentValidation@0.2.3
+- pkg:nuget/Nullable.FluentValidation@0.2.4

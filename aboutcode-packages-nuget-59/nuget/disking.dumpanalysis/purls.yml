@@ -1,0 +1,4 @@
+- pkg:nuget/disking.dumpanalysis@1.0.0
+- pkg:nuget/disking.dumpanalysis@1.0.1-alpha
+- pkg:nuget/disking.dumpanalysis@1.0.1-rc
+- pkg:nuget/disking.dumpanalysis@1.0.2-rc

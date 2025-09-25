@@ -1,0 +1,5 @@
+- pkg:nuget/Calmo.Data.SQLServer@1.0.0
+- pkg:nuget/Calmo.Data.SQLServer@1.0.1
+- pkg:nuget/Calmo.Data.SQLServer@1.0.2
+- pkg:nuget/Calmo.Data.SQLServer@1.0.3
+- pkg:nuget/Calmo.Data.SQLServer@2017.10.5.9

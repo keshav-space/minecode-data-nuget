@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.0.20241009.2
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.1.20241023.1-preview1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.1.20241024.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.2.20250107.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.3.20250314.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.4.20250415.2
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.5.20250417.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.6.20250507.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.20250508.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.20250528.2
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.20250728.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.20250806.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.20250829.1

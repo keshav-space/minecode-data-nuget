@@ -1,0 +1,17 @@
+- pkg:nuget/GraphQL.Analyzers@7.7.0
+- pkg:nuget/GraphQL.Analyzers@7.7.1
+- pkg:nuget/GraphQL.Analyzers@7.7.2
+- pkg:nuget/GraphQL.Analyzers@7.8.0
+- pkg:nuget/GraphQL.Analyzers@7.9.0
+- pkg:nuget/GraphQL.Analyzers@8.0.0
+- pkg:nuget/GraphQL.Analyzers@8.0.1
+- pkg:nuget/GraphQL.Analyzers@8.0.2
+- pkg:nuget/GraphQL.Analyzers@8.1.0
+- pkg:nuget/GraphQL.Analyzers@8.2.0
+- pkg:nuget/GraphQL.Analyzers@8.2.1
+- pkg:nuget/GraphQL.Analyzers@8.3.0
+- pkg:nuget/GraphQL.Analyzers@8.3.1
+- pkg:nuget/GraphQL.Analyzers@8.4.0
+- pkg:nuget/GraphQL.Analyzers@8.4.1
+- pkg:nuget/GraphQL.Analyzers@8.5.0
+- pkg:nuget/GraphQL.Analyzers@8.6.0

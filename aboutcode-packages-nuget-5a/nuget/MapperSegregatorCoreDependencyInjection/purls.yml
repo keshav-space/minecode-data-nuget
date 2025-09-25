@@ -1,0 +1,3 @@
+- pkg:nuget/MapperSegregatorCoreDependencyInjection@5.0.11
+- pkg:nuget/MapperSegregatorCoreDependencyInjection@6.0.0
+- pkg:nuget/MapperSegregatorCoreDependencyInjection@6.1.0

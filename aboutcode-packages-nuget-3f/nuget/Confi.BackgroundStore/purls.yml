@@ -1,0 +1,10 @@
+- pkg:nuget/Confi.BackgroundStore@2025.102.106.1-background-stores-lib
+- pkg:nuget/Confi.BackgroundStore@2025.102.106.2
+- pkg:nuget/Confi.BackgroundStore@2025.102.117.3-store-services-addition
+- pkg:nuget/Confi.BackgroundStore@2025.102.117.4-store-services-addition
+- pkg:nuget/Confi.BackgroundStore@2025.102.117.5
+- pkg:nuget/Confi.BackgroundStore@2025.102.125.6-v0.4
+- pkg:nuget/Confi.BackgroundStore@2025.102.126.7-simpler-multiple-readers-registration
+- pkg:nuget/Confi.BackgroundStore@2025.102.126.8
+- pkg:nuget/Confi.BackgroundStore@2025.105.114.9-v0.5
+- pkg:nuget/Confi.BackgroundStore@2025.106.104.10-v0.6

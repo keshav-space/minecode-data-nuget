@@ -1,0 +1,5 @@
+- pkg:nuget/NTT.CIS.Compute.Api.Client@3.10.57
+- pkg:nuget/NTT.CIS.Compute.Api.Client@3.10.57-alpha
+- pkg:nuget/NTT.CIS.Compute.Api.Client@3.10.58
+- pkg:nuget/NTT.CIS.Compute.Api.Client@3.10.58-dev
+- pkg:nuget/NTT.CIS.Compute.Api.Client@3.10.59

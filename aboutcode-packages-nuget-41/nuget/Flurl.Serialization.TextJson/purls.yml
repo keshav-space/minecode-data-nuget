@@ -1,0 +1,5 @@
+- pkg:nuget/Flurl.Serialization.TextJson@0.0.0-preview.0
+- pkg:nuget/Flurl.Serialization.TextJson@2.4.2
+- pkg:nuget/Flurl.Serialization.TextJson@2.5.0
+- pkg:nuget/Flurl.Serialization.TextJson@3.0.0
+- pkg:nuget/Flurl.Serialization.TextJson@3.1.0

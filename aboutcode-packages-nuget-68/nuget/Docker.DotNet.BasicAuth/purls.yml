@@ -1,0 +1,14 @@
+- pkg:nuget/Docker.DotNet.BasicAuth@1.0.0
+- pkg:nuget/Docker.DotNet.BasicAuth@1.2.2
+- pkg:nuget/Docker.DotNet.BasicAuth@2.124.1
+- pkg:nuget/Docker.DotNet.BasicAuth@2.124.3
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.0
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.1
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.10
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.11
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.12
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.13
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.14
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.15
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.2
+- pkg:nuget/Docker.DotNet.BasicAuth@3.125.3

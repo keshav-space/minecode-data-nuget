@@ -1,0 +1,14 @@
+- pkg:nuget/Bdaya.AspNetCore.Helpers@3.5.5
+- pkg:nuget/Bdaya.AspNetCore.Helpers@4.0.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@4.1.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@4.2.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@4.3.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@5.0.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@5.1.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@6.0.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@6.1.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@7.0.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@7.1.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@7.2.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@8.0.0
+- pkg:nuget/Bdaya.AspNetCore.Helpers@8.0.1

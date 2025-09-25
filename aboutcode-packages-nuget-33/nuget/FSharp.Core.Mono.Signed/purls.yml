@@ -1,0 +1,3 @@
+- pkg:nuget/FSharp.Core.Mono.Signed@0.0.1-beta1
+- pkg:nuget/FSharp.Core.Mono.Signed@3.1.1.26
+- pkg:nuget/FSharp.Core.Mono.Signed@3.1.1.27

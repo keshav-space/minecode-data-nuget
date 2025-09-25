@@ -1,0 +1,4 @@
+- pkg:nuget/Resulver.AspNetCore.Core@2.0.0
+- pkg:nuget/Resulver.AspNetCore.Core@2.0.1
+- pkg:nuget/Resulver.AspNetCore.Core@9.0.0
+- pkg:nuget/Resulver.AspNetCore.Core@9.0.1

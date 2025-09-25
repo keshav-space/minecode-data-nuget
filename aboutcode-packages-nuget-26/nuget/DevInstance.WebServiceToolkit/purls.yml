@@ -1,0 +1,5 @@
+- pkg:nuget/DevInstance.WebServiceToolkit@6.0.0
+- pkg:nuget/DevInstance.WebServiceToolkit@8.0.0
+- pkg:nuget/DevInstance.WebServiceToolkit@8.1.0
+- pkg:nuget/DevInstance.WebServiceToolkit@8.2.0
+- pkg:nuget/DevInstance.WebServiceToolkit@8.3.0

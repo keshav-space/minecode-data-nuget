@@ -1,0 +1,5 @@
+- pkg:nuget/LINGYUN.ApiGateway.Domain.Shared@4.2.1
+- pkg:nuget/LINGYUN.ApiGateway.Domain.Shared@4.3.0
+- pkg:nuget/LINGYUN.ApiGateway.Domain.Shared@4.3.2
+- pkg:nuget/LINGYUN.ApiGateway.Domain.Shared@4.3.2.1
+- pkg:nuget/LINGYUN.ApiGateway.Domain.Shared@4.4.0

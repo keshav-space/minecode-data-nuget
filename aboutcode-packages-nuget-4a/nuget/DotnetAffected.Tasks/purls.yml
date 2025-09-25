@@ -1,0 +1,13 @@
+- pkg:nuget/DotnetAffected.Tasks@3.0.0
+- pkg:nuget/DotnetAffected.Tasks@3.0.0-preview-3
+- pkg:nuget/DotnetAffected.Tasks@3.0.0-preview-4
+- pkg:nuget/DotnetAffected.Tasks@3.1.0
+- pkg:nuget/DotnetAffected.Tasks@3.1.1
+- pkg:nuget/DotnetAffected.Tasks@3.2.0
+- pkg:nuget/DotnetAffected.Tasks@4.0.0
+- pkg:nuget/DotnetAffected.Tasks@4.0.1
+- pkg:nuget/DotnetAffected.Tasks@5.0.0
+- pkg:nuget/DotnetAffected.Tasks@6.0.0
+- pkg:nuget/DotnetAffected.Tasks@6.0.0-preview-1
+- pkg:nuget/DotnetAffected.Tasks@6.1.0
+- pkg:nuget/DotnetAffected.Tasks@6.1.0-preview-1

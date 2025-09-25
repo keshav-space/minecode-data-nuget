@@ -1,0 +1,9 @@
+- pkg:nuget/MartinCostello.SqlLocalDb@2.0.0
+- pkg:nuget/MartinCostello.SqlLocalDb@2.0.0-beta1
+- pkg:nuget/MartinCostello.SqlLocalDb@3.0.0
+- pkg:nuget/MartinCostello.SqlLocalDb@3.0.1
+- pkg:nuget/MartinCostello.SqlLocalDb@3.1.0
+- pkg:nuget/MartinCostello.SqlLocalDb@3.2.0
+- pkg:nuget/MartinCostello.SqlLocalDb@3.3.0
+- pkg:nuget/MartinCostello.SqlLocalDb@3.4.0
+- pkg:nuget/MartinCostello.SqlLocalDb@4.0.0

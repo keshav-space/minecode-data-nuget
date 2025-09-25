@@ -1,0 +1,5 @@
+- pkg:nuget/Bdaya.MongoDB@7.0.0
+- pkg:nuget/Bdaya.MongoDB@7.1.0
+- pkg:nuget/Bdaya.MongoDB@7.2.0
+- pkg:nuget/Bdaya.MongoDB@8.0.0
+- pkg:nuget/Bdaya.MongoDB@8.0.1

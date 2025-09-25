@@ -1,0 +1,11 @@
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@1.2.7
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@1.2.7-develop.240430124929
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@1.2.7-develop.240430153808
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.0
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.0-develop.241121145735
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.0-develop.241121151205
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.1
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.2
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.2-develop.250317161245
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.3
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.3-develop.250414153512

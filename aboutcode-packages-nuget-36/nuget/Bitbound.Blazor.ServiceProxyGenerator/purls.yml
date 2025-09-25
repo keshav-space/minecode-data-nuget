@@ -1,0 +1,7 @@
+- pkg:nuget/Bitbound.Blazor.ServiceProxyGenerator@1.0.0
+- pkg:nuget/Bitbound.Blazor.ServiceProxyGenerator@1.0.3-dev
+- pkg:nuget/Bitbound.Blazor.ServiceProxyGenerator@1.0.4-dev
+- pkg:nuget/Bitbound.Blazor.ServiceProxyGenerator@1.0.5
+- pkg:nuget/Bitbound.Blazor.ServiceProxyGenerator@1.1.7-dev
+- pkg:nuget/Bitbound.Blazor.ServiceProxyGenerator@1.1.8
+- pkg:nuget/Bitbound.Blazor.ServiceProxyGenerator@1.2.9

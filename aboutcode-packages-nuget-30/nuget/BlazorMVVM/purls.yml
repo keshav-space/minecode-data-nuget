@@ -1,0 +1,13 @@
+- pkg:nuget/BlazorMVVM@0.1.0-prerelease6
+- pkg:nuget/BlazorMVVM@0.1.1-prerelease7
+- pkg:nuget/BlazorMVVM@0.1.2-prerelease7
+- pkg:nuget/BlazorMVVM@0.2.0-prerelease7
+- pkg:nuget/BlazorMVVM@0.2.1-prerelease7
+- pkg:nuget/BlazorMVVM@0.2.2-prerelease7
+- pkg:nuget/BlazorMVVM@0.3.0-prerelease7
+- pkg:nuget/BlazorMVVM@0.3.1-prerelease7
+- pkg:nuget/BlazorMVVM@0.4.0-prerelease7
+- pkg:nuget/BlazorMVVM@0.5.0-prerelease7
+- pkg:nuget/BlazorMVVM@0.6.0-preview9
+- pkg:nuget/BlazorMVVM@0.7.0-preview9
+- pkg:nuget/BlazorMVVM@0.7.1-preview9

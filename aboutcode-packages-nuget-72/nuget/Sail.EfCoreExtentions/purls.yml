@@ -1,0 +1,6 @@
+- pkg:nuget/Sail.EfCoreExtentions@2022.3.1
+- pkg:nuget/Sail.EfCoreExtentions@2022.3.2
+- pkg:nuget/Sail.EfCoreExtentions@2022.4.1
+- pkg:nuget/Sail.EfCoreExtentions@2022.5.1
+- pkg:nuget/Sail.EfCoreExtentions@2022.5.2
+- pkg:nuget/Sail.EfCoreExtentions@2022.5.3

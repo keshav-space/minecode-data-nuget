@@ -1,0 +1,5 @@
+- pkg:nuget/CSESoftware.Repository.EntityFramework@1.0.0
+- pkg:nuget/CSESoftware.Repository.EntityFramework@2.0.0
+- pkg:nuget/CSESoftware.Repository.EntityFramework@2.1.0
+- pkg:nuget/CSESoftware.Repository.EntityFramework@2.1.0-beta2
+- pkg:nuget/CSESoftware.Repository.EntityFramework@2.2.0

@@ -1,0 +1,4 @@
+- pkg:nuget/libclang.runtime.ubuntu.16.04-x64@10.0.0
+- pkg:nuget/libclang.runtime.ubuntu.16.04-x64@11.0.0
+- pkg:nuget/libclang.runtime.ubuntu.16.04-x64@8.0.0
+- pkg:nuget/libclang.runtime.ubuntu.16.04-x64@9.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/FluentCommandLineParser.Signed@1.5.0.13-commands
+- pkg:nuget/FluentCommandLineParser.Signed@1.5.0.17-commands
+- pkg:nuget/FluentCommandLineParser.Signed@1.5.0.19-commands
+- pkg:nuget/FluentCommandLineParser.Signed@1.5.0.20-commands

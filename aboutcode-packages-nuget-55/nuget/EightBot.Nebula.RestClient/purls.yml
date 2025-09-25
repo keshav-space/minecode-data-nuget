@@ -1,0 +1,4 @@
+- pkg:nuget/EightBot.Nebula.RestClient@2.0.2
+- pkg:nuget/EightBot.Nebula.RestClient@2.3.3
+- pkg:nuget/EightBot.Nebula.RestClient@2.3.5
+- pkg:nuget/EightBot.Nebula.RestClient@3.0.0

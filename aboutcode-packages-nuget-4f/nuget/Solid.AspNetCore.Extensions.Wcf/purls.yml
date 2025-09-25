@@ -1,0 +1,4 @@
+- pkg:nuget/Solid.AspNetCore.Extensions.Wcf@1.0.1-RC
+- pkg:nuget/Solid.AspNetCore.Extensions.Wcf@1.0.13-RC
+- pkg:nuget/Solid.AspNetCore.Extensions.Wcf@1.0.14-RC
+- pkg:nuget/Solid.AspNetCore.Extensions.Wcf@1.1.4

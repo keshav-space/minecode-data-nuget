@@ -1,0 +1,15 @@
+- pkg:nuget/ScientificBit.MongoDb@0.1.0-alpha
+- pkg:nuget/ScientificBit.MongoDb@0.1.1-alpha
+- pkg:nuget/ScientificBit.MongoDb@1.0.0
+- pkg:nuget/ScientificBit.MongoDb@1.0.1
+- pkg:nuget/ScientificBit.MongoDb@2.0.0
+- pkg:nuget/ScientificBit.MongoDb@2.0.1
+- pkg:nuget/ScientificBit.MongoDb@2.0.2
+- pkg:nuget/ScientificBit.MongoDb@2.1.0
+- pkg:nuget/ScientificBit.MongoDb@2.2.0
+- pkg:nuget/ScientificBit.MongoDb@2.2.1
+- pkg:nuget/ScientificBit.MongoDb@2.2.2
+- pkg:nuget/ScientificBit.MongoDb@2.3.0
+- pkg:nuget/ScientificBit.MongoDb@3.0.0
+- pkg:nuget/ScientificBit.MongoDb@3.0.1
+- pkg:nuget/ScientificBit.MongoDb@3.0.2

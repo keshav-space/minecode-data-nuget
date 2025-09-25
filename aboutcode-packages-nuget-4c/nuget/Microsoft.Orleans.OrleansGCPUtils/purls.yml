@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Orleans.OrleansGCPUtils@2.0.0-beta1
+- pkg:nuget/Microsoft.Orleans.OrleansGCPUtils@2.0.0-beta2
+- pkg:nuget/Microsoft.Orleans.OrleansGCPUtils@2.0.0-beta3
+- pkg:nuget/Microsoft.Orleans.OrleansGCPUtils@2.0.0-rc1
+- pkg:nuget/Microsoft.Orleans.OrleansGCPUtils@2.0.0-rc2

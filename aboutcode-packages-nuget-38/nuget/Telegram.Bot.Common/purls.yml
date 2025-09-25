@@ -1,0 +1,10 @@
+- pkg:nuget/Telegram.Bot.Common@0.0.1
+- pkg:nuget/Telegram.Bot.Common@0.0.3
+- pkg:nuget/Telegram.Bot.Common@0.0.4-CI-20190128-143248
+- pkg:nuget/Telegram.Bot.Common@0.0.4-CI-20190128-151148
+- pkg:nuget/Telegram.Bot.Common@0.0.5
+- pkg:nuget/Telegram.Bot.Common@1.0.0
+- pkg:nuget/Telegram.Bot.Common@1.0.1
+- pkg:nuget/Telegram.Bot.Common@1.0.10
+- pkg:nuget/Telegram.Bot.Common@1.0.2
+- pkg:nuget/Telegram.Bot.Common@1.0.3

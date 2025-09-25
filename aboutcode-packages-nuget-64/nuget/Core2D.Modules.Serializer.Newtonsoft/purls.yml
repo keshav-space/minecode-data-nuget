@@ -1,0 +1,6 @@
+- pkg:nuget/Core2D.Modules.Serializer.Newtonsoft@0.10.10-beta1
+- pkg:nuget/Core2D.Modules.Serializer.Newtonsoft@0.10.11
+- pkg:nuget/Core2D.Modules.Serializer.Newtonsoft@0.10.11-rc.1
+- pkg:nuget/Core2D.Modules.Serializer.Newtonsoft@0.10.11-rc.2
+- pkg:nuget/Core2D.Modules.Serializer.Newtonsoft@0.10.12
+- pkg:nuget/Core2D.Modules.Serializer.Newtonsoft@0.10.13

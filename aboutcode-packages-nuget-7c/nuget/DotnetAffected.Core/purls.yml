@@ -1,0 +1,14 @@
+- pkg:nuget/DotnetAffected.Core@3.0.0
+- pkg:nuget/DotnetAffected.Core@3.0.0-preview-2
+- pkg:nuget/DotnetAffected.Core@3.0.0-preview-3
+- pkg:nuget/DotnetAffected.Core@3.0.0-preview-4
+- pkg:nuget/DotnetAffected.Core@3.1.0
+- pkg:nuget/DotnetAffected.Core@3.1.1
+- pkg:nuget/DotnetAffected.Core@3.2.0
+- pkg:nuget/DotnetAffected.Core@4.0.0
+- pkg:nuget/DotnetAffected.Core@4.0.1
+- pkg:nuget/DotnetAffected.Core@5.0.0
+- pkg:nuget/DotnetAffected.Core@6.0.0
+- pkg:nuget/DotnetAffected.Core@6.0.0-preview-1
+- pkg:nuget/DotnetAffected.Core@6.1.0
+- pkg:nuget/DotnetAffected.Core@6.1.0-preview-1

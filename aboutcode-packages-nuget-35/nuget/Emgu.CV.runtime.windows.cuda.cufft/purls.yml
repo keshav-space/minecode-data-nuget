@@ -1,0 +1,2 @@
+- pkg:nuget/Emgu.CV.runtime.windows.cuda.cufft@10.1.243
+- pkg:nuget/Emgu.CV.runtime.windows.cuda.cufft@11.1.218

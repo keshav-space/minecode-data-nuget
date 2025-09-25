@@ -1,0 +1,2 @@
+- pkg:nuget/EFCore.SQLServer.Wrapper@1.0.0
+- pkg:nuget/EFCore.SQLServer.Wrapper@1.1.0

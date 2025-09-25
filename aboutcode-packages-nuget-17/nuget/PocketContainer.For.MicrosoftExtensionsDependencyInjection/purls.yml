@@ -1,0 +1,4 @@
+- pkg:nuget/PocketContainer.For.MicrosoftExtensionsDependencyInjection@1.0.0-beta
+- pkg:nuget/PocketContainer.For.MicrosoftExtensionsDependencyInjection@1.0.1-beta
+- pkg:nuget/PocketContainer.For.MicrosoftExtensionsDependencyInjection@2.0.0
+- pkg:nuget/PocketContainer.For.MicrosoftExtensionsDependencyInjection@2.0.1

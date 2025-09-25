@@ -1,0 +1,3 @@
+- pkg:nuget/DotQueue.Persistence.RavenDB@1.0.0
+- pkg:nuget/DotQueue.Persistence.RavenDB@1.0.6
+- pkg:nuget/DotQueue.Persistence.RavenDB@1.0.7

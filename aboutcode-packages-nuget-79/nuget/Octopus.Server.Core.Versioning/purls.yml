@@ -1,0 +1,6 @@
+- pkg:nuget/Octopus.Server.Core.Versioning@1.0.0
+- pkg:nuget/Octopus.Server.Core.Versioning@1.0.1
+- pkg:nuget/Octopus.Server.Core.Versioning@1.0.2
+- pkg:nuget/Octopus.Server.Core.Versioning@2.0.0
+- pkg:nuget/Octopus.Server.Core.Versioning@3.0.0
+- pkg:nuget/Octopus.Server.Core.Versioning@3.0.1

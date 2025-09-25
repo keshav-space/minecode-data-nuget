@@ -1,0 +1,6 @@
+- pkg:nuget/AspNetCore.PaginatedList@1.0.0
+- pkg:nuget/AspNetCore.PaginatedList@2.0.0
+- pkg:nuget/AspNetCore.PaginatedList@3.0.0
+- pkg:nuget/AspNetCore.PaginatedList@4.0.0
+- pkg:nuget/AspNetCore.PaginatedList@5.0.0
+- pkg:nuget/AspNetCore.PaginatedList@6.0.0

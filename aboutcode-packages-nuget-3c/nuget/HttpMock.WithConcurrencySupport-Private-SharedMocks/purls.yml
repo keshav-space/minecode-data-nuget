@@ -1,0 +1,2 @@
+- pkg:nuget/HttpMock.WithConcurrencySupport-Private-SharedMocks@1.0.0
+- pkg:nuget/HttpMock.WithConcurrencySupport-Private-SharedMocks@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/EFCore.Scaffolding@1.0.0
+- pkg:nuget/EFCore.Scaffolding@2.0.0
+- pkg:nuget/EFCore.Scaffolding@2.0.0-rc.1
+- pkg:nuget/EFCore.Scaffolding@2.1.0

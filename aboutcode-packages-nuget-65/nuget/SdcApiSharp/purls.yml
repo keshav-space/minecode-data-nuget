@@ -1,0 +1,4 @@
+- pkg:nuget/SdcApiSharp@0.9.0
+- pkg:nuget/SdcApiSharp@1.0.0
+- pkg:nuget/SdcApiSharp@1.1.0
+- pkg:nuget/SdcApiSharp@1.2.0

@@ -1,0 +1,14 @@
+- pkg:nuget/MELT.Serilog@0.5.0
+- pkg:nuget/MELT.Serilog@0.5.1
+- pkg:nuget/MELT.Serilog@0.5.2
+- pkg:nuget/MELT.Serilog@0.5.3
+- pkg:nuget/MELT.Serilog@0.6.0
+- pkg:nuget/MELT.Serilog@0.6.0-preview.1
+- pkg:nuget/MELT.Serilog@0.7.0
+- pkg:nuget/MELT.Serilog@0.8.0
+- pkg:nuget/MELT.Serilog@0.9.0
+- pkg:nuget/MELT.Serilog@1.0.0
+- pkg:nuget/MELT.Serilog@1.0.0-rc.1
+- pkg:nuget/MELT.Serilog@1.0.0-rc.2
+- pkg:nuget/MELT.Serilog@1.1.0
+- pkg:nuget/MELT.Serilog@1.1.0-preview.1

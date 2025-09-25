@@ -1,0 +1,14 @@
+- pkg:nuget/UmbracoMongoSmsDataServices@1.0.0
+- pkg:nuget/UmbracoMongoSmsDataServices@12.0.0
+- pkg:nuget/UmbracoMongoSmsDataServices@12.0.1
+- pkg:nuget/UmbracoMongoSmsDataServices@13.0.0
+- pkg:nuget/UmbracoMongoSmsDataServices@2.0.0
+- pkg:nuget/UmbracoMongoSmsDataServices@2.0.1
+- pkg:nuget/UmbracoMongoSmsDataServices@3.0.0
+- pkg:nuget/UmbracoMongoSmsDataServices@3.0.1
+- pkg:nuget/UmbracoMongoSmsDataServices@3.0.2
+- pkg:nuget/UmbracoMongoSmsDataServices@4.0.0
+- pkg:nuget/UmbracoMongoSmsDataServices@5.0.0
+- pkg:nuget/UmbracoMongoSmsDataServices@5.0.1
+- pkg:nuget/UmbracoMongoSmsDataServices@6.0.0
+- pkg:nuget/UmbracoMongoSmsDataServices@7.0.0

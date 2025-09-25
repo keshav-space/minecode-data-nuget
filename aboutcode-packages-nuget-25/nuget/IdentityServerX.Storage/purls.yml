@@ -1,0 +1,3 @@
+- pkg:nuget/IdentityServerX.Storage@0.0.0-alpha.0.2422
+- pkg:nuget/IdentityServerX.Storage@1.0.0
+- pkg:nuget/IdentityServerX.Storage@2.0.0

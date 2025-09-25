@@ -1,0 +1,5 @@
+- pkg:nuget/git-get@0.0.0-preview5
+- pkg:nuget/git-get@0.6.0
+- pkg:nuget/git-get@0.6.0-preview1
+- pkg:nuget/git-get@0.6.0-preview2
+- pkg:nuget/git-get@0.6.0-preview3

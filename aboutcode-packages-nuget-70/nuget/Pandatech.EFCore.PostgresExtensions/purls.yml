@@ -1,0 +1,12 @@
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@1.0.0
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@2.0.0
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@2.0.1
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@3.0.0
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@4.0.0
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@4.0.1
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@4.0.2
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@5.0.0
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@5.1.0
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@5.1.1
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@5.1.2
+- pkg:nuget/Pandatech.EFCore.PostgresExtensions@5.1.3

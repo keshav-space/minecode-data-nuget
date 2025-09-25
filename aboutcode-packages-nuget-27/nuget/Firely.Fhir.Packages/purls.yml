@@ -1,0 +1,17 @@
+- pkg:nuget/Firely.Fhir.Packages@3.0.0
+- pkg:nuget/Firely.Fhir.Packages@3.0.0-beta1
+- pkg:nuget/Firely.Fhir.Packages@3.0.0-beta2
+- pkg:nuget/Firely.Fhir.Packages@3.0.1
+- pkg:nuget/Firely.Fhir.Packages@3.0.2
+- pkg:nuget/Firely.Fhir.Packages@4.0.0
+- pkg:nuget/Firely.Fhir.Packages@4.0.0-beta1
+- pkg:nuget/Firely.Fhir.Packages@4.1.0
+- pkg:nuget/Firely.Fhir.Packages@4.2.0
+- pkg:nuget/Firely.Fhir.Packages@4.3.0
+- pkg:nuget/Firely.Fhir.Packages@4.4.0
+- pkg:nuget/Firely.Fhir.Packages@4.5.0
+- pkg:nuget/Firely.Fhir.Packages@4.6.0
+- pkg:nuget/Firely.Fhir.Packages@4.7.0
+- pkg:nuget/Firely.Fhir.Packages@4.8.0
+- pkg:nuget/Firely.Fhir.Packages@4.9.0
+- pkg:nuget/Firely.Fhir.Packages@4.9.1
