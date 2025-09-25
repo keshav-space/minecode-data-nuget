@@ -1,0 +1,2 @@
+- pkg:nuget/TestPackageB@1.0.0
+- pkg:nuget/TestPackageB@2.0.0

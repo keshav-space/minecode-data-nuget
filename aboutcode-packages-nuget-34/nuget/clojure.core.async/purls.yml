@@ -1,0 +1,4 @@
+- pkg:nuget/clojure.core.async@1.6.673
+- pkg:nuget/clojure.core.async@1.6.673.1
+- pkg:nuget/clojure.core.async@1.6.673.2
+- pkg:nuget/clojure.core.async@1.6.674

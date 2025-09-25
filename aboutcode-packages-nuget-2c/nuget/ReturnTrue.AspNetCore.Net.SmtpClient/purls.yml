@@ -1,0 +1,3 @@
+- pkg:nuget/ReturnTrue.AspNetCore.Net.SmtpClient@1.0.0
+- pkg:nuget/ReturnTrue.AspNetCore.Net.SmtpClient@1.1.0
+- pkg:nuget/ReturnTrue.AspNetCore.Net.SmtpClient@1.2.0

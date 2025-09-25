@@ -1,0 +1,2 @@
+- pkg:nuget/Shuttle.Core.Data.ThreadDatabaseContextScope@17.0.0
+- pkg:nuget/Shuttle.Core.Data.ThreadDatabaseContextScope@20.0.0

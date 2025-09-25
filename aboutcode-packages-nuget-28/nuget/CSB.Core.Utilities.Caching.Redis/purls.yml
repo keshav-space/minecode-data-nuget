@@ -1,0 +1,3 @@
+- pkg:nuget/CSB.Core.Utilities.Caching.Redis@0.8.0.1
+- pkg:nuget/CSB.Core.Utilities.Caching.Redis@0.8.1
+- pkg:nuget/CSB.Core.Utilities.Caching.Redis@0.8.2

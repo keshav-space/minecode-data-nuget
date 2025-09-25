@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Orleans.ClientGenerator@1.0.0
+- pkg:nuget/Microsoft.Orleans.ClientGenerator@1.0.3

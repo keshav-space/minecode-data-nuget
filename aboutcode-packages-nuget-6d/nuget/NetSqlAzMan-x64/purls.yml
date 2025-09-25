@@ -1,0 +1,5 @@
+- pkg:nuget/NetSqlAzMan-x64@3.0.0
+- pkg:nuget/NetSqlAzMan-x64@3.6.0.11
+- pkg:nuget/NetSqlAzMan-x64@3.6.0.12
+- pkg:nuget/NetSqlAzMan-x64@3.6.0.12-alpha
+- pkg:nuget/NetSqlAzMan-x64@3.6.0.15

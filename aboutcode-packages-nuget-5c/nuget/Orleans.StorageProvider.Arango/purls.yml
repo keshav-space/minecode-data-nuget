@@ -1,0 +1,4 @@
+- pkg:nuget/Orleans.StorageProvider.Arango@1.4.2
+- pkg:nuget/Orleans.StorageProvider.Arango@1.4.3
+- pkg:nuget/Orleans.StorageProvider.Arango@1.5.1
+- pkg:nuget/Orleans.StorageProvider.Arango@1.5.2

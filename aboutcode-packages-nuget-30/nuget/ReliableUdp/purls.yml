@@ -1,0 +1,5 @@
+- pkg:nuget/ReliableUdp@1.0.0-alpha
+- pkg:nuget/ReliableUdp@1.0.1-alpha
+- pkg:nuget/ReliableUdp@1.1.0-alpha
+- pkg:nuget/ReliableUdp@1.2.0-alpha
+- pkg:nuget/ReliableUdp@1.2.1-alpha

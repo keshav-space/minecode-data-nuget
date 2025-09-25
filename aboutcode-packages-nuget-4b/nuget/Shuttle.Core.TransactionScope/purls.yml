@@ -1,0 +1,2 @@
+- pkg:nuget/Shuttle.Core.TransactionScope@11.1.0
+- pkg:nuget/Shuttle.Core.TransactionScope@20.0.0

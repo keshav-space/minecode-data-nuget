@@ -1,0 +1,5 @@
+- pkg:nuget/Arduino.Cloud@0.0.1.12-alpha
+- pkg:nuget/Arduino.Cloud@0.0.1.15-alpha
+- pkg:nuget/Arduino.Cloud@0.0.1.20-alpha
+- pkg:nuget/Arduino.Cloud@0.0.1.21-alpha
+- pkg:nuget/Arduino.Cloud@0.0.1.23-alpha

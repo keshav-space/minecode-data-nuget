@@ -1,0 +1,6 @@
+- pkg:nuget/baseClassLibrary@1.0.0
+- pkg:nuget/baseClassLibrary@2.0.0
+- pkg:nuget/baseClassLibrary@3.0.0
+- pkg:nuget/baseClassLibrary@4.0.0
+- pkg:nuget/baseClassLibrary@4.0.1
+- pkg:nuget/baseClassLibrary@4.0.2

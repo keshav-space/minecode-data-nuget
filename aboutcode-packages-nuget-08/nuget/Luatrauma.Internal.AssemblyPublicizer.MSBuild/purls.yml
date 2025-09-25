@@ -1,0 +1,5 @@
+- pkg:nuget/Luatrauma.Internal.AssemblyPublicizer.MSBuild@0.1.0%2Bgit57fb420-HEAD
+- pkg:nuget/Luatrauma.Internal.AssemblyPublicizer.MSBuild@0.1.1%2Bgitc888191
+- pkg:nuget/Luatrauma.Internal.AssemblyPublicizer.MSBuild@0.1.2%2Bgitf0ad089
+- pkg:nuget/Luatrauma.Internal.AssemblyPublicizer.MSBuild@0.1.3%2Bgit-a363f24
+- pkg:nuget/Luatrauma.Internal.AssemblyPublicizer.MSBuild@0.1.4%2Bgit-c574985

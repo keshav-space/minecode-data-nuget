@@ -1,0 +1,2 @@
+- pkg:nuget/Interstellar.EventStorage.CosmosDb@1.0.0
+- pkg:nuget/Interstellar.EventStorage.CosmosDb@2.0.0

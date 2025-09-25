@@ -1,0 +1,6 @@
+- pkg:nuget/Linux.Bluetooth@5.64.0
+- pkg:nuget/Linux.Bluetooth@5.66.0
+- pkg:nuget/Linux.Bluetooth@5.67.0
+- pkg:nuget/Linux.Bluetooth@5.67.1
+- pkg:nuget/Linux.Bluetooth@6.0.0-pre1
+- pkg:nuget/Linux.Bluetooth@6.0.0-pre2

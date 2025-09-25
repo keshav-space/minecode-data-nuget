@@ -1,0 +1,2 @@
+- pkg:nuget/Interstellar.EventStorage.InMemory@1.0.0
+- pkg:nuget/Interstellar.EventStorage.InMemory@2.0.0

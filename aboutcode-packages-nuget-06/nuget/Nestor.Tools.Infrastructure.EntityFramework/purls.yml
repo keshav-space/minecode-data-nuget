@@ -1,0 +1,3 @@
+- pkg:nuget/Nestor.Tools.Infrastructure.EntityFramework@0.0.11
+- pkg:nuget/Nestor.Tools.Infrastructure.EntityFramework@0.1.0
+- pkg:nuget/Nestor.Tools.Infrastructure.EntityFramework@1.0.0

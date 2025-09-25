@@ -1,0 +1,2 @@
+- pkg:nuget/KoalaKit.Messaging.Bus.Redis@1.0.10-alpha
+- pkg:nuget/KoalaKit.Messaging.Bus.Redis@1.0.7-alpha

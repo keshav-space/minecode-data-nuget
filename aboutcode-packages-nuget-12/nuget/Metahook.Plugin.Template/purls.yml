@@ -1,0 +1,6 @@
+- pkg:nuget/Metahook.Plugin.Template@1.0.0-alpha
+- pkg:nuget/Metahook.Plugin.Template@1.0.1-alpha
+- pkg:nuget/Metahook.Plugin.Template@1.0.1-fix-alpha
+- pkg:nuget/Metahook.Plugin.Template@1.0.1-fix2-alpha
+- pkg:nuget/Metahook.Plugin.Template@1.0.2-alpha
+- pkg:nuget/Metahook.Plugin.Template@1.0.2-alpha-test
