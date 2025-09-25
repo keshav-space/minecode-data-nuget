@@ -1,0 +1,4 @@
+- pkg:nuget/PostgreSQLCopyHelper.NodaTime@2.7.0
+- pkg:nuget/PostgreSQLCopyHelper.NodaTime@2.7.0-beta1
+- pkg:nuget/PostgreSQLCopyHelper.NodaTime@2.7.0-beta2
+- pkg:nuget/PostgreSQLCopyHelper.NodaTime@2.8.0

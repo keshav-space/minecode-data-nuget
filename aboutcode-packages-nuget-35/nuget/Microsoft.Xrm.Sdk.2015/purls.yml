@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Xrm.Sdk.2015@7.0.1
+- pkg:nuget/Microsoft.Xrm.Sdk.2015@7.1.0
+- pkg:nuget/Microsoft.Xrm.Sdk.2015@7.1.0.1085

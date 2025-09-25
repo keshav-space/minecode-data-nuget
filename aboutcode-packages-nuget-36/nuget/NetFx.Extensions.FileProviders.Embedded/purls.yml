@@ -1,0 +1,10 @@
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.0.0
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.0.1
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.1.0-preview1-171231-01
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.1.0-preview2-180205-01
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.1.0-preview2-180302-01
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.1.0-preview2-180326-01
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.1.0-preview2-final
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.1.0-rc1-final
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.1.1
+- pkg:nuget/NetFx.Extensions.FileProviders.Embedded@2.2.0

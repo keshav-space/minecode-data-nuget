@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Bcl.Async@1.0.11-beta
+- pkg:nuget/Microsoft.Bcl.Async@1.0.12-beta
+- pkg:nuget/Microsoft.Bcl.Async@1.0.14-rc
+- pkg:nuget/Microsoft.Bcl.Async@1.0.16
+- pkg:nuget/Microsoft.Bcl.Async@1.0.165
+- pkg:nuget/Microsoft.Bcl.Async@1.0.166
+- pkg:nuget/Microsoft.Bcl.Async@1.0.166-beta
+- pkg:nuget/Microsoft.Bcl.Async@1.0.168

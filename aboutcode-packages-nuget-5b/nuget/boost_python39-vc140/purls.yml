@@ -1,0 +1,3 @@
+- pkg:nuget/boost_python39-vc140@1.75.0
+- pkg:nuget/boost_python39-vc140@1.76.0
+- pkg:nuget/boost_python39-vc140@1.77.0

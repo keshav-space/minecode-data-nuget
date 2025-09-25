@@ -1,0 +1,5 @@
+- pkg:nuget/D9.IP.Repository.SqlServer@1.1.0
+- pkg:nuget/D9.IP.Repository.SqlServer@2.1.0
+- pkg:nuget/D9.IP.Repository.SqlServer@8.0.0
+- pkg:nuget/D9.IP.Repository.SqlServer@8.0.1
+- pkg:nuget/D9.IP.Repository.SqlServer@8.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/Chaos.Tool.Http@2.1.0
+- pkg:nuget/Chaos.Tool.Http@5.1.0
+- pkg:nuget/Chaos.Tool.Http@8.0.1
+- pkg:nuget/Chaos.Tool.Http@8.1.0
+- pkg:nuget/Chaos.Tool.Http@8.3.0

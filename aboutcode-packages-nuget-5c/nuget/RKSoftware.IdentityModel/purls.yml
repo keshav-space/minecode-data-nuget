@@ -1,0 +1,4 @@
+- pkg:nuget/RKSoftware.IdentityModel@8.0.11
+- pkg:nuget/RKSoftware.IdentityModel@8.0.11-preview.1
+- pkg:nuget/RKSoftware.IdentityModel@8.0.12
+- pkg:nuget/RKSoftware.IdentityModel@8.0.13-preview.1

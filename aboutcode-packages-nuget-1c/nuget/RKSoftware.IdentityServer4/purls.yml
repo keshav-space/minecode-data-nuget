@@ -1,0 +1,5 @@
+- pkg:nuget/RKSoftware.IdentityServer4@8.0.13
+- pkg:nuget/RKSoftware.IdentityServer4@8.0.13-preview.2
+- pkg:nuget/RKSoftware.IdentityServer4@8.0.13-preview.5
+- pkg:nuget/RKSoftware.IdentityServer4@8.0.13-preview.6
+- pkg:nuget/RKSoftware.IdentityServer4@8.0.6-preview.4

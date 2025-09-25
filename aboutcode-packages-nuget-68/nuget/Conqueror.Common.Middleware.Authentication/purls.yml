@@ -1,0 +1,4 @@
+- pkg:nuget/Conqueror.Common.Middleware.Authentication@0.5.0-beta.3
+- pkg:nuget/Conqueror.Common.Middleware.Authentication@0.5.0-beta.4
+- pkg:nuget/Conqueror.Common.Middleware.Authentication@0.6.0-beta.1
+- pkg:nuget/Conqueror.Common.Middleware.Authentication@0.6.0-beta.2

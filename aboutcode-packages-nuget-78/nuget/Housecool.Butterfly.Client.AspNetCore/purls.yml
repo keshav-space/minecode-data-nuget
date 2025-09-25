@@ -1,0 +1,5 @@
+- pkg:nuget/Housecool.Butterfly.Client.AspNetCore@0.0.10
+- pkg:nuget/Housecool.Butterfly.Client.AspNetCore@0.0.11
+- pkg:nuget/Housecool.Butterfly.Client.AspNetCore@0.0.8
+- pkg:nuget/Housecool.Butterfly.Client.AspNetCore@0.0.9
+- pkg:nuget/Housecool.Butterfly.Client.AspNetCore@0.10.0

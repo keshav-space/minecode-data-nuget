@@ -1,0 +1,4 @@
+- pkg:nuget/S4U.Logging.Analyzers@0.2.0-alpha
+- pkg:nuget/S4U.Logging.Analyzers@0.3.0
+- pkg:nuget/S4U.Logging.Analyzers@0.3.1
+- pkg:nuget/S4U.Logging.Analyzers@0.3.2

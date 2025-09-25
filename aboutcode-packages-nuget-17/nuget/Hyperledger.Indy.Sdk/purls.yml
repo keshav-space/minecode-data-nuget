@@ -1,0 +1,6 @@
+- pkg:nuget/Hyperledger.Indy.Sdk@0.0.1-alpha
+- pkg:nuget/Hyperledger.Indy.Sdk@0.0.3-alpha
+- pkg:nuget/Hyperledger.Indy.Sdk@0.0.4-alpha
+- pkg:nuget/Hyperledger.Indy.Sdk@1.11.1
+- pkg:nuget/Hyperledger.Indy.Sdk@1.4.0
+- pkg:nuget/Hyperledger.Indy.Sdk@1.8.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Xamarin.Android.Bindings.Generators@1.0.0.11
+- pkg:nuget/Xamarin.Android.Bindings.Generators@1.0.0.16
+- pkg:nuget/Xamarin.Android.Bindings.Generators@1.6.1.17
+- pkg:nuget/Xamarin.Android.Bindings.Generators@1.6.1.19

@@ -1,0 +1,5 @@
+- pkg:nuget/Idg.CSharpNuGetActionsExemplar@0.1.0
+- pkg:nuget/Idg.CSharpNuGetActionsExemplar@0.1.0-preview.5
+- pkg:nuget/Idg.CSharpNuGetActionsExemplar@0.1.0-publish-to-nuget.6
+- pkg:nuget/Idg.CSharpNuGetActionsExemplar@0.1.0-publish-to-nuget.7
+- pkg:nuget/Idg.CSharpNuGetActionsExemplar@0.1.0-source-link.6

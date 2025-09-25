@@ -1,0 +1,9 @@
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@4.0.0
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@4.1.0
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@4.2.0
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@4.2.1
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@5.0.0
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@5.0.0-rc1
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@5.5.0
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@5.5.0-rc1
+- pkg:nuget/Stardust.Interstellar.Rest.Service.AspNet@5.5.1

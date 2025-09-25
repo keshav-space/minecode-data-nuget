@@ -1,0 +1,3 @@
+- pkg:nuget/MediatR.Extensions.FluentBuilder.Autofac@1.0.25-g2b5e379a87
+- pkg:nuget/MediatR.Extensions.FluentBuilder.Autofac@1.0.26
+- pkg:nuget/MediatR.Extensions.FluentBuilder.Autofac@1.1.10

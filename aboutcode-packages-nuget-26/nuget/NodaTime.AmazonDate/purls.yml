@@ -1,0 +1,6 @@
+- pkg:nuget/NodaTime.AmazonDate@0.1.0-pre
+- pkg:nuget/NodaTime.AmazonDate@0.1.1-pre
+- pkg:nuget/NodaTime.AmazonDate@0.2.5-pre
+- pkg:nuget/NodaTime.AmazonDate@1.0.0
+- pkg:nuget/NodaTime.AmazonDate@1.0.1
+- pkg:nuget/NodaTime.AmazonDate@1.0.4

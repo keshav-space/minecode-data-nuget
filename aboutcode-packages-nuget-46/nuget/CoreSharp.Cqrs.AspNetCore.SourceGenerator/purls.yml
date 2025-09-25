@@ -1,0 +1,4 @@
+- pkg:nuget/CoreSharp.Cqrs.AspNetCore.SourceGenerator@0.6.12
+- pkg:nuget/CoreSharp.Cqrs.AspNetCore.SourceGenerator@0.6.13
+- pkg:nuget/CoreSharp.Cqrs.AspNetCore.SourceGenerator@0.6.17
+- pkg:nuget/CoreSharp.Cqrs.AspNetCore.SourceGenerator@0.6.18

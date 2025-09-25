@@ -1,0 +1,5 @@
+- pkg:nuget/IT.Serialization.MessagePack@2.0.0
+- pkg:nuget/IT.Serialization.MessagePack@2.0.0-pre1
+- pkg:nuget/IT.Serialization.MessagePack@2.0.1
+- pkg:nuget/IT.Serialization.MessagePack@2.0.3
+- pkg:nuget/IT.Serialization.MessagePack@2.0.3-pre1

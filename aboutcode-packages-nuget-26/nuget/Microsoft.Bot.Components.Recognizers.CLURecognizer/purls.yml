@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Bot.Components.Recognizers.CLURecognizer@1.0.0
+- pkg:nuget/Microsoft.Bot.Components.Recognizers.CLURecognizer@1.0.0-rc1
+- pkg:nuget/Microsoft.Bot.Components.Recognizers.CLURecognizer@1.0.0-rc2
+- pkg:nuget/Microsoft.Bot.Components.Recognizers.CLURecognizer@1.0.0-rc3
+- pkg:nuget/Microsoft.Bot.Components.Recognizers.CLURecognizer@1.0.1

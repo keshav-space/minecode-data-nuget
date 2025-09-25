@@ -1,0 +1,4 @@
+- pkg:nuget/InterSystems.Data.Bindings@2.5.0
+- pkg:nuget/InterSystems.Data.Bindings@2.5.1
+- pkg:nuget/InterSystems.Data.Bindings@2.5.1-QD-SHAPSHOT
+- pkg:nuget/InterSystems.Data.Bindings@2.5.2

@@ -1,0 +1,6 @@
+- pkg:nuget/NuGet.TfsBuild@1.0.0
+- pkg:nuget/NuGet.TfsBuild@1.0.0-alpha
+- pkg:nuget/NuGet.TfsBuild@1.0.0-alpha-1
+- pkg:nuget/NuGet.TfsBuild@1.0.0-alpha-2
+- pkg:nuget/NuGet.TfsBuild@1.0.0-alpha-3
+- pkg:nuget/NuGet.TfsBuild@1.1.0

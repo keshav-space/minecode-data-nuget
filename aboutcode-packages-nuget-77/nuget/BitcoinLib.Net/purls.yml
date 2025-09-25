@@ -1,0 +1,10 @@
+- pkg:nuget/BitcoinLib.Net@1.5.3
+- pkg:nuget/BitcoinLib.Net@2.2.7
+- pkg:nuget/BitcoinLib.Net@3.4.1
+- pkg:nuget/BitcoinLib.Net@4.2.0
+- pkg:nuget/BitcoinLib.Net@4.4.2
+- pkg:nuget/BitcoinLib.Net@4.5.2
+- pkg:nuget/BitcoinLib.Net@4.7.6
+- pkg:nuget/BitcoinLib.Net@7.0.6
+- pkg:nuget/BitcoinLib.Net@7.7.6
+- pkg:nuget/BitcoinLib.Net@8.6.8

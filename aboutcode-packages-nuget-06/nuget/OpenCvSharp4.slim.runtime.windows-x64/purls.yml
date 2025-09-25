@@ -1,0 +1,2 @@
+- pkg:nuget/OpenCvSharp4.slim.runtime.windows-x64@4.8.0.20230708
+- pkg:nuget/OpenCvSharp4.slim.runtime.windows-x64@4.8.1.20231129

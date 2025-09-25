@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCoreAnalyzers@0.1.0-dev
+- pkg:nuget/AspNetCoreAnalyzers@0.2.0-dev
+- pkg:nuget/AspNetCoreAnalyzers@0.2.0.1-dev
+- pkg:nuget/AspNetCoreAnalyzers@0.3.0

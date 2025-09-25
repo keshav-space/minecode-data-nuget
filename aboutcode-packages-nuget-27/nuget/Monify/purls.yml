@@ -1,0 +1,4 @@
+- pkg:nuget/Monify@0.1.0-unstable
+- pkg:nuget/Monify@1.0.0
+- pkg:nuget/Monify@1.0.0-rc.1
+- pkg:nuget/Monify@1.0.0-rc.2
