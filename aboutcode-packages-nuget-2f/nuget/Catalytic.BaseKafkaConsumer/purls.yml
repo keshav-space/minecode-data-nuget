@@ -1,0 +1,6 @@
+- pkg:nuget/Catalytic.BaseKafkaConsumer@1.0.0
+- pkg:nuget/Catalytic.BaseKafkaConsumer@2.0.0
+- pkg:nuget/Catalytic.BaseKafkaConsumer@2.0.1
+- pkg:nuget/Catalytic.BaseKafkaConsumer@2.0.2
+- pkg:nuget/Catalytic.BaseKafkaConsumer@3.0.0
+- pkg:nuget/Catalytic.BaseKafkaConsumer@4.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/MyPackage5522@1.0.0
+- pkg:nuget/MyPackage5522@1.1.0
+- pkg:nuget/MyPackage5522@1.1.1
+- pkg:nuget/MyPackage5522@1.1.2
+- pkg:nuget/MyPackage5522@1.1.3

@@ -1,0 +1,7 @@
+- pkg:nuget/Ninject.Mono.Extensions.ChildKernel@2.1.0.13
+- pkg:nuget/Ninject.Mono.Extensions.ChildKernel@2.1.0.14
+- pkg:nuget/Ninject.Mono.Extensions.ChildKernel@2.1.0.20
+- pkg:nuget/Ninject.Mono.Extensions.ChildKernel@3.0.0.5
+- pkg:nuget/Ninject.Mono.Extensions.ChildKernel@3.0.0.7
+- pkg:nuget/Ninject.Mono.Extensions.ChildKernel@3.0.0.8
+- pkg:nuget/Ninject.Mono.Extensions.ChildKernel@3.0.0.9

@@ -1,0 +1,4 @@
+- pkg:nuget/Filazero.Domain.Shared@0.0.10
+- pkg:nuget/Filazero.Domain.Shared@0.0.12
+- pkg:nuget/Filazero.Domain.Shared@0.0.13
+- pkg:nuget/Filazero.Domain.Shared@0.1.9

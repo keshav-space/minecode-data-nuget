@@ -1,0 +1,10 @@
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@1.0.0-pre
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@1.0.1-pre
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@1.0.2-pre
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@1.0.3-pre
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@2.0.0-pre
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@2.0.1-pre
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@2.0.2-pre
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@2.0.4-pre
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@2.0.5
+- pkg:nuget/ServiceConnect.Filters.MessageDeduplication@2.0.6

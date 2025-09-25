@@ -1,0 +1,5 @@
+- pkg:nuget/tdlib.native.osx-x64@1.8.21.1
+- pkg:nuget/tdlib.native.osx-x64@1.8.21.2
+- pkg:nuget/tdlib.native.osx-x64@1.8.21.2-preview
+- pkg:nuget/tdlib.native.osx-x64@1.8.29
+- pkg:nuget/tdlib.native.osx-x64@1.8.45

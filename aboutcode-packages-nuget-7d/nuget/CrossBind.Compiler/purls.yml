@@ -1,0 +1,5 @@
+- pkg:nuget/CrossBind.Compiler@0.1.0-beta.3
+- pkg:nuget/CrossBind.Compiler@0.1.0-beta.5
+- pkg:nuget/CrossBind.Compiler@0.1.0-beta.6
+- pkg:nuget/CrossBind.Compiler@0.1.0-beta.7
+- pkg:nuget/CrossBind.Compiler@0.2.0-beta.11

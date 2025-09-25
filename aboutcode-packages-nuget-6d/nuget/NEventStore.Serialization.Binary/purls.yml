@@ -1,0 +1,3 @@
+- pkg:nuget/NEventStore.Serialization.Binary@10.0.0
+- pkg:nuget/NEventStore.Serialization.Binary@10.1.0
+- pkg:nuget/NEventStore.Serialization.Binary@10.1.1

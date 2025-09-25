@@ -1,0 +1,3 @@
+- pkg:nuget/ServiceBusEmulatorConfig.Cli@0.0.1-rc.1
+- pkg:nuget/ServiceBusEmulatorConfig.Cli@0.1.0-beta0001
+- pkg:nuget/ServiceBusEmulatorConfig.Cli@1.1.0

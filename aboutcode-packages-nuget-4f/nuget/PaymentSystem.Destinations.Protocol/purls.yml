@@ -1,0 +1,12 @@
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.114.990-destinations-protocol
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.114.991
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.115.992-include-optional
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.115.993
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.125.1042-destinations-search
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.125.1043
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.126.1049-destinations-patch
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.126.1050
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.126.1051-destinations-webhooks
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.126.1052
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.128.1066-destinations-initial-labels-support
+- pkg:nuget/PaymentSystem.Destinations.Protocol@2025.105.128.1067

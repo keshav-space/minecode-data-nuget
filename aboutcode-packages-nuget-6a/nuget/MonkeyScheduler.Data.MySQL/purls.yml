@@ -1,0 +1,4 @@
+- pkg:nuget/MonkeyScheduler.Data.MySQL@1.0.0
+- pkg:nuget/MonkeyScheduler.Data.MySQL@1.1.0
+- pkg:nuget/MonkeyScheduler.Data.MySQL@1.1.0-Beta
+- pkg:nuget/MonkeyScheduler.Data.MySQL@1.1.1

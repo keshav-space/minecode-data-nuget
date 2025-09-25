@@ -1,0 +1,10 @@
+- pkg:nuget/PizzaCalculator@1.2.1
+- pkg:nuget/PizzaCalculator@1.2.1-alpha
+- pkg:nuget/PizzaCalculator@1.3.0
+- pkg:nuget/PizzaCalculator@1.4.0
+- pkg:nuget/PizzaCalculator@2.0.0
+- pkg:nuget/PizzaCalculator@3.0.0
+- pkg:nuget/PizzaCalculator@4.0.0
+- pkg:nuget/PizzaCalculator@5.0.0
+- pkg:nuget/PizzaCalculator@8.0.0
+- pkg:nuget/PizzaCalculator@9.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Byndyusoft.Execution.Metrics.Hangfire@0.0.1
+- pkg:nuget/Byndyusoft.Execution.Metrics.Hangfire@0.0.1-tags-prelease-4
+- pkg:nuget/Byndyusoft.Execution.Metrics.Hangfire@1.0.0
+- pkg:nuget/Byndyusoft.Execution.Metrics.Hangfire@2.0.0

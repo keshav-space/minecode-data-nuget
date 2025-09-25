@@ -1,0 +1,4 @@
+- pkg:nuget/JuniorPersist.Data.MySql@1.0.1
+- pkg:nuget/JuniorPersist.Data.MySql@2.0.0
+- pkg:nuget/JuniorPersist.Data.MySql@3.0.0
+- pkg:nuget/JuniorPersist.Data.MySql@3.0.1

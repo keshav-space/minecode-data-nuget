@@ -1,0 +1,9 @@
+- pkg:nuget/FluentValidation.MVC4@3.3.0
+- pkg:nuget/FluentValidation.MVC4@3.3.1
+- pkg:nuget/FluentValidation.MVC4@3.4.0
+- pkg:nuget/FluentValidation.MVC4@3.4.6
+- pkg:nuget/FluentValidation.MVC4@4.0.0
+- pkg:nuget/FluentValidation.MVC4@4.0.0.1
+- pkg:nuget/FluentValidation.MVC4@5.0.0
+- pkg:nuget/FluentValidation.MVC4@5.0.0.1
+- pkg:nuget/FluentValidation.MVC4@5.1.0

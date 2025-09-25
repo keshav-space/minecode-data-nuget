@@ -1,0 +1,4 @@
+- pkg:nuget/Fermion.Domain.Shared@0.0.1
+- pkg:nuget/Fermion.Domain.Shared@0.1.0
+- pkg:nuget/Fermion.Domain.Shared@1.0.0
+- pkg:nuget/Fermion.Domain.Shared@1.0.1

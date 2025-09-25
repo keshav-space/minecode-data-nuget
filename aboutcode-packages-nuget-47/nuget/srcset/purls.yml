@@ -1,0 +1,4 @@
+- pkg:nuget/srcset@1.0.0
+- pkg:nuget/srcset@2.0.0
+- pkg:nuget/srcset@3.0.0-rc
+- pkg:nuget/srcset@3.0.0-rc2

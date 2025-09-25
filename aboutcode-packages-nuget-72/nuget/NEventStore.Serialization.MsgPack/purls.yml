@@ -1,0 +1,4 @@
+- pkg:nuget/NEventStore.Serialization.MsgPack@10.0.0
+- pkg:nuget/NEventStore.Serialization.MsgPack@10.1.0
+- pkg:nuget/NEventStore.Serialization.MsgPack@10.1.1
+- pkg:nuget/NEventStore.Serialization.MsgPack@9.2.0

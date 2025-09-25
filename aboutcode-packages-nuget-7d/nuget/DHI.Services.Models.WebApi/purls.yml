@@ -1,0 +1,6 @@
+- pkg:nuget/DHI.Services.Models.WebApi@2.0.0
+- pkg:nuget/DHI.Services.Models.WebApi@3.0.0
+- pkg:nuget/DHI.Services.Models.WebApi@4.0.0
+- pkg:nuget/DHI.Services.Models.WebApi@4.0.1
+- pkg:nuget/DHI.Services.Models.WebApi@5.0.0
+- pkg:nuget/DHI.Services.Models.WebApi@5.0.1

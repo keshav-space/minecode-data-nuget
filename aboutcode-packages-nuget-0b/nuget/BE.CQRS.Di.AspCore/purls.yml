@@ -1,0 +1,15 @@
+- pkg:nuget/BE.CQRS.Di.AspCore@0.40.0-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.41.0-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.42.0-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.43.0-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.43.1-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.44.0-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.45.0-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.45.1-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.45.2-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.70.1-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.80.1-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.80.2-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.80.3-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.90.0-alpha
+- pkg:nuget/BE.CQRS.Di.AspCore@0.95.0-alpha

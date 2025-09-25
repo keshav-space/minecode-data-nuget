@@ -1,0 +1,9 @@
+- pkg:nuget/NServiceBus.SimpleMonitoring@1.0.0
+- pkg:nuget/NServiceBus.SimpleMonitoring@1.0.0-rc1
+- pkg:nuget/NServiceBus.SimpleMonitoring@1.0.0-rc2
+- pkg:nuget/NServiceBus.SimpleMonitoring@2.0.0
+- pkg:nuget/NServiceBus.SimpleMonitoring@2.0.0-rc1
+- pkg:nuget/NServiceBus.SimpleMonitoring@3.0.0
+- pkg:nuget/NServiceBus.SimpleMonitoring@3.1.0
+- pkg:nuget/NServiceBus.SimpleMonitoring@4.0.0
+- pkg:nuget/NServiceBus.SimpleMonitoring@5.0.0

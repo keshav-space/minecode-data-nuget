@@ -1,0 +1,6 @@
+- pkg:nuget/Seq.Input.RabbitMQ@1.0.0-ciactions-02306
+- pkg:nuget/Seq.Input.RabbitMQ@1.0.0-ciactions-02307
+- pkg:nuget/Seq.Input.RabbitMQ@1.0.0-dev-00002
+- pkg:nuget/Seq.Input.RabbitMQ@1.0.0-dev-00009
+- pkg:nuget/Seq.Input.RabbitMQ@1.0.0-dev-02308
+- pkg:nuget/Seq.Input.RabbitMQ@1.0.0-dev-02311

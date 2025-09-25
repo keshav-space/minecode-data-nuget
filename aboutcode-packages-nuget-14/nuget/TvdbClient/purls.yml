@@ -1,0 +1,17 @@
+- pkg:nuget/TvdbClient@4.7.10
+- pkg:nuget/TvdbClient@4.7.10-alpha.1
+- pkg:nuget/TvdbClient@4.7.10-alpha.2
+- pkg:nuget/TvdbClient@4.7.10-alpha.3
+- pkg:nuget/TvdbClient@4.7.10-alpha.4
+- pkg:nuget/TvdbClient@4.7.10-alpha.5
+- pkg:nuget/TvdbClient@4.7.10-beta-g00aa99de0c
+- pkg:nuget/TvdbClient@4.7.10-beta-g3cef396309
+- pkg:nuget/TvdbClient@4.7.10-beta-g6d539c6565
+- pkg:nuget/TvdbClient@4.7.10-beta-g91f36f19f5
+- pkg:nuget/TvdbClient@4.7.10-beta-g9a9e85a193
+- pkg:nuget/TvdbClient@4.7.10-beta-gbc1f0d7001
+- pkg:nuget/TvdbClient@4.7.10-g031c2debfa
+- pkg:nuget/TvdbClient@4.7.10-g39ea763df9
+- pkg:nuget/TvdbClient@4.7.10-gfca4164c46
+- pkg:nuget/TvdbClient@4.7.10-rc-gd624e815ce
+- pkg:nuget/TvdbClient@4.7.10-refactoring-change-folder-layout.1%2B85

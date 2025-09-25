@@ -1,0 +1,16 @@
+- pkg:nuget/ML.Core@0.1.0-beta1
+- pkg:nuget/ML.Core@1.0.0-CI-20200315-133056
+- pkg:nuget/ML.Core@1.0.0-CI-20210227-135533
+- pkg:nuget/ML.Core@1.0.105-beta1
+- pkg:nuget/ML.Core@1.0.11-beta1
+- pkg:nuget/ML.Core@1.0.138-beta1
+- pkg:nuget/ML.Core@1.0.154-beta1
+- pkg:nuget/ML.Core@1.0.160-beta1
+- pkg:nuget/ML.Core@1.0.170-beta1
+- pkg:nuget/ML.Core@1.0.2-beta1
+- pkg:nuget/ML.Core@1.0.21-beta1
+- pkg:nuget/ML.Core@1.0.3-beta1
+- pkg:nuget/ML.Core@1.0.50-beta1
+- pkg:nuget/ML.Core@1.0.87-beta1
+- pkg:nuget/ML.Core@1.0.90-beta1
+- pkg:nuget/ML.Core@1.0.92-beta1

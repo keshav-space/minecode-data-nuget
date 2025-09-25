@@ -1,0 +1,13 @@
+- pkg:nuget/Snowberry.DependencyInjection@1.0.0
+- pkg:nuget/Snowberry.DependencyInjection@1.0.1
+- pkg:nuget/Snowberry.DependencyInjection@1.0.2
+- pkg:nuget/Snowberry.DependencyInjection@1.0.3
+- pkg:nuget/Snowberry.DependencyInjection@2.0.0
+- pkg:nuget/Snowberry.DependencyInjection@3.0.0
+- pkg:nuget/Snowberry.DependencyInjection@3.1.0
+- pkg:nuget/Snowberry.DependencyInjection@3.2.0
+- pkg:nuget/Snowberry.DependencyInjection@3.3.0
+- pkg:nuget/Snowberry.DependencyInjection@3.4.0
+- pkg:nuget/Snowberry.DependencyInjection@3.5.0
+- pkg:nuget/Snowberry.DependencyInjection@3.6.0
+- pkg:nuget/Snowberry.DependencyInjection@3.7.0

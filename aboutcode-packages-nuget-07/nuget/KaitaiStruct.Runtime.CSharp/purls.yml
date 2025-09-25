@@ -1,0 +1,5 @@
+- pkg:nuget/KaitaiStruct.Runtime.CSharp@0.10.0
+- pkg:nuget/KaitaiStruct.Runtime.CSharp@0.11.0
+- pkg:nuget/KaitaiStruct.Runtime.CSharp@0.7.0
+- pkg:nuget/KaitaiStruct.Runtime.CSharp@0.8.0
+- pkg:nuget/KaitaiStruct.Runtime.CSharp@0.9.0

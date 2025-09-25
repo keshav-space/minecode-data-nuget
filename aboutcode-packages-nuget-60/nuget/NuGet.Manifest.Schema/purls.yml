@@ -1,0 +1,6 @@
+- pkg:nuget/NuGet.Manifest.Schema@1.6.0
+- pkg:nuget/NuGet.Manifest.Schema@2.0.0
+- pkg:nuget/NuGet.Manifest.Schema@2.0.1
+- pkg:nuget/NuGet.Manifest.Schema@2.0.2
+- pkg:nuget/NuGet.Manifest.Schema@2.0.3
+- pkg:nuget/NuGet.Manifest.Schema@2.0.4
