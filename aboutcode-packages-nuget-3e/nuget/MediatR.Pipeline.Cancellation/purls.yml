@@ -1,0 +1,2 @@
+- pkg:nuget/MediatR.Pipeline.Cancellation@1.0.0
+- pkg:nuget/MediatR.Pipeline.Cancellation@1.0.1

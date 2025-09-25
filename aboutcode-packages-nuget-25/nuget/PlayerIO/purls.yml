@@ -1,0 +1,4 @@
+- pkg:nuget/PlayerIO@3.4.5.1
+- pkg:nuget/PlayerIO@3.5.4
+- pkg:nuget/PlayerIO@3.5.4-signedhotfix
+- pkg:nuget/PlayerIO@3.5.4.1

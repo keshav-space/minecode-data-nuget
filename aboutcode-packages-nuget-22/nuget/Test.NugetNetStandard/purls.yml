@@ -1,0 +1,3 @@
+- pkg:nuget/Test.NugetNetStandard@1.0.0
+- pkg:nuget/Test.NugetNetStandard@2.0.0
+- pkg:nuget/Test.NugetNetStandard@2.0.1

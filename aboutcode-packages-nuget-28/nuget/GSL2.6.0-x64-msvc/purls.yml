@@ -1,0 +1,4 @@
+- pkg:nuget/GSL2.6.0-x64-msvc@1.0.0
+- pkg:nuget/GSL2.6.0-x64-msvc@1.0.1
+- pkg:nuget/GSL2.6.0-x64-msvc@1.0.2
+- pkg:nuget/GSL2.6.0-x64-msvc@1.0.4

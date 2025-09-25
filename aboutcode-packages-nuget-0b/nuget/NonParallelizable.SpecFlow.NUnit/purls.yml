@@ -1,0 +1,2 @@
+- pkg:nuget/NonParallelizable.SpecFlow.NUnit@1.0.0
+- pkg:nuget/NonParallelizable.SpecFlow.NUnit@1.0.1

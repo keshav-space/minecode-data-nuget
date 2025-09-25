@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.BotFramework.Orchestrator.EmbeddingResolver@4.14.0
+- pkg:nuget/Microsoft.BotFramework.Orchestrator.EmbeddingResolver@4.14.1
+- pkg:nuget/Microsoft.BotFramework.Orchestrator.EmbeddingResolver@4.14.2
+- pkg:nuget/Microsoft.BotFramework.Orchestrator.EmbeddingResolver@4.14.2-rc0
+- pkg:nuget/Microsoft.BotFramework.Orchestrator.EmbeddingResolver@4.14.3
