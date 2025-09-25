@@ -1,0 +1,4 @@
+- pkg:nuget/D2L.LaunchDarkly.EventSource@2.1.0
+- pkg:nuget/D2L.LaunchDarkly.EventSource@2.1.0.1
+- pkg:nuget/D2L.LaunchDarkly.EventSource@2.2.1
+- pkg:nuget/D2L.LaunchDarkly.EventSource@3.0.0

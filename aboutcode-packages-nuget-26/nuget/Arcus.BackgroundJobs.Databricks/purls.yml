@@ -1,0 +1,6 @@
+- pkg:nuget/Arcus.BackgroundJobs.Databricks@0.2.0
+- pkg:nuget/Arcus.BackgroundJobs.Databricks@0.2.0-preview
+- pkg:nuget/Arcus.BackgroundJobs.Databricks@0.3.0
+- pkg:nuget/Arcus.BackgroundJobs.Databricks@0.4.0
+- pkg:nuget/Arcus.BackgroundJobs.Databricks@0.4.0-preview-1
+- pkg:nuget/Arcus.BackgroundJobs.Databricks@1.0.0

@@ -1,0 +1,15 @@
+- pkg:nuget/DMS.Redis@1.0.0
+- pkg:nuget/DMS.Redis@1.1.0
+- pkg:nuget/DMS.Redis@1.4.8
+- pkg:nuget/DMS.Redis@1.4.8.1
+- pkg:nuget/DMS.Redis@1.4.8.2
+- pkg:nuget/DMS.Redis@1.4.8.3
+- pkg:nuget/DMS.Redis@1.5.0
+- pkg:nuget/DMS.Redis@1.5.1
+- pkg:nuget/DMS.Redis@1.5.2
+- pkg:nuget/DMS.Redis@1.5.3
+- pkg:nuget/DMS.Redis@1.5.4
+- pkg:nuget/DMS.Redis@1.5.5
+- pkg:nuget/DMS.Redis@1.5.6
+- pkg:nuget/DMS.Redis@3.0.0
+- pkg:nuget/DMS.Redis@3.0.1

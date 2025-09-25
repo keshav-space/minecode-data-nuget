@@ -1,0 +1,11 @@
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.1.0
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.12.0
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.16.0
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.16.1
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.16.2
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.20.0.1
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.21.0
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.22.0
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.4.4
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.5.0
+- pkg:nuget/RDFSharp.Extensions.AzureTable@3.8.0

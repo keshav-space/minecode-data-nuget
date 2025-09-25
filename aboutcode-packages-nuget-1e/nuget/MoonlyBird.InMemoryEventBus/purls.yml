@@ -1,0 +1,5 @@
+- pkg:nuget/MoonlyBird.InMemoryEventBus@0.0.0
+- pkg:nuget/MoonlyBird.InMemoryEventBus@0.1.0
+- pkg:nuget/MoonlyBird.InMemoryEventBus@0.1.0-preview1
+- pkg:nuget/MoonlyBird.InMemoryEventBus@0.1.1
+- pkg:nuget/MoonlyBird.InMemoryEventBus@0.1.2

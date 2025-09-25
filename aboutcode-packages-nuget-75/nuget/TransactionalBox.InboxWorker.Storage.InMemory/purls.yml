@@ -1,0 +1,4 @@
+- pkg:nuget/TransactionalBox.InboxWorker.Storage.InMemory@0.0.1-alpha08
+- pkg:nuget/TransactionalBox.InboxWorker.Storage.InMemory@0.0.1-alpha09
+- pkg:nuget/TransactionalBox.InboxWorker.Storage.InMemory@0.0.1-alpha10
+- pkg:nuget/TransactionalBox.InboxWorker.Storage.InMemory@0.0.1-alpha11

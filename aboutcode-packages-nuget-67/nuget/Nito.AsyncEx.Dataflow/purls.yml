@@ -1,0 +1,8 @@
+- pkg:nuget/Nito.AsyncEx.Dataflow@1.0.0
+- pkg:nuget/Nito.AsyncEx.Dataflow@2.0.0
+- pkg:nuget/Nito.AsyncEx.Dataflow@2.1.0
+- pkg:nuget/Nito.AsyncEx.Dataflow@3.0.0
+- pkg:nuget/Nito.AsyncEx.Dataflow@3.0.1-pre
+- pkg:nuget/Nito.AsyncEx.Dataflow@4.0.0-pre
+- pkg:nuget/Nito.AsyncEx.Dataflow@4.0.1
+- pkg:nuget/Nito.AsyncEx.Dataflow@4.0.1-pre

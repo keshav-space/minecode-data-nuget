@@ -1,0 +1,4 @@
+- pkg:nuget/Cauca.Core.KubernetesClient@7.0.0
+- pkg:nuget/Cauca.Core.KubernetesClient@8.0.0
+- pkg:nuget/Cauca.Core.KubernetesClient@8.0.1
+- pkg:nuget/Cauca.Core.KubernetesClient@9.0.0

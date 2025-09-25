@@ -1,0 +1,5 @@
+- pkg:nuget/Azure.Developer.TrustedSigning.CryptoProvider@0.1.38
+- pkg:nuget/Azure.Developer.TrustedSigning.CryptoProvider@0.1.43
+- pkg:nuget/Azure.Developer.TrustedSigning.CryptoProvider@0.1.46
+- pkg:nuget/Azure.Developer.TrustedSigning.CryptoProvider@0.1.48
+- pkg:nuget/Azure.Developer.TrustedSigning.CryptoProvider@0.1.60

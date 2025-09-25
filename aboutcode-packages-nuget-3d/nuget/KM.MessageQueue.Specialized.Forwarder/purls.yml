@@ -1,0 +1,15 @@
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@1.0.0
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@1.0.2
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@1.0.3
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@2.0.0
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@3.0.0
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@4.0.0
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@7.0.0
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@7.0.5
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@7.1.0
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@7.1.1
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@7.2.3
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@8.0.0
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@8.1.1
+- pkg:nuget/KM.MessageQueue.Specialized.Forwarder@9.0.0

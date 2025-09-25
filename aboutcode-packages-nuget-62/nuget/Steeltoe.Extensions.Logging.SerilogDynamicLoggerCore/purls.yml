@@ -1,0 +1,3 @@
+- pkg:nuget/Steeltoe.Extensions.Logging.SerilogDynamicLoggerCore@3.0.0-m1
+- pkg:nuget/Steeltoe.Extensions.Logging.SerilogDynamicLoggerCore@3.0.0-m2
+- pkg:nuget/Steeltoe.Extensions.Logging.SerilogDynamicLoggerCore@3.0.0-m3

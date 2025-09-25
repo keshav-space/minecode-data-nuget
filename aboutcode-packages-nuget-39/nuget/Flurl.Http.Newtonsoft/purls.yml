@@ -1,0 +1,4 @@
+- pkg:nuget/Flurl.Http.Newtonsoft@0.9.0
+- pkg:nuget/Flurl.Http.Newtonsoft@0.9.0-pre2
+- pkg:nuget/Flurl.Http.Newtonsoft@0.9.0-pre3
+- pkg:nuget/Flurl.Http.Newtonsoft@0.9.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.TypeEdge.Templates.Module.VsCode@0.4.4.24
+- pkg:nuget/Microsoft.Azure.TypeEdge.Templates.Module.VsCode@0.4.4.26
+- pkg:nuget/Microsoft.Azure.TypeEdge.Templates.Module.VsCode@0.4.4.36
+- pkg:nuget/Microsoft.Azure.TypeEdge.Templates.Module.VsCode@0.4.4.41

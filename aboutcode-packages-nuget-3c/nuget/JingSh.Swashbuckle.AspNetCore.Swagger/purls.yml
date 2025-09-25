@@ -1,0 +1,5 @@
+- pkg:nuget/JingSh.Swashbuckle.AspNetCore.Swagger@2.3.1
+- pkg:nuget/JingSh.Swashbuckle.AspNetCore.Swagger@2.3.2
+- pkg:nuget/JingSh.Swashbuckle.AspNetCore.Swagger@2.3.3
+- pkg:nuget/JingSh.Swashbuckle.AspNetCore.Swagger@2.3.4
+- pkg:nuget/JingSh.Swashbuckle.AspNetCore.Swagger@2.3.5

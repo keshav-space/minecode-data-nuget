@@ -1,0 +1,5 @@
+- pkg:nuget/Cake.FluentMigrator@0.0.1
+- pkg:nuget/Cake.FluentMigrator@0.1.2
+- pkg:nuget/Cake.FluentMigrator@0.2.0
+- pkg:nuget/Cake.FluentMigrator@0.3.0
+- pkg:nuget/Cake.FluentMigrator@0.4.0

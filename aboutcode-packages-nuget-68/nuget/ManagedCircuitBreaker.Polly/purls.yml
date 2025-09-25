@@ -1,0 +1,2 @@
+- pkg:nuget/ManagedCircuitBreaker.Polly@0.6.0
+- pkg:nuget/ManagedCircuitBreaker.Polly@0.6.1

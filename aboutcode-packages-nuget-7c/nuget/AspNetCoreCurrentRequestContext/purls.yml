@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCoreCurrentRequestContext@1.0.0
+- pkg:nuget/AspNetCoreCurrentRequestContext@2.0.0

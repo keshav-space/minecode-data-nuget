@@ -1,0 +1,4 @@
+- pkg:nuget/AVS.CoreLib.Console.ColorFormatting@2.1.0
+- pkg:nuget/AVS.CoreLib.Console.ColorFormatting@7.0.0
+- pkg:nuget/AVS.CoreLib.Console.ColorFormatting@7.0.1
+- pkg:nuget/AVS.CoreLib.Console.ColorFormatting@9.0.0

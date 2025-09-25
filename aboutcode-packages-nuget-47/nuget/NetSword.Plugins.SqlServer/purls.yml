@@ -1,0 +1,14 @@
+- pkg:nuget/NetSword.Plugins.SqlServer@2020.0.4
+- pkg:nuget/NetSword.Plugins.SqlServer@2020.0.8
+- pkg:nuget/NetSword.Plugins.SqlServer@2020.1.19
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.4.1
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.4.1-beta100
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.4.1-beta102
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.4.4
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.4.6
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.4.8
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.5
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.5.4
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.5.7
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.5.7-beta001
+- pkg:nuget/NetSword.Plugins.SqlServer@8.1.6.5

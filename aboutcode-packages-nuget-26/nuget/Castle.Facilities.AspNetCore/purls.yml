@@ -1,0 +1,9 @@
+- pkg:nuget/Castle.Facilities.AspNetCore@4.1.0
+- pkg:nuget/Castle.Facilities.AspNetCore@5.0.0
+- pkg:nuget/Castle.Facilities.AspNetCore@5.0.0-beta001
+- pkg:nuget/Castle.Facilities.AspNetCore@5.0.1
+- pkg:nuget/Castle.Facilities.AspNetCore@5.1.0
+- pkg:nuget/Castle.Facilities.AspNetCore@5.1.0-beta001
+- pkg:nuget/Castle.Facilities.AspNetCore@5.1.1
+- pkg:nuget/Castle.Facilities.AspNetCore@5.1.2
+- pkg:nuget/Castle.Facilities.AspNetCore@6.0.0

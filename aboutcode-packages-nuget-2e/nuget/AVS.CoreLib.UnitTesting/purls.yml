@@ -1,0 +1,5 @@
+- pkg:nuget/AVS.CoreLib.UnitTesting@1.0.0
+- pkg:nuget/AVS.CoreLib.UnitTesting@2.1.0
+- pkg:nuget/AVS.CoreLib.UnitTesting@6.0.0-rc
+- pkg:nuget/AVS.CoreLib.UnitTesting@7.0.0
+- pkg:nuget/AVS.CoreLib.UnitTesting@9.0.0

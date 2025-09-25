@@ -1,0 +1,10 @@
+- pkg:nuget/KM.MessageQueue.Http@4.0.0
+- pkg:nuget/KM.MessageQueue.Http@7.0.0
+- pkg:nuget/KM.MessageQueue.Http@7.0.2
+- pkg:nuget/KM.MessageQueue.Http@7.1.0
+- pkg:nuget/KM.MessageQueue.Http@7.2.0
+- pkg:nuget/KM.MessageQueue.Http@7.2.3
+- pkg:nuget/KM.MessageQueue.Http@8.0.0
+- pkg:nuget/KM.MessageQueue.Http@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.Http@8.1.1
+- pkg:nuget/KM.MessageQueue.Http@9.0.0

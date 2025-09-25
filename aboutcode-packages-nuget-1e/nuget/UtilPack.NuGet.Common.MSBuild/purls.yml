@@ -1,0 +1,6 @@
+- pkg:nuget/UtilPack.NuGet.Common.MSBuild@1.0.0
+- pkg:nuget/UtilPack.NuGet.Common.MSBuild@1.0.0-RC1
+- pkg:nuget/UtilPack.NuGet.Common.MSBuild@1.0.0-RC2
+- pkg:nuget/UtilPack.NuGet.Common.MSBuild@1.1.0
+- pkg:nuget/UtilPack.NuGet.Common.MSBuild@2.0.0
+- pkg:nuget/UtilPack.NuGet.Common.MSBuild@2.1.0

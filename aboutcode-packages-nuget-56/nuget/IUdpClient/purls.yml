@@ -1,0 +1,5 @@
+- pkg:nuget/IUdpClient@0.0.1
+- pkg:nuget/IUdpClient@0.0.1-preview-01
+- pkg:nuget/IUdpClient@0.0.2
+- pkg:nuget/IUdpClient@0.0.3
+- pkg:nuget/IUdpClient@0.0.3.1

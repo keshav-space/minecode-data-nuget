@@ -1,0 +1,5 @@
+- pkg:nuget/Infrastructure.Data.Dapper@1.0.0
+- pkg:nuget/Infrastructure.Data.Dapper@1.0.1
+- pkg:nuget/Infrastructure.Data.Dapper@2.0.0
+- pkg:nuget/Infrastructure.Data.Dapper@6.0.0
+- pkg:nuget/Infrastructure.Data.Dapper@8.0.0

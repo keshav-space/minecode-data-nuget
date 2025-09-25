@@ -1,0 +1,16 @@
+- pkg:nuget/SimpleDB@0.0.1
+- pkg:nuget/SimpleDB@0.0.9
+- pkg:nuget/SimpleDB@5.0.0
+- pkg:nuget/SimpleDB@5.0.3
+- pkg:nuget/SimpleDB@5.1.0
+- pkg:nuget/SimpleDB@5.2.0
+- pkg:nuget/SimpleDB@5.3.0
+- pkg:nuget/SimpleDB@5.4.0
+- pkg:nuget/SimpleDB@5.5.0
+- pkg:nuget/SimpleDB@5.5.1
+- pkg:nuget/SimpleDB@5.5.2
+- pkg:nuget/SimpleDB@5.6.0
+- pkg:nuget/SimpleDB@5.6.1
+- pkg:nuget/SimpleDB@5.7.0
+- pkg:nuget/SimpleDB@5.8.0
+- pkg:nuget/SimpleDB@5.9.0

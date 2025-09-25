@@ -1,0 +1,11 @@
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@0.2.0
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@0.2.0-CI-20220523-151129
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@0.3.0
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@0.3.0-CI-20230224-125642
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@0.3.1
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@0.3.1-CI-20230418-104341
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@0.3.1-CI-20230418-125027
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@1.0.0
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@1.0.0-CI-20230419-075719
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@1.0.1
+- pkg:nuget/SlowFox.UnitTestMocks.Shared@1.0.1-CI-20240502-154026

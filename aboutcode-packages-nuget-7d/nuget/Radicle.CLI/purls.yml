@@ -1,0 +1,14 @@
+- pkg:nuget/Radicle.CLI@0.1.0
+- pkg:nuget/Radicle.CLI@0.10.0%2BHEAD.45d30ef
+- pkg:nuget/Radicle.CLI@0.11.0%2BHEAD.3808e39
+- pkg:nuget/Radicle.CLI@0.2.0
+- pkg:nuget/Radicle.CLI@0.3.0
+- pkg:nuget/Radicle.CLI@0.4.0
+- pkg:nuget/Radicle.CLI@0.5.0
+- pkg:nuget/Radicle.CLI@0.6.0
+- pkg:nuget/Radicle.CLI@0.6.1
+- pkg:nuget/Radicle.CLI@0.6.2
+- pkg:nuget/Radicle.CLI@0.7.0%2BHEAD.a308f24
+- pkg:nuget/Radicle.CLI@0.8.0%2BHEAD.9bfc0ba
+- pkg:nuget/Radicle.CLI@0.9.0%2BHEAD.735d8b5
+- pkg:nuget/Radicle.CLI@0.9.1%2BHEAD.319b4ac

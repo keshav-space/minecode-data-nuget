@@ -1,0 +1,9 @@
+- pkg:nuget/Autofac.BindingByConvention@0.0.1
+- pkg:nuget/Autofac.BindingByConvention@0.0.1-beta01
+- pkg:nuget/Autofac.BindingByConvention@0.0.2-beta01
+- pkg:nuget/Autofac.BindingByConvention@0.0.2-beta02
+- pkg:nuget/Autofac.BindingByConvention@0.0.2-beta03
+- pkg:nuget/Autofac.BindingByConvention@0.0.3-beta01
+- pkg:nuget/Autofac.BindingByConvention@0.0.3-beta02
+- pkg:nuget/Autofac.BindingByConvention@0.0.5-beta01
+- pkg:nuget/Autofac.BindingByConvention@0.0.5-beta02

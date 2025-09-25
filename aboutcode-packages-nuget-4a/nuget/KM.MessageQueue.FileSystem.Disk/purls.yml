@@ -1,0 +1,14 @@
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@1.0.0
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@1.0.2
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@1.0.3
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@2.0.0
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@3.0.0
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@4.0.0
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@4.0.1
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@7.0.0
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@7.1.0
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@7.2.3
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@8.0.0
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@8.1.1
+- pkg:nuget/KM.MessageQueue.FileSystem.Disk@9.0.0

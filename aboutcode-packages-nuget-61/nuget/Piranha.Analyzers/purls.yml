@@ -1,0 +1,4 @@
+- pkg:nuget/Piranha.Analyzers@8.1.0
+- pkg:nuget/Piranha.Analyzers@8.4.0.18
+- pkg:nuget/Piranha.Analyzers@9.0.0
+- pkg:nuget/Piranha.Analyzers@9.0.0-alpha1

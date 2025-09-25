@@ -1,0 +1,4 @@
+- pkg:nuget/lsp.entityRepository@1.0.0.6-alfa
+- pkg:nuget/lsp.entityRepository@1.0.0.7-beta
+- pkg:nuget/lsp.entityRepository@1.0.0.8
+- pkg:nuget/lsp.entityRepository@5.0.0-beta

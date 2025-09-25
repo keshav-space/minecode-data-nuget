@@ -1,0 +1,4 @@
+- pkg:nuget/Atlas.Core.Logging@0.0.10
+- pkg:nuget/Atlas.Core.Logging@0.0.11
+- pkg:nuget/Atlas.Core.Logging@0.0.8
+- pkg:nuget/Atlas.Core.Logging@0.0.9

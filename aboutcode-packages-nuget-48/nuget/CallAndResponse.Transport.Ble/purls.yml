@@ -1,0 +1,12 @@
+- pkg:nuget/CallAndResponse.Transport.Ble@1.0.7
+- pkg:nuget/CallAndResponse.Transport.Ble@1.1.0
+- pkg:nuget/CallAndResponse.Transport.Ble@1.1.1
+- pkg:nuget/CallAndResponse.Transport.Ble@1.2.0-alpha
+- pkg:nuget/CallAndResponse.Transport.Ble@1.2.1-alpha
+- pkg:nuget/CallAndResponse.Transport.Ble@1.2.3-alpha
+- pkg:nuget/CallAndResponse.Transport.Ble@1.3.0-alpha
+- pkg:nuget/CallAndResponse.Transport.Ble@1.3.1-alpha
+- pkg:nuget/CallAndResponse.Transport.Ble@1.4.0-alpha
+- pkg:nuget/CallAndResponse.Transport.Ble@1.5.0-alpha
+- pkg:nuget/CallAndResponse.Transport.Ble@1.6.0-alpha
+- pkg:nuget/CallAndResponse.Transport.Ble@1.6.1-alpha

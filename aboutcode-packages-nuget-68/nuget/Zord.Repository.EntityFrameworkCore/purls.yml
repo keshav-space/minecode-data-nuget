@@ -1,0 +1,11 @@
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@7.0.0.1
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@7.0.0.2
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@7.0.0.3
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@7.0.0.5
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@7.1.0.1
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@7.1.0.2
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@8.0.0
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@8.0.0.1
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@8.0.0.2
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@8.0.0.3
+- pkg:nuget/Zord.Repository.EntityFrameworkCore@8.0.0.4

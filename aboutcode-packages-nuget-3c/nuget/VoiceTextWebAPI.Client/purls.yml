@@ -1,0 +1,9 @@
+- pkg:nuget/VoiceTextWebAPI.Client@1.0.0-beta
+- pkg:nuget/VoiceTextWebAPI.Client@1.0.0.1-beta
+- pkg:nuget/VoiceTextWebAPI.Client@1.1.0-beta
+- pkg:nuget/VoiceTextWebAPI.Client@1.2.0-beta
+- pkg:nuget/VoiceTextWebAPI.Client@1.3.0.1
+- pkg:nuget/VoiceTextWebAPI.Client@1.4.0
+- pkg:nuget/VoiceTextWebAPI.Client@2.0.0
+- pkg:nuget/VoiceTextWebAPI.Client@2.0.0.1
+- pkg:nuget/VoiceTextWebAPI.Client@3.0.0.1

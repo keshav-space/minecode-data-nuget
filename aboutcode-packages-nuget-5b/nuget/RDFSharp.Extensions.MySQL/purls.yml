@@ -1,0 +1,12 @@
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.0.0
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.0.0-preview0
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.1.0
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.12.0
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.16.0
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.16.1
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.16.2
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.20.0
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.21.0
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.4.4
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.5.0
+- pkg:nuget/RDFSharp.Extensions.MySQL@3.8.0

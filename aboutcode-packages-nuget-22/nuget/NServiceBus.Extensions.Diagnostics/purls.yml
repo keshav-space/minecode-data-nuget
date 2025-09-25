@@ -1,0 +1,15 @@
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@0.0.0-alpha.0.20
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@0.0.0-alpha.0.21
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@0.0.0-alpha.0.22
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@0.0.0-alpha.0.24
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@0.0.1-alpha.1
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@0.1.0
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@0.1.1
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@0.2.0
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@1.0.0
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@1.0.0-rc.1
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@1.0.0-rc.2
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@1.1.0
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@2.0.0
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@2.1.0
+- pkg:nuget/NServiceBus.Extensions.Diagnostics@2.1.1

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.AspNet.Authentication.JwtBearer@1.0.0-beta8
+- pkg:nuget/Microsoft.AspNet.Authentication.JwtBearer@1.0.0-rc1-final

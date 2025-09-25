@@ -1,0 +1,5 @@
+- pkg:nuget/NexumNovus.AppSettings.Json@0.1.0%2Bbuild.7
+- pkg:nuget/NexumNovus.AppSettings.Json@0.1.1%2Bbuild.10
+- pkg:nuget/NexumNovus.AppSettings.Json@0.1.2%2Bbuild.12
+- pkg:nuget/NexumNovus.AppSettings.Json@0.2.0%2Bbuild.23
+- pkg:nuget/NexumNovus.AppSettings.Json@0.2.1%2Bbuild.31

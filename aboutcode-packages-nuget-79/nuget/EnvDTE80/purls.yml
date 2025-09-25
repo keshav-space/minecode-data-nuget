@@ -1,0 +1,10 @@
+- pkg:nuget/EnvDTE80@16.10.31225.38
+- pkg:nuget/EnvDTE80@16.10.31320.204
+- pkg:nuget/EnvDTE80@16.7.30328.74
+- pkg:nuget/EnvDTE80@16.8.30705.32
+- pkg:nuget/EnvDTE80@16.9.30927.25
+- pkg:nuget/EnvDTE80@16.9.31023.347
+- pkg:nuget/EnvDTE80@8.0.0
+- pkg:nuget/EnvDTE80@8.0.1
+- pkg:nuget/EnvDTE80@8.0.2
+- pkg:nuget/EnvDTE80@8.0.3

@@ -1,0 +1,4 @@
+- pkg:nuget/Owin.Security.Providers.GoTo@1.0.0
+- pkg:nuget/Owin.Security.Providers.GoTo@1.0.1
+- pkg:nuget/Owin.Security.Providers.GoTo@1.1.0
+- pkg:nuget/Owin.Security.Providers.GoTo@1.2.0

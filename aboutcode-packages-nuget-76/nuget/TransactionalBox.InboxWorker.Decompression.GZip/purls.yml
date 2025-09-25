@@ -1,0 +1,5 @@
+- pkg:nuget/TransactionalBox.InboxWorker.Decompression.GZip@0.0.1-alpha07
+- pkg:nuget/TransactionalBox.InboxWorker.Decompression.GZip@0.0.1-alpha08
+- pkg:nuget/TransactionalBox.InboxWorker.Decompression.GZip@0.0.1-alpha09
+- pkg:nuget/TransactionalBox.InboxWorker.Decompression.GZip@0.0.1-alpha10
+- pkg:nuget/TransactionalBox.InboxWorker.Decompression.GZip@0.0.1-alpha11

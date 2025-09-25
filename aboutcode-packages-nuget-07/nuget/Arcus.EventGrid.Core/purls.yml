@@ -1,0 +1,4 @@
+- pkg:nuget/Arcus.EventGrid.Core@3.3.0
+- pkg:nuget/Arcus.EventGrid.Core@3.3.0-preview-1
+- pkg:nuget/Arcus.EventGrid.Core@4.0.0
+- pkg:nuget/Arcus.EventGrid.Core@4.0.0-preview-1

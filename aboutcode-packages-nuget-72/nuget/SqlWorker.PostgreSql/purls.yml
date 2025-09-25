@@ -1,0 +1,8 @@
+- pkg:nuget/SqlWorker.PostgreSql@2.1.151
+- pkg:nuget/SqlWorker.PostgreSql@2.2.175
+- pkg:nuget/SqlWorker.PostgreSql@3.1.252
+- pkg:nuget/SqlWorker.PostgreSql@3.1.255
+- pkg:nuget/SqlWorker.PostgreSql@3.1.264
+- pkg:nuget/SqlWorker.PostgreSql@3.1.285
+- pkg:nuget/SqlWorker.PostgreSql@3.2.308
+- pkg:nuget/SqlWorker.PostgreSql@3.2.309

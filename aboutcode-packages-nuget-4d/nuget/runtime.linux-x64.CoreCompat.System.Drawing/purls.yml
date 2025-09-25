@@ -1,0 +1,8 @@
+- pkg:nuget/runtime.linux-x64.CoreCompat.System.Drawing@1.0.0-beta002
+- pkg:nuget/runtime.linux-x64.CoreCompat.System.Drawing@1.0.0-beta003
+- pkg:nuget/runtime.linux-x64.CoreCompat.System.Drawing@1.0.0-beta004
+- pkg:nuget/runtime.linux-x64.CoreCompat.System.Drawing@1.0.0-beta005
+- pkg:nuget/runtime.linux-x64.CoreCompat.System.Drawing@1.0.0-beta006
+- pkg:nuget/runtime.linux-x64.CoreCompat.System.Drawing@1.0.0-beta007
+- pkg:nuget/runtime.linux-x64.CoreCompat.System.Drawing@1.0.0-beta008
+- pkg:nuget/runtime.linux-x64.CoreCompat.System.Drawing@1.0.0-beta009
