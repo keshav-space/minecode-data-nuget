@@ -1,0 +1,11 @@
+- pkg:nuget/Asp.Versioning.WebApi@6.0.0
+- pkg:nuget/Asp.Versioning.WebApi@6.0.0-preview.1
+- pkg:nuget/Asp.Versioning.WebApi@6.0.0-preview.2
+- pkg:nuget/Asp.Versioning.WebApi@6.0.0-preview.3
+- pkg:nuget/Asp.Versioning.WebApi@6.1.0
+- pkg:nuget/Asp.Versioning.WebApi@6.2.0
+- pkg:nuget/Asp.Versioning.WebApi@6.2.1
+- pkg:nuget/Asp.Versioning.WebApi@6.3.0
+- pkg:nuget/Asp.Versioning.WebApi@7.0.0
+- pkg:nuget/Asp.Versioning.WebApi@7.0.1
+- pkg:nuget/Asp.Versioning.WebApi@7.1.0

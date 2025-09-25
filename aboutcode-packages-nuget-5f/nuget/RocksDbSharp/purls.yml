@@ -1,0 +1,15 @@
+- pkg:nuget/RocksDbSharp@4.13.1
+- pkg:nuget/RocksDbSharp@4.13.2
+- pkg:nuget/RocksDbSharp@4.13.2.1
+- pkg:nuget/RocksDbSharp@4.13.2.2
+- pkg:nuget/RocksDbSharp@5.0.1
+- pkg:nuget/RocksDbSharp@5.1.4
+- pkg:nuget/RocksDbSharp@5.17.2
+- pkg:nuget/RocksDbSharp@5.2.1
+- pkg:nuget/RocksDbSharp@5.3.4
+- pkg:nuget/RocksDbSharp@5.3.4.1
+- pkg:nuget/RocksDbSharp@5.4.6
+- pkg:nuget/RocksDbSharp@5.4.6.10
+- pkg:nuget/RocksDbSharp@5.4.6.11
+- pkg:nuget/RocksDbSharp@5.4.6.9
+- pkg:nuget/RocksDbSharp@6.2.2

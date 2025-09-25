@@ -1,0 +1,13 @@
+- pkg:nuget/Longbow.GitHubAuth@2.2.0
+- pkg:nuget/Longbow.GitHubAuth@2.2.0-beta
+- pkg:nuget/Longbow.GitHubAuth@2.2.1-beta
+- pkg:nuget/Longbow.GitHubAuth@3.0.0
+- pkg:nuget/Longbow.GitHubAuth@3.0.0-beta1
+- pkg:nuget/Longbow.GitHubAuth@3.0.1
+- pkg:nuget/Longbow.GitHubAuth@3.0.1-beta1
+- pkg:nuget/Longbow.GitHubAuth@3.1.0
+- pkg:nuget/Longbow.GitHubAuth@5.0.0
+- pkg:nuget/Longbow.GitHubAuth@5.2.0
+- pkg:nuget/Longbow.GitHubAuth@7.0.0
+- pkg:nuget/Longbow.GitHubAuth@7.0.1
+- pkg:nuget/Longbow.GitHubAuth@8.0.0

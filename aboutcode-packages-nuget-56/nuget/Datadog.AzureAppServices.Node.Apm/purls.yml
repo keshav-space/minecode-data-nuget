@@ -1,0 +1,17 @@
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@0.0.1
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@0.0.2
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@0.0.3
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@1.0.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@1.0.1
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@1.0.2
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@1.0.3
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@1.1.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.0.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.1.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.2.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.3.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.4.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.5.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.6.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.7.0
+- pkg:nuget/Datadog.AzureAppServices.Node.Apm@2.8.0

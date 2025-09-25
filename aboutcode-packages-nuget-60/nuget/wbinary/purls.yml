@@ -1,0 +1,4 @@
+- pkg:nuget/wbinary@0.12.0
+- pkg:nuget/wbinary@0.13.0
+- pkg:nuget/wbinary@0.14.0
+- pkg:nuget/wbinary@0.15.0

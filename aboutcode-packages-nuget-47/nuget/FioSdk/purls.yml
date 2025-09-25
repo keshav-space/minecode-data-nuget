@@ -1,0 +1,15 @@
+- pkg:nuget/FioSdk@1.0.0
+- pkg:nuget/FioSdk@1.0.0.1
+- pkg:nuget/FioSdk@1.0.0.5
+- pkg:nuget/FioSdk@1.0.0.6
+- pkg:nuget/FioSdk@1.1.0
+- pkg:nuget/FioSdk@1.1.0.5
+- pkg:nuget/FioSdk@1.2.0
+- pkg:nuget/FioSdk@2.0.0
+- pkg:nuget/FioSdk@2.1.1
+- pkg:nuget/FioSdk@3.0.0
+- pkg:nuget/FioSdk@3.0.0-preview1
+- pkg:nuget/FioSdk@3.0.0-preview2
+- pkg:nuget/FioSdk@3.0.0-preview3
+- pkg:nuget/FioSdk@3.0.1
+- pkg:nuget/FioSdk@3.1.0

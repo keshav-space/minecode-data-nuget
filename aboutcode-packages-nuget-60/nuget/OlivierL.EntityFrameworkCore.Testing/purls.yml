@@ -1,0 +1,4 @@
+- pkg:nuget/OlivierL.EntityFrameworkCore.Testing@1.0.0
+- pkg:nuget/OlivierL.EntityFrameworkCore.Testing@6.0.0
+- pkg:nuget/OlivierL.EntityFrameworkCore.Testing@6.0.1
+- pkg:nuget/OlivierL.EntityFrameworkCore.Testing@8.0.0

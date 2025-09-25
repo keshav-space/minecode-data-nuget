@@ -1,0 +1,2 @@
+- pkg:nuget/MindSung.Caching.Providers.Redis@0.2.0
+- pkg:nuget/MindSung.Caching.Providers.Redis@1.0.0

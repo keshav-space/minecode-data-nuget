@@ -1,0 +1,8 @@
+- pkg:nuget/NUnit.Extension.NUnitV2ResultWriter@3.2.0
+- pkg:nuget/NUnit.Extension.NUnitV2ResultWriter@3.2.1
+- pkg:nuget/NUnit.Extension.NUnitV2ResultWriter@3.4.0
+- pkg:nuget/NUnit.Extension.NUnitV2ResultWriter@3.4.1
+- pkg:nuget/NUnit.Extension.NUnitV2ResultWriter@3.5.0
+- pkg:nuget/NUnit.Extension.NUnitV2ResultWriter@3.6.0
+- pkg:nuget/NUnit.Extension.NUnitV2ResultWriter@3.7.0
+- pkg:nuget/NUnit.Extension.NUnitV2ResultWriter@3.8.0

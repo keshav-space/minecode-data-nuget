@@ -1,0 +1,9 @@
+- pkg:nuget/FakeServer@0.10.0
+- pkg:nuget/FakeServer@0.11.0
+- pkg:nuget/FakeServer@0.7.0
+- pkg:nuget/FakeServer@0.8.0
+- pkg:nuget/FakeServer@0.8.0-pre
+- pkg:nuget/FakeServer@0.8.0-pre2
+- pkg:nuget/FakeServer@0.8.0-rc
+- pkg:nuget/FakeServer@0.9.0
+- pkg:nuget/FakeServer@0.9.1

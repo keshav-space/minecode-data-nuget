@@ -1,0 +1,5 @@
+- pkg:nuget/DVM4T.Core@1.0.0-beta
+- pkg:nuget/DVM4T.Core@1.0.0.1
+- pkg:nuget/DVM4T.Core@1.1.0
+- pkg:nuget/DVM4T.Core@1.2.0
+- pkg:nuget/DVM4T.Core@1.2.1

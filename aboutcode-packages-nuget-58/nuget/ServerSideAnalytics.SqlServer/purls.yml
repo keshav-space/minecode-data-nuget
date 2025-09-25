@@ -1,0 +1,11 @@
+- pkg:nuget/ServerSideAnalytics.SqlServer@1.0.0
+- pkg:nuget/ServerSideAnalytics.SqlServer@2.0.0
+- pkg:nuget/ServerSideAnalytics.SqlServer@4.0.0
+- pkg:nuget/ServerSideAnalytics.SqlServer@4.2.0
+- pkg:nuget/ServerSideAnalytics.SqlServer@4.2.4
+- pkg:nuget/ServerSideAnalytics.SqlServer@4.3.4
+- pkg:nuget/ServerSideAnalytics.SqlServer@4.4.0
+- pkg:nuget/ServerSideAnalytics.SqlServer@5.0.0
+- pkg:nuget/ServerSideAnalytics.SqlServer@5.1.2
+- pkg:nuget/ServerSideAnalytics.SqlServer@5.2.0
+- pkg:nuget/ServerSideAnalytics.SqlServer@6.0.0

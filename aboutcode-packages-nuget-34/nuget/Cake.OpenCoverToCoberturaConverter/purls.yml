@@ -1,0 +1,6 @@
+- pkg:nuget/Cake.OpenCoverToCoberturaConverter@0.1.1.2
+- pkg:nuget/Cake.OpenCoverToCoberturaConverter@0.1.10.11
+- pkg:nuget/Cake.OpenCoverToCoberturaConverter@0.1.2.3
+- pkg:nuget/Cake.OpenCoverToCoberturaConverter@0.1.4.5
+- pkg:nuget/Cake.OpenCoverToCoberturaConverter@0.1.5.6
+- pkg:nuget/Cake.OpenCoverToCoberturaConverter@0.1.7.7

@@ -1,0 +1,4 @@
+- pkg:nuget/zuki.tools.llvm.clang@1.0.380.5974
+- pkg:nuget/zuki.tools.llvm.clang@1.1.380.6003
+- pkg:nuget/zuki.tools.llvm.clang@1.1.381.6036
+- pkg:nuget/zuki.tools.llvm.clang@1.2.390.6115

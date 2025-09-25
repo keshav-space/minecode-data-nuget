@@ -1,0 +1,7 @@
+- pkg:nuget/7-Zip.StandaloneConsole.x64@19.0.0
+- pkg:nuget/7-Zip.StandaloneConsole.x64@21.6.0
+- pkg:nuget/7-Zip.StandaloneConsole.x64@21.7.0
+- pkg:nuget/7-Zip.StandaloneConsole.x64@22.1.0
+- pkg:nuget/7-Zip.StandaloneConsole.x64@23.1.0
+- pkg:nuget/7-Zip.StandaloneConsole.x64@24.7.0
+- pkg:nuget/7-Zip.StandaloneConsole.x64@24.9.0

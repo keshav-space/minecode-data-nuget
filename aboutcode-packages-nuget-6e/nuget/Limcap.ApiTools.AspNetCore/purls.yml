@@ -1,0 +1,8 @@
+- pkg:nuget/Limcap.ApiTools.AspNetCore@0.20.0
+- pkg:nuget/Limcap.ApiTools.AspNetCore@0.21.0
+- pkg:nuget/Limcap.ApiTools.AspNetCore@0.22.0
+- pkg:nuget/Limcap.ApiTools.AspNetCore@0.23.0
+- pkg:nuget/Limcap.ApiTools.AspNetCore@0.24.0
+- pkg:nuget/Limcap.ApiTools.AspNetCore@0.24.2
+- pkg:nuget/Limcap.ApiTools.AspNetCore@0.24.3
+- pkg:nuget/Limcap.ApiTools.AspNetCore@0.25.0

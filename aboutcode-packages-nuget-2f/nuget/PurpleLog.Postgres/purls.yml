@@ -1,0 +1,13 @@
+- pkg:nuget/PurpleLog.Postgres@1.0.0
+- pkg:nuget/PurpleLog.Postgres@1.0.5
+- pkg:nuget/PurpleLog.Postgres@2.0.0
+- pkg:nuget/PurpleLog.Postgres@2.0.1
+- pkg:nuget/PurpleLog.Postgres@2.0.2
+- pkg:nuget/PurpleLog.Postgres@2.0.3
+- pkg:nuget/PurpleLog.Postgres@2.0.4
+- pkg:nuget/PurpleLog.Postgres@3.0.0
+- pkg:nuget/PurpleLog.Postgres@3.0.1
+- pkg:nuget/PurpleLog.Postgres@3.0.2
+- pkg:nuget/PurpleLog.Postgres@3.0.3
+- pkg:nuget/PurpleLog.Postgres@4.0.0
+- pkg:nuget/PurpleLog.Postgres@4.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Pulumi.Sentry@0.0.1-alpha.1664283741%2Bdca357cb
+- pkg:nuget/Pulumi.Sentry@0.0.5
+- pkg:nuget/Pulumi.Sentry@0.0.6
+- pkg:nuget/Pulumi.Sentry@0.0.8

@@ -1,0 +1,9 @@
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@1.9.0-alpha2
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@1.9.0-alpha3
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@1.9.0-beta2
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@1.9.0-beta3
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@1.9.0-beta4
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@3.6.0-beta1
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@3.6.0-beta2
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@3.7.0-beta1
+- pkg:nuget/brianpos.Fhir.R4.SmartAppLaunch.Support@3.8.3-beta1

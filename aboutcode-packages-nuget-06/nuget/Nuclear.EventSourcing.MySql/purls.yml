@@ -1,0 +1,5 @@
+- pkg:nuget/Nuclear.EventSourcing.MySql@1.0.0
+- pkg:nuget/Nuclear.EventSourcing.MySql@1.0.0.2
+- pkg:nuget/Nuclear.EventSourcing.MySql@2.0.0
+- pkg:nuget/Nuclear.EventSourcing.MySql@2.1.0
+- pkg:nuget/Nuclear.EventSourcing.MySql@3.0.0

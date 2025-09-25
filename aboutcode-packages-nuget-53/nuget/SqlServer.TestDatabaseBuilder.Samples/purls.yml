@@ -1,0 +1,5 @@
+- pkg:nuget/SqlServer.TestDatabaseBuilder.Samples@1.0.0
+- pkg:nuget/SqlServer.TestDatabaseBuilder.Samples@12.0.0
+- pkg:nuget/SqlServer.TestDatabaseBuilder.Samples@13.0.0
+- pkg:nuget/SqlServer.TestDatabaseBuilder.Samples@14.0.0
+- pkg:nuget/SqlServer.TestDatabaseBuilder.Samples@14.1.1

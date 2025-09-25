@@ -1,0 +1,6 @@
+- pkg:nuget/Panner.AspNetCore@1.0.0
+- pkg:nuget/Panner.AspNetCore@1.0.1
+- pkg:nuget/Panner.AspNetCore@2.0.0
+- pkg:nuget/Panner.AspNetCore@2.1.1
+- pkg:nuget/Panner.AspNetCore@2.1.2
+- pkg:nuget/Panner.AspNetCore@3.0.0

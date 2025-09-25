@@ -1,0 +1,4 @@
+- pkg:nuget/BigFloatLibrary@1.0.1
+- pkg:nuget/BigFloatLibrary@2.0.0
+- pkg:nuget/BigFloatLibrary@2.1.0
+- pkg:nuget/BigFloatLibrary@2.2.0

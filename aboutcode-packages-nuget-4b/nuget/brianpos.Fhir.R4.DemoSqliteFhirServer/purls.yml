@@ -1,0 +1,8 @@
+- pkg:nuget/brianpos.Fhir.R4.DemoSqliteFhirServer@1.9.1-beta1
+- pkg:nuget/brianpos.Fhir.R4.DemoSqliteFhirServer@1.9.1-beta2
+- pkg:nuget/brianpos.Fhir.R4.DemoSqliteFhirServer@1.9.1-beta3
+- pkg:nuget/brianpos.Fhir.R4.DemoSqliteFhirServer@3.5.0-beta1
+- pkg:nuget/brianpos.Fhir.R4.DemoSqliteFhirServer@3.6.0-beta1
+- pkg:nuget/brianpos.Fhir.R4.DemoSqliteFhirServer@3.7.0-beta1
+- pkg:nuget/brianpos.Fhir.R4.DemoSqliteFhirServer@3.8.3
+- pkg:nuget/brianpos.Fhir.R4.DemoSqliteFhirServer@3.8.3-beta1

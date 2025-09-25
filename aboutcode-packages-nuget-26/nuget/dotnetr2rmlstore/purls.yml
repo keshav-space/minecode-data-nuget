@@ -1,0 +1,5 @@
+- pkg:nuget/dotnetr2rmlstore@0.0.0.8-latest
+- pkg:nuget/dotnetr2rmlstore@0.0.0.9-latest
+- pkg:nuget/dotnetr2rmlstore@0.0.1-prealpha
+- pkg:nuget/dotnetr2rmlstore@0.0.1.66-prealpha
+- pkg:nuget/dotnetr2rmlstore@0.0.2-prealpha

@@ -1,0 +1,6 @@
+- pkg:nuget/NLog.Targets.CloudWatchLogs@1.0.0
+- pkg:nuget/NLog.Targets.CloudWatchLogs@1.0.1
+- pkg:nuget/NLog.Targets.CloudWatchLogs@1.0.2
+- pkg:nuget/NLog.Targets.CloudWatchLogs@1.1.0-beta
+- pkg:nuget/NLog.Targets.CloudWatchLogs@1.2.0
+- pkg:nuget/NLog.Targets.CloudWatchLogs@1.2.0-beta

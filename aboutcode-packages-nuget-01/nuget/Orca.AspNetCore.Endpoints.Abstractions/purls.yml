@@ -1,0 +1,4 @@
+- pkg:nuget/Orca.AspNetCore.Endpoints.Abstractions@1.0.0
+- pkg:nuget/Orca.AspNetCore.Endpoints.Abstractions@1.1.0
+- pkg:nuget/Orca.AspNetCore.Endpoints.Abstractions@1.2.0
+- pkg:nuget/Orca.AspNetCore.Endpoints.Abstractions@8.0.0

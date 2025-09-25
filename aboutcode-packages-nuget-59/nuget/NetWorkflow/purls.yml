@@ -1,0 +1,5 @@
+- pkg:nuget/NetWorkflow@1.0.0
+- pkg:nuget/NetWorkflow@1.0.1
+- pkg:nuget/NetWorkflow@1.1.0
+- pkg:nuget/NetWorkflow@2.0.0
+- pkg:nuget/NetWorkflow@3.0.0

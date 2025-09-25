@@ -1,0 +1,2 @@
+- pkg:nuget/SignalR.RabbitMqBackplane@1.0.0
+- pkg:nuget/SignalR.RabbitMqBackplane@1.1.0

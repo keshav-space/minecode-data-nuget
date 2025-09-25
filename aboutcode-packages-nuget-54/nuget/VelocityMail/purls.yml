@@ -1,0 +1,12 @@
+- pkg:nuget/VelocityMail@0.1.0
+- pkg:nuget/VelocityMail@0.1.0-CI00016
+- pkg:nuget/VelocityMail@0.1.0-pre01
+- pkg:nuget/VelocityMail@0.1.0-pre02
+- pkg:nuget/VelocityMail@0.2.0-pre01
+- pkg:nuget/VelocityMail@1.0.0
+- pkg:nuget/VelocityMail@1.1.0
+- pkg:nuget/VelocityMail@1.2.0
+- pkg:nuget/VelocityMail@1.2.0-alpha0004
+- pkg:nuget/VelocityMail@1.2.0-alpha0007
+- pkg:nuget/VelocityMail@1.3.0
+- pkg:nuget/VelocityMail@1.4.0

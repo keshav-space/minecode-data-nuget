@@ -1,0 +1,3 @@
+- pkg:nuget/Splitio-net-core.TestSupport@1.0.0
+- pkg:nuget/Splitio-net-core.TestSupport@3.3.0
+- pkg:nuget/Splitio-net-core.TestSupport@3.3.1

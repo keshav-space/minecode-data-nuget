@@ -1,0 +1,9 @@
+- pkg:nuget/Pinecone.Client@1.0.0
+- pkg:nuget/Pinecone.Client@1.0.0-rc.1
+- pkg:nuget/Pinecone.Client@2.0.0
+- pkg:nuget/Pinecone.Client@2.1.0
+- pkg:nuget/Pinecone.Client@3.0.0
+- pkg:nuget/Pinecone.Client@3.1.0
+- pkg:nuget/Pinecone.Client@4.0.0
+- pkg:nuget/Pinecone.Client@4.0.1
+- pkg:nuget/Pinecone.Client@4.0.2

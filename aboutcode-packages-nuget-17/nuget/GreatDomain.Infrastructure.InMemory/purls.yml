@@ -1,0 +1,6 @@
+- pkg:nuget/GreatDomain.Infrastructure.InMemory@0.1.0-beta
+- pkg:nuget/GreatDomain.Infrastructure.InMemory@0.2.0-beta
+- pkg:nuget/GreatDomain.Infrastructure.InMemory@0.3.0-beta
+- pkg:nuget/GreatDomain.Infrastructure.InMemory@0.3.1-beta
+- pkg:nuget/GreatDomain.Infrastructure.InMemory@0.4.0-beta
+- pkg:nuget/GreatDomain.Infrastructure.InMemory@0.5.0-beta

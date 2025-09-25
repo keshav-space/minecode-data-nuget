@@ -1,0 +1,3 @@
+- pkg:nuget/CDorst.DevOps.VersionControl.Functions.GetGitHubRepoRemoteUri@1.0.0
+- pkg:nuget/CDorst.DevOps.VersionControl.Functions.GetGitHubRepoRemoteUri@2.0.0
+- pkg:nuget/CDorst.DevOps.VersionControl.Functions.GetGitHubRepoRemoteUri@3.0.0

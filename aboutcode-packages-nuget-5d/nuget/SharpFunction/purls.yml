@@ -1,0 +1,14 @@
+- pkg:nuget/SharpFunction@0.6.4-beta
+- pkg:nuget/SharpFunction@0.7.1-beta
+- pkg:nuget/SharpFunction@0.7.4-beta
+- pkg:nuget/SharpFunction@0.7.4.8-hot
+- pkg:nuget/SharpFunction@0.7.4.9-hot
+- pkg:nuget/SharpFunction@0.7.5.3-beta
+- pkg:nuget/SharpFunction@0.7.5.4-beta
+- pkg:nuget/SharpFunction@0.7.5.5-beta
+- pkg:nuget/SharpFunction@0.7.5.7-beta
+- pkg:nuget/SharpFunction@1.0.0-final
+- pkg:nuget/SharpFunction@1.1.0
+- pkg:nuget/SharpFunction@1.1.6
+- pkg:nuget/SharpFunction@1.2.0
+- pkg:nuget/SharpFunction@1.2.0-preview

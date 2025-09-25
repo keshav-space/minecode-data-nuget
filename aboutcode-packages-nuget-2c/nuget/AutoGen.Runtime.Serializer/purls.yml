@@ -1,0 +1,5 @@
+- pkg:nuget/AutoGen.Runtime.Serializer@0.0.13-dev
+- pkg:nuget/AutoGen.Runtime.Serializer@0.0.14-dev
+- pkg:nuget/AutoGen.Runtime.Serializer@0.0.15-dev
+- pkg:nuget/AutoGen.Runtime.Serializer@0.0.16-dev
+- pkg:nuget/AutoGen.Runtime.Serializer@0.0.17-dev

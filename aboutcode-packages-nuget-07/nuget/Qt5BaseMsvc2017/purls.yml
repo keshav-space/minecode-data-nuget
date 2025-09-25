@@ -1,0 +1,4 @@
+- pkg:nuget/Qt5BaseMsvc2017@5.9.0
+- pkg:nuget/Qt5BaseMsvc2017@5.9.1
+- pkg:nuget/Qt5BaseMsvc2017@5.9.2
+- pkg:nuget/Qt5BaseMsvc2017@5.9.3

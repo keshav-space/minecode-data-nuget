@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.VisualStudio.Workspaces@15.0.100-pre
+- pkg:nuget/Microsoft.VisualStudio.Workspaces@15.0.171-pre
+- pkg:nuget/Microsoft.VisualStudio.Workspaces@15.0.198-pre
+- pkg:nuget/Microsoft.VisualStudio.Workspaces@15.0.215-pre
+- pkg:nuget/Microsoft.VisualStudio.Workspaces@15.0.97-pre

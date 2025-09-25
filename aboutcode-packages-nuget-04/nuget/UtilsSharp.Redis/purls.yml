@@ -1,0 +1,5 @@
+- pkg:nuget/UtilsSharp.Redis@1.0.0
+- pkg:nuget/UtilsSharp.Redis@2.0.0
+- pkg:nuget/UtilsSharp.Redis@3.0.0
+- pkg:nuget/UtilsSharp.Redis@3.0.1
+- pkg:nuget/UtilsSharp.Redis@3.0.2

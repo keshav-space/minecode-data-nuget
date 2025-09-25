@@ -1,0 +1,16 @@
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@1.0.1
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@1.0.2
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@1.0.3
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@5.0.1
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@5.0.2
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@5.1.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@6.0.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@6.1.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@6.2.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@6.2.1
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@6.4.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@6.5.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@6.6.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@7.0.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@8.0.0
+- pkg:nuget/GodelTech.Messaging.AzureServiceBus@8.1.0

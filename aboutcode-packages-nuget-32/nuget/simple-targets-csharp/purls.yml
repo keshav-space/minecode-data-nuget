@@ -1,0 +1,5 @@
+- pkg:nuget/simple-targets-csharp@1.1.0
+- pkg:nuget/simple-targets-csharp@2.0.0
+- pkg:nuget/simple-targets-csharp@3.0.0
+- pkg:nuget/simple-targets-csharp@4.0.0
+- pkg:nuget/simple-targets-csharp@5.0.0

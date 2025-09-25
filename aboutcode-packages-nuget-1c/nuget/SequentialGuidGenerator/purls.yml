@@ -1,0 +1,4 @@
+- pkg:nuget/SequentialGuidGenerator@1.0.0
+- pkg:nuget/SequentialGuidGenerator@1.0.0-beta
+- pkg:nuget/SequentialGuidGenerator@1.0.1
+- pkg:nuget/SequentialGuidGenerator@1.1.0

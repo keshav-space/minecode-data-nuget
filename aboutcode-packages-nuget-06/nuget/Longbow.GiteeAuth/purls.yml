@@ -1,0 +1,12 @@
+- pkg:nuget/Longbow.GiteeAuth@2.2.0
+- pkg:nuget/Longbow.GiteeAuth@2.2.0-beta
+- pkg:nuget/Longbow.GiteeAuth@2.2.1-beta
+- pkg:nuget/Longbow.GiteeAuth@3.0.0
+- pkg:nuget/Longbow.GiteeAuth@3.0.0-beta1
+- pkg:nuget/Longbow.GiteeAuth@3.0.1
+- pkg:nuget/Longbow.GiteeAuth@3.0.1-beta1
+- pkg:nuget/Longbow.GiteeAuth@3.1.0
+- pkg:nuget/Longbow.GiteeAuth@5.0.0
+- pkg:nuget/Longbow.GiteeAuth@5.2.0
+- pkg:nuget/Longbow.GiteeAuth@7.0.0
+- pkg:nuget/Longbow.GiteeAuth@8.0.0

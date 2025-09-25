@@ -1,0 +1,8 @@
+- pkg:nuget/Cake.Issues.DupFinder@0.8.0
+- pkg:nuget/Cake.Issues.DupFinder@0.8.0-beta0001
+- pkg:nuget/Cake.Issues.DupFinder@0.9.0
+- pkg:nuget/Cake.Issues.DupFinder@0.9.0-beta0001
+- pkg:nuget/Cake.Issues.DupFinder@0.9.0-beta0002
+- pkg:nuget/Cake.Issues.DupFinder@1.0.0
+- pkg:nuget/Cake.Issues.DupFinder@2.0.0
+- pkg:nuget/Cake.Issues.DupFinder@2.0.0-beta0001

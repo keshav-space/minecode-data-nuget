@@ -1,0 +1,11 @@
+- pkg:nuget/Eventfully.EFCoreOutbox@0.1.0-alpha0009
+- pkg:nuget/Eventfully.EFCoreOutbox@0.2.0-alpha0001
+- pkg:nuget/Eventfully.EFCoreOutbox@0.2.0-alpha0003
+- pkg:nuget/Eventfully.EFCoreOutbox@0.2.0-beta
+- pkg:nuget/Eventfully.EFCoreOutbox@0.3.0-beta
+- pkg:nuget/Eventfully.EFCoreOutbox@0.3.1-beta
+- pkg:nuget/Eventfully.EFCoreOutbox@0.3.2-beta
+- pkg:nuget/Eventfully.EFCoreOutbox@0.4.0-beta
+- pkg:nuget/Eventfully.EFCoreOutbox@0.4.1-beta
+- pkg:nuget/Eventfully.EFCoreOutbox@0.4.2-beta
+- pkg:nuget/Eventfully.EFCoreOutbox@0.5.0-beta

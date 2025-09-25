@@ -1,0 +1,5 @@
+- pkg:nuget/NHibernate.Extensions.NetCore@1.0.0
+- pkg:nuget/NHibernate.Extensions.NetCore@9.0.5
+- pkg:nuget/NHibernate.Extensions.NetCore@9.0.6
+- pkg:nuget/NHibernate.Extensions.NetCore@9.0.7
+- pkg:nuget/NHibernate.Extensions.NetCore@9.0.8

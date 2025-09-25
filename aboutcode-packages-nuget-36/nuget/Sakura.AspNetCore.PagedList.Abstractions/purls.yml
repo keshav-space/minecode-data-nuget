@@ -1,0 +1,6 @@
+- pkg:nuget/Sakura.AspNetCore.PagedList.Abstractions@1.0.0-rc2
+- pkg:nuget/Sakura.AspNetCore.PagedList.Abstractions@1.0.1
+- pkg:nuget/Sakura.AspNetCore.PagedList.Abstractions@1.0.1-rc2
+- pkg:nuget/Sakura.AspNetCore.PagedList.Abstractions@2.0.0
+- pkg:nuget/Sakura.AspNetCore.PagedList.Abstractions@2.0.1
+- pkg:nuget/Sakura.AspNetCore.PagedList.Abstractions@3.0.0

@@ -1,0 +1,10 @@
+- pkg:nuget/Azure.ResourceManager.Grafana@1.0.0
+- pkg:nuget/Azure.ResourceManager.Grafana@1.0.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Grafana@1.0.0-beta.2
+- pkg:nuget/Azure.ResourceManager.Grafana@1.0.1
+- pkg:nuget/Azure.ResourceManager.Grafana@1.1.0
+- pkg:nuget/Azure.ResourceManager.Grafana@1.1.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Grafana@1.1.0-beta.2
+- pkg:nuget/Azure.ResourceManager.Grafana@1.1.1
+- pkg:nuget/Azure.ResourceManager.Grafana@1.2.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Grafana@1.2.0-beta.2

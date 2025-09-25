@@ -1,0 +1,7 @@
+- pkg:nuget/SharpSnmpLib@10.0.0-alpha5
+- pkg:nuget/SharpSnmpLib@10.0.0-alpha6
+- pkg:nuget/SharpSnmpLib@10.0.0-beta1
+- pkg:nuget/SharpSnmpLib@9.4.0-alpha1
+- pkg:nuget/SharpSnmpLib@9.4.0-alpha2
+- pkg:nuget/SharpSnmpLib@9.4.0-alpha3
+- pkg:nuget/SharpSnmpLib@9.4.0-alpha4

@@ -1,0 +1,3 @@
+- pkg:nuget/RetrospectR.EFCoreOutbox@0.1.3-beta
+- pkg:nuget/RetrospectR.EFCoreOutbox@0.2.0-beta
+- pkg:nuget/RetrospectR.EFCoreOutbox@0.2.1-beta

@@ -1,0 +1,12 @@
+- pkg:nuget/Azure.ResourceManager.Batch@1.0.0
+- pkg:nuget/Azure.ResourceManager.Batch@1.0.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Batch@1.0.0-beta.2
+- pkg:nuget/Azure.ResourceManager.Batch@1.1.0
+- pkg:nuget/Azure.ResourceManager.Batch@1.1.1
+- pkg:nuget/Azure.ResourceManager.Batch@1.2.0
+- pkg:nuget/Azure.ResourceManager.Batch@1.2.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Batch@1.2.1
+- pkg:nuget/Azure.ResourceManager.Batch@1.3.0
+- pkg:nuget/Azure.ResourceManager.Batch@1.3.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Batch@1.4.0
+- pkg:nuget/Azure.ResourceManager.Batch@1.5.0

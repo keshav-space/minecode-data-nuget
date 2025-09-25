@@ -1,0 +1,2 @@
+- pkg:nuget/TinyCqrs.FluentValidation@1.0.0
+- pkg:nuget/TinyCqrs.FluentValidation@2.0.0

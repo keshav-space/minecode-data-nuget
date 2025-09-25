@@ -1,0 +1,8 @@
+- pkg:nuget/Twia.AzureFunction.SimpleInjector@0.1.0
+- pkg:nuget/Twia.AzureFunction.SimpleInjector@1.0.0
+- pkg:nuget/Twia.AzureFunction.SimpleInjector@1.0.1
+- pkg:nuget/Twia.AzureFunction.SimpleInjector@2.0.0
+- pkg:nuget/Twia.AzureFunction.SimpleInjector@2.0.1
+- pkg:nuget/Twia.AzureFunction.SimpleInjector@2.0.2
+- pkg:nuget/Twia.AzureFunction.SimpleInjector@2.1.0
+- pkg:nuget/Twia.AzureFunction.SimpleInjector@2.2.0

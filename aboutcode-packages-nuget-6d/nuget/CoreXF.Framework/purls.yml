@@ -1,0 +1,14 @@
+- pkg:nuget/CoreXF.Framework@1.0.0
+- pkg:nuget/CoreXF.Framework@1.0.1
+- pkg:nuget/CoreXF.Framework@1.0.2
+- pkg:nuget/CoreXF.Framework@1.0.3
+- pkg:nuget/CoreXF.Framework@1.1.0
+- pkg:nuget/CoreXF.Framework@1.1.1
+- pkg:nuget/CoreXF.Framework@1.1.2
+- pkg:nuget/CoreXF.Framework@2.0.0-alpha-1
+- pkg:nuget/CoreXF.Framework@2.0.0-alpha-2
+- pkg:nuget/CoreXF.Framework@2.0.0-alpha-3
+- pkg:nuget/CoreXF.Framework@2.0.0-alpha-4
+- pkg:nuget/CoreXF.Framework@2.0.0-beta-4
+- pkg:nuget/CoreXF.Framework@2.0.0-beta-5
+- pkg:nuget/CoreXF.Framework@3.0.0

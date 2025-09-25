@@ -1,0 +1,4 @@
+- pkg:nuget/SharpFunction.SFLang@0.6.0-BETA
+- pkg:nuget/SharpFunction.SFLang@0.8.0-BETA
+- pkg:nuget/SharpFunction.SFLang@0.9.0-PRE
+- pkg:nuget/SharpFunction.SFLang@0.9.5-PRE
