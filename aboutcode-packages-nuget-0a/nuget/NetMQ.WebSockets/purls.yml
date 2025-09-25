@@ -1,0 +1,5 @@
+- pkg:nuget/NetMQ.WebSockets@0.1.0-beta
+- pkg:nuget/NetMQ.WebSockets@0.2.0-beta
+- pkg:nuget/NetMQ.WebSockets@0.3.0-beta
+- pkg:nuget/NetMQ.WebSockets@0.4.1-beta
+- pkg:nuget/NetMQ.WebSockets@0.5.0-beta

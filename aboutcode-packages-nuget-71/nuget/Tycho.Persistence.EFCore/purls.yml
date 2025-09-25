@@ -1,0 +1,4 @@
+- pkg:nuget/Tycho.Persistence.EFCore@4.0.0
+- pkg:nuget/Tycho.Persistence.EFCore@5.0.0
+- pkg:nuget/Tycho.Persistence.EFCore@5.0.0-alpha
+- pkg:nuget/Tycho.Persistence.EFCore@5.0.0-beta

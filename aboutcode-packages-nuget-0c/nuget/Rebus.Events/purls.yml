@@ -1,0 +1,10 @@
+- pkg:nuget/Rebus.Events@2.0.0-beta01
+- pkg:nuget/Rebus.Events@3.0.0
+- pkg:nuget/Rebus.Events@4.0.0
+- pkg:nuget/Rebus.Events@4.0.0-b01
+- pkg:nuget/Rebus.Events@4.0.0-b02
+- pkg:nuget/Rebus.Events@4.0.0-b03
+- pkg:nuget/Rebus.Events@4.0.1
+- pkg:nuget/Rebus.Events@4.0.2
+- pkg:nuget/Rebus.Events@6.0.0
+- pkg:nuget/Rebus.Events@6.0.0-alpha01

@@ -1,0 +1,3 @@
+- pkg:nuget/cloudscribe.Email.Templating.Data.EFCore.pgsql@1.0.1
+- pkg:nuget/cloudscribe.Email.Templating.Data.EFCore.pgsql@2.1.0
+- pkg:nuget/cloudscribe.Email.Templating.Data.EFCore.pgsql@2.1.1

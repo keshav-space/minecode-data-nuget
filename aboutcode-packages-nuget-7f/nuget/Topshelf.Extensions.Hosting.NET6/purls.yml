@@ -1,0 +1,2 @@
+- pkg:nuget/Topshelf.Extensions.Hosting.NET6@0.5.0
+- pkg:nuget/Topshelf.Extensions.Hosting.NET6@0.6.0

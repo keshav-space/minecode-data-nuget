@@ -1,0 +1,10 @@
+- pkg:nuget/RepoDb.SQLite.System@1.0.0
+- pkg:nuget/RepoDb.SQLite.System@1.0.0-beta1
+- pkg:nuget/RepoDb.SQLite.System@1.0.1
+- pkg:nuget/RepoDb.SQLite.System@1.13.0
+- pkg:nuget/RepoDb.SQLite.System@1.13.0-alpha1
+- pkg:nuget/RepoDb.SQLite.System@1.13.0-alpha2
+- pkg:nuget/RepoDb.SQLite.System@1.13.0-beta1
+- pkg:nuget/RepoDb.SQLite.System@1.13.1
+- pkg:nuget/RepoDb.SQLite.System@1.13.1-alpha1
+- pkg:nuget/RepoDb.SQLite.System@1.13.2-alpha1

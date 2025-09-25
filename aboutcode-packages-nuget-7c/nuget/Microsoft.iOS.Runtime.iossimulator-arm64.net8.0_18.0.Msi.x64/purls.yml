@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.iOS.Runtime.iossimulator-arm64.net8.0_18.0.Msi.x64@18.0.8303
+- pkg:nuget/Microsoft.iOS.Runtime.iossimulator-arm64.net8.0_18.0.Msi.x64@18.0.8314
+- pkg:nuget/Microsoft.iOS.Runtime.iossimulator-arm64.net8.0_18.0.Msi.x64@18.0.8316
+- pkg:nuget/Microsoft.iOS.Runtime.iossimulator-arm64.net8.0_18.0.Msi.x64@18.0.8319
+- pkg:nuget/Microsoft.iOS.Runtime.iossimulator-arm64.net8.0_18.0.Msi.x64@18.0.8324

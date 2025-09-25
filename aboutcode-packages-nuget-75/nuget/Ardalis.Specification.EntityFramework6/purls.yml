@@ -1,0 +1,14 @@
+- pkg:nuget/Ardalis.Specification.EntityFramework6@5.1.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@5.2.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@6.0.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@6.0.0-beta
+- pkg:nuget/Ardalis.Specification.EntityFramework6@6.0.1
+- pkg:nuget/Ardalis.Specification.EntityFramework6@6.1.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@7.0.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@8.0.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@9.0.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@9.0.1
+- pkg:nuget/Ardalis.Specification.EntityFramework6@9.1.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@9.2.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@9.3.0
+- pkg:nuget/Ardalis.Specification.EntityFramework6@9.3.1

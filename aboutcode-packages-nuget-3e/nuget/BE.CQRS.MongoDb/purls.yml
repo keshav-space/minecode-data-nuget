@@ -1,0 +1,7 @@
+- pkg:nuget/BE.CQRS.MongoDb@0.3.0-alpha
+- pkg:nuget/BE.CQRS.MongoDb@0.3.1-alpha
+- pkg:nuget/BE.CQRS.MongoDb@0.3.2-alpha
+- pkg:nuget/BE.CQRS.MongoDb@0.33.0-alpha
+- pkg:nuget/BE.CQRS.MongoDb@0.34.0-alpha
+- pkg:nuget/BE.CQRS.MongoDb@0.35.0-alpha
+- pkg:nuget/BE.CQRS.MongoDb@0.36.0-alpha

@@ -1,0 +1,4 @@
+- pkg:nuget/RightScale.netClient.coreclr@0.1.0-prerelease
+- pkg:nuget/RightScale.netClient.coreclr@0.1.1-prerelease
+- pkg:nuget/RightScale.netClient.coreclr@0.1.2-prerelease
+- pkg:nuget/RightScale.netClient.coreclr@0.1.3-prerelease

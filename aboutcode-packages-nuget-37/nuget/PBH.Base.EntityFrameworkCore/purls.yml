@@ -1,0 +1,3 @@
+- pkg:nuget/PBH.Base.EntityFrameworkCore@1.1.7
+- pkg:nuget/PBH.Base.EntityFrameworkCore@1.1.8
+- pkg:nuget/PBH.Base.EntityFrameworkCore@1.1.9

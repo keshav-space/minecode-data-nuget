@@ -1,0 +1,8 @@
+- pkg:nuget/LLVMNativeWindowsLibs.x64@3.9.1
+- pkg:nuget/LLVMNativeWindowsLibs.x64@3.9.1.2
+- pkg:nuget/LLVMNativeWindowsLibs.x64@3.9.2
+- pkg:nuget/LLVMNativeWindowsLibs.x64@6.0.1
+- pkg:nuget/LLVMNativeWindowsLibs.x64@8.0.0
+- pkg:nuget/LLVMNativeWindowsLibs.x64@8.0.0-a
+- pkg:nuget/LLVMNativeWindowsLibs.x64@8.0.1
+- pkg:nuget/LLVMNativeWindowsLibs.x64@8.0.2

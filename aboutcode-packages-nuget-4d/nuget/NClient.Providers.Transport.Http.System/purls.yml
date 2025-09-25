@@ -1,0 +1,4 @@
+- pkg:nuget/NClient.Providers.Transport.Http.System@0.10.0
+- pkg:nuget/NClient.Providers.Transport.Http.System@0.10.0-beta.1
+- pkg:nuget/NClient.Providers.Transport.Http.System@0.10.1
+- pkg:nuget/NClient.Providers.Transport.Http.System@0.10.1-alpha.1

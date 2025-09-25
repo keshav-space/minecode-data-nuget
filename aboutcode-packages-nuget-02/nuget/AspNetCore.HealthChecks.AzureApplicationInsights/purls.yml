@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.HealthChecks.AzureApplicationInsights@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.AzureApplicationInsights@7.0.0-rc2.2
+- pkg:nuget/AspNetCore.HealthChecks.AzureApplicationInsights@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.AzureApplicationInsights@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.AzureApplicationInsights@9.0.0

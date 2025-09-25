@@ -1,0 +1,5 @@
+- pkg:nuget/cloudscribe.Core.Ldap.Windows@6.0.0-preview20220314
+- pkg:nuget/cloudscribe.Core.Ldap.Windows@6.0.1-preview20230714
+- pkg:nuget/cloudscribe.Core.Ldap.Windows@8.0.1-preview20230714
+- pkg:nuget/cloudscribe.Core.Ldap.Windows@8.0.2-preview20241025
+- pkg:nuget/cloudscribe.Core.Ldap.Windows@8.0.4-preview20241025

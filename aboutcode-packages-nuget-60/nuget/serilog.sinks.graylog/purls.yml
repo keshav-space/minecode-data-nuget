@@ -1,0 +1,6 @@
+- pkg:nuget/serilog.sinks.graylog@1.0.49
+- pkg:nuget/serilog.sinks.graylog@1.0.65
+- pkg:nuget/serilog.sinks.graylog@1.0.67
+- pkg:nuget/serilog.sinks.graylog@1.0.69
+- pkg:nuget/serilog.sinks.graylog@1.0.71
+- pkg:nuget/serilog.sinks.graylog@1.0.74

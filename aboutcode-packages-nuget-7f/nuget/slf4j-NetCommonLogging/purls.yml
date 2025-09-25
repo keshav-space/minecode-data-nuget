@@ -1,0 +1,4 @@
+- pkg:nuget/slf4j-NetCommonLogging@1.0.0
+- pkg:nuget/slf4j-NetCommonLogging@1.7.5.1
+- pkg:nuget/slf4j-NetCommonLogging@1.7.5.2
+- pkg:nuget/slf4j-NetCommonLogging@1.7.5.4

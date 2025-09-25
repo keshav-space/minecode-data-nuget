@@ -1,0 +1,5 @@
+- pkg:nuget/Plugin.VersionTracking@1.0.0
+- pkg:nuget/Plugin.VersionTracking@1.0.1
+- pkg:nuget/Plugin.VersionTracking@2.0.0-beta5
+- pkg:nuget/Plugin.VersionTracking@2.0.1
+- pkg:nuget/Plugin.VersionTracking@2.1.0

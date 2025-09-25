@@ -1,0 +1,2 @@
+- pkg:nuget/Nx.AspNetCore.TransformStaticFiles@1.0.0-rc2
+- pkg:nuget/Nx.AspNetCore.TransformStaticFiles@1.0.0-rc3

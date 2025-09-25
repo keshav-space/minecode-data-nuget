@@ -1,0 +1,4 @@
+- pkg:nuget/Ecomail.AspNetCore@1.0.0
+- pkg:nuget/Ecomail.AspNetCore@1.1.0
+- pkg:nuget/Ecomail.AspNetCore@1.2.0
+- pkg:nuget/Ecomail.AspNetCore@1.2.1

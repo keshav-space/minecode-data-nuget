@@ -1,0 +1,4 @@
+- pkg:nuget/Mono.Linq.Expressions@1.0.0
+- pkg:nuget/Mono.Linq.Expressions@1.1.0
+- pkg:nuget/Mono.Linq.Expressions@1.2.0
+- pkg:nuget/Mono.Linq.Expressions@2.0.0

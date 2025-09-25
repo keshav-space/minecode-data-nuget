@@ -1,0 +1,8 @@
+- pkg:nuget/StoneAge.DotNetCore.TestUtils@1.0.0
+- pkg:nuget/StoneAge.DotNetCore.TestUtils@1.0.1
+- pkg:nuget/StoneAge.DotNetCore.TestUtils@1.1.0
+- pkg:nuget/StoneAge.DotNetCore.TestUtils@1.2.0
+- pkg:nuget/StoneAge.DotNetCore.TestUtils@1.2.1
+- pkg:nuget/StoneAge.DotNetCore.TestUtils@1.2.2
+- pkg:nuget/StoneAge.DotNetCore.TestUtils@5.0.0
+- pkg:nuget/StoneAge.DotNetCore.TestUtils@7.0.0

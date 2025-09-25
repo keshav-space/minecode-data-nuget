@@ -1,0 +1,5 @@
+- pkg:nuget/Xamarin.PackageBuddy@0.0.1
+- pkg:nuget/Xamarin.PackageBuddy@0.0.2
+- pkg:nuget/Xamarin.PackageBuddy@1.0.0
+- pkg:nuget/Xamarin.PackageBuddy@2.0.0
+- pkg:nuget/Xamarin.PackageBuddy@2.0.1

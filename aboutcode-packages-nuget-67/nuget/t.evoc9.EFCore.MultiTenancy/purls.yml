@@ -1,0 +1,4 @@
+- pkg:nuget/t.evoc9.EFCore.MultiTenancy@0.1.1
+- pkg:nuget/t.evoc9.EFCore.MultiTenancy@1.1.1
+- pkg:nuget/t.evoc9.EFCore.MultiTenancy@1.1.2
+- pkg:nuget/t.evoc9.EFCore.MultiTenancy@1.1.3

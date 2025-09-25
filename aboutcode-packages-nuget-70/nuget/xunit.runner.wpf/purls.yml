@@ -1,0 +1,5 @@
+- pkg:nuget/xunit.runner.wpf@1.0.10
+- pkg:nuget/xunit.runner.wpf@1.0.14
+- pkg:nuget/xunit.runner.wpf@1.0.35
+- pkg:nuget/xunit.runner.wpf@1.0.41
+- pkg:nuget/xunit.runner.wpf@1.0.51

@@ -1,0 +1,3 @@
+- pkg:nuget/FluentProjections.Persistence.SQL@2.0.0
+- pkg:nuget/FluentProjections.Persistence.SQL@2.0.10
+- pkg:nuget/FluentProjections.Persistence.SQL@3.0.1

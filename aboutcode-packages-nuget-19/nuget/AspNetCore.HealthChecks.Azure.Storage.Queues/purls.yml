@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.HealthChecks.Azure.Storage.Queues@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Azure.Storage.Queues@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Azure.Storage.Queues@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Azure.Storage.Queues@9.0.0

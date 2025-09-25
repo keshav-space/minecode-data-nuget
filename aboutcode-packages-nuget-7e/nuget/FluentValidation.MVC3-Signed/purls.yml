@@ -1,0 +1,12 @@
+- pkg:nuget/FluentValidation.MVC3-Signed@3.4.0.1
+- pkg:nuget/FluentValidation.MVC3-Signed@3.4.2
+- pkg:nuget/FluentValidation.MVC3-Signed@3.4.3
+- pkg:nuget/FluentValidation.MVC3-Signed@3.4.4
+- pkg:nuget/FluentValidation.MVC3-Signed@3.4.5
+- pkg:nuget/FluentValidation.MVC3-Signed@3.4.6
+- pkg:nuget/FluentValidation.MVC3-Signed@4.0.0
+- pkg:nuget/FluentValidation.MVC3-Signed@4.0.0.1
+- pkg:nuget/FluentValidation.MVC3-Signed@5.0.0
+- pkg:nuget/FluentValidation.MVC3-Signed@5.0.0.1
+- pkg:nuget/FluentValidation.MVC3-Signed@5.0.0.2
+- pkg:nuget/FluentValidation.MVC3-Signed@5.0.0.3

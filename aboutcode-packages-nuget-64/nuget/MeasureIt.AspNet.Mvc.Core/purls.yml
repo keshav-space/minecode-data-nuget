@@ -1,0 +1,4 @@
+- pkg:nuget/MeasureIt.AspNet.Mvc.Core@1.2.2
+- pkg:nuget/MeasureIt.AspNet.Mvc.Core@1.3.0
+- pkg:nuget/MeasureIt.AspNet.Mvc.Core@1.3.1
+- pkg:nuget/MeasureIt.AspNet.Mvc.Core@1.3.2

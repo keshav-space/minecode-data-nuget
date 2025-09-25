@@ -1,0 +1,7 @@
+- pkg:nuget/Loshar.My.Package@1.0.0
+- pkg:nuget/Loshar.My.Package@1.1.0
+- pkg:nuget/Loshar.My.Package@2.0.0
+- pkg:nuget/Loshar.My.Package@2.0.0-prerelease
+- pkg:nuget/Loshar.My.Package@2.0.0-prerelease.semver2
+- pkg:nuget/Loshar.My.Package@3.0.0
+- pkg:nuget/Loshar.My.Package@4.0.0

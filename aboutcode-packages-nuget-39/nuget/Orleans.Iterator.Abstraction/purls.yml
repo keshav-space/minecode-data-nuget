@@ -1,0 +1,10 @@
+- pkg:nuget/Orleans.Iterator.Abstraction@0.1.0
+- pkg:nuget/Orleans.Iterator.Abstraction@0.2.0
+- pkg:nuget/Orleans.Iterator.Abstraction@0.3.0
+- pkg:nuget/Orleans.Iterator.Abstraction@0.4.0
+- pkg:nuget/Orleans.Iterator.Abstraction@0.4.2
+- pkg:nuget/Orleans.Iterator.Abstraction@7.0.0.1
+- pkg:nuget/Orleans.Iterator.Abstraction@8.0.0.1
+- pkg:nuget/Orleans.Iterator.Abstraction@8.0.0.1-rc1
+- pkg:nuget/Orleans.Iterator.Abstraction@8.1.0.1
+- pkg:nuget/Orleans.Iterator.Abstraction@9.0.1.1

@@ -1,0 +1,15 @@
+- pkg:nuget/ricaun.NUnit@1.4.0
+- pkg:nuget/ricaun.NUnit@1.4.0-rc
+- pkg:nuget/ricaun.NUnit@1.4.0-rc.1
+- pkg:nuget/ricaun.NUnit@1.4.1
+- pkg:nuget/ricaun.NUnit@1.4.1-alpha
+- pkg:nuget/ricaun.NUnit@1.4.1-alpha.1
+- pkg:nuget/ricaun.NUnit@1.4.1-beta
+- pkg:nuget/ricaun.NUnit@1.4.1-beta.1
+- pkg:nuget/ricaun.NUnit@1.4.1-beta.2
+- pkg:nuget/ricaun.NUnit@1.4.1-rc
+- pkg:nuget/ricaun.NUnit@1.5.0
+- pkg:nuget/ricaun.NUnit@1.5.0-alpha
+- pkg:nuget/ricaun.NUnit@1.5.0-alpha.1
+- pkg:nuget/ricaun.NUnit@1.5.0-alpha.2
+- pkg:nuget/ricaun.NUnit@1.5.0-rc

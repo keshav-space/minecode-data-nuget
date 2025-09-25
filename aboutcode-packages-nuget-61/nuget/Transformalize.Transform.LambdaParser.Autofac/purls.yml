@@ -1,0 +1,3 @@
+- pkg:nuget/Transformalize.Transform.LambdaParser.Autofac@0.3.13-beta
+- pkg:nuget/Transformalize.Transform.LambdaParser.Autofac@0.3.6-beta
+- pkg:nuget/Transformalize.Transform.LambdaParser.Autofac@0.3.7-beta

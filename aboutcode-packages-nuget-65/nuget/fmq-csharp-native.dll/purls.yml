@@ -1,0 +1,5 @@
+- pkg:nuget/fmq-csharp-native.dll@1.0.0
+- pkg:nuget/fmq-csharp-native.dll@10.2.0-b10530
+- pkg:nuget/fmq-csharp-native.dll@10.2.0-b10531
+- pkg:nuget/fmq-csharp-native.dll@10.3.0-b10531
+- pkg:nuget/fmq-csharp-native.dll@10.4.0-b10601

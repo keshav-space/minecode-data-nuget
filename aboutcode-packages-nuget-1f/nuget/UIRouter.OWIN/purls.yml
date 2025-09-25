@@ -1,0 +1,4 @@
+- pkg:nuget/UIRouter.OWIN@0.0.0-TOKENSTART.version.TOKENEND
+- pkg:nuget/UIRouter.OWIN@1.0.1
+- pkg:nuget/UIRouter.OWIN@1.0.2
+- pkg:nuget/UIRouter.OWIN@1.2.0

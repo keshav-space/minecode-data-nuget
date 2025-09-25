@@ -1,0 +1,5 @@
+- pkg:nuget/MovieCatalog.Api@1.0.0
+- pkg:nuget/MovieCatalog.Api@1.0.1
+- pkg:nuget/MovieCatalog.Api@5.0.0
+- pkg:nuget/MovieCatalog.Api@5.0.1
+- pkg:nuget/MovieCatalog.Api@5.0.2

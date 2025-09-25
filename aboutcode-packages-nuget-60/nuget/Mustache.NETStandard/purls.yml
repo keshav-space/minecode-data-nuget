@@ -1,0 +1,4 @@
+- pkg:nuget/Mustache.NETStandard@0.0.1
+- pkg:nuget/Mustache.NETStandard@1.0.0
+- pkg:nuget/Mustache.NETStandard@1.0.1
+- pkg:nuget/Mustache.NETStandard@1.1.0

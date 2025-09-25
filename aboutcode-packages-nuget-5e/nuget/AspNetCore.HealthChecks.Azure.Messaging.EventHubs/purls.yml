@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.HealthChecks.Azure.Messaging.EventHubs@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Azure.Messaging.EventHubs@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Azure.Messaging.EventHubs@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Azure.Messaging.EventHubs@9.0.0

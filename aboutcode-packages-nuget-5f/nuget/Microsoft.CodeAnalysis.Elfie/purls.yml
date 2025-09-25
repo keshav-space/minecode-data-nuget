@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@0.10.1-rc2
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@0.10.2-rc2
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@0.10.3-rc2
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@0.10.5-rc2
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@0.10.6
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@0.10.6-rc2
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@1.0.0
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@1.0.0-rc10
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@1.0.0-rc12
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@1.0.0-rc13
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@1.0.0-rc14
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@1.0.0-rc7
+- pkg:nuget/Microsoft.CodeAnalysis.Elfie@1.0.0-rc9

@@ -1,0 +1,10 @@
+- pkg:nuget/FluentValidationExtensions.AutoMapper@1.0.0
+- pkg:nuget/FluentValidationExtensions.AutoMapper@11.0.0
+- pkg:nuget/FluentValidationExtensions.AutoMapper@11.0.0-preview-01
+- pkg:nuget/FluentValidationExtensions.AutoMapper@11.0.1
+- pkg:nuget/FluentValidationExtensions.AutoMapper@7.0.0
+- pkg:nuget/FluentValidationExtensions.AutoMapper@7.0.0-preview-01
+- pkg:nuget/FluentValidationExtensions.AutoMapper@7.0.1
+- pkg:nuget/FluentValidationExtensions.AutoMapper@8.0.0
+- pkg:nuget/FluentValidationExtensions.AutoMapper@8.0.0-preview-01
+- pkg:nuget/FluentValidationExtensions.AutoMapper@8.0.1

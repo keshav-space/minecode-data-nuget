@@ -1,0 +1,4 @@
+- pkg:nuget/RqliteNet@1.0.0
+- pkg:nuget/RqliteNet@1.1.0
+- pkg:nuget/RqliteNet@2.0.0
+- pkg:nuget/RqliteNet@2.0.1

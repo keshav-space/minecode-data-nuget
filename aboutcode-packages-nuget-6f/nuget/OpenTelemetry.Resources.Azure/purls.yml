@@ -1,0 +1,7 @@
+- pkg:nuget/OpenTelemetry.Resources.Azure@1.0.0-beta.7
+- pkg:nuget/OpenTelemetry.Resources.Azure@1.0.0-beta.8
+- pkg:nuget/OpenTelemetry.Resources.Azure@1.0.0-beta.9
+- pkg:nuget/OpenTelemetry.Resources.Azure@1.10.0-beta.1
+- pkg:nuget/OpenTelemetry.Resources.Azure@1.11.0-beta.1
+- pkg:nuget/OpenTelemetry.Resources.Azure@1.11.0-beta.2
+- pkg:nuget/OpenTelemetry.Resources.Azure@1.12.0-beta.1

@@ -1,0 +1,15 @@
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.1
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.14
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.2
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.20
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.30
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.41
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.5
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.54
+- pkg:nuget/FSharp.MinimalApi@0.1.0-beta.9
+- pkg:nuget/FSharp.MinimalApi@0.2.0
+- pkg:nuget/FSharp.MinimalApi@0.2.0-beta.14
+- pkg:nuget/FSharp.MinimalApi@0.2.0-beta.15
+- pkg:nuget/FSharp.MinimalApi@0.2.0-beta.16
+- pkg:nuget/FSharp.MinimalApi@0.2.0-beta.17
+- pkg:nuget/FSharp.MinimalApi@0.2.1

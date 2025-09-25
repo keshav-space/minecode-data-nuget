@@ -1,0 +1,7 @@
+- pkg:nuget/AzureSignTool@2.0.17
+- pkg:nuget/AzureSignTool@3.0.0
+- pkg:nuget/AzureSignTool@4.0.1
+- pkg:nuget/AzureSignTool@5.0.0
+- pkg:nuget/AzureSignTool@6.0.0
+- pkg:nuget/AzureSignTool@6.0.0-beta1
+- pkg:nuget/AzureSignTool@6.0.1

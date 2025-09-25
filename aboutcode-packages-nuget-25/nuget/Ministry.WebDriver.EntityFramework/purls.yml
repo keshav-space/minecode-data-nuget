@@ -1,0 +1,6 @@
+- pkg:nuget/Ministry.WebDriver.EntityFramework@2.0.8
+- pkg:nuget/Ministry.WebDriver.EntityFramework@2.1.10
+- pkg:nuget/Ministry.WebDriver.EntityFramework@2.1.9
+- pkg:nuget/Ministry.WebDriver.EntityFramework@2.2.11
+- pkg:nuget/Ministry.WebDriver.EntityFramework@3.0.0
+- pkg:nuget/Ministry.WebDriver.EntityFramework@4.0.0

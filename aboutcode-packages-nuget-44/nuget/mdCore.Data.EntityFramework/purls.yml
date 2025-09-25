@@ -1,0 +1,6 @@
+- pkg:nuget/mdCore.Data.EntityFramework@8.1.0
+- pkg:nuget/mdCore.Data.EntityFramework@8.1.0.1
+- pkg:nuget/mdCore.Data.EntityFramework@8.1.1
+- pkg:nuget/mdCore.Data.EntityFramework@8.1.2
+- pkg:nuget/mdCore.Data.EntityFramework@9.0.0
+- pkg:nuget/mdCore.Data.EntityFramework@9.0.1

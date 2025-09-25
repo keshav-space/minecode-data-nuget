@@ -1,0 +1,12 @@
+- pkg:nuget/MSBuild.MSBNuget@1.0.0
+- pkg:nuget/MSBuild.MSBNuget@1.0.1
+- pkg:nuget/MSBuild.MSBNuget@1.0.1-pre
+- pkg:nuget/MSBuild.MSBNuget@1.0.2-pre
+- pkg:nuget/MSBuild.MSBNuget@1.0.3-pre
+- pkg:nuget/MSBuild.MSBNuget@1.0.3-pre6
+- pkg:nuget/MSBuild.MSBNuget@1.0.3-pre7
+- pkg:nuget/MSBuild.MSBNuget@1.1.0
+- pkg:nuget/MSBuild.MSBNuget@1.1.1-pre02
+- pkg:nuget/MSBuild.MSBNuget@1.1.1-pre1
+- pkg:nuget/MSBuild.MSBNuget@1.1.2-pre01
+- pkg:nuget/MSBuild.MSBNuget@1.1.2-pre02

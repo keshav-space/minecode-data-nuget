@@ -1,0 +1,16 @@
+- pkg:nuget/FSharp.Prelude@0.0.1
+- pkg:nuget/FSharp.Prelude@1.0.0
+- pkg:nuget/FSharp.Prelude@1.1.0
+- pkg:nuget/FSharp.Prelude@2.0.0
+- pkg:nuget/FSharp.Prelude@2.1.0
+- pkg:nuget/FSharp.Prelude@2.2.0
+- pkg:nuget/FSharp.Prelude@2.3.0
+- pkg:nuget/FSharp.Prelude@2.4.0
+- pkg:nuget/FSharp.Prelude@2.4.1
+- pkg:nuget/FSharp.Prelude@2.5.0
+- pkg:nuget/FSharp.Prelude@3.0.0
+- pkg:nuget/FSharp.Prelude@4.0.0
+- pkg:nuget/FSharp.Prelude@4.0.3
+- pkg:nuget/FSharp.Prelude@5.0.0
+- pkg:nuget/FSharp.Prelude@6.0.0-beta-3
+- pkg:nuget/FSharp.Prelude@6.0.0-beta.4

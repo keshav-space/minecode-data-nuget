@@ -1,0 +1,9 @@
+- pkg:nuget/Jesse.AspNetCore@1.0.1
+- pkg:nuget/Jesse.AspNetCore@1.0.2
+- pkg:nuget/Jesse.AspNetCore@1.1.2
+- pkg:nuget/Jesse.AspNetCore@1.2.0
+- pkg:nuget/Jesse.AspNetCore@2.0.0
+- pkg:nuget/Jesse.AspNetCore@5.0.0
+- pkg:nuget/Jesse.AspNetCore@5.0.1
+- pkg:nuget/Jesse.AspNetCore@6.0.0
+- pkg:nuget/Jesse.AspNetCore@8.0.0

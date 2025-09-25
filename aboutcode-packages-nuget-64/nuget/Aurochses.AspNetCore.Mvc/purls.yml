@@ -1,0 +1,4 @@
+- pkg:nuget/Aurochses.AspNetCore.Mvc@1.2.1
+- pkg:nuget/Aurochses.AspNetCore.Mvc@2.0.0
+- pkg:nuget/Aurochses.AspNetCore.Mvc@2.1.0
+- pkg:nuget/Aurochses.AspNetCore.Mvc@2.2.0

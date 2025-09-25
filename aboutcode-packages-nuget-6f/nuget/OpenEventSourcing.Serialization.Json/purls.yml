@@ -1,0 +1,4 @@
+- pkg:nuget/OpenEventSourcing.Serialization.Json@0.1.0
+- pkg:nuget/OpenEventSourcing.Serialization.Json@0.2.0
+- pkg:nuget/OpenEventSourcing.Serialization.Json@0.3.0
+- pkg:nuget/OpenEventSourcing.Serialization.Json@0.4.0

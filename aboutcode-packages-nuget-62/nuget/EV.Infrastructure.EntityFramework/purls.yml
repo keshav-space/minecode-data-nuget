@@ -1,0 +1,4 @@
+- pkg:nuget/EV.Infrastructure.EntityFramework@0.0.0-beta
+- pkg:nuget/EV.Infrastructure.EntityFramework@0.0.1-beta
+- pkg:nuget/EV.Infrastructure.EntityFramework@1.0.0
+- pkg:nuget/EV.Infrastructure.EntityFramework@1.0.0-beta

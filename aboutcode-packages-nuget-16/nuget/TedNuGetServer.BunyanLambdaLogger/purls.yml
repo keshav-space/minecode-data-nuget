@@ -1,0 +1,10 @@
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@0.3.2
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@0.3.3
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@0.4.0
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@0.5.0
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@0.6.0
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@1.0.0
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@1.0.1
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@1.0.2
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@2.0.0
+- pkg:nuget/TedNuGetServer.BunyanLambdaLogger@3.0.0

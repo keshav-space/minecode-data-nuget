@@ -1,0 +1,17 @@
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@11.0.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@3.0.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@3.0.1
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@3.1.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@3.2.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@3.2.1
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@4.0.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@4.0.1
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@5.0.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@5.1.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@5.2.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@5.3.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@5.3.0-pre01
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@6.0.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@6.0.1
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@7.0.0
+- pkg:nuget/Threax.AspNetCore.UserBuilder.Entities.Mvc@8.0.0

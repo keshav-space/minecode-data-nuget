@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@0.1.0-pre
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@0.2.0-pre
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@0.3.0-pre454
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@0.3.0-pre463
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@0.3.0-pre467
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@1.0.0
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@1.1.0
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@1.2.0
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@2.0.0-pre007
+- pkg:nuget/Microsoft.Data.Encryption.Cryptography@2.0.0-pre015

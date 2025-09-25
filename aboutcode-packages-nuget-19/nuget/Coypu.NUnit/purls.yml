@@ -1,0 +1,11 @@
+- pkg:nuget/Coypu.NUnit@1.0.0
+- pkg:nuget/Coypu.NUnit@1.0.1
+- pkg:nuget/Coypu.NUnit@1.0.2
+- pkg:nuget/Coypu.NUnit@1.1.0
+- pkg:nuget/Coypu.NUnit@1.2.0
+- pkg:nuget/Coypu.NUnit@1.3.0
+- pkg:nuget/Coypu.NUnit@1.4.0
+- pkg:nuget/Coypu.NUnit@3.0.1
+- pkg:nuget/Coypu.NUnit@4.0.0
+- pkg:nuget/Coypu.NUnit@4.0.0-rc
+- pkg:nuget/Coypu.NUnit@4.2.0

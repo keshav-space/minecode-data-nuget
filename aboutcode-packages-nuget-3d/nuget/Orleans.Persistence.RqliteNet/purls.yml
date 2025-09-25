@@ -1,0 +1,4 @@
+- pkg:nuget/Orleans.Persistence.RqliteNet@1.0.0
+- pkg:nuget/Orleans.Persistence.RqliteNet@1.1.0
+- pkg:nuget/Orleans.Persistence.RqliteNet@2.0.0
+- pkg:nuget/Orleans.Persistence.RqliteNet@2.0.1

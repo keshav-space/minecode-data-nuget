@@ -1,0 +1,17 @@
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@1.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@2.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@3.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@3.0.1
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@3.0.2
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@3.0.3
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@4.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@4.0.0-preview20190902
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@4.1.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@4.1.2
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@5.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@6.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@8.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@8.1.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@8.2.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@8.3.0
+- pkg:nuget/cloudscribe.Kvp.Storage.NoDb@8.4.0

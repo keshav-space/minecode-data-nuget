@@ -1,0 +1,5 @@
+- pkg:nuget/mdCore.CacheManager.Redis@8.1.0
+- pkg:nuget/mdCore.CacheManager.Redis@8.1.0.1
+- pkg:nuget/mdCore.CacheManager.Redis@8.1.1
+- pkg:nuget/mdCore.CacheManager.Redis@9.0.0
+- pkg:nuget/mdCore.CacheManager.Redis@9.0.1

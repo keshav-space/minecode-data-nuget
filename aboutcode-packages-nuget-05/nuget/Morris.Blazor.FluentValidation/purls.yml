@@ -1,0 +1,5 @@
+- pkg:nuget/Morris.Blazor.FluentValidation@2.0.0
+- pkg:nuget/Morris.Blazor.FluentValidation@2.0.1
+- pkg:nuget/Morris.Blazor.FluentValidation@3.0.0
+- pkg:nuget/Morris.Blazor.FluentValidation@3.1.0
+- pkg:nuget/Morris.Blazor.FluentValidation@3.1.5

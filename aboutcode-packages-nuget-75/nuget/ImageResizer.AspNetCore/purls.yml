@@ -1,0 +1,7 @@
+- pkg:nuget/ImageResizer.AspNetCore@1.7.4
+- pkg:nuget/ImageResizer.AspNetCore@1.8.0-beta
+- pkg:nuget/ImageResizer.AspNetCore@1.8.5-beta
+- pkg:nuget/ImageResizer.AspNetCore@1.8.6
+- pkg:nuget/ImageResizer.AspNetCore@1.9.0
+- pkg:nuget/ImageResizer.AspNetCore@2.0.0
+- pkg:nuget/ImageResizer.AspNetCore@3.0.0
