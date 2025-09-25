@@ -1,0 +1,4 @@
+- pkg:nuget/SafeChats.openssl@1.0.0
+- pkg:nuget/SafeChats.openssl@1.0.1
+- pkg:nuget/SafeChats.openssl@1.0.3
+- pkg:nuget/SafeChats.openssl@1.1.0-f

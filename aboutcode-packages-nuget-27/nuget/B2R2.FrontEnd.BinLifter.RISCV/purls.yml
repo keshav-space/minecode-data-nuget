@@ -1,0 +1,5 @@
+- pkg:nuget/B2R2.FrontEnd.BinLifter.RISCV@0.6.0
+- pkg:nuget/B2R2.FrontEnd.BinLifter.RISCV@0.6.0-rc2
+- pkg:nuget/B2R2.FrontEnd.BinLifter.RISCV@0.6.1
+- pkg:nuget/B2R2.FrontEnd.BinLifter.RISCV@0.7.0
+- pkg:nuget/B2R2.FrontEnd.BinLifter.RISCV@0.8.1

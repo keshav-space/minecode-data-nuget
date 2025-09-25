@@ -1,0 +1,6 @@
+- pkg:nuget/Xamarin.CommunityToolkit.MauiCompat@1.3.0-alpha2
+- pkg:nuget/Xamarin.CommunityToolkit.MauiCompat@1.3.0-compat-alpha3
+- pkg:nuget/Xamarin.CommunityToolkit.MauiCompat@1.3.2
+- pkg:nuget/Xamarin.CommunityToolkit.MauiCompat@2.0.0-preview1002
+- pkg:nuget/Xamarin.CommunityToolkit.MauiCompat@2.0.1-preview1007
+- pkg:nuget/Xamarin.CommunityToolkit.MauiCompat@2.0.2-preview1013

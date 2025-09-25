@@ -1,0 +1,5 @@
+- pkg:nuget/Core.EntityFrameworkCore.Sharding@3.1.9
+- pkg:nuget/Core.EntityFrameworkCore.Sharding@3.1.9.1
+- pkg:nuget/Core.EntityFrameworkCore.Sharding@3.1.9.10
+- pkg:nuget/Core.EntityFrameworkCore.Sharding@3.1.9.11
+- pkg:nuget/Core.EntityFrameworkCore.Sharding@3.1.9.12

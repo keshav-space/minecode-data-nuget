@@ -1,0 +1,12 @@
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@0.1.0
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@0.1.0-azure-pipelines0001
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.0
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.1
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.1-pullrequest0002-0007
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.10
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.3
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.4
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.5
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.6
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.7
+- pkg:nuget/Zafiro.Avalonia.LibVLCSharp@2.5.8

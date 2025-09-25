@@ -1,0 +1,2 @@
+- pkg:nuget/Tenogy.App.Db.Postgres@6.0.1
+- pkg:nuget/Tenogy.App.Db.Postgres@7.0.0

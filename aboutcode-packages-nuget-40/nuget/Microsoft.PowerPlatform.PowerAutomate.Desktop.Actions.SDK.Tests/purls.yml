@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK.Tests@1.4.167-rc
+- pkg:nuget/Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK.Tests@1.4.341-rc
+- pkg:nuget/Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK.Tests@1.4.90-rc

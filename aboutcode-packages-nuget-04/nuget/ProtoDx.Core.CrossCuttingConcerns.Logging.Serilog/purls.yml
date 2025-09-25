@@ -1,0 +1,2 @@
+- pkg:nuget/ProtoDx.Core.CrossCuttingConcerns.Logging.Serilog@1.0.0
+- pkg:nuget/ProtoDx.Core.CrossCuttingConcerns.Logging.Serilog@1.0.1

@@ -1,0 +1,6 @@
+- pkg:nuget/LoremFooBar.SimpleGwt.NUnit@1.0.0
+- pkg:nuget/LoremFooBar.SimpleGwt.NUnit@1.0.1
+- pkg:nuget/LoremFooBar.SimpleGwt.NUnit@1.1.5-alpha
+- pkg:nuget/LoremFooBar.SimpleGwt.NUnit@1.1.6-alpha
+- pkg:nuget/LoremFooBar.SimpleGwt.NUnit@1.1.7
+- pkg:nuget/LoremFooBar.SimpleGwt.NUnit@1.2.3-alpha

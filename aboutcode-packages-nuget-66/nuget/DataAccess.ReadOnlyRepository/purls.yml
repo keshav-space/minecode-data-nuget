@@ -1,0 +1,5 @@
+- pkg:nuget/DataAccess.ReadOnlyRepository@1.0.0-CI-20170922-164628
+- pkg:nuget/DataAccess.ReadOnlyRepository@1.0.0-CI-20170922-171809
+- pkg:nuget/DataAccess.ReadOnlyRepository@1.0.0-CI-20170922-172417
+- pkg:nuget/DataAccess.ReadOnlyRepository@1.0.0-CI-20170922-173006
+- pkg:nuget/DataAccess.ReadOnlyRepository@1.0.2

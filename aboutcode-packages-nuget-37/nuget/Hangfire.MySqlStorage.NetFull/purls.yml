@@ -1,0 +1,3 @@
+- pkg:nuget/Hangfire.MySqlStorage.NetFull@1.0.6
+- pkg:nuget/Hangfire.MySqlStorage.NetFull@1.0.7
+- pkg:nuget/Hangfire.MySqlStorage.NetFull@1.0.8

@@ -1,0 +1,4 @@
+- pkg:nuget/Wissance.WebApiToolkit.Data.Ef@4.0.0
+- pkg:nuget/Wissance.WebApiToolkit.Data.Ef@4.0.1
+- pkg:nuget/Wissance.WebApiToolkit.Data.Ef@5.0.0
+- pkg:nuget/Wissance.WebApiToolkit.Data.Ef@5.1.0

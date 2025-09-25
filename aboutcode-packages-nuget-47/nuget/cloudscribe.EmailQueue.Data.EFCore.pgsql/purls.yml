@@ -1,0 +1,2 @@
+- pkg:nuget/cloudscribe.EmailQueue.Data.EFCore.pgsql@1.0.1
+- pkg:nuget/cloudscribe.EmailQueue.Data.EFCore.pgsql@2.1.0

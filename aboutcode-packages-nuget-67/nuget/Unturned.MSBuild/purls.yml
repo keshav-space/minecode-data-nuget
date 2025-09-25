@@ -1,0 +1,4 @@
+- pkg:nuget/Unturned.MSBuild@1.0.0-test1
+- pkg:nuget/Unturned.MSBuild@1.0.0-test2
+- pkg:nuget/Unturned.MSBuild@1.0.0-test3
+- pkg:nuget/Unturned.MSBuild@1.0.0-test4

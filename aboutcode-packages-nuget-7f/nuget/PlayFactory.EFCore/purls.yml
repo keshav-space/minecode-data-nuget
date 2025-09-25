@@ -1,0 +1,3 @@
+- pkg:nuget/PlayFactory.EFCore@0.0.1
+- pkg:nuget/PlayFactory.EFCore@0.0.2
+- pkg:nuget/PlayFactory.EFCore@1.0.0-beta

@@ -1,0 +1,3 @@
+- pkg:nuget/Core.EventBus.Mysql@3.1.9.12
+- pkg:nuget/Core.EventBus.Mysql@6.0.0
+- pkg:nuget/Core.EventBus.Mysql@6.0.1

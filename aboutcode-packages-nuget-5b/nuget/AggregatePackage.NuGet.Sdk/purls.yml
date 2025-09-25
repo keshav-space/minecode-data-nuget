@@ -1,0 +1,2 @@
+- pkg:nuget/AggregatePackage.NuGet.Sdk@0.1.12
+- pkg:nuget/AggregatePackage.NuGet.Sdk@0.1.16

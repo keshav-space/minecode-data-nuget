@@ -1,0 +1,4 @@
+- pkg:nuget/Wissance.WebApiToolkit.Core@4.0.0
+- pkg:nuget/Wissance.WebApiToolkit.Core@4.0.1
+- pkg:nuget/Wissance.WebApiToolkit.Core@5.0.0
+- pkg:nuget/Wissance.WebApiToolkit.Core@5.1.0

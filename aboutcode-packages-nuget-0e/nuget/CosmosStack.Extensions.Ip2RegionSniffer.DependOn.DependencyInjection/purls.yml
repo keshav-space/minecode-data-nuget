@@ -1,0 +1,4 @@
+- pkg:nuget/CosmosStack.Extensions.Ip2RegionSniffer.DependOn.DependencyInjection@0.4.7.3
+- pkg:nuget/CosmosStack.Extensions.Ip2RegionSniffer.DependOn.DependencyInjection@0.4.9.1
+- pkg:nuget/CosmosStack.Extensions.Ip2RegionSniffer.DependOn.DependencyInjection@0.4.9.1-hotfix-1
+- pkg:nuget/CosmosStack.Extensions.Ip2RegionSniffer.DependOn.DependencyInjection@0.4.9.1-hotfix-2

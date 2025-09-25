@@ -1,0 +1,12 @@
+- pkg:nuget/PELoaderLib@0.1.0-beta
+- pkg:nuget/PELoaderLib@0.1.1-beta
+- pkg:nuget/PELoaderLib@1.0.0
+- pkg:nuget/PELoaderLib@1.0.1
+- pkg:nuget/PELoaderLib@1.1.0.3
+- pkg:nuget/PELoaderLib@1.1.1
+- pkg:nuget/PELoaderLib@1.2.0
+- pkg:nuget/PELoaderLib@1.3.0
+- pkg:nuget/PELoaderLib@1.4.0
+- pkg:nuget/PELoaderLib@1.5.0
+- pkg:nuget/PELoaderLib@1.6.0
+- pkg:nuget/PELoaderLib@1.7.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Wissance.WebApiToolkit.AWS.S3@4.0.0
+- pkg:nuget/Wissance.WebApiToolkit.AWS.S3@4.0.1
+- pkg:nuget/Wissance.WebApiToolkit.AWS.S3@5.0.0
+- pkg:nuget/Wissance.WebApiToolkit.AWS.S3@5.1.0
