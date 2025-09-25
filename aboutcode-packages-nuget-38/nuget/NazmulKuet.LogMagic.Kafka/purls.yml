@@ -1,0 +1,5 @@
+- pkg:nuget/NazmulKuet.LogMagic.Kafka@6.0.0
+- pkg:nuget/NazmulKuet.LogMagic.Kafka@7.0.0
+- pkg:nuget/NazmulKuet.LogMagic.Kafka@8.0.0
+- pkg:nuget/NazmulKuet.LogMagic.Kafka@9.0.0
+- pkg:nuget/NazmulKuet.LogMagic.Kafka@9.0.1

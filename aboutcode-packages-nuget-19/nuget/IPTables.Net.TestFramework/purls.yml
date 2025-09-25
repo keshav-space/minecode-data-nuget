@@ -1,0 +1,6 @@
+- pkg:nuget/IPTables.Net.TestFramework@0.9.2
+- pkg:nuget/IPTables.Net.TestFramework@0.9.2-cibuild0020
+- pkg:nuget/IPTables.Net.TestFramework@0.9.2-cibuild0021
+- pkg:nuget/IPTables.Net.TestFramework@0.9.2-cibuild0023
+- pkg:nuget/IPTables.Net.TestFramework@0.9.3
+- pkg:nuget/IPTables.Net.TestFramework@0.9.3-cibuild0004
