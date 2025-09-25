@@ -1,0 +1,10 @@
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@6.0.1
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.0.0
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.0.1
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.0.2
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.0.3
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.1.0
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.2.0
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.2.5
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.2.7
+- pkg:nuget/IL.Echannel.AWSCloudWatchLogging@8.2.71

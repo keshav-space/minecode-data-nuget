@@ -1,0 +1,15 @@
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.1.0
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.2.1
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.3.0
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.3.1
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.4.0
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.5.0
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.6.0
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.6.1
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.6.2
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.6.3
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.7.3
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.7.4
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.7.5
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.8.1
+- pkg:nuget/Neo.Plugins.Storage.RocksDBStore@3.8.2

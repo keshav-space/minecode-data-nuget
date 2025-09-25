@@ -1,0 +1,2 @@
+- pkg:nuget/SSRedis.Core@1.0.0
+- pkg:nuget/SSRedis.Core@5.0.0

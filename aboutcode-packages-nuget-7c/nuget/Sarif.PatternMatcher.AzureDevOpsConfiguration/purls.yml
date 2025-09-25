@@ -1,0 +1,9 @@
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@1.10.0
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@1.11.0-alpha-0015
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@1.5.0-g9f639c22c7
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@1.6.0
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@1.7.0
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@1.8.0
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@1.9.0
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@4.3.8
+- pkg:nuget/Sarif.PatternMatcher.AzureDevOpsConfiguration@4.5.7

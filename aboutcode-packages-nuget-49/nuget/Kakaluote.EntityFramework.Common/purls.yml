@@ -1,0 +1,4 @@
+- pkg:nuget/Kakaluote.EntityFramework.Common@1.0.0
+- pkg:nuget/Kakaluote.EntityFramework.Common@1.0.1
+- pkg:nuget/Kakaluote.EntityFramework.Common@1.0.2
+- pkg:nuget/Kakaluote.EntityFramework.Common@2.0.1

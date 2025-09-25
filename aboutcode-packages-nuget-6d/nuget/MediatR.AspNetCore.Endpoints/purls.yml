@@ -1,0 +1,9 @@
+- pkg:nuget/MediatR.AspNetCore.Endpoints@0.1.0
+- pkg:nuget/MediatR.AspNetCore.Endpoints@0.2.0
+- pkg:nuget/MediatR.AspNetCore.Endpoints@1.0.0
+- pkg:nuget/MediatR.AspNetCore.Endpoints@2.0.0
+- pkg:nuget/MediatR.AspNetCore.Endpoints@2.0.0-preview.1
+- pkg:nuget/MediatR.AspNetCore.Endpoints@2.0.0-preview.2
+- pkg:nuget/MediatR.AspNetCore.Endpoints@3.0.0
+- pkg:nuget/MediatR.AspNetCore.Endpoints@3.1.0
+- pkg:nuget/MediatR.AspNetCore.Endpoints@3.2.0

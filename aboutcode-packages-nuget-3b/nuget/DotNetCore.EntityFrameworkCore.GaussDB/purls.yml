@@ -1,0 +1,4 @@
+- pkg:nuget/DotNetCore.EntityFrameworkCore.GaussDB@8.0.0
+- pkg:nuget/DotNetCore.EntityFrameworkCore.GaussDB@8.0.1
+- pkg:nuget/DotNetCore.EntityFrameworkCore.GaussDB@8.0.2
+- pkg:nuget/DotNetCore.EntityFrameworkCore.GaussDB@9.0.0

@@ -1,0 +1,13 @@
+- pkg:nuget/HigLabo.Data.SqlServer@2.0.0
+- pkg:nuget/HigLabo.Data.SqlServer@2.0.0.1
+- pkg:nuget/HigLabo.Data.SqlServer@2.0.0.2
+- pkg:nuget/HigLabo.Data.SqlServer@2.1.0
+- pkg:nuget/HigLabo.Data.SqlServer@5.0.0
+- pkg:nuget/HigLabo.Data.SqlServer@6.0.0
+- pkg:nuget/HigLabo.Data.SqlServer@6.0.0.1
+- pkg:nuget/HigLabo.Data.SqlServer@6.0.0.2
+- pkg:nuget/HigLabo.Data.SqlServer@7.0.0
+- pkg:nuget/HigLabo.Data.SqlServer@7.0.0.2
+- pkg:nuget/HigLabo.Data.SqlServer@8.0.0
+- pkg:nuget/HigLabo.Data.SqlServer@8.0.0.1
+- pkg:nuget/HigLabo.Data.SqlServer@9.0.0

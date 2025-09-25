@@ -1,0 +1,10 @@
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@2.0.169
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@2.0.193
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@2.0.216
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@3.0.223
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@5.0.242
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@5.1.254
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@5.1.256
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@5.2.273
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@8.0.288
+- pkg:nuget/SignalR.EventAggregatorProxy.Client.DotNetCore@8.1.288

@@ -1,0 +1,14 @@
+- pkg:nuget/DrMW.EventBus.RabbitMq@1.0.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@1.0.2
+- pkg:nuget/DrMW.EventBus.RabbitMq@1.0.3
+- pkg:nuget/DrMW.EventBus.RabbitMq@1.0.5
+- pkg:nuget/DrMW.EventBus.RabbitMq@2.0.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@2.1.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@2.2.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@2.3.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@3.0.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@3.1.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@3.2.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@3.3.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@3.4.0
+- pkg:nuget/DrMW.EventBus.RabbitMq@3.5.0

@@ -1,0 +1,15 @@
+- pkg:nuget/Yandex.Cloud.SDK@1.0.0
+- pkg:nuget/Yandex.Cloud.SDK@1.0.0-pre1
+- pkg:nuget/Yandex.Cloud.SDK@1.0.0-pre2
+- pkg:nuget/Yandex.Cloud.SDK@1.0.0-pre3
+- pkg:nuget/Yandex.Cloud.SDK@1.0.1
+- pkg:nuget/Yandex.Cloud.SDK@1.0.2
+- pkg:nuget/Yandex.Cloud.SDK@1.0.5
+- pkg:nuget/Yandex.Cloud.SDK@1.0.6
+- pkg:nuget/Yandex.Cloud.SDK@1.0.7
+- pkg:nuget/Yandex.Cloud.SDK@1.1.0
+- pkg:nuget/Yandex.Cloud.SDK@1.1.1
+- pkg:nuget/Yandex.Cloud.SDK@1.2.0
+- pkg:nuget/Yandex.Cloud.SDK@1.3.0
+- pkg:nuget/Yandex.Cloud.SDK@1.4.0-pre1
+- pkg:nuget/Yandex.Cloud.SDK@1.4.1

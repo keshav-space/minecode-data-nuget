@@ -1,0 +1,15 @@
+- pkg:nuget/HigLabo.Data.MySql@1.0.1
+- pkg:nuget/HigLabo.Data.MySql@2.0.0
+- pkg:nuget/HigLabo.Data.MySql@2.0.0.1
+- pkg:nuget/HigLabo.Data.MySql@2.0.0.2
+- pkg:nuget/HigLabo.Data.MySql@2.1.0
+- pkg:nuget/HigLabo.Data.MySql@5.0.0
+- pkg:nuget/HigLabo.Data.MySql@6.0.0
+- pkg:nuget/HigLabo.Data.MySql@6.0.0.1
+- pkg:nuget/HigLabo.Data.MySql@6.0.0.2
+- pkg:nuget/HigLabo.Data.MySql@7.0.0
+- pkg:nuget/HigLabo.Data.MySql@7.0.0.1
+- pkg:nuget/HigLabo.Data.MySql@7.0.0.2
+- pkg:nuget/HigLabo.Data.MySql@8.0.0
+- pkg:nuget/HigLabo.Data.MySql@8.0.0.1
+- pkg:nuget/HigLabo.Data.MySql@9.0.0

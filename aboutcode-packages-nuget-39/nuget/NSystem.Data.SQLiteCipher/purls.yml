@@ -1,0 +1,8 @@
+- pkg:nuget/NSystem.Data.SQLiteCipher@1.0.0
+- pkg:nuget/NSystem.Data.SQLiteCipher@1.0.1
+- pkg:nuget/NSystem.Data.SQLiteCipher@2021.9.15
+- pkg:nuget/NSystem.Data.SQLiteCipher@2022.12.12
+- pkg:nuget/NSystem.Data.SQLiteCipher@2022.6.6
+- pkg:nuget/NSystem.Data.SQLiteCipher@2023.1.1
+- pkg:nuget/NSystem.Data.SQLiteCipher@2023.11.11
+- pkg:nuget/NSystem.Data.SQLiteCipher@2024.1.1

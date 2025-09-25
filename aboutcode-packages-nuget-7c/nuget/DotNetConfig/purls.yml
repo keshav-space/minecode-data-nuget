@@ -1,0 +1,15 @@
+- pkg:nuget/DotNetConfig@1.0.0
+- pkg:nuget/DotNetConfig@1.0.0-beta
+- pkg:nuget/DotNetConfig@1.0.0-rc
+- pkg:nuget/DotNetConfig@1.0.0-rc.1
+- pkg:nuget/DotNetConfig@1.0.0-rc.2
+- pkg:nuget/DotNetConfig@1.0.0-rc.3
+- pkg:nuget/DotNetConfig@1.0.1
+- pkg:nuget/DotNetConfig@1.0.2
+- pkg:nuget/DotNetConfig@1.0.3
+- pkg:nuget/DotNetConfig@1.0.4
+- pkg:nuget/DotNetConfig@1.0.5
+- pkg:nuget/DotNetConfig@1.0.6
+- pkg:nuget/DotNetConfig@1.1.0
+- pkg:nuget/DotNetConfig@1.1.1
+- pkg:nuget/DotNetConfig@1.2.0

@@ -1,0 +1,2 @@
+- pkg:nuget/DotNetCore.GaussDB@8.0.1
+- pkg:nuget/DotNetCore.GaussDB@9.0.0

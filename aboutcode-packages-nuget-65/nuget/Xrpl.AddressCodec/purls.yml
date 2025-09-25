@@ -1,0 +1,4 @@
+- pkg:nuget/Xrpl.AddressCodec@7.0.1-beta
+- pkg:nuget/Xrpl.AddressCodec@7.0.2-beta
+- pkg:nuget/Xrpl.AddressCodec@8.0.1-beta
+- pkg:nuget/Xrpl.AddressCodec@9.0.0-beta

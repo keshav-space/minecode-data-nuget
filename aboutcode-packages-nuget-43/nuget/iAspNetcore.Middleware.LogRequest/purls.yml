@@ -1,0 +1,14 @@
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@2.1.0
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@2.1.1
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@2.1.2
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@2.1.2.1
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@2.1.2.2
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@2.1.2.3
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@2.2.0.1
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@3.0.0
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@3.0.0-preview3
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@3.1.1
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@3.1.1.1
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@3.1.1.2
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@3.1.1.4
+- pkg:nuget/iAspNetcore.Middleware.LogRequest@5.0.102

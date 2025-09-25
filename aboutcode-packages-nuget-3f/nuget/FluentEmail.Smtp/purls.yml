@@ -1,0 +1,16 @@
+- pkg:nuget/FluentEmail.Smtp@2.0.3
+- pkg:nuget/FluentEmail.Smtp@2.0.4
+- pkg:nuget/FluentEmail.Smtp@2.3.0
+- pkg:nuget/FluentEmail.Smtp@2.4.0
+- pkg:nuget/FluentEmail.Smtp@2.4.1
+- pkg:nuget/FluentEmail.Smtp@2.5.0
+- pkg:nuget/FluentEmail.Smtp@2.5.0-beta
+- pkg:nuget/FluentEmail.Smtp@2.5.1
+- pkg:nuget/FluentEmail.Smtp@2.5.2
+- pkg:nuget/FluentEmail.Smtp@2.7.0
+- pkg:nuget/FluentEmail.Smtp@2.7.1
+- pkg:nuget/FluentEmail.Smtp@2.8.0
+- pkg:nuget/FluentEmail.Smtp@2.9.0
+- pkg:nuget/FluentEmail.Smtp@3.0.0
+- pkg:nuget/FluentEmail.Smtp@3.0.1
+- pkg:nuget/FluentEmail.Smtp@3.0.2

@@ -1,0 +1,6 @@
+- pkg:nuget/RhoMicro.CodeAnalysis.UnionsGenerator.Abstractions@1.0.0
+- pkg:nuget/RhoMicro.CodeAnalysis.UnionsGenerator.Abstractions@1.0.1
+- pkg:nuget/RhoMicro.CodeAnalysis.UnionsGenerator.Abstractions@8.0.0
+- pkg:nuget/RhoMicro.CodeAnalysis.UnionsGenerator.Abstractions@8.0.1
+- pkg:nuget/RhoMicro.CodeAnalysis.UnionsGenerator.Abstractions@8.0.2
+- pkg:nuget/RhoMicro.CodeAnalysis.UnionsGenerator.Abstractions@8.0.3

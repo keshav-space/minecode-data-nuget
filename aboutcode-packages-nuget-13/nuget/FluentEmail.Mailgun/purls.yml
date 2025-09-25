@@ -1,0 +1,17 @@
+- pkg:nuget/FluentEmail.Mailgun@2.0.3
+- pkg:nuget/FluentEmail.Mailgun@2.1.0
+- pkg:nuget/FluentEmail.Mailgun@2.3.0
+- pkg:nuget/FluentEmail.Mailgun@2.3.1
+- pkg:nuget/FluentEmail.Mailgun@2.4.0
+- pkg:nuget/FluentEmail.Mailgun@2.4.1
+- pkg:nuget/FluentEmail.Mailgun@2.5.0
+- pkg:nuget/FluentEmail.Mailgun@2.5.0-beta
+- pkg:nuget/FluentEmail.Mailgun@2.5.1
+- pkg:nuget/FluentEmail.Mailgun@2.5.2
+- pkg:nuget/FluentEmail.Mailgun@2.5.3
+- pkg:nuget/FluentEmail.Mailgun@2.7.0
+- pkg:nuget/FluentEmail.Mailgun@2.8.0
+- pkg:nuget/FluentEmail.Mailgun@2.9.0
+- pkg:nuget/FluentEmail.Mailgun@3.0.0
+- pkg:nuget/FluentEmail.Mailgun@3.0.1
+- pkg:nuget/FluentEmail.Mailgun@3.0.2

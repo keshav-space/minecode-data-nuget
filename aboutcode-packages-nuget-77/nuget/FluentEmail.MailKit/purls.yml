@@ -1,0 +1,6 @@
+- pkg:nuget/FluentEmail.MailKit@2.7.0
+- pkg:nuget/FluentEmail.MailKit@2.8.0
+- pkg:nuget/FluentEmail.MailKit@2.9.0
+- pkg:nuget/FluentEmail.MailKit@3.0.0
+- pkg:nuget/FluentEmail.MailKit@3.0.1
+- pkg:nuget/FluentEmail.MailKit@3.0.2

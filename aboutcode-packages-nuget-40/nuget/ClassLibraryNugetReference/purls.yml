@@ -1,0 +1,6 @@
+- pkg:nuget/ClassLibraryNugetReference@1.0.0
+- pkg:nuget/ClassLibraryNugetReference@2.0.0
+- pkg:nuget/ClassLibraryNugetReference@3.0.0
+- pkg:nuget/ClassLibraryNugetReference@4.0.0
+- pkg:nuget/ClassLibraryNugetReference@5.0.0
+- pkg:nuget/ClassLibraryNugetReference@6.0.0

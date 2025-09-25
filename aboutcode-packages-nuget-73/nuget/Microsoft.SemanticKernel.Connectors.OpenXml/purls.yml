@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.OpenXml@0.7.144.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.OpenXml@0.7.182.1-preview

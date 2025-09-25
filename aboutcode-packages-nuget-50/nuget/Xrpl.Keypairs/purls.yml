@@ -1,0 +1,4 @@
+- pkg:nuget/Xrpl.Keypairs@7.0.1-beta
+- pkg:nuget/Xrpl.Keypairs@7.0.2-beta
+- pkg:nuget/Xrpl.Keypairs@8.0.1-beta
+- pkg:nuget/Xrpl.Keypairs@9.0.0-beta
