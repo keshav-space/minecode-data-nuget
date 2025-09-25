@@ -1,0 +1,5 @@
+- pkg:nuget/SEPRedisCore@3.3.6.2
+- pkg:nuget/SEPRedisCore@3.6.6
+- pkg:nuget/SEPRedisCore@3.6.6.2
+- pkg:nuget/SEPRedisCore@3.6.6.3
+- pkg:nuget/SEPRedisCore@3.6.6.4

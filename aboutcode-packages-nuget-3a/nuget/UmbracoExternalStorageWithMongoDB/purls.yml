@@ -1,0 +1,7 @@
+- pkg:nuget/UmbracoExternalStorageWithMongoDB@1.0.0
+- pkg:nuget/UmbracoExternalStorageWithMongoDB@10.1.0
+- pkg:nuget/UmbracoExternalStorageWithMongoDB@10.4.0
+- pkg:nuget/UmbracoExternalStorageWithMongoDB@11.1.0
+- pkg:nuget/UmbracoExternalStorageWithMongoDB@12.0.0
+- pkg:nuget/UmbracoExternalStorageWithMongoDB@12.0.1
+- pkg:nuget/UmbracoExternalStorageWithMongoDB@13.0.0

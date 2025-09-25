@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.1.0-build00190
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.1.0-build20020
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.2.0-build11154
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.3.0-build00203
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.4.0-build00203
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.4.0-build00204
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.4.0-build00213
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.4.1-build09055
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.5.0-build14322
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.6.0-build00147
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.6.1-build00246
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.7.0-build00231
+- pkg:nuget/Microsoft.ApplicationInsights.EntlibTraceListener@0.7.0-build00234

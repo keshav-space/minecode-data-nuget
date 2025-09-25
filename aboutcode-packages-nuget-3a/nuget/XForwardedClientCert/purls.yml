@@ -1,0 +1,3 @@
+- pkg:nuget/XForwardedClientCert@0.1.1
+- pkg:nuget/XForwardedClientCert@0.2.0%2Bbuild.38
+- pkg:nuget/XForwardedClientCert@1.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/Quicksilver0218.ObjectValidator@0.0.0-alpha
+- pkg:nuget/Quicksilver0218.ObjectValidator@0.0.0-beta
+- pkg:nuget/Quicksilver0218.ObjectValidator@0.0.0-prerelease
+- pkg:nuget/Quicksilver0218.ObjectValidator@0.0.0-test1
+- pkg:nuget/Quicksilver0218.ObjectValidator@0.0.0-test2
+- pkg:nuget/Quicksilver0218.ObjectValidator@1.0.0
+- pkg:nuget/Quicksilver0218.ObjectValidator@1.0.1
+- pkg:nuget/Quicksilver0218.ObjectValidator@1.0.2
+- pkg:nuget/Quicksilver0218.ObjectValidator@1.0.3
+- pkg:nuget/Quicksilver0218.ObjectValidator@2.0.0
+- pkg:nuget/Quicksilver0218.ObjectValidator@2.0.1
+- pkg:nuget/Quicksilver0218.ObjectValidator@2.1.0

@@ -1,0 +1,4 @@
+- pkg:nuget/YM.FormManagement.Application.Contracts@1.0.0
+- pkg:nuget/YM.FormManagement.Application.Contracts@1.0.3
+- pkg:nuget/YM.FormManagement.Application.Contracts@2.0.0
+- pkg:nuget/YM.FormManagement.Application.Contracts@3.0.0

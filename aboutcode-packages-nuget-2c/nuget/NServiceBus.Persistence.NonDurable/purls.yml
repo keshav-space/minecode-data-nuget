@@ -1,0 +1,6 @@
+- pkg:nuget/NServiceBus.Persistence.NonDurable@1.0.0
+- pkg:nuget/NServiceBus.Persistence.NonDurable@1.0.0-beta.2
+- pkg:nuget/NServiceBus.Persistence.NonDurable@1.0.0-rc.2
+- pkg:nuget/NServiceBus.Persistence.NonDurable@1.0.1
+- pkg:nuget/NServiceBus.Persistence.NonDurable@2.0.0
+- pkg:nuget/NServiceBus.Persistence.NonDurable@2.0.1

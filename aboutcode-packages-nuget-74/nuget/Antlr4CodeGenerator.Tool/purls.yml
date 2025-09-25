@@ -1,0 +1,14 @@
+- pkg:nuget/Antlr4CodeGenerator.Tool@1.1.0
+- pkg:nuget/Antlr4CodeGenerator.Tool@1.2.0
+- pkg:nuget/Antlr4CodeGenerator.Tool@1.2.0-alpha0012
+- pkg:nuget/Antlr4CodeGenerator.Tool@1.2.0-alpha0013
+- pkg:nuget/Antlr4CodeGenerator.Tool@1.3.0-updates0001
+- pkg:nuget/Antlr4CodeGenerator.Tool@1.3.0-updates0002
+- pkg:nuget/Antlr4CodeGenerator.Tool@1.3.0-updates0003
+- pkg:nuget/Antlr4CodeGenerator.Tool@1.3.0-updates0004
+- pkg:nuget/Antlr4CodeGenerator.Tool@2.0.0
+- pkg:nuget/Antlr4CodeGenerator.Tool@2.1.0
+- pkg:nuget/Antlr4CodeGenerator.Tool@2.1.0-antlr4-12-0001
+- pkg:nuget/Antlr4CodeGenerator.Tool@2.2.0
+- pkg:nuget/Antlr4CodeGenerator.Tool@2.3.0
+- pkg:nuget/Antlr4CodeGenerator.Tool@2.3.0-alpha0002

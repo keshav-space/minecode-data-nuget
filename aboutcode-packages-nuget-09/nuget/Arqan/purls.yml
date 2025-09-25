@@ -1,0 +1,4 @@
+- pkg:nuget/Arqan@0.4.0
+- pkg:nuget/Arqan@1.0.0%2Bbuild9
+- pkg:nuget/Arqan@1.0.1%2Bbuild11
+- pkg:nuget/Arqan@2.1.0

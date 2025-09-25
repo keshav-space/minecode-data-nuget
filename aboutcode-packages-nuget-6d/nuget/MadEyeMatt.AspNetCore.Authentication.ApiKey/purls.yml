@@ -1,0 +1,13 @@
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@6.1.0
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@6.2.0
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@6.2.1
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@6.2.2
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@6.3.0
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@7.0.0
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@7.1.0
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@8.0.0
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@8.0.1
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@8.0.2
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@8.0.4
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@8.0.5
+- pkg:nuget/MadEyeMatt.AspNetCore.Authentication.ApiKey@9.0.0

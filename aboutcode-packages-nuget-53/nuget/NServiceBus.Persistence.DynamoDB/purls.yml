@@ -1,0 +1,9 @@
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@1.0.0
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@1.0.1
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@1.0.2
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@2.0.0
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@2.0.1
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@2.0.2
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@2.1.0
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@2.2.1
+- pkg:nuget/NServiceBus.Persistence.DynamoDB@3.0.0

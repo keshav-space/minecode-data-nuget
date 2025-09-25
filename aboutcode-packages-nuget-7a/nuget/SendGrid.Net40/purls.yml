@@ -1,0 +1,5 @@
+- pkg:nuget/SendGrid.Net40@3.0.3
+- pkg:nuget/SendGrid.Net40@4.0.0
+- pkg:nuget/SendGrid.Net40@4.0.1
+- pkg:nuget/SendGrid.Net40@4.0.2
+- pkg:nuget/SendGrid.Net40@5.1.0

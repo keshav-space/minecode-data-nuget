@@ -1,0 +1,4 @@
+- pkg:nuget/EnterpriseStartup.Messaging.RabbitMq@2.0.0
+- pkg:nuget/EnterpriseStartup.Messaging.RabbitMq@2.0.0-beta1
+- pkg:nuget/EnterpriseStartup.Messaging.RabbitMq@2.0.0-beta2
+- pkg:nuget/EnterpriseStartup.Messaging.RabbitMq@2.0.0-rc1

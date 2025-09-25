@@ -1,0 +1,5 @@
+- pkg:nuget/UAOOI.Configuration.Networking@2.0.3-Delta
+- pkg:nuget/UAOOI.Configuration.Networking@2.0.4-Echo
+- pkg:nuget/UAOOI.Configuration.Networking@3.0.5
+- pkg:nuget/UAOOI.Configuration.Networking@4.0.1
+- pkg:nuget/UAOOI.Configuration.Networking@6.4.8

@@ -1,0 +1,4 @@
+- pkg:nuget/B2R2.MiddleEnd.LLVM@0.7.0
+- pkg:nuget/B2R2.MiddleEnd.LLVM@0.8.1
+- pkg:nuget/B2R2.MiddleEnd.LLVM@0.9.0
+- pkg:nuget/B2R2.MiddleEnd.LLVM@0.9.1

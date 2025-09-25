@@ -1,0 +1,4 @@
+- pkg:nuget/Eventuous.Extensions.AspNetCore@0.15.0
+- pkg:nuget/Eventuous.Extensions.AspNetCore@0.15.0-rc.2
+- pkg:nuget/Eventuous.Extensions.AspNetCore@0.15.0-rc.3
+- pkg:nuget/Eventuous.Extensions.AspNetCore@0.15.1

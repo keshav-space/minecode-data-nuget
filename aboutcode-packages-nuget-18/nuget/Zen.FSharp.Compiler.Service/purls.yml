@@ -1,0 +1,4 @@
+- pkg:nuget/Zen.FSharp.Compiler.Service@13.0.0
+- pkg:nuget/Zen.FSharp.Compiler.Service@13.0.1
+- pkg:nuget/Zen.FSharp.Compiler.Service@17.0.1
+- pkg:nuget/Zen.FSharp.Compiler.Service@17.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/Hasulab.Azure.EventGrid.Simulator@0.0.1
+- pkg:nuget/Hasulab.Azure.EventGrid.Simulator@0.0.2
+- pkg:nuget/Hasulab.Azure.EventGrid.Simulator@0.8.0
+- pkg:nuget/Hasulab.Azure.EventGrid.Simulator@0.8.1

@@ -1,0 +1,8 @@
+- pkg:nuget/DurableTask.ActivityProxy@1.0.0
+- pkg:nuget/DurableTask.ActivityProxy@1.0.0-alpha
+- pkg:nuget/DurableTask.ActivityProxy@1.0.0-beta
+- pkg:nuget/DurableTask.ActivityProxy@1.0.0-preview
+- pkg:nuget/DurableTask.ActivityProxy@1.0.0-preview2
+- pkg:nuget/DurableTask.ActivityProxy@1.0.1
+- pkg:nuget/DurableTask.ActivityProxy@2.0.0
+- pkg:nuget/DurableTask.ActivityProxy@2.0.0-preview

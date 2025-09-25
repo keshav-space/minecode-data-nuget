@@ -1,0 +1,4 @@
+- pkg:nuget/CloudNative.CloudEvents.NATS@0.1.0
+- pkg:nuget/CloudNative.CloudEvents.NATS@0.1.1
+- pkg:nuget/CloudNative.CloudEvents.NATS@0.2.0
+- pkg:nuget/CloudNative.CloudEvents.NATS@1.0.0-preview

@@ -1,0 +1,5 @@
+- pkg:nuget/MathNet.Filtering.Kalman.Signed@0.4.0
+- pkg:nuget/MathNet.Filtering.Kalman.Signed@0.5.0
+- pkg:nuget/MathNet.Filtering.Kalman.Signed@0.6.0
+- pkg:nuget/MathNet.Filtering.Kalman.Signed@0.6.1
+- pkg:nuget/MathNet.Filtering.Kalman.Signed@0.7.0

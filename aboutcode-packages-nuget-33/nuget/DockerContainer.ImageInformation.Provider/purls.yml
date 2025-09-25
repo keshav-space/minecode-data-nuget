@@ -1,0 +1,6 @@
+- pkg:nuget/DockerContainer.ImageInformation.Provider@1.0.0
+- pkg:nuget/DockerContainer.ImageInformation.Provider@1.0.5
+- pkg:nuget/DockerContainer.ImageInformation.Provider@1.0.6
+- pkg:nuget/DockerContainer.ImageInformation.Provider@2.0.0
+- pkg:nuget/DockerContainer.ImageInformation.Provider@2.0.2
+- pkg:nuget/DockerContainer.ImageInformation.Provider@3.0.0

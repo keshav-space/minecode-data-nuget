@@ -1,0 +1,9 @@
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@0.0.1
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@0.0.1-prerelease
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@0.0.1-prerelease-20200502
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@0.0.1-prerelease168e9857
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@1.2.1-preview
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@1.3.0
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@1.3.0-prerelease-20200503
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@1.3.1
+- pkg:nuget/Dredd.ServiceIntegrator.MessageBroker.Abstractions@1.3.1-prerelease-20200509

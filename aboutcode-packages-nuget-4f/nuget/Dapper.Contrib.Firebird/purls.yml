@@ -1,0 +1,3 @@
+- pkg:nuget/Dapper.Contrib.Firebird@2.0.103
+- pkg:nuget/Dapper.Contrib.Firebird@2.0.106
+- pkg:nuget/Dapper.Contrib.Firebird@2.0.97

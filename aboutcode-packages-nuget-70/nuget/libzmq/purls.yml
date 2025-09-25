@@ -1,0 +1,10 @@
+- pkg:nuget/libzmq@3.1.1-beta1
+- pkg:nuget/libzmq@3.2.0-rc1
+- pkg:nuget/libzmq@3.2.1-beta1
+- pkg:nuget/libzmq@3.2.1-beta2
+- pkg:nuget/libzmq@3.2.1-beta3
+- pkg:nuget/libzmq@3.2.1-rc2
+- pkg:nuget/libzmq@3.2.2-rc2
+- pkg:nuget/libzmq@3.3.0-beta1
+- pkg:nuget/libzmq@4.1.0
+- pkg:nuget/libzmq@4.1.0-alpha

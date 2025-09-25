@@ -1,0 +1,8 @@
+- pkg:nuget/Plugin.Notifications@1.0.0
+- pkg:nuget/Plugin.Notifications@4.0.0
+- pkg:nuget/Plugin.Notifications@4.0.0-beta1
+- pkg:nuget/Plugin.Notifications@4.0.1
+- pkg:nuget/Plugin.Notifications@4.0.2
+- pkg:nuget/Plugin.Notifications@5.0.0-beta1
+- pkg:nuget/Plugin.Notifications@5.0.0-beta2
+- pkg:nuget/Plugin.Notifications@5.0.0-beta3

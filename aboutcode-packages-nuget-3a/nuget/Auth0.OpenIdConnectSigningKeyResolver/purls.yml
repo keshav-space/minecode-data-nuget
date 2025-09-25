@@ -1,0 +1,2 @@
+- pkg:nuget/Auth0.OpenIdConnectSigningKeyResolver@1.0.0
+- pkg:nuget/Auth0.OpenIdConnectSigningKeyResolver@2.0.0

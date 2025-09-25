@@ -1,0 +1,4 @@
+- pkg:nuget/RollingFileWriter@1.2.1
+- pkg:nuget/RollingFileWriter@1.2.2
+- pkg:nuget/RollingFileWriter@1.2.3
+- pkg:nuget/RollingFileWriter@1.2.4

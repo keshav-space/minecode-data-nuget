@@ -1,0 +1,5 @@
+- pkg:nuget/Proj4Net.Core@0.9.1
+- pkg:nuget/Proj4Net.Core@1.22.501
+- pkg:nuget/Proj4Net.Core@1.23.2501
+- pkg:nuget/Proj4Net.Core@1.25.1501
+- pkg:nuget/Proj4Net.Core@2.25.1802

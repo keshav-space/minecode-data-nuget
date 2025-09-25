@@ -1,0 +1,8 @@
+- pkg:nuget/LightApi.EFCore.Sqlite@1.0.0
+- pkg:nuget/LightApi.EFCore.Sqlite@1.1.0-preview
+- pkg:nuget/LightApi.EFCore.Sqlite@1.2.0
+- pkg:nuget/LightApi.EFCore.Sqlite@1.2.1
+- pkg:nuget/LightApi.EFCore.Sqlite@1.2.2
+- pkg:nuget/LightApi.EFCore.Sqlite@1.2.3
+- pkg:nuget/LightApi.EFCore.Sqlite@2.0.0
+- pkg:nuget/LightApi.EFCore.Sqlite@3.0.0

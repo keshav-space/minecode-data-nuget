@@ -1,0 +1,4 @@
+- pkg:nuget/OpenBlasSharp.Windows@2024.1.25
+- pkg:nuget/OpenBlasSharp.Windows@2024.4.13
+- pkg:nuget/OpenBlasSharp.Windows@2024.8.15
+- pkg:nuget/OpenBlasSharp.Windows@2025.1.13

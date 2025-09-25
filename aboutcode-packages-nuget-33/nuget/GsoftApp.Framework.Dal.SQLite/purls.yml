@@ -1,0 +1,11 @@
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@7.0.0
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@7.0.1
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@7.0.2
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@7.0.3
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@8.0.0
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@8.0.0-beta
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@8.0.0-beta2
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@8.0.1-beta
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@8.0.2
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@8.0.3
+- pkg:nuget/GsoftApp.Framework.Dal.SQLite@8.1.0-beta

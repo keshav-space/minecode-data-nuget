@@ -1,0 +1,4 @@
+- pkg:nuget/SharpExcel.Models@0.0.2-alpha1
+- pkg:nuget/SharpExcel.Models@0.1.0
+- pkg:nuget/SharpExcel.Models@1.0.0
+- pkg:nuget/SharpExcel.Models@2.0.1

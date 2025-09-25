@@ -1,0 +1,4 @@
+- pkg:nuget/MWKL.AspNetCore.Identity.LiteDB@1.0.0
+- pkg:nuget/MWKL.AspNetCore.Identity.LiteDB@1.0.1
+- pkg:nuget/MWKL.AspNetCore.Identity.LiteDB@1.0.2
+- pkg:nuget/MWKL.AspNetCore.Identity.LiteDB@1.0.3

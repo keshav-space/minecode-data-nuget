@@ -1,0 +1,5 @@
+- pkg:nuget/WebSocketsMiddleware@1.0.0
+- pkg:nuget/WebSocketsMiddleware@1.1.0
+- pkg:nuget/WebSocketsMiddleware@1.1.1
+- pkg:nuget/WebSocketsMiddleware@1.1.2
+- pkg:nuget/WebSocketsMiddleware@2.0.0
