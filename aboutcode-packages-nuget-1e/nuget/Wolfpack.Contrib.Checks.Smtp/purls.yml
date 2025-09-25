@@ -1,0 +1,6 @@
+- pkg:nuget/Wolfpack.Contrib.Checks.Smtp@3.0.10-pre
+- pkg:nuget/Wolfpack.Contrib.Checks.Smtp@3.0.12-pre
+- pkg:nuget/Wolfpack.Contrib.Checks.Smtp@3.0.13-pre
+- pkg:nuget/Wolfpack.Contrib.Checks.Smtp@3.0.17
+- pkg:nuget/Wolfpack.Contrib.Checks.Smtp@3.0.19
+- pkg:nuget/Wolfpack.Contrib.Checks.Smtp@3.0.20

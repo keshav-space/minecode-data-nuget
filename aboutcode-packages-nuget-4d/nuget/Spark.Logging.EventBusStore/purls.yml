@@ -1,0 +1,9 @@
+- pkg:nuget/Spark.Logging.EventBusStore@1.0.0
+- pkg:nuget/Spark.Logging.EventBusStore@1.0.0-rc
+- pkg:nuget/Spark.Logging.EventBusStore@1.0.3
+- pkg:nuget/Spark.Logging.EventBusStore@1.0.4-rc1
+- pkg:nuget/Spark.Logging.EventBusStore@1.0.4-rc3
+- pkg:nuget/Spark.Logging.EventBusStore@1.0.4-rc4
+- pkg:nuget/Spark.Logging.EventBusStore@1.0.4-rc5
+- pkg:nuget/Spark.Logging.EventBusStore@1.0.4-rc6
+- pkg:nuget/Spark.Logging.EventBusStore@3.0.0-rc1

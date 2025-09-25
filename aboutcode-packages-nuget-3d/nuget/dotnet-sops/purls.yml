@@ -1,0 +1,5 @@
+- pkg:nuget/dotnet-sops@0.1.0-alpha.1
+- pkg:nuget/dotnet-sops@0.1.0-alpha.2
+- pkg:nuget/dotnet-sops@1.0.0
+- pkg:nuget/dotnet-sops@1.1.0
+- pkg:nuget/dotnet-sops@1.1.1

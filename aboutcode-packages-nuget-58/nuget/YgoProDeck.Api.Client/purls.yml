@@ -1,0 +1,4 @@
+- pkg:nuget/YgoProDeck.Api.Client@1.0.0
+- pkg:nuget/YgoProDeck.Api.Client@1.0.0-develop
+- pkg:nuget/YgoProDeck.Api.Client@1.1.0-develop
+- pkg:nuget/YgoProDeck.Api.Client@1.1.1-develop

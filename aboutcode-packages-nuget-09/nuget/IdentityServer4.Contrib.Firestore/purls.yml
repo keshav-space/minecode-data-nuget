@@ -1,0 +1,2 @@
+- pkg:nuget/IdentityServer4.Contrib.Firestore@0.2.1
+- pkg:nuget/IdentityServer4.Contrib.Firestore@0.2.2

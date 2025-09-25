@@ -1,0 +1,2 @@
+- pkg:nuget/WeHotel.Infrastructure.Events.RabbitMQ@1.0.0.6
+- pkg:nuget/WeHotel.Infrastructure.Events.RabbitMQ@1.0.0.8

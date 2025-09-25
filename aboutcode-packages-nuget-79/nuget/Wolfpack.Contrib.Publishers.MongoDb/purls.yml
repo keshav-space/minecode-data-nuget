@@ -1,0 +1,13 @@
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@1.0.0
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@1.0.1
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@1.1.0
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@2.3.0.3
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@2.3.0.5
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@2.4.0
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@2.4.1
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@3.0.10-pre
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@3.0.12-pre
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@3.0.13-pre
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@3.0.17
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@3.0.19
+- pkg:nuget/Wolfpack.Contrib.Publishers.MongoDb@3.0.20

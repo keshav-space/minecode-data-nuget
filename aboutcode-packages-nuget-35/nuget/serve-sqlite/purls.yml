@@ -1,0 +1,4 @@
+- pkg:nuget/serve-sqlite@0.0.1
+- pkg:nuget/serve-sqlite@0.1.0
+- pkg:nuget/serve-sqlite@1.0.0
+- pkg:nuget/serve-sqlite@1.0.1

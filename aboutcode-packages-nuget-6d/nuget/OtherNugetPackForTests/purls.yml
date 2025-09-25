@@ -1,0 +1,4 @@
+- pkg:nuget/OtherNugetPackForTests@1.0.0
+- pkg:nuget/OtherNugetPackForTests@1.0.1
+- pkg:nuget/OtherNugetPackForTests@1.0.14
+- pkg:nuget/OtherNugetPackForTests@1.0.2

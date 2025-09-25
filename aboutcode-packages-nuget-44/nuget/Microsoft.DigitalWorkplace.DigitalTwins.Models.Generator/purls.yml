@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.DigitalWorkplace.DigitalTwins.Models.Generator@0.1.0
+- pkg:nuget/Microsoft.DigitalWorkplace.DigitalTwins.Models.Generator@0.1.1
+- pkg:nuget/Microsoft.DigitalWorkplace.DigitalTwins.Models.Generator@0.2.0
+- pkg:nuget/Microsoft.DigitalWorkplace.DigitalTwins.Models.Generator@0.2.1-test3
+- pkg:nuget/Microsoft.DigitalWorkplace.DigitalTwins.Models.Generator@0.2.1-test4
+- pkg:nuget/Microsoft.DigitalWorkplace.DigitalTwins.Models.Generator@0.2.1-test5
+- pkg:nuget/Microsoft.DigitalWorkplace.DigitalTwins.Models.Generator@1.0.1

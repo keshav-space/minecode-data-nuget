@@ -1,0 +1,6 @@
+- pkg:nuget/CSF.Data.NHibernate@5.0.0
+- pkg:nuget/CSF.Data.NHibernate@6.0.0
+- pkg:nuget/CSF.Data.NHibernate@6.1.0
+- pkg:nuget/CSF.Data.NHibernate@6.1.1
+- pkg:nuget/CSF.Data.NHibernate@6.1.2
+- pkg:nuget/CSF.Data.NHibernate@6.1.3

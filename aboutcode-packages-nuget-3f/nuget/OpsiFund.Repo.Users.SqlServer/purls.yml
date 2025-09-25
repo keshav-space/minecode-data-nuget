@@ -1,0 +1,4 @@
+- pkg:nuget/OpsiFund.Repo.Users.SqlServer@1.0.0
+- pkg:nuget/OpsiFund.Repo.Users.SqlServer@1.0.1
+- pkg:nuget/OpsiFund.Repo.Users.SqlServer@1.0.2
+- pkg:nuget/OpsiFund.Repo.Users.SqlServer@1.0.3

@@ -1,0 +1,4 @@
+- pkg:nuget/PoweredSoft.Data.EntityFramework@2.0.0
+- pkg:nuget/PoweredSoft.Data.EntityFramework@2.0.1
+- pkg:nuget/PoweredSoft.Data.EntityFramework@3.0.0
+- pkg:nuget/PoweredSoft.Data.EntityFramework@3.0.0-alpha

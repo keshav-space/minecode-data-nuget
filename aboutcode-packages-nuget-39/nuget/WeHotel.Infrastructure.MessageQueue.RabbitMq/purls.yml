@@ -1,0 +1,2 @@
+- pkg:nuget/WeHotel.Infrastructure.MessageQueue.RabbitMq@1.0.0.10
+- pkg:nuget/WeHotel.Infrastructure.MessageQueue.RabbitMq@1.0.0.8

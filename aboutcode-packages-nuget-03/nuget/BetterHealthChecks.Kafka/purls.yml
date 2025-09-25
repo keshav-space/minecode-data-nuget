@@ -1,0 +1,3 @@
+- pkg:nuget/BetterHealthChecks.Kafka@5.1.8.2
+- pkg:nuget/BetterHealthChecks.Kafka@5.1.8.3
+- pkg:nuget/BetterHealthChecks.Kafka@5.1.9.3

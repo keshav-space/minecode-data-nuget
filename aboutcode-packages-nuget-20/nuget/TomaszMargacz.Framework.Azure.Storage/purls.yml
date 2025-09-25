@@ -1,0 +1,3 @@
+- pkg:nuget/TomaszMargacz.Framework.Azure.Storage@1.0.0
+- pkg:nuget/TomaszMargacz.Framework.Azure.Storage@1.0.0-preview
+- pkg:nuget/TomaszMargacz.Framework.Azure.Storage@1.0.1-preview

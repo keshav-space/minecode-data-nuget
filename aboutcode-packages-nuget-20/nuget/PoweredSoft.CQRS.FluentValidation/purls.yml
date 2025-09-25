@@ -1,0 +1,3 @@
+- pkg:nuget/PoweredSoft.CQRS.FluentValidation@2.0.0
+- pkg:nuget/PoweredSoft.CQRS.FluentValidation@3.0.0
+- pkg:nuget/PoweredSoft.CQRS.FluentValidation@3.0.1

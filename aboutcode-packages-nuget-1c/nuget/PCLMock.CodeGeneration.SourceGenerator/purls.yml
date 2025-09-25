@@ -1,0 +1,5 @@
+- pkg:nuget/PCLMock.CodeGeneration.SourceGenerator@5.1.0-alpha
+- pkg:nuget/PCLMock.CodeGeneration.SourceGenerator@5.1.1-alpha
+- pkg:nuget/PCLMock.CodeGeneration.SourceGenerator@5.1.2-alpha
+- pkg:nuget/PCLMock.CodeGeneration.SourceGenerator@5.1.3
+- pkg:nuget/PCLMock.CodeGeneration.SourceGenerator@5.1.3-alpha

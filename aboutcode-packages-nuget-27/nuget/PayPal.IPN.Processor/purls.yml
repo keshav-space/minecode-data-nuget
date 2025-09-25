@@ -1,0 +1,4 @@
+- pkg:nuget/PayPal.IPN.Processor@1.0.0
+- pkg:nuget/PayPal.IPN.Processor@1.0.1
+- pkg:nuget/PayPal.IPN.Processor@1.0.2
+- pkg:nuget/PayPal.IPN.Processor@1.0.3

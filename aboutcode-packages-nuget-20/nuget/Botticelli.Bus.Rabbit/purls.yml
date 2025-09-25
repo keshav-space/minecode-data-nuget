@@ -1,0 +1,3 @@
+- pkg:nuget/Botticelli.Bus.Rabbit@0.1.0-beta
+- pkg:nuget/Botticelli.Bus.Rabbit@0.2.0
+- pkg:nuget/Botticelli.Bus.Rabbit@0.3.0

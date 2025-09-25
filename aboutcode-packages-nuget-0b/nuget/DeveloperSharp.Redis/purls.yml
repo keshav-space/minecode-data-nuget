@@ -1,0 +1,11 @@
+- pkg:nuget/DeveloperSharp.Redis@1.0.0
+- pkg:nuget/DeveloperSharp.Redis@2.0.0
+- pkg:nuget/DeveloperSharp.Redis@2.5.0
+- pkg:nuget/DeveloperSharp.Redis@3.0.0
+- pkg:nuget/DeveloperSharp.Redis@3.5.0
+- pkg:nuget/DeveloperSharp.Redis@4.0.0
+- pkg:nuget/DeveloperSharp.Redis@5.0.0
+- pkg:nuget/DeveloperSharp.Redis@5.5.0
+- pkg:nuget/DeveloperSharp.Redis@6.0.0
+- pkg:nuget/DeveloperSharp.Redis@6.5.0
+- pkg:nuget/DeveloperSharp.Redis@7.0.0

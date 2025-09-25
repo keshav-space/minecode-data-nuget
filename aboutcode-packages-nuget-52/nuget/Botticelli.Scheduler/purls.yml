@@ -1,0 +1,3 @@
+- pkg:nuget/Botticelli.Scheduler@0.1.0-beta
+- pkg:nuget/Botticelli.Scheduler@0.2.0
+- pkg:nuget/Botticelli.Scheduler@0.3.0

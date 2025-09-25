@@ -1,0 +1,16 @@
+- pkg:nuget/Meyer.Common.HttpClient@1.0.0.2
+- pkg:nuget/Meyer.Common.HttpClient@2.0.0.1
+- pkg:nuget/Meyer.Common.HttpClient@2.0.0.2
+- pkg:nuget/Meyer.Common.HttpClient@2.0.0.3
+- pkg:nuget/Meyer.Common.HttpClient@2.0.0.4
+- pkg:nuget/Meyer.Common.HttpClient@3.0.0.1
+- pkg:nuget/Meyer.Common.HttpClient@3.0.0.2
+- pkg:nuget/Meyer.Common.HttpClient@3.0.0.3
+- pkg:nuget/Meyer.Common.HttpClient@3.0.0.4
+- pkg:nuget/Meyer.Common.HttpClient@3.0.10
+- pkg:nuget/Meyer.Common.HttpClient@3.0.11
+- pkg:nuget/Meyer.Common.HttpClient@3.0.12
+- pkg:nuget/Meyer.Common.HttpClient@3.0.5
+- pkg:nuget/Meyer.Common.HttpClient@3.0.7
+- pkg:nuget/Meyer.Common.HttpClient@3.0.8
+- pkg:nuget/Meyer.Common.HttpClient@3.1.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Depra.Serialization.Json.Newtonsoft@1.0.0
+- pkg:nuget/Depra.Serialization.Json.Newtonsoft@1.0.1
+- pkg:nuget/Depra.Serialization.Json.Newtonsoft@1.0.2
+- pkg:nuget/Depra.Serialization.Json.Newtonsoft@1.0.3
+- pkg:nuget/Depra.Serialization.Json.Newtonsoft@1.1.0

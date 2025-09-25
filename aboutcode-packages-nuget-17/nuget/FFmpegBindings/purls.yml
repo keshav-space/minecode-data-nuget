@@ -1,0 +1,3 @@
+- pkg:nuget/FFmpegBindings@3.3.6
+- pkg:nuget/FFmpegBindings@4.3.1
+- pkg:nuget/FFmpegBindings@4.3.1.1

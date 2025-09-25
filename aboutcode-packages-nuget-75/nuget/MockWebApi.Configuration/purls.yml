@@ -1,0 +1,3 @@
+- pkg:nuget/MockWebApi.Configuration@0.13.4
+- pkg:nuget/MockWebApi.Configuration@0.14.1
+- pkg:nuget/MockWebApi.Configuration@0.15.0

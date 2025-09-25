@@ -1,0 +1,4 @@
+- pkg:nuget/SharpDX.X3DAudio@2.0.0
+- pkg:nuget/SharpDX.X3DAudio@2.0.2
+- pkg:nuget/SharpDX.X3DAudio@2.0.4
+- pkg:nuget/SharpDX.X3DAudio@2.1.0

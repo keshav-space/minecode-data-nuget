@@ -1,0 +1,6 @@
+- pkg:nuget/OpenSilver.MvvmLight@2.0.0
+- pkg:nuget/OpenSilver.MvvmLight@2.1.0
+- pkg:nuget/OpenSilver.MvvmLight@2.2.0
+- pkg:nuget/OpenSilver.MvvmLight@3.0.0
+- pkg:nuget/OpenSilver.MvvmLight@3.1.0
+- pkg:nuget/OpenSilver.MvvmLight@3.2.0

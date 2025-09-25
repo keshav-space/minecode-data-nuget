@@ -1,0 +1,4 @@
+- pkg:nuget/SvSoft.OneOf.Analyzers.SwitchDiagnosticSuppression@0.0.1
+- pkg:nuget/SvSoft.OneOf.Analyzers.SwitchDiagnosticSuppression@1.0.0
+- pkg:nuget/SvSoft.OneOf.Analyzers.SwitchDiagnosticSuppression@1.1.0
+- pkg:nuget/SvSoft.OneOf.Analyzers.SwitchDiagnosticSuppression@1.1.1

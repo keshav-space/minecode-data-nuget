@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.TeamFoundation.VersionControl.Client@11.0.50727.1
+- pkg:nuget/Microsoft.TeamFoundation.VersionControl.Client@11.0.51106.1
+- pkg:nuget/Microsoft.TeamFoundation.VersionControl.Client@11.0.51106.2

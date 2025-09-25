@@ -1,0 +1,11 @@
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@1.2.0
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@1.2.1
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@1.2.2
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@1.2.3
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@1.3.0
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@2.0.0
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@2.0.1
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@2.0.2
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@2.0.3
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@2.0.4
+- pkg:nuget/SSS.AspNetCore.Extensions.Jwt@2.0.5

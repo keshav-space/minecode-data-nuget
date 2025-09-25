@@ -1,0 +1,4 @@
+- pkg:nuget/FastCSharp6.RabbitSubscriber@1.0.0
+- pkg:nuget/FastCSharp6.RabbitSubscriber@1.1.0
+- pkg:nuget/FastCSharp6.RabbitSubscriber@2.0.0
+- pkg:nuget/FastCSharp6.RabbitSubscriber@2.1.0

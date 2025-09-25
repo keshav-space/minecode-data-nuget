@@ -1,0 +1,5 @@
+- pkg:nuget/BSN.Commons.Orm.Redis@1.15.0
+- pkg:nuget/BSN.Commons.Orm.Redis@1.16.0
+- pkg:nuget/BSN.Commons.Orm.Redis@1.16.1
+- pkg:nuget/BSN.Commons.Orm.Redis@1.17.0
+- pkg:nuget/BSN.Commons.Orm.Redis@1.18.0

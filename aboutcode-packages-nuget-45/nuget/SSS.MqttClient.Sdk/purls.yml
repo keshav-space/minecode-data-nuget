@@ -1,0 +1,11 @@
+- pkg:nuget/SSS.MqttClient.Sdk@1.0.0
+- pkg:nuget/SSS.MqttClient.Sdk@1.0.1
+- pkg:nuget/SSS.MqttClient.Sdk@1.0.2
+- pkg:nuget/SSS.MqttClient.Sdk@1.0.3
+- pkg:nuget/SSS.MqttClient.Sdk@1.0.4
+- pkg:nuget/SSS.MqttClient.Sdk@2.0.0
+- pkg:nuget/SSS.MqttClient.Sdk@2.0.1
+- pkg:nuget/SSS.MqttClient.Sdk@2.0.2
+- pkg:nuget/SSS.MqttClient.Sdk@2.0.3
+- pkg:nuget/SSS.MqttClient.Sdk@2.0.4
+- pkg:nuget/SSS.MqttClient.Sdk@2.0.5

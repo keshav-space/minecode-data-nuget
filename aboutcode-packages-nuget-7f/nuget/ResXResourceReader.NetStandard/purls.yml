@@ -1,0 +1,5 @@
+- pkg:nuget/ResXResourceReader.NetStandard@1.0.0
+- pkg:nuget/ResXResourceReader.NetStandard@1.0.1
+- pkg:nuget/ResXResourceReader.NetStandard@1.1.0
+- pkg:nuget/ResXResourceReader.NetStandard@1.2.0
+- pkg:nuget/ResXResourceReader.NetStandard@1.3.0

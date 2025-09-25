@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@11.3.100-preview.5.894%2Bsha.e5d12ecc9
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@12.0.100-preview.6.63%2Bsha.b7298b17f
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@12.0.100-preview.7.230%2Bsha.eeb586337
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@12.0.100-preview.7230
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@12.0.100-preview.7231
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@12.0.100-rc.1.1534%2Bsha.25ff25166
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@12.0.101-preview.10.251%2Bsha.b1a64fc6d
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@12.0.101-preview.11.551%2Bsha.456496907
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-6.0.100@12.0.101-preview.9.31%2Bsha.233cef203

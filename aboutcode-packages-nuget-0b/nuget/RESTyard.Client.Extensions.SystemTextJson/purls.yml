@@ -1,0 +1,7 @@
+- pkg:nuget/RESTyard.Client.Extensions.SystemTextJson@2.0.0
+- pkg:nuget/RESTyard.Client.Extensions.SystemTextJson@2.0.1
+- pkg:nuget/RESTyard.Client.Extensions.SystemTextJson@2.1.0
+- pkg:nuget/RESTyard.Client.Extensions.SystemTextJson@3.0.0-develop-20230825.1
+- pkg:nuget/RESTyard.Client.Extensions.SystemTextJson@3.0.1-client-back-to-netstandard2.0-20230831.1
+- pkg:nuget/RESTyard.Client.Extensions.SystemTextJson@3.0.2
+- pkg:nuget/RESTyard.Client.Extensions.SystemTextJson@3.0.3

@@ -1,0 +1,8 @@
+- pkg:nuget/PlatformBindings-NETCore@0.1.0-alpha
+- pkg:nuget/PlatformBindings-NETCore@0.2.0-alpha
+- pkg:nuget/PlatformBindings-NETCore@0.2.1-alpha
+- pkg:nuget/PlatformBindings-NETCore@0.2.11-alpha
+- pkg:nuget/PlatformBindings-NETCore@0.2.6-alpha
+- pkg:nuget/PlatformBindings-NETCore@0.2.7-alpha
+- pkg:nuget/PlatformBindings-NETCore@0.2.8-alpha
+- pkg:nuget/PlatformBindings-NETCore@0.2.9-alpha
