@@ -1,0 +1,13 @@
+- pkg:nuget/MQContract.KubeMQ@1.0.0
+- pkg:nuget/MQContract.KubeMQ@1.1.0
+- pkg:nuget/MQContract.KubeMQ@2.0.0
+- pkg:nuget/MQContract.KubeMQ@2.0.1
+- pkg:nuget/MQContract.KubeMQ@2.1.0
+- pkg:nuget/MQContract.KubeMQ@2.2.0
+- pkg:nuget/MQContract.KubeMQ@2.3.0
+- pkg:nuget/MQContract.KubeMQ@2.5.0
+- pkg:nuget/MQContract.KubeMQ@2.5.1
+- pkg:nuget/MQContract.KubeMQ@2.6.0
+- pkg:nuget/MQContract.KubeMQ@2.6.1
+- pkg:nuget/MQContract.KubeMQ@2.7.0
+- pkg:nuget/MQContract.KubeMQ@2.8.0

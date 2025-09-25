@@ -1,0 +1,13 @@
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@6.5.0
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.0.0
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.0.0-beta.3
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.0.0-beta.4
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.0.0-beta.5
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.0.0-beta.6
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.0.0-rc.1
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.1.0
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.1.1
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.1.2
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.1.3
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.1.4
+- pkg:nuget/OpenCqrs.Validation.FluentValidation@7.1.5

@@ -1,0 +1,7 @@
+- pkg:nuget/AsNet.Shared.Smtp@4.6.2-Alpha
+- pkg:nuget/AsNet.Shared.Smtp@4.6.2-Beta
+- pkg:nuget/AsNet.Shared.Smtp@4.6.2.1
+- pkg:nuget/AsNet.Shared.Smtp@5.0.0
+- pkg:nuget/AsNet.Shared.Smtp@5.0.1
+- pkg:nuget/AsNet.Shared.Smtp@6.0.0
+- pkg:nuget/AsNet.Shared.Smtp@6.0.0.1

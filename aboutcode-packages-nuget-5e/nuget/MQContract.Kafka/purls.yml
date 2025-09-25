@@ -1,0 +1,13 @@
+- pkg:nuget/MQContract.Kafka@1.0.0
+- pkg:nuget/MQContract.Kafka@1.1.0
+- pkg:nuget/MQContract.Kafka@2.0.0
+- pkg:nuget/MQContract.Kafka@2.0.1
+- pkg:nuget/MQContract.Kafka@2.1.0
+- pkg:nuget/MQContract.Kafka@2.2.0
+- pkg:nuget/MQContract.Kafka@2.3.0
+- pkg:nuget/MQContract.Kafka@2.5.0
+- pkg:nuget/MQContract.Kafka@2.5.1
+- pkg:nuget/MQContract.Kafka@2.6.0
+- pkg:nuget/MQContract.Kafka@2.6.1
+- pkg:nuget/MQContract.Kafka@2.7.0
+- pkg:nuget/MQContract.Kafka@2.8.0

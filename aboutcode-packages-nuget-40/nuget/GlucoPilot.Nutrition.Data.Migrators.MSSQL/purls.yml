@@ -1,0 +1,6 @@
+- pkg:nuget/GlucoPilot.Nutrition.Data.Migrators.MSSQL@0.0.5
+- pkg:nuget/GlucoPilot.Nutrition.Data.Migrators.MSSQL@0.0.6-preview100
+- pkg:nuget/GlucoPilot.Nutrition.Data.Migrators.MSSQL@0.0.6-preview200
+- pkg:nuget/GlucoPilot.Nutrition.Data.Migrators.MSSQL@0.0.6-preview300
+- pkg:nuget/GlucoPilot.Nutrition.Data.Migrators.MSSQL@0.0.6-preview500
+- pkg:nuget/GlucoPilot.Nutrition.Data.Migrators.MSSQL@0.0.6-preview600

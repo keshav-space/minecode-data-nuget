@@ -1,0 +1,17 @@
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@6.3.10
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@6.3.11
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@6.3.8
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@6.3.9
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@6.4.0
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@6.4.1
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@6.4.2
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.0.0
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.0.2
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.0.5
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.0.6
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.0.7
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.0.8
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.0.9
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.1.0
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.1.1
+- pkg:nuget/Harbour.EasyCaching.RedisDistributedCache@8.1.2

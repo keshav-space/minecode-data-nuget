@@ -1,0 +1,8 @@
+- pkg:nuget/Couchbase.Extensions.Session@1.0.0
+- pkg:nuget/Couchbase.Extensions.Session@1.0.0-beta2
+- pkg:nuget/Couchbase.Extensions.Session@1.0.0-dp
+- pkg:nuget/Couchbase.Extensions.Session@1.0.1
+- pkg:nuget/Couchbase.Extensions.Session@1.0.2
+- pkg:nuget/Couchbase.Extensions.Session@3.3.4
+- pkg:nuget/Couchbase.Extensions.Session@3.3.5
+- pkg:nuget/Couchbase.Extensions.Session@4.0.0

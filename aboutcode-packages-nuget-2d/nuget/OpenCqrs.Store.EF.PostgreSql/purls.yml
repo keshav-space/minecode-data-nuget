@@ -1,0 +1,11 @@
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@4.0.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@4.2.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@4.3.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@4.4.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@5.0.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@5.1.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@5.2.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@5.3.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@6.0.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@6.1.0
+- pkg:nuget/OpenCqrs.Store.EF.PostgreSql@6.5.0

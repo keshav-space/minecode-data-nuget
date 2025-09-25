@@ -1,0 +1,4 @@
+- pkg:nuget/EventServe.EventStore.Extensions.Microsoft.DepdendencyInjection@2020.11.20.2
+- pkg:nuget/EventServe.EventStore.Extensions.Microsoft.DepdendencyInjection@2020.11.24.2
+- pkg:nuget/EventServe.EventStore.Extensions.Microsoft.DepdendencyInjection@2020.11.24.4
+- pkg:nuget/EventServe.EventStore.Extensions.Microsoft.DepdendencyInjection@2020.11.26.2

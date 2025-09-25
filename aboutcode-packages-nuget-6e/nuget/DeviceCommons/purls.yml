@@ -1,0 +1,6 @@
+- pkg:nuget/DeviceCommons@1.0.0
+- pkg:nuget/DeviceCommons@2.0.0-alpha
+- pkg:nuget/DeviceCommons@2.0.1-alpha
+- pkg:nuget/DeviceCommons@2.1.0-rc
+- pkg:nuget/DeviceCommons@2.2.0
+- pkg:nuget/DeviceCommons@2.3.0

@@ -1,0 +1,7 @@
+- pkg:nuget/OpenCqrs.Store.CosmosDB.Sql@4.0.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.Sql@4.2.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.Sql@4.3.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.Sql@4.4.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.Sql@5.0.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.Sql@5.1.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.Sql@5.2.0

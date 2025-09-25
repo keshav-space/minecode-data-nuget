@@ -1,0 +1,7 @@
+- pkg:nuget/Sers.ApiTrace.Collector.Zipkin@2.1.25
+- pkg:nuget/Sers.ApiTrace.Collector.Zipkin@2.1.26
+- pkg:nuget/Sers.ApiTrace.Collector.Zipkin@2.1.27
+- pkg:nuget/Sers.ApiTrace.Collector.Zipkin@2.1.28
+- pkg:nuget/Sers.ApiTrace.Collector.Zipkin@2.1.28-preview
+- pkg:nuget/Sers.ApiTrace.Collector.Zipkin@2.2.0
+- pkg:nuget/Sers.ApiTrace.Collector.Zipkin@2.2.1

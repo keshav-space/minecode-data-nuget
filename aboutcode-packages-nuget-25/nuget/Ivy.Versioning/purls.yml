@@ -1,0 +1,16 @@
+- pkg:nuget/Ivy.Versioning@3.0.0
+- pkg:nuget/Ivy.Versioning@3.0.0-beta
+- pkg:nuget/Ivy.Versioning@3.0.0-beta.1
+- pkg:nuget/Ivy.Versioning@3.0.0-beta.7
+- pkg:nuget/Ivy.Versioning@3.0.0-beta.9
+- pkg:nuget/Ivy.Versioning@3.0.0.1
+- pkg:nuget/Ivy.Versioning@3.0.0.2
+- pkg:nuget/Ivy.Versioning@3.0.1-beta.1
+- pkg:nuget/Ivy.Versioning@3.0.1-beta.13
+- pkg:nuget/Ivy.Versioning@3.0.1-beta.14
+- pkg:nuget/Ivy.Versioning@3.0.1-beta.2
+- pkg:nuget/Ivy.Versioning@3.0.1-beta.3
+- pkg:nuget/Ivy.Versioning@3.1.0
+- pkg:nuget/Ivy.Versioning@3.1.0-beta.1
+- pkg:nuget/Ivy.Versioning@3.1.0.1
+- pkg:nuget/Ivy.Versioning@3.1.0.2

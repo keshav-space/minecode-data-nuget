@@ -1,0 +1,4 @@
+- pkg:nuget/Data.HashFunction.MurmurHash@3.0.0
+- pkg:nuget/Data.HashFunction.MurmurHash@3.0.1
+- pkg:nuget/Data.HashFunction.MurmurHash@3.1.1
+- pkg:nuget/Data.HashFunction.MurmurHash@3.1.2

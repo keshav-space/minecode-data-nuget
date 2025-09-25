@@ -1,0 +1,16 @@
+- pkg:nuget/NetCoreForce.Linq@2.1.0-alpha
+- pkg:nuget/NetCoreForce.Linq@2.2.0-alpha
+- pkg:nuget/NetCoreForce.Linq@2.3.0-alpha
+- pkg:nuget/NetCoreForce.Linq@2.4.0-alpha
+- pkg:nuget/NetCoreForce.Linq@2.5.0-alpha
+- pkg:nuget/NetCoreForce.Linq@2.6.0-alpha
+- pkg:nuget/NetCoreForce.Linq@2.7.0-alpha
+- pkg:nuget/NetCoreForce.Linq@3.0.0-alpha
+- pkg:nuget/NetCoreForce.Linq@3.0.0-alpha2
+- pkg:nuget/NetCoreForce.Linq@3.0.0-alpha3
+- pkg:nuget/NetCoreForce.Linq@3.0.1-alpha
+- pkg:nuget/NetCoreForce.Linq@3.1.0-alpha
+- pkg:nuget/NetCoreForce.Linq@4.0.0-alpha
+- pkg:nuget/NetCoreForce.Linq@4.0.0-alpha2
+- pkg:nuget/NetCoreForce.Linq@4.1.0-alpha2
+- pkg:nuget/NetCoreForce.Linq@5.0.0-alpha2

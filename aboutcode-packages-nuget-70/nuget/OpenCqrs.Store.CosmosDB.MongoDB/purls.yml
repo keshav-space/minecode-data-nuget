@@ -1,0 +1,7 @@
+- pkg:nuget/OpenCqrs.Store.CosmosDB.MongoDB@4.0.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.MongoDB@4.2.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.MongoDB@4.3.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.MongoDB@4.4.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.MongoDB@5.0.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.MongoDB@5.1.0
+- pkg:nuget/OpenCqrs.Store.CosmosDB.MongoDB@5.2.0

@@ -1,0 +1,11 @@
+- pkg:nuget/OpenCqrs.Store.EF@4.0.0
+- pkg:nuget/OpenCqrs.Store.EF@4.2.0
+- pkg:nuget/OpenCqrs.Store.EF@4.3.0
+- pkg:nuget/OpenCqrs.Store.EF@4.4.0
+- pkg:nuget/OpenCqrs.Store.EF@5.0.0
+- pkg:nuget/OpenCqrs.Store.EF@5.1.0
+- pkg:nuget/OpenCqrs.Store.EF@5.2.0
+- pkg:nuget/OpenCqrs.Store.EF@5.3.0
+- pkg:nuget/OpenCqrs.Store.EF@6.0.0
+- pkg:nuget/OpenCqrs.Store.EF@6.1.0
+- pkg:nuget/OpenCqrs.Store.EF@6.5.0

@@ -1,0 +1,14 @@
+- pkg:nuget/redis-64@2.6.14
+- pkg:nuget/redis-64@2.8.12
+- pkg:nuget/redis-64@2.8.17
+- pkg:nuget/redis-64@2.8.19
+- pkg:nuget/redis-64@2.8.21
+- pkg:nuget/redis-64@2.8.2101
+- pkg:nuget/redis-64@2.8.2104
+- pkg:nuget/redis-64@2.8.2400
+- pkg:nuget/redis-64@2.8.2402
+- pkg:nuget/redis-64@2.8.4
+- pkg:nuget/redis-64@2.8.9
+- pkg:nuget/redis-64@3.0.500
+- pkg:nuget/redis-64@3.0.501
+- pkg:nuget/redis-64@3.0.503

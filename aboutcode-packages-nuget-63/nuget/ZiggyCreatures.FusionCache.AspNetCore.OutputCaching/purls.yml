@@ -1,0 +1,7 @@
+- pkg:nuget/ZiggyCreatures.FusionCache.AspNetCore.OutputCaching@2.0.1
+- pkg:nuget/ZiggyCreatures.FusionCache.AspNetCore.OutputCaching@2.0.2
+- pkg:nuget/ZiggyCreatures.FusionCache.AspNetCore.OutputCaching@2.1.0
+- pkg:nuget/ZiggyCreatures.FusionCache.AspNetCore.OutputCaching@2.2.0
+- pkg:nuget/ZiggyCreatures.FusionCache.AspNetCore.OutputCaching@2.2.0-preview-1
+- pkg:nuget/ZiggyCreatures.FusionCache.AspNetCore.OutputCaching@2.3.0
+- pkg:nuget/ZiggyCreatures.FusionCache.AspNetCore.OutputCaching@2.4.0

@@ -1,0 +1,4 @@
+- pkg:nuget/JumooTranslate.Providers.Google@1.0.0-beta
+- pkg:nuget/JumooTranslate.Providers.Google@1.1.0
+- pkg:nuget/JumooTranslate.Providers.Google@1.2.0
+- pkg:nuget/JumooTranslate.Providers.Google@1.2.0-RC1

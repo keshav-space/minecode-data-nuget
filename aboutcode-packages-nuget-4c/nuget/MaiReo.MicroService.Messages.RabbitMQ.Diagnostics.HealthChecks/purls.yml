@@ -1,0 +1,10 @@
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@3.5.0
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc0
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc1
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc2
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc3
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc4
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc5
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc6
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc7
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.Diagnostics.HealthChecks@5.0.0-rc8

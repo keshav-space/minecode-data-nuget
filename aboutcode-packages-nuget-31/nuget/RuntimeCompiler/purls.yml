@@ -1,0 +1,17 @@
+- pkg:nuget/RuntimeCompiler@1.0.0
+- pkg:nuget/RuntimeCompiler@1.0.1
+- pkg:nuget/RuntimeCompiler@2.0.0
+- pkg:nuget/RuntimeCompiler@2.0.1
+- pkg:nuget/RuntimeCompiler@2.0.2
+- pkg:nuget/RuntimeCompiler@3.0.0
+- pkg:nuget/RuntimeCompiler@3.0.1
+- pkg:nuget/RuntimeCompiler@3.1.0
+- pkg:nuget/RuntimeCompiler@3.2.0
+- pkg:nuget/RuntimeCompiler@3.3.0
+- pkg:nuget/RuntimeCompiler@4.0.0
+- pkg:nuget/RuntimeCompiler@4.1.0
+- pkg:nuget/RuntimeCompiler@4.2.0
+- pkg:nuget/RuntimeCompiler@4.3.0
+- pkg:nuget/RuntimeCompiler@5.0.0
+- pkg:nuget/RuntimeCompiler@5.1.0
+- pkg:nuget/RuntimeCompiler@5.2.0

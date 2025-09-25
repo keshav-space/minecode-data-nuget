@@ -1,0 +1,13 @@
+- pkg:nuget/MQContract.NATS@1.0.0
+- pkg:nuget/MQContract.NATS@1.1.0
+- pkg:nuget/MQContract.NATS@2.0.0
+- pkg:nuget/MQContract.NATS@2.0.1
+- pkg:nuget/MQContract.NATS@2.1.0
+- pkg:nuget/MQContract.NATS@2.2.0
+- pkg:nuget/MQContract.NATS@2.3.0
+- pkg:nuget/MQContract.NATS@2.5.0
+- pkg:nuget/MQContract.NATS@2.5.1
+- pkg:nuget/MQContract.NATS@2.6.0
+- pkg:nuget/MQContract.NATS@2.6.1
+- pkg:nuget/MQContract.NATS@2.7.0
+- pkg:nuget/MQContract.NATS@2.8.0

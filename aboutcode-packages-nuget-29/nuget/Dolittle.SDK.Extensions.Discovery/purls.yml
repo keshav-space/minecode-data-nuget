@@ -1,0 +1,14 @@
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@11.0.0
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@11.0.0-aragorn.6
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@11.0.0-aragorn.7
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@11.0.0-aragorn.8
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0-legolas.0
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0-legolas.1
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0-legolas.2
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0-legolas.3
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0-legolas.4
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0-legolas.5
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0-legolas.6
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.0.0-legolas.7
+- pkg:nuget/Dolittle.SDK.Extensions.Discovery@12.1.0-gandalf.0

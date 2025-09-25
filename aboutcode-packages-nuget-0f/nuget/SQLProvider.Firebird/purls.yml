@@ -1,0 +1,4 @@
+- pkg:nuget/SQLProvider.Firebird@1.5.14
+- pkg:nuget/SQLProvider.Firebird@1.5.15
+- pkg:nuget/SQLProvider.Firebird@1.5.16
+- pkg:nuget/SQLProvider.Firebird@1.5.17

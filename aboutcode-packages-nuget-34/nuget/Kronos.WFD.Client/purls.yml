@@ -1,0 +1,6 @@
+- pkg:nuget/Kronos.WFD.Client@1.0.0.3-prerelease
+- pkg:nuget/Kronos.WFD.Client@1.0.0.9
+- pkg:nuget/Kronos.WFD.Client@1.3.0.2
+- pkg:nuget/Kronos.WFD.Client@1.3.0.4
+- pkg:nuget/Kronos.WFD.Client@1.3.0.6
+- pkg:nuget/Kronos.WFD.Client@1.3.0.9

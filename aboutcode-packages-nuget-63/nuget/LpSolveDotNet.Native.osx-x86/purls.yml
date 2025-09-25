@@ -1,0 +1,10 @@
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.0
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.0-alpha1
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.0-alpha2
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.0-alpha3
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.0-beta.3
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.0-rc.1
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.1-ci-fix-github-actions.1%2B15
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.1-ci-with-dotnet.1%2B28-TEMP
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.0.1-nuget-improvements.1%2B21
+- pkg:nuget/LpSolveDotNet.Native.osx-x86@4.1.0

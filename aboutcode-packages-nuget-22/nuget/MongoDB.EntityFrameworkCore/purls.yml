@@ -1,0 +1,16 @@
+- pkg:nuget/MongoDB.EntityFrameworkCore@7.0.0-preview.1
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.0.0
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.0.1
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.0.2
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.0.3
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.1.0
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.1.1
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.2.0
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.2.1
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.2.2
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.2.3
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.3.0
+- pkg:nuget/MongoDB.EntityFrameworkCore@8.3.1
+- pkg:nuget/MongoDB.EntityFrameworkCore@9.0.0
+- pkg:nuget/MongoDB.EntityFrameworkCore@9.0.0-preview.1
+- pkg:nuget/MongoDB.EntityFrameworkCore@9.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/DRY.MailJetClient.Library@1.0.0
+- pkg:nuget/DRY.MailJetClient.Library@1.0.0-rc1
+- pkg:nuget/DRY.MailJetClient.Library@2.0.0
+- pkg:nuget/DRY.MailJetClient.Library@2.0.0-rc

@@ -1,0 +1,15 @@
+- pkg:nuget/Sdl.Core.PluginFramework.Build@14.0.0
+- pkg:nuget/Sdl.Core.PluginFramework.Build@14.0.215
+- pkg:nuget/Sdl.Core.PluginFramework.Build@14.0.217
+- pkg:nuget/Sdl.Core.PluginFramework.Build@14.0.219
+- pkg:nuget/Sdl.Core.PluginFramework.Build@14.0.221
+- pkg:nuget/Sdl.Core.PluginFramework.Build@14.0.225
+- pkg:nuget/Sdl.Core.PluginFramework.Build@15.0.1
+- pkg:nuget/Sdl.Core.PluginFramework.Build@15.0.2
+- pkg:nuget/Sdl.Core.PluginFramework.Build@15.1.0
+- pkg:nuget/Sdl.Core.PluginFramework.Build@16.0.0
+- pkg:nuget/Sdl.Core.PluginFramework.Build@16.0.1
+- pkg:nuget/Sdl.Core.PluginFramework.Build@16.1.0
+- pkg:nuget/Sdl.Core.PluginFramework.Build@17.0.0
+- pkg:nuget/Sdl.Core.PluginFramework.Build@18.0.0
+- pkg:nuget/Sdl.Core.PluginFramework.Build@18.0.1

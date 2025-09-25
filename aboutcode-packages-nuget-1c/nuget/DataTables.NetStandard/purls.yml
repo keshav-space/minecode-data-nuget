@@ -1,0 +1,15 @@
+- pkg:nuget/DataTables.NetStandard@0.1.0
+- pkg:nuget/DataTables.NetStandard@0.2.0
+- pkg:nuget/DataTables.NetStandard@0.2.1
+- pkg:nuget/DataTables.NetStandard@0.3.0
+- pkg:nuget/DataTables.NetStandard@0.4.0
+- pkg:nuget/DataTables.NetStandard@0.4.1
+- pkg:nuget/DataTables.NetStandard@0.5.0
+- pkg:nuget/DataTables.NetStandard@0.5.1
+- pkg:nuget/DataTables.NetStandard@0.5.2
+- pkg:nuget/DataTables.NetStandard@1.0.0
+- pkg:nuget/DataTables.NetStandard@1.1.0
+- pkg:nuget/DataTables.NetStandard@2.0.0
+- pkg:nuget/DataTables.NetStandard@3.0.0
+- pkg:nuget/DataTables.NetStandard@3.0.1
+- pkg:nuget/DataTables.NetStandard@3.0.2

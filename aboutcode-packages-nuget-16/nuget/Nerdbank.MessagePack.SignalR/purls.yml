@@ -1,0 +1,16 @@
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.10.2-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.10.25-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.10.33-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.10.7-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.8.102-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.8.111-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.8.128-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.8.131-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.8.82-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.8.90-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.8.92-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.9.12-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.9.14-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.9.23-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.9.26-rc
+- pkg:nuget/Nerdbank.MessagePack.SignalR@0.9.35-rc

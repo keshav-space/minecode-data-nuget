@@ -1,0 +1,13 @@
+- pkg:nuget/Maa.Framework.Native@2.0.1
+- pkg:nuget/Maa.Framework.Native@2.0.1-rc.1
+- pkg:nuget/Maa.Framework.Native@2.0.3
+- pkg:nuget/Maa.Framework.Native@2.1.2
+- pkg:nuget/Maa.Framework.Native@2.3.1
+- pkg:nuget/Maa.Framework.Native@3.0.4
+- pkg:nuget/Maa.Framework.Native@4.0.0
+- pkg:nuget/Maa.Framework.Native@4.2.0
+- pkg:nuget/Maa.Framework.Native@4.4.0
+- pkg:nuget/Maa.Framework.Native@4.4.0-preview.1
+- pkg:nuget/Maa.Framework.Native@4.4.0-preview.2
+- pkg:nuget/Maa.Framework.Native@4.5.0
+- pkg:nuget/Maa.Framework.Native@4.5.0-preview.1

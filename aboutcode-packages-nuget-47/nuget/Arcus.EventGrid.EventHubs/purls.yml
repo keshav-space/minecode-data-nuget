@@ -1,0 +1,14 @@
+- pkg:nuget/Arcus.EventGrid.EventHubs@0.0.1-preview
+- pkg:nuget/Arcus.EventGrid.EventHubs@0.0.2-preview
+- pkg:nuget/Arcus.EventGrid.EventHubs@1.0.0
+- pkg:nuget/Arcus.EventGrid.EventHubs@1.0.1
+- pkg:nuget/Arcus.EventGrid.EventHubs@1.0.2
+- pkg:nuget/Arcus.EventGrid.EventHubs@1.0.2-preview
+- pkg:nuget/Arcus.EventGrid.EventHubs@1.1.0
+- pkg:nuget/Arcus.EventGrid.EventHubs@1.2.0-hybrid-connection-logging
+- pkg:nuget/Arcus.EventGrid.EventHubs@1.2.0-hybrid-connection-logging-2
+- pkg:nuget/Arcus.EventGrid.EventHubs@2.0.0
+- pkg:nuget/Arcus.EventGrid.EventHubs@2.1.0
+- pkg:nuget/Arcus.EventGrid.EventHubs@2.2.0
+- pkg:nuget/Arcus.EventGrid.EventHubs@2.3.0
+- pkg:nuget/Arcus.EventGrid.EventHubs@2.4.0

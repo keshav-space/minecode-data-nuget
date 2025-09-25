@@ -1,0 +1,9 @@
+- pkg:nuget/xunit.runner.xamarin@0.99.1-beta-build1011
+- pkg:nuget/xunit.runner.xamarin@0.99.3-beta4-build1017
+- pkg:nuget/xunit.runner.xamarin@0.99.5-beta5
+- pkg:nuget/xunit.runner.xamarin@0.99.6-beta5
+- pkg:nuget/xunit.runner.xamarin@0.99.7-rc1
+- pkg:nuget/xunit.runner.xamarin@0.99.7-rc1-update1
+- pkg:nuget/xunit.runner.xamarin@1.0.0
+- pkg:nuget/xunit.runner.xamarin@1.0.0-rc2
+- pkg:nuget/xunit.runner.xamarin@1.0.0-rc3

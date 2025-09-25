@@ -1,0 +1,5 @@
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.RabbitMq@1.0.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.RabbitMq@1.0.2
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.RabbitMq@1.0.3
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.RabbitMq@1.0.7
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.RabbitMq@1.1.4

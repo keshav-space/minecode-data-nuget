@@ -1,0 +1,12 @@
+- pkg:nuget/MQContract.ActiveMQ@1.1.0
+- pkg:nuget/MQContract.ActiveMQ@2.0.0
+- pkg:nuget/MQContract.ActiveMQ@2.0.1
+- pkg:nuget/MQContract.ActiveMQ@2.1.0
+- pkg:nuget/MQContract.ActiveMQ@2.2.0
+- pkg:nuget/MQContract.ActiveMQ@2.3.0
+- pkg:nuget/MQContract.ActiveMQ@2.5.0
+- pkg:nuget/MQContract.ActiveMQ@2.5.1
+- pkg:nuget/MQContract.ActiveMQ@2.6.0
+- pkg:nuget/MQContract.ActiveMQ@2.6.1
+- pkg:nuget/MQContract.ActiveMQ@2.7.0
+- pkg:nuget/MQContract.ActiveMQ@2.8.0

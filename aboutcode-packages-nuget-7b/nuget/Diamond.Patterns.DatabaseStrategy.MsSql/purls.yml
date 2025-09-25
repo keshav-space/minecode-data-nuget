@@ -1,0 +1,8 @@
+- pkg:nuget/Diamond.Patterns.DatabaseStrategy.MsSql@2.11.0
+- pkg:nuget/Diamond.Patterns.DatabaseStrategy.MsSql@2.13.0
+- pkg:nuget/Diamond.Patterns.DatabaseStrategy.MsSql@2.3.0
+- pkg:nuget/Diamond.Patterns.DatabaseStrategy.MsSql@2.4.0
+- pkg:nuget/Diamond.Patterns.DatabaseStrategy.MsSql@2.6.0
+- pkg:nuget/Diamond.Patterns.DatabaseStrategy.MsSql@2.7.0
+- pkg:nuget/Diamond.Patterns.DatabaseStrategy.MsSql@2.9.0
+- pkg:nuget/Diamond.Patterns.DatabaseStrategy.MsSql@2.9.1

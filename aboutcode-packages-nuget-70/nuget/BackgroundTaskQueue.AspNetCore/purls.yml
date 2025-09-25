@@ -1,0 +1,4 @@
+- pkg:nuget/BackgroundTaskQueue.AspNetCore@1.0.0
+- pkg:nuget/BackgroundTaskQueue.AspNetCore@2.0.0
+- pkg:nuget/BackgroundTaskQueue.AspNetCore@2.0.1
+- pkg:nuget/BackgroundTaskQueue.AspNetCore@2.1.0

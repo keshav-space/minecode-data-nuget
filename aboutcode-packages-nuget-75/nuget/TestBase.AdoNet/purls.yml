@@ -1,0 +1,16 @@
+- pkg:nuget/TestBase.AdoNet@4.0.1
+- pkg:nuget/TestBase.AdoNet@4.0.2
+- pkg:nuget/TestBase.AdoNet@4.0.3
+- pkg:nuget/TestBase.AdoNet@4.0.4
+- pkg:nuget/TestBase.AdoNet@4.0.5.2
+- pkg:nuget/TestBase.AdoNet@4.0.6.1
+- pkg:nuget/TestBase.AdoNet@4.0.6.2
+- pkg:nuget/TestBase.AdoNet@4.0.7
+- pkg:nuget/TestBase.AdoNet@4.0.9
+- pkg:nuget/TestBase.AdoNet@4.1.0
+- pkg:nuget/TestBase.AdoNet@4.1.2.4
+- pkg:nuget/TestBase.AdoNet@4.1.3
+- pkg:nuget/TestBase.AdoNet@4.1.4.3
+- pkg:nuget/TestBase.AdoNet@4.1.5
+- pkg:nuget/TestBase.AdoNet@5.0.0
+- pkg:nuget/TestBase.AdoNet@5.1.0-prerelease1

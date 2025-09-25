@@ -1,0 +1,4 @@
+- pkg:nuget/Woodman.EntityFrameworkCore.Bulk@1.0.0
+- pkg:nuget/Woodman.EntityFrameworkCore.Bulk@2.0.0
+- pkg:nuget/Woodman.EntityFrameworkCore.Bulk@2.1.0
+- pkg:nuget/Woodman.EntityFrameworkCore.Bulk@3.0.0
