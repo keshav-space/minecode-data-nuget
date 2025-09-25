@@ -1,0 +1,3 @@
+- pkg:nuget/AspNet4x.Diagnostics.HealthChecks@1.0.0
+- pkg:nuget/AspNet4x.Diagnostics.HealthChecks@1.0.1
+- pkg:nuget/AspNet4x.Diagnostics.HealthChecks@1.0.2

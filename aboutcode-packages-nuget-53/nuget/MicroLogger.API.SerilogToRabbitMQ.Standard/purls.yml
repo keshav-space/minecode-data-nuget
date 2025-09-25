@@ -1,0 +1,6 @@
+- pkg:nuget/MicroLogger.API.SerilogToRabbitMQ.Standard@1.0.7
+- pkg:nuget/MicroLogger.API.SerilogToRabbitMQ.Standard@1.0.8
+- pkg:nuget/MicroLogger.API.SerilogToRabbitMQ.Standard@1.0.9
+- pkg:nuget/MicroLogger.API.SerilogToRabbitMQ.Standard@1.1.0
+- pkg:nuget/MicroLogger.API.SerilogToRabbitMQ.Standard@1.1.1
+- pkg:nuget/MicroLogger.API.SerilogToRabbitMQ.Standard@1.1.2

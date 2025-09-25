@@ -1,0 +1,6 @@
+- pkg:nuget/TourismApp.Core@1.0.0
+- pkg:nuget/TourismApp.Core@2.0.0
+- pkg:nuget/TourismApp.Core@3.0.0
+- pkg:nuget/TourismApp.Core@4.0.0
+- pkg:nuget/TourismApp.Core@5.0.0
+- pkg:nuget/TourismApp.Core@6.0.0

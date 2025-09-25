@@ -1,0 +1,4 @@
+- pkg:nuget/Merchello.Plugins.SendGridNotifications@1.0.3-beta
+- pkg:nuget/Merchello.Plugins.SendGridNotifications@1.0.4-beta
+- pkg:nuget/Merchello.Plugins.SendGridNotifications@1.0.5
+- pkg:nuget/Merchello.Plugins.SendGridNotifications@1.1.6

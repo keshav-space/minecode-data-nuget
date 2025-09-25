@@ -1,0 +1,16 @@
+- pkg:nuget/Digi-Ants.Revit.API.Core@2018.0.0
+- pkg:nuget/Digi-Ants.Revit.API.Core@2019.0.0
+- pkg:nuget/Digi-Ants.Revit.API.Core@2020.0.0
+- pkg:nuget/Digi-Ants.Revit.API.Core@2020.0.1
+- pkg:nuget/Digi-Ants.Revit.API.Core@2021.0.0
+- pkg:nuget/Digi-Ants.Revit.API.Core@2021.0.1
+- pkg:nuget/Digi-Ants.Revit.API.Core@2022.0.0
+- pkg:nuget/Digi-Ants.Revit.API.Core@2022.0.1
+- pkg:nuget/Digi-Ants.Revit.API.Core@2023.0.0
+- pkg:nuget/Digi-Ants.Revit.API.Core@2023.0.1
+- pkg:nuget/Digi-Ants.Revit.API.Core@2024.0.0
+- pkg:nuget/Digi-Ants.Revit.API.Core@2024.0.1
+- pkg:nuget/Digi-Ants.Revit.API.Core@2024.0.1.1
+- pkg:nuget/Digi-Ants.Revit.API.Core@2025.0.0
+- pkg:nuget/Digi-Ants.Revit.API.Core@2025.0.1
+- pkg:nuget/Digi-Ants.Revit.API.Core@2026.0.0

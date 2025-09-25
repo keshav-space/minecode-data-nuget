@@ -1,0 +1,4 @@
+- pkg:nuget/BackTesting@1.0.0
+- pkg:nuget/BackTesting@2.0.0
+- pkg:nuget/BackTesting@3.0.0
+- pkg:nuget/BackTesting@3.0.1

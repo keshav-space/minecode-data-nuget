@@ -1,0 +1,2 @@
+- pkg:nuget/GoreRemoting.Serialization.Protobuf@0.0.2
+- pkg:nuget/GoreRemoting.Serialization.Protobuf@0.0.3

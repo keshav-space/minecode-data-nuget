@@ -1,0 +1,4 @@
+- pkg:nuget/Pulumi.Harvester@0.0.1-alpha.1651823699%2B70d417a2
+- pkg:nuget/Pulumi.Harvester@0.1.0
+- pkg:nuget/Pulumi.Harvester@0.1.1
+- pkg:nuget/Pulumi.Harvester@0.1.2

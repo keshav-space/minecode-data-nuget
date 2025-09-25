@@ -1,0 +1,6 @@
+- pkg:nuget/PS.IoC.Microsoft.DependencyInjection@2.13.0
+- pkg:nuget/PS.IoC.Microsoft.DependencyInjection@2.13.1
+- pkg:nuget/PS.IoC.Microsoft.DependencyInjection@2.13.2
+- pkg:nuget/PS.IoC.Microsoft.DependencyInjection@2.13.3
+- pkg:nuget/PS.IoC.Microsoft.DependencyInjection@2.15.0
+- pkg:nuget/PS.IoC.Microsoft.DependencyInjection@2.16.0

@@ -1,0 +1,6 @@
+- pkg:nuget/H3@1.0.0
+- pkg:nuget/H3@3.2.0
+- pkg:nuget/H3@3.2.0-alpha
+- pkg:nuget/H3@3.2.0-beta
+- pkg:nuget/H3@3.2.1-rc
+- pkg:nuget/H3@3.2.1-rc1

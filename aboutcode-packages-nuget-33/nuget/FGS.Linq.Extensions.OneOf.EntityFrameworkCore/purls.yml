@@ -1,0 +1,7 @@
+- pkg:nuget/FGS.Linq.Extensions.OneOf.EntityFrameworkCore@2019.12.13.1
+- pkg:nuget/FGS.Linq.Extensions.OneOf.EntityFrameworkCore@2019.12.16.2
+- pkg:nuget/FGS.Linq.Extensions.OneOf.EntityFrameworkCore@2019.12.9.1
+- pkg:nuget/FGS.Linq.Extensions.OneOf.EntityFrameworkCore@2019.12.9.2
+- pkg:nuget/FGS.Linq.Extensions.OneOf.EntityFrameworkCore@2020.1.15.1
+- pkg:nuget/FGS.Linq.Extensions.OneOf.EntityFrameworkCore@2020.2.13.1
+- pkg:nuget/FGS.Linq.Extensions.OneOf.EntityFrameworkCore@2020.8.3.2

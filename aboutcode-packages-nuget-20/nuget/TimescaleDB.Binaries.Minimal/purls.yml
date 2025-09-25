@@ -1,0 +1,2 @@
+- pkg:nuget/TimescaleDB.Binaries.Minimal@15.2.1
+- pkg:nuget/TimescaleDB.Binaries.Minimal@15.2.1-rc2

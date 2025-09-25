@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent.TestInstallHelper@1.0.0
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent.TestInstallHelper@1.0.1
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent.TestInstallHelper@1.0.2
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent.TestInstallHelper@2.4.50421.5
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent.TestInstallHelper@2.4.50421.6
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent.TestInstallHelper@2.4.50421.7

@@ -1,0 +1,4 @@
+- pkg:nuget/Z.MySql.Data.Entity@6.3.0-preview1
+- pkg:nuget/Z.MySql.Data.Entity@8.0.0
+- pkg:nuget/Z.MySql.Data.Entity@8.0.0-preview1
+- pkg:nuget/Z.MySql.Data.Entity@8.0.0-preview2

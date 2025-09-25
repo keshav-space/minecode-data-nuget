@@ -1,0 +1,4 @@
+- pkg:nuget/SlimCluster.Host@0.8.0
+- pkg:nuget/SlimCluster.Host@0.8.0-rc1
+- pkg:nuget/SlimCluster.Host@0.8.1
+- pkg:nuget/SlimCluster.Host@0.9.0

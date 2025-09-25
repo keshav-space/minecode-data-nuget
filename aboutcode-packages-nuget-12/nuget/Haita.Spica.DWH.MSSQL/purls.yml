@@ -1,0 +1,6 @@
+- pkg:nuget/Haita.Spica.DWH.MSSQL@8.2.2.2
+- pkg:nuget/Haita.Spica.DWH.MSSQL@8.2.3.1
+- pkg:nuget/Haita.Spica.DWH.MSSQL@8.2.3.2
+- pkg:nuget/Haita.Spica.DWH.MSSQL@8.3.0
+- pkg:nuget/Haita.Spica.DWH.MSSQL@8.4.0
+- pkg:nuget/Haita.Spica.DWH.MSSQL@8.5.0

@@ -1,0 +1,7 @@
+- pkg:nuget/Athena.Infrastructure.EventStorage.SqlSugar@7.0.0-preview.20231201.1
+- pkg:nuget/Athena.Infrastructure.EventStorage.SqlSugar@7.0.0-preview.20231201.2
+- pkg:nuget/Athena.Infrastructure.EventStorage.SqlSugar@7.0.0-preview.20231201.3
+- pkg:nuget/Athena.Infrastructure.EventStorage.SqlSugar@7.0.0-preview.20231208.1
+- pkg:nuget/Athena.Infrastructure.EventStorage.SqlSugar@7.0.5
+- pkg:nuget/Athena.Infrastructure.EventStorage.SqlSugar@8.0.0
+- pkg:nuget/Athena.Infrastructure.EventStorage.SqlSugar@8.1.0

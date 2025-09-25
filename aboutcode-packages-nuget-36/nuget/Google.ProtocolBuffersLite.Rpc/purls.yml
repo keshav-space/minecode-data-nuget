@@ -1,0 +1,6 @@
+- pkg:nuget/Google.ProtocolBuffersLite.Rpc@1.12.919.12
+- pkg:nuget/Google.ProtocolBuffersLite.Rpc@1.12.919.16
+- pkg:nuget/Google.ProtocolBuffersLite.Rpc@1.13.507.19
+- pkg:nuget/Google.ProtocolBuffersLite.Rpc@14.1218.1855.1093-dev
+- pkg:nuget/Google.ProtocolBuffersLite.Rpc@14.1218.1900.1094-dev
+- pkg:nuget/Google.ProtocolBuffersLite.Rpc@14.1218.1914.1097

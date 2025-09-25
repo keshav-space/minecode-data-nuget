@@ -1,0 +1,7 @@
+- pkg:nuget/Confi@2024.110.108.1-dotnet-confi-core
+- pkg:nuget/Confi@2024.110.108.2
+- pkg:nuget/Confi@2024.110.108.3-confi-usage-updated
+- pkg:nuget/Confi@2024.110.108.4
+- pkg:nuget/Confi@2025.102.125.5-v0.4
+- pkg:nuget/Confi@2025.105.114.6-v0.5
+- pkg:nuget/Confi@2025.106.104.7-v0.6

@@ -1,0 +1,5 @@
+- pkg:nuget/CdIts.Npgsql.AadExtensions@7.0.0
+- pkg:nuget/CdIts.Npgsql.AadExtensions@7.0.0-pre.2
+- pkg:nuget/CdIts.Npgsql.AadExtensions@7.0.1
+- pkg:nuget/CdIts.Npgsql.AadExtensions@7.0.2
+- pkg:nuget/CdIts.Npgsql.AadExtensions@8.0.0

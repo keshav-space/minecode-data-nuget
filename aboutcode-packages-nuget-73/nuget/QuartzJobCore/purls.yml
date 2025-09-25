@@ -1,0 +1,3 @@
+- pkg:nuget/QuartzJobCore@1.0.0
+- pkg:nuget/QuartzJobCore@1.0.1
+- pkg:nuget/QuartzJobCore@1.0.2

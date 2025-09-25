@@ -1,0 +1,4 @@
+- pkg:nuget/MassTransit.Contrib.EntityFrameworkCore3@0.1.0-azure-pipelines.1
+- pkg:nuget/MassTransit.Contrib.EntityFrameworkCore3@0.1.0-azure-pipelines0001
+- pkg:nuget/MassTransit.Contrib.EntityFrameworkCore3@0.1.3-azure-pipelines.37
+- pkg:nuget/MassTransit.Contrib.EntityFrameworkCore3@1.0.0-azure-pipelines.38

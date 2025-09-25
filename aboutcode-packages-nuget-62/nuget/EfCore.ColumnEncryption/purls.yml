@@ -1,0 +1,3 @@
+- pkg:nuget/EfCore.ColumnEncryption@1.0.0
+- pkg:nuget/EfCore.ColumnEncryption@1.0.1
+- pkg:nuget/EfCore.ColumnEncryption@1.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/Samhammer.DependencyInjection.Override@3.1.6
+- pkg:nuget/Samhammer.DependencyInjection.Override@6.1.0
+- pkg:nuget/Samhammer.DependencyInjection.Override@6.1.1
+- pkg:nuget/Samhammer.DependencyInjection.Override@8.0.0
+- pkg:nuget/Samhammer.DependencyInjection.Override@8.0.1

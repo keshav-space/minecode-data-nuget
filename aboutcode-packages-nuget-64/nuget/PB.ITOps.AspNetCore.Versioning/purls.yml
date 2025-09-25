@@ -1,0 +1,5 @@
+- pkg:nuget/PB.ITOps.AspNetCore.Versioning@0.0.0
+- pkg:nuget/PB.ITOps.AspNetCore.Versioning@0.0.1
+- pkg:nuget/PB.ITOps.AspNetCore.Versioning@1.0.0
+- pkg:nuget/PB.ITOps.AspNetCore.Versioning@1.0.1
+- pkg:nuget/PB.ITOps.AspNetCore.Versioning@2.0.2

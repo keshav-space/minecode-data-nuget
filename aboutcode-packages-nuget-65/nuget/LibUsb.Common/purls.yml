@@ -1,0 +1,5 @@
+- pkg:nuget/LibUsb.Common@2.2.10-r105
+- pkg:nuget/LibUsb.Common@2.2.10-r108
+- pkg:nuget/LibUsb.Common@2.2.10-r110
+- pkg:nuget/LibUsb.Common@2.2.10-r112
+- pkg:nuget/LibUsb.Common@2.2.18

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.CodeAnalysis.CSharp.EditorFeatures@3.9.0-5.21120.8
+- pkg:nuget/Microsoft.CodeAnalysis.CSharp.EditorFeatures@5.0.0-1.25277.114

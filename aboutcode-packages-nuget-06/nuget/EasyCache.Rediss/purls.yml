@@ -1,0 +1,11 @@
+- pkg:nuget/EasyCache.Rediss@0.5.0
+- pkg:nuget/EasyCache.Rediss@0.6.1
+- pkg:nuget/EasyCache.Rediss@0.7.0
+- pkg:nuget/EasyCache.Rediss@0.7.1
+- pkg:nuget/EasyCache.Rediss@0.7.2
+- pkg:nuget/EasyCache.Rediss@0.7.2-PullRequest0001.6
+- pkg:nuget/EasyCache.Rediss@0.8.0
+- pkg:nuget/EasyCache.Rediss@0.8.1
+- pkg:nuget/EasyCache.Rediss@1.0.0
+- pkg:nuget/EasyCache.Rediss@1.0.1
+- pkg:nuget/EasyCache.Rediss@1.0.2

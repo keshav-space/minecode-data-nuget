@@ -1,0 +1,3 @@
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.Sbom@1.0.0
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.Sbom@1.0.0-alpha
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.Sbom@1.0.0-bravo

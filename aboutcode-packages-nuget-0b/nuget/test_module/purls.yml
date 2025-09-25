@@ -1,0 +1,5 @@
+- pkg:nuget/test_module@1.0.0
+- pkg:nuget/test_module@2.5.0-beta
+- pkg:nuget/test_module@3.0.0
+- pkg:nuget/test_module@5.0.0
+- pkg:nuget/test_module@5.2.5-alpha001

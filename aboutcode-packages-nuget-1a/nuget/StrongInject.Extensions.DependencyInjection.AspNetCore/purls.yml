@@ -1,0 +1,17 @@
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.0
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.1
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.2
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.2-CI-20211216-082115
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.3
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.3-CI-20211216-083886
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.3-CI-20211220-054404
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.4
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.4-CI-20211220-055863
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.4-CI-20220103-044963
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.4-CI-20220103-074127
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.4-CI-20220103-185238
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.4-CI-20220105-191205
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.4-CI-20220329-071418
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.4-CI-20220403-131364
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.5-CI-20220515-174956
+- pkg:nuget/StrongInject.Extensions.DependencyInjection.AspNetCore@1.4.5-CI-20220524-023137

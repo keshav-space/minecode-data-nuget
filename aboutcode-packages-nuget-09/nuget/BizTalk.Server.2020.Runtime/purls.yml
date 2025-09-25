@@ -1,0 +1,4 @@
+- pkg:nuget/BizTalk.Server.2020.Runtime@1.0.0
+- pkg:nuget/BizTalk.Server.2020.Runtime@1.0.1
+- pkg:nuget/BizTalk.Server.2020.Runtime@1.0.3
+- pkg:nuget/BizTalk.Server.2020.Runtime@1.0.4
