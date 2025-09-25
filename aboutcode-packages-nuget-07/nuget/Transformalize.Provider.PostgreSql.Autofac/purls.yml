@@ -1,0 +1,2 @@
+- pkg:nuget/Transformalize.Provider.PostgreSql.Autofac@0.4.0-beta
+- pkg:nuget/Transformalize.Provider.PostgreSql.Autofac@0.6.28-beta

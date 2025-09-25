@@ -1,0 +1,14 @@
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@0.0.1-preview.4
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@2.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@2.1.0-preview-128
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@2.1.0-preview-129
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@2.1.0-preview-166
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@2.1.0-preview-175
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@3.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@3.0.0-preview-56
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@4.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@4.0.1
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@4.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@5.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@5.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.RabbitMQ@6.0.0-preview-15

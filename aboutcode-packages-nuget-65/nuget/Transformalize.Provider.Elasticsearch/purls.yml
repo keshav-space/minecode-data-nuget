@@ -1,0 +1,6 @@
+- pkg:nuget/Transformalize.Provider.Elasticsearch@0.3.12-beta
+- pkg:nuget/Transformalize.Provider.Elasticsearch@0.3.25-beta
+- pkg:nuget/Transformalize.Provider.Elasticsearch@0.3.4-beta
+- pkg:nuget/Transformalize.Provider.Elasticsearch@0.3.5-beta
+- pkg:nuget/Transformalize.Provider.Elasticsearch@0.6.28-beta
+- pkg:nuget/Transformalize.Provider.Elasticsearch@0.7.6-beta

@@ -1,0 +1,13 @@
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.3.0
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.3.1
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.3.2
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.3.3
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.3.4
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.3.5
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.3.6
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.4.0
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.4.2
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.5.0
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.5.1
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.5.2
+- pkg:nuget/YuckQi.Data.DocumentDb.DynamoDb@6.5.3

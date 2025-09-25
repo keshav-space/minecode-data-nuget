@@ -1,0 +1,14 @@
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@2.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@2.2.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@3.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@3.0.0-preview
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@3.0.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@3.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@3.1.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@3.1.2
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@3.1.3
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@5.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@6.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@7.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@8.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers.Views.ActionResults@9.0.0

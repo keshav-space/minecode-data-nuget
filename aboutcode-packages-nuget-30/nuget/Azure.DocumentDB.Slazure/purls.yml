@@ -1,0 +1,5 @@
+- pkg:nuget/Azure.DocumentDB.Slazure@1.2.2
+- pkg:nuget/Azure.DocumentDB.Slazure@1.2.2.1
+- pkg:nuget/Azure.DocumentDB.Slazure@1.4.0
+- pkg:nuget/Azure.DocumentDB.Slazure@1.4.1
+- pkg:nuget/Azure.DocumentDB.Slazure@1.4.2

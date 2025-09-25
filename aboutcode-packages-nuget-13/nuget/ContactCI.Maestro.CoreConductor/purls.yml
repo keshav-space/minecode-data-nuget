@@ -1,0 +1,3 @@
+- pkg:nuget/ContactCI.Maestro.CoreConductor@2.1.29-beta
+- pkg:nuget/ContactCI.Maestro.CoreConductor@2.2.30-beta
+- pkg:nuget/ContactCI.Maestro.CoreConductor@2.3.12

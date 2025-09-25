@@ -1,0 +1,9 @@
+- pkg:nuget/NEventStore.PollingClient@10.0.0
+- pkg:nuget/NEventStore.PollingClient@10.1.0
+- pkg:nuget/NEventStore.PollingClient@10.1.1
+- pkg:nuget/NEventStore.PollingClient@7.0.0
+- pkg:nuget/NEventStore.PollingClient@8.0.0
+- pkg:nuget/NEventStore.PollingClient@9.0.0
+- pkg:nuget/NEventStore.PollingClient@9.0.1
+- pkg:nuget/NEventStore.PollingClient@9.1.1
+- pkg:nuget/NEventStore.PollingClient@9.2.0

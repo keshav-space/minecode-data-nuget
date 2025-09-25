@@ -1,0 +1,5 @@
+- pkg:nuget/AKSoftware.WebApi@1.0.0
+- pkg:nuget/AKSoftware.WebApi@1.7.0
+- pkg:nuget/AKSoftware.WebApi@2.0.0
+- pkg:nuget/AKSoftware.WebApi@3.0.0
+- pkg:nuget/AKSoftware.WebApi@3.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Protobuild.TestInstall@0.0.0-SHA1dd9fddb68f2021270dc1de33272cbc100fdcfbd
+- pkg:nuget/Protobuild.TestInstall@0.0.0-SHA5bb10d267b64a95bcf0b4e1d96ebc09f81236818
+- pkg:nuget/Protobuild.TestInstall@0.0.0-SHA8bb217e4429f20a8b2bf12505b842e302730b458
+- pkg:nuget/Protobuild.TestInstall@16.1120.60313
+- pkg:nuget/Protobuild.TestInstall@16.1120.60313%2Bgit.unspecified

@@ -1,0 +1,16 @@
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@1.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@2.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@2.2.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@3.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@3.0.0-preview
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@3.0.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@3.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@3.1.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@3.1.2
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@3.1.3
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@5.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@6.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@7.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@8.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ViewData@9.0.0

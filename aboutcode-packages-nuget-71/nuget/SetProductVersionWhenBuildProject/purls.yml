@@ -1,0 +1,4 @@
+- pkg:nuget/SetProductVersionWhenBuildProject@1.0.1
+- pkg:nuget/SetProductVersionWhenBuildProject@1.0.2
+- pkg:nuget/SetProductVersionWhenBuildProject@1.0.3
+- pkg:nuget/SetProductVersionWhenBuildProject@1.0.4

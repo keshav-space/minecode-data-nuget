@@ -1,0 +1,12 @@
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@7.0.4
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@7.0.5
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@7.0.6
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@7.0.7
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@7.0.8
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@7.0.9
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@7.1.0
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@7.1.1
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@8.0.0
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@8.0.10
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@9.0.0
+- pkg:nuget/EntityFrameworkCore.RepositoryInfrastructure@9.0.3

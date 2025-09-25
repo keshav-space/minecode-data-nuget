@@ -1,0 +1,3 @@
+- pkg:nuget/CouchbaseNetClient-InTheLoop@3.0.0-master-beta5
+- pkg:nuget/CouchbaseNetClient-InTheLoop@3.0.0-masterlatest
+- pkg:nuget/CouchbaseNetClient-InTheLoop@3.0.5-master

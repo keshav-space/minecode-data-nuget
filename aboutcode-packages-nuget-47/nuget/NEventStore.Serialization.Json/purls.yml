@@ -1,0 +1,17 @@
+- pkg:nuget/NEventStore.Serialization.Json@10.0.0
+- pkg:nuget/NEventStore.Serialization.Json@10.1.0
+- pkg:nuget/NEventStore.Serialization.Json@10.1.1
+- pkg:nuget/NEventStore.Serialization.Json@4.0.0.15
+- pkg:nuget/NEventStore.Serialization.Json@4.1.0.10
+- pkg:nuget/NEventStore.Serialization.Json@4.1.0.7
+- pkg:nuget/NEventStore.Serialization.Json@4.1.0.8
+- pkg:nuget/NEventStore.Serialization.Json@6.0.0
+- pkg:nuget/NEventStore.Serialization.Json@6.0.0-rc-0
+- pkg:nuget/NEventStore.Serialization.Json@6.0.0-rc-1
+- pkg:nuget/NEventStore.Serialization.Json@6.1.0
+- pkg:nuget/NEventStore.Serialization.Json@7.0.0
+- pkg:nuget/NEventStore.Serialization.Json@8.0.0
+- pkg:nuget/NEventStore.Serialization.Json@9.0.0
+- pkg:nuget/NEventStore.Serialization.Json@9.0.1
+- pkg:nuget/NEventStore.Serialization.Json@9.1.1
+- pkg:nuget/NEventStore.Serialization.Json@9.2.0

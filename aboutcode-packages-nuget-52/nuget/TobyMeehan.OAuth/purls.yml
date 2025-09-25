@@ -1,0 +1,4 @@
+- pkg:nuget/TobyMeehan.OAuth@1.0.0
+- pkg:nuget/TobyMeehan.OAuth@1.0.1
+- pkg:nuget/TobyMeehan.OAuth@1.1.0-beta
+- pkg:nuget/TobyMeehan.OAuth@1.1.1-beta

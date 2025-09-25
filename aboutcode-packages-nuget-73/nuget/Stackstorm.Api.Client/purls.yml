@@ -1,0 +1,7 @@
+- pkg:nuget/Stackstorm.Api.Client@1.0.7
+- pkg:nuget/Stackstorm.Api.Client@2.0.0
+- pkg:nuget/Stackstorm.Api.Client@2.1.0
+- pkg:nuget/Stackstorm.Api.Client@2.2.2
+- pkg:nuget/Stackstorm.Api.Client@2.3.0
+- pkg:nuget/Stackstorm.Api.Client@2.4.0
+- pkg:nuget/Stackstorm.Api.Client@2.5.0

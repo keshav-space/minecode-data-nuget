@@ -1,0 +1,4 @@
+- pkg:nuget/Prism.Unity.Windows@7.0.0.269-ci
+- pkg:nuget/Prism.Unity.Windows@7.0.0.269-pre
+- pkg:nuget/Prism.Unity.Windows@7.0.0.336-pre
+- pkg:nuget/Prism.Unity.Windows@7.2.0.1038-pre

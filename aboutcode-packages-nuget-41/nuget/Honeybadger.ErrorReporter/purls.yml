@@ -1,0 +1,4 @@
+- pkg:nuget/Honeybadger.ErrorReporter@1.0.0
+- pkg:nuget/Honeybadger.ErrorReporter@1.0.1
+- pkg:nuget/Honeybadger.ErrorReporter@1.0.2
+- pkg:nuget/Honeybadger.ErrorReporter@1.0.3

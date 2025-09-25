@@ -1,0 +1,4 @@
+- pkg:nuget/XDev.NLog.Targets.Syslog@0.0.99.7
+- pkg:nuget/XDev.NLog.Targets.Syslog@0.0.99.8
+- pkg:nuget/XDev.NLog.Targets.Syslog@8.0.0.1
+- pkg:nuget/XDev.NLog.Targets.Syslog@8.0.0.2

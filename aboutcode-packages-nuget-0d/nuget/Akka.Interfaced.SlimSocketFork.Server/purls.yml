@@ -1,0 +1,6 @@
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Server@0.1.0-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Server@0.2.0-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Server@0.2.1-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Server@0.3.0-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Server@0.4.0-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Server@0.4.2-beta

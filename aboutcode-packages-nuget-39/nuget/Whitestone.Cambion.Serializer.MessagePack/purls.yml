@@ -1,0 +1,8 @@
+- pkg:nuget/Whitestone.Cambion.Serializer.MessagePack@0.0.1-preview.4
+- pkg:nuget/Whitestone.Cambion.Serializer.MessagePack@3.0.0
+- pkg:nuget/Whitestone.Cambion.Serializer.MessagePack@3.0.0-preview-56
+- pkg:nuget/Whitestone.Cambion.Serializer.MessagePack@4.0.0
+- pkg:nuget/Whitestone.Cambion.Serializer.MessagePack@4.0.1
+- pkg:nuget/Whitestone.Cambion.Serializer.MessagePack@4.1.0
+- pkg:nuget/Whitestone.Cambion.Serializer.MessagePack@5.0.0
+- pkg:nuget/Whitestone.Cambion.Serializer.MessagePack@6.0.0-preview-15

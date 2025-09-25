@@ -1,0 +1,8 @@
+- pkg:nuget/Gibraltar.Agent.NLog4@4.0.0.3015-alpha
+- pkg:nuget/Gibraltar.Agent.NLog4@4.0.3.3459
+- pkg:nuget/Gibraltar.Agent.NLog4@4.10.1.3
+- pkg:nuget/Gibraltar.Agent.NLog4@4.6.4
+- pkg:nuget/Gibraltar.Agent.NLog4@4.7.10
+- pkg:nuget/Gibraltar.Agent.NLog4@5.0.0.13
+- pkg:nuget/Gibraltar.Agent.NLog4@5.0.0.14
+- pkg:nuget/Gibraltar.Agent.NLog4@5.0.0.5

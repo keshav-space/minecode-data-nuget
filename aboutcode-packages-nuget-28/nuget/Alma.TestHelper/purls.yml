@@ -1,0 +1,6 @@
+- pkg:nuget/Alma.TestHelper@3.19.102.1301-beta
+- pkg:nuget/Alma.TestHelper@3.19.210.1144-beta
+- pkg:nuget/Alma.TestHelper@3.19.210.1201-beta
+- pkg:nuget/Alma.TestHelper@3.19.210.1207-dev
+- pkg:nuget/Alma.TestHelper@3.19.210.1228-beta
+- pkg:nuget/Alma.TestHelper@3.19.210.1234-dev

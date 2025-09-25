@@ -1,0 +1,5 @@
+- pkg:nuget/CommonNetFuncs.Sql.PostgreSQL@1.0.11
+- pkg:nuget/CommonNetFuncs.Sql.PostgreSQL@1.0.14
+- pkg:nuget/CommonNetFuncs.Sql.PostgreSQL@1.0.28
+- pkg:nuget/CommonNetFuncs.Sql.PostgreSQL@3.3.11
+- pkg:nuget/CommonNetFuncs.Sql.PostgreSQL@3.4.18

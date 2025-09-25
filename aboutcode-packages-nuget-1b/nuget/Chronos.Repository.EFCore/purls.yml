@@ -1,0 +1,6 @@
+- pkg:nuget/Chronos.Repository.EFCore@1.0.0-alpha
+- pkg:nuget/Chronos.Repository.EFCore@1.0.0-alpha1
+- pkg:nuget/Chronos.Repository.EFCore@1.0.0-alpha3
+- pkg:nuget/Chronos.Repository.EFCore@20.0.0-alpha4
+- pkg:nuget/Chronos.Repository.EFCore@21.0.0-alpha5
+- pkg:nuget/Chronos.Repository.EFCore@21.0.0-alpha6

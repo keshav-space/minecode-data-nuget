@@ -1,0 +1,5 @@
+- pkg:nuget/WinFormsComInterop.SourceGenerator@0.2.6
+- pkg:nuget/WinFormsComInterop.SourceGenerator@0.2.8
+- pkg:nuget/WinFormsComInterop.SourceGenerator@0.2.9
+- pkg:nuget/WinFormsComInterop.SourceGenerator@0.3.0
+- pkg:nuget/WinFormsComInterop.SourceGenerator@0.4.1

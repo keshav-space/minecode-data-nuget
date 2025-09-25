@@ -1,0 +1,9 @@
+- pkg:nuget/NEventStore.Serialization.Bson@10.0.0
+- pkg:nuget/NEventStore.Serialization.Bson@10.1.0
+- pkg:nuget/NEventStore.Serialization.Bson@10.1.1
+- pkg:nuget/NEventStore.Serialization.Bson@7.0.0
+- pkg:nuget/NEventStore.Serialization.Bson@8.0.0
+- pkg:nuget/NEventStore.Serialization.Bson@9.0.0
+- pkg:nuget/NEventStore.Serialization.Bson@9.0.1
+- pkg:nuget/NEventStore.Serialization.Bson@9.1.1
+- pkg:nuget/NEventStore.Serialization.Bson@9.2.0

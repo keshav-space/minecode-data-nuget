@@ -1,0 +1,2 @@
+- pkg:nuget/TagCache.Redis.StackExchange@0.0.0.10
+- pkg:nuget/TagCache.Redis.StackExchange@0.0.0.11

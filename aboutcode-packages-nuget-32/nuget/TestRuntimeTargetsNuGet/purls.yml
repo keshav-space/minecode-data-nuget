@@ -1,0 +1,5 @@
+- pkg:nuget/TestRuntimeTargetsNuGet@1.0.0
+- pkg:nuget/TestRuntimeTargetsNuGet@2.0.0
+- pkg:nuget/TestRuntimeTargetsNuGet@3.0.0
+- pkg:nuget/TestRuntimeTargetsNuGet@4.0.0
+- pkg:nuget/TestRuntimeTargetsNuGet@5.0.0

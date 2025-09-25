@@ -1,0 +1,16 @@
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@0.0.1-preview.3
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@1.1.0-preview
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@2.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@2.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@2.1.0-preview-128
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@2.1.0-preview-129
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@2.1.0-preview-166
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@2.1.0-preview-175
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@3.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@3.0.0-preview-56
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@4.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@4.0.1
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@4.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@5.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@5.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.NetMQ@6.0.0-preview-15

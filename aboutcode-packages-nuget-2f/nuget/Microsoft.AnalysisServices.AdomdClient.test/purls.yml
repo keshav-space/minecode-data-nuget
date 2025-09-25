@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient.test@14.0.1.429
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient.test@14.0.700.339
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient.test@14.0.800.144
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient.test@140.700.339

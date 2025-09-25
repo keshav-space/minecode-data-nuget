@@ -1,0 +1,5 @@
+- pkg:nuget/BusMonitor.AzureServiceBus@1.0.0-preview.10
+- pkg:nuget/BusMonitor.AzureServiceBus@1.0.0-preview.11
+- pkg:nuget/BusMonitor.AzureServiceBus@1.0.0-preview.12
+- pkg:nuget/BusMonitor.AzureServiceBus@1.0.0-preview.13
+- pkg:nuget/BusMonitor.AzureServiceBus@1.0.0-preview.14

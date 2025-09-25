@@ -1,0 +1,8 @@
+- pkg:nuget/Unofficial.TeamFoundationServer.Client@10.0.0
+- pkg:nuget/Unofficial.TeamFoundationServer.Client@11.0.0
+- pkg:nuget/Unofficial.TeamFoundationServer.Client@11.0.1
+- pkg:nuget/Unofficial.TeamFoundationServer.Client@12.0.0
+- pkg:nuget/Unofficial.TeamFoundationServer.Client@8.0.0
+- pkg:nuget/Unofficial.TeamFoundationServer.Client@8.0.1
+- pkg:nuget/Unofficial.TeamFoundationServer.Client@9.0.0
+- pkg:nuget/Unofficial.TeamFoundationServer.Client@9.0.1

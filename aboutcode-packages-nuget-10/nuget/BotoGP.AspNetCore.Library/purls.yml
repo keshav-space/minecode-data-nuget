@@ -1,0 +1,4 @@
+- pkg:nuget/BotoGP.AspNetCore.Library@1.0.0-alpha
+- pkg:nuget/BotoGP.AspNetCore.Library@1.1.1-alpha
+- pkg:nuget/BotoGP.AspNetCore.Library@1.1.2-alpha
+- pkg:nuget/BotoGP.AspNetCore.Library@1.2.0-alpha

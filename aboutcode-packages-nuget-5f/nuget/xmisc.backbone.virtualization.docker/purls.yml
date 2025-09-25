@@ -1,0 +1,4 @@
+- pkg:nuget/xmisc.backbone.virtualization.docker@4.0.61-alpha
+- pkg:nuget/xmisc.backbone.virtualization.docker@4.0.65-alpha
+- pkg:nuget/xmisc.backbone.virtualization.docker@6.0.19
+- pkg:nuget/xmisc.backbone.virtualization.docker@8.2.12

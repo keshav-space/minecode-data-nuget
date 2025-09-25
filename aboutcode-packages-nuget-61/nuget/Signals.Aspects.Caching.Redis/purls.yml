@@ -1,0 +1,2 @@
+- pkg:nuget/Signals.Aspects.Caching.Redis@1.0.0
+- pkg:nuget/Signals.Aspects.Caching.Redis@3.0.0

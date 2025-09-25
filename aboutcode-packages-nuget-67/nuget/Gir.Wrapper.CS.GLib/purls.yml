@@ -1,0 +1,5 @@
+- pkg:nuget/Gir.Wrapper.CS.GLib@0.1.0-alpha.32
+- pkg:nuget/Gir.Wrapper.CS.GLib@0.1.0-alpha.36
+- pkg:nuget/Gir.Wrapper.CS.GLib@0.1.0-alpha.37
+- pkg:nuget/Gir.Wrapper.CS.GLib@0.1.0-tags-v0-1-1.1%2B20
+- pkg:nuget/Gir.Wrapper.CS.GLib@1.0.0

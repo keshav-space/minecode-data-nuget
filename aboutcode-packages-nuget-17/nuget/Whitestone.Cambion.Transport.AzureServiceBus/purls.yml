@@ -1,0 +1,15 @@
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@0.0.1-preview.3
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@2.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@2.1.0-preview-127
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@2.1.0-preview-128
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@2.1.0-preview-129
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@2.1.0-preview-166
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@2.1.0-preview-175
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@3.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@3.0.0-preview-56
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@4.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@4.0.1
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@4.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@5.0.0
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@5.1.0
+- pkg:nuget/Whitestone.Cambion.Transport.AzureServiceBus@6.0.0-preview-15

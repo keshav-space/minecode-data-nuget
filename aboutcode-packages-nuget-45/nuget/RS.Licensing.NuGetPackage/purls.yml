@@ -1,0 +1,5 @@
+- pkg:nuget/RS.Licensing.NuGetPackage@1.0.0
+- pkg:nuget/RS.Licensing.NuGetPackage@2.0.0
+- pkg:nuget/RS.Licensing.NuGetPackage@3.0.0
+- pkg:nuget/RS.Licensing.NuGetPackage@4.0.0
+- pkg:nuget/RS.Licensing.NuGetPackage@5.0.0

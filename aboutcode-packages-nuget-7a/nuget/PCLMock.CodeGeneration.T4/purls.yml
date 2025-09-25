@@ -1,0 +1,6 @@
+- pkg:nuget/PCLMock.CodeGeneration.T4@4.0.0
+- pkg:nuget/PCLMock.CodeGeneration.T4@5.0.0-alpha
+- pkg:nuget/PCLMock.CodeGeneration.T4@5.0.1-alpha
+- pkg:nuget/PCLMock.CodeGeneration.T4@5.0.2-alpha
+- pkg:nuget/PCLMock.CodeGeneration.T4@5.0.3-alpha
+- pkg:nuget/PCLMock.CodeGeneration.T4@5.0.4-alpha

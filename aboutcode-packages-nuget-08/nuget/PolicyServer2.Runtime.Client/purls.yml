@@ -1,0 +1,5 @@
+- pkg:nuget/PolicyServer2.Runtime.Client@2.0.0
+- pkg:nuget/PolicyServer2.Runtime.Client@2.1.0
+- pkg:nuget/PolicyServer2.Runtime.Client@2.1.0-preview
+- pkg:nuget/PolicyServer2.Runtime.Client@2.1.0-preview1
+- pkg:nuget/PolicyServer2.Runtime.Client@2.1.1

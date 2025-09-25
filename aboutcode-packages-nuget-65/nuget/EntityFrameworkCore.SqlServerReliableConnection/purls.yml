@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFrameworkCore.SqlServerReliableConnection@1.0.0
+- pkg:nuget/EntityFrameworkCore.SqlServerReliableConnection@1.0.0-rc2-11

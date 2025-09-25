@@ -1,0 +1,4 @@
+- pkg:nuget/Xkit.Logging.ConsoleLogger@0.1.0
+- pkg:nuget/Xkit.Logging.ConsoleLogger@0.1.10
+- pkg:nuget/Xkit.Logging.ConsoleLogger@0.1.11
+- pkg:nuget/Xkit.Logging.ConsoleLogger@0.1.13

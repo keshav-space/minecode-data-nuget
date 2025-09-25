@@ -1,0 +1,2 @@
+- pkg:nuget/PostSharp.Patterns.Caching.ServiceBus.Redist@5.0.11-preview
+- pkg:nuget/PostSharp.Patterns.Caching.ServiceBus.Redist@5.0.12-preview

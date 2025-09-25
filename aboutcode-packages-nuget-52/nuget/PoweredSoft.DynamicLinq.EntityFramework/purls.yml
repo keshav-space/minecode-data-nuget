@@ -1,0 +1,13 @@
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.0.0
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.0.1
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.0.2
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.0
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.10
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.10-beta
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.11
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.12
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.2
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.6
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.7
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.8
+- pkg:nuget/PoweredSoft.DynamicLinq.EntityFramework@1.1.9

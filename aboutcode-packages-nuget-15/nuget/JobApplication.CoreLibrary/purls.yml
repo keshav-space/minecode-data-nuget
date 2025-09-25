@@ -1,0 +1,8 @@
+- pkg:nuget/JobApplication.CoreLibrary@1.0.1
+- pkg:nuget/JobApplication.CoreLibrary@2.0.1
+- pkg:nuget/JobApplication.CoreLibrary@3.0.1
+- pkg:nuget/JobApplication.CoreLibrary@7.0.1
+- pkg:nuget/JobApplication.CoreLibrary@7.0.2
+- pkg:nuget/JobApplication.CoreLibrary@8.0.1
+- pkg:nuget/JobApplication.CoreLibrary@8.0.2
+- pkg:nuget/JobApplication.CoreLibrary@9.0.1

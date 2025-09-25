@@ -1,0 +1,2 @@
+- pkg:nuget/logstash-binary@7.8.0
+- pkg:nuget/logstash-binary@7.8.1

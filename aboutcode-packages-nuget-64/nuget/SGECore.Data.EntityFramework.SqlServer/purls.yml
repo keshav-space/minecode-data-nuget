@@ -1,0 +1,8 @@
+- pkg:nuget/SGECore.Data.EntityFramework.SqlServer@1.0.0
+- pkg:nuget/SGECore.Data.EntityFramework.SqlServer@1.1.0
+- pkg:nuget/SGECore.Data.EntityFramework.SqlServer@1.1.0-beta1
+- pkg:nuget/SGECore.Data.EntityFramework.SqlServer@1.1.1
+- pkg:nuget/SGECore.Data.EntityFramework.SqlServer@1.1.2
+- pkg:nuget/SGECore.Data.EntityFramework.SqlServer@1.2.0
+- pkg:nuget/SGECore.Data.EntityFramework.SqlServer@2.0.0
+- pkg:nuget/SGECore.Data.EntityFramework.SqlServer@2.0.0-beta1

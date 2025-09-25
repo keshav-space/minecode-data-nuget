@@ -1,0 +1,3 @@
+- pkg:nuget/Sigma.Core@0.2.3-alpha
+- pkg:nuget/Sigma.Core@0.3.0
+- pkg:nuget/Sigma.Core@0.5.0

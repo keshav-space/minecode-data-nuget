@@ -1,0 +1,4 @@
+- pkg:nuget/Aeolin.ReInject.PostInjectors.EventInjection@1.5.3
+- pkg:nuget/Aeolin.ReInject.PostInjectors.EventInjection@1.5.3.1
+- pkg:nuget/Aeolin.ReInject.PostInjectors.EventInjection@2.0.0
+- pkg:nuget/Aeolin.ReInject.PostInjectors.EventInjection@3.0.0

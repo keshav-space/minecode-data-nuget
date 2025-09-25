@@ -1,0 +1,3 @@
+- pkg:nuget/SendSlackMessage@1.0.0
+- pkg:nuget/SendSlackMessage@1.0.1
+- pkg:nuget/SendSlackMessage@1.0.2

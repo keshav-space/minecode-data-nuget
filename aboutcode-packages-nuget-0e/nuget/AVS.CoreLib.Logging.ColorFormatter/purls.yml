@@ -1,0 +1,5 @@
+- pkg:nuget/AVS.CoreLib.Logging.ColorFormatter@6.0.0-alpha
+- pkg:nuget/AVS.CoreLib.Logging.ColorFormatter@6.0.0-beta
+- pkg:nuget/AVS.CoreLib.Logging.ColorFormatter@7.0.0
+- pkg:nuget/AVS.CoreLib.Logging.ColorFormatter@7.0.1
+- pkg:nuget/AVS.CoreLib.Logging.ColorFormatter@9.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/PostSharp.Patterns.Caching.ServiceBus@5.0.10-preview
+- pkg:nuget/PostSharp.Patterns.Caching.ServiceBus@5.0.11-preview
+- pkg:nuget/PostSharp.Patterns.Caching.ServiceBus@5.0.12-preview

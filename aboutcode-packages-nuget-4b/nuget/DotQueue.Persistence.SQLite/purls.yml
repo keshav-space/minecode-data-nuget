@@ -1,0 +1,2 @@
+- pkg:nuget/DotQueue.Persistence.SQLite@1.0.0
+- pkg:nuget/DotQueue.Persistence.SQLite@1.0.7

@@ -1,0 +1,11 @@
+- pkg:nuget/Common.Logging.MultipleLogger@3.3.2-Alpha1
+- pkg:nuget/Common.Logging.MultipleLogger@3.3.2-Alpha2
+- pkg:nuget/Common.Logging.MultipleLogger@3.3.2-Alpha3
+- pkg:nuget/Common.Logging.MultipleLogger@3.4.0
+- pkg:nuget/Common.Logging.MultipleLogger@3.4.0-Alpha1
+- pkg:nuget/Common.Logging.MultipleLogger@3.4.0-Alpha2
+- pkg:nuget/Common.Logging.MultipleLogger@3.4.0-Beta1
+- pkg:nuget/Common.Logging.MultipleLogger@3.4.0-Beta2
+- pkg:nuget/Common.Logging.MultipleLogger@3.4.0-RC1
+- pkg:nuget/Common.Logging.MultipleLogger@3.4.1
+- pkg:nuget/Common.Logging.MultipleLogger@3.4.1-RC1

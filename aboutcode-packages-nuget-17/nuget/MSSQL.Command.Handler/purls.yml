@@ -1,0 +1,4 @@
+- pkg:nuget/MSSQL.Command.Handler@1.4.2
+- pkg:nuget/MSSQL.Command.Handler@1.4.3
+- pkg:nuget/MSSQL.Command.Handler@1.4.5
+- pkg:nuget/MSSQL.Command.Handler@1.4.6

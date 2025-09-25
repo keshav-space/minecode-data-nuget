@@ -1,0 +1,8 @@
+- pkg:nuget/BertoSoftware.DapperAuditContext.SQLite@0.4.0-beta
+- pkg:nuget/BertoSoftware.DapperAuditContext.SQLite@0.4.1-beta
+- pkg:nuget/BertoSoftware.DapperAuditContext.SQLite@0.4.2-beta
+- pkg:nuget/BertoSoftware.DapperAuditContext.SQLite@0.4.3-beta
+- pkg:nuget/BertoSoftware.DapperAuditContext.SQLite@0.5.0-beta
+- pkg:nuget/BertoSoftware.DapperAuditContext.SQLite@0.6.0-rc1
+- pkg:nuget/BertoSoftware.DapperAuditContext.SQLite@1.0.0
+- pkg:nuget/BertoSoftware.DapperAuditContext.SQLite@1.0.1

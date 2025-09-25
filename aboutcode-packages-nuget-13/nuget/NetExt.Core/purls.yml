@@ -1,0 +1,5 @@
+- pkg:nuget/NetExt.Core@0.0.1
+- pkg:nuget/NetExt.Core@0.0.1-beta
+- pkg:nuget/NetExt.Core@0.0.2
+- pkg:nuget/NetExt.Core@0.0.3
+- pkg:nuget/NetExt.Core@0.0.4

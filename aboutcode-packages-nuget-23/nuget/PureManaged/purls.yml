@@ -1,0 +1,11 @@
+- pkg:nuget/PureManaged@1.0.0-CI-20200224-014632
+- pkg:nuget/PureManaged@1.0.0-CI-20200224-064535
+- pkg:nuget/PureManaged@1.0.0-CI-20200224-071505
+- pkg:nuget/PureManaged@1.0.0-CI-20200224-211023
+- pkg:nuget/PureManaged@1.0.0-CI-20200224-212455
+- pkg:nuget/PureManaged@1.0.0-CI-20200226-102653
+- pkg:nuget/PureManaged@1.0.0-CI-20200227-194419
+- pkg:nuget/PureManaged@1.0.1
+- pkg:nuget/PureManaged@1.0.2
+- pkg:nuget/PureManaged@2.0.0-CI-20200227-204453
+- pkg:nuget/PureManaged@2.0.0-CI-20200227-204700
