@@ -1,0 +1,4 @@
+- pkg:nuget/LeChiffre.Core@0.0.1-beta
+- pkg:nuget/LeChiffre.Core@1.0.0
+- pkg:nuget/LeChiffre.Core@1.0.1
+- pkg:nuget/LeChiffre.Core@1.0.2

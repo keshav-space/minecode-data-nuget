@@ -1,0 +1,7 @@
+- pkg:nuget/FluentAssertions.ArgumentMatchers.Moq@0.1.1
+- pkg:nuget/FluentAssertions.ArgumentMatchers.Moq@0.1.3
+- pkg:nuget/FluentAssertions.ArgumentMatchers.Moq@1.0.0
+- pkg:nuget/FluentAssertions.ArgumentMatchers.Moq@2.0.0
+- pkg:nuget/FluentAssertions.ArgumentMatchers.Moq@3.0.0
+- pkg:nuget/FluentAssertions.ArgumentMatchers.Moq@3.1.0
+- pkg:nuget/FluentAssertions.ArgumentMatchers.Moq@3.2.0

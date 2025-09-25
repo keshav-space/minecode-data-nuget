@@ -1,0 +1,5 @@
+- pkg:nuget/DaprClientExtra@1.0.13.715
+- pkg:nuget/DaprClientExtra@1.0.14.723-alpha
+- pkg:nuget/DaprClientExtra@1.0.16.836-alpha
+- pkg:nuget/DaprClientExtra@1.0.17.842-alpha
+- pkg:nuget/DaprClientExtra@1.0.20.709-alpha

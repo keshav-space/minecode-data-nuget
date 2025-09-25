@@ -1,0 +1,2 @@
+- pkg:nuget/Ex.Microsoft.AspNetCore.Identity.AzureStorageAccount@0.1.0-beta
+- pkg:nuget/Ex.Microsoft.AspNetCore.Identity.AzureStorageAccount@0.2.0-beta

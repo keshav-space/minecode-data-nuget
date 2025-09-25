@@ -1,0 +1,8 @@
+- pkg:nuget/CR.CodeStyle.CSharp.CodeOnly@0.1.0-initial-version0001
+- pkg:nuget/CR.CodeStyle.CSharp.CodeOnly@0.1.0-initial-version0002
+- pkg:nuget/CR.CodeStyle.CSharp.CodeOnly@1.0.0
+- pkg:nuget/CR.CodeStyle.CSharp.CodeOnly@1.0.1
+- pkg:nuget/CR.CodeStyle.CSharp.CodeOnly@1.0.1-fix-nul-characte0001
+- pkg:nuget/CR.CodeStyle.CSharp.CodeOnly@1.0.2
+- pkg:nuget/CR.CodeStyle.CSharp.CodeOnly@1.0.2-remove-link-attr0001
+- pkg:nuget/CR.CodeStyle.CSharp.CodeOnly@1.0.3-pullrequest0001

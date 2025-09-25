@@ -1,0 +1,16 @@
+- pkg:nuget/Cake.Newman@0.1.0
+- pkg:nuget/Cake.Newman@0.1.0-unstable0003
+- pkg:nuget/Cake.Newman@0.1.0-unstable0004
+- pkg:nuget/Cake.Newman@0.1.0-unstable0006
+- pkg:nuget/Cake.Newman@0.1.0-unstable0008
+- pkg:nuget/Cake.Newman@0.2.0
+- pkg:nuget/Cake.Newman@0.2.1
+- pkg:nuget/Cake.Newman@0.3.0
+- pkg:nuget/Cake.Newman@0.3.0-unstable0001
+- pkg:nuget/Cake.Newman@0.3.0-unstable0004
+- pkg:nuget/Cake.Newman@0.3.0-unstable0009
+- pkg:nuget/Cake.Newman@0.3.0-unstable0010
+- pkg:nuget/Cake.Newman@0.3.1
+- pkg:nuget/Cake.Newman@0.4.0-unstable0000
+- pkg:nuget/Cake.Newman@0.4.0-unstable0002
+- pkg:nuget/Cake.Newman@0.4.0-unstable0005

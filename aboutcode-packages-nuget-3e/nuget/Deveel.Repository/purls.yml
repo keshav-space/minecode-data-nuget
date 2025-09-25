@@ -1,0 +1,4 @@
+- pkg:nuget/Deveel.Repository@0.8.1
+- pkg:nuget/Deveel.Repository@0.8.1-beta
+- pkg:nuget/Deveel.Repository@0.8.2-beta
+- pkg:nuget/Deveel.Repository@0.8.2.3-beta

@@ -1,0 +1,4 @@
+- pkg:nuget/Osrm.Client@1.0.0
+- pkg:nuget/Osrm.Client@2.0.0
+- pkg:nuget/Osrm.Client@3.0.0
+- pkg:nuget/Osrm.Client@3.1.0

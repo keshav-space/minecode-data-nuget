@@ -1,0 +1,4 @@
+- pkg:nuget/IL.Extensions.Configuration.Binder.NewtonsoftJson@0.1.12-alpha
+- pkg:nuget/IL.Extensions.Configuration.Binder.NewtonsoftJson@1.0.1
+- pkg:nuget/IL.Extensions.Configuration.Binder.NewtonsoftJson@1.0.2
+- pkg:nuget/IL.Extensions.Configuration.Binder.NewtonsoftJson@1.0.4

@@ -1,0 +1,5 @@
+- pkg:nuget/Kralizek.AutoFixture.Extensions.ServiceProvider@1.3.0
+- pkg:nuget/Kralizek.AutoFixture.Extensions.ServiceProvider@1.4.0
+- pkg:nuget/Kralizek.AutoFixture.Extensions.ServiceProvider@1.5.0
+- pkg:nuget/Kralizek.AutoFixture.Extensions.ServiceProvider@2.0.0
+- pkg:nuget/Kralizek.AutoFixture.Extensions.ServiceProvider@2.1.0

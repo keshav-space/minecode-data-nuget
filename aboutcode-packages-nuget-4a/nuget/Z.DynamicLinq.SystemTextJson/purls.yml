@@ -1,0 +1,14 @@
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.5.1
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.0
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.0-preview-01
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.0-preview-02
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.0-preview-03
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.0.1
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.0.2
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.1
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.2
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.3
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.4
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.5
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.6
+- pkg:nuget/Z.DynamicLinq.SystemTextJson@1.6.7

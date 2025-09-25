@@ -1,0 +1,5 @@
+- pkg:nuget/LibertePay.Core.Sdk@1.0.0
+- pkg:nuget/LibertePay.Core.Sdk@1.0.0-alpha
+- pkg:nuget/LibertePay.Core.Sdk@1.0.0-beta
+- pkg:nuget/LibertePay.Core.Sdk@1.0.1-alpha
+- pkg:nuget/LibertePay.Core.Sdk@1.0.3

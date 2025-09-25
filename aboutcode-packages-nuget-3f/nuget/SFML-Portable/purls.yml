@@ -1,0 +1,4 @@
+- pkg:nuget/SFML-Portable@2.0.0
+- pkg:nuget/SFML-Portable@2.1.0
+- pkg:nuget/SFML-Portable@2.2.0
+- pkg:nuget/SFML-Portable@2.3.0

@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.200610.5
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.200616.1
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.200616.3
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.200715.2
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.200916.9
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.201021.5
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.221110.2
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.221219.4
+- pkg:nuget/Microsoft.Windows.UndockedRegFreeWinrt@1.0.230112.2

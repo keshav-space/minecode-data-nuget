@@ -1,0 +1,6 @@
+- pkg:nuget/EntityFrameworkCore.Scaffolding.Extensions.CommonInterfaces@0.1.0-rc.1
+- pkg:nuget/EntityFrameworkCore.Scaffolding.Extensions.CommonInterfaces@1.0.0
+- pkg:nuget/EntityFrameworkCore.Scaffolding.Extensions.CommonInterfaces@1.0.1
+- pkg:nuget/EntityFrameworkCore.Scaffolding.Extensions.CommonInterfaces@1.0.2
+- pkg:nuget/EntityFrameworkCore.Scaffolding.Extensions.CommonInterfaces@8.0.0
+- pkg:nuget/EntityFrameworkCore.Scaffolding.Extensions.CommonInterfaces@9.0.0

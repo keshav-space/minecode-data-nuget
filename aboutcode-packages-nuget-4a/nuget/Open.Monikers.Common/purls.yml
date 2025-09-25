@@ -1,0 +1,6 @@
+- pkg:nuget/Open.Monikers.Common@0.0.1-alpha-002-build-automation
+- pkg:nuget/Open.Monikers.Common@0.0.1-beta-001
+- pkg:nuget/Open.Monikers.Common@0.0.1-beta-002
+- pkg:nuget/Open.Monikers.Common@0.0.1-beta-003
+- pkg:nuget/Open.Monikers.Common@0.0.1-beta-004
+- pkg:nuget/Open.Monikers.Common@0.0.1-beta-005

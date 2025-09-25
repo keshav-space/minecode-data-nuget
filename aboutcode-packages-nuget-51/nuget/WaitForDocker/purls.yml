@@ -1,0 +1,6 @@
+- pkg:nuget/WaitForDocker@1.0.0
+- pkg:nuget/WaitForDocker@1.0.0-beta
+- pkg:nuget/WaitForDocker@1.0.1
+- pkg:nuget/WaitForDocker@2.0.0
+- pkg:nuget/WaitForDocker@2.0.1
+- pkg:nuget/WaitForDocker@3.0.0

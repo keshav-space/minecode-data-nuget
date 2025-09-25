@@ -1,0 +1,12 @@
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@1.0.0
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@1.0.4
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@1.0.4-preview2
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@2.0.0
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@2.0.1
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@2.0.2
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@7.0.0
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@8.0.0
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@8.0.1
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@8.0.2
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@8.0.3
+- pkg:nuget/HaveIBeenPwned.Client.Abstractions@9.0.0

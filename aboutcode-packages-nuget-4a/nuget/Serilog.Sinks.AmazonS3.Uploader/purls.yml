@@ -1,0 +1,3 @@
+- pkg:nuget/Serilog.Sinks.AmazonS3.Uploader@1.0.0
+- pkg:nuget/Serilog.Sinks.AmazonS3.Uploader@1.1.0
+- pkg:nuget/Serilog.Sinks.AmazonS3.Uploader@2.0.0

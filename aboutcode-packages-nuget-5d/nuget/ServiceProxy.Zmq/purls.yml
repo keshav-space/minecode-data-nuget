@@ -1,0 +1,5 @@
+- pkg:nuget/ServiceProxy.Zmq@1.0.0
+- pkg:nuget/ServiceProxy.Zmq@1.0.0-beta
+- pkg:nuget/ServiceProxy.Zmq@1.0.1
+- pkg:nuget/ServiceProxy.Zmq@1.0.1-beta
+- pkg:nuget/ServiceProxy.Zmq@1.1.0-beta

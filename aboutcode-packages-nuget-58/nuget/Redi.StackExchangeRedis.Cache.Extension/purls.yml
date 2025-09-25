@@ -1,0 +1,5 @@
+- pkg:nuget/Redi.StackExchangeRedis.Cache.Extension@1.0.0
+- pkg:nuget/Redi.StackExchangeRedis.Cache.Extension@1.5.0
+- pkg:nuget/Redi.StackExchangeRedis.Cache.Extension@1.5.1
+- pkg:nuget/Redi.StackExchangeRedis.Cache.Extension@1.5.2
+- pkg:nuget/Redi.StackExchangeRedis.Cache.Extension@1.5.3

@@ -1,0 +1,11 @@
+- pkg:nuget/LDZ.Coinbase.Api@0.0.1-preview
+- pkg:nuget/LDZ.Coinbase.Api@1.0.0
+- pkg:nuget/LDZ.Coinbase.Api@1.0.0-preview
+- pkg:nuget/LDZ.Coinbase.Api@1.0.1
+- pkg:nuget/LDZ.Coinbase.Api@1.0.1-preview
+- pkg:nuget/LDZ.Coinbase.Api@2.0.0
+- pkg:nuget/LDZ.Coinbase.Api@2.0.0-preview1
+- pkg:nuget/LDZ.Coinbase.Api@2.0.0-preview2
+- pkg:nuget/LDZ.Coinbase.Api@3.0.0
+- pkg:nuget/LDZ.Coinbase.Api@3.0.0-preview1
+- pkg:nuget/LDZ.Coinbase.Api@3.0.0-preview2

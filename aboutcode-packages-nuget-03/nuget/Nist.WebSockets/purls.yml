@@ -1,0 +1,11 @@
+- pkg:nuget/Nist.WebSockets@2025.101.115.2-websockets-lib
+- pkg:nuget/Nist.WebSockets@2025.101.115.3-websockets-lib
+- pkg:nuget/Nist.WebSockets@2025.101.115.4
+- pkg:nuget/Nist.WebSockets@2025.102.123.5-v1.1
+- pkg:nuget/Nist.WebSockets@2025.102.123.6-v0.2
+- pkg:nuget/Nist.WebSockets@2025.102.128.7-v0.3
+- pkg:nuget/Nist.WebSockets@2025.103.124.8-v0.4
+- pkg:nuget/Nist.WebSockets@2025.104.107.9-v0.5
+- pkg:nuget/Nist.WebSockets@2025.104.121.10-v0.6
+- pkg:nuget/Nist.WebSockets@2025.105.122.11-v0.7
+- pkg:nuget/Nist.WebSockets@2025.105.126.12-v0.8

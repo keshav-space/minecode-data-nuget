@@ -1,0 +1,6 @@
+- pkg:nuget/Anthropic.Net@0.1.0%2Bbuild.12
+- pkg:nuget/Anthropic.Net@0.1.1%2Bbuild.18
+- pkg:nuget/Anthropic.Net@0.2.0%2Bbuild.31
+- pkg:nuget/Anthropic.Net@0.2.1%2Bbuild.34
+- pkg:nuget/Anthropic.Net@1.0.0%2Bbuild.50
+- pkg:nuget/Anthropic.Net@1.0.1%2Bbuild.53

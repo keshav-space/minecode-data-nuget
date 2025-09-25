@@ -1,0 +1,3 @@
+- pkg:nuget/AVX2PerlinNoise@1.0.0
+- pkg:nuget/AVX2PerlinNoise@1.1.1
+- pkg:nuget/AVX2PerlinNoise@2.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/DynamicProxy.Core@0.0.1-preview
+- pkg:nuget/DynamicProxy.Core@0.0.2-preview
+- pkg:nuget/DynamicProxy.Core@0.0.3-preview
+- pkg:nuget/DynamicProxy.Core@1.0.0
+- pkg:nuget/DynamicProxy.Core@1.0.1

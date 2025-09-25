@@ -1,0 +1,2 @@
+- pkg:nuget/Cloudinary.Core.DependencyInjection@1.30.0
+- pkg:nuget/Cloudinary.Core.DependencyInjection@1.31.0

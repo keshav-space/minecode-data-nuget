@@ -1,0 +1,4 @@
+- pkg:nuget/WrappedSqlFileStream.Mapping.NHibernate@1.0.0
+- pkg:nuget/WrappedSqlFileStream.Mapping.NHibernate@1.2.0
+- pkg:nuget/WrappedSqlFileStream.Mapping.NHibernate@2.0.0
+- pkg:nuget/WrappedSqlFileStream.Mapping.NHibernate@2.0.1

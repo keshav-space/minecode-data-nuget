@@ -1,0 +1,5 @@
+- pkg:nuget/BasicTcpServer@1.0.0
+- pkg:nuget/BasicTcpServer@2.0.0
+- pkg:nuget/BasicTcpServer@2.0.1
+- pkg:nuget/BasicTcpServer@2.0.2
+- pkg:nuget/BasicTcpServer@2.0.3

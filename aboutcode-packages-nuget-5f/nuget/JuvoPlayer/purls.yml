@@ -1,0 +1,7 @@
+- pkg:nuget/JuvoPlayer@0.1.0-p-panek-add-circleci-config.1%2B5
+- pkg:nuget/JuvoPlayer@0.7.0-alpha
+- pkg:nuget/JuvoPlayer@0.8.0-alpha
+- pkg:nuget/JuvoPlayer@2.0.0-alpha
+- pkg:nuget/JuvoPlayer@2.1.0-alpha
+- pkg:nuget/JuvoPlayer@2.2.0-alpha
+- pkg:nuget/JuvoPlayer@2.3.0-alpha

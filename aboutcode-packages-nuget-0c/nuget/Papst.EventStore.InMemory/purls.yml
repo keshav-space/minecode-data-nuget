@@ -1,0 +1,6 @@
+- pkg:nuget/Papst.EventStore.InMemory@5.2.21
+- pkg:nuget/Papst.EventStore.InMemory@5.2.23
+- pkg:nuget/Papst.EventStore.InMemory@5.2.25
+- pkg:nuget/Papst.EventStore.InMemory@5.2.28
+- pkg:nuget/Papst.EventStore.InMemory@5.2.30
+- pkg:nuget/Papst.EventStore.InMemory@5.2.32

@@ -1,0 +1,6 @@
+- pkg:nuget/laget.MassTransit.Extensions.Module@7.3.11
+- pkg:nuget/laget.MassTransit.Extensions.Module@7.3.12
+- pkg:nuget/laget.MassTransit.Extensions.Module@7.3.8
+- pkg:nuget/laget.MassTransit.Extensions.Module@7.3.9
+- pkg:nuget/laget.MassTransit.Extensions.Module@8.1.6
+- pkg:nuget/laget.MassTransit.Extensions.Module@8.1.7

@@ -1,0 +1,5 @@
+- pkg:nuget/Domain.RateLimiting.Core@1.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.Core@4.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.Core@4.0.3-alpha
+- pkg:nuget/Domain.RateLimiting.Core@5.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.Core@5.0.3-alpha

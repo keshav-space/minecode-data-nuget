@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.AzureAISearch@0.1.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.AzureAISearch@0.2.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.AzureAISearch@0.3.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.AzureAISearch@0.4.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.AzureAISearch@0.5.0-alpha

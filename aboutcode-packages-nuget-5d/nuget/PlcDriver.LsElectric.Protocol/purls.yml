@@ -1,0 +1,3 @@
+- pkg:nuget/PlcDriver.LsElectric.Protocol@1.0.0
+- pkg:nuget/PlcDriver.LsElectric.Protocol@1.0.1
+- pkg:nuget/PlcDriver.LsElectric.Protocol@1.2.0

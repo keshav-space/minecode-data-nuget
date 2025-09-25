@@ -1,0 +1,4 @@
+- pkg:nuget/Breeze.Server.ContextProvider.NHX@1.6.0-Alpha1
+- pkg:nuget/Breeze.Server.ContextProvider.NHX@1.6.4-Alpha1
+- pkg:nuget/Breeze.Server.ContextProvider.NHX@1.6.4-Alpha2
+- pkg:nuget/Breeze.Server.ContextProvider.NHX@1.6.4-Alpha3

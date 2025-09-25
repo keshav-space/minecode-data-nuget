@@ -1,0 +1,5 @@
+- pkg:nuget/Cloudinary.Core@1.30.0
+- pkg:nuget/Cloudinary.Core@1.30.0-alpha
+- pkg:nuget/Cloudinary.Core@1.30.0-beta
+- pkg:nuget/Cloudinary.Core@1.30.0-camma
+- pkg:nuget/Cloudinary.Core@1.31.0

@@ -1,0 +1,4 @@
+- pkg:nuget/NLog.HipChat@0.0.1
+- pkg:nuget/NLog.HipChat@1.0.0
+- pkg:nuget/NLog.HipChat@1.0.29
+- pkg:nuget/NLog.HipChat@1.0.30

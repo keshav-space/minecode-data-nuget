@@ -1,0 +1,2 @@
+- pkg:nuget/ENode.PublishedVersionStore.Redis@1.0.0
+- pkg:nuget/ENode.PublishedVersionStore.Redis@1.0.1

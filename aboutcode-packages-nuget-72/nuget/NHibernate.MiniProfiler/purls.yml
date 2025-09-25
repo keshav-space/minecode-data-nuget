@@ -1,0 +1,7 @@
+- pkg:nuget/NHibernate.MiniProfiler@0.0.0-alpha.0
+- pkg:nuget/NHibernate.MiniProfiler@1.0.0
+- pkg:nuget/NHibernate.MiniProfiler@2.0.0
+- pkg:nuget/NHibernate.MiniProfiler@3.0.0
+- pkg:nuget/NHibernate.MiniProfiler@4.0.0
+- pkg:nuget/NHibernate.MiniProfiler@5.0.0
+- pkg:nuget/NHibernate.MiniProfiler@5.1.0

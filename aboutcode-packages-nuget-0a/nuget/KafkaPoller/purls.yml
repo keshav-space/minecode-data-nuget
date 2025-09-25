@@ -1,0 +1,10 @@
+- pkg:nuget/KafkaPoller@0.1.0
+- pkg:nuget/KafkaPoller@0.1.0-prerelease-20250214100806
+- pkg:nuget/KafkaPoller@0.1.0-prerelease-20250214105625
+- pkg:nuget/KafkaPoller@0.1.1
+- pkg:nuget/KafkaPoller@0.1.1-prerelease-20250221122235
+- pkg:nuget/KafkaPoller@0.1.1-prerelease-20250224134203
+- pkg:nuget/KafkaPoller@0.1.2
+- pkg:nuget/KafkaPoller@0.1.2-prerelease-20250224134824
+- pkg:nuget/KafkaPoller@0.1.3
+- pkg:nuget/KafkaPoller@0.1.3-prerelease-20250224143127

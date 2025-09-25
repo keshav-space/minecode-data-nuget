@@ -1,0 +1,6 @@
+- pkg:nuget/intelipp.static.linux-x64@2020.0.166
+- pkg:nuget/intelipp.static.linux-x64@2020.1.217
+- pkg:nuget/intelipp.static.linux-x64@2020.2.254
+- pkg:nuget/intelipp.static.linux-x64@2020.3.304
+- pkg:nuget/intelipp.static.linux-x64@2021.1.1.47
+- pkg:nuget/intelipp.static.linux-x64@2021.2.0.233

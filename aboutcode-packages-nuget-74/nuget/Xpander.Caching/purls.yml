@@ -1,0 +1,4 @@
+- pkg:nuget/Xpander.Caching@5.0.0
+- pkg:nuget/Xpander.Caching@8.0.0
+- pkg:nuget/Xpander.Caching@9.0.0
+- pkg:nuget/Xpander.Caching@9.1.0-preview1

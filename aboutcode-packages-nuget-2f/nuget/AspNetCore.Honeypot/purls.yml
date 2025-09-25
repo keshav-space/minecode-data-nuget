@@ -1,0 +1,9 @@
+- pkg:nuget/AspNetCore.Honeypot@0.0.0-alpha.0.17
+- pkg:nuget/AspNetCore.Honeypot@1.0.0
+- pkg:nuget/AspNetCore.Honeypot@1.0.1
+- pkg:nuget/AspNetCore.Honeypot@1.0.5
+- pkg:nuget/AspNetCore.Honeypot@1.1.0
+- pkg:nuget/AspNetCore.Honeypot@1.2.1
+- pkg:nuget/AspNetCore.Honeypot@1.3.0
+- pkg:nuget/AspNetCore.Honeypot@1.4.0
+- pkg:nuget/AspNetCore.Honeypot@1.4.1

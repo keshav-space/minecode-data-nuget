@@ -1,0 +1,5 @@
+- pkg:nuget/SQLite@3.12.2
+- pkg:nuget/SQLite@3.12.2-alpha
+- pkg:nuget/SQLite@3.12.3
+- pkg:nuget/SQLite@3.13.0
+- pkg:nuget/SQLite@3.9.1-test

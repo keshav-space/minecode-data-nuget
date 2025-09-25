@@ -1,0 +1,2 @@
+- pkg:nuget/FeatureManagement.Database.EntityFrameworkCore.SqlServer@1.0.0
+- pkg:nuget/FeatureManagement.Database.EntityFrameworkCore.SqlServer@1.0.1

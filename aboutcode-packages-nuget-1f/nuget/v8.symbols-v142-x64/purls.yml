@@ -1,0 +1,14 @@
+- pkg:nuget/v8.symbols-v142-x64@10.0.139.9
+- pkg:nuget/v8.symbols-v142-x64@7.4.288.19
+- pkg:nuget/v8.symbols-v142-x64@7.4.288.26
+- pkg:nuget/v8.symbols-v142-x64@7.4.288.28
+- pkg:nuget/v8.symbols-v142-x64@7.5.288.23
+- pkg:nuget/v8.symbols-v142-x64@8.0.426.28
+- pkg:nuget/v8.symbols-v142-x64@8.1.307.23
+- pkg:nuget/v8.symbols-v142-x64@8.2.297.1
+- pkg:nuget/v8.symbols-v142-x64@8.4.371.15
+- pkg:nuget/v8.symbols-v142-x64@9.0.257.19
+- pkg:nuget/v8.symbols-v142-x64@9.1.269.9
+- pkg:nuget/v8.symbols-v142-x64@9.2.230.8
+- pkg:nuget/v8.symbols-v142-x64@9.3.345.3
+- pkg:nuget/v8.symbols-v142-x64@9.9.115.10

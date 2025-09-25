@@ -1,0 +1,4 @@
+- pkg:nuget/NHamcrest.XUnit@2.0.1
+- pkg:nuget/NHamcrest.XUnit@3.3.0
+- pkg:nuget/NHamcrest.XUnit@3.4.0
+- pkg:nuget/NHamcrest.XUnit@4.0.0

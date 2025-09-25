@@ -1,0 +1,5 @@
+- pkg:nuget/CoreCmd.Cli@1.2.1
+- pkg:nuget/CoreCmd.Cli@1.3.0.1
+- pkg:nuget/CoreCmd.Cli@1.4.0.2
+- pkg:nuget/CoreCmd.Cli@1.5.0.3
+- pkg:nuget/CoreCmd.Cli@1.6.0

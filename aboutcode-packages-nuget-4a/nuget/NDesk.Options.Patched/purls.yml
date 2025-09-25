@@ -1,0 +1,4 @@
+- pkg:nuget/NDesk.Options.Patched@0.1.0-ci0008
+- pkg:nuget/NDesk.Options.Patched@0.3.0
+- pkg:nuget/NDesk.Options.Patched@0.3.1
+- pkg:nuget/NDesk.Options.Patched@0.3.2

@@ -1,0 +1,5 @@
+- pkg:nuget/Domain.RateLimiting.AspNetCore@1.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.AspNetCore@4.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.AspNetCore@4.0.3-alpha
+- pkg:nuget/Domain.RateLimiting.AspNetCore@5.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.AspNetCore@5.0.3-alpha
