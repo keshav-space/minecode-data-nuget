@@ -1,0 +1,5 @@
+- pkg:nuget/DotNetArchitecture.CrossCutting.Security@1.0.0
+- pkg:nuget/DotNetArchitecture.CrossCutting.Security@1.1.0
+- pkg:nuget/DotNetArchitecture.CrossCutting.Security@1.2.0
+- pkg:nuget/DotNetArchitecture.CrossCutting.Security@1.5.0
+- pkg:nuget/DotNetArchitecture.CrossCutting.Security@2.0.0

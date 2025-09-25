@@ -1,0 +1,2 @@
+- pkg:nuget/SpecSync.Plugin.OnlyPublishTestResults@1.0.0
+- pkg:nuget/SpecSync.Plugin.OnlyPublishTestResults@1.1.0

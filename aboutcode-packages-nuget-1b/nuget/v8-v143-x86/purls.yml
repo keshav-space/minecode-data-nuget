@@ -1,0 +1,8 @@
+- pkg:nuget/v8-v143-x86@10.0.139.9
+- pkg:nuget/v8-v143-x86@11.8.172.15
+- pkg:nuget/v8-v143-x86@11.9.169.4
+- pkg:nuget/v8-v143-x86@12.8.374.38
+- pkg:nuget/v8-v143-x86@12.9.202.28
+- pkg:nuget/v8-v143-x86@13.0.245.25
+- pkg:nuget/v8-v143-x86@13.3.415.2
+- pkg:nuget/v8-v143-x86@9.8.177.4

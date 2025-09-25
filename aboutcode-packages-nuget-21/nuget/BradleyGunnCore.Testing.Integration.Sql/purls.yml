@@ -1,0 +1,6 @@
+- pkg:nuget/BradleyGunnCore.Testing.Integration.Sql@20201222.4.0-alpha
+- pkg:nuget/BradleyGunnCore.Testing.Integration.Sql@20201222.5.0
+- pkg:nuget/BradleyGunnCore.Testing.Integration.Sql@20201222.8.0
+- pkg:nuget/BradleyGunnCore.Testing.Integration.Sql@20201224.3.0
+- pkg:nuget/BradleyGunnCore.Testing.Integration.Sql@20210110.1.0
+- pkg:nuget/BradleyGunnCore.Testing.Integration.Sql@20210206.2.0

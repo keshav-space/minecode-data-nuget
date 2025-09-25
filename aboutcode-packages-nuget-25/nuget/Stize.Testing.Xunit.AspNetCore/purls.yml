@@ -1,0 +1,3 @@
+- pkg:nuget/Stize.Testing.Xunit.AspNetCore@0.0.2
+- pkg:nuget/Stize.Testing.Xunit.AspNetCore@0.0.2-alpha.0.1
+- pkg:nuget/Stize.Testing.Xunit.AspNetCore@0.0.3

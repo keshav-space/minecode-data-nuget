@@ -1,0 +1,7 @@
+- pkg:nuget/AskDev.NetCore@3.0.39-InternalTesting
+- pkg:nuget/AskDev.NetCore@3.0.40-InternalTesting
+- pkg:nuget/AskDev.NetCore@3.0.47-InternalTesting
+- pkg:nuget/AskDev.NetCore@3.0.48-InternalTesting
+- pkg:nuget/AskDev.NetCore@3.0.50-InternalTesting
+- pkg:nuget/AskDev.NetCore@3.0.53-InternalTesting
+- pkg:nuget/AskDev.NetCore@3.0.57-InternalTesting

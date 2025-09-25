@@ -1,0 +1,4 @@
+- pkg:nuget/Spark.LoadBalancer@1.0.0
+- pkg:nuget/Spark.LoadBalancer@1.0.0-rc
+- pkg:nuget/Spark.LoadBalancer@1.0.3
+- pkg:nuget/Spark.LoadBalancer@3.0.0-rc1

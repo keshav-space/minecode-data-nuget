@@ -1,0 +1,4 @@
+- pkg:nuget/Xero.Api@1.0.0-CI00009
+- pkg:nuget/Xero.Api@1.0.0-CI00011
+- pkg:nuget/Xero.Api@1.0.0.13
+- pkg:nuget/Xero.Api@1.0.0.14

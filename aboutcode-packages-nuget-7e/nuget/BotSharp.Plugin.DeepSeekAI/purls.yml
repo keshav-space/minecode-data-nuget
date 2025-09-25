@@ -1,0 +1,3 @@
+- pkg:nuget/BotSharp.Plugin.DeepSeekAI@4.1.0
+- pkg:nuget/BotSharp.Plugin.DeepSeekAI@5.0.0
+- pkg:nuget/BotSharp.Plugin.DeepSeekAI@5.1.0

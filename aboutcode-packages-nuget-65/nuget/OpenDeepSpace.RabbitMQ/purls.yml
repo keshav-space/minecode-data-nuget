@@ -1,0 +1,4 @@
+- pkg:nuget/OpenDeepSpace.RabbitMQ@5.0.0
+- pkg:nuget/OpenDeepSpace.RabbitMQ@5.1.0
+- pkg:nuget/OpenDeepSpace.RabbitMQ@6.0.0
+- pkg:nuget/OpenDeepSpace.RabbitMQ@6.1.0

@@ -1,0 +1,6 @@
+- pkg:nuget/ApplicationInsightsTelemetryEnhancer@2.2.0
+- pkg:nuget/ApplicationInsightsTelemetryEnhancer@2.2.1
+- pkg:nuget/ApplicationInsightsTelemetryEnhancer@3.1.0
+- pkg:nuget/ApplicationInsightsTelemetryEnhancer@3.1.1
+- pkg:nuget/ApplicationInsightsTelemetryEnhancer@5.0.0
+- pkg:nuget/ApplicationInsightsTelemetryEnhancer@5.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/PostStress@1.0.0
+- pkg:nuget/PostStress@1.0.0-beta
+- pkg:nuget/PostStress@1.0.0-prod
+- pkg:nuget/PostStress@1.0.0-prod-2
+- pkg:nuget/PostStress@1.0.0-prod-3

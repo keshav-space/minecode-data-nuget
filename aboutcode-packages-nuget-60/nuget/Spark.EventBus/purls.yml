@@ -1,0 +1,5 @@
+- pkg:nuget/Spark.EventBus@1.0.0
+- pkg:nuget/Spark.EventBus@1.0.0-rc
+- pkg:nuget/Spark.EventBus@1.0.1-rc
+- pkg:nuget/Spark.EventBus@1.0.3
+- pkg:nuget/Spark.EventBus@3.0.0-rc1

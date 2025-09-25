@@ -1,0 +1,3 @@
+- pkg:nuget/My.Custom.SampleNugetPackage@0.0.1
+- pkg:nuget/My.Custom.SampleNugetPackage@0.0.2
+- pkg:nuget/My.Custom.SampleNugetPackage@0.0.3

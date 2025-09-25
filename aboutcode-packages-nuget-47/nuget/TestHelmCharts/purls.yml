@@ -1,0 +1,3 @@
+- pkg:nuget/TestHelmCharts@1.4.0
+- pkg:nuget/TestHelmCharts@1.5.0
+- pkg:nuget/TestHelmCharts@1.6.0

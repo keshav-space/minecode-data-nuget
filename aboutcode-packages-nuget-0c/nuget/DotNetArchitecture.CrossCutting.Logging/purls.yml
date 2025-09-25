@@ -1,0 +1,4 @@
+- pkg:nuget/DotNetArchitecture.CrossCutting.Logging@1.0.0
+- pkg:nuget/DotNetArchitecture.CrossCutting.Logging@1.2.0
+- pkg:nuget/DotNetArchitecture.CrossCutting.Logging@1.5.0
+- pkg:nuget/DotNetArchitecture.CrossCutting.Logging@2.0.0

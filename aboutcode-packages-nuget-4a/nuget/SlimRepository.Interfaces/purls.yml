@@ -1,0 +1,4 @@
+- pkg:nuget/SlimRepository.Interfaces@0.1.0-beta
+- pkg:nuget/SlimRepository.Interfaces@0.2.0
+- pkg:nuget/SlimRepository.Interfaces@0.3.0
+- pkg:nuget/SlimRepository.Interfaces@0.4.0

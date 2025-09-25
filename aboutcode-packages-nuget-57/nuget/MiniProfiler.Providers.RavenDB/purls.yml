@@ -1,0 +1,4 @@
+- pkg:nuget/MiniProfiler.Providers.RavenDB@4.2.0-preview.26
+- pkg:nuget/MiniProfiler.Providers.RavenDB@4.2.1
+- pkg:nuget/MiniProfiler.Providers.RavenDB@4.2.22
+- pkg:nuget/MiniProfiler.Providers.RavenDB@4.3.8

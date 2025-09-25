@@ -1,0 +1,4 @@
+- pkg:nuget/BotSharp.Core.SideCar@4.0.0
+- pkg:nuget/BotSharp.Core.SideCar@4.1.0
+- pkg:nuget/BotSharp.Core.SideCar@5.0.0
+- pkg:nuget/BotSharp.Core.SideCar@5.1.0

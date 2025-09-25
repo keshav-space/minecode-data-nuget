@@ -1,0 +1,5 @@
+- pkg:nuget/MyPackageStubsAP@1.0.0
+- pkg:nuget/MyPackageStubsAP@2.0.0
+- pkg:nuget/MyPackageStubsAP@3.0.0
+- pkg:nuget/MyPackageStubsAP@4.0.0
+- pkg:nuget/MyPackageStubsAP@5.0.0

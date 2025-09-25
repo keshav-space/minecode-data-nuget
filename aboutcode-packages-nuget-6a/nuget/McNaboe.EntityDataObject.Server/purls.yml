@@ -1,0 +1,6 @@
+- pkg:nuget/McNaboe.EntityDataObject.Server@1.0.0-alpha
+- pkg:nuget/McNaboe.EntityDataObject.Server@1.0.10-alpha
+- pkg:nuget/McNaboe.EntityDataObject.Server@2.0.10-alpha
+- pkg:nuget/McNaboe.EntityDataObject.Server@2.0.110-alpha
+- pkg:nuget/McNaboe.EntityDataObject.Server@2.0.2-alpha
+- pkg:nuget/McNaboe.EntityDataObject.Server@3.0.0-alpha

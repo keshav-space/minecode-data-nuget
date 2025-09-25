@@ -1,0 +1,5 @@
+- pkg:nuget/Spark.AspNetCore.Mvc@1.8.2-alpha
+- pkg:nuget/Spark.AspNetCore.Mvc@1.8.2.1-alpha
+- pkg:nuget/Spark.AspNetCore.Mvc@1.8.2.2-alpha
+- pkg:nuget/Spark.AspNetCore.Mvc@1.8.2.3-alpha
+- pkg:nuget/Spark.AspNetCore.Mvc@1.8.2.4-alpha

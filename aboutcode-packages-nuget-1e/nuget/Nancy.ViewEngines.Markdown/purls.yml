@@ -1,0 +1,4 @@
+- pkg:nuget/Nancy.ViewEngines.Markdown@2.0.0
+- pkg:nuget/Nancy.ViewEngines.Markdown@2.0.0-barneyrubble
+- pkg:nuget/Nancy.ViewEngines.Markdown@2.0.0-clienteastwood
+- pkg:nuget/Nancy.ViewEngines.Markdown@2.0.0-clinteastwood

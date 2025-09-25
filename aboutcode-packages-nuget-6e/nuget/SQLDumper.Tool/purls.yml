@@ -1,0 +1,4 @@
+- pkg:nuget/SQLDumper.Tool@1.0.0
+- pkg:nuget/SQLDumper.Tool@1.0.0-beta1
+- pkg:nuget/SQLDumper.Tool@1.0.1
+- pkg:nuget/SQLDumper.Tool@1.1.0

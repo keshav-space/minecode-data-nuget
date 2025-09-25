@@ -1,0 +1,9 @@
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20181210-145045
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20190119-190142
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20190217-113247
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20190815-123828
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20201010-071336
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20201114-094824
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20210218-141140
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20210218-142608
+- pkg:nuget/TestHelpers.AspDotNetCore.WebApi@1.0.0-CI-20230404-051734

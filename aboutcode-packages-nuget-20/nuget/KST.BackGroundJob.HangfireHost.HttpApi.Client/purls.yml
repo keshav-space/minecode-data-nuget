@@ -1,0 +1,5 @@
+- pkg:nuget/KST.BackGroundJob.HangfireHost.HttpApi.Client@0.1.0
+- pkg:nuget/KST.BackGroundJob.HangfireHost.HttpApi.Client@0.1.4
+- pkg:nuget/KST.BackGroundJob.HangfireHost.HttpApi.Client@0.18.0
+- pkg:nuget/KST.BackGroundJob.HangfireHost.HttpApi.Client@0.19.0
+- pkg:nuget/KST.BackGroundJob.HangfireHost.HttpApi.Client@0.21.0

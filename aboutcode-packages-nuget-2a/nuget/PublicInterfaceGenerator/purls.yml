@@ -1,0 +1,4 @@
+- pkg:nuget/PublicInterfaceGenerator@0.0.1-preview.14
+- pkg:nuget/PublicInterfaceGenerator@0.1.0-preview.24
+- pkg:nuget/PublicInterfaceGenerator@0.1.0-preview.28
+- pkg:nuget/PublicInterfaceGenerator@0.1.0-preview.30

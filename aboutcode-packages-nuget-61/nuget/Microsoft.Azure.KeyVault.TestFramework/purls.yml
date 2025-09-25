@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.KeyVault.TestFramework@2.0.0-preview
+- pkg:nuget/Microsoft.Azure.KeyVault.TestFramework@2.0.2-preview

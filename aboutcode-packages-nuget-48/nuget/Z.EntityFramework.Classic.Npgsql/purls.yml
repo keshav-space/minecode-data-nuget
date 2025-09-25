@@ -1,0 +1,3 @@
+- pkg:nuget/Z.EntityFramework.Classic.Npgsql@7.0.15
+- pkg:nuget/Z.EntityFramework.Classic.Npgsql@7.0.15-beta1
+- pkg:nuget/Z.EntityFramework.Classic.Npgsql@7.1.6

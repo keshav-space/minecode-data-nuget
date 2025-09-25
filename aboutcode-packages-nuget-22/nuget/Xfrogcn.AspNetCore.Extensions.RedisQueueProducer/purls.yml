@@ -1,0 +1,4 @@
+- pkg:nuget/Xfrogcn.AspNetCore.Extensions.RedisQueueProducer@1.0.0
+- pkg:nuget/Xfrogcn.AspNetCore.Extensions.RedisQueueProducer@1.0.0-beta2020111201
+- pkg:nuget/Xfrogcn.AspNetCore.Extensions.RedisQueueProducer@1.0.0-beta2021010701
+- pkg:nuget/Xfrogcn.AspNetCore.Extensions.RedisQueueProducer@1.0.0-beta2021011801

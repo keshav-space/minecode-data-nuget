@@ -1,0 +1,2 @@
+- pkg:nuget/Solace.Azure.Functions.Worker.Extensions@1.0.3
+- pkg:nuget/Solace.Azure.Functions.Worker.Extensions@1.0.4

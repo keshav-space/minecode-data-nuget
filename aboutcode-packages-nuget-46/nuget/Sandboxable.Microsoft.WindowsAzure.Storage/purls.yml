@@ -1,0 +1,4 @@
+- pkg:nuget/Sandboxable.Microsoft.WindowsAzure.Storage@1.1.0
+- pkg:nuget/Sandboxable.Microsoft.WindowsAzure.Storage@1.1.1
+- pkg:nuget/Sandboxable.Microsoft.WindowsAzure.Storage@1.1.8-preview
+- pkg:nuget/Sandboxable.Microsoft.WindowsAzure.Storage@1.1.9

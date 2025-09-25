@@ -1,0 +1,4 @@
+- pkg:nuget/Net.Chdk.Meta.Generators.Platform.Eos@0.2.0-alpha
+- pkg:nuget/Net.Chdk.Meta.Generators.Platform.Eos@0.4.0-alpha
+- pkg:nuget/Net.Chdk.Meta.Generators.Platform.Eos@0.5.0-alpha
+- pkg:nuget/Net.Chdk.Meta.Generators.Platform.Eos@0.5.1-alpha

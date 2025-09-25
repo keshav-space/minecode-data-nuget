@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic@6.0.0-preview.5.21301.17
+- pkg:nuget/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic@6.0.0-preview.6.21355.2

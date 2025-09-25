@@ -1,0 +1,6 @@
+- pkg:nuget/EnterpriseLibrary.TransientFaultHandling.Core@1.0.0
+- pkg:nuget/EnterpriseLibrary.TransientFaultHandling.Core@1.1.0
+- pkg:nuget/EnterpriseLibrary.TransientFaultHandling.Core@1.2.0
+- pkg:nuget/EnterpriseLibrary.TransientFaultHandling.Core@2.0.0
+- pkg:nuget/EnterpriseLibrary.TransientFaultHandling.Core@3.0.0
+- pkg:nuget/EnterpriseLibrary.TransientFaultHandling.Core@3.1.0

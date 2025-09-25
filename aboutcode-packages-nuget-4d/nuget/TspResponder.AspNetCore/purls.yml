@@ -1,0 +1,6 @@
+- pkg:nuget/TspResponder.AspNetCore@1.0.0
+- pkg:nuget/TspResponder.AspNetCore@1.0.0-rc
+- pkg:nuget/TspResponder.AspNetCore@1.0.0-rc2
+- pkg:nuget/TspResponder.AspNetCore@1.0.0-rc3
+- pkg:nuget/TspResponder.AspNetCore@1.0.0-rc4
+- pkg:nuget/TspResponder.AspNetCore@1.0.0-rc5

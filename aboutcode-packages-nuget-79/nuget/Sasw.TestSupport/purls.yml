@@ -1,0 +1,5 @@
+- pkg:nuget/Sasw.TestSupport@2.0.0
+- pkg:nuget/Sasw.TestSupport@2.1.0
+- pkg:nuget/Sasw.TestSupport@3.0.0
+- pkg:nuget/Sasw.TestSupport@4.0.0
+- pkg:nuget/Sasw.TestSupport@4.0.0-beta

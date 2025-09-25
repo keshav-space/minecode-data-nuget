@@ -1,0 +1,4 @@
+- pkg:nuget/Wyam.Modules.Minification@0.12.0-beta
+- pkg:nuget/Wyam.Modules.Minification@0.12.1-beta
+- pkg:nuget/Wyam.Modules.Minification@0.12.2-beta
+- pkg:nuget/Wyam.Modules.Minification@0.12.3-beta

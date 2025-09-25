@@ -1,0 +1,3 @@
+- pkg:nuget/SiCo.Job.Pgsql@4.0.0
+- pkg:nuget/SiCo.Job.Pgsql@4.1.0
+- pkg:nuget/SiCo.Job.Pgsql@4.2.0

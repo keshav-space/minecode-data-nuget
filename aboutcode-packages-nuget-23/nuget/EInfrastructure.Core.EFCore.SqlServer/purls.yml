@@ -1,0 +1,11 @@
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@2.1.0-preview.200828.x0012
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@2.1.0-preview.200905.x0022
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@2.1.0-preview.201009.x0031
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@2.1.0-preview.201230.x0031
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@2.2.0-preview.201009.x0031
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@2.2.0-preview.201230.x0031
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@3.0.0-preview.200829.x0011
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@3.0.0-preview.200830.x0011
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@3.0.0-preview.200905.x0012
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@3.0.0-preview.201009.x0013
+- pkg:nuget/EInfrastructure.Core.EFCore.SqlServer@3.0.0-preview.201230.x0031

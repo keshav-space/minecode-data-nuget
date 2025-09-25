@@ -1,0 +1,10 @@
+- pkg:nuget/Ci.Extension.AspNetCore@1.0.0
+- pkg:nuget/Ci.Extension.AspNetCore@1.0.1
+- pkg:nuget/Ci.Extension.AspNetCore@1.0.2
+- pkg:nuget/Ci.Extension.AspNetCore@1.0.3
+- pkg:nuget/Ci.Extension.AspNetCore@3.1.0
+- pkg:nuget/Ci.Extension.AspNetCore@5.0.0
+- pkg:nuget/Ci.Extension.AspNetCore@6.0.0
+- pkg:nuget/Ci.Extension.AspNetCore@6.0.1
+- pkg:nuget/Ci.Extension.AspNetCore@6.0.3
+- pkg:nuget/Ci.Extension.AspNetCore@6.0.4

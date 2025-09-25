@@ -1,0 +1,4 @@
+- pkg:nuget/BotSharp.Core.Crontab@4.0.0
+- pkg:nuget/BotSharp.Core.Crontab@4.1.0
+- pkg:nuget/BotSharp.Core.Crontab@5.0.0
+- pkg:nuget/BotSharp.Core.Crontab@5.1.0

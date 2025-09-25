@@ -1,0 +1,5 @@
+- pkg:nuget/HashiCorp.Cdktf.Providers.Waypoint@0.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Waypoint@1.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Waypoint@2.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Waypoint@3.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Waypoint@3.0.1
