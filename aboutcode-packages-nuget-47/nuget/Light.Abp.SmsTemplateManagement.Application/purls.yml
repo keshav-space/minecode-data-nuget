@@ -1,0 +1,6 @@
+- pkg:nuget/Light.Abp.SmsTemplateManagement.Application@4.0.0
+- pkg:nuget/Light.Abp.SmsTemplateManagement.Application@5.3.3
+- pkg:nuget/Light.Abp.SmsTemplateManagement.Application@6.0.1
+- pkg:nuget/Light.Abp.SmsTemplateManagement.Application@7.1.1
+- pkg:nuget/Light.Abp.SmsTemplateManagement.Application@7.3.0
+- pkg:nuget/Light.Abp.SmsTemplateManagement.Application@7.4.0

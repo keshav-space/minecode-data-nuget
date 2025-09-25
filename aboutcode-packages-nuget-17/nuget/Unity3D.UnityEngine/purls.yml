@@ -1,0 +1,7 @@
+- pkg:nuget/Unity3D.UnityEngine@2018.1.6-f1
+- pkg:nuget/Unity3D.UnityEngine@2018.2.6-f1
+- pkg:nuget/Unity3D.UnityEngine@2018.3.0-b7
+- pkg:nuget/Unity3D.UnityEngine@2018.3.0-b9
+- pkg:nuget/Unity3D.UnityEngine@2018.3.0-f2
+- pkg:nuget/Unity3D.UnityEngine@2018.3.5.1
+- pkg:nuget/Unity3D.UnityEngine@2020.3.21

@@ -1,0 +1,3 @@
+- pkg:nuget/SimpleDiscovery.AzureResourceManager@0.1.0-test
+- pkg:nuget/SimpleDiscovery.AzureResourceManager@1.0.0-preview2
+- pkg:nuget/SimpleDiscovery.AzureResourceManager@1.0.0-preview3

@@ -1,0 +1,5 @@
+- pkg:nuget/Mirolim.EventStorage@1.0.1
+- pkg:nuget/Mirolim.EventStorage@1.0.5
+- pkg:nuget/Mirolim.EventStorage@1.1.0
+- pkg:nuget/Mirolim.EventStorage@9.0.15
+- pkg:nuget/Mirolim.EventStorage@9.0.16

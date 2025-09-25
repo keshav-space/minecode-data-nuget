@@ -1,0 +1,4 @@
+- pkg:nuget/Redis.Cache.Extensions.Testing@2.0.0
+- pkg:nuget/Redis.Cache.Extensions.Testing@2.1.0
+- pkg:nuget/Redis.Cache.Extensions.Testing@3.0.0
+- pkg:nuget/Redis.Cache.Extensions.Testing@3.0.1

@@ -1,0 +1,11 @@
+- pkg:nuget/FSharp.TypeProviders.Templates@5.0.0
+- pkg:nuget/FSharp.TypeProviders.Templates@5.1.0
+- pkg:nuget/FSharp.TypeProviders.Templates@5.2.0
+- pkg:nuget/FSharp.TypeProviders.Templates@6.0.0
+- pkg:nuget/FSharp.TypeProviders.Templates@7.0.0
+- pkg:nuget/FSharp.TypeProviders.Templates@7.0.1
+- pkg:nuget/FSharp.TypeProviders.Templates@7.0.2
+- pkg:nuget/FSharp.TypeProviders.Templates@7.0.3
+- pkg:nuget/FSharp.TypeProviders.Templates@8.0.1
+- pkg:nuget/FSharp.TypeProviders.Templates@8.0.2
+- pkg:nuget/FSharp.TypeProviders.Templates@8.1.0

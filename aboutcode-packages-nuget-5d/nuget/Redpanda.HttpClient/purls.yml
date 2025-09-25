@@ -1,0 +1,2 @@
+- pkg:nuget/Redpanda.HttpClient@1.1.0
+- pkg:nuget/Redpanda.HttpClient@1.1.1

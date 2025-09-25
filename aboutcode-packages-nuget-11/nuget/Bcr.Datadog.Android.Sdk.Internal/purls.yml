@@ -1,0 +1,4 @@
+- pkg:nuget/Bcr.Datadog.Android.Sdk.Internal@2.14.0
+- pkg:nuget/Bcr.Datadog.Android.Sdk.Internal@2.18.0
+- pkg:nuget/Bcr.Datadog.Android.Sdk.Internal@2.18.1
+- pkg:nuget/Bcr.Datadog.Android.Sdk.Internal@2.21.0-pre.1

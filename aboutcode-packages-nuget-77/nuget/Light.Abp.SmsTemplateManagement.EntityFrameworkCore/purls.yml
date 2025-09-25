@@ -1,0 +1,6 @@
+- pkg:nuget/Light.Abp.SmsTemplateManagement.EntityFrameworkCore@4.0.0
+- pkg:nuget/Light.Abp.SmsTemplateManagement.EntityFrameworkCore@5.3.3
+- pkg:nuget/Light.Abp.SmsTemplateManagement.EntityFrameworkCore@6.0.1
+- pkg:nuget/Light.Abp.SmsTemplateManagement.EntityFrameworkCore@7.1.1
+- pkg:nuget/Light.Abp.SmsTemplateManagement.EntityFrameworkCore@7.3.0
+- pkg:nuget/Light.Abp.SmsTemplateManagement.EntityFrameworkCore@7.4.0

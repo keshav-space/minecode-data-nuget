@@ -1,0 +1,6 @@
+- pkg:nuget/Bcr.Datadog.Android.Sdk.WebView@2.12.0
+- pkg:nuget/Bcr.Datadog.Android.Sdk.WebView@2.13.1
+- pkg:nuget/Bcr.Datadog.Android.Sdk.WebView@2.14.0
+- pkg:nuget/Bcr.Datadog.Android.Sdk.WebView@2.18.0
+- pkg:nuget/Bcr.Datadog.Android.Sdk.WebView@2.18.1
+- pkg:nuget/Bcr.Datadog.Android.Sdk.WebView@2.21.0-pre.1

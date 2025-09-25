@@ -1,0 +1,4 @@
+- pkg:nuget/McpNetwork.MicroServiceCore@6.2.0
+- pkg:nuget/McpNetwork.MicroServiceCore@6.3.0
+- pkg:nuget/McpNetwork.MicroServiceCore@7.0.0
+- pkg:nuget/McpNetwork.MicroServiceCore@7.0.1

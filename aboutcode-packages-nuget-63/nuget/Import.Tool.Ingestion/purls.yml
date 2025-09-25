@@ -1,0 +1,4 @@
+- pkg:nuget/Import.Tool.Ingestion@0.0.1
+- pkg:nuget/Import.Tool.Ingestion@0.0.1-alpha
+- pkg:nuget/Import.Tool.Ingestion@0.3.0
+- pkg:nuget/Import.Tool.Ingestion@1.0.0

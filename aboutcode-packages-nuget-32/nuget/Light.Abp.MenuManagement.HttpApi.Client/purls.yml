@@ -1,0 +1,6 @@
+- pkg:nuget/Light.Abp.MenuManagement.HttpApi.Client@4.0.0
+- pkg:nuget/Light.Abp.MenuManagement.HttpApi.Client@5.3.3
+- pkg:nuget/Light.Abp.MenuManagement.HttpApi.Client@6.0.1
+- pkg:nuget/Light.Abp.MenuManagement.HttpApi.Client@7.1.1
+- pkg:nuget/Light.Abp.MenuManagement.HttpApi.Client@7.3.0
+- pkg:nuget/Light.Abp.MenuManagement.HttpApi.Client@7.4.0

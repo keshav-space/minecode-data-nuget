@@ -1,0 +1,5 @@
+- pkg:nuget/NoelleNet.Extensions.CAP.PostgreSql@2.6.0
+- pkg:nuget/NoelleNet.Extensions.CAP.PostgreSql@2.6.1
+- pkg:nuget/NoelleNet.Extensions.CAP.PostgreSql@2.6.2
+- pkg:nuget/NoelleNet.Extensions.CAP.PostgreSql@2.7.0
+- pkg:nuget/NoelleNet.Extensions.CAP.PostgreSql@9.0.0
