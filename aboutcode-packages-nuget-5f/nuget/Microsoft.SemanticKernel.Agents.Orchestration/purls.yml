@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.51.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.52.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.52.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.53.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.53.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.54.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.55.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.56.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.57.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.58.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.59.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.60.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.61.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.62.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.63.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.64.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Orchestration@1.65.0-preview

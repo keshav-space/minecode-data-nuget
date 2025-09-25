@@ -1,0 +1,8 @@
+- pkg:nuget/Rsk.WsFederation.EntityFramework@4.0.0
+- pkg:nuget/Rsk.WsFederation.EntityFramework@5.0.0
+- pkg:nuget/Rsk.WsFederation.EntityFramework@6.0.0
+- pkg:nuget/Rsk.WsFederation.EntityFramework@8.0.0
+- pkg:nuget/Rsk.WsFederation.EntityFramework@8.0.1
+- pkg:nuget/Rsk.WsFederation.EntityFramework@8.1.0
+- pkg:nuget/Rsk.WsFederation.EntityFramework@9.0.0
+- pkg:nuget/Rsk.WsFederation.EntityFramework@9.0.1

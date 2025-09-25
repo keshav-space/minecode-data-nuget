@@ -1,0 +1,13 @@
+- pkg:nuget/MongoDB.HealthCheck@1.0.0
+- pkg:nuget/MongoDB.HealthCheck@1.0.0-preview3
+- pkg:nuget/MongoDB.HealthCheck@1.0.1
+- pkg:nuget/MongoDB.HealthCheck@2.0.0
+- pkg:nuget/MongoDB.HealthCheck@2.0.1
+- pkg:nuget/MongoDB.HealthCheck@2.0.2
+- pkg:nuget/MongoDB.HealthCheck@3.0.0
+- pkg:nuget/MongoDB.HealthCheck@3.0.0-rc1-001
+- pkg:nuget/MongoDB.HealthCheck@4.0.0
+- pkg:nuget/MongoDB.HealthCheck@4.0.0-rc1-001
+- pkg:nuget/MongoDB.HealthCheck@4.0.1
+- pkg:nuget/MongoDB.HealthCheck@4.0.2
+- pkg:nuget/MongoDB.HealthCheck@5.0.0

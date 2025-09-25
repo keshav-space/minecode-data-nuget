@@ -1,0 +1,15 @@
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@1.0.1
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@1.1.0
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@1.1.0-alpha.1
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@2.0.0
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@2.0.0-alpha.1
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@2.0.0-alpha.2
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@2.0.0-rc.1
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@2.1.0
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@2.1.0-alpha.1
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@2.1.1
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@3.0.0
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@3.0.0-alpha.1
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@3.0.0-alpha.2
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@3.0.0-alpha.3
+- pkg:nuget/LaunchDarkly.ServerSdk.DynamoDB@4.0.0

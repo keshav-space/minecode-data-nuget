@@ -1,0 +1,15 @@
+- pkg:nuget/LiteX.Cache.Redis@1.0.0
+- pkg:nuget/LiteX.Cache.Redis@2.0.0
+- pkg:nuget/LiteX.Cache.Redis@3.0.0
+- pkg:nuget/LiteX.Cache.Redis@4.0.0
+- pkg:nuget/LiteX.Cache.Redis@5.0.0
+- pkg:nuget/LiteX.Cache.Redis@6.0.0
+- pkg:nuget/LiteX.Cache.Redis@6.1.0
+- pkg:nuget/LiteX.Cache.Redis@6.2.0
+- pkg:nuget/LiteX.Cache.Redis@7.0.0
+- pkg:nuget/LiteX.Cache.Redis@7.0.1
+- pkg:nuget/LiteX.Cache.Redis@7.0.2
+- pkg:nuget/LiteX.Cache.Redis@7.0.3
+- pkg:nuget/LiteX.Cache.Redis@8.0.0
+- pkg:nuget/LiteX.Cache.Redis@8.1.0
+- pkg:nuget/LiteX.Cache.Redis@9.0.0

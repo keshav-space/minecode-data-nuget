@@ -1,0 +1,7 @@
+- pkg:nuget/LCL.Repositories.EntityFramework@1.0.0
+- pkg:nuget/LCL.Repositories.EntityFramework@3.1.0-alpha1
+- pkg:nuget/LCL.Repositories.EntityFramework@4.5.0-alpha1
+- pkg:nuget/LCL.Repositories.EntityFramework@4.5.1-alpha1
+- pkg:nuget/LCL.Repositories.EntityFramework@5.0.0-alpha1
+- pkg:nuget/LCL.Repositories.EntityFramework@6.0.0-alpha1
+- pkg:nuget/LCL.Repositories.EntityFramework@6.1.0-alpha1

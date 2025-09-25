@@ -1,0 +1,10 @@
+- pkg:nuget/FluentHelper.ElasticSearch@7.0.0
+- pkg:nuget/FluentHelper.ElasticSearch@7.1.0
+- pkg:nuget/FluentHelper.ElasticSearch@8.0.0
+- pkg:nuget/FluentHelper.ElasticSearch@8.1.0
+- pkg:nuget/FluentHelper.ElasticSearch@8.2.0
+- pkg:nuget/FluentHelper.ElasticSearch@8.2.1
+- pkg:nuget/FluentHelper.ElasticSearch@8.2.2
+- pkg:nuget/FluentHelper.ElasticSearch@8.2.3
+- pkg:nuget/FluentHelper.ElasticSearch@8.3.0
+- pkg:nuget/FluentHelper.ElasticSearch@8.3.1

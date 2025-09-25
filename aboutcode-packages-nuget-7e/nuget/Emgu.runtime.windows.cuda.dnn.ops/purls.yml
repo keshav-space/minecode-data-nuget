@@ -1,0 +1,8 @@
+- pkg:nuget/Emgu.runtime.windows.cuda.dnn.ops@8.0.1
+- pkg:nuget/Emgu.runtime.windows.cuda.dnn.ops@8.0.4
+- pkg:nuget/Emgu.runtime.windows.cuda.dnn.ops@8.2.0
+- pkg:nuget/Emgu.runtime.windows.cuda.dnn.ops@8.3.2
+- pkg:nuget/Emgu.runtime.windows.cuda.dnn.ops@8.6.0
+- pkg:nuget/Emgu.runtime.windows.cuda.dnn.ops@8.8.0
+- pkg:nuget/Emgu.runtime.windows.cuda.dnn.ops@9.4.0
+- pkg:nuget/Emgu.runtime.windows.cuda.dnn.ops@9.7.1

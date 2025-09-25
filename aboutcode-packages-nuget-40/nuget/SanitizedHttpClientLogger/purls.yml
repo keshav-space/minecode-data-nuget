@@ -1,0 +1,6 @@
+- pkg:nuget/SanitizedHttpClientLogger@0.0.1-preview-00
+- pkg:nuget/SanitizedHttpClientLogger@0.0.2
+- pkg:nuget/SanitizedHttpClientLogger@0.0.2-preview-01
+- pkg:nuget/SanitizedHttpClientLogger@0.0.3
+- pkg:nuget/SanitizedHttpClientLogger@0.0.3.1
+- pkg:nuget/SanitizedHttpClientLogger@0.0.4

@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Windows.VbsEnclave.SDK@0.0.2-prerelease.250520.3
+- pkg:nuget/Microsoft.Windows.VbsEnclave.SDK@0.1.0-prerelease.250804.2
+- pkg:nuget/Microsoft.Windows.VbsEnclave.SDK@0.1.1
+- pkg:nuget/Microsoft.Windows.VbsEnclave.SDK@0.1.1-prerelease.250818.2
+- pkg:nuget/Microsoft.Windows.VbsEnclave.SDK@0.1.2-prerelease.250825.1

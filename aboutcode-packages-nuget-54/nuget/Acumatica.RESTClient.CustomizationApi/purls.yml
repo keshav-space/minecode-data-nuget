@@ -1,0 +1,7 @@
+- pkg:nuget/Acumatica.RESTClient.CustomizationApi@3.0.0-alpha
+- pkg:nuget/Acumatica.RESTClient.CustomizationApi@3.2.0
+- pkg:nuget/Acumatica.RESTClient.CustomizationApi@3.3.5
+- pkg:nuget/Acumatica.RESTClient.CustomizationApi@3.5.0
+- pkg:nuget/Acumatica.RESTClient.CustomizationApi@4.1.0
+- pkg:nuget/Acumatica.RESTClient.CustomizationApi@4.4.0-alpha
+- pkg:nuget/Acumatica.RESTClient.CustomizationApi@5.1.0-beta

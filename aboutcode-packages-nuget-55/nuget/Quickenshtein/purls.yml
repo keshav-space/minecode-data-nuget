@@ -1,0 +1,9 @@
+- pkg:nuget/Quickenshtein@0.1.0%2Bf4e8562-3
+- pkg:nuget/Quickenshtein@1.0.0%2B5b71079-9
+- pkg:nuget/Quickenshtein@1.1.0%2Bfc7de5f-12
+- pkg:nuget/Quickenshtein@1.1.1%2Bd3d562e-14
+- pkg:nuget/Quickenshtein@1.2.0%2B07a33b4-29
+- pkg:nuget/Quickenshtein@1.3.0%2Be0b20f1-67
+- pkg:nuget/Quickenshtein@1.4.0%2B775cda7-101
+- pkg:nuget/Quickenshtein@1.5.0%2B662f80f-113
+- pkg:nuget/Quickenshtein@1.5.1%2Bgdebbc44-appveyor.39281231

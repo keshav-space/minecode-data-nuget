@@ -1,0 +1,12 @@
+- pkg:nuget/CilTools.BytecodeAnalysis@1.0.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.0.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.1.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.2.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.3.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.4.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.5.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.6.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.6.1
+- pkg:nuget/CilTools.BytecodeAnalysis@2.7.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.8.0
+- pkg:nuget/CilTools.BytecodeAnalysis@2.9.0

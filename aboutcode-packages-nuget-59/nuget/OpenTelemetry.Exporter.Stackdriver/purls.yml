@@ -1,0 +1,12 @@
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@0.2.0-alpha.100
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@0.2.0-alpha.179
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@0.2.0-alpha.220
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@0.2.0-alpha.275
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@0.2.0-alpha.40
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@0.2.0-alpha.5
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@1.0.0-beta.2
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@1.0.0-beta.3
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@1.0.0-beta.4
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@1.0.0-beta.5
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@1.0.0-beta.6
+- pkg:nuget/OpenTelemetry.Exporter.Stackdriver@1.12.0-beta.1

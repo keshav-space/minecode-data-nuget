@@ -1,0 +1,11 @@
+- pkg:nuget/Mono.TextTemplating.Roslyn@2.2.0
+- pkg:nuget/Mono.TextTemplating.Roslyn@2.2.1
+- pkg:nuget/Mono.TextTemplating.Roslyn@2.3.0
+- pkg:nuget/Mono.TextTemplating.Roslyn@2.3.1
+- pkg:nuget/Mono.TextTemplating.Roslyn@3.0.0
+- pkg:nuget/Mono.TextTemplating.Roslyn@3.0.0-preview-0020-g5e6351747f
+- pkg:nuget/Mono.TextTemplating.Roslyn@3.0.0-preview-0023-ge1a447e90f
+- pkg:nuget/Mono.TextTemplating.Roslyn@3.0.0-preview-0027-g2711105671
+- pkg:nuget/Mono.TextTemplating.Roslyn@3.0.0-preview-0045-g9b6fc72764
+- pkg:nuget/Mono.TextTemplating.Roslyn@3.0.0-preview-0049-g4f33c8d8b1
+- pkg:nuget/Mono.TextTemplating.Roslyn@3.0.0-preview-0052-g5d0f76c785

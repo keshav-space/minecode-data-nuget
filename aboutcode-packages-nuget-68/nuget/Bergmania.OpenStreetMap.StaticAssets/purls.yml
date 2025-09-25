@@ -1,0 +1,13 @@
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@5.0.0
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@5.1.0
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@5.2.0
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@5.3.0
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@5.3.1
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@5.3.2
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@6.0.0
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@6.0.0-rc1
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@6.0.0-rc2
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@6.0.0-rc3
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@7.0.0
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@7.0.0-rc1
+- pkg:nuget/Bergmania.OpenStreetMap.StaticAssets@7.0.1-rc1

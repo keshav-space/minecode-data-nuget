@@ -1,0 +1,15 @@
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@3.0.0
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@3.0.2
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@4.0.0
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@4.0.1
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@4.0.2
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@4.0.3
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@7.0.0
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@7.0.1
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@7.1.0
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@7.2.3
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@8.0.0
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@8.0.2
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@8.1.1
+- pkg:nuget/KM.MessageQueue.Database.ElasticSearch@9.0.0

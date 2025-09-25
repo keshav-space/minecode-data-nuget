@@ -1,0 +1,8 @@
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Templates@5.0.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Templates@5.0.0-rc.1.200927.1
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Templates@5.0.0-rc.2.201019.2
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Templates@5.0.1
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Templates@5.1.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Templates@6.0.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Templates@7.0.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Templates@7.1.0

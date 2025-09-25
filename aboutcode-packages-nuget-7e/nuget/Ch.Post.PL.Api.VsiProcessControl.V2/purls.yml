@@ -1,0 +1,12 @@
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.0.0
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.0.1
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.1.0
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.1.0-feature-add-location-key.1
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.1.0-feature-add-location-key.2
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.2.0
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.2.0-feature-read-rates-definition.1
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.2.0-feature-read-rates-definition.2
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.2.0-feature-read-rates-definition.3
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.3.0
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.3.0-feature-discharge-reason-optional.1
+- pkg:nuget/Ch.Post.PL.Api.VsiProcessControl.V2@7.4.0-feature-discharge-reason-optional.1

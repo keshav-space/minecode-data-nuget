@@ -1,0 +1,7 @@
+- pkg:nuget/BootstrapBlazor.FileSystem@6.0.0
+- pkg:nuget/BootstrapBlazor.FileSystem@7.0.0
+- pkg:nuget/BootstrapBlazor.FileSystem@7.0.1
+- pkg:nuget/BootstrapBlazor.FileSystem@7.0.2
+- pkg:nuget/BootstrapBlazor.FileSystem@8.0.0
+- pkg:nuget/BootstrapBlazor.FileSystem@8.0.1
+- pkg:nuget/BootstrapBlazor.FileSystem@9.0.0

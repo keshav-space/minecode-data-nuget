@@ -1,0 +1,16 @@
+- pkg:nuget/GoReadyDataUtilities@20220706.0.0
+- pkg:nuget/GoReadyDataUtilities@20221104.0.0
+- pkg:nuget/GoReadyDataUtilities@20221125.1554.0
+- pkg:nuget/GoReadyDataUtilities@20221125.1735.0
+- pkg:nuget/GoReadyDataUtilities@20221125.1852.0
+- pkg:nuget/GoReadyDataUtilities@20221207.1554.0
+- pkg:nuget/GoReadyDataUtilities@20221207.1623.0
+- pkg:nuget/GoReadyDataUtilities@20230523.1149.0
+- pkg:nuget/GoReadyDataUtilities@20230703.1212.0
+- pkg:nuget/GoReadyDataUtilities@20230703.1237.0
+- pkg:nuget/GoReadyDataUtilities@20230705.1430.0
+- pkg:nuget/GoReadyDataUtilities@20230705.1835.0
+- pkg:nuget/GoReadyDataUtilities@20231026.1822.0
+- pkg:nuget/GoReadyDataUtilities@20240222.1024.0
+- pkg:nuget/GoReadyDataUtilities@20240222.1502.0
+- pkg:nuget/GoReadyDataUtilities@20250612.1503.0

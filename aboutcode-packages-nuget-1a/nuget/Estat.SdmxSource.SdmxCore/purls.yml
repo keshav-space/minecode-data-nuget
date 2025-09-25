@@ -1,0 +1,13 @@
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.1.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.2.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.3.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.4.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.6.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.7.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.8.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.8.1
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.8.4
+- pkg:nuget/Estat.SdmxSource.SdmxCore@10.9.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@9.10.2
+- pkg:nuget/Estat.SdmxSource.SdmxCore@9.11.0
+- pkg:nuget/Estat.SdmxSource.SdmxCore@9.12.0

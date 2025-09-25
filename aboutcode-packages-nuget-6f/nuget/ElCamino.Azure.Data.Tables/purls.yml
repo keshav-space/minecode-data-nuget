@@ -1,0 +1,11 @@
+- pkg:nuget/ElCamino.Azure.Data.Tables@6.1.0
+- pkg:nuget/ElCamino.Azure.Data.Tables@6.2.0
+- pkg:nuget/ElCamino.Azure.Data.Tables@7.0.0
+- pkg:nuget/ElCamino.Azure.Data.Tables@7.1.0
+- pkg:nuget/ElCamino.Azure.Data.Tables@8.0.0
+- pkg:nuget/ElCamino.Azure.Data.Tables@9.0.0
+- pkg:nuget/ElCamino.Azure.Data.Tables@9.0.1
+- pkg:nuget/ElCamino.Azure.Data.Tables@9.0.2
+- pkg:nuget/ElCamino.Azure.Data.Tables@9.0.3
+- pkg:nuget/ElCamino.Azure.Data.Tables@9.0.4
+- pkg:nuget/ElCamino.Azure.Data.Tables@9.0.5

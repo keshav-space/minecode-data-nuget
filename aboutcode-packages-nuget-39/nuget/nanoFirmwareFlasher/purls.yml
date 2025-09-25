@@ -1,0 +1,16 @@
+- pkg:nuget/nanoFirmwareFlasher@1.0.1-preview.1
+- pkg:nuget/nanoFirmwareFlasher@1.0.2-preview.1
+- pkg:nuget/nanoFirmwareFlasher@1.0.4-preview.1
+- pkg:nuget/nanoFirmwareFlasher@1.0.5-preview.1
+- pkg:nuget/nanoFirmwareFlasher@1.0.5-preview.3
+- pkg:nuget/nanoFirmwareFlasher@1.0.6
+- pkg:nuget/nanoFirmwareFlasher@1.0.6-preview.12
+- pkg:nuget/nanoFirmwareFlasher@1.0.6-preview.5
+- pkg:nuget/nanoFirmwareFlasher@1.11.0
+- pkg:nuget/nanoFirmwareFlasher@1.11.0-preview.3
+- pkg:nuget/nanoFirmwareFlasher@1.12.1
+- pkg:nuget/nanoFirmwareFlasher@1.13.0
+- pkg:nuget/nanoFirmwareFlasher@1.14.0-preview.6
+- pkg:nuget/nanoFirmwareFlasher@1.15.1
+- pkg:nuget/nanoFirmwareFlasher@1.2.0
+- pkg:nuget/nanoFirmwareFlasher@1.99.999-preview.0

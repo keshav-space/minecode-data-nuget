@@ -1,0 +1,10 @@
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@5.0.0
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@6.0.0
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@6.0.1
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@7.0.0
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@7.0.1
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@8.0.0
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@8.0.1
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@8.1.0
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@9.0.0
+- pkg:nuget/Rsk.WsFederation.DuendeIdentityServer@9.0.1

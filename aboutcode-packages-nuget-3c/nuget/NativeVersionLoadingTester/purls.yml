@@ -1,0 +1,3 @@
+- pkg:nuget/NativeVersionLoadingTester@1.0.0
+- pkg:nuget/NativeVersionLoadingTester@1.1.0
+- pkg:nuget/NativeVersionLoadingTester@2.0.0

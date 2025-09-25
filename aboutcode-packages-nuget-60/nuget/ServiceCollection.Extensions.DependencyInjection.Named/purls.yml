@@ -1,0 +1,5 @@
+- pkg:nuget/ServiceCollection.Extensions.DependencyInjection.Named@1.0.0
+- pkg:nuget/ServiceCollection.Extensions.DependencyInjection.Named@1.1.0
+- pkg:nuget/ServiceCollection.Extensions.DependencyInjection.Named@1.1.1
+- pkg:nuget/ServiceCollection.Extensions.DependencyInjection.Named@1.1.2
+- pkg:nuget/ServiceCollection.Extensions.DependencyInjection.Named@1.2.1

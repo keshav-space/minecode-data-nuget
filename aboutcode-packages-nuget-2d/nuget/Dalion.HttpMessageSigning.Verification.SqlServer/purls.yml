@@ -1,0 +1,12 @@
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@6.1.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@6.2.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@6.3.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@6.3.1
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@7.0.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@7.0.1
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@7.0.2
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@7.0.3
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@7.1.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@8.0.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@8.0.1
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.SqlServer@9.1.0

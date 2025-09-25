@@ -1,0 +1,16 @@
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@1.0.0
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@1.0.1
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@1.1.0
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@1.1.1
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@1.1.2
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@1.1.3
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@1.2.0
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@1.3.0
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@2.0.0
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@3.0.0
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@4.0.0
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@4.0.1
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@5.0.0
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@5.0.0-rc1-001
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@5.0.1
+- pkg:nuget/Swashbuckle.NodaTime.AspNetCore@5.0.2

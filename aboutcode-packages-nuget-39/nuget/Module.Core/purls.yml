@@ -1,0 +1,11 @@
+- pkg:nuget/Module.Core@0.0.1
+- pkg:nuget/Module.Core@0.0.2-alpha
+- pkg:nuget/Module.Core@0.0.2.1-alpha
+- pkg:nuget/Module.Core@0.0.2.2-alpha
+- pkg:nuget/Module.Core@0.0.2.3-alpha
+- pkg:nuget/Module.Core@0.0.2.4-alpha
+- pkg:nuget/Module.Core@0.0.2.5-alpha
+- pkg:nuget/Module.Core@0.0.2.6-alpha
+- pkg:nuget/Module.Core@0.0.3-beta
+- pkg:nuget/Module.Core@0.0.4-beta
+- pkg:nuget/Module.Core@0.0.4.1-beta

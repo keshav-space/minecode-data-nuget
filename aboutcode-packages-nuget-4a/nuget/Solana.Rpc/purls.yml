@@ -1,0 +1,6 @@
+- pkg:nuget/Solana.Rpc@3.0.0
+- pkg:nuget/Solana.Rpc@8.0.0
+- pkg:nuget/Solana.Rpc@8.0.1
+- pkg:nuget/Solana.Rpc@8.0.2
+- pkg:nuget/Solana.Rpc@8.3.0
+- pkg:nuget/Solana.Rpc@8.5.0

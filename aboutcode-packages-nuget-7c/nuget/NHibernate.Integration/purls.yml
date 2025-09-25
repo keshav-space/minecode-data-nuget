@@ -1,0 +1,6 @@
+- pkg:nuget/NHibernate.Integration@1.0.0.1
+- pkg:nuget/NHibernate.Integration@1.0.0.5
+- pkg:nuget/NHibernate.Integration@1.0.1.5
+- pkg:nuget/NHibernate.Integration@2.4.1.10
+- pkg:nuget/NHibernate.Integration@2.5.1.10
+- pkg:nuget/NHibernate.Integration@2.5.2.10

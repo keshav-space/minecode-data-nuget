@@ -1,0 +1,13 @@
+- pkg:nuget/NetFusion.Azure.ServiceBus@3.3.10
+- pkg:nuget/NetFusion.Azure.ServiceBus@3.3.11
+- pkg:nuget/NetFusion.Azure.ServiceBus@3.3.12
+- pkg:nuget/NetFusion.Azure.ServiceBus@3.3.13
+- pkg:nuget/NetFusion.Azure.ServiceBus@3.3.14
+- pkg:nuget/NetFusion.Azure.ServiceBus@3.3.15
+- pkg:nuget/NetFusion.Azure.ServiceBus@3.3.9
+- pkg:nuget/NetFusion.Azure.ServiceBus@6.0.17
+- pkg:nuget/NetFusion.Azure.ServiceBus@6.0.18
+- pkg:nuget/NetFusion.Azure.ServiceBus@6.0.19
+- pkg:nuget/NetFusion.Azure.ServiceBus@6.0.20
+- pkg:nuget/NetFusion.Azure.ServiceBus@6.0.21
+- pkg:nuget/NetFusion.Azure.ServiceBus@6.0.22

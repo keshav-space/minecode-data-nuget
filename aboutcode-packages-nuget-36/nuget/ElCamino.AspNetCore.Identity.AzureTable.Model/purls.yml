@@ -1,0 +1,10 @@
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@5.1.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@6.0.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@6.1.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@6.2.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@7.0.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@7.1.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@8.0.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@9.0.0
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@9.0.1
+- pkg:nuget/ElCamino.AspNetCore.Identity.AzureTable.Model@9.0.5

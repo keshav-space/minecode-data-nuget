@@ -1,0 +1,11 @@
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.0.0-beta
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.0.0-beta2
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.0.2
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.0.2-alpha
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.1.0
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.1.1
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.1.2
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.1.4
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.2.0-alpha
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.2.1
+- pkg:nuget/UnstableSort.Crudless.Integration.EntityFrameworkCore@2.3.0

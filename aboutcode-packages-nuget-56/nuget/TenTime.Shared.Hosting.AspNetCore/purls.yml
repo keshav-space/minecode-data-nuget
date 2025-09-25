@@ -1,0 +1,15 @@
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@1.0.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@1.1.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@2.0.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@2.1.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@2.2.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@3.0.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@4.0.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@5.0.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@5.0.0-rc.2
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@5.0.1
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@5.0.2
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@5.0.3
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@6.0.0
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@6.0.1
+- pkg:nuget/TenTime.Shared.Hosting.AspNetCore@6.1.0

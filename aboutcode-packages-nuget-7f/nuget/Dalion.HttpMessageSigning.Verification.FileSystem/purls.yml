@@ -1,0 +1,11 @@
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@6.2.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@6.3.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@6.3.1
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@7.0.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@7.0.1
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@7.0.2
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@7.0.3
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@7.1.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@8.0.0
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@8.0.1
+- pkg:nuget/Dalion.HttpMessageSigning.Verification.FileSystem@9.1.0

@@ -1,0 +1,4 @@
+- pkg:nuget/HangFire.Autofac@0.1.0
+- pkg:nuget/HangFire.Autofac@0.1.1
+- pkg:nuget/HangFire.Autofac@0.1.2
+- pkg:nuget/HangFire.Autofac@1.0.0-alpha1

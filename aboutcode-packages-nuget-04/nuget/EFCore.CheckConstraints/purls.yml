@@ -1,0 +1,14 @@
+- pkg:nuget/EFCore.CheckConstraints@10.0.0-rc.1
+- pkg:nuget/EFCore.CheckConstraints@5.0.0
+- pkg:nuget/EFCore.CheckConstraints@5.0.0-rc1
+- pkg:nuget/EFCore.CheckConstraints@5.0.0-rc1.1
+- pkg:nuget/EFCore.CheckConstraints@5.0.1
+- pkg:nuget/EFCore.CheckConstraints@6.0.0
+- pkg:nuget/EFCore.CheckConstraints@7.0.0
+- pkg:nuget/EFCore.CheckConstraints@7.0.0-rc.2
+- pkg:nuget/EFCore.CheckConstraints@7.0.2
+- pkg:nuget/EFCore.CheckConstraints@8.0.0
+- pkg:nuget/EFCore.CheckConstraints@8.0.0-rc.2
+- pkg:nuget/EFCore.CheckConstraints@8.0.1
+- pkg:nuget/EFCore.CheckConstraints@9.0.0
+- pkg:nuget/EFCore.CheckConstraints@9.1.0

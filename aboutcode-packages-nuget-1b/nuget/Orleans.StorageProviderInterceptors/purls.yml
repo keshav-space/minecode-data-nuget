@@ -1,0 +1,6 @@
+- pkg:nuget/Orleans.StorageProviderInterceptors@0.0.2%2Bbuild.44
+- pkg:nuget/Orleans.StorageProviderInterceptors@0.0.3%2Bbuild.51
+- pkg:nuget/Orleans.StorageProviderInterceptors@0.0.4%2Bbuild.54
+- pkg:nuget/Orleans.StorageProviderInterceptors@0.0.5%2Bbuild.58
+- pkg:nuget/Orleans.StorageProviderInterceptors@0.0.6%2Bbuild.64
+- pkg:nuget/Orleans.StorageProviderInterceptors@0.0.7%2Bbuild.143

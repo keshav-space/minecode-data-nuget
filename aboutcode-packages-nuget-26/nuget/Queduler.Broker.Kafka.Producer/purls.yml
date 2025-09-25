@@ -1,0 +1,3 @@
+- pkg:nuget/Queduler.Broker.Kafka.Producer@9.0.2-g07cadab105
+- pkg:nuget/Queduler.Broker.Kafka.Producer@9.0.3
+- pkg:nuget/Queduler.Broker.Kafka.Producer@9.0.4

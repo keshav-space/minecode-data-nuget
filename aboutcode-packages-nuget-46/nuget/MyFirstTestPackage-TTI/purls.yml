@@ -1,0 +1,11 @@
+- pkg:nuget/MyFirstTestPackage-TTI@1.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@10.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@11.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@2.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@3.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@4.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@5.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@6.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@7.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@8.0.0
+- pkg:nuget/MyFirstTestPackage-TTI@9.0.0

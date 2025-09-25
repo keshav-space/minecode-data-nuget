@@ -1,0 +1,3 @@
+- pkg:nuget/NestedNativeDllVersionTester@1.0.0
+- pkg:nuget/NestedNativeDllVersionTester@1.1.0
+- pkg:nuget/NestedNativeDllVersionTester@2.0.0

@@ -1,0 +1,17 @@
+- pkg:nuget/KM.MessageQueue.Azure.Topic@1.0.0
+- pkg:nuget/KM.MessageQueue.Azure.Topic@1.0.2
+- pkg:nuget/KM.MessageQueue.Azure.Topic@1.1.0
+- pkg:nuget/KM.MessageQueue.Azure.Topic@2.0.0
+- pkg:nuget/KM.MessageQueue.Azure.Topic@3.0.0
+- pkg:nuget/KM.MessageQueue.Azure.Topic@3.0.1
+- pkg:nuget/KM.MessageQueue.Azure.Topic@3.0.2
+- pkg:nuget/KM.MessageQueue.Azure.Topic@4.0.0
+- pkg:nuget/KM.MessageQueue.Azure.Topic@4.0.1
+- pkg:nuget/KM.MessageQueue.Azure.Topic@4.0.2
+- pkg:nuget/KM.MessageQueue.Azure.Topic@7.0.0
+- pkg:nuget/KM.MessageQueue.Azure.Topic@7.1.0
+- pkg:nuget/KM.MessageQueue.Azure.Topic@7.2.3
+- pkg:nuget/KM.MessageQueue.Azure.Topic@8.0.0
+- pkg:nuget/KM.MessageQueue.Azure.Topic@8.1.0-beta
+- pkg:nuget/KM.MessageQueue.Azure.Topic@8.1.1
+- pkg:nuget/KM.MessageQueue.Azure.Topic@9.0.0

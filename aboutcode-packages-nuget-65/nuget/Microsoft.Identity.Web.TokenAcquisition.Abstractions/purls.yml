@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Identity.Web.TokenAcquisition.Abstractions@2.0.0-preview
+- pkg:nuget/Microsoft.Identity.Web.TokenAcquisition.Abstractions@2.0.1-preview
+- pkg:nuget/Microsoft.Identity.Web.TokenAcquisition.Abstractions@2.0.2-preview
