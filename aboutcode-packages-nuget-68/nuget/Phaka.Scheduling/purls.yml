@@ -1,0 +1,15 @@
+- pkg:nuget/Phaka.Scheduling@0.1.0-develop
+- pkg:nuget/Phaka.Scheduling@0.1.1
+- pkg:nuget/Phaka.Scheduling@0.1.1-develop
+- pkg:nuget/Phaka.Scheduling@0.2.0
+- pkg:nuget/Phaka.Scheduling@0.2.0-preview
+- pkg:nuget/Phaka.Scheduling@1.0.0-develop
+- pkg:nuget/Phaka.Scheduling@1.1.0
+- pkg:nuget/Phaka.Scheduling@1.1.1
+- pkg:nuget/Phaka.Scheduling@1.1.2
+- pkg:nuget/Phaka.Scheduling@1.2.0
+- pkg:nuget/Phaka.Scheduling@1.2.1
+- pkg:nuget/Phaka.Scheduling@1.2.4
+- pkg:nuget/Phaka.Scheduling@1.2.5
+- pkg:nuget/Phaka.Scheduling@1.2.6
+- pkg:nuget/Phaka.Scheduling@1.2.7

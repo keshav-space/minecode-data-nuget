@@ -1,0 +1,2 @@
+- pkg:nuget/MathNet.Numerics.OpenBLAS.Win@0.2.0
+- pkg:nuget/MathNet.Numerics.OpenBLAS.Win@0.3.0-beta1

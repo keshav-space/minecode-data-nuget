@@ -1,0 +1,2 @@
+- pkg:nuget/transport.runtime.win-x64.Microsoft.NETCore.Runtime.Mono@5.0.0-preview.2.20160.6
+- pkg:nuget/transport.runtime.win-x64.Microsoft.NETCore.Runtime.Mono@5.0.0-preview.3.20214.6

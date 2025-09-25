@@ -1,0 +1,4 @@
+- pkg:nuget/WiX.Toolset@3.7.1224
+- pkg:nuget/WiX.Toolset@3.8.1128
+- pkg:nuget/WiX.Toolset@3.9.1006
+- pkg:nuget/WiX.Toolset@3.9.1208

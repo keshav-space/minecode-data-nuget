@@ -1,0 +1,3 @@
+- pkg:nuget/GitExtensions.EmptyPlugin@1.0.0
+- pkg:nuget/GitExtensions.EmptyPlugin@2.0.0
+- pkg:nuget/GitExtensions.EmptyPlugin@3.0.0

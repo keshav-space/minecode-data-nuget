@@ -1,0 +1,5 @@
+- pkg:nuget/CloudExecuter.Server@0.5.0-alpha
+- pkg:nuget/CloudExecuter.Server@0.6.0-alpha
+- pkg:nuget/CloudExecuter.Server@0.6.3-alpha
+- pkg:nuget/CloudExecuter.Server@0.7.0-alpha
+- pkg:nuget/CloudExecuter.Server@0.7.1-alpha

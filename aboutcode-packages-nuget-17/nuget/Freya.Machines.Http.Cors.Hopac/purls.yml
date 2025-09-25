@@ -1,0 +1,4 @@
+- pkg:nuget/Freya.Machines.Http.Cors.Hopac@3.0.0-rc01
+- pkg:nuget/Freya.Machines.Http.Cors.Hopac@3.0.0-rc02
+- pkg:nuget/Freya.Machines.Http.Cors.Hopac@4.0.0
+- pkg:nuget/Freya.Machines.Http.Cors.Hopac@4.0.0-alpha-170404

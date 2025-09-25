@@ -1,0 +1,13 @@
+- pkg:nuget/Salix.RestClient@1.0.0
+- pkg:nuget/Salix.RestClient@1.0.0-rc1
+- pkg:nuget/Salix.RestClient@2.0.0
+- pkg:nuget/Salix.RestClient@2.0.1
+- pkg:nuget/Salix.RestClient@3.0.0
+- pkg:nuget/Salix.RestClient@3.0.1
+- pkg:nuget/Salix.RestClient@3.1.0
+- pkg:nuget/Salix.RestClient@3.2.0
+- pkg:nuget/Salix.RestClient@3.3.0
+- pkg:nuget/Salix.RestClient@3.3.1
+- pkg:nuget/Salix.RestClient@3.3.2
+- pkg:nuget/Salix.RestClient@3.3.3
+- pkg:nuget/Salix.RestClient@4.0.0

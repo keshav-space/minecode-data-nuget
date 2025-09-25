@@ -1,0 +1,4 @@
+- pkg:nuget/dotnet-tool-execute@1.0.0-preview
+- pkg:nuget/dotnet-tool-execute@1.0.1-preview
+- pkg:nuget/dotnet-tool-execute@1.0.7-preview
+- pkg:nuget/dotnet-tool-execute@1.0.8-preview

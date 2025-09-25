@@ -1,0 +1,4 @@
+- pkg:nuget/OpenCV.overlay-x64_v120_Debug@2.4.10
+- pkg:nuget/OpenCV.overlay-x64_v120_Debug@2.4.11
+- pkg:nuget/OpenCV.overlay-x64_v120_Debug@2.4.8
+- pkg:nuget/OpenCV.overlay-x64_v120_Debug@2.4.9

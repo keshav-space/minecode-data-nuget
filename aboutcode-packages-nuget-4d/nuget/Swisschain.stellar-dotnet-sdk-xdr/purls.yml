@@ -1,0 +1,4 @@
+- pkg:nuget/Swisschain.stellar-dotnet-sdk-xdr@4.2.11
+- pkg:nuget/Swisschain.stellar-dotnet-sdk-xdr@5.2.5
+- pkg:nuget/Swisschain.stellar-dotnet-sdk-xdr@5.2.6
+- pkg:nuget/Swisschain.stellar-dotnet-sdk-xdr@5.2.7

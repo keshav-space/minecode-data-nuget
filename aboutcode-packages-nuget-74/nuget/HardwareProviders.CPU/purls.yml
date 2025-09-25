@@ -1,0 +1,3 @@
+- pkg:nuget/HardwareProviders.CPU@1.0.0
+- pkg:nuget/HardwareProviders.CPU@1.3.0
+- pkg:nuget/HardwareProviders.CPU@2.0.0

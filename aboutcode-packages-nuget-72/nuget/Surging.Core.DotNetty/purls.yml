@@ -1,0 +1,13 @@
+- pkg:nuget/Surging.Core.DotNetty@0.4.7
+- pkg:nuget/Surging.Core.DotNetty@0.4.8
+- pkg:nuget/Surging.Core.DotNetty@0.5.1
+- pkg:nuget/Surging.Core.DotNetty@0.6.1
+- pkg:nuget/Surging.Core.DotNetty@0.6.5
+- pkg:nuget/Surging.Core.DotNetty@0.6.6
+- pkg:nuget/Surging.Core.DotNetty@0.7.0.1
+- pkg:nuget/Surging.Core.DotNetty@0.8.0.1
+- pkg:nuget/Surging.Core.DotNetty@0.8.0.2
+- pkg:nuget/Surging.Core.DotNetty@0.9.0.2
+- pkg:nuget/Surging.Core.DotNetty@0.9.5.1
+- pkg:nuget/Surging.Core.DotNetty@1.0.0
+- pkg:nuget/Surging.Core.DotNetty@1.1.0

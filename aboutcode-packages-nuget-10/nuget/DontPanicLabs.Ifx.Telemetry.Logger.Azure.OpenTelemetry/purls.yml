@@ -1,0 +1,2 @@
+- pkg:nuget/DontPanicLabs.Ifx.Telemetry.Logger.Azure.OpenTelemetry@0.5.0
+- pkg:nuget/DontPanicLabs.Ifx.Telemetry.Logger.Azure.OpenTelemetry@0.5.1

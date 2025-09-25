@@ -1,0 +1,4 @@
+- pkg:nuget/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session@1.0.0
+- pkg:nuget/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session@1.1.0
+- pkg:nuget/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session@1.1.1
+- pkg:nuget/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session@1.1.3

@@ -1,0 +1,6 @@
+- pkg:nuget/Net.Google.iOS.Maps@10.2.0.1-beta
+- pkg:nuget/Net.Google.iOS.Maps@10.3.0.1
+- pkg:nuget/Net.Google.iOS.Maps@10.3.0.2
+- pkg:nuget/Net.Google.iOS.Maps@10.3.0.3
+- pkg:nuget/Net.Google.iOS.Maps@9.2.0
+- pkg:nuget/Net.Google.iOS.Maps@9.2.0.1

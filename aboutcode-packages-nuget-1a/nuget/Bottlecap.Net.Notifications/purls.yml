@@ -1,0 +1,17 @@
+- pkg:nuget/Bottlecap.Net.Notifications@0.1.0-alpha
+- pkg:nuget/Bottlecap.Net.Notifications@0.1.0-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.1.1-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.1.2-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.5.0-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.5.1-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.5.2-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.5.5-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.6.0-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.6.1-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.6.2-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.6.3-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.6.4-beta
+- pkg:nuget/Bottlecap.Net.Notifications@0.7.0-beta
+- pkg:nuget/Bottlecap.Net.Notifications@1.0.0
+- pkg:nuget/Bottlecap.Net.Notifications@1.0.1
+- pkg:nuget/Bottlecap.Net.Notifications@1.1.0

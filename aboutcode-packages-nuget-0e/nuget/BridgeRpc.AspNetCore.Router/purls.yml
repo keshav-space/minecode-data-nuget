@@ -1,0 +1,13 @@
+- pkg:nuget/BridgeRpc.AspNetCore.Router@0.0.1
+- pkg:nuget/BridgeRpc.AspNetCore.Router@0.0.3
+- pkg:nuget/BridgeRpc.AspNetCore.Router@0.0.4
+- pkg:nuget/BridgeRpc.AspNetCore.Router@0.0.5
+- pkg:nuget/BridgeRpc.AspNetCore.Router@0.0.6
+- pkg:nuget/BridgeRpc.AspNetCore.Router@1.0.0
+- pkg:nuget/BridgeRpc.AspNetCore.Router@1.0.0-alpah1
+- pkg:nuget/BridgeRpc.AspNetCore.Router@1.0.0-alpha2
+- pkg:nuget/BridgeRpc.AspNetCore.Router@1.1.0
+- pkg:nuget/BridgeRpc.AspNetCore.Router@1.2.0
+- pkg:nuget/BridgeRpc.AspNetCore.Router@1.3.0
+- pkg:nuget/BridgeRpc.AspNetCore.Router@1.4.0
+- pkg:nuget/BridgeRpc.AspNetCore.Router@1.5.0

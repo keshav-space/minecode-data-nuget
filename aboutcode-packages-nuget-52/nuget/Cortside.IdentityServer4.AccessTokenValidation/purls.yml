@@ -1,0 +1,6 @@
+- pkg:nuget/Cortside.IdentityServer4.AccessTokenValidation@0.0.0-alpha.0.143
+- pkg:nuget/Cortside.IdentityServer4.AccessTokenValidation@6.0.3-develop
+- pkg:nuget/Cortside.IdentityServer4.AccessTokenValidation@6.0.4
+- pkg:nuget/Cortside.IdentityServer4.AccessTokenValidation@6.0.7-net8
+- pkg:nuget/Cortside.IdentityServer4.AccessTokenValidation@6.0.8
+- pkg:nuget/Cortside.IdentityServer4.AccessTokenValidation@6.0.9

@@ -1,0 +1,5 @@
+- pkg:nuget/Netcool.Swashbuckle.AspNetCore@1.0.0
+- pkg:nuget/Netcool.Swashbuckle.AspNetCore@1.1.0
+- pkg:nuget/Netcool.Swashbuckle.AspNetCore@1.2.0
+- pkg:nuget/Netcool.Swashbuckle.AspNetCore@8.0.0
+- pkg:nuget/Netcool.Swashbuckle.AspNetCore@9.0.0

@@ -1,0 +1,10 @@
+- pkg:nuget/DHI.Services.Places.WebApi@2.0.0
+- pkg:nuget/DHI.Services.Places.WebApi@3.0.0
+- pkg:nuget/DHI.Services.Places.WebApi@3.0.0-rc1
+- pkg:nuget/DHI.Services.Places.WebApi@3.0.0-rc2
+- pkg:nuget/DHI.Services.Places.WebApi@4.0.0
+- pkg:nuget/DHI.Services.Places.WebApi@4.0.1
+- pkg:nuget/DHI.Services.Places.WebApi@4.0.2
+- pkg:nuget/DHI.Services.Places.WebApi@4.1.0
+- pkg:nuget/DHI.Services.Places.WebApi@4.1.2
+- pkg:nuget/DHI.Services.Places.WebApi@4.1.3

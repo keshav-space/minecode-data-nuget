@@ -1,0 +1,9 @@
+- pkg:nuget/SwaggerUI.AspNetCore@5.26.0
+- pkg:nuget/SwaggerUI.AspNetCore@5.26.0-preview-001
+- pkg:nuget/SwaggerUI.AspNetCore@5.26.0-preview-002
+- pkg:nuget/SwaggerUI.AspNetCore@5.26.2
+- pkg:nuget/SwaggerUI.AspNetCore@5.27.0
+- pkg:nuget/SwaggerUI.AspNetCore@5.27.1
+- pkg:nuget/SwaggerUI.AspNetCore@5.28.0
+- pkg:nuget/SwaggerUI.AspNetCore@5.28.1
+- pkg:nuget/SwaggerUI.AspNetCore@5.29.0

@@ -1,0 +1,5 @@
+- pkg:nuget/TestLibraryMultiTarget@1.0.0
+- pkg:nuget/TestLibraryMultiTarget@1.0.1
+- pkg:nuget/TestLibraryMultiTarget@1.0.2
+- pkg:nuget/TestLibraryMultiTarget@1.0.3
+- pkg:nuget/TestLibraryMultiTarget@1.0.4

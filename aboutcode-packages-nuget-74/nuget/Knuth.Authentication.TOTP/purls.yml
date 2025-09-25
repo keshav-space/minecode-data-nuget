@@ -1,0 +1,3 @@
+- pkg:nuget/Knuth.Authentication.TOTP@0.0.1
+- pkg:nuget/Knuth.Authentication.TOTP@0.0.2
+- pkg:nuget/Knuth.Authentication.TOTP@0.0.3

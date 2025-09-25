@@ -1,0 +1,8 @@
+- pkg:nuget/MediatR.Extensions.Microsoft.AspNetCore@1.0.0
+- pkg:nuget/MediatR.Extensions.Microsoft.AspNetCore@2.0.0
+- pkg:nuget/MediatR.Extensions.Microsoft.AspNetCore@3.0.0
+- pkg:nuget/MediatR.Extensions.Microsoft.AspNetCore@3.0.1
+- pkg:nuget/MediatR.Extensions.Microsoft.AspNetCore@4.0.0
+- pkg:nuget/MediatR.Extensions.Microsoft.AspNetCore@5.0.0
+- pkg:nuget/MediatR.Extensions.Microsoft.AspNetCore@6.0.0
+- pkg:nuget/MediatR.Extensions.Microsoft.AspNetCore@7.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/WebAutomationFrameworkCore@1.0.0
+- pkg:nuget/WebAutomationFrameworkCore@1.0.2-alpha
+- pkg:nuget/WebAutomationFrameworkCore@1.0.3-alpha

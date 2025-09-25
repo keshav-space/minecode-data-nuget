@@ -1,0 +1,3 @@
+- pkg:nuget/NServiceBus.AttributeRouting.Contracts@0.0.1
+- pkg:nuget/NServiceBus.AttributeRouting.Contracts@0.0.2
+- pkg:nuget/NServiceBus.AttributeRouting.Contracts@1.0.0

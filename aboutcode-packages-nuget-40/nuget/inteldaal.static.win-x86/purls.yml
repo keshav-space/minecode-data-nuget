@@ -1,0 +1,7 @@
+- pkg:nuget/inteldaal.static.win-x86@2019.3.235
+- pkg:nuget/inteldaal.static.win-x86@2019.4.245
+- pkg:nuget/inteldaal.static.win-x86@2019.5.281
+- pkg:nuget/inteldaal.static.win-x86@2020.0.166
+- pkg:nuget/inteldaal.static.win-x86@2020.1.216
+- pkg:nuget/inteldaal.static.win-x86@2020.2.254
+- pkg:nuget/inteldaal.static.win-x86@2020.3.311

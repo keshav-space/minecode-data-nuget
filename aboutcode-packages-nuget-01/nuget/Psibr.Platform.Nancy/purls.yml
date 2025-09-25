@@ -1,0 +1,15 @@
+- pkg:nuget/Psibr.Platform.Nancy@1.0.0
+- pkg:nuget/Psibr.Platform.Nancy@1.2.1
+- pkg:nuget/Psibr.Platform.Nancy@2.0.0
+- pkg:nuget/Psibr.Platform.Nancy@2.0.2
+- pkg:nuget/Psibr.Platform.Nancy@3.0.0
+- pkg:nuget/Psibr.Platform.Nancy@3.0.1
+- pkg:nuget/Psibr.Platform.Nancy@3.0.2
+- pkg:nuget/Psibr.Platform.Nancy@4.0.0
+- pkg:nuget/Psibr.Platform.Nancy@4.0.0-pre8
+- pkg:nuget/Psibr.Platform.Nancy@4.0.1
+- pkg:nuget/Psibr.Platform.Nancy@4.0.2
+- pkg:nuget/Psibr.Platform.Nancy@5.0.0
+- pkg:nuget/Psibr.Platform.Nancy@5.0.2-alpha
+- pkg:nuget/Psibr.Platform.Nancy@5.0.3-alpha
+- pkg:nuget/Psibr.Platform.Nancy@5.0.4-alpha

@@ -1,0 +1,8 @@
+- pkg:nuget/doud.appsettings.connectionstring.encryption@0.5.0
+- pkg:nuget/doud.appsettings.connectionstring.encryption@0.6.0
+- pkg:nuget/doud.appsettings.connectionstring.encryption@0.7.0
+- pkg:nuget/doud.appsettings.connectionstring.encryption@0.7.0-alpha
+- pkg:nuget/doud.appsettings.connectionstring.encryption@0.8.0-beta1
+- pkg:nuget/doud.appsettings.connectionstring.encryption@0.8.1-beta1
+- pkg:nuget/doud.appsettings.connectionstring.encryption@1.0.0
+- pkg:nuget/doud.appsettings.connectionstring.encryption@1.0.1

@@ -1,0 +1,7 @@
+- pkg:nuget/AspNet.Identity.MongoDB-2@1.0.0-alpha
+- pkg:nuget/AspNet.Identity.MongoDB-2@1.0.0-beta
+- pkg:nuget/AspNet.Identity.MongoDB-2@2.0.0
+- pkg:nuget/AspNet.Identity.MongoDB-2@2.0.0-alpha
+- pkg:nuget/AspNet.Identity.MongoDB-2@2.0.0-alpha1
+- pkg:nuget/AspNet.Identity.MongoDB-2@2.0.0-rc
+- pkg:nuget/AspNet.Identity.MongoDB-2@2.0.1

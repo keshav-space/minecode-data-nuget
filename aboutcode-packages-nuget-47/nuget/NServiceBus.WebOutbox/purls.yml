@@ -1,0 +1,5 @@
+- pkg:nuget/NServiceBus.WebOutbox@1.0.0
+- pkg:nuget/NServiceBus.WebOutbox@1.0.0-rc
+- pkg:nuget/NServiceBus.WebOutbox@2.0.0
+- pkg:nuget/NServiceBus.WebOutbox@2.0.1
+- pkg:nuget/NServiceBus.WebOutbox@3.0.0

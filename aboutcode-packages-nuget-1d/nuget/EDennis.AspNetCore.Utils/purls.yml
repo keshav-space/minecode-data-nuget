@@ -1,0 +1,5 @@
+- pkg:nuget/EDennis.AspNetCore.Utils@0.1.0-alpha
+- pkg:nuget/EDennis.AspNetCore.Utils@1.0.0
+- pkg:nuget/EDennis.AspNetCore.Utils@1.0.1
+- pkg:nuget/EDennis.AspNetCore.Utils@1.1.0
+- pkg:nuget/EDennis.AspNetCore.Utils@1.1.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.NET.Sdk.BlazorWebAssembly.AOT@6.0.0-preview.2.21154.6
+- pkg:nuget/Microsoft.NET.Sdk.BlazorWebAssembly.AOT@6.0.0-preview.3.21201.13
+- pkg:nuget/Microsoft.NET.Sdk.BlazorWebAssembly.AOT@6.0.0-preview.4.21253.5
+- pkg:nuget/Microsoft.NET.Sdk.BlazorWebAssembly.AOT@6.0.0-preview.5.21301.17

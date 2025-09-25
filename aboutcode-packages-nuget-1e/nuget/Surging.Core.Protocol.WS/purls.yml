@@ -1,0 +1,4 @@
+- pkg:nuget/Surging.Core.Protocol.WS@0.9.0.2
+- pkg:nuget/Surging.Core.Protocol.WS@0.9.5.1
+- pkg:nuget/Surging.Core.Protocol.WS@1.0.0
+- pkg:nuget/Surging.Core.Protocol.WS@1.1.0

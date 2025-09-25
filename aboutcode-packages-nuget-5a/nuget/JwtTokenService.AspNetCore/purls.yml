@@ -1,0 +1,3 @@
+- pkg:nuget/JwtTokenService.AspNetCore@1.0.0
+- pkg:nuget/JwtTokenService.AspNetCore@1.0.1
+- pkg:nuget/JwtTokenService.AspNetCore@1.0.2

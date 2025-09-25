@@ -1,0 +1,9 @@
+- pkg:nuget/Meteor.AspCore@0.10.0
+- pkg:nuget/Meteor.AspCore@0.11.0
+- pkg:nuget/Meteor.AspCore@0.11.1
+- pkg:nuget/Meteor.AspCore@0.11.2
+- pkg:nuget/Meteor.AspCore@0.11.5
+- pkg:nuget/Meteor.AspCore@0.11.7
+- pkg:nuget/Meteor.AspCore@0.7.0
+- pkg:nuget/Meteor.AspCore@0.7.1
+- pkg:nuget/Meteor.AspCore@0.9.1

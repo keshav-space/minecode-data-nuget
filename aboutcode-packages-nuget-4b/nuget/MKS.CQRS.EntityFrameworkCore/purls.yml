@@ -1,0 +1,5 @@
+- pkg:nuget/MKS.CQRS.EntityFrameworkCore@9.0.6
+- pkg:nuget/MKS.CQRS.EntityFrameworkCore@9.1.0
+- pkg:nuget/MKS.CQRS.EntityFrameworkCore@9.2.0
+- pkg:nuget/MKS.CQRS.EntityFrameworkCore@9.2.1
+- pkg:nuget/MKS.CQRS.EntityFrameworkCore@9.2.2

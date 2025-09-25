@@ -1,0 +1,12 @@
+- pkg:nuget/AutoMapper.Unity@1.0.17
+- pkg:nuget/AutoMapper.Unity@1.1.23
+- pkg:nuget/AutoMapper.Unity@2.0.10
+- pkg:nuget/AutoMapper.Unity@2.0.2
+- pkg:nuget/AutoMapper.Unity@2.0.7
+- pkg:nuget/AutoMapper.Unity@2.0.9
+- pkg:nuget/AutoMapper.Unity@4.0.12
+- pkg:nuget/AutoMapper.Unity@4.0.13
+- pkg:nuget/AutoMapper.Unity@5.0.16
+- pkg:nuget/AutoMapper.Unity@5.0.17-ci0001
+- pkg:nuget/AutoMapper.Unity@6.0.0
+- pkg:nuget/AutoMapper.Unity@7.0.0-pcl0003

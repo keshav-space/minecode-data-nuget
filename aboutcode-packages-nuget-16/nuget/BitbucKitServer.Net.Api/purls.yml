@@ -1,0 +1,3 @@
+- pkg:nuget/BitbucKitServer.Net.Api@1.2.2-custom-0
+- pkg:nuget/BitbucKitServer.Net.Api@1.2.3
+- pkg:nuget/BitbucKitServer.Net.Api@1.2.4

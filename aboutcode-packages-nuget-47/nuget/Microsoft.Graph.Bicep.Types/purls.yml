@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.0-preview.1
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.0-preview.2
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.0-preview.3
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.0-preview.4
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.0-preview.5
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.1-preview
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.2-preview
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.3-preview
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.4-preview
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.5-preview
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.6-preview
+- pkg:nuget/Microsoft.Graph.Bicep.Types@0.1.7-preview

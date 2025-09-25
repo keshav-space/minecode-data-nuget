@@ -1,0 +1,4 @@
+- pkg:nuget/Codeslingers.RaptorLog.Client.OtlpCollector@7.0.0-BETA1
+- pkg:nuget/Codeslingers.RaptorLog.Client.OtlpCollector@7.0.0-BETA2
+- pkg:nuget/Codeslingers.RaptorLog.Client.OtlpCollector@7.0.0-BETA3
+- pkg:nuget/Codeslingers.RaptorLog.Client.OtlpCollector@7.0.0-BETA4

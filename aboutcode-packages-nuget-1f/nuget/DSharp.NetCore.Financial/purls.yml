@@ -1,0 +1,7 @@
+- pkg:nuget/DSharp.NetCore.Financial@6.1.4
+- pkg:nuget/DSharp.NetCore.Financial@6.3.0
+- pkg:nuget/DSharp.NetCore.Financial@6.5.1
+- pkg:nuget/DSharp.NetCore.Financial@8.0.0
+- pkg:nuget/DSharp.NetCore.Financial@8.0.1
+- pkg:nuget/DSharp.NetCore.Financial@8.0.2
+- pkg:nuget/DSharp.NetCore.Financial@8.0.3
