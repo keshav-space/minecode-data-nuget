@@ -1,0 +1,2 @@
+- pkg:nuget/MongoDb.DatabaseProvider.StaticProvider@1.0.0
+- pkg:nuget/MongoDb.DatabaseProvider.StaticProvider@1.0.7

@@ -1,0 +1,3 @@
+- pkg:nuget/CodedThought.Core.Transport@6.0.0.8
+- pkg:nuget/CodedThought.Core.Transport@7.0.0
+- pkg:nuget/CodedThought.Core.Transport@8.0.0

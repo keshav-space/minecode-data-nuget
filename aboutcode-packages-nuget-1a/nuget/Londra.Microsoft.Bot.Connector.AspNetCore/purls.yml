@@ -1,0 +1,5 @@
+- pkg:nuget/Londra.Microsoft.Bot.Connector.AspNetCore@3.8.0
+- pkg:nuget/Londra.Microsoft.Bot.Connector.AspNetCore@3.8.1
+- pkg:nuget/Londra.Microsoft.Bot.Connector.AspNetCore@3.8.1.1
+- pkg:nuget/Londra.Microsoft.Bot.Connector.AspNetCore@3.8.1.2
+- pkg:nuget/Londra.Microsoft.Bot.Connector.AspNetCore@3.8.1.3
