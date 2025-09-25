@@ -1,0 +1,5 @@
+- pkg:nuget/CourtNotify.ClientLibrary.NETFramework@1.0.0
+- pkg:nuget/CourtNotify.ClientLibrary.NETFramework@1.1.0
+- pkg:nuget/CourtNotify.ClientLibrary.NETFramework@1.2.0
+- pkg:nuget/CourtNotify.ClientLibrary.NETFramework@2.0.0
+- pkg:nuget/CourtNotify.ClientLibrary.NETFramework@2.1.0

@@ -1,0 +1,4 @@
+- pkg:nuget/NCoreUtils.Authentication.External.OpenId@1.0.1
+- pkg:nuget/NCoreUtils.Authentication.External.OpenId@1.1.0
+- pkg:nuget/NCoreUtils.Authentication.External.OpenId@1.1.1
+- pkg:nuget/NCoreUtils.Authentication.External.OpenId@1.1.2

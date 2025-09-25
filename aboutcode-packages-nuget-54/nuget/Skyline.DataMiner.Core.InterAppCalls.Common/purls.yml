@@ -1,0 +1,15 @@
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-10.1.0.1.0.0.X.3
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-10.1.0.1.0.0.X.5
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-10.1.0.1.0.0.X.6
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-10.1.0.1.0.0.X.7
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-PreProcessingRawData-AllowOldNamespaces.7
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-UpdateToPackages.3
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-UpdateToPackages.4
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-UpdateToPackages.5
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-dev.SecurityRisks.1
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0-dev.SecurityRisks.2
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0.1
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0.2
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.0.3
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.0.1.1
+- pkg:nuget/Skyline.DataMiner.Core.InterAppCalls.Common@1.1.0.1

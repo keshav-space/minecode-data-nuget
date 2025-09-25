@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.Z3@4.10.1
+- pkg:nuget/Microsoft.Z3@4.10.2
+- pkg:nuget/Microsoft.Z3@4.11.0
+- pkg:nuget/Microsoft.Z3@4.11.2
+- pkg:nuget/Microsoft.Z3@4.12.0
+- pkg:nuget/Microsoft.Z3@4.12.2
+- pkg:nuget/Microsoft.Z3@4.4.1
+- pkg:nuget/Microsoft.Z3@4.8.11
+- pkg:nuget/Microsoft.Z3@4.8.12
+- pkg:nuget/Microsoft.Z3@4.8.13
+- pkg:nuget/Microsoft.Z3@4.8.14
+- pkg:nuget/Microsoft.Z3@4.8.16
+- pkg:nuget/Microsoft.Z3@4.8.17
+- pkg:nuget/Microsoft.Z3@4.9.1

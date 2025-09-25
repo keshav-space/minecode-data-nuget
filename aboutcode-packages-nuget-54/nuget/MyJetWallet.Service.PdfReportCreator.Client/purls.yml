@@ -1,0 +1,6 @@
+- pkg:nuget/MyJetWallet.Service.PdfReportCreator.Client@1.0.0
+- pkg:nuget/MyJetWallet.Service.PdfReportCreator.Client@2.1.12
+- pkg:nuget/MyJetWallet.Service.PdfReportCreator.Client@2.1.15
+- pkg:nuget/MyJetWallet.Service.PdfReportCreator.Client@2.1.18
+- pkg:nuget/MyJetWallet.Service.PdfReportCreator.Client@2.1.31
+- pkg:nuget/MyJetWallet.Service.PdfReportCreator.Client@2.1.32

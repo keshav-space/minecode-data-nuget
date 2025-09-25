@@ -1,0 +1,9 @@
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.2.0
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.2.1
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.2.2
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.2.3
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.3.0
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.3.1
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.3.2
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.3.3
+- pkg:nuget/JS.Abp.DynamicMenu.Blazor.WebAssembly.Bundling@9.3.4

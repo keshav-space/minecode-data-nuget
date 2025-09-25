@@ -1,0 +1,7 @@
+- pkg:nuget/Ultz.Private.ClangSharp.Interop@2021.10.1-nightly
+- pkg:nuget/Ultz.Private.ClangSharp.Interop@2021.10.1-nightly2
+- pkg:nuget/Ultz.Private.ClangSharp.Interop@2021.10.10-nightly
+- pkg:nuget/Ultz.Private.ClangSharp.Interop@2021.10.11-nightly
+- pkg:nuget/Ultz.Private.ClangSharp.Interop@2021.10.12-nightly
+- pkg:nuget/Ultz.Private.ClangSharp.Interop@2021.10.15-nightly
+- pkg:nuget/Ultz.Private.ClangSharp.Interop@2021.10.17-nightly

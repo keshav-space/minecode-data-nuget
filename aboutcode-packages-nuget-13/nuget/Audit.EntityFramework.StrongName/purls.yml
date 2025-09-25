@@ -1,0 +1,11 @@
+- pkg:nuget/Audit.EntityFramework.StrongName@4.10.0
+- pkg:nuget/Audit.EntityFramework.StrongName@4.11.0
+- pkg:nuget/Audit.EntityFramework.StrongName@4.8.0
+- pkg:nuget/Audit.EntityFramework.StrongName@4.9.0
+- pkg:nuget/Audit.EntityFramework.StrongName@5.0.0
+- pkg:nuget/Audit.EntityFramework.StrongName@5.1.0
+- pkg:nuget/Audit.EntityFramework.StrongName@5.2.0
+- pkg:nuget/Audit.EntityFramework.StrongName@5.3.0
+- pkg:nuget/Audit.EntityFramework.StrongName@6.0.0
+- pkg:nuget/Audit.EntityFramework.StrongName@6.1.0
+- pkg:nuget/Audit.EntityFramework.StrongName@6.2.0

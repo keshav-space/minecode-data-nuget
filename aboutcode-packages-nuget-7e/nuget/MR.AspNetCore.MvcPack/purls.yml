@@ -1,0 +1,3 @@
+- pkg:nuget/MR.AspNetCore.MvcPack@0.1.0
+- pkg:nuget/MR.AspNetCore.MvcPack@1.0.0
+- pkg:nuget/MR.AspNetCore.MvcPack@2.0.0

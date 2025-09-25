@@ -1,0 +1,16 @@
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@3.0.3.40
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@3.0.3.41
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@3.0.3.44
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@4.1.0.10
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@5.0.0.19
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@5.0.0.21
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@5.0.0.22
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@5.0.0.24
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@5.0.1.25
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@5.0.1.32
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@5.0.2.33
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@5.0.2.34
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@6.0.10
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@6.0.5
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@6.0.8
+- pkg:nuget/Obvs.Serialization.MessagePack-CSharp@6.0.9

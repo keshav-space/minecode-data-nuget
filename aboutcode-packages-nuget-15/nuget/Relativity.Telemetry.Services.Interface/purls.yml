@@ -1,0 +1,5 @@
+- pkg:nuget/Relativity.Telemetry.Services.Interface@2019.1.0
+- pkg:nuget/Relativity.Telemetry.Services.Interface@3000.0.0
+- pkg:nuget/Relativity.Telemetry.Services.Interface@3000.0.1
+- pkg:nuget/Relativity.Telemetry.Services.Interface@3003.0.1
+- pkg:nuget/Relativity.Telemetry.Services.Interface@3003.0.2

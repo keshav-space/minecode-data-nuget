@@ -1,0 +1,6 @@
+- pkg:nuget/CoreBuild@0.5.1%2Bsha.b2f6912
+- pkg:nuget/CoreBuild@0.5.2%2Bsha.06b4b42
+- pkg:nuget/CoreBuild@1.0.0-alpha%2Bsha.b91dc4f
+- pkg:nuget/CoreBuild@1.0.0-beta%2Bsha.f0bc364
+- pkg:nuget/CoreBuild@1.0.0-beta.2%2Bsha.21f1d68
+- pkg:nuget/CoreBuild@1.0.0-rc%2Bsha.5664602

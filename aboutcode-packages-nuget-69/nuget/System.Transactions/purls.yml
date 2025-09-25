@@ -1,0 +1,5 @@
+- pkg:nuget/System.Transactions@4.0.0
+- pkg:nuget/System.Transactions@4.0.0-beta-devapi-24320-01
+- pkg:nuget/System.Transactions@4.0.0-beta-devapi-24418-01
+- pkg:nuget/System.Transactions@4.0.1
+- pkg:nuget/System.Transactions@4.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/Bcan.Backend.SharedKernel@0.1.1-dev
+- pkg:nuget/Bcan.Backend.SharedKernel@0.2.1-dev
+- pkg:nuget/Bcan.Backend.SharedKernel@0.2.3-dev
+- pkg:nuget/Bcan.Backend.SharedKernel@0.3.1-dev
+- pkg:nuget/Bcan.Backend.SharedKernel@0.4.1-dev

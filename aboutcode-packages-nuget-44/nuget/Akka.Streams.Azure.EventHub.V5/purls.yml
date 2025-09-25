@@ -1,0 +1,12 @@
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.0.1-beta1
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.0.1-beta2
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.0.1-beta3
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.0.1-beta4
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.4.49
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.5.0
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.5.0.1
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.5.15
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.5.18
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.5.28
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.5.7
+- pkg:nuget/Akka.Streams.Azure.EventHub.V5@1.5.8

@@ -1,0 +1,12 @@
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.3.5
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.3.5.1
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.3.6
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.3.7
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.3.8
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.3.9
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.6.0
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.6.1
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.6.2
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.6.3
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.6.4
+- pkg:nuget/MySqlBackup.NET.MySqlConnector@2.6.5

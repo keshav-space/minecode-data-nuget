@@ -1,0 +1,5 @@
+- pkg:nuget/Innovine.EntityFrameworkCoreExtensions@1.0.0
+- pkg:nuget/Innovine.EntityFrameworkCoreExtensions@2.0.0
+- pkg:nuget/Innovine.EntityFrameworkCoreExtensions@3.0.0
+- pkg:nuget/Innovine.EntityFrameworkCoreExtensions@4.0.0
+- pkg:nuget/Innovine.EntityFrameworkCoreExtensions@4.0.1

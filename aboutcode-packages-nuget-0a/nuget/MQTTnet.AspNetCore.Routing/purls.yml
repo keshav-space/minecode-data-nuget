@@ -1,0 +1,10 @@
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.11
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.16
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.22
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.23
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.30
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.35
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.37
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.39
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.43
+- pkg:nuget/MQTTnet.AspNetCore.Routing@0.4.8

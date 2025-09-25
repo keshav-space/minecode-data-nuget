@@ -1,0 +1,16 @@
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.0.1-beta
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.0.2-beta
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.0.3-beta
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.0.4-beta
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.0.5-beta
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.0.6-beta
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.1.0
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.1.1
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.2.0
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.3.0
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.3.1
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.3.2-alpha
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.3.3
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.3.4
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.3.7
+- pkg:nuget/FluentdForward.OpenTelemetry.Exporter.Logs@0.3.8

@@ -1,0 +1,6 @@
+- pkg:nuget/Innovine.DapperCore.PostgreSQL@1.0.0
+- pkg:nuget/Innovine.DapperCore.PostgreSQL@2.0.0
+- pkg:nuget/Innovine.DapperCore.PostgreSQL@2.0.1
+- pkg:nuget/Innovine.DapperCore.PostgreSQL@3.0.1
+- pkg:nuget/Innovine.DapperCore.PostgreSQL@4.0.1
+- pkg:nuget/Innovine.DapperCore.PostgreSQL@4.0.2

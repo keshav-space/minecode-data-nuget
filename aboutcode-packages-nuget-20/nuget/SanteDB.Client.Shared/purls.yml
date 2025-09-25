@@ -1,0 +1,14 @@
+- pkg:nuget/SanteDB.Client.Shared@3.0.2001-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2002
+- pkg:nuget/SanteDB.Client.Shared@3.0.2003-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2005-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2006-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2007-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2008-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2009-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2010-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2011-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2012-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2013-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2014-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2015-alpha

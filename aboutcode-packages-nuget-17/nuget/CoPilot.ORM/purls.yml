@@ -1,0 +1,15 @@
+- pkg:nuget/CoPilot.ORM@0.7.5-alpha
+- pkg:nuget/CoPilot.ORM@0.7.6-alpha
+- pkg:nuget/CoPilot.ORM@0.7.7-alpha
+- pkg:nuget/CoPilot.ORM@0.7.8-alpha
+- pkg:nuget/CoPilot.ORM@0.7.9-alpha
+- pkg:nuget/CoPilot.ORM@0.8.0-alpha
+- pkg:nuget/CoPilot.ORM@0.8.1-alpha
+- pkg:nuget/CoPilot.ORM@0.8.2-alpha
+- pkg:nuget/CoPilot.ORM@0.8.3-alpha
+- pkg:nuget/CoPilot.ORM@1.0.0-beta
+- pkg:nuget/CoPilot.ORM@1.0.1
+- pkg:nuget/CoPilot.ORM@2.0.0-alpha
+- pkg:nuget/CoPilot.ORM@2.0.1-alpha
+- pkg:nuget/CoPilot.ORM@2.0.2-alpha
+- pkg:nuget/CoPilot.ORM@2.0.3

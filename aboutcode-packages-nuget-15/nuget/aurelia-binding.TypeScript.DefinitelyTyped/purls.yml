@@ -1,0 +1,5 @@
+- pkg:nuget/aurelia-binding.TypeScript.DefinitelyTyped@0.10.0
+- pkg:nuget/aurelia-binding.TypeScript.DefinitelyTyped@0.12.0
+- pkg:nuget/aurelia-binding.TypeScript.DefinitelyTyped@0.12.1
+- pkg:nuget/aurelia-binding.TypeScript.DefinitelyTyped@1.0.0-beta
+- pkg:nuget/aurelia-binding.TypeScript.DefinitelyTyped@1.2.1

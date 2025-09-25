@@ -1,0 +1,4 @@
+- pkg:nuget/CSZeroMQ@0.1.0
+- pkg:nuget/CSZeroMQ@0.1.1-preview1
+- pkg:nuget/CSZeroMQ@0.1.1-preview2
+- pkg:nuget/CSZeroMQ@0.1.1-preview3

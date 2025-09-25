@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@15.8.112
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@15.8.117
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@15.8.118
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@15.8.53-alpha
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@15.8.55-alpha
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@15.8.87-alpha
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@15.8.89-alpha
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@15.8.98
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@16.0.12-beta
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@16.1.8
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@16.3.4-alpha
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@16.3.7
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@16.4.11
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@16.9.13
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@16.9.20
+- pkg:nuget/Microsoft.VisualStudio.Composition.NetFxAttributes@16.9.6-alpha

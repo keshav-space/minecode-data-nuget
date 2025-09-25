@@ -1,0 +1,9 @@
+- pkg:nuget/Abp.Castle.NLog@3.4.0
+- pkg:nuget/Abp.Castle.NLog@3.5.0
+- pkg:nuget/Abp.Castle.NLog@3.6.0
+- pkg:nuget/Abp.Castle.NLog@3.6.1
+- pkg:nuget/Abp.Castle.NLog@3.6.2
+- pkg:nuget/Abp.Castle.NLog@3.7.2
+- pkg:nuget/Abp.Castle.NLog@3.8.1
+- pkg:nuget/Abp.Castle.NLog@4.6.0
+- pkg:nuget/Abp.Castle.NLog@4.6.0.1

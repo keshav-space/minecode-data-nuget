@@ -1,0 +1,16 @@
+- pkg:nuget/APF.Gateway.Logger@8.0.0-Beta-01
+- pkg:nuget/APF.Gateway.Logger@8.0.0-Beta-02
+- pkg:nuget/APF.Gateway.Logger@8.0.0-Beta-03
+- pkg:nuget/APF.Gateway.Logger@8.0.0-Beta-03.1
+- pkg:nuget/APF.Gateway.Logger@8.0.0-Beta-03.2
+- pkg:nuget/APF.Gateway.Logger@8.0.0-Beta-03.3
+- pkg:nuget/APF.Gateway.Logger@8.0.0.12-migration-01
+- pkg:nuget/APF.Gateway.Logger@8.0.0.13-Beta-01
+- pkg:nuget/APF.Gateway.Logger@8.0.0.13-Beta-02
+- pkg:nuget/APF.Gateway.Logger@8.0.0.13-Beta-03
+- pkg:nuget/APF.Gateway.Logger@8.0.0.4-Beta
+- pkg:nuget/APF.Gateway.Logger@8.0.0.5-Beta
+- pkg:nuget/APF.Gateway.Logger@8.0.0.6-Beta
+- pkg:nuget/APF.Gateway.Logger@8.0.0.7-Beta
+- pkg:nuget/APF.Gateway.Logger@8.0.0.8-Beta
+- pkg:nuget/APF.Gateway.Logger@8.0.0.9-Beta

@@ -1,0 +1,14 @@
+- pkg:nuget/Differ.DotNet@0.0.1-alpha
+- pkg:nuget/Differ.DotNet@1.0.0
+- pkg:nuget/Differ.DotNet@2.0.0
+- pkg:nuget/Differ.DotNet@2.0.1
+- pkg:nuget/Differ.DotNet@2.0.2
+- pkg:nuget/Differ.DotNet@2.0.3
+- pkg:nuget/Differ.DotNet@2.0.4-optional-keep
+- pkg:nuget/Differ.DotNet@2.1.0
+- pkg:nuget/Differ.DotNet@2.1.1
+- pkg:nuget/Differ.DotNet@2.1.2
+- pkg:nuget/Differ.DotNet@2.1.3
+- pkg:nuget/Differ.DotNet@2.1.4
+- pkg:nuget/Differ.DotNet@2.1.5
+- pkg:nuget/Differ.DotNet@2.2.0

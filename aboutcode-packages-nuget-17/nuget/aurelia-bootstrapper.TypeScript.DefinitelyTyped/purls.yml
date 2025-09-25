@@ -1,0 +1,3 @@
+- pkg:nuget/aurelia-bootstrapper.TypeScript.DefinitelyTyped@0.10.0
+- pkg:nuget/aurelia-bootstrapper.TypeScript.DefinitelyTyped@1.0.0-beta
+- pkg:nuget/aurelia-bootstrapper.TypeScript.DefinitelyTyped@2.1.1

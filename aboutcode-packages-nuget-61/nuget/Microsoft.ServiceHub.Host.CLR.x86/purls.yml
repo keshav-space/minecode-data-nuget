@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@2.0.69
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@2.1.20
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@2.3.56
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@2.4.227
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@2.6.92
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@2.7.100
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@2.7.348
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@2.8.10
+- pkg:nuget/Microsoft.ServiceHub.Host.CLR.x86@3.1.3053

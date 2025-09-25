@@ -1,0 +1,6 @@
+- pkg:nuget/AWSSQS.LongPoll.BackgroundService@1.0.0
+- pkg:nuget/AWSSQS.LongPoll.BackgroundService@1.0.1
+- pkg:nuget/AWSSQS.LongPoll.BackgroundService@1.2.0
+- pkg:nuget/AWSSQS.LongPoll.BackgroundService@2.0.0
+- pkg:nuget/AWSSQS.LongPoll.BackgroundService@3.0.0
+- pkg:nuget/AWSSQS.LongPoll.BackgroundService@4.0.0
