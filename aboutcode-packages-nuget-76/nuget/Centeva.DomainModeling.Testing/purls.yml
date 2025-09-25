@@ -1,0 +1,9 @@
+- pkg:nuget/Centeva.DomainModeling.Testing@10.0.0
+- pkg:nuget/Centeva.DomainModeling.Testing@10.1.0
+- pkg:nuget/Centeva.DomainModeling.Testing@10.1.0-tags-v10-1-0-pre-1.1
+- pkg:nuget/Centeva.DomainModeling.Testing@10.2.0
+- pkg:nuget/Centeva.DomainModeling.Testing@7.0.0
+- pkg:nuget/Centeva.DomainModeling.Testing@8.0.0
+- pkg:nuget/Centeva.DomainModeling.Testing@8.1.0
+- pkg:nuget/Centeva.DomainModeling.Testing@9.0.0
+- pkg:nuget/Centeva.DomainModeling.Testing@9.0.0-pre.1

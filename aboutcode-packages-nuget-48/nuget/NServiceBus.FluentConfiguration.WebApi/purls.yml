@@ -1,0 +1,12 @@
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@1.0.0
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@1.0.1
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@1.0.2
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@1.0.3
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@1.0.4
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@1.0.5
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@1.1.0
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@1.2.0
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@6.8.0
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@8.8.0
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@8.8.1
+- pkg:nuget/NServiceBus.FluentConfiguration.WebApi@8.9.0

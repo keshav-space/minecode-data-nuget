@@ -1,0 +1,2 @@
+- pkg:nuget/Bootstrapper.MongoDB@1.8.0
+- pkg:nuget/Bootstrapper.MongoDB@2.0.3.13

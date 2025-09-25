@@ -1,0 +1,5 @@
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Identity@1.0.0
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Identity@1.1.0
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Identity@2.0.0
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Identity@2.0.1
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Identity@3.0.0

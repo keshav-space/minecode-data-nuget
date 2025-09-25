@@ -1,0 +1,5 @@
+- pkg:nuget/KutCode.Security.Ldap.DependencyInjection@1.1.0
+- pkg:nuget/KutCode.Security.Ldap.DependencyInjection@1.2.0
+- pkg:nuget/KutCode.Security.Ldap.DependencyInjection@1.5.0
+- pkg:nuget/KutCode.Security.Ldap.DependencyInjection@1.5.10
+- pkg:nuget/KutCode.Security.Ldap.DependencyInjection@1.6.6

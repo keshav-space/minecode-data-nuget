@@ -1,0 +1,6 @@
+- pkg:nuget/Jens.AspNetCore.BackgroundJobs@1.0.0
+- pkg:nuget/Jens.AspNetCore.BackgroundJobs@6.0.0
+- pkg:nuget/Jens.AspNetCore.BackgroundJobs@7.0.0
+- pkg:nuget/Jens.AspNetCore.BackgroundJobs@7.1.0
+- pkg:nuget/Jens.AspNetCore.BackgroundJobs@7.1.1
+- pkg:nuget/Jens.AspNetCore.BackgroundJobs@7.1.2

@@ -1,0 +1,4 @@
+- pkg:nuget/Lts.RedisCache@1.0.0
+- pkg:nuget/Lts.RedisCache@1.0.1
+- pkg:nuget/Lts.RedisCache@1.1.0
+- pkg:nuget/Lts.RedisCache@1.1.1

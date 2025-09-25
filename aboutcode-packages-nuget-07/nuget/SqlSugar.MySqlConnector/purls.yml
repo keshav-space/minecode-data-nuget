@@ -1,0 +1,4 @@
+- pkg:nuget/SqlSugar.MySqlConnector@1.0.0
+- pkg:nuget/SqlSugar.MySqlConnector@5.0.9.1
+- pkg:nuget/SqlSugar.MySqlConnector@5.1.3.36
+- pkg:nuget/SqlSugar.MySqlConnector@5.1.3.42

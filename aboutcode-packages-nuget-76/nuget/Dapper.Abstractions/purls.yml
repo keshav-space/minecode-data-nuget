@@ -1,0 +1,9 @@
+- pkg:nuget/Dapper.Abstractions@1.0.1
+- pkg:nuget/Dapper.Abstractions@1.0.2
+- pkg:nuget/Dapper.Abstractions@1.0.3
+- pkg:nuget/Dapper.Abstractions@2.0.0
+- pkg:nuget/Dapper.Abstractions@2.0.1
+- pkg:nuget/Dapper.Abstractions@3.0.0
+- pkg:nuget/Dapper.Abstractions@3.0.0-preview
+- pkg:nuget/Dapper.Abstractions@3.0.1-preview
+- pkg:nuget/Dapper.Abstractions@4.0.0

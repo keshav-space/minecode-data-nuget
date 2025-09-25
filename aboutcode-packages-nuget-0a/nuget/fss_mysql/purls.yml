@@ -1,0 +1,13 @@
+- pkg:nuget/fss_mysql@1.4.0
+- pkg:nuget/fss_mysql@1.4.1
+- pkg:nuget/fss_mysql@1.5.0
+- pkg:nuget/fss_mysql@1.5.1
+- pkg:nuget/fss_mysql@1.5.2
+- pkg:nuget/fss_mysql@1.5.3
+- pkg:nuget/fss_mysql@1.5.5
+- pkg:nuget/fss_mysql@1.5.6
+- pkg:nuget/fss_mysql@1.5.7
+- pkg:nuget/fss_mysql@1.5.8
+- pkg:nuget/fss_mysql@1.5.9
+- pkg:nuget/fss_mysql@1.6.1
+- pkg:nuget/fss_mysql@2.0.0

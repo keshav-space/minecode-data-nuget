@@ -1,0 +1,13 @@
+- pkg:nuget/CircuitBreaker.Net@0.0.1-beta
+- pkg:nuget/CircuitBreaker.Net@0.1.0
+- pkg:nuget/CircuitBreaker.Net@0.1.0-beta
+- pkg:nuget/CircuitBreaker.Net@0.2.0-alpha
+- pkg:nuget/CircuitBreaker.Net@0.2.1-alpha
+- pkg:nuget/CircuitBreaker.Net@0.2.2
+- pkg:nuget/CircuitBreaker.Net@0.2.2-alpha
+- pkg:nuget/CircuitBreaker.Net@0.2.3
+- pkg:nuget/CircuitBreaker.Net@0.3.0
+- pkg:nuget/CircuitBreaker.Net@0.4.0
+- pkg:nuget/CircuitBreaker.Net@0.5.0
+- pkg:nuget/CircuitBreaker.Net@0.6.0
+- pkg:nuget/CircuitBreaker.Net@0.7.0

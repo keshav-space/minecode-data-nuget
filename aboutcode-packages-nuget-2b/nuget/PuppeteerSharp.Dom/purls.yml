@@ -1,0 +1,9 @@
+- pkg:nuget/PuppeteerSharp.Dom@1.0.0-preview11
+- pkg:nuget/PuppeteerSharp.Dom@1.0.15
+- pkg:nuget/PuppeteerSharp.Dom@1.0.16
+- pkg:nuget/PuppeteerSharp.Dom@2.0.19
+- pkg:nuget/PuppeteerSharp.Dom@2.0.21
+- pkg:nuget/PuppeteerSharp.Dom@3.0.24
+- pkg:nuget/PuppeteerSharp.Dom@4.0.27
+- pkg:nuget/PuppeteerSharp.Dom@5.0.40
+- pkg:nuget/PuppeteerSharp.Dom@5.0.43

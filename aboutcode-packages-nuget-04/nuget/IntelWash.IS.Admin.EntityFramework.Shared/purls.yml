@@ -1,0 +1,6 @@
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Shared@1.0.0
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Shared@1.1.0
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Shared@2.0.0
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Shared@2.0.1
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Shared@3.0.0
+- pkg:nuget/IntelWash.IS.Admin.EntityFramework.Shared@3.0.1

@@ -1,0 +1,16 @@
+- pkg:nuget/WixRestApi4Net@0.0.1-test
+- pkg:nuget/WixRestApi4Net@0.0.1.1-test
+- pkg:nuget/WixRestApi4Net@0.0.1.2-rc
+- pkg:nuget/WixRestApi4Net@0.0.1.2-test
+- pkg:nuget/WixRestApi4Net@0.0.1.3-rc
+- pkg:nuget/WixRestApi4Net@0.0.1.4-rc
+- pkg:nuget/WixRestApi4Net@0.0.1.41-rc
+- pkg:nuget/WixRestApi4Net@0.0.1.42-rc
+- pkg:nuget/WixRestApi4Net@0.0.1.43
+- pkg:nuget/WixRestApi4Net@0.0.1.44
+- pkg:nuget/WixRestApi4Net@0.0.1.45
+- pkg:nuget/WixRestApi4Net@0.0.1.50
+- pkg:nuget/WixRestApi4Net@0.0.1.51
+- pkg:nuget/WixRestApi4Net@0.0.1.52
+- pkg:nuget/WixRestApi4Net@0.0.1.53
+- pkg:nuget/WixRestApi4Net@0.0.1.54

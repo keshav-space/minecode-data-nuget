@@ -1,0 +1,5 @@
+- pkg:nuget/TotpLib@1.0.0
+- pkg:nuget/TotpLib@1.1.0
+- pkg:nuget/TotpLib@1.2.0
+- pkg:nuget/TotpLib@2.0.0
+- pkg:nuget/TotpLib@2.0.1

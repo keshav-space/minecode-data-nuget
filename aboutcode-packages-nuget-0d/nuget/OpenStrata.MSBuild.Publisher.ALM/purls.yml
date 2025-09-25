@@ -1,0 +1,7 @@
+- pkg:nuget/OpenStrata.MSBuild.Publisher.ALM@0.2.82-beta
+- pkg:nuget/OpenStrata.MSBuild.Publisher.ALM@0.2.83-beta
+- pkg:nuget/OpenStrata.MSBuild.Publisher.ALM@0.3.0-preview
+- pkg:nuget/OpenStrata.MSBuild.Publisher.ALM@0.3.32-preview
+- pkg:nuget/OpenStrata.MSBuild.Publisher.ALM@0.3.72-preview.1
+- pkg:nuget/OpenStrata.MSBuild.Publisher.ALM@0.3.76-preview
+- pkg:nuget/OpenStrata.MSBuild.Publisher.ALM@0.3.79-preview

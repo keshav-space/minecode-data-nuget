@@ -1,0 +1,6 @@
+- pkg:nuget/ArrangeDependencies.Autofac.EntityFrameworkCore@1.0.0
+- pkg:nuget/ArrangeDependencies.Autofac.EntityFrameworkCore@1.1.0
+- pkg:nuget/ArrangeDependencies.Autofac.EntityFrameworkCore@1.1.1
+- pkg:nuget/ArrangeDependencies.Autofac.EntityFrameworkCore@2.0.0
+- pkg:nuget/ArrangeDependencies.Autofac.EntityFrameworkCore@6.0.0
+- pkg:nuget/ArrangeDependencies.Autofac.EntityFrameworkCore@8.0.0

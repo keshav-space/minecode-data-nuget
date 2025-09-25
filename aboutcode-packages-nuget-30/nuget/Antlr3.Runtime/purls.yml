@@ -1,0 +1,6 @@
+- pkg:nuget/Antlr3.Runtime@3.5.0.3-alpha001
+- pkg:nuget/Antlr3.Runtime@3.5.0.3-alpha002
+- pkg:nuget/Antlr3.Runtime@3.5.1
+- pkg:nuget/Antlr3.Runtime@3.5.2-beta1
+- pkg:nuget/Antlr3.Runtime@3.5.2-beta2
+- pkg:nuget/Antlr3.Runtime@3.5.2-rc1

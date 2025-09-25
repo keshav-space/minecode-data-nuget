@@ -1,0 +1,17 @@
+- pkg:nuget/Hangfire.Autofac@1.0.0
+- pkg:nuget/Hangfire.Autofac@1.1.0
+- pkg:nuget/Hangfire.Autofac@1.2.0
+- pkg:nuget/Hangfire.Autofac@1.2.0-beta1
+- pkg:nuget/Hangfire.Autofac@1.2.0-beta2
+- pkg:nuget/Hangfire.Autofac@2.0.0
+- pkg:nuget/Hangfire.Autofac@2.0.0-beta1
+- pkg:nuget/Hangfire.Autofac@2.0.1
+- pkg:nuget/Hangfire.Autofac@2.1.0
+- pkg:nuget/Hangfire.Autofac@2.2.0
+- pkg:nuget/Hangfire.Autofac@2.3.0
+- pkg:nuget/Hangfire.Autofac@2.3.1
+- pkg:nuget/Hangfire.Autofac@2.4.0
+- pkg:nuget/Hangfire.Autofac@2.4.1
+- pkg:nuget/Hangfire.Autofac@2.5.0
+- pkg:nuget/Hangfire.Autofac@2.6.0
+- pkg:nuget/Hangfire.Autofac@2.7.0

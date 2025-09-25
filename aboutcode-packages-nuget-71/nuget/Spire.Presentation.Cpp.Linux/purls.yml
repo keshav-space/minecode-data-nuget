@@ -1,0 +1,4 @@
+- pkg:nuget/Spire.Presentation.Cpp.Linux@10.7.1
+- pkg:nuget/Spire.Presentation.Cpp.Linux@10.8.2
+- pkg:nuget/Spire.Presentation.Cpp.Linux@8.10.0
+- pkg:nuget/Spire.Presentation.Cpp.Linux@9.1.3

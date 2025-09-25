@@ -1,0 +1,3 @@
+- pkg:nuget/Sodao.Core.Grpc@1.0.0
+- pkg:nuget/Sodao.Core.Grpc@1.0.10.1
+- pkg:nuget/Sodao.Core.Grpc@1.0.10.2

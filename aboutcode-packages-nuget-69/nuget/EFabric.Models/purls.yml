@@ -1,0 +1,17 @@
+- pkg:nuget/EFabric.Models@21.3.12
+- pkg:nuget/EFabric.Models@21.3.13
+- pkg:nuget/EFabric.Models@21.3.14
+- pkg:nuget/EFabric.Models@21.3.15
+- pkg:nuget/EFabric.Models@21.3.16
+- pkg:nuget/EFabric.Models@21.3.22
+- pkg:nuget/EFabric.Models@21.3.3
+- pkg:nuget/EFabric.Models@21.3.30
+- pkg:nuget/EFabric.Models@22.2.2
+- pkg:nuget/EFabric.Models@22.2.3
+- pkg:nuget/EFabric.Models@22.3.0.1
+- pkg:nuget/EFabric.Models@23.1.0
+- pkg:nuget/EFabric.Models@23.2.0
+- pkg:nuget/EFabric.Models@23.2.0.1
+- pkg:nuget/EFabric.Models@23.2.0.2
+- pkg:nuget/EFabric.Models@23.2.0.3
+- pkg:nuget/EFabric.Models@24.2.0

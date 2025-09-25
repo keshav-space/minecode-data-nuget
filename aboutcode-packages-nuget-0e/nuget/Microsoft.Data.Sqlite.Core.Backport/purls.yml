@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Data.Sqlite.Core.Backport@2.0.0.24
+- pkg:nuget/Microsoft.Data.Sqlite.Core.Backport@2.0.0.25
+- pkg:nuget/Microsoft.Data.Sqlite.Core.Backport@2.0.0.26

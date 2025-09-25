@@ -1,0 +1,6 @@
+- pkg:nuget/Sushi.MailTemplate.SendGrid@1.2.0
+- pkg:nuget/Sushi.MailTemplate.SendGrid@2.0.0
+- pkg:nuget/Sushi.MailTemplate.SendGrid@3.0.0
+- pkg:nuget/Sushi.MailTemplate.SendGrid@3.0.0-a
+- pkg:nuget/Sushi.MailTemplate.SendGrid@3.0.0-b
+- pkg:nuget/Sushi.MailTemplate.SendGrid@3.0.1-a

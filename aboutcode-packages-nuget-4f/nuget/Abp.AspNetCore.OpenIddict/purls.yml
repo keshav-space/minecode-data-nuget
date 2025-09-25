@@ -1,0 +1,11 @@
+- pkg:nuget/Abp.AspNetCore.OpenIddict@10.0.0
+- pkg:nuget/Abp.AspNetCore.OpenIddict@10.1.0
+- pkg:nuget/Abp.AspNetCore.OpenIddict@10.2.0
+- pkg:nuget/Abp.AspNetCore.OpenIddict@10.3.0
+- pkg:nuget/Abp.AspNetCore.OpenIddict@9.2.0
+- pkg:nuget/Abp.AspNetCore.OpenIddict@9.2.1
+- pkg:nuget/Abp.AspNetCore.OpenIddict@9.2.2
+- pkg:nuget/Abp.AspNetCore.OpenIddict@9.3.0
+- pkg:nuget/Abp.AspNetCore.OpenIddict@9.4.0
+- pkg:nuget/Abp.AspNetCore.OpenIddict@9.4.1
+- pkg:nuget/Abp.AspNetCore.OpenIddict@9.4.2

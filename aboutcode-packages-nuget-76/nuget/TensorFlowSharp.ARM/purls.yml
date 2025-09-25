@@ -1,0 +1,4 @@
+- pkg:nuget/TensorFlowSharp.ARM@1.5.0-preview1
+- pkg:nuget/TensorFlowSharp.ARM@1.6.0-preview1
+- pkg:nuget/TensorFlowSharp.ARM@1.6.0-preview2
+- pkg:nuget/TensorFlowSharp.ARM@1.7.0-preview1

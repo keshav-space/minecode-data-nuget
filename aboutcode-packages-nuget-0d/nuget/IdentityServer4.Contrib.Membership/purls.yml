@@ -1,0 +1,4 @@
+- pkg:nuget/IdentityServer4.Contrib.Membership@4.0.28
+- pkg:nuget/IdentityServer4.Contrib.Membership@5.0.0
+- pkg:nuget/IdentityServer4.Contrib.Membership@5.0.1
+- pkg:nuget/IdentityServer4.Contrib.Membership@5.1.2

@@ -1,0 +1,3 @@
+- pkg:nuget/nietras.CNTK.GPU@2.7.1
+- pkg:nuget/nietras.CNTK.GPU@2.7.1-preview.3
+- pkg:nuget/nietras.CNTK.GPU@2.7.1-preview.4

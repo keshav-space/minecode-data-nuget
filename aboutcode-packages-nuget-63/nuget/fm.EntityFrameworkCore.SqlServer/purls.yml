@@ -1,0 +1,17 @@
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@1.0.0
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@1.0.0-preview.1
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@1.1.0
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@1.1.0-rc.1
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@2.0.0
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@2.0.1
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@2.1.0
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@2.2.0-preview.1
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@3.0.0
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@3.0.0-preview.1
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@4.0.0
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@4.0.0-preview.1
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@4.0.0-preview.2
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@4.0.0-preview.3
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@4.0.1
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@4.0.2
+- pkg:nuget/fm.EntityFrameworkCore.SqlServer@5.0.0

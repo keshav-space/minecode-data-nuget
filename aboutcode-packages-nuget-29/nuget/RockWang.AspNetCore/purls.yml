@@ -1,0 +1,6 @@
+- pkg:nuget/RockWang.AspNetCore@20.10.27
+- pkg:nuget/RockWang.AspNetCore@20.7.27
+- pkg:nuget/RockWang.AspNetCore@20.8.8
+- pkg:nuget/RockWang.AspNetCore@20.9.16
+- pkg:nuget/RockWang.AspNetCore@22.12.6
+- pkg:nuget/RockWang.AspNetCore@22.7.25

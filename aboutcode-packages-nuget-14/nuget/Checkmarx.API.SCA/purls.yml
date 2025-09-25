@@ -1,0 +1,14 @@
+- pkg:nuget/Checkmarx.API.SCA@1.0.0
+- pkg:nuget/Checkmarx.API.SCA@1.1.0
+- pkg:nuget/Checkmarx.API.SCA@2.0.0
+- pkg:nuget/Checkmarx.API.SCA@2.5.0
+- pkg:nuget/Checkmarx.API.SCA@2.5.1
+- pkg:nuget/Checkmarx.API.SCA@2.5.2
+- pkg:nuget/Checkmarx.API.SCA@2.6.0
+- pkg:nuget/Checkmarx.API.SCA@2.7.0
+- pkg:nuget/Checkmarx.API.SCA@2.8.0
+- pkg:nuget/Checkmarx.API.SCA@2.9.0
+- pkg:nuget/Checkmarx.API.SCA@3.0.0
+- pkg:nuget/Checkmarx.API.SCA@3.1.0
+- pkg:nuget/Checkmarx.API.SCA@3.2.0
+- pkg:nuget/Checkmarx.API.SCA@4.0.0

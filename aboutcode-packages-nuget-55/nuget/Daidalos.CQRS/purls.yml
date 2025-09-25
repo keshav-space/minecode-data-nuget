@@ -1,0 +1,5 @@
+- pkg:nuget/Daidalos.CQRS@0.6.0
+- pkg:nuget/Daidalos.CQRS@0.7.0
+- pkg:nuget/Daidalos.CQRS@0.8.0
+- pkg:nuget/Daidalos.CQRS@0.8.0-Unstable0009
+- pkg:nuget/Daidalos.CQRS@0.8.0-Unstable0011

@@ -1,0 +1,4 @@
+- pkg:nuget/CloudCore.Api.Host@2019.100.100.100-dev
+- pkg:nuget/CloudCore.Api.Host@2019.104.123-nx11133
+- pkg:nuget/CloudCore.Api.Host@2019.104.123-nx11245
+- pkg:nuget/CloudCore.Api.Host@2019.104.123-nx11327

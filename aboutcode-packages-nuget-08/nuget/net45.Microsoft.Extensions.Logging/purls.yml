@@ -1,0 +1,4 @@
+- pkg:nuget/net45.Microsoft.Extensions.Logging@1.0.0
+- pkg:nuget/net45.Microsoft.Extensions.Logging@1.1.2
+- pkg:nuget/net45.Microsoft.Extensions.Logging@1.1.2.1
+- pkg:nuget/net45.Microsoft.Extensions.Logging@1.1.2.2

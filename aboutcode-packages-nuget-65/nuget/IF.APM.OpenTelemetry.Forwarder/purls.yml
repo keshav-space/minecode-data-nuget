@@ -1,0 +1,15 @@
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@4.0.7-tags-4-0-7-rc00-0001
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@4.0.9-tags-4-0-9-rc00-0001
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@4.1.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@4.2.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@4.3.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@5.0.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@5.0.0-tags-5-0-0-rc00-0001
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@5.1.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@5.2.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@6.0.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@6.1.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@6.2.0
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@6.2.1
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@6.2.2
+- pkg:nuget/IF.APM.OpenTelemetry.Forwarder@6.4.0

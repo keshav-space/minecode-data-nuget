@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.MobileBlazorBindings@0.1.173-beta
+- pkg:nuget/Microsoft.MobileBlazorBindings@0.2.42-preview
+- pkg:nuget/Microsoft.MobileBlazorBindings@0.3.26-preview
+- pkg:nuget/Microsoft.MobileBlazorBindings@0.4.73-preview
+- pkg:nuget/Microsoft.MobileBlazorBindings@0.4.74-preview
+- pkg:nuget/Microsoft.MobileBlazorBindings@0.5.50-preview

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.Attestation@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.Attestation@0.9.0-preview

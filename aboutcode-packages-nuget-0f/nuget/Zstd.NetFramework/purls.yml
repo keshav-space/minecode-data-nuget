@@ -1,0 +1,12 @@
+- pkg:nuget/Zstd.NetFramework@1.5.6
+- pkg:nuget/Zstd.NetFramework@1.5.7
+- pkg:nuget/Zstd.NetFramework@1.5.8
+- pkg:nuget/Zstd.NetFramework@2.0.0
+- pkg:nuget/Zstd.NetFramework@2.0.1
+- pkg:nuget/Zstd.NetFramework@2.0.2
+- pkg:nuget/Zstd.NetFramework@2.0.3
+- pkg:nuget/Zstd.NetFramework@2.0.4
+- pkg:nuget/Zstd.NetFramework@2.0.5
+- pkg:nuget/Zstd.NetFramework@2.0.6
+- pkg:nuget/Zstd.NetFramework@2.0.7
+- pkg:nuget/Zstd.NetFramework@2.0.8

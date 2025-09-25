@@ -1,0 +1,6 @@
+- pkg:nuget/dotScript@1.0.0
+- pkg:nuget/dotScript@1.0.0-test
+- pkg:nuget/dotScript@1.0.0-test1
+- pkg:nuget/dotScript@1.0.0-test2
+- pkg:nuget/dotScript@1.0.5
+- pkg:nuget/dotScript@1.0.6

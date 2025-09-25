@@ -1,0 +1,3 @@
+- pkg:nuget/WDP.Deploy@1.0.2
+- pkg:nuget/WDP.Deploy@1.2.7
+- pkg:nuget/WDP.Deploy@1.2.8

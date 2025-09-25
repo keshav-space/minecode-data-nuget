@@ -1,0 +1,14 @@
+- pkg:nuget/Abc123@0.1.0-alpha0008
+- pkg:nuget/Abc123@1.0.0-beta0001
+- pkg:nuget/Abc123@1.0.0-beta0002
+- pkg:nuget/Abc123@1.0.0-beta0003
+- pkg:nuget/Abc123@1.0.0-beta0004
+- pkg:nuget/Abc123@1.1.0
+- pkg:nuget/Abc123@1.1.1
+- pkg:nuget/Abc123@1.1.2
+- pkg:nuget/Abc123@1.2.0
+- pkg:nuget/Abc123@1.3.0
+- pkg:nuget/Abc123@1.3.1
+- pkg:nuget/Abc123@1.3.2
+- pkg:nuget/Abc123@1.3.3
+- pkg:nuget/Abc123@1.3.4

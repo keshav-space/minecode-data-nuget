@@ -1,0 +1,14 @@
+- pkg:nuget/SmartDb.Mapper.NetCore@1.8.0
+- pkg:nuget/SmartDb.Mapper.NetCore@1.9.0
+- pkg:nuget/SmartDb.Mapper.NetCore@2.3.0
+- pkg:nuget/SmartDb.Mapper.NetCore@2.30.1
+- pkg:nuget/SmartDb.Mapper.NetCore@2.30.3
+- pkg:nuget/SmartDb.Mapper.NetCore@2.32.0
+- pkg:nuget/SmartDb.Mapper.NetCore@2.34.0
+- pkg:nuget/SmartDb.Mapper.NetCore@2.48.0
+- pkg:nuget/SmartDb.Mapper.NetCore@2.50.0
+- pkg:nuget/SmartDb.Mapper.NetCore@2.70.0
+- pkg:nuget/SmartDb.Mapper.NetCore@2.82.0
+- pkg:nuget/SmartDb.Mapper.NetCore@2.85.0
+- pkg:nuget/SmartDb.Mapper.NetCore@3.2.0
+- pkg:nuget/SmartDb.Mapper.NetCore@3.3.0

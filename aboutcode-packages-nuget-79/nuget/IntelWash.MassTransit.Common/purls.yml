@@ -1,0 +1,9 @@
+- pkg:nuget/IntelWash.MassTransit.Common@1.0.0.1-alpha
+- pkg:nuget/IntelWash.MassTransit.Common@1.0.0.2-alpha
+- pkg:nuget/IntelWash.MassTransit.Common@2.0.0
+- pkg:nuget/IntelWash.MassTransit.Common@6.0.0
+- pkg:nuget/IntelWash.MassTransit.Common@6.5.0
+- pkg:nuget/IntelWash.MassTransit.Common@6.5.0.1
+- pkg:nuget/IntelWash.MassTransit.Common@6.5.0.2
+- pkg:nuget/IntelWash.MassTransit.Common@6.5.0.3
+- pkg:nuget/IntelWash.MassTransit.Common@6.5.1

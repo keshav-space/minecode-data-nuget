@@ -1,0 +1,4 @@
+- pkg:nuget/mssql.XliffParser@1.0.0
+- pkg:nuget/mssql.XliffParser@2.0.1
+- pkg:nuget/mssql.XliffParser@7.0.1
+- pkg:nuget/mssql.XliffParser@8.0.1
