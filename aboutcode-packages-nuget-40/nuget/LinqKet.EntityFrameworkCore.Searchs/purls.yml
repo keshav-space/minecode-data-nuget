@@ -1,0 +1,5 @@
+- pkg:nuget/LinqKet.EntityFrameworkCore.Searchs@6.0.0
+- pkg:nuget/LinqKet.EntityFrameworkCore.Searchs@7.0.0
+- pkg:nuget/LinqKet.EntityFrameworkCore.Searchs@7.0.6
+- pkg:nuget/LinqKet.EntityFrameworkCore.Searchs@9.0.0
+- pkg:nuget/LinqKet.EntityFrameworkCore.Searchs@9.0.1

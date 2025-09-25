@@ -1,0 +1,7 @@
+- pkg:nuget/CsvHelper.Excel.EPPlus@28.0.0
+- pkg:nuget/CsvHelper.Excel.EPPlus@28.1.0
+- pkg:nuget/CsvHelper.Excel.EPPlus@29.0.0
+- pkg:nuget/CsvHelper.Excel.EPPlus@30.0.0
+- pkg:nuget/CsvHelper.Excel.EPPlus@30.0.1
+- pkg:nuget/CsvHelper.Excel.EPPlus@30.1.0
+- pkg:nuget/CsvHelper.Excel.EPPlus@30.1.1-ci0006

@@ -1,0 +1,3 @@
+- pkg:nuget/EventHub@1.0.0
+- pkg:nuget/EventHub@1.0.0-CI-20190817-064108
+- pkg:nuget/EventHub@1.0.0-CI-20190818-153708

@@ -1,0 +1,5 @@
+- pkg:nuget/libLLVM.runtime.freebsd.11-x86@10.0.0
+- pkg:nuget/libLLVM.runtime.freebsd.11-x86@11.0.0
+- pkg:nuget/libLLVM.runtime.freebsd.11-x86@12.0.0
+- pkg:nuget/libLLVM.runtime.freebsd.11-x86@8.0.0
+- pkg:nuget/libLLVM.runtime.freebsd.11-x86@9.0.0

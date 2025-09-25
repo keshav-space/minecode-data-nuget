@@ -1,0 +1,3 @@
+- pkg:nuget/DontCommitSecrets@0.0.1
+- pkg:nuget/DontCommitSecrets@0.0.1-untested
+- pkg:nuget/DontCommitSecrets@0.0.2

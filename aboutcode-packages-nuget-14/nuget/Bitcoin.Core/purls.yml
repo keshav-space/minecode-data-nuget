@@ -1,0 +1,5 @@
+- pkg:nuget/Bitcoin.Core@1.1.20
+- pkg:nuget/Bitcoin.Core@2.0.0
+- pkg:nuget/Bitcoin.Core@2.0.10
+- pkg:nuget/Bitcoin.Core@2.0.14
+- pkg:nuget/Bitcoin.Core@2.0.15

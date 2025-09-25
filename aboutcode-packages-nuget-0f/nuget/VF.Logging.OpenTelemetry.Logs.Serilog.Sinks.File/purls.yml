@@ -1,0 +1,2 @@
+- pkg:nuget/VF.Logging.OpenTelemetry.Logs.Serilog.Sinks.File@1.0.2
+- pkg:nuget/VF.Logging.OpenTelemetry.Logs.Serilog.Sinks.File@1.0.3

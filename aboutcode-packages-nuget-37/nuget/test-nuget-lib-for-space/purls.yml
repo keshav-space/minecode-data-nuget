@@ -1,0 +1,3 @@
+- pkg:nuget/test-nuget-lib-for-space@1.0.0
+- pkg:nuget/test-nuget-lib-for-space@4.0.1
+- pkg:nuget/test-nuget-lib-for-space@5.0.1

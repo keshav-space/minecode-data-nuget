@@ -1,0 +1,4 @@
+- pkg:nuget/TenTime.IdentityServer.Domain.Shared@1.0.0
+- pkg:nuget/TenTime.IdentityServer.Domain.Shared@1.1.0
+- pkg:nuget/TenTime.IdentityServer.Domain.Shared@2.0.0
+- pkg:nuget/TenTime.IdentityServer.Domain.Shared@3.0.0

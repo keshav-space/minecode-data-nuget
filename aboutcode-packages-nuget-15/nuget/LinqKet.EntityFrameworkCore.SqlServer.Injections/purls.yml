@@ -1,0 +1,3 @@
+- pkg:nuget/LinqKet.EntityFrameworkCore.SqlServer.Injections@6.0.0
+- pkg:nuget/LinqKet.EntityFrameworkCore.SqlServer.Injections@7.0.0
+- pkg:nuget/LinqKet.EntityFrameworkCore.SqlServer.Injections@9.0.0

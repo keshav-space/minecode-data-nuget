@@ -1,0 +1,6 @@
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings@6.0.0
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings@6.0.1
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings@6.0.2
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings@6.0.3
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings@7.0.0
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings@9.0.13

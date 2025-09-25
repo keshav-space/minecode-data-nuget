@@ -1,0 +1,4 @@
+- pkg:nuget/FreshMeat.ErrorHandlingBlock@1.0.0-beta
+- pkg:nuget/FreshMeat.ErrorHandlingBlock@1.0.1-beta
+- pkg:nuget/FreshMeat.ErrorHandlingBlock@1.0.3-rc
+- pkg:nuget/FreshMeat.ErrorHandlingBlock@1.0.5

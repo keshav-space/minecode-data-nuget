@@ -1,0 +1,5 @@
+- pkg:nuget/EventStore.Tools.ServiceHost@1.0.0
+- pkg:nuget/EventStore.Tools.ServiceHost@1.1.0
+- pkg:nuget/EventStore.Tools.ServiceHost@1.2.0
+- pkg:nuget/EventStore.Tools.ServiceHost@1.2.1
+- pkg:nuget/EventStore.Tools.ServiceHost@1.3.0

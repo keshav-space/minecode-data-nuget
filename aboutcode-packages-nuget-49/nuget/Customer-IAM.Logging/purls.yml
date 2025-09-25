@@ -1,0 +1,12 @@
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220802-134909
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220802-140109
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220802-142733
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220802-143925
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220802-144806
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220802-145319
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220802-145924
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220927-120700
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220930-090635
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20220930-101220
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20221010-091737
+- pkg:nuget/Customer-IAM.Logging@1.0.0-CI-20221205-192601

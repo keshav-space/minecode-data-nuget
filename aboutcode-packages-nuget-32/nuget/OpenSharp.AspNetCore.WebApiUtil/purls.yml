@@ -1,0 +1,6 @@
+- pkg:nuget/OpenSharp.AspNetCore.WebApiUtil@6.0.0
+- pkg:nuget/OpenSharp.AspNetCore.WebApiUtil@7.0.0
+- pkg:nuget/OpenSharp.AspNetCore.WebApiUtil@7.0.1
+- pkg:nuget/OpenSharp.AspNetCore.WebApiUtil@7.0.2
+- pkg:nuget/OpenSharp.AspNetCore.WebApiUtil@7.0.4
+- pkg:nuget/OpenSharp.AspNetCore.WebApiUtil@7.0.7

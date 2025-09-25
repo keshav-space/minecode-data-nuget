@@ -1,0 +1,4 @@
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings.SqlServer@6.0.1
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings.SqlServer@6.0.2
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings.SqlServer@6.0.3
+- pkg:nuget/OpenSharp.EntityFrameworkCore.Shardings.SqlServer@7.0.0
