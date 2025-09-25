@@ -1,0 +1,6 @@
+- pkg:nuget/MinimalApi.SlimEndpoints.SourceGenerator@1.0.5-g83325a6b56
+- pkg:nuget/MinimalApi.SlimEndpoints.SourceGenerator@1.1.1-g64231a551d
+- pkg:nuget/MinimalApi.SlimEndpoints.SourceGenerator@1.2.1-release-g982b77e2d6
+- pkg:nuget/MinimalApi.SlimEndpoints.SourceGenerator@1.3.1
+- pkg:nuget/MinimalApi.SlimEndpoints.SourceGenerator@1.3.2
+- pkg:nuget/MinimalApi.SlimEndpoints.SourceGenerator@1.3.3

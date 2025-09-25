@@ -1,0 +1,2 @@
+- pkg:nuget/MySvc.Framework.Infrastructure.Logging.Serilog@8.0.1
+- pkg:nuget/MySvc.Framework.Infrastructure.Logging.Serilog@8.0.1-beta7

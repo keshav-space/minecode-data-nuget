@@ -1,0 +1,5 @@
+- pkg:nuget/Foundation.Clients.Test@0.0.0
+- pkg:nuget/Foundation.Clients.Test@0.0.1
+- pkg:nuget/Foundation.Clients.Test@0.0.2
+- pkg:nuget/Foundation.Clients.Test@0.0.2-dev-1
+- pkg:nuget/Foundation.Clients.Test@1.0.7-fix03-dev-20231206.20

@@ -1,0 +1,6 @@
+- pkg:nuget/pocaccount.demopackage.mynugetpackage@1.0.0
+- pkg:nuget/pocaccount.demopackage.mynugetpackage@2.0.0
+- pkg:nuget/pocaccount.demopackage.mynugetpackage@3.0.0
+- pkg:nuget/pocaccount.demopackage.mynugetpackage@4.0.0
+- pkg:nuget/pocaccount.demopackage.mynugetpackage@5.0.0
+- pkg:nuget/pocaccount.demopackage.mynugetpackage@6.0.0
