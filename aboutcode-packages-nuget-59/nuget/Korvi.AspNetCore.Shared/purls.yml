@@ -1,0 +1,5 @@
+- pkg:nuget/Korvi.AspNetCore.Shared@1.0.0
+- pkg:nuget/Korvi.AspNetCore.Shared@1.0.0-alpha
+- pkg:nuget/Korvi.AspNetCore.Shared@1.0.0-beta
+- pkg:nuget/Korvi.AspNetCore.Shared@1.0.1
+- pkg:nuget/Korvi.AspNetCore.Shared@1.0.1.2

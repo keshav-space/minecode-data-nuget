@@ -1,0 +1,5 @@
+- pkg:nuget/NuGet.Logging@3.2.0
+- pkg:nuget/NuGet.Logging@3.3.0
+- pkg:nuget/NuGet.Logging@3.4.3
+- pkg:nuget/NuGet.Logging@3.4.4-rc
+- pkg:nuget/NuGet.Logging@3.4.4-rtm-final

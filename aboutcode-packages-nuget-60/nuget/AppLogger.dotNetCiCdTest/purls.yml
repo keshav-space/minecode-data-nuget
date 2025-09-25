@@ -1,0 +1,6 @@
+- pkg:nuget/AppLogger.dotNetCiCdTest@0.13.0-beta
+- pkg:nuget/AppLogger.dotNetCiCdTest@1.0.0
+- pkg:nuget/AppLogger.dotNetCiCdTest@1.0.0-alpha
+- pkg:nuget/AppLogger.dotNetCiCdTest@2.2.2
+- pkg:nuget/AppLogger.dotNetCiCdTest@2.2.3
+- pkg:nuget/AppLogger.dotNetCiCdTest@2.2.5

@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Portable.FSharp.Core@10.1.0
+- pkg:nuget/Microsoft.Portable.FSharp.Core@4.1.18
+- pkg:nuget/Microsoft.Portable.FSharp.Core@4.1.19
+- pkg:nuget/Microsoft.Portable.FSharp.Core@4.1.20
+- pkg:nuget/Microsoft.Portable.FSharp.Core@4.3.0

@@ -1,0 +1,5 @@
+- pkg:nuget/ForgeFusion.Core.Data.Common@0.1.0-beta
+- pkg:nuget/ForgeFusion.Core.Data.Common@1.1.0-beta
+- pkg:nuget/ForgeFusion.Core.Data.Common@1.1.1-beta
+- pkg:nuget/ForgeFusion.Core.Data.Common@1.1.2-beta
+- pkg:nuget/ForgeFusion.Core.Data.Common@1.1.3-beta

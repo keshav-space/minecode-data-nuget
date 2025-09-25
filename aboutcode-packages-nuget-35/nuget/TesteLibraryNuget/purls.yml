@@ -1,0 +1,6 @@
+- pkg:nuget/TesteLibraryNuget@0.1.0
+- pkg:nuget/TesteLibraryNuget@0.1.1
+- pkg:nuget/TesteLibraryNuget@0.2.1-alpha
+- pkg:nuget/TesteLibraryNuget@0.2.2
+- pkg:nuget/TesteLibraryNuget@0.2.2-alpha
+- pkg:nuget/TesteLibraryNuget@0.2.2-beta

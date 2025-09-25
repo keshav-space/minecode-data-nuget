@@ -1,0 +1,4 @@
+- pkg:nuget/Zonkey.Data.MsSql@6.0.0.1600
+- pkg:nuget/Zonkey.Data.MsSql@6.1.0.1700
+- pkg:nuget/Zonkey.Data.MsSql@6.2.1.2000
+- pkg:nuget/Zonkey.Data.MsSql@6.5.0.5000-rc2

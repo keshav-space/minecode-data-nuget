@@ -1,0 +1,13 @@
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.0.0
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.0.0-beta1
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.0.0-beta2
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.0.0-beta3
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.0.0-beta4
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.1.0
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.1.1
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.5.0
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.5.0-beta1
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.5.0-beta2
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.5.0-beta3
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.5.1
+- pkg:nuget/EventDriven.Sagas.Persistence.Mongo@1.6.0

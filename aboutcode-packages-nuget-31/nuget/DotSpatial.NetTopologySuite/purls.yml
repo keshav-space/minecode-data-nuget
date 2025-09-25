@@ -1,0 +1,6 @@
+- pkg:nuget/DotSpatial.NetTopologySuite@1.14.0
+- pkg:nuget/DotSpatial.NetTopologySuite@1.14.1
+- pkg:nuget/DotSpatial.NetTopologySuite@1.14.2
+- pkg:nuget/DotSpatial.NetTopologySuite@1.14.3
+- pkg:nuget/DotSpatial.NetTopologySuite@1.14.4
+- pkg:nuget/DotSpatial.NetTopologySuite@2.0.1-pre.184130514%2Blocal

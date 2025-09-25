@@ -1,0 +1,2 @@
+- pkg:nuget/Gnu.Framework.Cache.Redis@2.0.0
+- pkg:nuget/Gnu.Framework.Cache.Redis@3.0.2

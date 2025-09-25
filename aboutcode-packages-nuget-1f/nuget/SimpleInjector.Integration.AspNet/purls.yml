@@ -1,0 +1,13 @@
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.2-alpha2
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.2-alpha3
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.2-beta1
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.2-beta2
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.2-beta3
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.2-beta4
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.5-rc2
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.5-rc2-02
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.5-rc2-03
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.5-rc2-04
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.5-rc2-05
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.5-rc2-06
+- pkg:nuget/SimpleInjector.Integration.AspNet@3.1.5-rc2-07

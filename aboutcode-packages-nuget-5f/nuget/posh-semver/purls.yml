@@ -1,0 +1,3 @@
+- pkg:nuget/posh-semver@1.0.0
+- pkg:nuget/posh-semver@2.0.0
+- pkg:nuget/posh-semver@3.0.0

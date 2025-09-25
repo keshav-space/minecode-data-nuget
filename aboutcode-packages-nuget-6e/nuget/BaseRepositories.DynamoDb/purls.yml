@@ -1,0 +1,5 @@
+- pkg:nuget/BaseRepositories.DynamoDb@1.0.0
+- pkg:nuget/BaseRepositories.DynamoDb@1.1.0
+- pkg:nuget/BaseRepositories.DynamoDb@1.1.1
+- pkg:nuget/BaseRepositories.DynamoDb@1.1.2
+- pkg:nuget/BaseRepositories.DynamoDb@2.0.0

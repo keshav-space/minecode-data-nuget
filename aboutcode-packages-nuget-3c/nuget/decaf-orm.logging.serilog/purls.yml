@@ -1,0 +1,5 @@
+- pkg:nuget/decaf-orm.logging.serilog@0.1.210%2B95d079d97fd1c485c64dbe5f015c44148b751b02
+- pkg:nuget/decaf-orm.logging.serilog@0.1.257%2Bb29b8cc0dccf3bab58c34123e3b0afbfbfb79e91
+- pkg:nuget/decaf-orm.logging.serilog@0.1.319%2B07da892e978343ab1a8660d5be457f2d1ad1623b
+- pkg:nuget/decaf-orm.logging.serilog@0.1.321%2B4fcdb5b5076a2cd39e2c49f213973c8f9f7730c0
+- pkg:nuget/decaf-orm.logging.serilog@0.1.339%2B26eabe84386eaca344a8a49dbe6b7d73d2e21a33

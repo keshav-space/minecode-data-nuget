@@ -1,0 +1,5 @@
+- pkg:nuget/FFmpeg.Native.H264.linux-x64@1.0.0-r59
+- pkg:nuget/FFmpeg.Native.H264.linux-x64@1.0.0-r60
+- pkg:nuget/FFmpeg.Native.H264.linux-x64@1.0.0-r61
+- pkg:nuget/FFmpeg.Native.H264.linux-x64@1.0.0-r65
+- pkg:nuget/FFmpeg.Native.H264.linux-x64@1.0.0-r66

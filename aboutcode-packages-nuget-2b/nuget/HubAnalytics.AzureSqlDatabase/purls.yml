@@ -1,0 +1,5 @@
+- pkg:nuget/HubAnalytics.AzureSqlDatabase@1.1.0
+- pkg:nuget/HubAnalytics.AzureSqlDatabase@1.1.2
+- pkg:nuget/HubAnalytics.AzureSqlDatabase@1.2.1
+- pkg:nuget/HubAnalytics.AzureSqlDatabase@1.3.0
+- pkg:nuget/HubAnalytics.AzureSqlDatabase@1.3.1

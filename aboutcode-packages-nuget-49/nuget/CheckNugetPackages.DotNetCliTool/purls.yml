@@ -1,0 +1,2 @@
+- pkg:nuget/CheckNugetPackages.DotNetCliTool@1.0.0
+- pkg:nuget/CheckNugetPackages.DotNetCliTool@2.0.0

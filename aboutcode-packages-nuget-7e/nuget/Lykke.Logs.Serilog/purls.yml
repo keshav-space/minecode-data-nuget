@@ -1,0 +1,15 @@
+- pkg:nuget/Lykke.Logs.Serilog@1.0.0
+- pkg:nuget/Lykke.Logs.Serilog@1.0.1
+- pkg:nuget/Lykke.Logs.Serilog@1.0.1-beta01
+- pkg:nuget/Lykke.Logs.Serilog@1.0.1-beta02
+- pkg:nuget/Lykke.Logs.Serilog@1.0.1-beta03
+- pkg:nuget/Lykke.Logs.Serilog@1.0.1-beta04
+- pkg:nuget/Lykke.Logs.Serilog@1.0.2
+- pkg:nuget/Lykke.Logs.Serilog@1.0.3
+- pkg:nuget/Lykke.Logs.Serilog@1.0.4
+- pkg:nuget/Lykke.Logs.Serilog@2.0.0
+- pkg:nuget/Lykke.Logs.Serilog@2.0.1
+- pkg:nuget/Lykke.Logs.Serilog@2.1.0
+- pkg:nuget/Lykke.Logs.Serilog@2.1.1
+- pkg:nuget/Lykke.Logs.Serilog@2.2.0
+- pkg:nuget/Lykke.Logs.Serilog@2.3.0

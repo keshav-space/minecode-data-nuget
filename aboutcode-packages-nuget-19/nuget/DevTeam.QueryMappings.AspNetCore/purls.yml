@@ -1,0 +1,9 @@
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@1.0.0
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@3.0.0
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@3.1.0
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@3.3.0
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@3.5.0
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@3.5.6
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@3.5.8
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@3.6.0
+- pkg:nuget/DevTeam.QueryMappings.AspNetCore@3.6.1

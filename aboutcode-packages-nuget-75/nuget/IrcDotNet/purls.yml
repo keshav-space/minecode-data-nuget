@@ -1,0 +1,5 @@
+- pkg:nuget/IrcDotNet@0.4.1
+- pkg:nuget/IrcDotNet@0.5.0
+- pkg:nuget/IrcDotNet@0.6.0
+- pkg:nuget/IrcDotNet@0.6.1
+- pkg:nuget/IrcDotNet@0.7.0

@@ -1,0 +1,5 @@
+- pkg:nuget/NetDevPack.Security.JwtSigningCredentials@1.0.0
+- pkg:nuget/NetDevPack.Security.JwtSigningCredentials@1.0.1
+- pkg:nuget/NetDevPack.Security.JwtSigningCredentials@1.0.2
+- pkg:nuget/NetDevPack.Security.JwtSigningCredentials@1.0.3
+- pkg:nuget/NetDevPack.Security.JwtSigningCredentials@5.0.6

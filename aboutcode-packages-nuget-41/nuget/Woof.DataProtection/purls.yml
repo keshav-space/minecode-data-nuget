@@ -1,0 +1,4 @@
+- pkg:nuget/Woof.DataProtection@6.2.0
+- pkg:nuget/Woof.DataProtection@7.0.0
+- pkg:nuget/Woof.DataProtection@9.0.0
+- pkg:nuget/Woof.DataProtection@9.0.1

@@ -1,0 +1,6 @@
+- pkg:nuget/MFToolkit.AspNetCore@0.0.7-beta
+- pkg:nuget/MFToolkit.AspNetCore@0.0.9-beta
+- pkg:nuget/MFToolkit.AspNetCore@0.1.0-beta
+- pkg:nuget/MFToolkit.AspNetCore@0.1.1-beta
+- pkg:nuget/MFToolkit.AspNetCore@0.1.2-beta
+- pkg:nuget/MFToolkit.AspNetCore@0.1.7-beta

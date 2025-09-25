@@ -1,0 +1,5 @@
+- pkg:nuget/IceArtefact.Grpc.Shared@1.0.0-CI-20200919-232109
+- pkg:nuget/IceArtefact.Grpc.Shared@1.0.0-CI-20200920-103123
+- pkg:nuget/IceArtefact.Grpc.Shared@1.0.0-CI-20200925-171342
+- pkg:nuget/IceArtefact.Grpc.Shared@1.0.0-CI-20201004-101259
+- pkg:nuget/IceArtefact.Grpc.Shared@1.0.0-CI-20201004-124738

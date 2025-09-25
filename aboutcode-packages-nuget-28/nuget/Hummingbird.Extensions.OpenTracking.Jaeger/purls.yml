@@ -1,0 +1,4 @@
+- pkg:nuget/Hummingbird.Extensions.OpenTracking.Jaeger@1.15.0
+- pkg:nuget/Hummingbird.Extensions.OpenTracking.Jaeger@1.16.0
+- pkg:nuget/Hummingbird.Extensions.OpenTracking.Jaeger@1.17.0
+- pkg:nuget/Hummingbird.Extensions.OpenTracking.Jaeger@1.2.1

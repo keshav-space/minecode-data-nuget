@@ -1,0 +1,4 @@
+- pkg:nuget/Krakenar.EntityFrameworkCore.PostgreSQL@0.1.0
+- pkg:nuget/Krakenar.EntityFrameworkCore.PostgreSQL@1.0.0
+- pkg:nuget/Krakenar.EntityFrameworkCore.PostgreSQL@1.0.1
+- pkg:nuget/Krakenar.EntityFrameworkCore.PostgreSQL@1.1.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Krakenar.EntityFrameworkCore.SqlServer@0.1.0
+- pkg:nuget/Krakenar.EntityFrameworkCore.SqlServer@1.0.0
+- pkg:nuget/Krakenar.EntityFrameworkCore.SqlServer@1.0.1
+- pkg:nuget/Krakenar.EntityFrameworkCore.SqlServer@1.1.0

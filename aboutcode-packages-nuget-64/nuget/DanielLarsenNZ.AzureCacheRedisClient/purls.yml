@@ -1,0 +1,11 @@
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.0.0-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.0.1-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.0.2-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.0.3-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.0.4-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.0.5-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.1.0-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.1.1-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.1.2-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.2.0-preview
+- pkg:nuget/DanielLarsenNZ.AzureCacheRedisClient@1.2.1-preview

@@ -1,0 +1,5 @@
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.PackageSign@1.0.0
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.PackageSign@1.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.PackageSign@2.0.0-alpha
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.PackageSign@2.0.0-bravo
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.PackageSign@2.0.0-charlie

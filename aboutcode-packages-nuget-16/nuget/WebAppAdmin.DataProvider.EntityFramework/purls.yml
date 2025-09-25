@@ -1,0 +1,3 @@
+- pkg:nuget/WebAppAdmin.DataProvider.EntityFramework@1.0.0
+- pkg:nuget/WebAppAdmin.DataProvider.EntityFramework@1.0.1
+- pkg:nuget/WebAppAdmin.DataProvider.EntityFramework@1.0.2

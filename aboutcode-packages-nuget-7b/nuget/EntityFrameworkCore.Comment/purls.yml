@@ -1,0 +1,12 @@
+- pkg:nuget/EntityFrameworkCore.Comment@1.0.0.1
+- pkg:nuget/EntityFrameworkCore.Comment@1.0.0.2
+- pkg:nuget/EntityFrameworkCore.Comment@1.0.0.3
+- pkg:nuget/EntityFrameworkCore.Comment@2.0.0.1
+- pkg:nuget/EntityFrameworkCore.Comment@2.0.0.2
+- pkg:nuget/EntityFrameworkCore.Comment@2.0.0.5
+- pkg:nuget/EntityFrameworkCore.Comment@2.0.2.1
+- pkg:nuget/EntityFrameworkCore.Comment@2.1.0.1
+- pkg:nuget/EntityFrameworkCore.Comment@2.2.0.1
+- pkg:nuget/EntityFrameworkCore.Comment@3.0.0.1
+- pkg:nuget/EntityFrameworkCore.Comment@3.1.0.1
+- pkg:nuget/EntityFrameworkCore.Comment@3.1.0.2

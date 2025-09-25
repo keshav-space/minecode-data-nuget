@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.WindowsAzure.Common.Tracing.Etw@0.9.0-preview
+- pkg:nuget/Microsoft.WindowsAzure.Common.Tracing.Etw@1.0.0

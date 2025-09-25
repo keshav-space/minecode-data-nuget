@@ -1,0 +1,3 @@
+- pkg:nuget/OnceMi.SkiaSharp.NativeAssets.Linux.LoongArch64@2.88.8
+- pkg:nuget/OnceMi.SkiaSharp.NativeAssets.Linux.LoongArch64@2.88.9
+- pkg:nuget/OnceMi.SkiaSharp.NativeAssets.Linux.LoongArch64@3.119.0

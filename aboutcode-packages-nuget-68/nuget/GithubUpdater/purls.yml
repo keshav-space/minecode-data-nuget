@@ -1,0 +1,11 @@
+- pkg:nuget/GithubUpdater@0.2.0
+- pkg:nuget/GithubUpdater@0.2.1
+- pkg:nuget/GithubUpdater@0.4.0
+- pkg:nuget/GithubUpdater@0.5.0
+- pkg:nuget/GithubUpdater@0.6.0
+- pkg:nuget/GithubUpdater@0.6.1
+- pkg:nuget/GithubUpdater@0.6.7
+- pkg:nuget/GithubUpdater@0.6.9
+- pkg:nuget/GithubUpdater@0.7.0
+- pkg:nuget/GithubUpdater@0.7.2
+- pkg:nuget/GithubUpdater@0.8.0

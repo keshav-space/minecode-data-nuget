@@ -1,0 +1,5 @@
+- pkg:nuget/CSharpReplLib.VSCode@1.0.1
+- pkg:nuget/CSharpReplLib.VSCode@1.1.0
+- pkg:nuget/CSharpReplLib.VSCode@1.2.0
+- pkg:nuget/CSharpReplLib.VSCode@2.0.0-alpha
+- pkg:nuget/CSharpReplLib.VSCode@2.1.0-alpha

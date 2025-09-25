@@ -1,0 +1,5 @@
+- pkg:nuget/NeinLinq.EFCore@1.6.0-rc2
+- pkg:nuget/NeinLinq.EFCore@1.6.1
+- pkg:nuget/NeinLinq.EFCore@1.7.0
+- pkg:nuget/NeinLinq.EFCore@1.7.1-ci137
+- pkg:nuget/NeinLinq.EFCore@2.0.0

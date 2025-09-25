@@ -1,0 +1,3 @@
+- pkg:nuget/QueryInterceptor.ASPNET5@1.0.0.1
+- pkg:nuget/QueryInterceptor.ASPNET5@1.0.0.2
+- pkg:nuget/QueryInterceptor.ASPNET5@1.0.0.3-beta001

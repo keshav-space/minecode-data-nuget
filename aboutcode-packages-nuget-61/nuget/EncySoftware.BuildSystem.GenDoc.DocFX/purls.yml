@@ -1,0 +1,8 @@
+- pkg:nuget/EncySoftware.BuildSystem.GenDoc.DocFX@1.0.0
+- pkg:nuget/EncySoftware.BuildSystem.GenDoc.DocFX@1.0.1-rc.2%2B02679debde9a85761a7999e33f9219ab665f7243
+- pkg:nuget/EncySoftware.BuildSystem.GenDoc.DocFX@1.0.1-rc.3%2B02679debde9a85761a7999e33f9219ab665f7243
+- pkg:nuget/EncySoftware.BuildSystem.GenDoc.DocFX@2.0.0
+- pkg:nuget/EncySoftware.BuildSystem.GenDoc.DocFX@2.0.1
+- pkg:nuget/EncySoftware.BuildSystem.GenDoc.DocFX@2.0.2
+- pkg:nuget/EncySoftware.BuildSystem.GenDoc.DocFX@3.0.0
+- pkg:nuget/EncySoftware.BuildSystem.GenDoc.DocFX@3.0.1

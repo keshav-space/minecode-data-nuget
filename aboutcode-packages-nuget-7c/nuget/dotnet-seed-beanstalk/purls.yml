@@ -1,0 +1,4 @@
+- pkg:nuget/dotnet-seed-beanstalk@1.0.0
+- pkg:nuget/dotnet-seed-beanstalk@1.1.0
+- pkg:nuget/dotnet-seed-beanstalk@1.1.1
+- pkg:nuget/dotnet-seed-beanstalk@1.1.2

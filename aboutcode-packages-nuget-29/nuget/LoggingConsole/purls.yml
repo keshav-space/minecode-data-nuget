@@ -1,0 +1,13 @@
+- pkg:nuget/LoggingConsole@0.17.0
+- pkg:nuget/LoggingConsole@0.17.0-debug-build
+- pkg:nuget/LoggingConsole@0.18.0
+- pkg:nuget/LoggingConsole@0.18.0-debug-build
+- pkg:nuget/LoggingConsole@0.19.0
+- pkg:nuget/LoggingConsole@0.19.0-debug-build
+- pkg:nuget/LoggingConsole@0.20.0
+- pkg:nuget/LoggingConsole@0.20.0-debug-build
+- pkg:nuget/LoggingConsole@0.21.0
+- pkg:nuget/LoggingConsole@0.21.0-debug-build
+- pkg:nuget/LoggingConsole@0.22.0
+- pkg:nuget/LoggingConsole@0.22.0-debug-build
+- pkg:nuget/LoggingConsole@1.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/dotnetMatic.Monolith.Core.CrossCuttingConcerns.Logging.DependencyInjection@1.0.2
+- pkg:nuget/dotnetMatic.Monolith.Core.CrossCuttingConcerns.Logging.DependencyInjection@2.0.0

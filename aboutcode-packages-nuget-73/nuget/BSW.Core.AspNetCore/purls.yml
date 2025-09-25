@@ -1,0 +1,3 @@
+- pkg:nuget/BSW.Core.AspNetCore@2023.8.16
+- pkg:nuget/BSW.Core.AspNetCore@2023.8.3
+- pkg:nuget/BSW.Core.AspNetCore@2025.2.5

@@ -1,0 +1,2 @@
+- pkg:nuget/dotnetMatic.Monolith.Core.CrossCuttingConcerns.Logging.Serilog.File@1.0.2
+- pkg:nuget/dotnetMatic.Monolith.Core.CrossCuttingConcerns.Logging.Serilog.File@2.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Dora.ExceptionHandling.Configuration@1.0.0-beta1
+- pkg:nuget/Dora.ExceptionHandling.Configuration@2.0.0-beta1
+- pkg:nuget/Dora.ExceptionHandling.Configuration@2.0.0-beta2
+- pkg:nuget/Dora.ExceptionHandling.Configuration@2.0.0-rc1

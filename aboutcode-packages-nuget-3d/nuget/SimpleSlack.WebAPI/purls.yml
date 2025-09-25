@@ -1,0 +1,3 @@
+- pkg:nuget/SimpleSlack.WebAPI@0.0.1-prealpha
+- pkg:nuget/SimpleSlack.WebAPI@0.0.2-prealpha
+- pkg:nuget/SimpleSlack.WebAPI@0.0.3-prealpha

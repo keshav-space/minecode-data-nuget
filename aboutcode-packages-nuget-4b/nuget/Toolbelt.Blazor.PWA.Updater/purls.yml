@@ -1,0 +1,8 @@
+- pkg:nuget/Toolbelt.Blazor.PWA.Updater@1.0.0
+- pkg:nuget/Toolbelt.Blazor.PWA.Updater@2.0.0
+- pkg:nuget/Toolbelt.Blazor.PWA.Updater@2.1.0
+- pkg:nuget/Toolbelt.Blazor.PWA.Updater@2.1.0-preview.1
+- pkg:nuget/Toolbelt.Blazor.PWA.Updater@2.1.0.1
+- pkg:nuget/Toolbelt.Blazor.PWA.Updater@3.0.0
+- pkg:nuget/Toolbelt.Blazor.PWA.Updater@3.0.1
+- pkg:nuget/Toolbelt.Blazor.PWA.Updater@3.1.0

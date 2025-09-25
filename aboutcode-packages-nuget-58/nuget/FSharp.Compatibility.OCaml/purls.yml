@@ -1,0 +1,6 @@
+- pkg:nuget/FSharp.Compatibility.OCaml@0.1.10
+- pkg:nuget/FSharp.Compatibility.OCaml@0.1.12
+- pkg:nuget/FSharp.Compatibility.OCaml@0.1.13
+- pkg:nuget/FSharp.Compatibility.OCaml@0.1.14
+- pkg:nuget/FSharp.Compatibility.OCaml@0.1.8
+- pkg:nuget/FSharp.Compatibility.OCaml@0.1.9
