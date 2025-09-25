@@ -1,0 +1,5 @@
+- pkg:nuget/NerdBank.OAuth@0.1.0-beta1
+- pkg:nuget/NerdBank.OAuth@0.1.1-beta1
+- pkg:nuget/NerdBank.OAuth@0.2.0-beta
+- pkg:nuget/NerdBank.OAuth@0.2.1-beta
+- pkg:nuget/NerdBank.OAuth@0.2.1-beta2

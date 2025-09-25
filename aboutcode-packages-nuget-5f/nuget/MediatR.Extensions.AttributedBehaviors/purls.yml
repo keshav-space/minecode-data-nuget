@@ -1,0 +1,5 @@
+- pkg:nuget/MediatR.Extensions.AttributedBehaviors@1.0.0
+- pkg:nuget/MediatR.Extensions.AttributedBehaviors@1.0.1
+- pkg:nuget/MediatR.Extensions.AttributedBehaviors@1.0.2
+- pkg:nuget/MediatR.Extensions.AttributedBehaviors@2.0.0
+- pkg:nuget/MediatR.Extensions.AttributedBehaviors@3.0.0

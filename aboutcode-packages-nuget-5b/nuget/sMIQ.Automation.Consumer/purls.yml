@@ -1,0 +1,5 @@
+- pkg:nuget/sMIQ.Automation.Consumer@1.0.211-dev
+- pkg:nuget/sMIQ.Automation.Consumer@1.0.212-dev
+- pkg:nuget/sMIQ.Automation.Consumer@1.0.213-dev
+- pkg:nuget/sMIQ.Automation.Consumer@1.0.214
+- pkg:nuget/sMIQ.Automation.Consumer@1.0.217-dev

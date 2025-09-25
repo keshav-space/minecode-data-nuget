@@ -1,0 +1,3 @@
+- pkg:nuget/DotNetToolbox.AI.Anthropic@8.1.0-rc1
+- pkg:nuget/DotNetToolbox.AI.Anthropic@9.0.0
+- pkg:nuget/DotNetToolbox.AI.Anthropic@9.0.1

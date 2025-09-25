@@ -1,0 +1,6 @@
+- pkg:nuget/BumperLane.Public.ServiceContracts.Communication@3.0.0-test.10%2B2
+- pkg:nuget/BumperLane.Public.ServiceContracts.Communication@3.0.0-test.8
+- pkg:nuget/BumperLane.Public.ServiceContracts.Communication@3.0.0-test.9%2B1
+- pkg:nuget/BumperLane.Public.ServiceContracts.Communication@3.0.1
+- pkg:nuget/BumperLane.Public.ServiceContracts.Communication@3.0.2%2B3
+- pkg:nuget/BumperLane.Public.ServiceContracts.Communication@3.0.3%2B2

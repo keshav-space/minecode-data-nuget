@@ -1,0 +1,5 @@
+- pkg:nuget/PhotoSauce.NativeCodecs.Libpng@1.6.37-preview1
+- pkg:nuget/PhotoSauce.NativeCodecs.Libpng@1.6.39-preview1
+- pkg:nuget/PhotoSauce.NativeCodecs.Libpng@1.6.43-preview1
+- pkg:nuget/PhotoSauce.NativeCodecs.Libpng@1.6.43-preview2
+- pkg:nuget/PhotoSauce.NativeCodecs.Libpng@1.6.44-preview1

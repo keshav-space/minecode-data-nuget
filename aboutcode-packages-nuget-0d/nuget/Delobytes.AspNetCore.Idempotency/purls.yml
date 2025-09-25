@@ -1,0 +1,15 @@
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@0.0.1-alpha
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@0.0.2-alpha
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@0.2.0-beta
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@0.3.0-beta
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@0.4.0-beta
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@0.5.0-beta
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@1.0.0
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@2.0.0
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@2.0.0-alpha1
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@3.0.0
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@3.0.0-alpha1
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@3.0.0-alpha3
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@3.0.1
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@4.0.0
+- pkg:nuget/Delobytes.AspNetCore.Idempotency@4.0.1

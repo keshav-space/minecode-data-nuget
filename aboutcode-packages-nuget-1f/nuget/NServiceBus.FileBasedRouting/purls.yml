@@ -1,0 +1,6 @@
+- pkg:nuget/NServiceBus.FileBasedRouting@1.0.0
+- pkg:nuget/NServiceBus.FileBasedRouting@1.1.0
+- pkg:nuget/NServiceBus.FileBasedRouting@1.2.0
+- pkg:nuget/NServiceBus.FileBasedRouting@1.2.1
+- pkg:nuget/NServiceBus.FileBasedRouting@2.0.0
+- pkg:nuget/NServiceBus.FileBasedRouting@2.0.0-rc0003

@@ -1,0 +1,10 @@
+- pkg:nuget/WebSharper.UI.Decimal@10.0.0.604-beta1
+- pkg:nuget/WebSharper.UI.Decimal@7.0.6.454-beta5
+- pkg:nuget/WebSharper.UI.Decimal@8.0.0.512-beta2
+- pkg:nuget/WebSharper.UI.Decimal@8.0.0.521-rc
+- pkg:nuget/WebSharper.UI.Decimal@8.0.0.525-rc2
+- pkg:nuget/WebSharper.UI.Decimal@8.0.0.536-rc2
+- pkg:nuget/WebSharper.UI.Decimal@8.0.0.540
+- pkg:nuget/WebSharper.UI.Decimal@9.0.0.547
+- pkg:nuget/WebSharper.UI.Decimal@9.1.0.554
+- pkg:nuget/WebSharper.UI.Decimal@9.1.0.557

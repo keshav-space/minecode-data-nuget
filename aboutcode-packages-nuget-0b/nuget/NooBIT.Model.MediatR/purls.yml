@@ -1,0 +1,5 @@
+- pkg:nuget/NooBIT.Model.MediatR@3.0.0
+- pkg:nuget/NooBIT.Model.MediatR@4.0.0
+- pkg:nuget/NooBIT.Model.MediatR@5.0.0
+- pkg:nuget/NooBIT.Model.MediatR@6.0.0
+- pkg:nuget/NooBIT.Model.MediatR@6.0.1

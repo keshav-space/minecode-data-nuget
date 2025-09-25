@@ -1,0 +1,5 @@
+- pkg:nuget/Configuration.Abstractions@0.1.0-ci0009
+- pkg:nuget/Configuration.Abstractions@0.1.0-unstable0007
+- pkg:nuget/Configuration.Abstractions@0.1.1
+- pkg:nuget/Configuration.Abstractions@0.1.2
+- pkg:nuget/Configuration.Abstractions@0.2.0-unstable0001

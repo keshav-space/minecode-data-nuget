@@ -1,0 +1,13 @@
+- pkg:nuget/AppOptics.Instrumentation@3.1.0-beta
+- pkg:nuget/AppOptics.Instrumentation@3.10.0
+- pkg:nuget/AppOptics.Instrumentation@3.3.2
+- pkg:nuget/AppOptics.Instrumentation@3.5.3
+- pkg:nuget/AppOptics.Instrumentation@3.7.2
+- pkg:nuget/AppOptics.Instrumentation@3.9.0
+- pkg:nuget/AppOptics.Instrumentation@3.9.3
+- pkg:nuget/AppOptics.Instrumentation@3.9.6
+- pkg:nuget/AppOptics.Instrumentation@4.0.0
+- pkg:nuget/AppOptics.Instrumentation@4.0.1
+- pkg:nuget/AppOptics.Instrumentation@4.1.0
+- pkg:nuget/AppOptics.Instrumentation@4.1.1
+- pkg:nuget/AppOptics.Instrumentation@4.2.0

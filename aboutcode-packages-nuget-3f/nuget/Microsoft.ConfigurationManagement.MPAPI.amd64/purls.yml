@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.ConfigurationManagement.MPAPI.amd64@5.0.8638.1000
+- pkg:nuget/Microsoft.ConfigurationManagement.MPAPI.amd64@5.0.8639.1000
+- pkg:nuget/Microsoft.ConfigurationManagement.MPAPI.amd64@5.0.8640.1001

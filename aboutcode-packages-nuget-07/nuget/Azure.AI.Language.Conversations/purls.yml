@@ -1,0 +1,10 @@
+- pkg:nuget/Azure.AI.Language.Conversations@1.0.0
+- pkg:nuget/Azure.AI.Language.Conversations@1.0.0-beta.1
+- pkg:nuget/Azure.AI.Language.Conversations@1.0.0-beta.2
+- pkg:nuget/Azure.AI.Language.Conversations@1.0.0-beta.3
+- pkg:nuget/Azure.AI.Language.Conversations@1.1.0
+- pkg:nuget/Azure.AI.Language.Conversations@1.1.0-beta.1
+- pkg:nuget/Azure.AI.Language.Conversations@1.1.0-beta.2
+- pkg:nuget/Azure.AI.Language.Conversations@2.0.0-beta.1
+- pkg:nuget/Azure.AI.Language.Conversations@2.0.0-beta.2
+- pkg:nuget/Azure.AI.Language.Conversations@2.0.0-beta.3

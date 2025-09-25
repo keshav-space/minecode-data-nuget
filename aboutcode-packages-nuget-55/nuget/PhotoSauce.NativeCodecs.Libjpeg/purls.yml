@@ -1,0 +1,5 @@
+- pkg:nuget/PhotoSauce.NativeCodecs.Libjpeg@2.1.4-preview1
+- pkg:nuget/PhotoSauce.NativeCodecs.Libjpeg@3.0.0-preview1
+- pkg:nuget/PhotoSauce.NativeCodecs.Libjpeg@3.0.2-preview1
+- pkg:nuget/PhotoSauce.NativeCodecs.Libjpeg@3.0.2-preview2
+- pkg:nuget/PhotoSauce.NativeCodecs.Libjpeg@3.0.4-preview1

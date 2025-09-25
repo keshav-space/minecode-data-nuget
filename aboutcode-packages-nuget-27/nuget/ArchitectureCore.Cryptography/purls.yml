@@ -1,0 +1,5 @@
+- pkg:nuget/ArchitectureCore.Cryptography@3.2.0
+- pkg:nuget/ArchitectureCore.Cryptography@3.2.3
+- pkg:nuget/ArchitectureCore.Cryptography@6.0.0
+- pkg:nuget/ArchitectureCore.Cryptography@8.0.0
+- pkg:nuget/ArchitectureCore.Cryptography@8.0.1

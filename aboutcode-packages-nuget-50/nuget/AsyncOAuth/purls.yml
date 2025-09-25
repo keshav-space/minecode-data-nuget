@@ -1,0 +1,14 @@
+- pkg:nuget/AsyncOAuth@0.5.0-beta
+- pkg:nuget/AsyncOAuth@0.5.1-beta
+- pkg:nuget/AsyncOAuth@0.5.5-beta
+- pkg:nuget/AsyncOAuth@0.6.0-beta
+- pkg:nuget/AsyncOAuth@0.6.1-beta
+- pkg:nuget/AsyncOAuth@0.6.2-beta
+- pkg:nuget/AsyncOAuth@0.6.3-beta
+- pkg:nuget/AsyncOAuth@0.6.4-beta
+- pkg:nuget/AsyncOAuth@0.7.0
+- pkg:nuget/AsyncOAuth@0.8.0
+- pkg:nuget/AsyncOAuth@0.8.1
+- pkg:nuget/AsyncOAuth@0.8.2
+- pkg:nuget/AsyncOAuth@0.8.3
+- pkg:nuget/AsyncOAuth@0.8.4

@@ -1,0 +1,5 @@
+- pkg:nuget/DeployCmsData.Core@1.0.1
+- pkg:nuget/DeployCmsData.Core@1.0.1-beta
+- pkg:nuget/DeployCmsData.Core@1.0.2
+- pkg:nuget/DeployCmsData.Core@1.0.3
+- pkg:nuget/DeployCmsData.Core@2.0.0

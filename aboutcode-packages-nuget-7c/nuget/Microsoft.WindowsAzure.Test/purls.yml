@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.WindowsAzure.Test@1.0.0
+- pkg:nuget/Microsoft.WindowsAzure.Test@2.0.0
+- pkg:nuget/Microsoft.WindowsAzure.Test@3.0.0
+- pkg:nuget/Microsoft.WindowsAzure.Test@4.0.0
+- pkg:nuget/Microsoft.WindowsAzure.Test@5.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/MBrace.Azure.Client@0.6.0-alpha
+- pkg:nuget/MBrace.Azure.Client@0.6.1-alpha
+- pkg:nuget/MBrace.Azure.Client@0.6.2-alpha
+- pkg:nuget/MBrace.Azure.Client@0.6.3-alpha
+- pkg:nuget/MBrace.Azure.Client@0.6.4-alpha

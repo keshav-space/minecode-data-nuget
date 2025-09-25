@@ -1,0 +1,10 @@
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.0.0-beta01
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.13
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.15
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.16
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.17
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.17-beta01
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.18
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.19
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.20
+- pkg:nuget/makeITeasy.AppFramework.Infrastructure.EF6@6.1.21

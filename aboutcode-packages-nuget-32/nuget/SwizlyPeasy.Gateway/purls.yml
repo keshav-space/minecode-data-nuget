@@ -1,0 +1,11 @@
+- pkg:nuget/SwizlyPeasy.Gateway@0.0.1
+- pkg:nuget/SwizlyPeasy.Gateway@0.0.2
+- pkg:nuget/SwizlyPeasy.Gateway@0.0.3
+- pkg:nuget/SwizlyPeasy.Gateway@0.0.4-alpha
+- pkg:nuget/SwizlyPeasy.Gateway@0.0.5-alpha
+- pkg:nuget/SwizlyPeasy.Gateway@0.0.6-alpha
+- pkg:nuget/SwizlyPeasy.Gateway@0.0.7-alpha
+- pkg:nuget/SwizlyPeasy.Gateway@0.0.8-alpha
+- pkg:nuget/SwizlyPeasy.Gateway@0.1.0-beta
+- pkg:nuget/SwizlyPeasy.Gateway@0.1.1-beta
+- pkg:nuget/SwizlyPeasy.Gateway@0.1.5-beta

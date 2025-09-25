@@ -1,0 +1,8 @@
+- pkg:nuget/DotNetToolbox.TestUtilities@8.0.2-rc1
+- pkg:nuget/DotNetToolbox.TestUtilities@8.0.2-rc2
+- pkg:nuget/DotNetToolbox.TestUtilities@8.0.3
+- pkg:nuget/DotNetToolbox.TestUtilities@8.0.4
+- pkg:nuget/DotNetToolbox.TestUtilities@8.1.0
+- pkg:nuget/DotNetToolbox.TestUtilities@8.1.1
+- pkg:nuget/DotNetToolbox.TestUtilities@9.0.0
+- pkg:nuget/DotNetToolbox.TestUtilities@9.0.1

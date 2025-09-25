@@ -1,0 +1,13 @@
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@1.0.0
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@3.0.0
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.0
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.1
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.10
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.2
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.3
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.4
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.5
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.6
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.7
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.8
+- pkg:nuget/CDorst.Azure.Storage.Connection.GetConnectionString@4.0.9

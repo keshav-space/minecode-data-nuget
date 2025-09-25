@@ -1,0 +1,4 @@
+- pkg:nuget/Parsing.Linq.Roslyn@0.10.0
+- pkg:nuget/Parsing.Linq.Roslyn@0.11.0
+- pkg:nuget/Parsing.Linq.Roslyn@0.8.0
+- pkg:nuget/Parsing.Linq.Roslyn@0.9.0

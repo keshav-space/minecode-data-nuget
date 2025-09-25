@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.10.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.11.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.12.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.13.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.14.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.15.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.16.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.17.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.5.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.6.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.7.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.8.0-alpha
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.OpenAI.Kusto@0.9.0-alpha

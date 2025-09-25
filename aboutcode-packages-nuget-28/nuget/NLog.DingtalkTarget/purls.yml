@@ -1,0 +1,3 @@
+- pkg:nuget/NLog.DingtalkTarget@1.0.0
+- pkg:nuget/NLog.DingtalkTarget@1.1.0
+- pkg:nuget/NLog.DingtalkTarget@1.1.1

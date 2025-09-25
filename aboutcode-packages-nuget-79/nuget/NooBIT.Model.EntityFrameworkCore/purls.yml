@@ -1,0 +1,5 @@
+- pkg:nuget/NooBIT.Model.EntityFrameworkCore@3.0.0
+- pkg:nuget/NooBIT.Model.EntityFrameworkCore@4.0.0
+- pkg:nuget/NooBIT.Model.EntityFrameworkCore@5.0.0
+- pkg:nuget/NooBIT.Model.EntityFrameworkCore@6.0.0
+- pkg:nuget/NooBIT.Model.EntityFrameworkCore@6.0.1

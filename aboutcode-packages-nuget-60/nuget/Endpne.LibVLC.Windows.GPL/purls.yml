@@ -1,0 +1,4 @@
+- pkg:nuget/Endpne.LibVLC.Windows.GPL@3.0.21
+- pkg:nuget/Endpne.LibVLC.Windows.GPL@4.0.0-dev
+- pkg:nuget/Endpne.LibVLC.Windows.GPL@4.0.1-dev
+- pkg:nuget/Endpne.LibVLC.Windows.GPL@4.0.2-dev

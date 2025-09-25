@@ -1,0 +1,11 @@
+- pkg:nuget/Prometheus.Client.Abstractions@4.3.0
+- pkg:nuget/Prometheus.Client.Abstractions@4.4.0
+- pkg:nuget/Prometheus.Client.Abstractions@4.5.0
+- pkg:nuget/Prometheus.Client.Abstractions@4.5.1
+- pkg:nuget/Prometheus.Client.Abstractions@4.5.2
+- pkg:nuget/Prometheus.Client.Abstractions@4.5.3
+- pkg:nuget/Prometheus.Client.Abstractions@5.0.0
+- pkg:nuget/Prometheus.Client.Abstractions@5.1.0
+- pkg:nuget/Prometheus.Client.Abstractions@5.2.0
+- pkg:nuget/Prometheus.Client.Abstractions@6.0.0
+- pkg:nuget/Prometheus.Client.Abstractions@6.1.0

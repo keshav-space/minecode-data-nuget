@@ -1,0 +1,5 @@
+- pkg:nuget/Imperfect.FsToolkit.Http@5.1.143
+- pkg:nuget/Imperfect.FsToolkit.Http@6.0.0
+- pkg:nuget/Imperfect.FsToolkit.Http@6.0.0-rc.1
+- pkg:nuget/Imperfect.FsToolkit.Http@6.0.0-rc.2
+- pkg:nuget/Imperfect.FsToolkit.Http@6.1.0

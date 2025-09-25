@@ -1,0 +1,4 @@
+- pkg:nuget/Nancy.Authentication.JwtBearer@1.0.0
+- pkg:nuget/Nancy.Authentication.JwtBearer@1.0.1
+- pkg:nuget/Nancy.Authentication.JwtBearer@1.1.0
+- pkg:nuget/Nancy.Authentication.JwtBearer@1.1.1

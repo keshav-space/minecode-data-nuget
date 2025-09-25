@@ -1,0 +1,5 @@
+- pkg:nuget/Monoculture.TinyCLR.Drivers.BME280@1.0.0
+- pkg:nuget/Monoculture.TinyCLR.Drivers.BME280@2.0.0
+- pkg:nuget/Monoculture.TinyCLR.Drivers.BME280@2.1.0
+- pkg:nuget/Monoculture.TinyCLR.Drivers.BME280@2.1.1
+- pkg:nuget/Monoculture.TinyCLR.Drivers.BME280@2.1.2

@@ -1,0 +1,16 @@
+- pkg:nuget/DexieCloudNET@1.2.2-pre
+- pkg:nuget/DexieCloudNET@1.2.3-pre
+- pkg:nuget/DexieCloudNET@1.2.4-pre
+- pkg:nuget/DexieCloudNET@1.2.6-pre
+- pkg:nuget/DexieCloudNET@1.2.8-pre
+- pkg:nuget/DexieCloudNET@1.2.9-pre
+- pkg:nuget/DexieCloudNET@1.3.0-pre
+- pkg:nuget/DexieCloudNET@1.3.1-pre
+- pkg:nuget/DexieCloudNET@1.3.2
+- pkg:nuget/DexieCloudNET@1.3.3
+- pkg:nuget/DexieCloudNET@1.3.4
+- pkg:nuget/DexieCloudNET@1.3.5
+- pkg:nuget/DexieCloudNET@1.4.0
+- pkg:nuget/DexieCloudNET@1.4.1
+- pkg:nuget/DexieCloudNET@1.4.2
+- pkg:nuget/DexieCloudNET@1.5.0

@@ -1,0 +1,10 @@
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.0.0-dev.0%2B0-appveyor.38167243
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.1.0%2Bg52dc02b-appveyor.38167593
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.1.1%2Bg1220f33-appveyor.38169781
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.1.2%2Bge99816d-appveyor.38189863
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.2.0%2Bg2dcbff5-appveyor.38203995
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.2.1%2Bg337f2e8-appveyor.38206054
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.2.2%2Bg82998c0-github.956092465
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.3.0%2Bg6152aca-github.1115907627
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.4.0%2Bg360998b-github.1515075194
+- pkg:nuget/TurnerSoftware.BuildVersioning.Tool@0.5.0%2Bg8991ba7-github.8880715784

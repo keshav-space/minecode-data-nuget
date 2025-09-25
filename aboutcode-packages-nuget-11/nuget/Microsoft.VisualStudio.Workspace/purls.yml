@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.VisualStudio.Workspace@15.0.392
+- pkg:nuget/Microsoft.VisualStudio.Workspace@15.0.401
+- pkg:nuget/Microsoft.VisualStudio.Workspace@15.0.485
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.0.16-pre
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.0.18-pre
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.0.44-pre
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.0.59
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.1.64
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.3.42-preview-0003
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.3.43
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.6.55-preview-0003
+- pkg:nuget/Microsoft.VisualStudio.Workspace@16.7.47-preview-0001
+- pkg:nuget/Microsoft.VisualStudio.Workspace@17.1.11-preview-0002
+- pkg:nuget/Microsoft.VisualStudio.Workspace@17.12.18
+- pkg:nuget/Microsoft.VisualStudio.Workspace@17.12.19
+- pkg:nuget/Microsoft.VisualStudio.Workspace@17.12.3-preview-0002

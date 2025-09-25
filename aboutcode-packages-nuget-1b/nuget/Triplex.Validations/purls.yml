@@ -1,0 +1,17 @@
+- pkg:nuget/Triplex.Validations@0.0.1
+- pkg:nuget/Triplex.Validations@0.1.0
+- pkg:nuget/Triplex.Validations@0.10.0
+- pkg:nuget/Triplex.Validations@0.2.0
+- pkg:nuget/Triplex.Validations@0.3.0
+- pkg:nuget/Triplex.Validations@0.4.0
+- pkg:nuget/Triplex.Validations@0.5.0
+- pkg:nuget/Triplex.Validations@0.6.0
+- pkg:nuget/Triplex.Validations@0.7.0
+- pkg:nuget/Triplex.Validations@0.8.0
+- pkg:nuget/Triplex.Validations@0.9.0
+- pkg:nuget/Triplex.Validations@1.0.0
+- pkg:nuget/Triplex.Validations@1.1.0
+- pkg:nuget/Triplex.Validations@2.0.0
+- pkg:nuget/Triplex.Validations@3.0.2-alpha
+- pkg:nuget/Triplex.Validations@3.0.5-alpha
+- pkg:nuget/Triplex.Validations@4.0.0-preview

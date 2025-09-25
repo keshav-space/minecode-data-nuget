@@ -1,0 +1,5 @@
+- pkg:nuget/Chatham.Kit.ServiceDiscovery.LoadBalancer@0.1.0
+- pkg:nuget/Chatham.Kit.ServiceDiscovery.LoadBalancer@0.2.0
+- pkg:nuget/Chatham.Kit.ServiceDiscovery.LoadBalancer@0.2.1
+- pkg:nuget/Chatham.Kit.ServiceDiscovery.LoadBalancer@1.0.0-ci0005
+- pkg:nuget/Chatham.Kit.ServiceDiscovery.LoadBalancer@1.0.0-ci0011

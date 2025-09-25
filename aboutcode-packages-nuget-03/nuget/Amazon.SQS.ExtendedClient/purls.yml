@@ -1,0 +1,14 @@
+- pkg:nuget/Amazon.SQS.ExtendedClient@0.1.0
+- pkg:nuget/Amazon.SQS.ExtendedClient@0.1.1.11
+- pkg:nuget/Amazon.SQS.ExtendedClient@0.2.1
+- pkg:nuget/Amazon.SQS.ExtendedClient@0.2.3
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.0.0
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.0.1
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.1.0
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.2.0
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.2.1
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.3.0
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.4.0
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.5.0
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.6.0
+- pkg:nuget/Amazon.SQS.ExtendedClient@1.7.0

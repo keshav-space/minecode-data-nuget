@@ -1,0 +1,14 @@
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.0.0-beta01
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.2.0
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.3.0
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.3.0-beta01
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.3.0-beta02
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.3.0-beta03
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.3.0-beta06
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.3.0-beta08
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.3.1
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@4.4.0
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@5.0.0
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@5.1.0
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@5.2.0
+- pkg:nuget/Google.Cloud.Diagnostics.AspNetCore3@5.3.0

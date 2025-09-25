@@ -1,0 +1,5 @@
+- pkg:nuget/Lambda.Powertools.DeployTest@0.1.0-alpha
+- pkg:nuget/Lambda.Powertools.DeployTest@0.3.0-alpha
+- pkg:nuget/Lambda.Powertools.DeployTest@0.5.0-alpha
+- pkg:nuget/Lambda.Powertools.DeployTest@0.6.0-alpha
+- pkg:nuget/Lambda.Powertools.DeployTest@1.0.0

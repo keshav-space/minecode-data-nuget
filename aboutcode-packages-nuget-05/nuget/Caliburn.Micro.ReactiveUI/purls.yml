@@ -1,0 +1,13 @@
+- pkg:nuget/Caliburn.Micro.ReactiveUI@1.0.0
+- pkg:nuget/Caliburn.Micro.ReactiveUI@1.1.0-pre
+- pkg:nuget/Caliburn.Micro.ReactiveUI@1.2.0
+- pkg:nuget/Caliburn.Micro.ReactiveUI@1.2.1
+- pkg:nuget/Caliburn.Micro.ReactiveUI@1.2.2
+- pkg:nuget/Caliburn.Micro.ReactiveUI@2.0.0
+- pkg:nuget/Caliburn.Micro.ReactiveUI@2.0.0-beta
+- pkg:nuget/Caliburn.Micro.ReactiveUI@2.1.0
+- pkg:nuget/Caliburn.Micro.ReactiveUI@2.1.0-beta
+- pkg:nuget/Caliburn.Micro.ReactiveUI@2.2.0
+- pkg:nuget/Caliburn.Micro.ReactiveUI@2.2.1
+- pkg:nuget/Caliburn.Micro.ReactiveUI@2.3.0
+- pkg:nuget/Caliburn.Micro.ReactiveUI@2.4.0

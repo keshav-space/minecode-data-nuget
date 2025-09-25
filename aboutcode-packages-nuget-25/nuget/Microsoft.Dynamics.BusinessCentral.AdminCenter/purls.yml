@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.10.1.6
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.11.1.1
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.12.5
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.14.1.9
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.16.22340.1
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.16.4
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.16.4.1
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.23.2
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.26.1
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.7.21179.1
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.7.21181.5
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.AdminCenter@2.7.21182.1

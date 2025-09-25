@@ -1,0 +1,5 @@
+- pkg:nuget/PhotoSauce.NativeCodecs.Giflib@5.2.1-preview1
+- pkg:nuget/PhotoSauce.NativeCodecs.Giflib@5.2.1-preview2
+- pkg:nuget/PhotoSauce.NativeCodecs.Giflib@5.2.2-preview1
+- pkg:nuget/PhotoSauce.NativeCodecs.Giflib@5.2.2-preview2
+- pkg:nuget/PhotoSauce.NativeCodecs.Giflib@5.2.2-preview3

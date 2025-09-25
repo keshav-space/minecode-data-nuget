@@ -1,0 +1,4 @@
+- pkg:nuget/Rhombus.AspNetCore.WebSockets@1.0.0
+- pkg:nuget/Rhombus.AspNetCore.WebSockets@1.0.1
+- pkg:nuget/Rhombus.AspNetCore.WebSockets@1.0.7
+- pkg:nuget/Rhombus.AspNetCore.WebSockets@1.0.8-pre

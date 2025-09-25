@@ -1,0 +1,13 @@
+- pkg:nuget/Apache.IoTDB.Data@0.13.0.10
+- pkg:nuget/Apache.IoTDB.Data@0.13.0.7
+- pkg:nuget/Apache.IoTDB.Data@0.13.0.7-alpha
+- pkg:nuget/Apache.IoTDB.Data@0.13.0.8
+- pkg:nuget/Apache.IoTDB.Data@0.13.0.9
+- pkg:nuget/Apache.IoTDB.Data@1.0.0.1
+- pkg:nuget/Apache.IoTDB.Data@1.0.0.1-alpha
+- pkg:nuget/Apache.IoTDB.Data@1.0.0.2
+- pkg:nuget/Apache.IoTDB.Data@1.0.0.3
+- pkg:nuget/Apache.IoTDB.Data@1.0.0.4
+- pkg:nuget/Apache.IoTDB.Data@1.3.3.1
+- pkg:nuget/Apache.IoTDB.Data@1.3.4
+- pkg:nuget/Apache.IoTDB.Data@2.0.2

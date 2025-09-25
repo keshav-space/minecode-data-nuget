@@ -1,0 +1,7 @@
+- pkg:nuget/DbConnection.Serilog@1.0.0-Beta
+- pkg:nuget/DbConnection.Serilog@1.0.0.10-Beta
+- pkg:nuget/DbConnection.Serilog@1.0.0.2-Beta
+- pkg:nuget/DbConnection.Serilog@1.0.0.4-Beta
+- pkg:nuget/DbConnection.Serilog@1.0.0.8-Beta
+- pkg:nuget/DbConnection.Serilog@1.0.0.9-Beta
+- pkg:nuget/DbConnection.Serilog@1.1.12-Beta

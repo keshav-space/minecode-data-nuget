@@ -1,0 +1,4 @@
+- pkg:nuget/sMIQ.Automation.Messaging@1.0.212-dev
+- pkg:nuget/sMIQ.Automation.Messaging@1.0.213-dev
+- pkg:nuget/sMIQ.Automation.Messaging@1.0.214
+- pkg:nuget/sMIQ.Automation.Messaging@1.0.217-dev

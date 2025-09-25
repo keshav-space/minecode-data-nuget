@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@0.5.0-preview
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@0.5.1-preview
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@0.5.2-preview
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@0.5.3-preview
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@0.5.4-preview
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@0.5.5-preview
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@0.5.6-preview
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@0.6.0-preview
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@1.0.0-preview1
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@2.0.0-preview1
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@2.0.0-preview2
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@2.0.0-preview3
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@2.0.0-preview4
+- pkg:nuget/Microsoft.OpenApi.ApiManifest@2.0.0-preview5

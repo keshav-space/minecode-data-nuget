@@ -1,0 +1,14 @@
+- pkg:nuget/Dapper.Wrappers@0.1.0-beta
+- pkg:nuget/Dapper.Wrappers@0.1.1-beta
+- pkg:nuget/Dapper.Wrappers@0.2.0-beta
+- pkg:nuget/Dapper.Wrappers@0.3.0-beta
+- pkg:nuget/Dapper.Wrappers@0.3.1-beta
+- pkg:nuget/Dapper.Wrappers@0.3.2-beta
+- pkg:nuget/Dapper.Wrappers@1.0.0
+- pkg:nuget/Dapper.Wrappers@1.0.1
+- pkg:nuget/Dapper.Wrappers@1.1.0
+- pkg:nuget/Dapper.Wrappers@2.0.0-beta
+- pkg:nuget/Dapper.Wrappers@2.0.1-beta
+- pkg:nuget/Dapper.Wrappers@2.0.2-beta
+- pkg:nuget/Dapper.Wrappers@2.0.3-beta
+- pkg:nuget/Dapper.Wrappers@2.1.0-beta

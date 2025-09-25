@@ -1,0 +1,11 @@
+- pkg:nuget/WebSharper.PerformanceAPI@10.0.0.604-beta1
+- pkg:nuget/WebSharper.PerformanceAPI@7.0.0.347-beta2
+- pkg:nuget/WebSharper.PerformanceAPI@7.0.0.364-beta3
+- pkg:nuget/WebSharper.PerformanceAPI@7.0.3.454-beta5
+- pkg:nuget/WebSharper.PerformanceAPI@8.0.0.512-beta2
+- pkg:nuget/WebSharper.PerformanceAPI@8.0.0.521-rc
+- pkg:nuget/WebSharper.PerformanceAPI@8.0.0.525-rc2
+- pkg:nuget/WebSharper.PerformanceAPI@8.0.0.536-rc2
+- pkg:nuget/WebSharper.PerformanceAPI@8.0.0.540
+- pkg:nuget/WebSharper.PerformanceAPI@9.0.0.547
+- pkg:nuget/WebSharper.PerformanceAPI@9.1.0.554

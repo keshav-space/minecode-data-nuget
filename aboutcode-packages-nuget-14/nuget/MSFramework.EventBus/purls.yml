@@ -1,0 +1,5 @@
+- pkg:nuget/MSFramework.EventBus@0.13.6-beta6
+- pkg:nuget/MSFramework.EventBus@0.13.6-beta7
+- pkg:nuget/MSFramework.EventBus@0.13.6-beta8
+- pkg:nuget/MSFramework.EventBus@0.13.6-beta9
+- pkg:nuget/MSFramework.EventBus@0.13.7-beta1

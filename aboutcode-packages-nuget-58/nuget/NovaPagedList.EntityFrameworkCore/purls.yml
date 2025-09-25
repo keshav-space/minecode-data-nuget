@@ -1,0 +1,4 @@
+- pkg:nuget/NovaPagedList.EntityFrameworkCore@1.0.0
+- pkg:nuget/NovaPagedList.EntityFrameworkCore@1.0.0-preview1
+- pkg:nuget/NovaPagedList.EntityFrameworkCore@1.1.0
+- pkg:nuget/NovaPagedList.EntityFrameworkCore@1.2.0

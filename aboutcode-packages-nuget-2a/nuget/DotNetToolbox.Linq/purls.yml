@@ -1,0 +1,4 @@
+- pkg:nuget/DotNetToolbox.Linq@8.1.0
+- pkg:nuget/DotNetToolbox.Linq@8.1.1
+- pkg:nuget/DotNetToolbox.Linq@9.0.0
+- pkg:nuget/DotNetToolbox.Linq@9.0.1

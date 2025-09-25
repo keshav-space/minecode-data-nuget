@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.ApplicationInsights.UniversalTelemetryChannel@0.15.0-build00179
+- pkg:nuget/Microsoft.ApplicationInsights.UniversalTelemetryChannel@0.16.0-build00183
+- pkg:nuget/Microsoft.ApplicationInsights.UniversalTelemetryChannel@0.16.1-build00418
+- pkg:nuget/Microsoft.ApplicationInsights.UniversalTelemetryChannel@0.17.2-build00169
