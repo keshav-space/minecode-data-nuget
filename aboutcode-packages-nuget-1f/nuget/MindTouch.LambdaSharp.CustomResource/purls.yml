@@ -1,0 +1,8 @@
+- pkg:nuget/MindTouch.LambdaSharp.CustomResource@0.1.0
+- pkg:nuget/MindTouch.LambdaSharp.CustomResource@0.2.0
+- pkg:nuget/MindTouch.LambdaSharp.CustomResource@0.2.0-rc1
+- pkg:nuget/MindTouch.LambdaSharp.CustomResource@0.3.0
+- pkg:nuget/MindTouch.LambdaSharp.CustomResource@0.3.0-RC3
+- pkg:nuget/MindTouch.LambdaSharp.CustomResource@0.4.0
+- pkg:nuget/MindTouch.LambdaSharp.CustomResource@0.4.0-RC1
+- pkg:nuget/MindTouch.LambdaSharp.CustomResource@0.4.0-RC2

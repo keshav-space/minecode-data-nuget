@@ -1,0 +1,9 @@
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@1.8.0
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@1.8.1
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@1.8.2
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@2.0.0
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@2.0.0-alpha1
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@2.1.0
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@2.2.0
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@2.3.0
+- pkg:nuget/Insight.Logging.Serilog.Middlewares@2.4.0

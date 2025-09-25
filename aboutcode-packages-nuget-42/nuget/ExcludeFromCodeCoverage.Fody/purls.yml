@@ -1,0 +1,6 @@
+- pkg:nuget/ExcludeFromCodeCoverage.Fody@1.0.0
+- pkg:nuget/ExcludeFromCodeCoverage.Fody@1.0.0-alpha
+- pkg:nuget/ExcludeFromCodeCoverage.Fody@1.0.1-alpha
+- pkg:nuget/ExcludeFromCodeCoverage.Fody@1.1.0
+- pkg:nuget/ExcludeFromCodeCoverage.Fody@1.1.1
+- pkg:nuget/ExcludeFromCodeCoverage.Fody@1.1.2

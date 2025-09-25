@@ -1,0 +1,11 @@
+- pkg:nuget/MessageQueueNET.Client@0.9.1
+- pkg:nuget/MessageQueueNET.Client@0.9.2
+- pkg:nuget/MessageQueueNET.Client@1.22.103
+- pkg:nuget/MessageQueueNET.Client@1.22.301
+- pkg:nuget/MessageQueueNET.Client@1.22.501
+- pkg:nuget/MessageQueueNET.Client@2.24.1101
+- pkg:nuget/MessageQueueNET.Client@3.24.1801
+- pkg:nuget/MessageQueueNET.Client@3.24.3101
+- pkg:nuget/MessageQueueNET.Client@3.24.4201
+- pkg:nuget/MessageQueueNET.Client@3.24.5101
+- pkg:nuget/MessageQueueNET.Client@3.25.3702

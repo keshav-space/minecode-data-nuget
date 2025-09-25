@@ -1,0 +1,4 @@
+- pkg:nuget/Ifornew.WebSocket@0.1.0-local
+- pkg:nuget/Ifornew.WebSocket@0.1.0.1-local
+- pkg:nuget/Ifornew.WebSocket@1.0.0
+- pkg:nuget/Ifornew.WebSocket@1.0.1

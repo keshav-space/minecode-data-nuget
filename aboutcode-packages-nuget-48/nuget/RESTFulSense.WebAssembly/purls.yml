@@ -1,0 +1,11 @@
+- pkg:nuget/RESTFulSense.WebAssembly@0.9.0
+- pkg:nuget/RESTFulSense.WebAssembly@1.0.0
+- pkg:nuget/RESTFulSense.WebAssembly@2.12.0
+- pkg:nuget/RESTFulSense.WebAssembly@2.13.0
+- pkg:nuget/RESTFulSense.WebAssembly@2.14.0
+- pkg:nuget/RESTFulSense.WebAssembly@2.16.0
+- pkg:nuget/RESTFulSense.WebAssembly@2.17.0
+- pkg:nuget/RESTFulSense.WebAssembly@2.18.0
+- pkg:nuget/RESTFulSense.WebAssembly@2.18.1
+- pkg:nuget/RESTFulSense.WebAssembly@2.19.0
+- pkg:nuget/RESTFulSense.WebAssembly@3.0.0

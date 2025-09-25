@@ -1,0 +1,11 @@
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@1.6.0
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@1.7.0
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@1.8.0
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@1.8.1
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@1.8.2
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@2.0.0
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@2.0.0-alpha1
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@2.1.0
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@2.2.0
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@2.3.0
+- pkg:nuget/Insight.AspNetCore.ExceptionFilters@2.4.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Azure@1.15.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Azure@1.15.0-rc

@@ -1,0 +1,2 @@
+- pkg:nuget/Cardinal.AspNetCore.Serilog@0.6.0-alpha
+- pkg:nuget/Cardinal.AspNetCore.Serilog@0.6.1-alpha

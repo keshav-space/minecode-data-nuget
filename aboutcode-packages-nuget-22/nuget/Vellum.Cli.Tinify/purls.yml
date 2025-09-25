@@ -1,0 +1,10 @@
+- pkg:nuget/Vellum.Cli.Tinify@0.1.0
+- pkg:nuget/Vellum.Cli.Tinify@0.2.0
+- pkg:nuget/Vellum.Cli.Tinify@0.2.1
+- pkg:nuget/Vellum.Cli.Tinify@0.2.14
+- pkg:nuget/Vellum.Cli.Tinify@0.2.2-invokebuild-spike.10
+- pkg:nuget/Vellum.Cli.Tinify@0.2.4-preview.1
+- pkg:nuget/Vellum.Cli.Tinify@0.2.4-preview.2
+- pkg:nuget/Vellum.Cli.Tinify@0.2.5-preview.1
+- pkg:nuget/Vellum.Cli.Tinify@0.2.6-nuget-versions.1
+- pkg:nuget/Vellum.Cli.Tinify@0.2.7-preview.4

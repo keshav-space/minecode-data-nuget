@@ -1,0 +1,4 @@
+- pkg:nuget/Sample.Deneme.Core@1.0.1
+- pkg:nuget/Sample.Deneme.Core@1.0.3
+- pkg:nuget/Sample.Deneme.Core@1.0.7
+- pkg:nuget/Sample.Deneme.Core@1.1.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.VisualStudio.Azure.CodeAnalysis@0.1.0-beta
+- pkg:nuget/Microsoft.VisualStudio.Azure.CodeAnalysis@0.2.0-beta
+- pkg:nuget/Microsoft.VisualStudio.Azure.CodeAnalysis@0.3.0-beta
+- pkg:nuget/Microsoft.VisualStudio.Azure.CodeAnalysis@0.4.0-beta
+- pkg:nuget/Microsoft.VisualStudio.Azure.CodeAnalysis@0.5.0-beta

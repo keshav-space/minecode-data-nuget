@@ -1,0 +1,15 @@
+- pkg:nuget/WoW2.DemoPackage@0.0.1
+- pkg:nuget/WoW2.DemoPackage@1.0.0-alpha
+- pkg:nuget/WoW2.DemoPackage@1.0.0-alpha.0
+- pkg:nuget/WoW2.DemoPackage@1.0.0-alpha.1
+- pkg:nuget/WoW2.DemoPackage@1.0.0-alpha.2
+- pkg:nuget/WoW2.DemoPackage@8.0.0-alpha.0
+- pkg:nuget/WoW2.DemoPackage@8.0.0-alpha.1
+- pkg:nuget/WoW2.DemoPackage@8.0.0-alpha.2
+- pkg:nuget/WoW2.DemoPackage@8.0.1
+- pkg:nuget/WoW2.DemoPackage@8.0.1-alpha.0
+- pkg:nuget/WoW2.DemoPackage@8.1.0-alpha.2
+- pkg:nuget/WoW2.DemoPackage@8.2.0
+- pkg:nuget/WoW2.DemoPackage@8.2.0-alpha.0
+- pkg:nuget/WoW2.DemoPackage@8.2.0-alpha.1
+- pkg:nuget/WoW2.DemoPackage@8.2.1-alpha.0

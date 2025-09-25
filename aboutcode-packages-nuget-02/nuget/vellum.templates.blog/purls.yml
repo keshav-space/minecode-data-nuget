@@ -1,0 +1,5 @@
+- pkg:nuget/vellum.templates.blog@0.1.0
+- pkg:nuget/vellum.templates.blog@0.2.0
+- pkg:nuget/vellum.templates.blog@0.2.1
+- pkg:nuget/vellum.templates.blog@0.2.14
+- pkg:nuget/vellum.templates.blog@0.2.2-invokebuild-spike.10

@@ -1,0 +1,5 @@
+- pkg:nuget/Blazor.TSRuntime@0.6.0
+- pkg:nuget/Blazor.TSRuntime@0.7.0
+- pkg:nuget/Blazor.TSRuntime@0.8.0
+- pkg:nuget/Blazor.TSRuntime@1.0.0
+- pkg:nuget/Blazor.TSRuntime@1.0.1

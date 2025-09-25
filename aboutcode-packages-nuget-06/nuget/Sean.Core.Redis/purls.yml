@@ -1,0 +1,4 @@
+- pkg:nuget/Sean.Core.Redis@2.0.5
+- pkg:nuget/Sean.Core.Redis@2.0.6
+- pkg:nuget/Sean.Core.Redis@2.0.7
+- pkg:nuget/Sean.Core.Redis@2.0.8

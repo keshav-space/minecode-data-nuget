@@ -1,0 +1,11 @@
+- pkg:nuget/DockerSdk@0.5.0
+- pkg:nuget/DockerSdk@0.5.1%2B2
+- pkg:nuget/DockerSdk@0.5.1-PullRequest0012.4
+- pkg:nuget/DockerSdk@0.5.10
+- pkg:nuget/DockerSdk@0.5.11
+- pkg:nuget/DockerSdk@0.5.12
+- pkg:nuget/DockerSdk@0.5.5
+- pkg:nuget/DockerSdk@0.5.6
+- pkg:nuget/DockerSdk@0.5.7
+- pkg:nuget/DockerSdk@0.5.8
+- pkg:nuget/DockerSdk@0.5.9

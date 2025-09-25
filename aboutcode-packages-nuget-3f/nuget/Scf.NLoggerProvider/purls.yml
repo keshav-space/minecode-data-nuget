@@ -1,0 +1,5 @@
+- pkg:nuget/Scf.NLoggerProvider@4.0.0
+- pkg:nuget/Scf.NLoggerProvider@4.0.1
+- pkg:nuget/Scf.NLoggerProvider@4.0.6
+- pkg:nuget/Scf.NLoggerProvider@4.0.8
+- pkg:nuget/Scf.NLoggerProvider@5.0.0

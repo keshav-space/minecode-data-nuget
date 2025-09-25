@@ -1,0 +1,16 @@
+- pkg:nuget/Net.IBM.Data.Db2-osx@6.0.0.200
+- pkg:nuget/Net.IBM.Data.Db2-osx@6.0.0.200-beta1
+- pkg:nuget/Net.IBM.Data.Db2-osx@6.0.0.300
+- pkg:nuget/Net.IBM.Data.Db2-osx@6.0.0.400
+- pkg:nuget/Net.IBM.Data.Db2-osx@6.0.0.500
+- pkg:nuget/Net.IBM.Data.Db2-osx@7.0.0.200
+- pkg:nuget/Net.IBM.Data.Db2-osx@7.0.0.300
+- pkg:nuget/Net.IBM.Data.Db2-osx@7.0.0.400
+- pkg:nuget/Net.IBM.Data.Db2-osx@8.0.0.100
+- pkg:nuget/Net.IBM.Data.Db2-osx@8.0.0.200
+- pkg:nuget/Net.IBM.Data.Db2-osx@8.0.0.300
+- pkg:nuget/Net.IBM.Data.Db2-osx@8.0.0.400
+- pkg:nuget/Net.IBM.Data.Db2-osx@8.0.0.500
+- pkg:nuget/Net.IBM.Data.Db2-osx@9.0.0.100
+- pkg:nuget/Net.IBM.Data.Db2-osx@9.0.0.200
+- pkg:nuget/Net.IBM.Data.Db2-osx@9.0.0.300

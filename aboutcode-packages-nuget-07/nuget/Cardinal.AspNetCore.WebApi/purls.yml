@@ -1,0 +1,3 @@
+- pkg:nuget/Cardinal.AspNetCore.WebApi@0.6.0-alpha
+- pkg:nuget/Cardinal.AspNetCore.WebApi@0.6.1-alpha
+- pkg:nuget/Cardinal.AspNetCore.WebApi@1.0.0

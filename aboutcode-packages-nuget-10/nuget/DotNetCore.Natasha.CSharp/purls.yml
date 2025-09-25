@@ -1,0 +1,14 @@
+- pkg:nuget/DotNetCore.Natasha.CSharp@4.0.0-beta.2
+- pkg:nuget/DotNetCore.Natasha.CSharp@4.0.0.1
+- pkg:nuget/DotNetCore.Natasha.CSharp@4.1.0
+- pkg:nuget/DotNetCore.Natasha.CSharp@4.2.0
+- pkg:nuget/DotNetCore.Natasha.CSharp@4.2.0.1
+- pkg:nuget/DotNetCore.Natasha.CSharp@4.2.0.1-beta.1
+- pkg:nuget/DotNetCore.Natasha.CSharp@4.2.0.2
+- pkg:nuget/DotNetCore.Natasha.CSharp@5.0.0
+- pkg:nuget/DotNetCore.Natasha.CSharp@5.0.1
+- pkg:nuget/DotNetCore.Natasha.CSharp@5.0.2
+- pkg:nuget/DotNetCore.Natasha.CSharp@5.1.0
+- pkg:nuget/DotNetCore.Natasha.CSharp@5.2.0
+- pkg:nuget/DotNetCore.Natasha.CSharp@5.2.2
+- pkg:nuget/DotNetCore.Natasha.CSharp@5.2.2.1

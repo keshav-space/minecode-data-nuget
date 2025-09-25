@@ -1,0 +1,4 @@
+- pkg:nuget/NServiceBus.AzureFunctions.StorageQueues@0.2.3
+- pkg:nuget/NServiceBus.AzureFunctions.StorageQueues@0.3.0
+- pkg:nuget/NServiceBus.AzureFunctions.StorageQueues@0.4.0
+- pkg:nuget/NServiceBus.AzureFunctions.StorageQueues@0.5.0

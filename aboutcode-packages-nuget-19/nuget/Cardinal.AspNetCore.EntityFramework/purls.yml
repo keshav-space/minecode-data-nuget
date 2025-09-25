@@ -1,0 +1,2 @@
+- pkg:nuget/Cardinal.AspNetCore.EntityFramework@0.6.1-alpha
+- pkg:nuget/Cardinal.AspNetCore.EntityFramework@1.0.0

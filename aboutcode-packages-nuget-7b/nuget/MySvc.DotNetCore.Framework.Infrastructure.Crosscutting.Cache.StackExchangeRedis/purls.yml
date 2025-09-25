@@ -1,0 +1,11 @@
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@1.2.1
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@3.1.0
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@3.2.0
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@3.2.1
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@3.2.2
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@3.2.3
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@3.3.0-beta1
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@6.0.0-beta2
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@6.0.0-beta3
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@6.0.0-beta4
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Crosscutting.Cache.StackExchangeRedis@6.0.0-beta5

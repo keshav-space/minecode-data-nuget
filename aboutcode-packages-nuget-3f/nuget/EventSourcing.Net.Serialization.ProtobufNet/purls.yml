@@ -1,0 +1,4 @@
+- pkg:nuget/EventSourcing.Net.Serialization.ProtobufNet@0.8.3
+- pkg:nuget/EventSourcing.Net.Serialization.ProtobufNet@0.8.4
+- pkg:nuget/EventSourcing.Net.Serialization.ProtobufNet@0.9.0
+- pkg:nuget/EventSourcing.Net.Serialization.ProtobufNet@0.9.1

@@ -1,0 +1,10 @@
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@1.2.0
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@1.2.1
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@3.1.0
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@3.2.0
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@3.2.1
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@3.2.2
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@6.0.0-beta2
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@6.0.0-beta3
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@6.0.0-beta4
+- pkg:nuget/MySvc.DotNetCore.Framework.Infrastructure.Adapter.AutoMapper@6.0.0-beta5

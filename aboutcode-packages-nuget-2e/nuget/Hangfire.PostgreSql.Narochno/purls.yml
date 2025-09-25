@@ -1,0 +1,3 @@
+- pkg:nuget/Hangfire.PostgreSql.Narochno@1.5.0-narochno
+- pkg:nuget/Hangfire.PostgreSql.Narochno@1.5.1-narochno
+- pkg:nuget/Hangfire.PostgreSql.Narochno@1.5.2-narochno

@@ -1,0 +1,5 @@
+- pkg:nuget/MetaBrainz.ListenBrainz@1.0.0%2B20200404.120942.315
+- pkg:nuget/MetaBrainz.ListenBrainz@2.0.0%2B20200427.224237.706
+- pkg:nuget/MetaBrainz.ListenBrainz@2.1.0
+- pkg:nuget/MetaBrainz.ListenBrainz@3.0.0
+- pkg:nuget/MetaBrainz.ListenBrainz@4.0.0%2Bgithub.25.1

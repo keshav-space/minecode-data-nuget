@@ -1,0 +1,5 @@
+- pkg:nuget/Library.Sparta.DB.Identity.Shared@1.0.0
+- pkg:nuget/Library.Sparta.DB.Identity.Shared@1.0.0-CI-20231016-085137
+- pkg:nuget/Library.Sparta.DB.Identity.Shared@1.0.0-CI-20231016-092425
+- pkg:nuget/Library.Sparta.DB.Identity.Shared@4.0.102
+- pkg:nuget/Library.Sparta.DB.Identity.Shared@4.0.103

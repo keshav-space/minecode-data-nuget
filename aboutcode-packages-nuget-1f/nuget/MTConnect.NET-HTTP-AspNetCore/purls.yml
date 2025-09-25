@@ -1,0 +1,14 @@
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@3.2.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@3.3.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@3.3.1
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@3.4.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@3.4.1
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@3.4.2
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@4.0.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@4.1.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@4.2.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@4.3.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@4.4.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@4.5.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@4.6.0
+- pkg:nuget/MTConnect.NET-HTTP-AspNetCore@5.0.0

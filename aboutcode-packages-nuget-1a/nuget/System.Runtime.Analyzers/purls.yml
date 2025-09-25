@@ -1,0 +1,8 @@
+- pkg:nuget/System.Runtime.Analyzers@1.0.0
+- pkg:nuget/System.Runtime.Analyzers@1.0.0-rc2
+- pkg:nuget/System.Runtime.Analyzers@1.0.0-rc3
+- pkg:nuget/System.Runtime.Analyzers@1.0.1
+- pkg:nuget/System.Runtime.Analyzers@1.1.0
+- pkg:nuget/System.Runtime.Analyzers@1.1.0-beta1-20150812-01
+- pkg:nuget/System.Runtime.Analyzers@1.2.0-beta1
+- pkg:nuget/System.Runtime.Analyzers@1.2.0-beta2

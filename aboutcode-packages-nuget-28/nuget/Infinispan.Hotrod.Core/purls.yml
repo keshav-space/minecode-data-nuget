@@ -1,0 +1,6 @@
+- pkg:nuget/Infinispan.Hotrod.Core@0.0.1-alpha
+- pkg:nuget/Infinispan.Hotrod.Core@0.0.2-alpha
+- pkg:nuget/Infinispan.Hotrod.Core@0.0.3-alpha1
+- pkg:nuget/Infinispan.Hotrod.Core@0.0.3-beta
+- pkg:nuget/Infinispan.Hotrod.Core@0.0.3-beta2
+- pkg:nuget/Infinispan.Hotrod.Core@0.0.3-beta3

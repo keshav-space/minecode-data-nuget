@@ -1,0 +1,5 @@
+- pkg:nuget/AzureWorkers.Domain@1.0.0-CI-20240617-161958
+- pkg:nuget/AzureWorkers.Domain@1.0.0-CI-20240702-121411
+- pkg:nuget/AzureWorkers.Domain@1.0.0-CI-20240702-174935
+- pkg:nuget/AzureWorkers.Domain@1.0.0-CI-20240702-182337
+- pkg:nuget/AzureWorkers.Domain@1.0.0-CI-20240703-111529

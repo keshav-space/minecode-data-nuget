@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@16.10.31320.204
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@16.9.31023.347
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@17.0.0-previews-1-31314-256
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@17.0.0-previews-1-31325-273
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@17.0.0-previews-1-31410-258
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@17.0.0-previews-2-31512-422
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@8.0.50727
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@8.0.50727-pre
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@8.0.50728
+- pkg:nuget/Microsoft.VisualStudio.Debugger.Interop@8.0.50729

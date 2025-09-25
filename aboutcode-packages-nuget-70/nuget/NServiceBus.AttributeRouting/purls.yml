@@ -1,0 +1,10 @@
+- pkg:nuget/NServiceBus.AttributeRouting@0.0.1
+- pkg:nuget/NServiceBus.AttributeRouting@0.0.2
+- pkg:nuget/NServiceBus.AttributeRouting@0.0.3
+- pkg:nuget/NServiceBus.AttributeRouting@0.0.4
+- pkg:nuget/NServiceBus.AttributeRouting@0.0.5
+- pkg:nuget/NServiceBus.AttributeRouting@0.0.6
+- pkg:nuget/NServiceBus.AttributeRouting@1.0.0
+- pkg:nuget/NServiceBus.AttributeRouting@1.0.0-RC
+- pkg:nuget/NServiceBus.AttributeRouting@1.1.0
+- pkg:nuget/NServiceBus.AttributeRouting@3.0.0

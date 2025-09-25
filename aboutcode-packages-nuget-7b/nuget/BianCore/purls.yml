@@ -1,0 +1,17 @@
+- pkg:nuget/BianCore@1.0.0
+- pkg:nuget/BianCore@1.0.0-Alpha
+- pkg:nuget/BianCore@1.0.1
+- pkg:nuget/BianCore@1.0.1-Alpha
+- pkg:nuget/BianCore@1.0.2-Alpha
+- pkg:nuget/BianCore@1.0.2.1-Alpha
+- pkg:nuget/BianCore@1.0.2.2-Alpha
+- pkg:nuget/BianCore@1.0.2.2-Beta
+- pkg:nuget/BianCore@1.0.2.3
+- pkg:nuget/BianCore@1.0.2.3001-Alpha
+- pkg:nuget/BianCore@1.0.2.3002-Alpha
+- pkg:nuget/BianCore@1.0.2000.3002
+- pkg:nuget/BianCore@1.0.2000.3003
+- pkg:nuget/BianCore@1.0.2000.3004
+- pkg:nuget/BianCore@1.0.2000.3005-Dev
+- pkg:nuget/BianCore@1.0.2000.3005-rc1
+- pkg:nuget/BianCore@1.1.1.1

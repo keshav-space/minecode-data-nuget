@@ -1,0 +1,5 @@
+- pkg:nuget/Mossharbor.Telegraphy.Azure.ServiceBus@1.0.1
+- pkg:nuget/Mossharbor.Telegraphy.Azure.ServiceBus@2.0.0
+- pkg:nuget/Mossharbor.Telegraphy.Azure.ServiceBus@3.0.0
+- pkg:nuget/Mossharbor.Telegraphy.Azure.ServiceBus@3.0.1
+- pkg:nuget/Mossharbor.Telegraphy.Azure.ServiceBus@3.2.0

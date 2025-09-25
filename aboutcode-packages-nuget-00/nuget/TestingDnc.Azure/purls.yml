@@ -1,0 +1,9 @@
+- pkg:nuget/TestingDnc.Azure@1.0.0
+- pkg:nuget/TestingDnc.Azure@2.0.0
+- pkg:nuget/TestingDnc.Azure@3.0.0
+- pkg:nuget/TestingDnc.Azure@4.0.0
+- pkg:nuget/TestingDnc.Azure@5.0.0
+- pkg:nuget/TestingDnc.Azure@6.0.0
+- pkg:nuget/TestingDnc.Azure@7.0.0
+- pkg:nuget/TestingDnc.Azure@8.0.0
+- pkg:nuget/TestingDnc.Azure@8.0.1

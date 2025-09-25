@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.VisualStudio.Sdk.Build@17.5.2046-preview2
+- pkg:nuget/Microsoft.VisualStudio.Sdk.Build@17.5.4062
+- pkg:nuget/Microsoft.VisualStudio.Sdk.Build@17.5.4065
+- pkg:nuget/Microsoft.VisualStudio.Sdk.Build@17.5.4072
+- pkg:nuget/Microsoft.VisualStudio.Sdk.Build@17.5.4074
+- pkg:nuget/Microsoft.VisualStudio.Sdk.Build@17.6.2164

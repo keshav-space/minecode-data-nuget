@@ -1,0 +1,3 @@
+- pkg:nuget/TTSS.Infra.MongoDB@1.0.0
+- pkg:nuget/TTSS.Infra.MongoDB@2.0.0
+- pkg:nuget/TTSS.Infra.MongoDB@2.0.1
