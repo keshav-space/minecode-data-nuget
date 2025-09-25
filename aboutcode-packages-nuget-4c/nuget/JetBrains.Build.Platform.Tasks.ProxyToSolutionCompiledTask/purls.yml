@@ -1,0 +1,9 @@
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@2.0.20170530
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@2.0.20170904.2
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@2.0.20190307.1
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@2.0.20191021.1
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@3.1.20210115.1
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@3.1.20210128.2
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@3.1.20210216.1
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@3.2.20210319.2
+- pkg:nuget/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask@3.2.20230413.1

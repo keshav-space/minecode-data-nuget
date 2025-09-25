@@ -1,0 +1,4 @@
+- pkg:nuget/DBS-ORM.PostgreSQL@1.0.0
+- pkg:nuget/DBS-ORM.PostgreSQL@1.0.1
+- pkg:nuget/DBS-ORM.PostgreSQL@1.0.2
+- pkg:nuget/DBS-ORM.PostgreSQL@1.0.3

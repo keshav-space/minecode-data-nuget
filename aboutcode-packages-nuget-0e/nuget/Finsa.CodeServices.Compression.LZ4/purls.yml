@@ -1,0 +1,4 @@
+- pkg:nuget/Finsa.CodeServices.Compression.LZ4@4.1.1
+- pkg:nuget/Finsa.CodeServices.Compression.LZ4@4.1.3
+- pkg:nuget/Finsa.CodeServices.Compression.LZ4@4.1.4
+- pkg:nuget/Finsa.CodeServices.Compression.LZ4@4.1.5

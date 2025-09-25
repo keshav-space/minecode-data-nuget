@@ -1,0 +1,5 @@
+- pkg:nuget/Intent.Framework.Unity@0.1.0-beta
+- pkg:nuget/Intent.Framework.Unity@0.1.1-beta
+- pkg:nuget/Intent.Framework.Unity@0.1.2-beta
+- pkg:nuget/Intent.Framework.Unity@0.14.0-legacy14
+- pkg:nuget/Intent.Framework.Unity@0.15.0-legacy14

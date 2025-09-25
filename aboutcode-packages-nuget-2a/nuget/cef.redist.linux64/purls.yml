@@ -1,0 +1,7 @@
+- pkg:nuget/cef.redist.linux64@106.0.26
+- pkg:nuget/cef.redist.linux64@106.0.27
+- pkg:nuget/cef.redist.linux64@106.0.27-patch1
+- pkg:nuget/cef.redist.linux64@106.0.28
+- pkg:nuget/cef.redist.linux64@120.1.8
+- pkg:nuget/cef.redist.linux64@126.2.18
+- pkg:nuget/cef.redist.linux64@134.3.9

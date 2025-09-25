@@ -1,0 +1,4 @@
+- pkg:nuget/James.Testing.Messaging.MassTransit@0.1.0
+- pkg:nuget/James.Testing.Messaging.MassTransit@0.2.0
+- pkg:nuget/James.Testing.Messaging.MassTransit@0.3.0
+- pkg:nuget/James.Testing.Messaging.MassTransit@0.3.1

@@ -1,0 +1,17 @@
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.0.0
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.1.1
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.2.0-rc1
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.2.0-rc2
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.2.1-rc1
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.2.1-rc2
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.2.1-rc3
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.3.0-rc1
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.3.1-rc
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.3.2-rc
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.4.0-rc
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.4.1-rc
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.4.2-rc
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.4.3-rc
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.5.0-rc
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.5.1-rc
+- pkg:nuget/MQTTnet.EventBus.Serilog@2.5.2-rc

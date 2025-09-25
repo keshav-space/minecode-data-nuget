@@ -1,0 +1,10 @@
+- pkg:nuget/Bolt.Client.Proxy@0.12.0-alpha
+- pkg:nuget/Bolt.Client.Proxy@0.13.0-alpha
+- pkg:nuget/Bolt.Client.Proxy@0.14.0-alpha1
+- pkg:nuget/Bolt.Client.Proxy@0.15.0-alpha1
+- pkg:nuget/Bolt.Client.Proxy@0.16.0-alpha1
+- pkg:nuget/Bolt.Client.Proxy@0.17.0-alpha1
+- pkg:nuget/Bolt.Client.Proxy@0.18.0-alpha1
+- pkg:nuget/Bolt.Client.Proxy@0.19.0-alpha1
+- pkg:nuget/Bolt.Client.Proxy@0.21.0-alpha1
+- pkg:nuget/Bolt.Client.Proxy@0.22.0-alpha1

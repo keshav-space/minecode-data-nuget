@@ -1,0 +1,11 @@
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.0.0
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.0.0-beta0002
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.0.0-beta0003
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.0.0-ci0049
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.0.0-ci0083
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.0.1
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.0.2
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.1.0
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.1.1
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.2.0
+- pkg:nuget/DocumentFormat.OpenXml.Framework@3.3.0

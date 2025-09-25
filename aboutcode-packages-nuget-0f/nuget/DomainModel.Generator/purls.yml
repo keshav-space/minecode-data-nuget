@@ -1,0 +1,12 @@
+- pkg:nuget/DomainModel.Generator@0.0.1
+- pkg:nuget/DomainModel.Generator@0.0.2
+- pkg:nuget/DomainModel.Generator@0.0.2-pre1
+- pkg:nuget/DomainModel.Generator@0.0.2-pre2
+- pkg:nuget/DomainModel.Generator@0.0.2-pre3
+- pkg:nuget/DomainModel.Generator@0.0.2-pre4
+- pkg:nuget/DomainModel.Generator@0.0.2-pre5
+- pkg:nuget/DomainModel.Generator@0.0.3
+- pkg:nuget/DomainModel.Generator@0.0.3-pre1
+- pkg:nuget/DomainModel.Generator@0.0.3-pre2
+- pkg:nuget/DomainModel.Generator@0.0.3-pre3
+- pkg:nuget/DomainModel.Generator@0.0.4

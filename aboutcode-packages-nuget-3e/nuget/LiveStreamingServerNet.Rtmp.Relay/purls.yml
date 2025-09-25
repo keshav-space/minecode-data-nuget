@@ -1,0 +1,13 @@
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.17.0-beta
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.18.0
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.19.0
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.19.1
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.19.2
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.19.3
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.20.0
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.21.0
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.21.1
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.21.2
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.30.0
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.31.0
+- pkg:nuget/LiveStreamingServerNet.Rtmp.Relay@0.31.1

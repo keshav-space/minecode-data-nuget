@@ -1,0 +1,16 @@
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-bourbaki
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-caccioppoli
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-cantor
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-cauchy
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-dalembert
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-euclid
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-euler
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-fermat
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-fibonacci
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.10-fourier
+- pkg:nuget/Pacem.Storage.AwsS3@0.8.11
+- pkg:nuget/Pacem.Storage.AwsS3@0.9.0-abel
+- pkg:nuget/Pacem.Storage.AwsS3@0.9.0-boyle
+- pkg:nuget/Pacem.Storage.AwsS3@0.9.0-cayley
+- pkg:nuget/Pacem.Storage.AwsS3@0.9.0-dirac

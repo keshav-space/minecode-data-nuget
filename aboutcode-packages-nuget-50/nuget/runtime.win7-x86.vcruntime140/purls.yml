@@ -1,0 +1,4 @@
+- pkg:nuget/runtime.win7-x86.vcruntime140@14.0.24406
+- pkg:nuget/runtime.win7-x86.vcruntime140@14.0.24406-r158
+- pkg:nuget/runtime.win7-x86.vcruntime140@14.0.24406-r160
+- pkg:nuget/runtime.win7-x86.vcruntime140@14.0.24406.1

@@ -1,0 +1,13 @@
+- pkg:nuget/Sisusa.Data.EFCore@1.0.0
+- pkg:nuget/Sisusa.Data.EFCore@1.0.1
+- pkg:nuget/Sisusa.Data.EFCore@1.2.1
+- pkg:nuget/Sisusa.Data.EFCore@1.2.2
+- pkg:nuget/Sisusa.Data.EFCore@1.2.3
+- pkg:nuget/Sisusa.Data.EFCore@2.0.0
+- pkg:nuget/Sisusa.Data.EFCore@2.0.1
+- pkg:nuget/Sisusa.Data.EFCore@3.0.0
+- pkg:nuget/Sisusa.Data.EFCore@3.0.1
+- pkg:nuget/Sisusa.Data.EFCore@4.0.0
+- pkg:nuget/Sisusa.Data.EFCore@4.1.0
+- pkg:nuget/Sisusa.Data.EFCore@4.1.1
+- pkg:nuget/Sisusa.Data.EFCore@4.1.2

@@ -1,0 +1,14 @@
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@1.0.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@1.0.0-beta-20190720
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@1.0.0-beta-20190727
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@3.0.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@3.0.1
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@3.1.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@5.0.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@6.0.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@6.0.1
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@8.0.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@8.1.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@8.2.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@8.3.0
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.PostgreSql@8.4.0

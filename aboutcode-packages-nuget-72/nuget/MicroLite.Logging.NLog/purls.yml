@@ -1,0 +1,17 @@
+- pkg:nuget/MicroLite.Logging.NLog@1.0.0
+- pkg:nuget/MicroLite.Logging.NLog@2.0.0
+- pkg:nuget/MicroLite.Logging.NLog@2.0.0-alpha
+- pkg:nuget/MicroLite.Logging.NLog@2.0.0-rc
+- pkg:nuget/MicroLite.Logging.NLog@2.0.1
+- pkg:nuget/MicroLite.Logging.NLog@3.0.0-rc
+- pkg:nuget/MicroLite.Logging.NLog@5.0.0-beta
+- pkg:nuget/MicroLite.Logging.NLog@6.0.0
+- pkg:nuget/MicroLite.Logging.NLog@6.1.0
+- pkg:nuget/MicroLite.Logging.NLog@6.3.0
+- pkg:nuget/MicroLite.Logging.NLog@6.4.0
+- pkg:nuget/MicroLite.Logging.NLog@6.5.0-preview20200217.1
+- pkg:nuget/MicroLite.Logging.NLog@7.0.0
+- pkg:nuget/MicroLite.Logging.NLog@7.0.0-preview20200220.1
+- pkg:nuget/MicroLite.Logging.NLog@7.0.0-preview20200313.1
+- pkg:nuget/MicroLite.Logging.NLog@7.0.0-preview20200326.1
+- pkg:nuget/MicroLite.Logging.NLog@7.0.0-preview20200327.1

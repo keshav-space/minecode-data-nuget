@@ -1,0 +1,17 @@
+- pkg:nuget/MicroLite.Logging.Log4Net@1.0.0
+- pkg:nuget/MicroLite.Logging.Log4Net@2.0.0
+- pkg:nuget/MicroLite.Logging.Log4Net@2.0.0-alpha
+- pkg:nuget/MicroLite.Logging.Log4Net@2.0.0-beta
+- pkg:nuget/MicroLite.Logging.Log4Net@2.0.0-rc
+- pkg:nuget/MicroLite.Logging.Log4Net@2.0.1
+- pkg:nuget/MicroLite.Logging.Log4Net@3.0.0-rc
+- pkg:nuget/MicroLite.Logging.Log4Net@6.0.0
+- pkg:nuget/MicroLite.Logging.Log4Net@6.1.0
+- pkg:nuget/MicroLite.Logging.Log4Net@6.3.0
+- pkg:nuget/MicroLite.Logging.Log4Net@6.4.0
+- pkg:nuget/MicroLite.Logging.Log4Net@6.5.0-preview20200217.1
+- pkg:nuget/MicroLite.Logging.Log4Net@7.0.0
+- pkg:nuget/MicroLite.Logging.Log4Net@7.0.0-preview20200220.1
+- pkg:nuget/MicroLite.Logging.Log4Net@7.0.0-preview20200313.1
+- pkg:nuget/MicroLite.Logging.Log4Net@7.0.0-preview20200326.1
+- pkg:nuget/MicroLite.Logging.Log4Net@7.0.0-preview20200327.1

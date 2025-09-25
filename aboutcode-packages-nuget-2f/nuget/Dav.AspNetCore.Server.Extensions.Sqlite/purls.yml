@@ -1,0 +1,2 @@
+- pkg:nuget/Dav.AspNetCore.Server.Extensions.Sqlite@1.0.0
+- pkg:nuget/Dav.AspNetCore.Server.Extensions.Sqlite@2.0.0

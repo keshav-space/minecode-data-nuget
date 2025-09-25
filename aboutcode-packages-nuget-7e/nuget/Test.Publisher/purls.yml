@@ -1,0 +1,12 @@
+- pkg:nuget/Test.Publisher@1.0.0
+- pkg:nuget/Test.Publisher@1.1.0
+- pkg:nuget/Test.Publisher@1.2.0
+- pkg:nuget/Test.Publisher@1.4.0
+- pkg:nuget/Test.Publisher@1.4.2
+- pkg:nuget/Test.Publisher@1.4.4
+- pkg:nuget/Test.Publisher@1.4.5
+- pkg:nuget/Test.Publisher@1.4.7
+- pkg:nuget/Test.Publisher@1.4.9
+- pkg:nuget/Test.Publisher@1.5.0
+- pkg:nuget/Test.Publisher@1.5.1
+- pkg:nuget/Test.Publisher@1.5.2

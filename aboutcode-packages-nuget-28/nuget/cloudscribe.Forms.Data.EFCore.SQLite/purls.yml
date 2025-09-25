@@ -1,0 +1,11 @@
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@1.0.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@1.0.1
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@3.0.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@3.1.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@5.0.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@6.0.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@8.0.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@8.1.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@8.2.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@8.3.0
+- pkg:nuget/cloudscribe.Forms.Data.EFCore.SQLite@8.4.0

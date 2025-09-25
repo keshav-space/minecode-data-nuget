@@ -1,0 +1,14 @@
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.10
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.12
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.13
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.15
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.16
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.17
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.2
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.3
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.4
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.5
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.6
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.7
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.8
+- pkg:nuget/CloudFoundry.Buildpack.V2.Build@4.0.9

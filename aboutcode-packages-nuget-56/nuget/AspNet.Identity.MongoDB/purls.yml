@@ -1,0 +1,11 @@
+- pkg:nuget/AspNet.Identity.MongoDB@1.0.0-alpha1
+- pkg:nuget/AspNet.Identity.MongoDB@1.0.1-alpha1
+- pkg:nuget/AspNet.Identity.MongoDB@1.0.10
+- pkg:nuget/AspNet.Identity.MongoDB@1.0.11
+- pkg:nuget/AspNet.Identity.MongoDB@1.0.2-alpha1
+- pkg:nuget/AspNet.Identity.MongoDB@1.0.8
+- pkg:nuget/AspNet.Identity.MongoDB@1.0.9
+- pkg:nuget/AspNet.Identity.MongoDB@2.0.4-alpha
+- pkg:nuget/AspNet.Identity.MongoDB@2.0.6-alpha
+- pkg:nuget/AspNet.Identity.MongoDB@2.0.7
+- pkg:nuget/AspNet.Identity.MongoDB@2.0.8

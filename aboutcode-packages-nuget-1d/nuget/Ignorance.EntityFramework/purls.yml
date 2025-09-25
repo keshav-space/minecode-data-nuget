@@ -1,0 +1,5 @@
+- pkg:nuget/Ignorance.EntityFramework@0.9.0
+- pkg:nuget/Ignorance.EntityFramework@1.0.0
+- pkg:nuget/Ignorance.EntityFramework@1.1.0
+- pkg:nuget/Ignorance.EntityFramework@1.11.0
+- pkg:nuget/Ignorance.EntityFramework@1.12.0

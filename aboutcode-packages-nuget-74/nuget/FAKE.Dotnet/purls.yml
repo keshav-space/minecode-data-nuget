@@ -1,0 +1,14 @@
+- pkg:nuget/FAKE.Dotnet@1.0.0
+- pkg:nuget/FAKE.Dotnet@1.0.0-pre-9
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc-011
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc-018
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc-021
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc-022
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc2-001
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc2-002
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc2-003
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc2-005
+- pkg:nuget/FAKE.Dotnet@1.0.0-rc2-024
+- pkg:nuget/FAKE.Dotnet@1.1.0
+- pkg:nuget/FAKE.Dotnet@1.1.1
+- pkg:nuget/FAKE.Dotnet@2.0.0

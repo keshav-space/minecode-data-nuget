@@ -1,0 +1,5 @@
+- pkg:nuget/KeyValueStorage.Couchbase@0.0.0.1-alpha
+- pkg:nuget/KeyValueStorage.Couchbase@0.0.0.2-alpha
+- pkg:nuget/KeyValueStorage.Couchbase@0.1.0
+- pkg:nuget/KeyValueStorage.Couchbase@0.1.0.2
+- pkg:nuget/KeyValueStorage.Couchbase@0.1.1

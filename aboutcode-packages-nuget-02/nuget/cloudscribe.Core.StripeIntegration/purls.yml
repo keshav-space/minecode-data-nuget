@@ -1,0 +1,14 @@
+- pkg:nuget/cloudscribe.Core.StripeIntegration@1.0.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@1.0.1
+- pkg:nuget/cloudscribe.Core.StripeIntegration@1.0.2
+- pkg:nuget/cloudscribe.Core.StripeIntegration@1.0.3
+- pkg:nuget/cloudscribe.Core.StripeIntegration@3.0.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@3.1.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@3.1.1
+- pkg:nuget/cloudscribe.Core.StripeIntegration@5.0.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@6.0.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@8.0.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@8.1.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@8.2.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@8.3.0
+- pkg:nuget/cloudscribe.Core.StripeIntegration@8.4.0

@@ -1,0 +1,14 @@
+- pkg:nuget/Qpick.Serialnumber@4.1.20111-RC1
+- pkg:nuget/Qpick.Serialnumber@4.1.20224.1
+- pkg:nuget/Qpick.Serialnumber@4.1.20254
+- pkg:nuget/Qpick.Serialnumber@4.1.20255
+- pkg:nuget/Qpick.Serialnumber@4.1.21091
+- pkg:nuget/Qpick.Serialnumber@4.1.21151
+- pkg:nuget/Qpick.Serialnumber@4.3.21242.1649
+- pkg:nuget/Qpick.Serialnumber@4.3.21348.1444
+- pkg:nuget/Qpick.Serialnumber@4.3.24142.735
+- pkg:nuget/Qpick.Serialnumber@4.5.24052.856
+- pkg:nuget/Qpick.Serialnumber@4.5.24283.1016
+- pkg:nuget/Qpick.Serialnumber@4.6.24344.800-Beta
+- pkg:nuget/Qpick.Serialnumber@4.6.25122.1337
+- pkg:nuget/Qpick.Serialnumber@4.7.25125.1350-Beta

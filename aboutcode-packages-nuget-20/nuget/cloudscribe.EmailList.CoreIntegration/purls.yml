@@ -1,0 +1,16 @@
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@2.1.1
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@2.1.2
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@2.1.3
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@2.1.4
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@3.0.0
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@3.1.0
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@3.1.1
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@5.0.0
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@6.0.0
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@6.0.1
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@6.0.2
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@8.0.0
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@8.1.0
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@8.2.0
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@8.3.0
+- pkg:nuget/cloudscribe.EmailList.CoreIntegration@8.4.0

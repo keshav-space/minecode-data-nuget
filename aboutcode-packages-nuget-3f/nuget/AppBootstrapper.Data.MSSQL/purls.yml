@@ -1,0 +1,2 @@
+- pkg:nuget/AppBootstrapper.Data.MSSQL@3.2022.8.26
+- pkg:nuget/AppBootstrapper.Data.MSSQL@3.2022.9.1

@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.VisualStudio.Shared.VSCodeDebugProtocol@16.9.50204.1
+- pkg:nuget/Microsoft.VisualStudio.Shared.VSCodeDebugProtocol@17.0.50801.1
+- pkg:nuget/Microsoft.VisualStudio.Shared.VSCodeDebugProtocol@17.0.60104.1
+- pkg:nuget/Microsoft.VisualStudio.Shared.VSCodeDebugProtocol@17.10.10123.1
+- pkg:nuget/Microsoft.VisualStudio.Shared.VSCodeDebugProtocol@17.14.10225.1
+- pkg:nuget/Microsoft.VisualStudio.Shared.VSCodeDebugProtocol@17.2.60629.1
+- pkg:nuget/Microsoft.VisualStudio.Shared.VSCodeDebugProtocol@18.0.10427.1

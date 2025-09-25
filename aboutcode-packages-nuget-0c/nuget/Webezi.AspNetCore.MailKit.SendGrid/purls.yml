@@ -1,0 +1,9 @@
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@1.0.1
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@1.0.2
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@1.1.0
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@1.2.0
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@2.0.0
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@2.0.1
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@2.0.2
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@2.0.3
+- pkg:nuget/Webezi.AspNetCore.MailKit.SendGrid@2.0.4

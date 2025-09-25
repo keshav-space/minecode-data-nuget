@@ -1,0 +1,17 @@
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@1.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@2.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@3.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@3.0.1
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@3.0.2
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@3.0.3
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@4.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@4.0.0-preview20190902
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@4.1.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@4.1.2
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@5.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@6.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@8.0.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@8.1.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@8.2.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@8.3.0
+- pkg:nuget/cloudscribe.Kvp.Storage.EFCore.pgsql@8.4.0

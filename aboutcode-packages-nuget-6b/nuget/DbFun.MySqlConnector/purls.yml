@@ -1,0 +1,4 @@
+- pkg:nuget/DbFun.MySqlConnector@0.0.2
+- pkg:nuget/DbFun.MySqlConnector@1.0.0
+- pkg:nuget/DbFun.MySqlConnector@2.0.0
+- pkg:nuget/DbFun.MySqlConnector@2.2.0

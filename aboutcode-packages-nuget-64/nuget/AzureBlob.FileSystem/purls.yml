@@ -1,0 +1,6 @@
+- pkg:nuget/AzureBlob.FileSystem@1.0.0
+- pkg:nuget/AzureBlob.FileSystem@1.0.1
+- pkg:nuget/AzureBlob.FileSystem@1.1.0
+- pkg:nuget/AzureBlob.FileSystem@1.2.0
+- pkg:nuget/AzureBlob.FileSystem@1.3.0
+- pkg:nuget/AzureBlob.FileSystem@2.0.0

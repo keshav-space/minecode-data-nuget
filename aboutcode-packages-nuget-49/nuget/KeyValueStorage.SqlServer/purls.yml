@@ -1,0 +1,8 @@
+- pkg:nuget/KeyValueStorage.SqlServer@0.0.0.1-alpha
+- pkg:nuget/KeyValueStorage.SqlServer@0.0.0.2-alpha
+- pkg:nuget/KeyValueStorage.SqlServer@0.1.0
+- pkg:nuget/KeyValueStorage.SqlServer@0.1.0.2
+- pkg:nuget/KeyValueStorage.SqlServer@0.1.1
+- pkg:nuget/KeyValueStorage.SqlServer@0.1.1.1
+- pkg:nuget/KeyValueStorage.SqlServer@0.1.2
+- pkg:nuget/KeyValueStorage.SqlServer@0.1.2.1

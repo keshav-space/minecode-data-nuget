@@ -1,0 +1,6 @@
+- pkg:nuget/CI.Microsoft.VisualStudio.ProjectSystem.Managed@17.11.1.101
+- pkg:nuget/CI.Microsoft.VisualStudio.ProjectSystem.Managed@17.11.1.102
+- pkg:nuget/CI.Microsoft.VisualStudio.ProjectSystem.Managed@17.11.1.103
+- pkg:nuget/CI.Microsoft.VisualStudio.ProjectSystem.Managed@17.11.1.99
+- pkg:nuget/CI.Microsoft.VisualStudio.ProjectSystem.Managed@17.12.42
+- pkg:nuget/CI.Microsoft.VisualStudio.ProjectSystem.Managed@17.7.37.99
