@@ -1,0 +1,6 @@
+- pkg:nuget/RevStackCore.SQLServer@1.0.0
+- pkg:nuget/RevStackCore.SQLServer@2.0.0
+- pkg:nuget/RevStackCore.SQLServer@2.1.0
+- pkg:nuget/RevStackCore.SQLServer@2.1.1
+- pkg:nuget/RevStackCore.SQLServer@2.3.0
+- pkg:nuget/RevStackCore.SQLServer@9.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Spring.Messaging.Amqp@0.9.6.1000
+- pkg:nuget/Spring.Messaging.Amqp@0.9.6.2000
+- pkg:nuget/Spring.Messaging.Amqp@0.9.7.2000
+- pkg:nuget/Spring.Messaging.Amqp@0.9.8.2000
+- pkg:nuget/Spring.Messaging.Amqp@0.9.9.2000

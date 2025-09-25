@@ -1,0 +1,5 @@
+- pkg:nuget/Iron.Assets.Rendering.Windows@16.0.0
+- pkg:nuget/Iron.Assets.Rendering.Windows@17.0.0
+- pkg:nuget/Iron.Assets.Rendering.Windows@18.0.0
+- pkg:nuget/Iron.Assets.Rendering.Windows@18.0.1
+- pkg:nuget/Iron.Assets.Rendering.Windows@20.0.0

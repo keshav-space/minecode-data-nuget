@@ -1,0 +1,4 @@
+- pkg:nuget/Lumeris.Partner.Integrations.CloudWatchEventPublisher@1.0.0
+- pkg:nuget/Lumeris.Partner.Integrations.CloudWatchEventPublisher@1.0.1
+- pkg:nuget/Lumeris.Partner.Integrations.CloudWatchEventPublisher@1.0.3
+- pkg:nuget/Lumeris.Partner.Integrations.CloudWatchEventPublisher@1.0.4

@@ -1,0 +1,17 @@
+- pkg:nuget/Xdot.Domain.Identity@1.0.0
+- pkg:nuget/Xdot.Domain.Identity@1.1.0
+- pkg:nuget/Xdot.Domain.Identity@1.1.1-alpha.0.2
+- pkg:nuget/Xdot.Domain.Identity@1.1.1-alpha.0.3
+- pkg:nuget/Xdot.Domain.Identity@1.1.1-alpha.0.4
+- pkg:nuget/Xdot.Domain.Identity@2.0.0
+- pkg:nuget/Xdot.Domain.Identity@2.0.1-preview.0.1
+- pkg:nuget/Xdot.Domain.Identity@2.0.1-preview.0.10
+- pkg:nuget/Xdot.Domain.Identity@2.0.1-preview.0.4
+- pkg:nuget/Xdot.Domain.Identity@2.0.1-preview.0.5
+- pkg:nuget/Xdot.Domain.Identity@2.0.1-preview.0.6
+- pkg:nuget/Xdot.Domain.Identity@2.0.1-preview.0.7
+- pkg:nuget/Xdot.Domain.Identity@2.0.1-preview.0.9
+- pkg:nuget/Xdot.Domain.Identity@2.2.1-preview.0.1
+- pkg:nuget/Xdot.Domain.Identity@2.2.1-preview.0.2
+- pkg:nuget/Xdot.Domain.Identity@2.6.0
+- pkg:nuget/Xdot.Domain.Identity@2.6.1-preview.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.AspNetCore.Aliyun.OSS@1.1.0
+- pkg:nuget/Microsoft.AspNetCore.Aliyun.OSS@1.1.0.1
+- pkg:nuget/Microsoft.AspNetCore.Aliyun.OSS@2.0.1.2
+- pkg:nuget/Microsoft.AspNetCore.Aliyun.OSS@2.0.1.3

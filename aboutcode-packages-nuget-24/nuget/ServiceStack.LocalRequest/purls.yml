@@ -1,0 +1,17 @@
+- pkg:nuget/ServiceStack.LocalRequest@2.0.0
+- pkg:nuget/ServiceStack.LocalRequest@2.0.0-preview001
+- pkg:nuget/ServiceStack.LocalRequest@2.0.0-preview002
+- pkg:nuget/ServiceStack.LocalRequest@2.0.0-preview003
+- pkg:nuget/ServiceStack.LocalRequest@2.1.0
+- pkg:nuget/ServiceStack.LocalRequest@2.1.1
+- pkg:nuget/ServiceStack.LocalRequest@2.1.1-preview001
+- pkg:nuget/ServiceStack.LocalRequest@2.1.2
+- pkg:nuget/ServiceStack.LocalRequest@2.1.2-preview001
+- pkg:nuget/ServiceStack.LocalRequest@2.1.3
+- pkg:nuget/ServiceStack.LocalRequest@2.1.4
+- pkg:nuget/ServiceStack.LocalRequest@2.1.5
+- pkg:nuget/ServiceStack.LocalRequest@2.1.6
+- pkg:nuget/ServiceStack.LocalRequest@2.2.0
+- pkg:nuget/ServiceStack.LocalRequest@2.3.0
+- pkg:nuget/ServiceStack.LocalRequest@3.0.0
+- pkg:nuget/ServiceStack.LocalRequest@3.0.1

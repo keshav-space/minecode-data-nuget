@@ -1,0 +1,9 @@
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@0.0.5-beta
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@0.0.6-beta
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@1.0.0
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@1.0.1
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@1.0.3
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@1.1.0
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@1.1.1
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@1.1.2
+- pkg:nuget/GameFrameX.SuperSocket.WebSocket.Server@1.2.0

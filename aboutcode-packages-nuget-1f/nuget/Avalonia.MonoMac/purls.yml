@@ -1,0 +1,4 @@
+- pkg:nuget/Avalonia.MonoMac@0.0.1-experimental
+- pkg:nuget/Avalonia.MonoMac@0.0.2-experimental
+- pkg:nuget/Avalonia.MonoMac@0.6.0
+- pkg:nuget/Avalonia.MonoMac@0.6.1

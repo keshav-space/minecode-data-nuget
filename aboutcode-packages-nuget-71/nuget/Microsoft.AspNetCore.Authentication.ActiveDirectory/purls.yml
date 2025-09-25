@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.0.1
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.0.2
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.0.3
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.0.4
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.0.5
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.0.6
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.0.7
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.1.0
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.1.0-t0033f6b42
+- pkg:nuget/Microsoft.AspNetCore.Authentication.ActiveDirectory@1.2.0

@@ -1,0 +1,5 @@
+- pkg:nuget/OpenSteamworks.Messaging.SharedConnection@1.1.8
+- pkg:nuget/OpenSteamworks.Messaging.SharedConnection@1.1.9
+- pkg:nuget/OpenSteamworks.Messaging.SharedConnection@1.2.0
+- pkg:nuget/OpenSteamworks.Messaging.SharedConnection@1.2.1
+- pkg:nuget/OpenSteamworks.Messaging.SharedConnection@1.2.2

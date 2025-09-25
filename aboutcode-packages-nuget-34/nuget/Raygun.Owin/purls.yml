@@ -1,0 +1,5 @@
+- pkg:nuget/Raygun.Owin@0.1.0
+- pkg:nuget/Raygun.Owin@0.1.17-beta
+- pkg:nuget/Raygun.Owin@0.1.18-beta
+- pkg:nuget/Raygun.Owin@0.2.0
+- pkg:nuget/Raygun.Owin@0.2.0-build00048

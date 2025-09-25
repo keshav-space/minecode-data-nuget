@@ -1,0 +1,4 @@
+- pkg:nuget/App.Metrics.Extensions.Reporting.Graphite@1.1.0
+- pkg:nuget/App.Metrics.Extensions.Reporting.Graphite@1.2.0
+- pkg:nuget/App.Metrics.Extensions.Reporting.Graphite@1.2.0-alpha-0053
+- pkg:nuget/App.Metrics.Extensions.Reporting.Graphite@1.3.0

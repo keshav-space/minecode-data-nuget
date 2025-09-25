@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Xrm.Sdk.Deployment@5.0.12
+- pkg:nuget/Microsoft.Xrm.Sdk.Deployment@5.0.12.1
+- pkg:nuget/Microsoft.Xrm.Sdk.Deployment@5.0.12.2
+- pkg:nuget/Microsoft.Xrm.Sdk.Deployment@5.0.13
+- pkg:nuget/Microsoft.Xrm.Sdk.Deployment@5.0.14

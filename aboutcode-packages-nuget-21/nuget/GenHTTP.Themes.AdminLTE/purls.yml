@@ -1,0 +1,12 @@
+- pkg:nuget/GenHTTP.Themes.AdminLTE@4.0.0
+- pkg:nuget/GenHTTP.Themes.AdminLTE@5.0.0
+- pkg:nuget/GenHTTP.Themes.AdminLTE@5.1.0
+- pkg:nuget/GenHTTP.Themes.AdminLTE@5.1.1
+- pkg:nuget/GenHTTP.Themes.AdminLTE@6.0.0
+- pkg:nuget/GenHTTP.Themes.AdminLTE@6.0.1
+- pkg:nuget/GenHTTP.Themes.AdminLTE@6.2.0
+- pkg:nuget/GenHTTP.Themes.AdminLTE@6.3.0
+- pkg:nuget/GenHTTP.Themes.AdminLTE@6.3.1
+- pkg:nuget/GenHTTP.Themes.AdminLTE@6.4.0
+- pkg:nuget/GenHTTP.Themes.AdminLTE@7.0.0
+- pkg:nuget/GenHTTP.Themes.AdminLTE@8.0.0

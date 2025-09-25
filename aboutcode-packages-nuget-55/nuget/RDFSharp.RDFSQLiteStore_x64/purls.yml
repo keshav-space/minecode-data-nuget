@@ -1,0 +1,7 @@
+- pkg:nuget/RDFSharp.RDFSQLiteStore_x64@0.6.10.4
+- pkg:nuget/RDFSharp.RDFSQLiteStore_x64@0.6.10.5
+- pkg:nuget/RDFSharp.RDFSQLiteStore_x64@0.6.10.6
+- pkg:nuget/RDFSharp.RDFSQLiteStore_x64@0.8.0
+- pkg:nuget/RDFSharp.RDFSQLiteStore_x64@0.8.1
+- pkg:nuget/RDFSharp.RDFSQLiteStore_x64@0.8.2
+- pkg:nuget/RDFSharp.RDFSQLiteStore_x64@0.8.3

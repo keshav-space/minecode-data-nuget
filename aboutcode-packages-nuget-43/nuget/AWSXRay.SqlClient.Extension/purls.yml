@@ -1,0 +1,8 @@
+- pkg:nuget/AWSXRay.SqlClient.Extension@1.0.1
+- pkg:nuget/AWSXRay.SqlClient.Extension@1.0.2
+- pkg:nuget/AWSXRay.SqlClient.Extension@2.0.0
+- pkg:nuget/AWSXRay.SqlClient.Extension@2.0.1
+- pkg:nuget/AWSXRay.SqlClient.Extension@2.0.3
+- pkg:nuget/AWSXRay.SqlClient.Extension@3.0.0
+- pkg:nuget/AWSXRay.SqlClient.Extension@3.0.1
+- pkg:nuget/AWSXRay.SqlClient.Extension@4.0.0

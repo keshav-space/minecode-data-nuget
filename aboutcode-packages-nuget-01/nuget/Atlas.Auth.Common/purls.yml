@@ -1,0 +1,14 @@
+- pkg:nuget/Atlas.Auth.Common@1.0.0
+- pkg:nuget/Atlas.Auth.Common@1.0.1
+- pkg:nuget/Atlas.Auth.Common@2.0.0
+- pkg:nuget/Atlas.Auth.Common@2.1.0
+- pkg:nuget/Atlas.Auth.Common@2.1.1
+- pkg:nuget/Atlas.Auth.Common@5.0.0
+- pkg:nuget/Atlas.Auth.Common@5.1.0
+- pkg:nuget/Atlas.Auth.Common@5.1.1
+- pkg:nuget/Atlas.Auth.Common@5.1.2
+- pkg:nuget/Atlas.Auth.Common@5.2.0
+- pkg:nuget/Atlas.Auth.Common@5.2.1
+- pkg:nuget/Atlas.Auth.Common@5.3.0
+- pkg:nuget/Atlas.Auth.Common@5.3.1
+- pkg:nuget/Atlas.Auth.Common@5.3.2

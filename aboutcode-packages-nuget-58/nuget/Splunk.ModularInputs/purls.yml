@@ -1,0 +1,15 @@
+- pkg:nuget/Splunk.ModularInputs@2.0.0
+- pkg:nuget/Splunk.ModularInputs@2.0.0-beta
+- pkg:nuget/Splunk.ModularInputs@2.1.0
+- pkg:nuget/Splunk.ModularInputs@2.1.1
+- pkg:nuget/Splunk.ModularInputs@2.1.2
+- pkg:nuget/Splunk.ModularInputs@2.2.0
+- pkg:nuget/Splunk.ModularInputs@2.2.1
+- pkg:nuget/Splunk.ModularInputs@2.2.2
+- pkg:nuget/Splunk.ModularInputs@2.2.3
+- pkg:nuget/Splunk.ModularInputs@2.2.4
+- pkg:nuget/Splunk.ModularInputs@2.2.5
+- pkg:nuget/Splunk.ModularInputs@2.2.6
+- pkg:nuget/Splunk.ModularInputs@2.2.7
+- pkg:nuget/Splunk.ModularInputs@2.2.8
+- pkg:nuget/Splunk.ModularInputs@2.2.9

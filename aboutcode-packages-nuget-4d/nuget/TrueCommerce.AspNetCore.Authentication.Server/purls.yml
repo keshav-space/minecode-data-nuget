@@ -1,0 +1,5 @@
+- pkg:nuget/TrueCommerce.AspNetCore.Authentication.Server@1.0.0-beta.4%2B5700
+- pkg:nuget/TrueCommerce.AspNetCore.Authentication.Server@1.0.0-beta.5-preview.5757
+- pkg:nuget/TrueCommerce.AspNetCore.Authentication.Server@1.0.0-beta.5-preview.5779
+- pkg:nuget/TrueCommerce.AspNetCore.Authentication.Server@1.0.0-beta.5-preview.5824
+- pkg:nuget/TrueCommerce.AspNetCore.Authentication.Server@2.0.0

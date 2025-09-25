@@ -1,0 +1,4 @@
+- pkg:nuget/EndpointMapper.OpenApi@2.0.0
+- pkg:nuget/EndpointMapper.OpenApi@2.0.0-prerelease.3
+- pkg:nuget/EndpointMapper.OpenApi@2.0.0-prerelease.4
+- pkg:nuget/EndpointMapper.OpenApi@3.0.0-prerelease.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Xander.PasswordValidator.Web@0.3.0-prerelease-01
+- pkg:nuget/Xander.PasswordValidator.Web@0.3.2-prerelease
+- pkg:nuget/Xander.PasswordValidator.Web@0.3.3-prerelease
+- pkg:nuget/Xander.PasswordValidator.Web@1.0.0
+- pkg:nuget/Xander.PasswordValidator.Web@1.0.1

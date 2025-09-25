@@ -1,0 +1,14 @@
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210203-203336
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210204-023044
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210204-023102
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210204-023309
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210204-023730
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210204-025541
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210204-030759
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210204-113045
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210207-000319
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210208-100458
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210212-143319
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210216-072142
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210216-131921
+- pkg:nuget/ProxmoxVEAPI.Client@1.0.0-CI-20210218-200113

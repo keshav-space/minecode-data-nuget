@@ -1,0 +1,2 @@
+- pkg:nuget/Squidex.OpenTelemetry.Instrumentation.EntityFrameworkCore@1.12.0-beta.1.26
+- pkg:nuget/Squidex.OpenTelemetry.Instrumentation.EntityFrameworkCore@1.12.0-beta.1.27

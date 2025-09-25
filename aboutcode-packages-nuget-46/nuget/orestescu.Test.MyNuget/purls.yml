@@ -1,0 +1,7 @@
+- pkg:nuget/orestescu.Test.MyNuget@1.0.0
+- pkg:nuget/orestescu.Test.MyNuget@1.0.0-CI-20190118-022227
+- pkg:nuget/orestescu.Test.MyNuget@1.1.0-CI-20190118-022527
+- pkg:nuget/orestescu.Test.MyNuget@1.1.0-CI-20190118-023638
+- pkg:nuget/orestescu.Test.MyNuget@1.1.0-CI-20190118-024126
+- pkg:nuget/orestescu.Test.MyNuget@3.1.0-CI-20190118-030024
+- pkg:nuget/orestescu.Test.MyNuget@3.1.0-CI-20190118-031749

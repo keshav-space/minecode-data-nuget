@@ -1,0 +1,8 @@
+- pkg:nuget/Aspire.RabbitMQ.Client.v7@9.1.0
+- pkg:nuget/Aspire.RabbitMQ.Client.v7@9.2.0
+- pkg:nuget/Aspire.RabbitMQ.Client.v7@9.2.1
+- pkg:nuget/Aspire.RabbitMQ.Client.v7@9.3.0
+- pkg:nuget/Aspire.RabbitMQ.Client.v7@9.3.1
+- pkg:nuget/Aspire.RabbitMQ.Client.v7@9.4.0
+- pkg:nuget/Aspire.RabbitMQ.Client.v7@9.4.1
+- pkg:nuget/Aspire.RabbitMQ.Client.v7@9.4.2

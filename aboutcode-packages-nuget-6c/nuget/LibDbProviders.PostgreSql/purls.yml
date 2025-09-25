@@ -1,0 +1,2 @@
+- pkg:nuget/LibDbProviders.PostgreSql@1.3.22
+- pkg:nuget/LibDbProviders.PostgreSql@1.3.23

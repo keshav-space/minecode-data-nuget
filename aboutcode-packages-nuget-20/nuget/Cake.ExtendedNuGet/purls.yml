@@ -1,0 +1,17 @@
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.10
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.11
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.17
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.22
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.24
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.27
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.5
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.6
+- pkg:nuget/Cake.ExtendedNuGet@1.0.0.8
+- pkg:nuget/Cake.ExtendedNuGet@2.1.0
+- pkg:nuget/Cake.ExtendedNuGet@2.1.1
+- pkg:nuget/Cake.ExtendedNuGet@3.0.0
+- pkg:nuget/Cake.ExtendedNuGet@4.0.0
+- pkg:nuget/Cake.ExtendedNuGet@4.0.1
+- pkg:nuget/Cake.ExtendedNuGet@4.0.2
+- pkg:nuget/Cake.ExtendedNuGet@5.0.0
+- pkg:nuget/Cake.ExtendedNuGet@6.0.0

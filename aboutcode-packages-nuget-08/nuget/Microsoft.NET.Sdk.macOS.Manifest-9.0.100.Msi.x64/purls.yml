@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.0.9617
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.1.9163
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.2.9170
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.2.9173
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.2.9180
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.4.9288
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.4.9289
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.4.9291
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.5.9199
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.5.9207
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.5.9214
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.5.9215
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@15.5.9219
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@26.0.9251-xcode26.0
+- pkg:nuget/Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64@26.0.9450-xcode26.0

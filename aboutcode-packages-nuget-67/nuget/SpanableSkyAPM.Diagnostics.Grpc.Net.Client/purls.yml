@@ -1,0 +1,9 @@
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.0.1.1
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.0.1.2
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.0.1.3
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.0.1.3-preview-193989880
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.0.1.3-preview-194013007
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.1.0.4
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.1.0.4-preview-195560942
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.1.0.5
+- pkg:nuget/SpanableSkyAPM.Diagnostics.Grpc.Net.Client@2.1.0.5-preview-196324757

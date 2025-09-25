@@ -1,0 +1,5 @@
+- pkg:nuget/MilanAkik.RedisConfigurationProvider@0.1.1-alpha
+- pkg:nuget/MilanAkik.RedisConfigurationProvider@0.2.1-alpha
+- pkg:nuget/MilanAkik.RedisConfigurationProvider@1.0.0
+- pkg:nuget/MilanAkik.RedisConfigurationProvider@1.1.0
+- pkg:nuget/MilanAkik.RedisConfigurationProvider@1.2.0

@@ -1,0 +1,5 @@
+- pkg:nuget/TTPGateway.Core@1.0.0
+- pkg:nuget/TTPGateway.Core@1.0.1
+- pkg:nuget/TTPGateway.Core@2.0.0
+- pkg:nuget/TTPGateway.Core@2.0.1
+- pkg:nuget/TTPGateway.Core@3.0.0-alpha

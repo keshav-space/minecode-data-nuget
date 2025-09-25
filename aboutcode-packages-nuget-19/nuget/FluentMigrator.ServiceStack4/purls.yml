@@ -1,0 +1,4 @@
+- pkg:nuget/FluentMigrator.ServiceStack4@1.0.11
+- pkg:nuget/FluentMigrator.ServiceStack4@1.0.18
+- pkg:nuget/FluentMigrator.ServiceStack4@1.0.21
+- pkg:nuget/FluentMigrator.ServiceStack4@1.0.9

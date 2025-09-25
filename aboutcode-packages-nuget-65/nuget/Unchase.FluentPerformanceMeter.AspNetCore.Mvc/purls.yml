@@ -1,0 +1,11 @@
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@1.1.0
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@1.1.2
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@1.2.0
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@1.2.1
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@1.2.2
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@1.2.3
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@2.0.0
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@2.1.0
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@2.1.1
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@2.1.2
+- pkg:nuget/Unchase.FluentPerformanceMeter.AspNetCore.Mvc@2.1.3

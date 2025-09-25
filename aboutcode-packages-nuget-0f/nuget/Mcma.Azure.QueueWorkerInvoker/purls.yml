@@ -1,0 +1,7 @@
+- pkg:nuget/Mcma.Azure.QueueWorkerInvoker@0.13.17
+- pkg:nuget/Mcma.Azure.QueueWorkerInvoker@0.13.18
+- pkg:nuget/Mcma.Azure.QueueWorkerInvoker@0.13.19
+- pkg:nuget/Mcma.Azure.QueueWorkerInvoker@0.13.19-beta1
+- pkg:nuget/Mcma.Azure.QueueWorkerInvoker@0.13.19-beta2
+- pkg:nuget/Mcma.Azure.QueueWorkerInvoker@0.14.0
+- pkg:nuget/Mcma.Azure.QueueWorkerInvoker@0.14.0-rc1

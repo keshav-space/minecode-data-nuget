@@ -1,0 +1,10 @@
+- pkg:nuget/MicroLite.Extensions.Cryptography@1.0.0-rc
+- pkg:nuget/MicroLite.Extensions.Cryptography@6.0.0
+- pkg:nuget/MicroLite.Extensions.Cryptography@6.1.0
+- pkg:nuget/MicroLite.Extensions.Cryptography@6.3.0
+- pkg:nuget/MicroLite.Extensions.Cryptography@6.5.0-preview20200217.1
+- pkg:nuget/MicroLite.Extensions.Cryptography@7.0.0
+- pkg:nuget/MicroLite.Extensions.Cryptography@7.0.0-preview20200220.1
+- pkg:nuget/MicroLite.Extensions.Cryptography@7.0.0-preview20200313.1
+- pkg:nuget/MicroLite.Extensions.Cryptography@7.0.0-preview20200326.1
+- pkg:nuget/MicroLite.Extensions.Cryptography@7.0.0-preview20200327.1

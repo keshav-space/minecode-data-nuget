@@ -1,0 +1,8 @@
+- pkg:nuget/Altavec.Aspire.Hosting.PostGIS@9.0.0
+- pkg:nuget/Altavec.Aspire.Hosting.PostGIS@9.1.0
+- pkg:nuget/Altavec.Aspire.Hosting.PostGIS@9.1.0-preview.1.25120.8
+- pkg:nuget/Altavec.Aspire.Hosting.PostGIS@9.1.1
+- pkg:nuget/Altavec.Aspire.Hosting.PostGIS@9.2.0
+- pkg:nuget/Altavec.Aspire.Hosting.PostGIS@9.2.1
+- pkg:nuget/Altavec.Aspire.Hosting.PostGIS@9.3.0
+- pkg:nuget/Altavec.Aspire.Hosting.PostGIS@9.3.1

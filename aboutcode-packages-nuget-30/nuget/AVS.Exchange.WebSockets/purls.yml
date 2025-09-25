@@ -1,0 +1,3 @@
+- pkg:nuget/AVS.Exchange.WebSockets@6.0.0
+- pkg:nuget/AVS.Exchange.WebSockets@7.0.0
+- pkg:nuget/AVS.Exchange.WebSockets@9.0.0

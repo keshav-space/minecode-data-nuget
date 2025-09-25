@@ -1,0 +1,7 @@
+- pkg:nuget/UxNetLib.AspNet@1.0.0-preview.0.9
+- pkg:nuget/UxNetLib.AspNet@1.0.1%2Bbuild.14
+- pkg:nuget/UxNetLib.AspNet@1.1.1%2Bbuild.24
+- pkg:nuget/UxNetLib.AspNet@1.1.2-preview.0.12
+- pkg:nuget/UxNetLib.AspNet@1.4.0
+- pkg:nuget/UxNetLib.AspNet@1.5.0%2Bbuild.4
+- pkg:nuget/UxNetLib.AspNet@1.6.0%2Bbuild.5

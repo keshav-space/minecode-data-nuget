@@ -1,0 +1,9 @@
+- pkg:nuget/RDFSharp.RDFSQLServerStore@0.6.10.4
+- pkg:nuget/RDFSharp.RDFSQLServerStore@0.6.10.5
+- pkg:nuget/RDFSharp.RDFSQLServerStore@0.6.10.6
+- pkg:nuget/RDFSharp.RDFSQLServerStore@2.2.0
+- pkg:nuget/RDFSharp.RDFSQLServerStore@2.2.1
+- pkg:nuget/RDFSharp.RDFSQLServerStore@2.22.1
+- pkg:nuget/RDFSharp.RDFSQLServerStore@2.24.0
+- pkg:nuget/RDFSharp.RDFSQLServerStore@2.27.0
+- pkg:nuget/RDFSharp.RDFSQLServerStore@2.27.1

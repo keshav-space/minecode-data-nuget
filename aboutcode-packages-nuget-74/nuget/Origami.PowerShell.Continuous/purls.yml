@@ -1,0 +1,6 @@
+- pkg:nuget/Origami.PowerShell.Continuous@0.0.1.1
+- pkg:nuget/Origami.PowerShell.Continuous@0.0.2
+- pkg:nuget/Origami.PowerShell.Continuous@0.0.5-rc
+- pkg:nuget/Origami.PowerShell.Continuous@0.1.0
+- pkg:nuget/Origami.PowerShell.Continuous@0.1.0-rc
+- pkg:nuget/Origami.PowerShell.Continuous@0.1.1

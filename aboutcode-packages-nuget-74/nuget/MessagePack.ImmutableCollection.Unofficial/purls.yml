@@ -1,0 +1,6 @@
+- pkg:nuget/MessagePack.ImmutableCollection.Unofficial@1.7.3-preview1-180112-01
+- pkg:nuget/MessagePack.ImmutableCollection.Unofficial@1.7.3-preview1-180115-01
+- pkg:nuget/MessagePack.ImmutableCollection.Unofficial@1.7.3-preview1-180127-01
+- pkg:nuget/MessagePack.ImmutableCollection.Unofficial@1.7.3-preview1-180201-01
+- pkg:nuget/MessagePack.ImmutableCollection.Unofficial@1.7.3-preview2-180305-01
+- pkg:nuget/MessagePack.ImmutableCollection.Unofficial@1.7.3-preview3-180327-01

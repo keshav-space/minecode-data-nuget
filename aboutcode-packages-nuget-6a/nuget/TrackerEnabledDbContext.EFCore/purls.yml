@@ -1,0 +1,2 @@
+- pkg:nuget/TrackerEnabledDbContext.EFCore@4.1.0
+- pkg:nuget/TrackerEnabledDbContext.EFCore@6.0.0

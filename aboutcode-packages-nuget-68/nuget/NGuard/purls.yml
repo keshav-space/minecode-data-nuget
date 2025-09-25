@@ -1,0 +1,4 @@
+- pkg:nuget/NGuard@1.0.0
+- pkg:nuget/NGuard@1.0.1
+- pkg:nuget/NGuard@2.0.1
+- pkg:nuget/NGuard@3.0.0

@@ -1,0 +1,9 @@
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@19.7.15
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@19.7.15-alpha-03
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@19.7.15-alpha-04
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@19.7.15-alpha-05
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@19.7.15-alpha-06
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@19.7.15-alpha-07
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@19.7.29-alpha-01
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@20.3.30-alpha-01
+- pkg:nuget/Asd.Infra.CrossCutting.ServiceBus@20.4.1-alpha-01
