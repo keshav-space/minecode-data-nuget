@@ -1,0 +1,3 @@
+- pkg:nuget/CdkCloudFormation.NetAppFSxNSnapMirror@1.0.0-alpha.7
+- pkg:nuget/CdkCloudFormation.NetAppFSxNSnapMirror@1.2.0-alpha.7
+- pkg:nuget/CdkCloudFormation.NetAppFSxNSnapMirror@1.3.0-alpha.7

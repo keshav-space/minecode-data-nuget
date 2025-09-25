@@ -1,0 +1,4 @@
+- pkg:nuget/Print3dServer.Core@1.0.0-preview
+- pkg:nuget/Print3dServer.Core@1.0.1-preview
+- pkg:nuget/Print3dServer.Core@1.0.2-preview2
+- pkg:nuget/Print3dServer.Core@1.0.3-preview

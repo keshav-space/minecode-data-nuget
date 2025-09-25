@@ -1,0 +1,2 @@
+- pkg:nuget/RWKVSharp.Native.cuBLAS.cuda11.3.win-x64@1.0.29
+- pkg:nuget/RWKVSharp.Native.cuBLAS.cuda11.3.win-x64@1.0.38

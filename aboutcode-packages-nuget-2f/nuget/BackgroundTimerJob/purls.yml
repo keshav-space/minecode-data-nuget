@@ -1,0 +1,5 @@
+- pkg:nuget/BackgroundTimerJob@1.0.0
+- pkg:nuget/BackgroundTimerJob@8.0.0
+- pkg:nuget/BackgroundTimerJob@9.0.1
+- pkg:nuget/BackgroundTimerJob@9.0.2
+- pkg:nuget/BackgroundTimerJob@9.0.3

@@ -1,0 +1,2 @@
+- pkg:nuget/RWKVSharp.Native.Cpu.avx512.linux-x64@1.0.29
+- pkg:nuget/RWKVSharp.Native.Cpu.avx512.linux-x64@1.0.38

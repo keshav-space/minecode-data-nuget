@@ -1,0 +1,2 @@
+- pkg:nuget/AzureFunctions.Extensions.NotificationHubs@1.0.0
+- pkg:nuget/AzureFunctions.Extensions.NotificationHubs@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/ZEA.Communication.gRPC@1.0.1
+- pkg:nuget/ZEA.Communication.gRPC@2.2.0-preview.2
+- pkg:nuget/ZEA.Communication.gRPC@2.2.0.10-preview
+- pkg:nuget/ZEA.Communication.gRPC@2.2.0.8-preview

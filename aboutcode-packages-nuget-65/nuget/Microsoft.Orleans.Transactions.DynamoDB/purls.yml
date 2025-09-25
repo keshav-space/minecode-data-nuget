@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Orleans.Transactions.DynamoDB@2.0.0
+- pkg:nuget/Microsoft.Orleans.Transactions.DynamoDB@2.0.0-rc3

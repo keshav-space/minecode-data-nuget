@@ -1,0 +1,4 @@
+- pkg:nuget/DbUp.Snowflake@0.0.1
+- pkg:nuget/DbUp.Snowflake@1.0.0
+- pkg:nuget/DbUp.Snowflake@1.1.0
+- pkg:nuget/DbUp.Snowflake@1.1.1

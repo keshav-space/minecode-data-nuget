@@ -1,0 +1,2 @@
+- pkg:nuget/cpprestsdk.clang-3-6.android-19.libstdcxx.static.rt-static@2.7.0
+- pkg:nuget/cpprestsdk.clang-3-6.android-19.libstdcxx.static.rt-static@2.8.0

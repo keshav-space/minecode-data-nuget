@@ -1,0 +1,2 @@
+- pkg:nuget/Google.Cloud.Spanner.NHibernate@1.0.0-beta01
+- pkg:nuget/Google.Cloud.Spanner.NHibernate@1.1.0

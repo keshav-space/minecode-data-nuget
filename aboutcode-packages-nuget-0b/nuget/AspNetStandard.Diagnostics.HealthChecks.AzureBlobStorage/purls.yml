@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetStandard.Diagnostics.HealthChecks.AzureBlobStorage@1.0.0
+- pkg:nuget/AspNetStandard.Diagnostics.HealthChecks.AzureBlobStorage@1.2.0

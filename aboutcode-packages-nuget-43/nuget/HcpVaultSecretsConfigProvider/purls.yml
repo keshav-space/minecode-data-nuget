@@ -1,0 +1,3 @@
+- pkg:nuget/HcpVaultSecretsConfigProvider@0.3.0
+- pkg:nuget/HcpVaultSecretsConfigProvider@1.0.0
+- pkg:nuget/HcpVaultSecretsConfigProvider@1.0.1

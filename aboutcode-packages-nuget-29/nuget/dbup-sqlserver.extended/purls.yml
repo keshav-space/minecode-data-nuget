@@ -1,0 +1,3 @@
+- pkg:nuget/dbup-sqlserver.extended@1.0.0
+- pkg:nuget/dbup-sqlserver.extended@1.0.1
+- pkg:nuget/dbup-sqlserver.extended@1.0.2
