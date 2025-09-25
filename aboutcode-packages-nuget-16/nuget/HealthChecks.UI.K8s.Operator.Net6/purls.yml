@@ -1,0 +1,2 @@
+- pkg:nuget/HealthChecks.UI.K8s.Operator.Net6@1.0.0
+- pkg:nuget/HealthChecks.UI.K8s.Operator.Net6@1.0.1

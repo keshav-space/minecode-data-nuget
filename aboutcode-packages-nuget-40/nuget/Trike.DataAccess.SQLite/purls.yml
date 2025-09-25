@@ -1,0 +1,3 @@
+- pkg:nuget/Trike.DataAccess.SQLite@1.0.0
+- pkg:nuget/Trike.DataAccess.SQLite@1.0.14
+- pkg:nuget/Trike.DataAccess.SQLite@1.0.15

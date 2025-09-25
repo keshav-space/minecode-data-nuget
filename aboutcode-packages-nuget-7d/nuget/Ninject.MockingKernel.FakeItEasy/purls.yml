@@ -1,0 +1,6 @@
+- pkg:nuget/Ninject.MockingKernel.FakeItEasy@3.2.2
+- pkg:nuget/Ninject.MockingKernel.FakeItEasy@3.2.2-unstable-004
+- pkg:nuget/Ninject.MockingKernel.FakeItEasy@3.2.2-unstable-006
+- pkg:nuget/Ninject.MockingKernel.FakeItEasy@3.2.2-unstable-007
+- pkg:nuget/Ninject.MockingKernel.FakeItEasy@3.3.0
+- pkg:nuget/Ninject.MockingKernel.FakeItEasy@3.3.0-beta1

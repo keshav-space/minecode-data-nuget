@@ -1,0 +1,3 @@
+- pkg:nuget/ImageResizerCore.AspNet@1.0.0
+- pkg:nuget/ImageResizerCore.AspNet@2.0.0
+- pkg:nuget/ImageResizerCore.AspNet@2.0.1

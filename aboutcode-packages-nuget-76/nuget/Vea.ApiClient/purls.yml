@@ -1,0 +1,5 @@
+- pkg:nuget/Vea.ApiClient@1.0.0
+- pkg:nuget/Vea.ApiClient@1.1.0
+- pkg:nuget/Vea.ApiClient@1.2.0
+- pkg:nuget/Vea.ApiClient@2.0.0-prerelease
+- pkg:nuget/Vea.ApiClient@2.0.1-alpha

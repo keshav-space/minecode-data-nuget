@@ -1,0 +1,3 @@
+- pkg:nuget/JB.AzureDevOps@0.1.0-preview
+- pkg:nuget/JB.AzureDevOps@0.2.1-preview
+- pkg:nuget/JB.AzureDevOps@0.2.2-preview

@@ -1,0 +1,15 @@
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.10
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.11
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.14
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.15
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.18
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.19
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.20
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.38
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.7
+- pkg:nuget/MyPackage.Sample_my1234567890@1.0.8
+- pkg:nuget/MyPackage.Sample_my1234567890@3.3.3
+- pkg:nuget/MyPackage.Sample_my1234567890@3.3.33
+- pkg:nuget/MyPackage.Sample_my1234567890@3.3.333
+- pkg:nuget/MyPackage.Sample_my1234567890@5.5.41
+- pkg:nuget/MyPackage.Sample_my1234567890@5.5.55

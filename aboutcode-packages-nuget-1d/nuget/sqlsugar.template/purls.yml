@@ -1,0 +1,3 @@
+- pkg:nuget/sqlsugar.template@1.3.4
+- pkg:nuget/sqlsugar.template@1.3.5
+- pkg:nuget/sqlsugar.template@1.3.6

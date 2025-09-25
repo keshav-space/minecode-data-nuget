@@ -1,0 +1,4 @@
+- pkg:nuget/Neo.LevelDb.Dev@1.0.0-dev1
+- pkg:nuget/Neo.LevelDb.Dev@1.0.0-dev2
+- pkg:nuget/Neo.LevelDb.Dev@2.0.0
+- pkg:nuget/Neo.LevelDb.Dev@2.0.0-dev1

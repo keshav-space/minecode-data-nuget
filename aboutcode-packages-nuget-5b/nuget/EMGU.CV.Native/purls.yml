@@ -1,0 +1,4 @@
+- pkg:nuget/EMGU.CV.Native@10.0.0
+- pkg:nuget/EMGU.CV.Native@10.1.0
+- pkg:nuget/EMGU.CV.Native@10.1.105
+- pkg:nuget/EMGU.CV.Native@10.1.243

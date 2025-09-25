@@ -1,0 +1,4 @@
+- pkg:nuget/WebMoney.Cryptography@3.2.0
+- pkg:nuget/WebMoney.Cryptography@3.3.0
+- pkg:nuget/WebMoney.Cryptography@3.3.1
+- pkg:nuget/WebMoney.Cryptography@4.0.0

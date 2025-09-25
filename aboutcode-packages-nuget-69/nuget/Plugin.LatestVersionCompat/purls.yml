@@ -1,0 +1,4 @@
+- pkg:nuget/Plugin.LatestVersionCompat@6.0.0
+- pkg:nuget/Plugin.LatestVersionCompat@6.0.0-pre
+- pkg:nuget/Plugin.LatestVersionCompat@7.0.0
+- pkg:nuget/Plugin.LatestVersionCompat@8.0.0

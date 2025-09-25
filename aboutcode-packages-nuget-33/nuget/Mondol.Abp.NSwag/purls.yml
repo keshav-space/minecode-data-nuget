@@ -1,0 +1,4 @@
+- pkg:nuget/Mondol.Abp.NSwag@1.0.1
+- pkg:nuget/Mondol.Abp.NSwag@2.0.1
+- pkg:nuget/Mondol.Abp.NSwag@3.0.0
+- pkg:nuget/Mondol.Abp.NSwag@3.0.1

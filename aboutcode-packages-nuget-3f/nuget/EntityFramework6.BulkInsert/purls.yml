@@ -1,0 +1,5 @@
+- pkg:nuget/EntityFramework6.BulkInsert@6.0.3.10
+- pkg:nuget/EntityFramework6.BulkInsert@6.0.3.6
+- pkg:nuget/EntityFramework6.BulkInsert@6.0.3.7
+- pkg:nuget/EntityFramework6.BulkInsert@6.0.3.8
+- pkg:nuget/EntityFramework6.BulkInsert@6.0.3.9

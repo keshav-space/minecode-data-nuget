@@ -1,0 +1,4 @@
+- pkg:nuget/org.portaudio.runtime.linux-x64@19.7.5
+- pkg:nuget/org.portaudio.runtime.linux-x64@19.7.5.1
+- pkg:nuget/org.portaudio.runtime.linux-x64@19.7.6
+- pkg:nuget/org.portaudio.runtime.linux-x64@19.7.6.1

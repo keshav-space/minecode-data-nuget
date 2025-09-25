@@ -1,0 +1,4 @@
+- pkg:nuget/Unofficial.Microsoft.TeamFoundation.ServerAPI@1.0.0
+- pkg:nuget/Unofficial.Microsoft.TeamFoundation.ServerAPI@2.0.0
+- pkg:nuget/Unofficial.Microsoft.TeamFoundation.ServerAPI@3.0.0
+- pkg:nuget/Unofficial.Microsoft.TeamFoundation.ServerAPI@5.0.0

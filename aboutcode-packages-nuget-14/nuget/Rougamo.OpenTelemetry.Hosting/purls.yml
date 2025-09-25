@@ -1,0 +1,8 @@
+- pkg:nuget/Rougamo.OpenTelemetry.Hosting@0.1.0
+- pkg:nuget/Rougamo.OpenTelemetry.Hosting@0.1.1
+- pkg:nuget/Rougamo.OpenTelemetry.Hosting@0.1.2
+- pkg:nuget/Rougamo.OpenTelemetry.Hosting@4.0.0
+- pkg:nuget/Rougamo.OpenTelemetry.Hosting@4.0.0-priview-1723657903
+- pkg:nuget/Rougamo.OpenTelemetry.Hosting@4.0.0-priview-1723658928
+- pkg:nuget/Rougamo.OpenTelemetry.Hosting@5.0.0
+- pkg:nuget/Rougamo.OpenTelemetry.Hosting@5.0.0-preview-1733730445

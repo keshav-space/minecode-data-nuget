@@ -1,0 +1,5 @@
+- pkg:nuget/FFmpegInteropX.UWP.FFmpeg@5.1.100-pre3
+- pkg:nuget/FFmpegInteropX.UWP.FFmpeg@6.1.100-pre1
+- pkg:nuget/FFmpegInteropX.UWP.FFmpeg@7.0.100-pre3
+- pkg:nuget/FFmpegInteropX.UWP.FFmpeg@7.1.0-libass1
+- pkg:nuget/FFmpegInteropX.UWP.FFmpeg@7.1.0-libass2

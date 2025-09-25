@@ -1,0 +1,2 @@
+- pkg:nuget/Nancy.BootStrappers.StructureMap@0.6.0
+- pkg:nuget/Nancy.BootStrappers.StructureMap@2.0.0-alpha

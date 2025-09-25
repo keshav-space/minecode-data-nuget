@@ -1,0 +1,4 @@
+- pkg:nuget/ILRepack.MSBuild.Task.InternalizedRenameSupport@2.0.16
+- pkg:nuget/ILRepack.MSBuild.Task.InternalizedRenameSupport@2.0.17
+- pkg:nuget/ILRepack.MSBuild.Task.InternalizedRenameSupport@2.0.18
+- pkg:nuget/ILRepack.MSBuild.Task.InternalizedRenameSupport@2.0.19

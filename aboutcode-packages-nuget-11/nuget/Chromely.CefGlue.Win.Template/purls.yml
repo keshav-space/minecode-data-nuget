@@ -1,0 +1,4 @@
+- pkg:nuget/Chromely.CefGlue.Win.Template@64.0.0
+- pkg:nuget/Chromely.CefGlue.Win.Template@65.0.0
+- pkg:nuget/Chromely.CefGlue.Win.Template@66.0.0
+- pkg:nuget/Chromely.CefGlue.Win.Template@70.0.0

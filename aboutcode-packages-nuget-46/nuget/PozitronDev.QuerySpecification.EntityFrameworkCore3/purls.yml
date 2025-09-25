@@ -1,0 +1,7 @@
+- pkg:nuget/PozitronDev.QuerySpecification.EntityFrameworkCore3@2.0.0
+- pkg:nuget/PozitronDev.QuerySpecification.EntityFrameworkCore3@2.1.0
+- pkg:nuget/PozitronDev.QuerySpecification.EntityFrameworkCore3@3.0.0
+- pkg:nuget/PozitronDev.QuerySpecification.EntityFrameworkCore3@3.2.0
+- pkg:nuget/PozitronDev.QuerySpecification.EntityFrameworkCore3@4.0.0
+- pkg:nuget/PozitronDev.QuerySpecification.EntityFrameworkCore3@4.1.0
+- pkg:nuget/PozitronDev.QuerySpecification.EntityFrameworkCore3@5.0.4

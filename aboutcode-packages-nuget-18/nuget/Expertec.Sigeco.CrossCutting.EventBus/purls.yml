@@ -1,0 +1,5 @@
+- pkg:nuget/Expertec.Sigeco.CrossCutting.EventBus@1.0.0
+- pkg:nuget/Expertec.Sigeco.CrossCutting.EventBus@1.0.1
+- pkg:nuget/Expertec.Sigeco.CrossCutting.EventBus@2.0.0
+- pkg:nuget/Expertec.Sigeco.CrossCutting.EventBus@2.0.1
+- pkg:nuget/Expertec.Sigeco.CrossCutting.EventBus@5.0.0

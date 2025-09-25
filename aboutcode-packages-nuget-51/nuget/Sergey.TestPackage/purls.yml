@@ -1,0 +1,4 @@
+- pkg:nuget/Sergey.TestPackage@1.0.0
+- pkg:nuget/Sergey.TestPackage@1.0.1
+- pkg:nuget/Sergey.TestPackage@2.0.0
+- pkg:nuget/Sergey.TestPackage@3.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/QarnotSDK.Worker@0.1.0-alpha
+- pkg:nuget/QarnotSDK.Worker@0.1.0-beta
+- pkg:nuget/QarnotSDK.Worker@0.2.0-beta
+- pkg:nuget/QarnotSDK.Worker@1.0.0
+- pkg:nuget/QarnotSDK.Worker@1.0.1

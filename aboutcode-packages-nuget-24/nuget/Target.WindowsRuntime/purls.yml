@@ -1,0 +1,3 @@
+- pkg:nuget/Target.WindowsRuntime@8.1.0
+- pkg:nuget/Target.WindowsRuntime@8.1.1
+- pkg:nuget/Target.WindowsRuntime@8.1.2

@@ -1,0 +1,9 @@
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.11.0-SNAPSHOT-10
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.11.0-SNAPSHOT-8
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.11.0-SNAPSHOT-9
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.11.0-SNAPSHOT-91
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.11.1
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.11.2
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.12.0
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.12.0-SNAPSHOT-01
+- pkg:nuget/Org.Apache.REEF.Bridge.JAR@0.12.0-SNAPSHOT-02

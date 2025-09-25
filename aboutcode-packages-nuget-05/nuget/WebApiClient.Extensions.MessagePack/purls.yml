@@ -1,0 +1,3 @@
+- pkg:nuget/WebApiClient.Extensions.MessagePack@1.2.5
+- pkg:nuget/WebApiClient.Extensions.MessagePack@2.0.0
+- pkg:nuget/WebApiClient.Extensions.MessagePack@2.0.3

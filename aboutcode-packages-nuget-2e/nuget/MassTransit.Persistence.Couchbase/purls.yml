@@ -1,0 +1,3 @@
+- pkg:nuget/MassTransit.Persistence.Couchbase@1.0.10
+- pkg:nuget/MassTransit.Persistence.Couchbase@1.0.6
+- pkg:nuget/MassTransit.Persistence.Couchbase@1.0.7

@@ -1,0 +1,5 @@
+- pkg:nuget/BetterHostedServices@1.0.0
+- pkg:nuget/BetterHostedServices@1.0.2%2Bbuild.42
+- pkg:nuget/BetterHostedServices@2.0.0%2Bbuild.46
+- pkg:nuget/BetterHostedServices@2.0.1%2Bbuild.51
+- pkg:nuget/BetterHostedServices@2.0.3%2Bbuild.58

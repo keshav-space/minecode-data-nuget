@@ -1,0 +1,5 @@
+- pkg:nuget/openssl-vc140-vc141-x86_64@1.1.1
+- pkg:nuget/openssl-vc140-vc141-x86_64@1.1.2
+- pkg:nuget/openssl-vc140-vc141-x86_64@1.1.3
+- pkg:nuget/openssl-vc140-vc141-x86_64@1.1.4
+- pkg:nuget/openssl-vc140-vc141-x86_64@1.1.5

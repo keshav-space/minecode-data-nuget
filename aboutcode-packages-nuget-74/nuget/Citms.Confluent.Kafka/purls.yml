@@ -1,0 +1,5 @@
+- pkg:nuget/Citms.Confluent.Kafka@1.4.4
+- pkg:nuget/Citms.Confluent.Kafka@1.4.4-preview
+- pkg:nuget/Citms.Confluent.Kafka@1.5.0
+- pkg:nuget/Citms.Confluent.Kafka@1.5.1
+- pkg:nuget/Citms.Confluent.Kafka@2.2.0

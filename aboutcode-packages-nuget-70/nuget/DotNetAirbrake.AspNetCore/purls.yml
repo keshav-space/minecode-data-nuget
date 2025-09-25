@@ -1,0 +1,6 @@
+- pkg:nuget/DotNetAirbrake.AspNetCore@2.0.0
+- pkg:nuget/DotNetAirbrake.AspNetCore@2.0.41
+- pkg:nuget/DotNetAirbrake.AspNetCore@2.0.42
+- pkg:nuget/DotNetAirbrake.AspNetCore@2.0.43
+- pkg:nuget/DotNetAirbrake.AspNetCore@2.0.44
+- pkg:nuget/DotNetAirbrake.AspNetCore@2.0.46

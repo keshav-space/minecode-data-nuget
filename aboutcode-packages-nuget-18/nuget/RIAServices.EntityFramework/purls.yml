@@ -1,0 +1,3 @@
+- pkg:nuget/RIAServices.EntityFramework@4.1.60629
+- pkg:nuget/RIAServices.EntityFramework@4.1.60730
+- pkg:nuget/RIAServices.EntityFramework@4.2.0

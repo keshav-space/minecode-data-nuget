@@ -1,0 +1,4 @@
+- pkg:nuget/Albatross.Serialization.Json@8.0.0%2Bba9e77d
+- pkg:nuget/Albatross.Serialization.Json@8.0.1%2Bbeab258
+- pkg:nuget/Albatross.Serialization.Json@8.0.2%2Bcdbb97c
+- pkg:nuget/Albatross.Serialization.Json@9.0.0%2B47e447b

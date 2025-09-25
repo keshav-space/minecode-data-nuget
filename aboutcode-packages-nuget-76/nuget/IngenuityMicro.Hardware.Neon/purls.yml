@@ -1,0 +1,13 @@
+- pkg:nuget/IngenuityMicro.Hardware.Neon@0.2.0-beta
+- pkg:nuget/IngenuityMicro.Hardware.Neon@0.3.0-beta
+- pkg:nuget/IngenuityMicro.Hardware.Neon@0.3.2-beta
+- pkg:nuget/IngenuityMicro.Hardware.Neon@1.0.0
+- pkg:nuget/IngenuityMicro.Hardware.Neon@1.1.0
+- pkg:nuget/IngenuityMicro.Hardware.Neon@1.3.0
+- pkg:nuget/IngenuityMicro.Hardware.Neon@1.3.1
+- pkg:nuget/IngenuityMicro.Hardware.Neon@1.3.2
+- pkg:nuget/IngenuityMicro.Hardware.Neon@1.3.3
+- pkg:nuget/IngenuityMicro.Hardware.Neon@2.0.0-beta
+- pkg:nuget/IngenuityMicro.Hardware.Neon@2.0.1-beta
+- pkg:nuget/IngenuityMicro.Hardware.Neon@2.0.2-beta
+- pkg:nuget/IngenuityMicro.Hardware.Neon@2.0.3

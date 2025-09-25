@@ -1,0 +1,4 @@
+- pkg:nuget/EMGU.CV.CUFFT@10.0.0
+- pkg:nuget/EMGU.CV.CUFFT@10.1.0
+- pkg:nuget/EMGU.CV.CUFFT@10.1.105
+- pkg:nuget/EMGU.CV.CUFFT@10.1.243

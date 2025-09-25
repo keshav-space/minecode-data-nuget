@@ -1,0 +1,4 @@
+- pkg:nuget/hq.container@1.0.0
+- pkg:nuget/hq.container@1.0.1
+- pkg:nuget/hq.container@1.1.0-pre
+- pkg:nuget/hq.container@1.2.0-pre

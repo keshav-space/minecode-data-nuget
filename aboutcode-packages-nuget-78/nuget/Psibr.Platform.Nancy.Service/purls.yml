@@ -1,0 +1,8 @@
+- pkg:nuget/Psibr.Platform.Nancy.Service@1.0.0
+- pkg:nuget/Psibr.Platform.Nancy.Service@1.0.1
+- pkg:nuget/Psibr.Platform.Nancy.Service@3.0.0
+- pkg:nuget/Psibr.Platform.Nancy.Service@3.0.1
+- pkg:nuget/Psibr.Platform.Nancy.Service@3.0.2
+- pkg:nuget/Psibr.Platform.Nancy.Service@3.0.3
+- pkg:nuget/Psibr.Platform.Nancy.Service@4.0.0
+- pkg:nuget/Psibr.Platform.Nancy.Service@5.0.1-alpha

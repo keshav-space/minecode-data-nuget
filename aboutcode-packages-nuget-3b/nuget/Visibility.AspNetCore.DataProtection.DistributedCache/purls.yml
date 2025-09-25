@@ -1,0 +1,4 @@
+- pkg:nuget/Visibility.AspNetCore.DataProtection.DistributedCache@1.0.0
+- pkg:nuget/Visibility.AspNetCore.DataProtection.DistributedCache@1.0.1
+- pkg:nuget/Visibility.AspNetCore.DataProtection.DistributedCache@1.0.2
+- pkg:nuget/Visibility.AspNetCore.DataProtection.DistributedCache@2.0.0

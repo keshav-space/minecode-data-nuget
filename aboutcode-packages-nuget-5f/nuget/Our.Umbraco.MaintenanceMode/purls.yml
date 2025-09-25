@@ -1,0 +1,12 @@
+- pkg:nuget/Our.Umbraco.MaintenanceMode@10.0.0
+- pkg:nuget/Our.Umbraco.MaintenanceMode@10.1.0
+- pkg:nuget/Our.Umbraco.MaintenanceMode@10.1.1
+- pkg:nuget/Our.Umbraco.MaintenanceMode@10.2.0
+- pkg:nuget/Our.Umbraco.MaintenanceMode@10.2.1
+- pkg:nuget/Our.Umbraco.MaintenanceMode@14.0.0
+- pkg:nuget/Our.Umbraco.MaintenanceMode@14.0.0-beta001
+- pkg:nuget/Our.Umbraco.MaintenanceMode@14.0.0-rc2
+- pkg:nuget/Our.Umbraco.MaintenanceMode@15.0.0
+- pkg:nuget/Our.Umbraco.MaintenanceMode@15.0.1
+- pkg:nuget/Our.Umbraco.MaintenanceMode@2.0.1
+- pkg:nuget/Our.Umbraco.MaintenanceMode@3.0.0
