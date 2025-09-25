@@ -1,0 +1,6 @@
+- pkg:nuget/SynologyDotNet.Core@0.3.0
+- pkg:nuget/SynologyDotNet.Core@0.4.0
+- pkg:nuget/SynologyDotNet.Core@0.4.1
+- pkg:nuget/SynologyDotNet.Core@0.4.2
+- pkg:nuget/SynologyDotNet.Core@0.4.3
+- pkg:nuget/SynologyDotNet.Core@0.5.0

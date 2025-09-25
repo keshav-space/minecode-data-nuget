@@ -1,0 +1,15 @@
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@14.0.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@14.1.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@15.0.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@15.0.1
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@16.1.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@16.2.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@16.2.1
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@16.3.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@16.4.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@17.0.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@17.1.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@17.2.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@17.3.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@18.0.0
+- pkg:nuget/OptimaJet.Workflow.Api.Mongo@18.1.0

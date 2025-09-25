@@ -1,0 +1,5 @@
+- pkg:nuget/AutoWrapper.Core.Plus.Serilog@4.4.0-alpha
+- pkg:nuget/AutoWrapper.Core.Plus.Serilog@4.4.1
+- pkg:nuget/AutoWrapper.Core.Plus.Serilog@4.4.2
+- pkg:nuget/AutoWrapper.Core.Plus.Serilog@4.4.2.1
+- pkg:nuget/AutoWrapper.Core.Plus.Serilog@4.4.2.2

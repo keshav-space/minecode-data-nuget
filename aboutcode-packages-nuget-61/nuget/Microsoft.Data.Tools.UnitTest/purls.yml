@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Data.Tools.UnitTest@10.0.60611
+- pkg:nuget/Microsoft.Data.Tools.UnitTest@10.0.60809
+- pkg:nuget/Microsoft.Data.Tools.UnitTest@16.0.62001.16180-beta
+- pkg:nuget/Microsoft.Data.Tools.UnitTest@16.0.62003.5180
+- pkg:nuget/Microsoft.Data.Tools.UnitTest@16.0.62004.28040
+- pkg:nuget/Microsoft.Data.Tools.UnitTest@16.0.62005.1040-preview
+- pkg:nuget/Microsoft.Data.Tools.UnitTest@17.8.103.1

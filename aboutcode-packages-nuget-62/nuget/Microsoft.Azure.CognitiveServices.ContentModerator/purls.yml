@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Azure.CognitiveServices.ContentModerator@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.ContentModerator@0.11.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.ContentModerator@0.12.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.ContentModerator@0.12.1-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.ContentModerator@0.13.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.ContentModerator@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.ContentModerator@1.0.0
+- pkg:nuget/Microsoft.Azure.CognitiveServices.ContentModerator@2.0.0

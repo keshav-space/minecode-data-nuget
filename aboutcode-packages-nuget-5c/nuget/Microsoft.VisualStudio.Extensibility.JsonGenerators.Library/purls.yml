@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.JsonGenerators.Library@17.0.156-alpha
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.JsonGenerators.Library@17.0.159-alpha
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.JsonGenerators.Library@17.2.54-alpha

@@ -1,0 +1,15 @@
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@14.0.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@14.1.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@15.0.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@15.0.1
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@16.1.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@16.2.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@16.2.1
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@16.3.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@16.4.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@17.0.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@17.1.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@17.2.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@17.3.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@18.0.0
+- pkg:nuget/OptimaJet.Workflow.Api.Sqlite@18.1.0

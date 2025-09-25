@@ -1,0 +1,14 @@
+- pkg:nuget/BeatPulse.MongoDb@0.6.0
+- pkg:nuget/BeatPulse.MongoDb@0.7.0
+- pkg:nuget/BeatPulse.MongoDb@1.0.0
+- pkg:nuget/BeatPulse.MongoDb@1.0.1
+- pkg:nuget/BeatPulse.MongoDb@1.1.0
+- pkg:nuget/BeatPulse.MongoDb@1.2.0
+- pkg:nuget/BeatPulse.MongoDb@1.3.0
+- pkg:nuget/BeatPulse.MongoDb@1.3.1
+- pkg:nuget/BeatPulse.MongoDb@1.3.2
+- pkg:nuget/BeatPulse.MongoDb@1.3.3
+- pkg:nuget/BeatPulse.MongoDb@1.4.0
+- pkg:nuget/BeatPulse.MongoDb@1.7.0
+- pkg:nuget/BeatPulse.MongoDb@2.1.0
+- pkg:nuget/BeatPulse.MongoDb@3.0.0

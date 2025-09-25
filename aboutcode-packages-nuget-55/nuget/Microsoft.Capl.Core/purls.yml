@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Capl.Core@0.9.14-prerelease
+- pkg:nuget/Microsoft.Capl.Core@0.9.22-prerelease
+- pkg:nuget/Microsoft.Capl.Core@0.9.23-prerelease
+- pkg:nuget/Microsoft.Capl.Core@0.9.27-prerelease
+- pkg:nuget/Microsoft.Capl.Core@0.9.31-prerelease
+- pkg:nuget/Microsoft.Capl.Core@0.9.32-prerelease
+- pkg:nuget/Microsoft.Capl.Core@0.9.33-prerelease
+- pkg:nuget/Microsoft.Capl.Core@0.9.6-prerelease
+- pkg:nuget/Microsoft.Capl.Core@0.9.7-prerelease
+- pkg:nuget/Microsoft.Capl.Core@1.0.0

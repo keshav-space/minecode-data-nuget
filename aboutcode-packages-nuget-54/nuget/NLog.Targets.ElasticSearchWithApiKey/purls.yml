@@ -1,0 +1,6 @@
+- pkg:nuget/NLog.Targets.ElasticSearchWithApiKey@1.0.2.2
+- pkg:nuget/NLog.Targets.ElasticSearchWithApiKey@1.0.2.4
+- pkg:nuget/NLog.Targets.ElasticSearchWithApiKey@7.11.1
+- pkg:nuget/NLog.Targets.ElasticSearchWithApiKey@7.11.1.5
+- pkg:nuget/NLog.Targets.ElasticSearchWithApiKey@7.11.1.7
+- pkg:nuget/NLog.Targets.ElasticSearchWithApiKey@7.11.2

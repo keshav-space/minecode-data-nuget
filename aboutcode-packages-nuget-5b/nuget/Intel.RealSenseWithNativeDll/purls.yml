@@ -1,0 +1,6 @@
+- pkg:nuget/Intel.RealSenseWithNativeDll@2.24.0
+- pkg:nuget/Intel.RealSenseWithNativeDll@2.30.0
+- pkg:nuget/Intel.RealSenseWithNativeDll@2.36.0
+- pkg:nuget/Intel.RealSenseWithNativeDll@2.47.0
+- pkg:nuget/Intel.RealSenseWithNativeDll@2.51.1
+- pkg:nuget/Intel.RealSenseWithNativeDll@2.51.1.1

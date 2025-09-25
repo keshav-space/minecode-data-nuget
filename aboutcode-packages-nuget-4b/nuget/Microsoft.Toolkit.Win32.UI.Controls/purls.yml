@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@3.0.0
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@3.0.0-preview
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@3.0.1
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@3.0.2
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@4.0.0
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@4.0.1
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@4.0.2
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@4.0.3
+- pkg:nuget/Microsoft.Toolkit.Win32.UI.Controls@5.0.0

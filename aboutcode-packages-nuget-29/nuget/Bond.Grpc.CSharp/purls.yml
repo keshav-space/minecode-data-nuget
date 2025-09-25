@@ -1,0 +1,14 @@
+- pkg:nuget/Bond.Grpc.CSharp@10.0.0
+- pkg:nuget/Bond.Grpc.CSharp@5.3.0
+- pkg:nuget/Bond.Grpc.CSharp@5.3.1
+- pkg:nuget/Bond.Grpc.CSharp@6.0.0
+- pkg:nuget/Bond.Grpc.CSharp@7.0.0
+- pkg:nuget/Bond.Grpc.CSharp@7.0.1
+- pkg:nuget/Bond.Grpc.CSharp@8.0.0
+- pkg:nuget/Bond.Grpc.CSharp@8.1.0
+- pkg:nuget/Bond.Grpc.CSharp@8.2.0
+- pkg:nuget/Bond.Grpc.CSharp@9.0.0
+- pkg:nuget/Bond.Grpc.CSharp@9.0.1
+- pkg:nuget/Bond.Grpc.CSharp@9.0.2
+- pkg:nuget/Bond.Grpc.CSharp@9.0.3
+- pkg:nuget/Bond.Grpc.CSharp@9.0.5

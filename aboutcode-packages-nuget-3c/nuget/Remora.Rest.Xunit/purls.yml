@@ -1,0 +1,15 @@
+- pkg:nuget/Remora.Rest.Xunit@1.0.0
+- pkg:nuget/Remora.Rest.Xunit@1.0.1
+- pkg:nuget/Remora.Rest.Xunit@1.0.2
+- pkg:nuget/Remora.Rest.Xunit@1.0.3
+- pkg:nuget/Remora.Rest.Xunit@1.0.4
+- pkg:nuget/Remora.Rest.Xunit@1.1.0
+- pkg:nuget/Remora.Rest.Xunit@1.2.0
+- pkg:nuget/Remora.Rest.Xunit@1.2.1
+- pkg:nuget/Remora.Rest.Xunit@2.0.0
+- pkg:nuget/Remora.Rest.Xunit@2.0.1
+- pkg:nuget/Remora.Rest.Xunit@3.0.0
+- pkg:nuget/Remora.Rest.Xunit@3.0.1
+- pkg:nuget/Remora.Rest.Xunit@3.0.3
+- pkg:nuget/Remora.Rest.Xunit@3.0.4
+- pkg:nuget/Remora.Rest.Xunit@4.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/SharpEngine.Core.NET@0.0.1
+- pkg:nuget/SharpEngine.Core.NET@0.0.1-test
+- pkg:nuget/SharpEngine.Core.NET@1.0.0

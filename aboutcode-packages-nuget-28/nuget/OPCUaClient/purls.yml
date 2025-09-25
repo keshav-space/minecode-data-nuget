@@ -1,0 +1,14 @@
+- pkg:nuget/OPCUaClient@1.0.0
+- pkg:nuget/OPCUaClient@1.1.0
+- pkg:nuget/OPCUaClient@1.10.0
+- pkg:nuget/OPCUaClient@1.13.0
+- pkg:nuget/OPCUaClient@1.15.0
+- pkg:nuget/OPCUaClient@1.4.0
+- pkg:nuget/OPCUaClient@1.5.0
+- pkg:nuget/OPCUaClient@1.6.0
+- pkg:nuget/OPCUaClient@1.7.0
+- pkg:nuget/OPCUaClient@1.8.0
+- pkg:nuget/OPCUaClient@1.9.0
+- pkg:nuget/OPCUaClient@2.0.0
+- pkg:nuget/OPCUaClient@2.1.0
+- pkg:nuget/OPCUaClient@2.2.0

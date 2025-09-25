@@ -1,0 +1,14 @@
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.1
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.10
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.11
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.2
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.4
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.5-dev
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.6
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.7
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.8
+- pkg:nuget/Hal.AspNetCoreIntegration@2.1.9
+- pkg:nuget/Hal.AspNetCoreIntegration@2.2.0
+- pkg:nuget/Hal.AspNetCoreIntegration@2.2.1
+- pkg:nuget/Hal.AspNetCoreIntegration@2.2.2
+- pkg:nuget/Hal.AspNetCoreIntegration@2.2.3

@@ -1,0 +1,6 @@
+- pkg:nuget/Stimulsoft.Data.AzureTableStorage@2019.2.2-preview
+- pkg:nuget/Stimulsoft.Data.AzureTableStorage@2019.2.2.1-preview
+- pkg:nuget/Stimulsoft.Data.AzureTableStorage@2019.2.3-preview
+- pkg:nuget/Stimulsoft.Data.AzureTableStorage@2020.4.1-preview
+- pkg:nuget/Stimulsoft.Data.AzureTableStorage@2021.2.1
+- pkg:nuget/Stimulsoft.Data.AzureTableStorage@2021.4.3

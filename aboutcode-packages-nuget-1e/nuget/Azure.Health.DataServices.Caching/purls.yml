@@ -1,0 +1,10 @@
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.25-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.26-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.27-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.28-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.29-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.30-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.31-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.32-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@0.9.33-prerelease
+- pkg:nuget/Azure.Health.DataServices.Caching@1.0.0

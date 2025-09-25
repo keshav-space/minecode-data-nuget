@@ -1,0 +1,13 @@
+- pkg:nuget/Basler.Pylon.NET.x86@10.2.1.471
+- pkg:nuget/Basler.Pylon.NET.x86@10.3.2.636
+- pkg:nuget/Basler.Pylon.NET.x86@5.1.0.12681
+- pkg:nuget/Basler.Pylon.NET.x86@5.2.0.13457
+- pkg:nuget/Basler.Pylon.NET.x86@6.0.0.17221
+- pkg:nuget/Basler.Pylon.NET.x86@6.1.0.18286
+- pkg:nuget/Basler.Pylon.NET.x86@6.2.0.18677
+- pkg:nuget/Basler.Pylon.NET.x86@6.3.0.18933
+- pkg:nuget/Basler.Pylon.NET.x86@7.1.0.19126
+- pkg:nuget/Basler.Pylon.NET.x86@7.2.0.19231
+- pkg:nuget/Basler.Pylon.NET.x86@7.3.0.19429
+- pkg:nuget/Basler.Pylon.NET.x86@7.4.0.38864
+- pkg:nuget/Basler.Pylon.NET.x86@8.0.0.10

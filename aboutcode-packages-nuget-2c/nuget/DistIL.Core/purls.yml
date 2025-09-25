@@ -1,0 +1,16 @@
+- pkg:nuget/DistIL.Core@0.0.3-pre1
+- pkg:nuget/DistIL.Core@0.1.0-alpha.1
+- pkg:nuget/DistIL.Core@0.10.0-preview
+- pkg:nuget/DistIL.Core@0.11.1-preview
+- pkg:nuget/DistIL.Core@0.12.0
+- pkg:nuget/DistIL.Core@0.13.0-preview
+- pkg:nuget/DistIL.Core@0.2.0-alpha
+- pkg:nuget/DistIL.Core@0.3.0-beta.1
+- pkg:nuget/DistIL.Core@0.3.1-beta.1
+- pkg:nuget/DistIL.Core@0.4.0-beta
+- pkg:nuget/DistIL.Core@0.5.0-beta
+- pkg:nuget/DistIL.Core@0.6.0-beta
+- pkg:nuget/DistIL.Core@0.6.1-beta
+- pkg:nuget/DistIL.Core@0.7.0-preview
+- pkg:nuget/DistIL.Core@0.8.0-preview
+- pkg:nuget/DistIL.Core@0.9.0-preview

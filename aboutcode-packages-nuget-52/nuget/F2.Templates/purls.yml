@@ -1,0 +1,5 @@
+- pkg:nuget/F2.Templates@1.0.0-testing
+- pkg:nuget/F2.Templates@1.0.1-testing
+- pkg:nuget/F2.Templates@1.1.0-testing
+- pkg:nuget/F2.Templates@1.2.0-testing
+- pkg:nuget/F2.Templates@8.0.0-jb-74-new-blazor-template

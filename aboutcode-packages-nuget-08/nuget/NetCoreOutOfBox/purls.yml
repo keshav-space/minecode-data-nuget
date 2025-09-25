@@ -1,0 +1,12 @@
+- pkg:nuget/NetCoreOutOfBox@0.0.1
+- pkg:nuget/NetCoreOutOfBox@0.0.1.1
+- pkg:nuget/NetCoreOutOfBox@0.0.2
+- pkg:nuget/NetCoreOutOfBox@0.0.2.1
+- pkg:nuget/NetCoreOutOfBox@1.0.0
+- pkg:nuget/NetCoreOutOfBox@2.0.0
+- pkg:nuget/NetCoreOutOfBox@2.0.1
+- pkg:nuget/NetCoreOutOfBox@3.0.0
+- pkg:nuget/NetCoreOutOfBox@3.0.1
+- pkg:nuget/NetCoreOutOfBox@3.6.0
+- pkg:nuget/NetCoreOutOfBox@3.6.1
+- pkg:nuget/NetCoreOutOfBox@5.5.5
