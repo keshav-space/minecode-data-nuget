@@ -1,0 +1,5 @@
+- pkg:nuget/NoSqlRepositories.Shared@2021.10606.5-alpha
+- pkg:nuget/NoSqlRepositories.Shared@2021.10617.2-alpha
+- pkg:nuget/NoSqlRepositories.Shared@2021.10617.3
+- pkg:nuget/NoSqlRepositories.Shared@2022.11208.2-alpha
+- pkg:nuget/NoSqlRepositories.Shared@2023.10304.1-alpha

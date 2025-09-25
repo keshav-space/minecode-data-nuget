@@ -1,0 +1,17 @@
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@1.1.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@1.2.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@2.0.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@2.1.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@2.2.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@3.0.54
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@3.0.55
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@3.1.58
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@3.3.63
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@3.8.97
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@3.8.98
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@4.0.13
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@4.0.15
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@5.0.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@5.0.1
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@5.1.0
+- pkg:nuget/Oldmansoft.ClassicDomain.Driver.Mongo@5.2.1

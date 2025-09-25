@@ -1,0 +1,14 @@
+- pkg:nuget/libtorch-cpu-linux-x64@1.10.0.1
+- pkg:nuget/libtorch-cpu-linux-x64@1.11.0.1
+- pkg:nuget/libtorch-cpu-linux-x64@1.13.0.1
+- pkg:nuget/libtorch-cpu-linux-x64@1.9.0.10
+- pkg:nuget/libtorch-cpu-linux-x64@1.9.0.11
+- pkg:nuget/libtorch-cpu-linux-x64@1.9.0.3
+- pkg:nuget/libtorch-cpu-linux-x64@1.9.0.5
+- pkg:nuget/libtorch-cpu-linux-x64@1.9.0.6
+- pkg:nuget/libtorch-cpu-linux-x64@1.9.0.8
+- pkg:nuget/libtorch-cpu-linux-x64@2.0.1.1
+- pkg:nuget/libtorch-cpu-linux-x64@2.1.0.1
+- pkg:nuget/libtorch-cpu-linux-x64@2.2.1.1
+- pkg:nuget/libtorch-cpu-linux-x64@2.4.0
+- pkg:nuget/libtorch-cpu-linux-x64@2.5.1

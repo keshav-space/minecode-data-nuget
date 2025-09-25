@@ -1,0 +1,13 @@
+- pkg:nuget/VariantsPlugin@1.0.0
+- pkg:nuget/VariantsPlugin@1.0.1
+- pkg:nuget/VariantsPlugin@1.0.2
+- pkg:nuget/VariantsPlugin@1.0.3-alpha
+- pkg:nuget/VariantsPlugin@1.0.3-beta
+- pkg:nuget/VariantsPlugin@1.1.0-beta
+- pkg:nuget/VariantsPlugin@1.2.0-beta
+- pkg:nuget/VariantsPlugin@1.2.1-beta
+- pkg:nuget/VariantsPlugin@1.2.2-beta
+- pkg:nuget/VariantsPlugin@1.2.3-beta
+- pkg:nuget/VariantsPlugin@1.2.4-beta
+- pkg:nuget/VariantsPlugin@1.2.5-beta
+- pkg:nuget/VariantsPlugin@1.2.6-beta

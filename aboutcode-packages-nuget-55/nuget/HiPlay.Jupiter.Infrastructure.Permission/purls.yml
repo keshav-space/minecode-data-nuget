@@ -1,0 +1,5 @@
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Permission@1.0.0
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Permission@7.0.0-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Permission@7.0.3-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Permission@8.0.0-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Permission@8.0.2-preview

@@ -1,0 +1,12 @@
+- pkg:nuget/ServiceFabricEx@1.2.262.144-prerelease
+- pkg:nuget/ServiceFabricEx@1.2.262.145-prerelease
+- pkg:nuget/ServiceFabricEx@1.2.262.150
+- pkg:nuget/ServiceFabricEx@1.2.269.151
+- pkg:nuget/ServiceFabricEx@1.2.274.152
+- pkg:nuget/ServiceFabricEx@1.2.283.153
+- pkg:nuget/ServiceFabricEx@1.3.162.154
+- pkg:nuget/ServiceFabricEx@1.3.162.155
+- pkg:nuget/ServiceFabricEx@1.3.176.156
+- pkg:nuget/ServiceFabricEx@1.3.187.157
+- pkg:nuget/ServiceFabricEx@1.4.624.158
+- pkg:nuget/ServiceFabricEx@1.4.638.163

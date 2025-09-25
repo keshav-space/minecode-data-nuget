@@ -1,0 +1,5 @@
+- pkg:nuget/AutoQueryable.Extensions.DependencyInjection@2.0.1-beta
+- pkg:nuget/AutoQueryable.Extensions.DependencyInjection@2.0.2-beta
+- pkg:nuget/AutoQueryable.Extensions.DependencyInjection@2.0.3-beta
+- pkg:nuget/AutoQueryable.Extensions.DependencyInjection@2.0.4-beta
+- pkg:nuget/AutoQueryable.Extensions.DependencyInjection@2.0.5-beta

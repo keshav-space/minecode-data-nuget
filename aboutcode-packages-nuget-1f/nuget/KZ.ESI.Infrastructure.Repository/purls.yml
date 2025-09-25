@@ -1,0 +1,8 @@
+- pkg:nuget/KZ.ESI.Infrastructure.Repository@1.0.0-cloud
+- pkg:nuget/KZ.ESI.Infrastructure.Repository@1.0.0-standard
+- pkg:nuget/KZ.ESI.Infrastructure.Repository@1.0.6
+- pkg:nuget/KZ.ESI.Infrastructure.Repository@1.0.7
+- pkg:nuget/KZ.ESI.Infrastructure.Repository@1.0.8
+- pkg:nuget/KZ.ESI.Infrastructure.Repository@2.0.0
+- pkg:nuget/KZ.ESI.Infrastructure.Repository@2.2.0
+- pkg:nuget/KZ.ESI.Infrastructure.Repository@2.5.0

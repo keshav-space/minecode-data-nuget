@@ -1,0 +1,17 @@
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@1.0.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@2.0.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@3.0.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.0.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.1.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.2.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.3.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.4.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.4.1
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.5.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.6.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@4.6.1
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@5.0.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@5.1.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@5.2.0
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@6.0.0-pre.1
+- pkg:nuget/VSlices.CrossCutting.Validation.FluentValidation@6.0.0-pre.2

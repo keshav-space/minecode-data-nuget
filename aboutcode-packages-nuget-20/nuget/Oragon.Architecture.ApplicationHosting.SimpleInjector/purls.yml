@@ -1,0 +1,3 @@
+- pkg:nuget/Oragon.Architecture.ApplicationHosting.SimpleInjector@7.0.1-GA
+- pkg:nuget/Oragon.Architecture.ApplicationHosting.SimpleInjector@7.1.0
+- pkg:nuget/Oragon.Architecture.ApplicationHosting.SimpleInjector@8.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Auditing@5.0.0
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Auditing@5.1.0
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Auditing@5.1.1
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Auditing@5.1.2

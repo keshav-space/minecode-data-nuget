@@ -1,0 +1,4 @@
+- pkg:nuget/Trimble.Connect.Topic.Client@1.1.0
+- pkg:nuget/Trimble.Connect.Topic.Client@1.1.5
+- pkg:nuget/Trimble.Connect.Topic.Client@1.2.1
+- pkg:nuget/Trimble.Connect.Topic.Client@1.2.2

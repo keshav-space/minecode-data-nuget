@@ -1,0 +1,4 @@
+- pkg:nuget/SecurityTesting@1.0.0
+- pkg:nuget/SecurityTesting@6.0.0
+- pkg:nuget/SecurityTesting@6.0.1
+- pkg:nuget/SecurityTesting@6.0.3

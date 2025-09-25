@@ -1,0 +1,5 @@
+- pkg:nuget/Common.ComponentModel@1.0.0
+- pkg:nuget/Common.ComponentModel@1.0.1
+- pkg:nuget/Common.ComponentModel@2.0.0
+- pkg:nuget/Common.ComponentModel@2.0.1
+- pkg:nuget/Common.ComponentModel@2.0.2

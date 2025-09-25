@@ -1,0 +1,15 @@
+- pkg:nuget/Woof.Console@2.0.0
+- pkg:nuget/Woof.Console@2.0.1
+- pkg:nuget/Woof.Console@2.1.0
+- pkg:nuget/Woof.Console@2.1.1
+- pkg:nuget/Woof.Console@2.1.2
+- pkg:nuget/Woof.Console@2.2.0
+- pkg:nuget/Woof.Console@5.0.0
+- pkg:nuget/Woof.Console@5.0.1
+- pkg:nuget/Woof.Console@5.1.0
+- pkg:nuget/Woof.Console@5.2.0
+- pkg:nuget/Woof.Console@5.2.1
+- pkg:nuget/Woof.Console@6.0.0
+- pkg:nuget/Woof.Console@6.2.0
+- pkg:nuget/Woof.Console@7.0.0
+- pkg:nuget/Woof.Console@9.0.0

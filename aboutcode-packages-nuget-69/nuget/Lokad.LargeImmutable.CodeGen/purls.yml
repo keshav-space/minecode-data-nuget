@@ -1,0 +1,10 @@
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@1.0.0
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@1.0.1
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@1.1.0
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@2.0.0
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@2.0.1
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@3.0.0
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@4.0.0
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@4.1.0
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@4.1.1
+- pkg:nuget/Lokad.LargeImmutable.CodeGen@4.1.2

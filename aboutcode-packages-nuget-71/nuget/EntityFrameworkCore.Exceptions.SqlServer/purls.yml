@@ -1,0 +1,15 @@
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@0.1.0-beta
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@1.0.0
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@1.0.1
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@3.1.1
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@3.1.4
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@6.0.3
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@6.0.3.1
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@6.0.3.2
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@8.0.0
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@8.0.0.1
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@8.0.0.2
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@8.1.0
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@8.1.1
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@8.1.2
+- pkg:nuget/EntityFrameworkCore.Exceptions.SqlServer@8.1.3

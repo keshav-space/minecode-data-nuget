@@ -1,0 +1,12 @@
+- pkg:nuget/XUnit.Hosting@1.0.0
+- pkg:nuget/XUnit.Hosting@1.0.0-beta.1
+- pkg:nuget/XUnit.Hosting@1.0.0-beta.2
+- pkg:nuget/XUnit.Hosting@1.1.0
+- pkg:nuget/XUnit.Hosting@1.2.0
+- pkg:nuget/XUnit.Hosting@1.5.0
+- pkg:nuget/XUnit.Hosting@1.6.0
+- pkg:nuget/XUnit.Hosting@1.7.0
+- pkg:nuget/XUnit.Hosting@1.7.1
+- pkg:nuget/XUnit.Hosting@1.7.2
+- pkg:nuget/XUnit.Hosting@2.0.0
+- pkg:nuget/XUnit.Hosting@2.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Kmd.Logic.Identity.Authorization@1.0.0
+- pkg:nuget/Kmd.Logic.Identity.Authorization@2.0.0
+- pkg:nuget/Kmd.Logic.Identity.Authorization@2.1.0
+- pkg:nuget/Kmd.Logic.Identity.Authorization@3.0.0

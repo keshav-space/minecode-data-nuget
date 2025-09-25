@@ -1,0 +1,8 @@
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.XUnit3@2.16.1.10
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.XUnit3@2.16.1.11
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.XUnit3@2.16.1.12
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.XUnit3@2.16.1.13
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.XUnit3@2.16.1.15
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.XUnit3@2.16.1.4
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.XUnit3@2.16.1.6
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.XUnit3@2.16.1.8

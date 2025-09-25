@@ -1,0 +1,11 @@
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.0.0-beta.30
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.0.119
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.0.162
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.0.165
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.0.180
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.1.0
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.1.0-preview.32
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.2.1
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.2.22
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.3.8
+- pkg:nuget/MiniProfiler.Providers.MongoDB@4.5.4

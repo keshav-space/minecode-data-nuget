@@ -1,0 +1,2 @@
+- pkg:nuget/Teradata.EntityFrameworkCore.NetTopologySuite@2.2.0
+- pkg:nuget/Teradata.EntityFrameworkCore.NetTopologySuite@3.1.0

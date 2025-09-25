@@ -1,0 +1,3 @@
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Swagger@1.0.0
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Swagger@7.0.0-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Swagger@8.0.0-preview

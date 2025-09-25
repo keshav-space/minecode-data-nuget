@@ -1,0 +1,5 @@
+- pkg:nuget/RT.Comb.AspNetCore@2.5.0
+- pkg:nuget/RT.Comb.AspNetCore@3.0.0
+- pkg:nuget/RT.Comb.AspNetCore@4.0.1
+- pkg:nuget/RT.Comb.AspNetCore@4.0.2
+- pkg:nuget/RT.Comb.AspNetCore@4.0.3

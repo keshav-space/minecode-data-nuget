@@ -1,0 +1,12 @@
+- pkg:nuget/MGNZ.Squidex.Client@0.1.0
+- pkg:nuget/MGNZ.Squidex.Client@0.1.0-can-haz-asset-api.20181205-084924
+- pkg:nuget/MGNZ.Squidex.Client@0.1.0-unstable.20
+- pkg:nuget/MGNZ.Squidex.Client@0.1.0-unstable.24
+- pkg:nuget/MGNZ.Squidex.Client@0.1.0-unstable.25
+- pkg:nuget/MGNZ.Squidex.Client@0.1.0-unstable.7
+- pkg:nuget/MGNZ.Squidex.Client@0.1.0-unstable.9
+- pkg:nuget/MGNZ.Squidex.Client@0.2.5-unstable.1211
+- pkg:nuget/MGNZ.Squidex.Client@0.2.6-unstable.1214
+- pkg:nuget/MGNZ.Squidex.Client@0.2.7
+- pkg:nuget/MGNZ.Squidex.Client@0.2.7-unstable.1296
+- pkg:nuget/MGNZ.Squidex.Client@0.2.8-unstable.1366

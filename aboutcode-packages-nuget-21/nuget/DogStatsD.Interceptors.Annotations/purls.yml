@@ -1,0 +1,4 @@
+- pkg:nuget/DogStatsD.Interceptors.Annotations@1.0.0
+- pkg:nuget/DogStatsD.Interceptors.Annotations@1.0.0-beta
+- pkg:nuget/DogStatsD.Interceptors.Annotations@2.0.1
+- pkg:nuget/DogStatsD.Interceptors.Annotations@3.0.0

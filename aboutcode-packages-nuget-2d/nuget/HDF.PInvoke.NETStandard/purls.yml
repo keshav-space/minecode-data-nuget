@@ -1,0 +1,5 @@
+- pkg:nuget/HDF.PInvoke.NETStandard@1.10.200
+- pkg:nuget/HDF.PInvoke.NETStandard@1.10.200-preview1
+- pkg:nuget/HDF.PInvoke.NETStandard@1.10.500
+- pkg:nuget/HDF.PInvoke.NETStandard@1.10.501
+- pkg:nuget/HDF.PInvoke.NETStandard@1.10.502

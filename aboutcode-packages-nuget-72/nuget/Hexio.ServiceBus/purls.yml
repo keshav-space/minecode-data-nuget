@@ -1,0 +1,5 @@
+- pkg:nuget/Hexio.ServiceBus@0.1.0
+- pkg:nuget/Hexio.ServiceBus@1.0.0
+- pkg:nuget/Hexio.ServiceBus@1.0.2
+- pkg:nuget/Hexio.ServiceBus@1.0.4
+- pkg:nuget/Hexio.ServiceBus@7.0.0

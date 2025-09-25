@@ -1,0 +1,4 @@
+- pkg:nuget/Ground.Extensions.MessageBus.MessageInbox.Dal.Dapper@1.0.0
+- pkg:nuget/Ground.Extensions.MessageBus.MessageInbox.Dal.Dapper@2.0.0
+- pkg:nuget/Ground.Extensions.MessageBus.MessageInbox.Dal.Dapper@3.0.0
+- pkg:nuget/Ground.Extensions.MessageBus.MessageInbox.Dal.Dapper@3.0.1

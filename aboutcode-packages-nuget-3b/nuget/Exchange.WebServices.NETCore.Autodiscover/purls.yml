@@ -1,0 +1,15 @@
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@1.4.1
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@1.4.2
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@1.5.1
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@1.5.2
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@1.5.3
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@2.0.0
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@2.1.0
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@2.1.1
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@2.1.2
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@2.2.0
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@2.2.1
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@2.3.0
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@2.4.0
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@3.0.0
+- pkg:nuget/Exchange.WebServices.NETCore.Autodiscover@3.1.0

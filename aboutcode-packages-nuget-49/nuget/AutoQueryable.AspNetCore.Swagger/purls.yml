@@ -1,0 +1,6 @@
+- pkg:nuget/AutoQueryable.AspNetCore.Swagger@1.0.0
+- pkg:nuget/AutoQueryable.AspNetCore.Swagger@2.0.1-beta
+- pkg:nuget/AutoQueryable.AspNetCore.Swagger@2.0.2-beta
+- pkg:nuget/AutoQueryable.AspNetCore.Swagger@2.0.3-beta
+- pkg:nuget/AutoQueryable.AspNetCore.Swagger@2.0.4-beta
+- pkg:nuget/AutoQueryable.AspNetCore.Swagger@2.0.5-beta

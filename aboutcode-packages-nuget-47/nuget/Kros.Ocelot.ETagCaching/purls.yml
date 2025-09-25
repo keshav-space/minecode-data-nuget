@@ -1,0 +1,5 @@
+- pkg:nuget/Kros.Ocelot.ETagCaching@0.0.1
+- pkg:nuget/Kros.Ocelot.ETagCaching@1.0.0
+- pkg:nuget/Kros.Ocelot.ETagCaching@1.1.0
+- pkg:nuget/Kros.Ocelot.ETagCaching@1.2.0
+- pkg:nuget/Kros.Ocelot.ETagCaching@1.3.0

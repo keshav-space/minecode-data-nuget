@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Orleans.Persistence.Cosmos.Migration@3.8.0-preview1
+- pkg:nuget/Microsoft.Orleans.Persistence.Cosmos.Migration@3.8.0-preview2
+- pkg:nuget/Microsoft.Orleans.Persistence.Cosmos.Migration@3.8.0-preview3
+- pkg:nuget/Microsoft.Orleans.Persistence.Cosmos.Migration@3.8.0-preview4

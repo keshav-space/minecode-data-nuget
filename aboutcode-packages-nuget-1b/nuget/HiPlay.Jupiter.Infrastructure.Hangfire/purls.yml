@@ -1,0 +1,6 @@
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Hangfire@1.0.0
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Hangfire@7.0.0-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Hangfire@8.0.0-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Hangfire@8.0.1-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Hangfire@8.0.2-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Hangfire@8.0.3-preview

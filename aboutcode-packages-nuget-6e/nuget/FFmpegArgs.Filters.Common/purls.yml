@@ -1,0 +1,11 @@
+- pkg:nuget/FFmpegArgs.Filters.Common@1.2.0
+- pkg:nuget/FFmpegArgs.Filters.Common@1.3.0
+- pkg:nuget/FFmpegArgs.Filters.Common@1.4.0
+- pkg:nuget/FFmpegArgs.Filters.Common@1.5.0
+- pkg:nuget/FFmpegArgs.Filters.Common@1.5.1
+- pkg:nuget/FFmpegArgs.Filters.Common@1.6.0
+- pkg:nuget/FFmpegArgs.Filters.Common@1.6.1
+- pkg:nuget/FFmpegArgs.Filters.Common@1.6.1-build240120
+- pkg:nuget/FFmpegArgs.Filters.Common@1.6.2
+- pkg:nuget/FFmpegArgs.Filters.Common@1.6.2-build240223
+- pkg:nuget/FFmpegArgs.Filters.Common@2.0.0

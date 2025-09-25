@@ -1,0 +1,4 @@
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Domain.Mongo@1.0.0
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Domain.Mongo@7.0.0-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Domain.Mongo@7.0.3-preview
+- pkg:nuget/HiPlay.Jupiter.Infrastructure.Domain.Mongo@8.0.0-preview

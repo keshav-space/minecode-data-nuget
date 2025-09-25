@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.CodeAnalysis.ActivePatterns@0.5.1
+- pkg:nuget/Microsoft.CodeAnalysis.ActivePatterns@0.7.1
+- pkg:nuget/Microsoft.CodeAnalysis.ActivePatterns@0.8.1
+- pkg:nuget/Microsoft.CodeAnalysis.ActivePatterns@0.8.10
+- pkg:nuget/Microsoft.CodeAnalysis.ActivePatterns@0.8.20
+- pkg:nuget/Microsoft.CodeAnalysis.ActivePatterns@0.9.0

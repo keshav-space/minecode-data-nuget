@@ -1,0 +1,4 @@
+- pkg:nuget/LTDO.Kernel.UnitTestSupport@1.0.6
+- pkg:nuget/LTDO.Kernel.UnitTestSupport@1.0.8
+- pkg:nuget/LTDO.Kernel.UnitTestSupport@2.0.0
+- pkg:nuget/LTDO.Kernel.UnitTestSupport@2.0.1

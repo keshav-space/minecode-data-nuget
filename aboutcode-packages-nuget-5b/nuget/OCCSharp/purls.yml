@@ -1,0 +1,4 @@
+- pkg:nuget/OCCSharp@7.7.0-preview2
+- pkg:nuget/OCCSharp@7.7.0-preview3
+- pkg:nuget/OCCSharp@7.7.0-preview4
+- pkg:nuget/OCCSharp@7.8.0-preview1

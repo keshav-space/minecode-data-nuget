@@ -1,0 +1,10 @@
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.0.0-alpha.1
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.0.0-alpha.2
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.0.0-alpha.3
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.0.0-beta.1
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.0.0-beta.2
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.0.0-beta.3
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.10.0-beta.1
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.11.0-beta.1
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.11.0-beta.2
+- pkg:nuget/OpenTelemetry.Instrumentation.Quartz@1.12.0-beta.1

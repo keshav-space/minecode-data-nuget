@@ -1,0 +1,14 @@
+- pkg:nuget/eMiteSDK.Core@1.0.0
+- pkg:nuget/eMiteSDK.Core@1.0.1
+- pkg:nuget/eMiteSDK.Core@1.0.2
+- pkg:nuget/eMiteSDK.Core@1.0.3
+- pkg:nuget/eMiteSDK.Core@1.1.0
+- pkg:nuget/eMiteSDK.Core@1.1.1
+- pkg:nuget/eMiteSDK.Core@1.1.2
+- pkg:nuget/eMiteSDK.Core@1.2.0
+- pkg:nuget/eMiteSDK.Core@1.3.0
+- pkg:nuget/eMiteSDK.Core@2.0.0-eMite700-rc
+- pkg:nuget/eMiteSDK.Core@2.0.1-eMite700-rc
+- pkg:nuget/eMiteSDK.Core@2.1.0-eMite700-rc
+- pkg:nuget/eMiteSDK.Core@2.2.0
+- pkg:nuget/eMiteSDK.Core@2.2.1

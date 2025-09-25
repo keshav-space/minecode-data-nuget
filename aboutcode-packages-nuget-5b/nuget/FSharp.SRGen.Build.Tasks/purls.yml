@@ -1,0 +1,5 @@
+- pkg:nuget/FSharp.SRGen.Build.Tasks@2.0.0
+- pkg:nuget/FSharp.SRGen.Build.Tasks@2.0.1
+- pkg:nuget/FSharp.SRGen.Build.Tasks@3.0.0
+- pkg:nuget/FSharp.SRGen.Build.Tasks@3.1.0
+- pkg:nuget/FSharp.SRGen.Build.Tasks@3.4.0

@@ -1,0 +1,17 @@
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@1.0.0
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@1.0.0-beta8
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@1.0.0-rc1
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@1.0.0-rc2
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@1.0.0-rc2-update1
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@1.0.0-rc3
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@1.0.0-rc4
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.0.0
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.0.0-beta1
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.0.0-rc1
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.0.0-rc2
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.0.0-rc3
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.0.0-rc4
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.0.0-rc5
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.0.1
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.1.0
+- pkg:nuget/Skoruba.IdentityServer4.Admin.EntityFramework.Shared@2.1.0-rc1

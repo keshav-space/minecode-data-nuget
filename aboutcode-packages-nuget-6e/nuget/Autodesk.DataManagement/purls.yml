@@ -1,0 +1,10 @@
+- pkg:nuget/Autodesk.DataManagement@1.0.0
+- pkg:nuget/Autodesk.DataManagement@1.0.0-beta3
+- pkg:nuget/Autodesk.DataManagement@2.0.0
+- pkg:nuget/Autodesk.DataManagement@2.0.0-beta
+- pkg:nuget/Autodesk.DataManagement@2.0.0-beta2
+- pkg:nuget/Autodesk.DataManagement@2.0.0-beta3
+- pkg:nuget/Autodesk.DataManagement@2.0.0-beta4
+- pkg:nuget/Autodesk.DataManagement@2.0.1
+- pkg:nuget/Autodesk.DataManagement@2.0.2
+- pkg:nuget/Autodesk.DataManagement@2.1.2

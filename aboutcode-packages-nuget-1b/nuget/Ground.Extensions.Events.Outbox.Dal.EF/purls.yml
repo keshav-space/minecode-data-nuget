@@ -1,0 +1,5 @@
+- pkg:nuget/Ground.Extensions.Events.Outbox.Dal.EF@1.0.0
+- pkg:nuget/Ground.Extensions.Events.Outbox.Dal.EF@1.0.1
+- pkg:nuget/Ground.Extensions.Events.Outbox.Dal.EF@2.0.0
+- pkg:nuget/Ground.Extensions.Events.Outbox.Dal.EF@2.0.1
+- pkg:nuget/Ground.Extensions.Events.Outbox.Dal.EF@3.0.0

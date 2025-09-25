@@ -1,0 +1,4 @@
+- pkg:nuget/DotNetCore.Natasha.DynamicProxy@0.1.0
+- pkg:nuget/DotNetCore.Natasha.DynamicProxy@0.1.1
+- pkg:nuget/DotNetCore.Natasha.DynamicProxy@0.2.0
+- pkg:nuget/DotNetCore.Natasha.DynamicProxy@0.2.1

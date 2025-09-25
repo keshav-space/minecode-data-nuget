@@ -1,0 +1,6 @@
+- pkg:nuget/TinyIoC.AspNetExtensions@1.0.0
+- pkg:nuget/TinyIoC.AspNetExtensions@1.2.0
+- pkg:nuget/TinyIoC.AspNetExtensions@1.4.0-alpha1
+- pkg:nuget/TinyIoC.AspNetExtensions@1.4.0-alpha2
+- pkg:nuget/TinyIoC.AspNetExtensions@1.4.0-alpha3
+- pkg:nuget/TinyIoC.AspNetExtensions@1.4.0-rc1

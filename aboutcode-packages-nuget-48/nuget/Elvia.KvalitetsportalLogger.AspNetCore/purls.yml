@@ -1,0 +1,8 @@
+- pkg:nuget/Elvia.KvalitetsportalLogger.AspNetCore@7.0.0
+- pkg:nuget/Elvia.KvalitetsportalLogger.AspNetCore@7.0.0-beta3
+- pkg:nuget/Elvia.KvalitetsportalLogger.AspNetCore@7.0.0-beta4
+- pkg:nuget/Elvia.KvalitetsportalLogger.AspNetCore@8.0.0-beta2
+- pkg:nuget/Elvia.KvalitetsportalLogger.AspNetCore@8.0.0-beta3
+- pkg:nuget/Elvia.KvalitetsportalLogger.AspNetCore@8.0.0-beta6
+- pkg:nuget/Elvia.KvalitetsportalLogger.AspNetCore@8.0.1
+- pkg:nuget/Elvia.KvalitetsportalLogger.AspNetCore@8.0.2
