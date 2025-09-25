@@ -1,0 +1,8 @@
+- pkg:nuget/RadyzUniqueTestPackage@1.0.3
+- pkg:nuget/RadyzUniqueTestPackage@1.0.3-alpha.0
+- pkg:nuget/RadyzUniqueTestPackage@1.0.3-random-branch-name-223.0
+- pkg:nuget/RadyzUniqueTestPackage@1.1.1
+- pkg:nuget/RadyzUniqueTestPackage@1.1.2
+- pkg:nuget/RadyzUniqueTestPackage@2.0.3
+- pkg:nuget/RadyzUniqueTestPackage@2.0.3-alpha.0
+- pkg:nuget/RadyzUniqueTestPackage@2.0.3-alpha.2

@@ -1,0 +1,13 @@
+- pkg:nuget/package-downloader@0.0.17-beta
+- pkg:nuget/package-downloader@0.0.18-beta
+- pkg:nuget/package-downloader@0.0.19-beta
+- pkg:nuget/package-downloader@1.0.0-pre
+- pkg:nuget/package-downloader@1.0.1
+- pkg:nuget/package-downloader@1.0.1-beta1
+- pkg:nuget/package-downloader@1.0.1-beta2
+- pkg:nuget/package-downloader@1.0.1-beta3
+- pkg:nuget/package-downloader@1.0.1-beta5
+- pkg:nuget/package-downloader@1.0.2-beta1
+- pkg:nuget/package-downloader@1.0.2-beta2
+- pkg:nuget/package-downloader@1.1.0
+- pkg:nuget/package-downloader@1.1.1

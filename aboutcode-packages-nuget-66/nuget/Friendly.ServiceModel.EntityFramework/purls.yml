@@ -1,0 +1,3 @@
+- pkg:nuget/Friendly.ServiceModel.EntityFramework@1.0.0
+- pkg:nuget/Friendly.ServiceModel.EntityFramework@1.0.0-CI-20190316-160514
+- pkg:nuget/Friendly.ServiceModel.EntityFramework@1.0.1-CI-20190316-181355

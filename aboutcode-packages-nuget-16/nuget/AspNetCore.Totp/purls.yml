@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.Totp@1.0.7
+- pkg:nuget/AspNetCore.Totp@2.0.0
+- pkg:nuget/AspNetCore.Totp@2.1.0
+- pkg:nuget/AspNetCore.Totp@2.2.0
+- pkg:nuget/AspNetCore.Totp@2.3.0

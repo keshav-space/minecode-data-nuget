@@ -1,0 +1,12 @@
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@2.0.0
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@3.0.0
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@4.0.0
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@4.0.1
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@4.0.2
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@5.0.0
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@6.0.0
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@6.0.0-prerelease01
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@6.0.0-prerelease04
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@6.0.0-prerelease05
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@6.0.0-prerelease06
+- pkg:nuget/Affecto.Patterns.Domain.UnitOfWork@6.0.0-prerelease07

@@ -1,0 +1,6 @@
+- pkg:nuget/embree-osx-x64@4.3.0
+- pkg:nuget/embree-osx-x64@4.3.0-fix
+- pkg:nuget/embree-osx-x64@4.3.1
+- pkg:nuget/embree-osx-x64@4.3.2
+- pkg:nuget/embree-osx-x64@4.3.3
+- pkg:nuget/embree-osx-x64@4.4.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Maui.Controls.Sdk@6.0.100-preview.6.1003%2Bsha.5c159aabf-azdo.4977641
+- pkg:nuget/Microsoft.Maui.Controls.Sdk@6.0.100-preview.7.1345%2Bsha.8665ea184-azdo.5075445
+- pkg:nuget/Microsoft.Maui.Controls.Sdk@6.0.100-rc.1.1608%2Bsha.f842b0ec4-azdo.5169954

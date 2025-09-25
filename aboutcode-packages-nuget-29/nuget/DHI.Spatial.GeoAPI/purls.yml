@@ -1,0 +1,5 @@
+- pkg:nuget/DHI.Spatial.GeoAPI@2.2.0
+- pkg:nuget/DHI.Spatial.GeoAPI@2.2.1
+- pkg:nuget/DHI.Spatial.GeoAPI@3.0.0
+- pkg:nuget/DHI.Spatial.GeoAPI@3.0.1
+- pkg:nuget/DHI.Spatial.GeoAPI@4.0.0

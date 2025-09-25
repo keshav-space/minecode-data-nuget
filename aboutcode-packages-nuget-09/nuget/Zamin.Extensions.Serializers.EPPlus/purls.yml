@@ -1,0 +1,5 @@
+- pkg:nuget/Zamin.Extensions.Serializers.EPPlus@6.3.0-beta.1
+- pkg:nuget/Zamin.Extensions.Serializers.EPPlus@7.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Serializers.EPPlus@8.0.0
+- pkg:nuget/Zamin.Extensions.Serializers.EPPlus@8.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Serializers.EPPlus@9.0.0

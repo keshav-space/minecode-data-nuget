@@ -1,0 +1,7 @@
+- pkg:nuget/AspireMassTransit.RabbitMQ.Client@1.0.0
+- pkg:nuget/AspireMassTransit.RabbitMQ.Client@1.0.1
+- pkg:nuget/AspireMassTransit.RabbitMQ.Client@1.0.2
+- pkg:nuget/AspireMassTransit.RabbitMQ.Client@1.1.0
+- pkg:nuget/AspireMassTransit.RabbitMQ.Client@1.1.1
+- pkg:nuget/AspireMassTransit.RabbitMQ.Client@1.2.0
+- pkg:nuget/AspireMassTransit.RabbitMQ.Client@1.2.1

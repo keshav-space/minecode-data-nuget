@@ -1,0 +1,5 @@
+- pkg:nuget/Penguin.Cms.Web.Mail.EmailRenderer.DependencyInjection@1.0.1
+- pkg:nuget/Penguin.Cms.Web.Mail.EmailRenderer.DependencyInjection@1.1.0
+- pkg:nuget/Penguin.Cms.Web.Mail.EmailRenderer.DependencyInjection@2.0.0
+- pkg:nuget/Penguin.Cms.Web.Mail.EmailRenderer.DependencyInjection@2.0.1
+- pkg:nuget/Penguin.Cms.Web.Mail.EmailRenderer.DependencyInjection@2.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/4tecture.DependencyInjection.AspNet@0.10.3
+- pkg:nuget/4tecture.DependencyInjection.AspNet@0.10.4
+- pkg:nuget/4tecture.DependencyInjection.AspNet@0.8.0
+- pkg:nuget/4tecture.DependencyInjection.AspNet@0.9.0

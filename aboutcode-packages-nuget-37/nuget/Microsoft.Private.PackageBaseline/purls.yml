@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Private.PackageBaseline@1.0.0
+- pkg:nuget/Microsoft.Private.PackageBaseline@1.0.0-servicing-27415-03
+- pkg:nuget/Microsoft.Private.PackageBaseline@1.0.0-servicing-27618-03
+- pkg:nuget/Microsoft.Private.PackageBaseline@1.0.1-preview1-24530-04
+- pkg:nuget/Microsoft.Private.PackageBaseline@1.0.1-preview1-24705-01
+- pkg:nuget/Microsoft.Private.PackageBaseline@1.0.1-servicing-27618-01
+- pkg:nuget/Microsoft.Private.PackageBaseline@2.0.0-preview1-25305-02

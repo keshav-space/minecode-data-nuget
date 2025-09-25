@@ -1,0 +1,5 @@
+- pkg:nuget/Sweety.Common.DataProvider.SqlServer@0.0.1
+- pkg:nuget/Sweety.Common.DataProvider.SqlServer@0.0.2
+- pkg:nuget/Sweety.Common.DataProvider.SqlServer@0.0.6
+- pkg:nuget/Sweety.Common.DataProvider.SqlServer@1.0.0-alpha
+- pkg:nuget/Sweety.Common.DataProvider.SqlServer@1.0.5-alpha

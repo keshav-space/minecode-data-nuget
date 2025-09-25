@@ -1,0 +1,4 @@
+- pkg:nuget/FSharp.Domain.Validation@0.9.77
+- pkg:nuget/FSharp.Domain.Validation@0.9.78
+- pkg:nuget/FSharp.Domain.Validation@0.9.78-rc
+- pkg:nuget/FSharp.Domain.Validation@0.9.78-rc2

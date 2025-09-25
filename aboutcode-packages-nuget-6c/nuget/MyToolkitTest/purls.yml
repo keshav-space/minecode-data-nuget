@@ -1,0 +1,4 @@
+- pkg:nuget/MyToolkitTest@2.5.12
+- pkg:nuget/MyToolkitTest@2.5.17
+- pkg:nuget/MyToolkitTest@2.5.19
+- pkg:nuget/MyToolkitTest@2.5.20

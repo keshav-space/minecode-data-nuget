@@ -1,0 +1,7 @@
+- pkg:nuget/log4net.Appender.MongoDB@0.1.0
+- pkg:nuget/log4net.Appender.MongoDB@0.1.12
+- pkg:nuget/log4net.Appender.MongoDB@0.1.13
+- pkg:nuget/log4net.Appender.MongoDB@0.1.14
+- pkg:nuget/log4net.Appender.MongoDB@0.1.15
+- pkg:nuget/log4net.Appender.MongoDB@0.1.16
+- pkg:nuget/log4net.Appender.MongoDB@0.1.2

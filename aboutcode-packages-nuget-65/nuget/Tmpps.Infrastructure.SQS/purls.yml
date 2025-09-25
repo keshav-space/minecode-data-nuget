@@ -1,0 +1,5 @@
+- pkg:nuget/Tmpps.Infrastructure.SQS@1.0.0
+- pkg:nuget/Tmpps.Infrastructure.SQS@2.0.0
+- pkg:nuget/Tmpps.Infrastructure.SQS@2.1.0
+- pkg:nuget/Tmpps.Infrastructure.SQS@2.2.0
+- pkg:nuget/Tmpps.Infrastructure.SQS@2.2.1

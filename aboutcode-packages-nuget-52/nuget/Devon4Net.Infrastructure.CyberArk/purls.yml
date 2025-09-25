@@ -1,0 +1,4 @@
+- pkg:nuget/Devon4Net.Infrastructure.CyberArk@3.1.10
+- pkg:nuget/Devon4Net.Infrastructure.CyberArk@5.0.0
+- pkg:nuget/Devon4Net.Infrastructure.CyberArk@6.0.0
+- pkg:nuget/Devon4Net.Infrastructure.CyberArk@6.0.1

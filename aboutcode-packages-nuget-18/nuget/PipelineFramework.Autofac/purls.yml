@@ -1,0 +1,4 @@
+- pkg:nuget/PipelineFramework.Autofac@1.0.0
+- pkg:nuget/PipelineFramework.Autofac@2.0.0
+- pkg:nuget/PipelineFramework.Autofac@3.0.0
+- pkg:nuget/PipelineFramework.Autofac@4.0.0

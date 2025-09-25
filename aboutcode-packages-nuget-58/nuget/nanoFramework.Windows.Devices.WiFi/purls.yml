@@ -1,0 +1,4 @@
+- pkg:nuget/nanoFramework.Windows.Devices.WiFi@1.0.0
+- pkg:nuget/nanoFramework.Windows.Devices.WiFi@1.0.0-preview009
+- pkg:nuget/nanoFramework.Windows.Devices.WiFi@1.0.0-preview015
+- pkg:nuget/nanoFramework.Windows.Devices.WiFi@1.0.0-preview022

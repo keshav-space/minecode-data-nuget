@@ -1,0 +1,3 @@
+- pkg:nuget/Nuke.DocFX@0.1.1
+- pkg:nuget/Nuke.DocFX@0.2.0
+- pkg:nuget/Nuke.DocFX@0.3.0

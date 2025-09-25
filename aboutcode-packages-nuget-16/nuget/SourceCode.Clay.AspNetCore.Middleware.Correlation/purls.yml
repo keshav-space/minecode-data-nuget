@@ -1,0 +1,11 @@
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.0.0
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.0.0-rc1-00803
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.0.0-rc1-00806
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.0.0-rc1-00808
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.0.0-rc1-00811
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.0.0-rc1-00815
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.0.0-rc1-00827
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.1.0
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.1.0-rc1-00833
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.1.0-rc1-00839
+- pkg:nuget/SourceCode.Clay.AspNetCore.Middleware.Correlation@5.2.0

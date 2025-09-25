@@ -1,0 +1,9 @@
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@1.0.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@1.1.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@1.2.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@1.3.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@1.4.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@1.5.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@1.6.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@2.0.0
+- pkg:nuget/ImageSharp.AVCodecFormats.Native.linux-x64@3.0.0

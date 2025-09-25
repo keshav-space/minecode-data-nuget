@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100@6.0.100-preview.6.1003%2Bsha.5c159aabf-azdo.4977641
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100@6.0.100-preview.7.1345%2Bsha.8665ea184-azdo.5075445
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100@6.0.100-rc.1.1608%2Bsha.f842b0ec4-azdo.5169954
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100@6.0.101-preview.10.2068%2Bsha.d047f96b3-azdo.5388380
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100@6.0.101-preview.11.2349%2Bsha.07d9fb8f3-azdo.5525666
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100@6.0.101-preview.9.1843%2Bsha.cdb68cd7a-azdo.5293347

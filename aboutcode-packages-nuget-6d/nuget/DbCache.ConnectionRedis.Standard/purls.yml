@@ -1,0 +1,6 @@
+- pkg:nuget/DbCache.ConnectionRedis.Standard@1.0.0
+- pkg:nuget/DbCache.ConnectionRedis.Standard@1.0.1
+- pkg:nuget/DbCache.ConnectionRedis.Standard@1.0.2
+- pkg:nuget/DbCache.ConnectionRedis.Standard@2.0.0
+- pkg:nuget/DbCache.ConnectionRedis.Standard@2.0.1
+- pkg:nuget/DbCache.ConnectionRedis.Standard@2.0.2

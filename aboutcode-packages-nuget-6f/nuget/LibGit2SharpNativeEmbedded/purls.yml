@@ -1,0 +1,4 @@
+- pkg:nuget/LibGit2SharpNativeEmbedded@0.23.0-pre
+- pkg:nuget/LibGit2SharpNativeEmbedded@0.23.1-pre
+- pkg:nuget/LibGit2SharpNativeEmbedded@0.23.2-pre
+- pkg:nuget/LibGit2SharpNativeEmbedded@0.23.3-pre

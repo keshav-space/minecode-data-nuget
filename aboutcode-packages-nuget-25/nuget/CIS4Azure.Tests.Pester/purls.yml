@@ -1,0 +1,4 @@
+- pkg:nuget/CIS4Azure.Tests.Pester@1.0.0-preview
+- pkg:nuget/CIS4Azure.Tests.Pester@1.1.0
+- pkg:nuget/CIS4Azure.Tests.Pester@1.1.1.3-preview
+- pkg:nuget/CIS4Azure.Tests.Pester@1.1.1.4-preview

@@ -1,0 +1,12 @@
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@6.4.0
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@6.4.1
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@6.4.2
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@6.4.3
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@6.4.4
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@6.4.5
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@6.4.6
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@7.0.0
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@7.0.0-rc.1
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@7.0.0-rc.3
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@7.0.0-rc.5
+- pkg:nuget/TIPC.Core.Tools.DependencyInjection@7.0.0-rc.7

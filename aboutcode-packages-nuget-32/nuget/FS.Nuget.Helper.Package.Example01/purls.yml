@@ -1,0 +1,5 @@
+- pkg:nuget/FS.Nuget.Helper.Package.Example01@1.0.0
+- pkg:nuget/FS.Nuget.Helper.Package.Example01@2.0.0
+- pkg:nuget/FS.Nuget.Helper.Package.Example01@3.0.0
+- pkg:nuget/FS.Nuget.Helper.Package.Example01@4.0.0.1
+- pkg:nuget/FS.Nuget.Helper.Package.Example01@4.0.0.2

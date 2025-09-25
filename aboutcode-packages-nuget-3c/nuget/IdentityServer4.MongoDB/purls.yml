@@ -1,0 +1,9 @@
+- pkg:nuget/IdentityServer4.MongoDB@1.0.0
+- pkg:nuget/IdentityServer4.MongoDB@1.0.0-rc1-update2
+- pkg:nuget/IdentityServer4.MongoDB@1.0.0-rc2
+- pkg:nuget/IdentityServer4.MongoDB@1.0.0-rc2-update1
+- pkg:nuget/IdentityServer4.MongoDB@1.0.0-rc5
+- pkg:nuget/IdentityServer4.MongoDB@1.0.1
+- pkg:nuget/IdentityServer4.MongoDB@1.0.2
+- pkg:nuget/IdentityServer4.MongoDB@1.0.3
+- pkg:nuget/IdentityServer4.MongoDB@2.0.0

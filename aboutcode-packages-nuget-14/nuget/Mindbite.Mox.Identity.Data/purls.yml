@@ -1,0 +1,14 @@
+- pkg:nuget/Mindbite.Mox.Identity.Data@2.1.1
+- pkg:nuget/Mindbite.Mox.Identity.Data@2.2.0
+- pkg:nuget/Mindbite.Mox.Identity.Data@2.2.1
+- pkg:nuget/Mindbite.Mox.Identity.Data@3.0.0
+- pkg:nuget/Mindbite.Mox.Identity.Data@3.0.1
+- pkg:nuget/Mindbite.Mox.Identity.Data@3.1.0
+- pkg:nuget/Mindbite.Mox.Identity.Data@5.0.0
+- pkg:nuget/Mindbite.Mox.Identity.Data@5.0.1
+- pkg:nuget/Mindbite.Mox.Identity.Data@5.1.0
+- pkg:nuget/Mindbite.Mox.Identity.Data@6.0.0
+- pkg:nuget/Mindbite.Mox.Identity.Data@6.1.0
+- pkg:nuget/Mindbite.Mox.Identity.Data@6.1.1
+- pkg:nuget/Mindbite.Mox.Identity.Data@6.1.2
+- pkg:nuget/Mindbite.Mox.Identity.Data@8.0.0

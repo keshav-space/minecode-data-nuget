@@ -1,0 +1,3 @@
+- pkg:nuget/wonlay.generalFramework.dataAccess.sqlServer@1.0.0
+- pkg:nuget/wonlay.generalFramework.dataAccess.sqlServer@1.1.0
+- pkg:nuget/wonlay.generalFramework.dataAccess.sqlServer@1.2.0

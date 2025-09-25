@@ -1,0 +1,6 @@
+- pkg:nuget/Google.Apis.Dataflow.v1beta3@1.9.0.110
+- pkg:nuget/Google.Apis.Dataflow.v1beta3@1.9.0.120
+- pkg:nuget/Google.Apis.Dataflow.v1beta3@1.9.0.30
+- pkg:nuget/Google.Apis.Dataflow.v1beta3@1.9.0.50
+- pkg:nuget/Google.Apis.Dataflow.v1beta3@1.9.0.70
+- pkg:nuget/Google.Apis.Dataflow.v1beta3@1.9.0.90

@@ -1,0 +1,4 @@
+- pkg:nuget/Ocelot.Provider.Consul.FaultTolerant@18.1.0
+- pkg:nuget/Ocelot.Provider.Consul.FaultTolerant@18.1.1
+- pkg:nuget/Ocelot.Provider.Consul.FaultTolerant@18.1.2
+- pkg:nuget/Ocelot.Provider.Consul.FaultTolerant@18.2.0

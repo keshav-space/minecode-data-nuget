@@ -1,0 +1,2 @@
+- pkg:nuget/talos.process.rabbitmq@1.0.0
+- pkg:nuget/talos.process.rabbitmq@1.0.1

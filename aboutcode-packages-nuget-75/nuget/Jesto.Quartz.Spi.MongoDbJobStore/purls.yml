@@ -1,0 +1,3 @@
+- pkg:nuget/Jesto.Quartz.Spi.MongoDbJobStore@1.0.0
+- pkg:nuget/Jesto.Quartz.Spi.MongoDbJobStore@1.0.1
+- pkg:nuget/Jesto.Quartz.Spi.MongoDbJobStore@1.0.2

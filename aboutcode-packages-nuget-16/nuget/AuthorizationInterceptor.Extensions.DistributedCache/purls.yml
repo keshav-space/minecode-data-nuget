@@ -1,0 +1,6 @@
+- pkg:nuget/AuthorizationInterceptor.Extensions.DistributedCache@1.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.DistributedCache@4.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.DistributedCache@5.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.DistributedCache@5.0.0-beta
+- pkg:nuget/AuthorizationInterceptor.Extensions.DistributedCache@5.0.0-preview-1
+- pkg:nuget/AuthorizationInterceptor.Extensions.DistributedCache@5.0.1

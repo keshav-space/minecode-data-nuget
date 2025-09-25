@@ -1,0 +1,6 @@
+- pkg:nuget/Nlog.DocumentDBTarget@1.0.0
+- pkg:nuget/Nlog.DocumentDBTarget@1.0.0-ci-20160528-133639
+- pkg:nuget/Nlog.DocumentDBTarget@1.0.0-ci-20160528-134220
+- pkg:nuget/Nlog.DocumentDBTarget@1.1.0
+- pkg:nuget/Nlog.DocumentDBTarget@1.2.0
+- pkg:nuget/Nlog.DocumentDBTarget@2.0.0

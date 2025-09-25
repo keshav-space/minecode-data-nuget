@@ -1,0 +1,5 @@
+- pkg:nuget/Appveyor.TestLogger@1.0.1-post-rtm
+- pkg:nuget/Appveyor.TestLogger@1.0.2-pre-rtm
+- pkg:nuget/Appveyor.TestLogger@1.0.3-pre-rtm
+- pkg:nuget/Appveyor.TestLogger@1.1.0-post-rtm
+- pkg:nuget/Appveyor.TestLogger@2.0.0

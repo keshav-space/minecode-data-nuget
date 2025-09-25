@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@0.22.230905.3-preview%2B645f5a1
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@0.23.230906.2-preview%2B16d3004
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@0.24.230911.2-preview%2Baf7fe72
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@0.24.230912.2-preview%2Ba5eb820
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@0.24.230918.1-preview%2B8ea8573
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@1.0.0-beta1
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@1.0.0-beta2
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@1.0.0-beta3
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@1.0.0-beta4
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@1.0.0-beta5
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@1.0.0-beta6
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@1.0.0-beta7
+- pkg:nuget/Microsoft.SemanticKernel.Reliability.Polly@1.0.0-beta8

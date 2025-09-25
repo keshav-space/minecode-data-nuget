@@ -1,0 +1,4 @@
+- pkg:nuget/pcre@8.32.0
+- pkg:nuget/pcre@8.32.0.1
+- pkg:nuget/pcre@8.32.0.7
+- pkg:nuget/pcre@8.33.0.1
