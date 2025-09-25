@@ -1,0 +1,5 @@
+- pkg:nuget/Castle.Windsor.Extensions.DependencyInjection@5.1.0
+- pkg:nuget/Castle.Windsor.Extensions.DependencyInjection@5.1.0-beta001
+- pkg:nuget/Castle.Windsor.Extensions.DependencyInjection@5.1.1
+- pkg:nuget/Castle.Windsor.Extensions.DependencyInjection@5.1.2
+- pkg:nuget/Castle.Windsor.Extensions.DependencyInjection@6.0.0

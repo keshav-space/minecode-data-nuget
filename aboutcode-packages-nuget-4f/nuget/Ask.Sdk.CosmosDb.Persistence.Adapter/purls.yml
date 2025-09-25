@@ -1,0 +1,5 @@
+- pkg:nuget/Ask.Sdk.CosmosDb.Persistence.Adapter@0.0.1
+- pkg:nuget/Ask.Sdk.CosmosDb.Persistence.Adapter@1.0.0
+- pkg:nuget/Ask.Sdk.CosmosDb.Persistence.Adapter@2.0.0
+- pkg:nuget/Ask.Sdk.CosmosDb.Persistence.Adapter@3.0.0
+- pkg:nuget/Ask.Sdk.CosmosDb.Persistence.Adapter@3.0.1

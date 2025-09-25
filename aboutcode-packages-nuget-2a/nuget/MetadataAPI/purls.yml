@@ -1,0 +1,5 @@
+- pkg:nuget/MetadataAPI@1.4.7
+- pkg:nuget/MetadataAPI@1.5.0
+- pkg:nuget/MetadataAPI@2.0.0
+- pkg:nuget/MetadataAPI@2.0.0-beta1
+- pkg:nuget/MetadataAPI@2.0.1

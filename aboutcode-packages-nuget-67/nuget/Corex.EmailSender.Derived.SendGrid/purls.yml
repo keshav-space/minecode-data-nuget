@@ -1,0 +1,2 @@
+- pkg:nuget/Corex.EmailSender.Derived.SendGrid@1.0.0
+- pkg:nuget/Corex.EmailSender.Derived.SendGrid@1.0.1

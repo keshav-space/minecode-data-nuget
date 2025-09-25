@@ -1,0 +1,5 @@
+- pkg:nuget/Serilog.Sinks.OpenObserve@1.0.0
+- pkg:nuget/Serilog.Sinks.OpenObserve@1.0.1
+- pkg:nuget/Serilog.Sinks.OpenObserve@1.0.2
+- pkg:nuget/Serilog.Sinks.OpenObserve@1.0.3
+- pkg:nuget/Serilog.Sinks.OpenObserve@2.0.0

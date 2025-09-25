@@ -1,0 +1,5 @@
+- pkg:nuget/ZettaVision.CloudCore.Infrastructure.AzureRedisCache.Standard@1.0.0
+- pkg:nuget/ZettaVision.CloudCore.Infrastructure.AzureRedisCache.Standard@1.0.1
+- pkg:nuget/ZettaVision.CloudCore.Infrastructure.AzureRedisCache.Standard@1.0.2
+- pkg:nuget/ZettaVision.CloudCore.Infrastructure.AzureRedisCache.Standard@1.0.3
+- pkg:nuget/ZettaVision.CloudCore.Infrastructure.AzureRedisCache.Standard@1.0.4

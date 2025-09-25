@@ -1,0 +1,2 @@
+- pkg:nuget/EFCore.ChangeTriggers.SqlServer@1.0.0
+- pkg:nuget/EFCore.ChangeTriggers.SqlServer@2.0.0

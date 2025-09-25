@@ -1,0 +1,4 @@
+- pkg:nuget/TenTime.RabbitMq.Client@1.0.0
+- pkg:nuget/TenTime.RabbitMq.Client@2.0.0
+- pkg:nuget/TenTime.RabbitMq.Client@3.0.0
+- pkg:nuget/TenTime.RabbitMq.Client@4.0.0

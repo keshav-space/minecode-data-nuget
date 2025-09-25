@@ -1,0 +1,14 @@
+- pkg:nuget/CI.TestingTools@0.0.1
+- pkg:nuget/CI.TestingTools@0.0.10
+- pkg:nuget/CI.TestingTools@0.0.11
+- pkg:nuget/CI.TestingTools@0.0.12
+- pkg:nuget/CI.TestingTools@0.0.13
+- pkg:nuget/CI.TestingTools@0.0.14
+- pkg:nuget/CI.TestingTools@0.0.15
+- pkg:nuget/CI.TestingTools@0.0.2
+- pkg:nuget/CI.TestingTools@0.0.3
+- pkg:nuget/CI.TestingTools@0.0.4
+- pkg:nuget/CI.TestingTools@0.0.5
+- pkg:nuget/CI.TestingTools@0.0.8
+- pkg:nuget/CI.TestingTools@0.0.9
+- pkg:nuget/CI.TestingTools@99999.0.0

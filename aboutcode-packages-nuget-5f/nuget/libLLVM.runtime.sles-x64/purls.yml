@@ -1,0 +1,3 @@
+- pkg:nuget/libLLVM.runtime.sles-x64@10.0.0
+- pkg:nuget/libLLVM.runtime.sles-x64@8.0.0
+- pkg:nuget/libLLVM.runtime.sles-x64@9.0.0

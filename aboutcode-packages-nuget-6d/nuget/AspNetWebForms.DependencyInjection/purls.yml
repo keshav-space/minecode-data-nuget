@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetWebForms.DependencyInjection@1.0.7
+- pkg:nuget/AspNetWebForms.DependencyInjection@1.0.8
