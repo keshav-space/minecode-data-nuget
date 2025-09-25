@@ -1,0 +1,10 @@
+- pkg:nuget/AVS.CoreLib.REST@1.0.0
+- pkg:nuget/AVS.CoreLib.REST@1.0.1
+- pkg:nuget/AVS.CoreLib.REST@1.0.2
+- pkg:nuget/AVS.CoreLib.REST@1.0.3
+- pkg:nuget/AVS.CoreLib.REST@1.0.4
+- pkg:nuget/AVS.CoreLib.REST@2.1.0
+- pkg:nuget/AVS.CoreLib.REST@2.1.1
+- pkg:nuget/AVS.CoreLib.REST@6.0.0-rc
+- pkg:nuget/AVS.CoreLib.REST@7.0.0
+- pkg:nuget/AVS.CoreLib.REST@9.0.0

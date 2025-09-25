@@ -1,0 +1,17 @@
+- pkg:nuget/SharpPulsar.Trino@2.10.0-rc1191
+- pkg:nuget/SharpPulsar.Trino@2.10.0-rc1193
+- pkg:nuget/SharpPulsar.Trino@2.11.0
+- pkg:nuget/SharpPulsar.Trino@2.11.0-rc0097
+- pkg:nuget/SharpPulsar.Trino@2.11.0-rc0105
+- pkg:nuget/SharpPulsar.Trino@2.11.0-rc0107
+- pkg:nuget/SharpPulsar.Trino@2.11.0-rc0112
+- pkg:nuget/SharpPulsar.Trino@2.11.0-rc0117
+- pkg:nuget/SharpPulsar.Trino@2.11.1
+- pkg:nuget/SharpPulsar.Trino@2.11.2
+- pkg:nuget/SharpPulsar.Trino@2.12.0
+- pkg:nuget/SharpPulsar.Trino@2.12.1
+- pkg:nuget/SharpPulsar.Trino@2.13.0
+- pkg:nuget/SharpPulsar.Trino@2.14.0
+- pkg:nuget/SharpPulsar.Trino@2.14.1
+- pkg:nuget/SharpPulsar.Trino@2.15.0
+- pkg:nuget/SharpPulsar.Trino@2.15.1

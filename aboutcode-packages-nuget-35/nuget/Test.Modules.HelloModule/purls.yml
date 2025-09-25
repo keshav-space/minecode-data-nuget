@@ -1,0 +1,5 @@
+- pkg:nuget/Test.Modules.HelloModule@1.0.0
+- pkg:nuget/Test.Modules.HelloModule@1.0.1
+- pkg:nuget/Test.Modules.HelloModule@1.0.2
+- pkg:nuget/Test.Modules.HelloModule@1.0.3
+- pkg:nuget/Test.Modules.HelloModule@1.0.4

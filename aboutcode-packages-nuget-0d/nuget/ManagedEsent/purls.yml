@@ -1,0 +1,17 @@
+- pkg:nuget/ManagedEsent@1.0.0
+- pkg:nuget/ManagedEsent@1.6.0
+- pkg:nuget/ManagedEsent@1.8.1
+- pkg:nuget/ManagedEsent@1.8.2
+- pkg:nuget/ManagedEsent@1.8.3
+- pkg:nuget/ManagedEsent@1.8.3.1
+- pkg:nuget/ManagedEsent@1.8.3.2
+- pkg:nuget/ManagedEsent@1.9.0
+- pkg:nuget/ManagedEsent@1.9.0.1
+- pkg:nuget/ManagedEsent@1.9.1
+- pkg:nuget/ManagedEsent@1.9.2
+- pkg:nuget/ManagedEsent@1.9.3
+- pkg:nuget/ManagedEsent@1.9.3.1
+- pkg:nuget/ManagedEsent@1.9.3.2
+- pkg:nuget/ManagedEsent@1.9.3.3
+- pkg:nuget/ManagedEsent@1.9.4
+- pkg:nuget/ManagedEsent@2.0.0

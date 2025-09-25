@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsApps@0.14.3-build00177
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsApps@0.15.0-build00179
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsApps@0.16.0-build00183
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsApps@0.16.1-build00418
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsApps@0.17.0
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsApps@1.0.0
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsApps@1.1.0
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsApps@1.1.1

@@ -1,0 +1,10 @@
+- pkg:nuget/Arcaim.CQRS.Queries@1.0.0
+- pkg:nuget/Arcaim.CQRS.Queries@1.0.1
+- pkg:nuget/Arcaim.CQRS.Queries@1.2.0
+- pkg:nuget/Arcaim.CQRS.Queries@1.3.0
+- pkg:nuget/Arcaim.CQRS.Queries@6.0.0
+- pkg:nuget/Arcaim.CQRS.Queries@6.0.1
+- pkg:nuget/Arcaim.CQRS.Queries@6.0.2
+- pkg:nuget/Arcaim.CQRS.Queries@7.0.0-preview7
+- pkg:nuget/Arcaim.CQRS.Queries@7.0.8
+- pkg:nuget/Arcaim.CQRS.Queries@8.0.0

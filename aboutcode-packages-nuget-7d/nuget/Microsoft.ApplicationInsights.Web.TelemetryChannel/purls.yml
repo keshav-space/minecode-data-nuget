@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.ApplicationInsights.Web.TelemetryChannel@0.17.0
+- pkg:nuget/Microsoft.ApplicationInsights.Web.TelemetryChannel@1.0.0
+- pkg:nuget/Microsoft.ApplicationInsights.Web.TelemetryChannel@1.1.0

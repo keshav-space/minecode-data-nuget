@@ -1,0 +1,14 @@
+- pkg:nuget/NStandard.Analyzer@0.0.1
+- pkg:nuget/NStandard.Analyzer@0.0.1-alpha
+- pkg:nuget/NStandard.Analyzer@0.0.1-beta
+- pkg:nuget/NStandard.Analyzer@0.0.1-beta2
+- pkg:nuget/NStandard.Analyzer@0.0.1-beta3
+- pkg:nuget/NStandard.Analyzer@0.0.2
+- pkg:nuget/NStandard.Analyzer@0.100.0
+- pkg:nuget/NStandard.Analyzer@0.100.1
+- pkg:nuget/NStandard.Analyzer@0.100.2
+- pkg:nuget/NStandard.Analyzer@0.100.2.1
+- pkg:nuget/NStandard.Analyzer@0.100.2.2
+- pkg:nuget/NStandard.Analyzer@0.100.2.3
+- pkg:nuget/NStandard.Analyzer@0.100.3.1
+- pkg:nuget/NStandard.Analyzer@0.90.0

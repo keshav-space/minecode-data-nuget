@@ -1,0 +1,15 @@
+- pkg:nuget/IgniteUI.Blazor@20.1.15-trial
+- pkg:nuget/IgniteUI.Blazor@20.1.16-trial
+- pkg:nuget/IgniteUI.Blazor@20.2.38
+- pkg:nuget/IgniteUI.Blazor@21.1.37-beta
+- pkg:nuget/IgniteUI.Blazor@21.1.52
+- pkg:nuget/IgniteUI.Blazor@21.2.0-alpha
+- pkg:nuget/IgniteUI.Blazor@21.2.1
+- pkg:nuget/IgniteUI.Blazor@21.2.1-alpha
+- pkg:nuget/IgniteUI.Blazor@21.2.52
+- pkg:nuget/IgniteUI.Blazor@21.2.73
+- pkg:nuget/IgniteUI.Blazor@22.1.41
+- pkg:nuget/IgniteUI.Blazor@22.1.76
+- pkg:nuget/IgniteUI.Blazor@22.2.20
+- pkg:nuget/IgniteUI.Blazor@22.2.21
+- pkg:nuget/IgniteUI.Blazor@22.2.24

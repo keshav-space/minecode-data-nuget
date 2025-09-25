@@ -1,0 +1,5 @@
+- pkg:nuget/SqlStreamStore.FSharp.Postgres@0.1.0-beta
+- pkg:nuget/SqlStreamStore.FSharp.Postgres@0.4.5-beta
+- pkg:nuget/SqlStreamStore.FSharp.Postgres@0.4.6-beta
+- pkg:nuget/SqlStreamStore.FSharp.Postgres@1.0.0-beta
+- pkg:nuget/SqlStreamStore.FSharp.Postgres@1.0.0-beta.2

@@ -1,0 +1,7 @@
+- pkg:nuget/AVS.CoreLib.WebSockets@1.0.0
+- pkg:nuget/AVS.CoreLib.WebSockets@1.0.1
+- pkg:nuget/AVS.CoreLib.WebSockets@2.1.0
+- pkg:nuget/AVS.CoreLib.WebSockets@2.1.1
+- pkg:nuget/AVS.CoreLib.WebSockets@6.0.0-rc
+- pkg:nuget/AVS.CoreLib.WebSockets@7.0.0
+- pkg:nuget/AVS.CoreLib.WebSockets@9.0.0

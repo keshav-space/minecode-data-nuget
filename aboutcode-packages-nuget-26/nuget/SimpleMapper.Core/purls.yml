@@ -1,0 +1,5 @@
+- pkg:nuget/SimpleMapper.Core@1.0.0-CI00001
+- pkg:nuget/SimpleMapper.Core@1.0.0-CI00002
+- pkg:nuget/SimpleMapper.Core@1.0.0.3
+- pkg:nuget/SimpleMapper.Core@1.1.0
+- pkg:nuget/SimpleMapper.Core@1.1.1

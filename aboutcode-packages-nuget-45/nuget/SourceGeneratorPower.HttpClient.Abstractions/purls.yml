@@ -1,0 +1,4 @@
+- pkg:nuget/SourceGeneratorPower.HttpClient.Abstractions@1.0.0
+- pkg:nuget/SourceGeneratorPower.HttpClient.Abstractions@1.1.0
+- pkg:nuget/SourceGeneratorPower.HttpClient.Abstractions@1.1.1
+- pkg:nuget/SourceGeneratorPower.HttpClient.Abstractions@1.1.3

@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.ApplicationInsights.Agent_x64@0.14.0-build08002
+- pkg:nuget/Microsoft.ApplicationInsights.Agent_x64@0.17.0
+- pkg:nuget/Microsoft.ApplicationInsights.Agent_x64@2.0.0
+- pkg:nuget/Microsoft.ApplicationInsights.Agent_x64@2.0.5
+- pkg:nuget/Microsoft.ApplicationInsights.Agent_x64@2.0.6
+- pkg:nuget/Microsoft.ApplicationInsights.Agent_x64@2.2.1

@@ -1,0 +1,15 @@
+- pkg:nuget/CodeCapital.WordPress.Mvc@3.1.1
+- pkg:nuget/CodeCapital.WordPress.Mvc@3.1.12
+- pkg:nuget/CodeCapital.WordPress.Mvc@3.1.2
+- pkg:nuget/CodeCapital.WordPress.Mvc@3.1.3
+- pkg:nuget/CodeCapital.WordPress.Mvc@3.1.4
+- pkg:nuget/CodeCapital.WordPress.Mvc@3.1.6
+- pkg:nuget/CodeCapital.WordPress.Mvc@5.0.0
+- pkg:nuget/CodeCapital.WordPress.Mvc@5.0.4
+- pkg:nuget/CodeCapital.WordPress.Mvc@6.0.0
+- pkg:nuget/CodeCapital.WordPress.Mvc@6.0.0-preview.6
+- pkg:nuget/CodeCapital.WordPress.Mvc@6.0.3
+- pkg:nuget/CodeCapital.WordPress.Mvc@6.0.8
+- pkg:nuget/CodeCapital.WordPress.Mvc@7.0.0
+- pkg:nuget/CodeCapital.WordPress.Mvc@8.0.0
+- pkg:nuget/CodeCapital.WordPress.Mvc@9.0.0

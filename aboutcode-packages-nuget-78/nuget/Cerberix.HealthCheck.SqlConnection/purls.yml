@@ -1,0 +1,5 @@
+- pkg:nuget/Cerberix.HealthCheck.SqlConnection@1.0.0
+- pkg:nuget/Cerberix.HealthCheck.SqlConnection@1.0.0-pre00
+- pkg:nuget/Cerberix.HealthCheck.SqlConnection@1.0.0-pre01
+- pkg:nuget/Cerberix.HealthCheck.SqlConnection@1.0.0-pre02
+- pkg:nuget/Cerberix.HealthCheck.SqlConnection@1.1.0

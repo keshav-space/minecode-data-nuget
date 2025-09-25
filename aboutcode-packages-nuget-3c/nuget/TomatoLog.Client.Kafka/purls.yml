@@ -1,0 +1,4 @@
+- pkg:nuget/TomatoLog.Client.Kafka@1.0.3
+- pkg:nuget/TomatoLog.Client.Kafka@1.1.0
+- pkg:nuget/TomatoLog.Client.Kafka@1.2.0
+- pkg:nuget/TomatoLog.Client.Kafka@2.0.0

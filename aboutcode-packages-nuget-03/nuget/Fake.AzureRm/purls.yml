@@ -1,0 +1,7 @@
+- pkg:nuget/Fake.AzureRm@1.0.0
+- pkg:nuget/Fake.AzureRm@1.0.1
+- pkg:nuget/Fake.AzureRm@1.0.23
+- pkg:nuget/Fake.AzureRm@1.0.24
+- pkg:nuget/Fake.AzureRm@1.0.25
+- pkg:nuget/Fake.AzureRm@1.0.26
+- pkg:nuget/Fake.AzureRm@1.0.27

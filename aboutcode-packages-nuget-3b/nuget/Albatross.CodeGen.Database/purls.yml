@@ -1,0 +1,3 @@
+- pkg:nuget/Albatross.CodeGen.Database@1.0.0-alpha
+- pkg:nuget/Albatross.CodeGen.Database@1.1.0
+- pkg:nuget/Albatross.CodeGen.Database@1.1.2

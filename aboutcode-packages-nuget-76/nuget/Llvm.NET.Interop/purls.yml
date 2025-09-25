@@ -1,0 +1,6 @@
+- pkg:nuget/Llvm.NET.Interop@8.0.0
+- pkg:nuget/Llvm.NET.Interop@8.0.0-delta
+- pkg:nuget/Llvm.NET.Interop@8.0.0-rc
+- pkg:nuget/Llvm.NET.Interop@8.0.0-rc.1
+- pkg:nuget/Llvm.NET.Interop@8.0.1
+- pkg:nuget/Llvm.NET.Interop@8.0.1--ci-PRQ.483099375

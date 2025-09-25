@@ -1,0 +1,3 @@
+- pkg:nuget/RingBuffer@1.4.0
+- pkg:nuget/RingBuffer@1.5.0
+- pkg:nuget/RingBuffer@1.5.1

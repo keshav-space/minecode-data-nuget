@@ -1,0 +1,16 @@
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.0
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.0-definition-blob-storage.7
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.0-preview.86
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.1
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.3
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.4
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.7
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.8
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.2.9
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.3.0
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.3.0-PullRequest0453.4
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.3.0-PullRequest0453.5
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.4.0
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.4.1
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.4.2
+- pkg:nuget/Marain.Workflow.Tenancy.AzureStorage@0.4.3

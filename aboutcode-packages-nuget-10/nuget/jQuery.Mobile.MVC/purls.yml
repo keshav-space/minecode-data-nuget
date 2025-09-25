@@ -1,0 +1,5 @@
+- pkg:nuget/jQuery.Mobile.MVC@0.0.2
+- pkg:nuget/jQuery.Mobile.MVC@1.0.0
+- pkg:nuget/jQuery.Mobile.MVC@1.0.0-alpha
+- pkg:nuget/jQuery.Mobile.MVC@1.0.0-beta
+- pkg:nuget/jQuery.Mobile.MVC@1.0.0-rc

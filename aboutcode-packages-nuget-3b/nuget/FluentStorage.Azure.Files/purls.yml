@@ -1,0 +1,4 @@
+- pkg:nuget/FluentStorage.Azure.Files@5.0.0
+- pkg:nuget/FluentStorage.Azure.Files@5.2.0
+- pkg:nuget/FluentStorage.Azure.Files@5.2.1
+- pkg:nuget/FluentStorage.Azure.Files@5.2.2

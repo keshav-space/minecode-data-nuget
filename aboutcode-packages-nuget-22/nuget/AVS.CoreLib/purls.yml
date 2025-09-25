@@ -1,0 +1,8 @@
+- pkg:nuget/AVS.CoreLib@1.0.0
+- pkg:nuget/AVS.CoreLib@1.0.1
+- pkg:nuget/AVS.CoreLib@1.0.2
+- pkg:nuget/AVS.CoreLib@2.1.0
+- pkg:nuget/AVS.CoreLib@2.1.1
+- pkg:nuget/AVS.CoreLib@6.0.0-rc
+- pkg:nuget/AVS.CoreLib@7.0.0
+- pkg:nuget/AVS.CoreLib@9.0.0

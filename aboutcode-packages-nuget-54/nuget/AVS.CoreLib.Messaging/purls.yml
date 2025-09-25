@@ -1,0 +1,6 @@
+- pkg:nuget/AVS.CoreLib.Messaging@1.0.0
+- pkg:nuget/AVS.CoreLib.Messaging@2.1.0
+- pkg:nuget/AVS.CoreLib.Messaging@6.0.0-rc
+- pkg:nuget/AVS.CoreLib.Messaging@7.0.0
+- pkg:nuget/AVS.CoreLib.Messaging@7.0.1
+- pkg:nuget/AVS.CoreLib.Messaging@9.0.0

@@ -1,0 +1,7 @@
+- pkg:nuget/NServiceBus.Redis@1.0.0
+- pkg:nuget/NServiceBus.Redis@1.0.1
+- pkg:nuget/NServiceBus.Redis@1.1.0
+- pkg:nuget/NServiceBus.Redis@2.0.0-GatewayDedup
+- pkg:nuget/NServiceBus.Redis@2.0.1-GatewayDedup
+- pkg:nuget/NServiceBus.Redis@2.0.2-GatewayDedup
+- pkg:nuget/NServiceBus.Redis@2.0.3-GatewayDedup

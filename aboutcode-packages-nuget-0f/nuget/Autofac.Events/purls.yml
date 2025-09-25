@@ -1,0 +1,14 @@
+- pkg:nuget/Autofac.Events@0.1.0%2B18
+- pkg:nuget/Autofac.Events@0.1.0-action-testing
+- pkg:nuget/Autofac.Events@0.1.0-alpha
+- pkg:nuget/Autofac.Events@0.1.1-alpha
+- pkg:nuget/Autofac.Events@0.1.2-alpha
+- pkg:nuget/Autofac.Events@0.1.3-alpha
+- pkg:nuget/Autofac.Events@0.1.4-alpha
+- pkg:nuget/Autofac.Events@0.2.0-beta.21
+- pkg:nuget/Autofac.Events@0.9.0
+- pkg:nuget/Autofac.Events@1.0.0-alpha
+- pkg:nuget/Autofac.Events@3.5.2
+- pkg:nuget/Autofac.Events@3.5.2.1
+- pkg:nuget/Autofac.Events@4.9.4
+- pkg:nuget/Autofac.Events@4.9.5%2B1

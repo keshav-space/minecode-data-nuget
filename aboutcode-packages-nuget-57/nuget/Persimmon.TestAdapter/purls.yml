@@ -1,0 +1,9 @@
+- pkg:nuget/Persimmon.TestAdapter@0.10.0
+- pkg:nuget/Persimmon.TestAdapter@0.11.0
+- pkg:nuget/Persimmon.TestAdapter@0.11.0-beta1
+- pkg:nuget/Persimmon.TestAdapter@0.12.0-beta1
+- pkg:nuget/Persimmon.TestAdapter@0.12.0-beta2
+- pkg:nuget/Persimmon.TestAdapter@0.12.0-beta3
+- pkg:nuget/Persimmon.TestAdapter@0.9.8
+- pkg:nuget/Persimmon.TestAdapter@0.9.8-alpha1
+- pkg:nuget/Persimmon.TestAdapter@0.9.8-alpha2

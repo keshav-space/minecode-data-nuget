@@ -1,0 +1,9 @@
+- pkg:nuget/1nception.Transport.RabbitMQ@12.0.0
+- pkg:nuget/1nception.Transport.RabbitMQ@12.0.1
+- pkg:nuget/1nception.Transport.RabbitMQ@12.0.2
+- pkg:nuget/1nception.Transport.RabbitMQ@12.0.3
+- pkg:nuget/1nception.Transport.RabbitMQ@12.1.0
+- pkg:nuget/1nception.Transport.RabbitMQ@12.1.1
+- pkg:nuget/1nception.Transport.RabbitMQ@12.1.2
+- pkg:nuget/1nception.Transport.RabbitMQ@12.1.3
+- pkg:nuget/1nception.Transport.RabbitMQ@12.1.4

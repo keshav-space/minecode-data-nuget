@@ -1,0 +1,12 @@
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@3.0.0
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@3.0.0-preview-1724277179
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@3.0.0-preview-1724277574
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@3.0.1-preview-1726205321
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@4.0.0
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@4.0.0-priview-1723973798
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@6.0.0
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@6.0.1-preview-1726206834
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@7.0.0
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@7.0.1-preview-1726207796
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@8.0.0
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.AspNetCore@8.0.1-preview-1726208425

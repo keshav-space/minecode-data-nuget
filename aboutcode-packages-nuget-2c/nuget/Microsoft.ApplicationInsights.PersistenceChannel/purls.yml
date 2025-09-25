@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@0.14.3-build00177
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@0.15.0-build00179
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@0.16.0-build00183
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@0.16.1-build00418
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@0.17.0
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@0.17.2-build00169
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@1.0.0
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@1.1.0
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@1.2.0
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@1.2.3
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@2.0.0-beta2
+- pkg:nuget/Microsoft.ApplicationInsights.PersistenceChannel@2.0.0-beta3

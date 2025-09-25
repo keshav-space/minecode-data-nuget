@@ -1,0 +1,14 @@
+- pkg:nuget/MultiTenancyServer.Stores@0.5.0
+- pkg:nuget/MultiTenancyServer.Stores@0.6.0
+- pkg:nuget/MultiTenancyServer.Stores@0.7.0
+- pkg:nuget/MultiTenancyServer.Stores@0.7.1
+- pkg:nuget/MultiTenancyServer.Stores@0.7.5
+- pkg:nuget/MultiTenancyServer.Stores@0.7.6
+- pkg:nuget/MultiTenancyServer.Stores@0.8.0
+- pkg:nuget/MultiTenancyServer.Stores@0.9.0
+- pkg:nuget/MultiTenancyServer.Stores@1.1.0
+- pkg:nuget/MultiTenancyServer.Stores@1.2.0
+- pkg:nuget/MultiTenancyServer.Stores@1.2.1
+- pkg:nuget/MultiTenancyServer.Stores@2.0.0-alpha1
+- pkg:nuget/MultiTenancyServer.Stores@2.0.0-beta1
+- pkg:nuget/MultiTenancyServer.Stores@2.0.0-beta2

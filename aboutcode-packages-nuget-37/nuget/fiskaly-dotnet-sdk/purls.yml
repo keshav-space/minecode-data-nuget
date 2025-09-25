@@ -1,0 +1,14 @@
+- pkg:nuget/fiskaly-dotnet-sdk@1.0.0
+- pkg:nuget/fiskaly-dotnet-sdk@1.0.0.1-alpha
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.0-r1
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.0-r1-alpha
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.100
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.200
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.300
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.301
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.400
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.500
+- pkg:nuget/fiskaly-dotnet-sdk@1.1.600
+- pkg:nuget/fiskaly-dotnet-sdk@1.2.0
+- pkg:nuget/fiskaly-dotnet-sdk@1.2.100
+- pkg:nuget/fiskaly-dotnet-sdk@1.2.200

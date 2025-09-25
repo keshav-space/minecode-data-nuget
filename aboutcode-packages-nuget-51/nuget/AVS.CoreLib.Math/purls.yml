@@ -1,0 +1,4 @@
+- pkg:nuget/AVS.CoreLib.Math@2.1.0
+- pkg:nuget/AVS.CoreLib.Math@6.0.0-rc
+- pkg:nuget/AVS.CoreLib.Math@7.0.0
+- pkg:nuget/AVS.CoreLib.Math@9.0.0

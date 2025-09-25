@@ -1,0 +1,4 @@
+- pkg:nuget/CSharpAmazonSpAPI.AspNetCore@1.7.20
+- pkg:nuget/CSharpAmazonSpAPI.AspNetCore@1.7.21
+- pkg:nuget/CSharpAmazonSpAPI.AspNetCore@1.7.22
+- pkg:nuget/CSharpAmazonSpAPI.AspNetCore@1.7.23

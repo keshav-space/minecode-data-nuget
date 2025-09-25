@@ -1,0 +1,5 @@
+- pkg:nuget/Falcon.Service.QuorumTransactionSigner.Client@1.0.0
+- pkg:nuget/Falcon.Service.QuorumTransactionSigner.Client@1.0.0-beta.1
+- pkg:nuget/Falcon.Service.QuorumTransactionSigner.Client@1.0.0-beta.2
+- pkg:nuget/Falcon.Service.QuorumTransactionSigner.Client@1.1.0
+- pkg:nuget/Falcon.Service.QuorumTransactionSigner.Client@1.2.0

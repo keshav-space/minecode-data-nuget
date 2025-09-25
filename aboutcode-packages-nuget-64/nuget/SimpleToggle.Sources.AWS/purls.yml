@@ -1,0 +1,4 @@
+- pkg:nuget/SimpleToggle.Sources.AWS@0.4.5-alpha
+- pkg:nuget/SimpleToggle.Sources.AWS@0.4.6-alpha
+- pkg:nuget/SimpleToggle.Sources.AWS@1.0.1-g2f75ebaeb5
+- pkg:nuget/SimpleToggle.Sources.AWS@1.0.2

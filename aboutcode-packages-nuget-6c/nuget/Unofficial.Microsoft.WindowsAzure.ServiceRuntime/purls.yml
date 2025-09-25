@@ -1,0 +1,9 @@
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@1.8.0
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@2.2.0
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@2.3.0
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@2.4.0
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@2.5.0
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@2.6.0
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@2.7.0
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@2.8.0
+- pkg:nuget/Unofficial.Microsoft.WindowsAzure.ServiceRuntime@2.9.0

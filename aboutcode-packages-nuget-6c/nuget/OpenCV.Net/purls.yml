@@ -1,0 +1,16 @@
+- pkg:nuget/OpenCV.Net@3.0.0
+- pkg:nuget/OpenCV.Net@3.0.0-alpha
+- pkg:nuget/OpenCV.Net@3.0.0-alpha2
+- pkg:nuget/OpenCV.Net@3.1.0
+- pkg:nuget/OpenCV.Net@3.2.0
+- pkg:nuget/OpenCV.Net@3.2.1
+- pkg:nuget/OpenCV.Net@3.2.2
+- pkg:nuget/OpenCV.Net@3.3.0
+- pkg:nuget/OpenCV.Net@3.3.1
+- pkg:nuget/OpenCV.Net@3.4.0
+- pkg:nuget/OpenCV.Net@3.4.0-build001
+- pkg:nuget/OpenCV.Net@3.4.0-preview
+- pkg:nuget/OpenCV.Net@3.4.0-preview2
+- pkg:nuget/OpenCV.Net@3.4.0-preview3
+- pkg:nuget/OpenCV.Net@3.4.1
+- pkg:nuget/OpenCV.Net@3.4.2

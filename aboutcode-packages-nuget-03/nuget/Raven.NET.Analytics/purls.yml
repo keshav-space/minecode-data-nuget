@@ -1,0 +1,5 @@
+- pkg:nuget/Raven.NET.Analytics@0.8.91-rc
+- pkg:nuget/Raven.NET.Analytics@0.8.95-rc
+- pkg:nuget/Raven.NET.Analytics@0.87.0
+- pkg:nuget/Raven.NET.Analytics@0.87.100-rc
+- pkg:nuget/Raven.NET.Analytics@0.87.101-rc

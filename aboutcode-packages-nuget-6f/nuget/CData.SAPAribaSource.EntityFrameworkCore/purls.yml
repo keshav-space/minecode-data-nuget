@@ -1,0 +1,5 @@
+- pkg:nuget/CData.SAPAribaSource.EntityFrameworkCore@24.0.8963
+- pkg:nuget/CData.SAPAribaSource.EntityFrameworkCore@24.0.8973
+- pkg:nuget/CData.SAPAribaSource.EntityFrameworkCore@24.0.9060
+- pkg:nuget/CData.SAPAribaSource.EntityFrameworkCore@24.0.9111
+- pkg:nuget/CData.SAPAribaSource.EntityFrameworkCore@24.0.9175

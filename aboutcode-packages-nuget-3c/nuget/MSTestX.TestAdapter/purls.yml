@@ -1,0 +1,9 @@
+- pkg:nuget/MSTestX.TestAdapter@1.3.2
+- pkg:nuget/MSTestX.TestAdapter@1.4.0
+- pkg:nuget/MSTestX.TestAdapter@2.1.0
+- pkg:nuget/MSTestX.TestAdapter@2.1.2
+- pkg:nuget/MSTestX.TestAdapter@2.2.10
+- pkg:nuget/MSTestX.TestAdapter@2.2.10.1
+- pkg:nuget/MSTestX.TestAdapter@2.2.10.2
+- pkg:nuget/MSTestX.TestAdapter@2.2.4
+- pkg:nuget/MSTestX.TestAdapter@2.2.9

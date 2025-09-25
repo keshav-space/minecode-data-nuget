@@ -1,0 +1,5 @@
+- pkg:nuget/Owin.Security.GooglePlus@0.1.0-alpha
+- pkg:nuget/Owin.Security.GooglePlus@1.0.0
+- pkg:nuget/Owin.Security.GooglePlus@1.0.1
+- pkg:nuget/Owin.Security.GooglePlus@1.0.1-alpha
+- pkg:nuget/Owin.Security.GooglePlus@1.0.1-alpha1

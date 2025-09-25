@@ -1,0 +1,15 @@
+- pkg:nuget/Qdrant.Client@0.1.0
+- pkg:nuget/Qdrant.Client@1.10.0
+- pkg:nuget/Qdrant.Client@1.11.0
+- pkg:nuget/Qdrant.Client@1.12.0
+- pkg:nuget/Qdrant.Client@1.12.1-alpha.0.6
+- pkg:nuget/Qdrant.Client@1.13.0
+- pkg:nuget/Qdrant.Client@1.14.0
+- pkg:nuget/Qdrant.Client@1.14.1
+- pkg:nuget/Qdrant.Client@1.14.2-alpha.0.1
+- pkg:nuget/Qdrant.Client@1.15.0
+- pkg:nuget/Qdrant.Client@1.15.1
+- pkg:nuget/Qdrant.Client@1.6.0-alpha.1
+- pkg:nuget/Qdrant.Client@1.7.0
+- pkg:nuget/Qdrant.Client@1.8.0
+- pkg:nuget/Qdrant.Client@1.9.0

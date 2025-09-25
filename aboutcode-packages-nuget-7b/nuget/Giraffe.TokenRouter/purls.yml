@@ -1,0 +1,5 @@
+- pkg:nuget/Giraffe.TokenRouter@0.1.0-beta-100
+- pkg:nuget/Giraffe.TokenRouter@0.1.0-beta-110
+- pkg:nuget/Giraffe.TokenRouter@1.0.0
+- pkg:nuget/Giraffe.TokenRouter@2.0.0
+- pkg:nuget/Giraffe.TokenRouter@3.0.0-alpha-1

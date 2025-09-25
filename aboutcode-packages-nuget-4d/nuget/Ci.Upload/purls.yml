@@ -1,0 +1,5 @@
+- pkg:nuget/Ci.Upload@2.3.0
+- pkg:nuget/Ci.Upload@2.4.0-beta
+- pkg:nuget/Ci.Upload@2.4.1
+- pkg:nuget/Ci.Upload@3.0.0
+- pkg:nuget/Ci.Upload@3.0.1

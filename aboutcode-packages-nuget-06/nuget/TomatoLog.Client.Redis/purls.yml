@@ -1,0 +1,5 @@
+- pkg:nuget/TomatoLog.Client.Redis@1.0.2
+- pkg:nuget/TomatoLog.Client.Redis@1.0.3
+- pkg:nuget/TomatoLog.Client.Redis@1.1.0
+- pkg:nuget/TomatoLog.Client.Redis@1.2.0
+- pkg:nuget/TomatoLog.Client.Redis@2.0.0

@@ -1,0 +1,17 @@
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201052-preview1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201053-preview1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201055-preview1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201057-preview1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201058-preview1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201081-preview1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201082-preview1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201084-preview1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@1.0.201192
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@3.0.223071
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@6.0.2
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@6.0.3
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@6.0.5
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@6.0.6
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@6.0.7
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@7.0.1
+- pkg:nuget/CodeCube.DataAccess.EntityFrameworkCore.PostgreSQL@9.0.3

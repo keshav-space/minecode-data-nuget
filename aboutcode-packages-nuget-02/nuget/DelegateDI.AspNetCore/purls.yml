@@ -1,0 +1,3 @@
+- pkg:nuget/DelegateDI.AspNetCore@0.1.0
+- pkg:nuget/DelegateDI.AspNetCore@0.1.1
+- pkg:nuget/DelegateDI.AspNetCore@1.0.0

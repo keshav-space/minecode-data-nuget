@@ -1,0 +1,7 @@
+- pkg:nuget/CacheCow.Client.AzureCachingCacheStore@0.5.2
+- pkg:nuget/CacheCow.Client.AzureCachingCacheStore@0.5.7
+- pkg:nuget/CacheCow.Client.AzureCachingCacheStore@0.5.8
+- pkg:nuget/CacheCow.Client.AzureCachingCacheStore@0.5.9
+- pkg:nuget/CacheCow.Client.AzureCachingCacheStore@0.6.0
+- pkg:nuget/CacheCow.Client.AzureCachingCacheStore@0.6.6
+- pkg:nuget/CacheCow.Client.AzureCachingCacheStore@1.0.0

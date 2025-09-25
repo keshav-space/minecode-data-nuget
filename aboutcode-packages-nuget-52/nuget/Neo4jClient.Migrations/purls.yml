@@ -1,0 +1,4 @@
+- pkg:nuget/Neo4jClient.Migrations@1.0.0
+- pkg:nuget/Neo4jClient.Migrations@1.0.1
+- pkg:nuget/Neo4jClient.Migrations@1.0.2
+- pkg:nuget/Neo4jClient.Migrations@1.0.3

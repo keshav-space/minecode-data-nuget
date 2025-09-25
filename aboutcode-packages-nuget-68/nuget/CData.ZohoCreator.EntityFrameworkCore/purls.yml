@@ -1,0 +1,13 @@
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@22.0.8327
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@22.0.8389
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@22.0.8462
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@23.0.8565
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@23.0.8669
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@23.0.8750
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@23.0.8771
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@23.0.8839
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@24.0.8963
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@24.0.8973
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@24.0.9060
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@24.0.9111
+- pkg:nuget/CData.ZohoCreator.EntityFrameworkCore@24.0.9175

@@ -1,0 +1,11 @@
+- pkg:nuget/LtiLibrary.Core@1.5.0
+- pkg:nuget/LtiLibrary.Core@1.5.0-alpha
+- pkg:nuget/LtiLibrary.Core@1.5.0-beta
+- pkg:nuget/LtiLibrary.Core@1.5.1
+- pkg:nuget/LtiLibrary.Core@1.5.2
+- pkg:nuget/LtiLibrary.Core@1.5.3
+- pkg:nuget/LtiLibrary.Core@1.5.4
+- pkg:nuget/LtiLibrary.Core@1.6.0
+- pkg:nuget/LtiLibrary.Core@1.6.1
+- pkg:nuget/LtiLibrary.Core@1.6.2
+- pkg:nuget/LtiLibrary.Core@2.0.0-beta

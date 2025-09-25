@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Maui.Templates@6.0.100-preview.5.753%2Bsha.f1de30513-azdo.4862597
+- pkg:nuget/Microsoft.Maui.Templates@6.0.100-preview.5.760%2Bsha.37f0b2829-azdo.4864672
+- pkg:nuget/Microsoft.Maui.Templates@6.0.100-preview.5.794%2Bsha.5ee505113-azdo.4873803
+- pkg:nuget/Microsoft.Maui.Templates@6.0.100-preview.6.1003%2Bsha.5c159aabf-azdo.4977641
+- pkg:nuget/Microsoft.Maui.Templates@6.0.100-preview.7.1345%2Bsha.8665ea184-azdo.5075445
+- pkg:nuget/Microsoft.Maui.Templates@6.0.100-rc.1.1608%2Bsha.f842b0ec4-azdo.5169954
+- pkg:nuget/Microsoft.Maui.Templates@6.0.101-preview.10.2068%2Bsha.d047f96b3-azdo.5388380
+- pkg:nuget/Microsoft.Maui.Templates@6.0.101-preview.11.2349%2Bsha.07d9fb8f3-azdo.5525666
+- pkg:nuget/Microsoft.Maui.Templates@6.0.101-preview.9.1843%2Bsha.cdb68cd7a-azdo.5293347
+- pkg:nuget/Microsoft.Maui.Templates@6.0.200-preview.12.2441%2Bsha.41980c32e-azdo.5603739
+- pkg:nuget/Microsoft.Maui.Templates@6.0.200-preview.13.2865%2Bsha.085d325b1-azdo.5731438
+- pkg:nuget/Microsoft.Maui.Templates@6.0.200-preview.14.5099%2Bsha.03a0eb8e6-azdo.5845410
+- pkg:nuget/Microsoft.Maui.Templates@6.0.300-rc.1.5355%2Bsha.30ae32dac-azdo.5965854
+- pkg:nuget/Microsoft.Maui.Templates@6.0.300-rc.2.5513%2Bsha.8a017cf73-azdo.6048189
+- pkg:nuget/Microsoft.Maui.Templates@6.0.300-rc.3.5667%2Bsha.3f5ea2ebd-azdo.6103667
+- pkg:nuget/Microsoft.Maui.Templates@6.0.312%2B12-sha.c121ea3a0-azdo.6176901

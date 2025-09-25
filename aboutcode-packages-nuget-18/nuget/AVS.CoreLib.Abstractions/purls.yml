@@ -1,0 +1,7 @@
+- pkg:nuget/AVS.CoreLib.Abstractions@1.0.0
+- pkg:nuget/AVS.CoreLib.Abstractions@1.0.1
+- pkg:nuget/AVS.CoreLib.Abstractions@2.1.0
+- pkg:nuget/AVS.CoreLib.Abstractions@2.1.1
+- pkg:nuget/AVS.CoreLib.Abstractions@6.0.0-rc
+- pkg:nuget/AVS.CoreLib.Abstractions@7.0.0
+- pkg:nuget/AVS.CoreLib.Abstractions@9.0.0

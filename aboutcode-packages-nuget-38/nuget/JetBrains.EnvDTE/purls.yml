@@ -1,0 +1,8 @@
+- pkg:nuget/JetBrains.EnvDTE@20201020.21.0
+- pkg:nuget/JetBrains.EnvDTE@20201207.23.0
+- pkg:nuget/JetBrains.EnvDTE@20210219.31.0
+- pkg:nuget/JetBrains.EnvDTE@20210520.36.0
+- pkg:nuget/JetBrains.EnvDTE@20210726.40.0
+- pkg:nuget/JetBrains.EnvDTE@20220221.47.0
+- pkg:nuget/JetBrains.EnvDTE@20230531.48.0
+- pkg:nuget/JetBrains.EnvDTE@20240403.51.0

@@ -1,0 +1,9 @@
+- pkg:nuget/Nancy.Serialization.Hyperion@0.0.1-beta
+- pkg:nuget/Nancy.Serialization.Hyperion@1.0.0
+- pkg:nuget/Nancy.Serialization.Hyperion@1.0.1.12
+- pkg:nuget/Nancy.Serialization.Hyperion@1.0.1.5
+- pkg:nuget/Nancy.Serialization.Hyperion@1.0.1.8
+- pkg:nuget/Nancy.Serialization.Hyperion@2.0.0-beta
+- pkg:nuget/Nancy.Serialization.Hyperion@2.0.1.8-pre
+- pkg:nuget/Nancy.Serialization.Hyperion@2.1.0
+- pkg:nuget/Nancy.Serialization.Hyperion@2.1.1

@@ -1,0 +1,15 @@
+- pkg:nuget/cef.redist.osx64@106.0.26
+- pkg:nuget/cef.redist.osx64@106.0.26-patch1
+- pkg:nuget/cef.redist.osx64@112.3.0
+- pkg:nuget/cef.redist.osx64@116.0.24
+- pkg:nuget/cef.redist.osx64@116.0.27
+- pkg:nuget/cef.redist.osx64@117.2.4
+- pkg:nuget/cef.redist.osx64@119.4.7
+- pkg:nuget/cef.redist.osx64@120.1.8
+- pkg:nuget/cef.redist.osx64@121.3.13
+- pkg:nuget/cef.redist.osx64@126.2.18
+- pkg:nuget/cef.redist.osx64@134.3.9
+- pkg:nuget/cef.redist.osx64@85.3.12
+- pkg:nuget/cef.redist.osx64@85.3.13
+- pkg:nuget/cef.redist.osx64@85.3.14
+- pkg:nuget/cef.redist.osx64@91.1.6

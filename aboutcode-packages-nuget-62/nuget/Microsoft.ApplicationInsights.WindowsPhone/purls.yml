@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.10.0-build17704
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.11.0-build11410
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.11.1-build00694
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.12.0-build17386
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.13.0-build26067
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.13.1-build00186
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.13.2-build00132
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.13.3-build03939
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.14.0-build20632
+- pkg:nuget/Microsoft.ApplicationInsights.WindowsPhone@0.9.0-build06428

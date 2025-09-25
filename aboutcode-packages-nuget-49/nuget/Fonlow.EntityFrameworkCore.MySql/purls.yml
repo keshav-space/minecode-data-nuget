@@ -1,0 +1,4 @@
+- pkg:nuget/Fonlow.EntityFrameworkCore.MySql@1.0.0
+- pkg:nuget/Fonlow.EntityFrameworkCore.MySql@1.1.0
+- pkg:nuget/Fonlow.EntityFrameworkCore.MySql@1.1.1
+- pkg:nuget/Fonlow.EntityFrameworkCore.MySql@1.1.2

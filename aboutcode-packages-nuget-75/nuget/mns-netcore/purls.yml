@@ -1,0 +1,15 @@
+- pkg:nuget/mns-netcore@0.1.19-alpha
+- pkg:nuget/mns-netcore@0.2.23-alpha
+- pkg:nuget/mns-netcore@0.2.25-alpha
+- pkg:nuget/mns-netcore@0.2.28-alpha
+- pkg:nuget/mns-netcore@0.2.34-alpha
+- pkg:nuget/mns-netcore@0.3.40-alpha
+- pkg:nuget/mns-netcore@0.4.48-alpha
+- pkg:nuget/mns-netcore@1.0.0
+- pkg:nuget/mns-netcore@1.0.12
+- pkg:nuget/mns-netcore@1.0.13
+- pkg:nuget/mns-netcore@1.1.6
+- pkg:nuget/mns-netcore@1.1.7
+- pkg:nuget/mns-netcore@1.1.8
+- pkg:nuget/mns-netcore@1.1.9
+- pkg:nuget/mns-netcore@1.1.99

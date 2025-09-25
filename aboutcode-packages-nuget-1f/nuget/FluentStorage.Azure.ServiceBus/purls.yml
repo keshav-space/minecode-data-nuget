@@ -1,0 +1,4 @@
+- pkg:nuget/FluentStorage.Azure.ServiceBus@5.0.0
+- pkg:nuget/FluentStorage.Azure.ServiceBus@5.2.1
+- pkg:nuget/FluentStorage.Azure.ServiceBus@6.0.0
+- pkg:nuget/FluentStorage.Azure.ServiceBus@6.0.1

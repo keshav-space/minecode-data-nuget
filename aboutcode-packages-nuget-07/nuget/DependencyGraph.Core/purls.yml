@@ -1,0 +1,9 @@
+- pkg:nuget/DependencyGraph.Core@0.1.0%2B23
+- pkg:nuget/DependencyGraph.Core@0.2.0%2B28
+- pkg:nuget/DependencyGraph.Core@0.2.1%2B2
+- pkg:nuget/DependencyGraph.Core@0.3.0
+- pkg:nuget/DependencyGraph.Core@0.4.0
+- pkg:nuget/DependencyGraph.Core@0.5.0
+- pkg:nuget/DependencyGraph.Core@1.0.0
+- pkg:nuget/DependencyGraph.Core@1.0.1
+- pkg:nuget/DependencyGraph.Core@2.0.0

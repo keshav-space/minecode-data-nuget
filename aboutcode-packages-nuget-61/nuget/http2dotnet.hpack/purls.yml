@@ -1,0 +1,2 @@
+- pkg:nuget/http2dotnet.hpack@0.4.0
+- pkg:nuget/http2dotnet.hpack@0.8.0

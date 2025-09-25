@@ -1,0 +1,3 @@
+- pkg:nuget/AppFramework.Infrastructure@1.0.0
+- pkg:nuget/AppFramework.Infrastructure@1.0.0-preview.4
+- pkg:nuget/AppFramework.Infrastructure@1.1.0

@@ -1,0 +1,5 @@
+- pkg:nuget/FrameworkCore.MySql.ExtensionsMod@7.0.0
+- pkg:nuget/FrameworkCore.MySql.ExtensionsMod@7.1.0
+- pkg:nuget/FrameworkCore.MySql.ExtensionsMod@7.2.0
+- pkg:nuget/FrameworkCore.MySql.ExtensionsMod@7.3.0
+- pkg:nuget/FrameworkCore.MySql.ExtensionsMod@7.4.0

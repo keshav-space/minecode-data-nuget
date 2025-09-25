@@ -1,0 +1,2 @@
+- pkg:nuget/System.IdentityModel.Clients.ActiveDirectory@0.8.0
+- pkg:nuget/System.IdentityModel.Clients.ActiveDirectory@1.0.0

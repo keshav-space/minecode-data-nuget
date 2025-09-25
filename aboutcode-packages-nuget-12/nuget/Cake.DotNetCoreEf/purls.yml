@@ -1,0 +1,9 @@
+- pkg:nuget/Cake.DotNetCoreEf@0.1.0
+- pkg:nuget/Cake.DotNetCoreEf@0.10.0
+- pkg:nuget/Cake.DotNetCoreEf@0.2.0
+- pkg:nuget/Cake.DotNetCoreEf@0.3.0
+- pkg:nuget/Cake.DotNetCoreEf@0.4.0
+- pkg:nuget/Cake.DotNetCoreEf@0.6.0
+- pkg:nuget/Cake.DotNetCoreEf@0.8.0
+- pkg:nuget/Cake.DotNetCoreEf@0.9.0
+- pkg:nuget/Cake.DotNetCoreEf@1.0.0

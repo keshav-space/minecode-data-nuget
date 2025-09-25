@@ -1,0 +1,8 @@
+- pkg:nuget/NLog.Targets.Gelf@0.0.1
+- pkg:nuget/NLog.Targets.Gelf@0.0.2-alpha
+- pkg:nuget/NLog.Targets.Gelf@0.1.0
+- pkg:nuget/NLog.Targets.Gelf@0.1.0-alpha
+- pkg:nuget/NLog.Targets.Gelf@0.2.0
+- pkg:nuget/NLog.Targets.Gelf@0.2.1
+- pkg:nuget/NLog.Targets.Gelf@0.3.1
+- pkg:nuget/NLog.Targets.Gelf@1.0.0

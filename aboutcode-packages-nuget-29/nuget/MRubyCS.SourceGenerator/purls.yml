@@ -1,0 +1,5 @@
+- pkg:nuget/MRubyCS.SourceGenerator@0.2.0-preview
+- pkg:nuget/MRubyCS.SourceGenerator@0.3.0-preview
+- pkg:nuget/MRubyCS.SourceGenerator@0.4.0-preview
+- pkg:nuget/MRubyCS.SourceGenerator@0.5.0-preview
+- pkg:nuget/MRubyCS.SourceGenerator@0.6.0-preview

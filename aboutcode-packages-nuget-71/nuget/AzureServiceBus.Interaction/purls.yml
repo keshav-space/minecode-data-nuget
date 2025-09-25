@@ -1,0 +1,5 @@
+- pkg:nuget/AzureServiceBus.Interaction@1.0.0
+- pkg:nuget/AzureServiceBus.Interaction@2.0.0
+- pkg:nuget/AzureServiceBus.Interaction@2.1.0
+- pkg:nuget/AzureServiceBus.Interaction@2.1.1
+- pkg:nuget/AzureServiceBus.Interaction@2.1.2

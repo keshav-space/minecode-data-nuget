@@ -1,0 +1,16 @@
+- pkg:nuget/EpsilonTestLibrary@1.0.0
+- pkg:nuget/EpsilonTestLibrary@1.1.0
+- pkg:nuget/EpsilonTestLibrary@1.2.0
+- pkg:nuget/EpsilonTestLibrary@1.3.0
+- pkg:nuget/EpsilonTestLibrary@1.4.0
+- pkg:nuget/EpsilonTestLibrary@1.5.0
+- pkg:nuget/EpsilonTestLibrary@1.6.0
+- pkg:nuget/EpsilonTestLibrary@1.7.0
+- pkg:nuget/EpsilonTestLibrary@2.0.0
+- pkg:nuget/EpsilonTestLibrary@2.2.0
+- pkg:nuget/EpsilonTestLibrary@2.4.0
+- pkg:nuget/EpsilonTestLibrary@2.5.0
+- pkg:nuget/EpsilonTestLibrary@2.6.0
+- pkg:nuget/EpsilonTestLibrary@2.8.0
+- pkg:nuget/EpsilonTestLibrary@2.9.0
+- pkg:nuget/EpsilonTestLibrary@3.0.0

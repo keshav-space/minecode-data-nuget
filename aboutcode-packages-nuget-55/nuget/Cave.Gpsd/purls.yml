@@ -1,0 +1,11 @@
+- pkg:nuget/Cave.Gpsd@3.0.0
+- pkg:nuget/Cave.Gpsd@3.0.0-ci-20240716-1
+- pkg:nuget/Cave.Gpsd@3.0.0-ci-20240821-1
+- pkg:nuget/Cave.Gpsd@4.0.0
+- pkg:nuget/Cave.Gpsd@4.0.0-ci-20241016-1
+- pkg:nuget/Cave.Gpsd@4.0.0-ci-20241016-2
+- pkg:nuget/Cave.Gpsd@4.0.0-ci-20241016-3
+- pkg:nuget/Cave.Gpsd@4.0.0-ci-20241124-1
+- pkg:nuget/Cave.Gpsd@4.0.0-ci-master-20241124-0002
+- pkg:nuget/Cave.Gpsd@4.0.1
+- pkg:nuget/Cave.Gpsd@4.0.1-ci-master-20250306-0001
