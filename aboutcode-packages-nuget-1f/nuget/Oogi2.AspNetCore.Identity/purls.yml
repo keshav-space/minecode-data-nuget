@@ -1,0 +1,5 @@
+- pkg:nuget/Oogi2.AspNetCore.Identity@1.0.0
+- pkg:nuget/Oogi2.AspNetCore.Identity@1.2.0
+- pkg:nuget/Oogi2.AspNetCore.Identity@1.4.0
+- pkg:nuget/Oogi2.AspNetCore.Identity@1.5.0
+- pkg:nuget/Oogi2.AspNetCore.Identity@1.5.1

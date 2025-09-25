@@ -1,0 +1,4 @@
+- pkg:nuget/Nimbus.Transports.InProcess@3.0.0.1200
+- pkg:nuget/Nimbus.Transports.InProcess@4.2.1
+- pkg:nuget/Nimbus.Transports.InProcess@4.3.0-unstable0008
+- pkg:nuget/Nimbus.Transports.InProcess@4.3.0-unstable0011

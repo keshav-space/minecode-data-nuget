@@ -1,0 +1,11 @@
+- pkg:nuget/FlowX.EntityFrameworkCore@1.0.0
+- pkg:nuget/FlowX.EntityFrameworkCore@1.1.0
+- pkg:nuget/FlowX.EntityFrameworkCore@2.0.0
+- pkg:nuget/FlowX.EntityFrameworkCore@2.0.1
+- pkg:nuget/FlowX.EntityFrameworkCore@3.0.0
+- pkg:nuget/FlowX.EntityFrameworkCore@3.0.1
+- pkg:nuget/FlowX.EntityFrameworkCore@4.0.0
+- pkg:nuget/FlowX.EntityFrameworkCore@4.0.1
+- pkg:nuget/FlowX.EntityFrameworkCore@4.0.2
+- pkg:nuget/FlowX.EntityFrameworkCore@5.0.0
+- pkg:nuget/FlowX.EntityFrameworkCore@5.0.1

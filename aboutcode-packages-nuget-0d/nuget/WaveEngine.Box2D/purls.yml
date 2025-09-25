@@ -1,0 +1,5 @@
+- pkg:nuget/WaveEngine.Box2D@2.3.0.29
+- pkg:nuget/WaveEngine.Box2D@2.3.1.32
+- pkg:nuget/WaveEngine.Box2D@2.4.0.34
+- pkg:nuget/WaveEngine.Box2D@2.4.1.35
+- pkg:nuget/WaveEngine.Box2D@2.5.0.39

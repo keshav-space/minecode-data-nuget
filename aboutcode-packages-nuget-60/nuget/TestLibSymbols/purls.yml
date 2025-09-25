@@ -1,0 +1,13 @@
+- pkg:nuget/TestLibSymbols@1.0.0
+- pkg:nuget/TestLibSymbols@1.0.0-CI-20200117-175513
+- pkg:nuget/TestLibSymbols@1.0.0-CI-20200117-201808
+- pkg:nuget/TestLibSymbols@1.0.1-beta01
+- pkg:nuget/TestLibSymbols@1.0.1-beta02-CI-20200117-155535
+- pkg:nuget/TestLibSymbols@1.0.1-beta03
+- pkg:nuget/TestLibSymbols@1.0.1-beta04
+- pkg:nuget/TestLibSymbols@1.0.1-beta05
+- pkg:nuget/TestLibSymbols@1.0.1-beta08
+- pkg:nuget/TestLibSymbols@1.0.1-beta09
+- pkg:nuget/TestLibSymbols@1.0.2-CI-20200117-165330
+- pkg:nuget/TestLibSymbols@1.0.3-CI-20200117-172043
+- pkg:nuget/TestLibSymbols@1.0.4-CI-20200117-172637

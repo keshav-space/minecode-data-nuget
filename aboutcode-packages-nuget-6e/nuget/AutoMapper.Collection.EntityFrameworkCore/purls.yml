@@ -1,0 +1,10 @@
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@0.1.0
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@0.2.0
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@1.0.0
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@1.0.1
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@10.0.0
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@11.0.0
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@7.0.1
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@7.1.3
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@8.0.0
+- pkg:nuget/AutoMapper.Collection.EntityFrameworkCore@9.0.0

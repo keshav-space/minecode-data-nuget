@@ -1,0 +1,2 @@
+- pkg:nuget/AWS.Lambda.Powertools.EventHandler@1.0.0
+- pkg:nuget/AWS.Lambda.Powertools.EventHandler@1.0.1

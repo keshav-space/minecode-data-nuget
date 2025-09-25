@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK@1.4.232.23114-rc
+- pkg:nuget/Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK@1.4.232.23122-rc
+- pkg:nuget/Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK@1.4.233.23144-rc
+- pkg:nuget/Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK@1.4.237.23279
+- pkg:nuget/Microsoft.PowerPlatform.PowerAutomate.Desktop.Actions.SDK@1.5.255.25087

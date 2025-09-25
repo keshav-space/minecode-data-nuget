@@ -1,0 +1,6 @@
+- pkg:nuget/TSharp.UnitOfWorkGenerator.EFCore.Utils@1.0.0
+- pkg:nuget/TSharp.UnitOfWorkGenerator.EFCore.Utils@2.0.0-rc
+- pkg:nuget/TSharp.UnitOfWorkGenerator.EFCore.Utils@2.0.1-rc
+- pkg:nuget/TSharp.UnitOfWorkGenerator.EFCore.Utils@2.0.2-rc
+- pkg:nuget/TSharp.UnitOfWorkGenerator.EFCore.Utils@2.0.6-rc
+- pkg:nuget/TSharp.UnitOfWorkGenerator.EFCore.Utils@2.0.7-rc

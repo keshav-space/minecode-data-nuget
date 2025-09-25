@@ -1,0 +1,5 @@
+- pkg:nuget/XmlRpcCore@3.0.0
+- pkg:nuget/XmlRpcCore@3.1.0.50
+- pkg:nuget/XmlRpcCore@3.1.1.74
+- pkg:nuget/XmlRpcCore@3.1.2.77
+- pkg:nuget/XmlRpcCore@3.1.3

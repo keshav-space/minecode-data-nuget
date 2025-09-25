@@ -1,0 +1,3 @@
+- pkg:nuget/NBitcoin.Mono.Core@3.0.0.46
+- pkg:nuget/NBitcoin.Mono.Core@3.0.1
+- pkg:nuget/NBitcoin.Mono.Core@3.0.3

@@ -1,0 +1,4 @@
+- pkg:nuget/Nitro.AspNetCore.Configuration.EmbeddedJsonFile@2.1.1
+- pkg:nuget/Nitro.AspNetCore.Configuration.EmbeddedJsonFile@2.1.1.1
+- pkg:nuget/Nitro.AspNetCore.Configuration.EmbeddedJsonFile@2.1.1.2
+- pkg:nuget/Nitro.AspNetCore.Configuration.EmbeddedJsonFile@2.1.2

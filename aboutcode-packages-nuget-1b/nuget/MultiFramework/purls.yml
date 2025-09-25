@@ -1,0 +1,15 @@
+- pkg:nuget/MultiFramework@2.0.0
+- pkg:nuget/MultiFramework@2.0.0-11-not-just-github.12
+- pkg:nuget/MultiFramework@2.0.0-11-not-just-github.6
+- pkg:nuget/MultiFramework@2.0.0-25-new-analyzers.4
+- pkg:nuget/MultiFramework@2.0.0-25-new-analyzers.5
+- pkg:nuget/MultiFramework@2.0.0-PullRequest0035.6
+- pkg:nuget/MultiFramework@2.0.1
+- pkg:nuget/MultiFramework@2.1.0
+- pkg:nuget/MultiFramework@2.1.0-roslynator-update.2
+- pkg:nuget/MultiFramework@2.1.0-roslynator-update.3
+- pkg:nuget/MultiFramework@2.1.1
+- pkg:nuget/MultiFramework@2.1.2
+- pkg:nuget/MultiFramework@2.1.2-preview.1
+- pkg:nuget/MultiFramework@2.1.3
+- pkg:nuget/MultiFramework@2.1.4

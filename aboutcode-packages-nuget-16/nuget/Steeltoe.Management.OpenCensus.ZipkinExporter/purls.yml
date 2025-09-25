@@ -1,0 +1,12 @@
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.4.0
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.4.0-rc1
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.4.1
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.4.2
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.4.3
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.4.4
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.5.0
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.5.1
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.5.2
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.5.3
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.5.4
+- pkg:nuget/Steeltoe.Management.OpenCensus.ZipkinExporter@2.5.5

@@ -1,0 +1,5 @@
+- pkg:nuget/ARCValidationPackages@1.0.0
+- pkg:nuget/ARCValidationPackages@2.0.0-preview.1
+- pkg:nuget/ARCValidationPackages@3.0.0
+- pkg:nuget/ARCValidationPackages@4.0.0
+- pkg:nuget/ARCValidationPackages@5.0.0

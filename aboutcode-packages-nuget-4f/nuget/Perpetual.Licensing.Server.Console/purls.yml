@@ -1,0 +1,4 @@
+- pkg:nuget/Perpetual.Licensing.Server.Console@2.1.21-alpha
+- pkg:nuget/Perpetual.Licensing.Server.Console@2.1.23-alpha
+- pkg:nuget/Perpetual.Licensing.Server.Console@2.1.30-alpha
+- pkg:nuget/Perpetual.Licensing.Server.Console@2.1.6-alpha

@@ -1,0 +1,3 @@
+- pkg:nuget/Newcats.DataAccess.Sqlite@1.0.0
+- pkg:nuget/Newcats.DataAccess.Sqlite@1.0.1
+- pkg:nuget/Newcats.DataAccess.Sqlite@2.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/MSBump@2.0.0
+- pkg:nuget/MSBump@2.1.0
+- pkg:nuget/MSBump@2.2.0
+- pkg:nuget/MSBump@2.3.0
+- pkg:nuget/MSBump@2.3.2
+- pkg:nuget/MSBump@2.3.2-pre1

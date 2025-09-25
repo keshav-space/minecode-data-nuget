@@ -1,0 +1,4 @@
+- pkg:nuget/ReconArt.Email.Sender.Identity@1.0.0
+- pkg:nuget/ReconArt.Email.Sender.Identity@2.0.0
+- pkg:nuget/ReconArt.Email.Sender.Identity@3.0.0
+- pkg:nuget/ReconArt.Email.Sender.Identity@3.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Maqduni.RavenDb.Extensions@1.0.0
+- pkg:nuget/Maqduni.RavenDb.Extensions@1.1.0
+- pkg:nuget/Maqduni.RavenDb.Extensions@2.0.0-rc-nightly-20171126-0501
+- pkg:nuget/Maqduni.RavenDb.Extensions@2.0.1
+- pkg:nuget/Maqduni.RavenDb.Extensions@4.2.0

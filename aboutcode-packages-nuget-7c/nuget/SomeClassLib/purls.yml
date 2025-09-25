@@ -1,0 +1,14 @@
+- pkg:nuget/SomeClassLib@0.1.0
+- pkg:nuget/SomeClassLib@0.1.0-ci0006-0ac8eb9
+- pkg:nuget/SomeClassLib@0.1.0-feature0011-0d10bb6
+- pkg:nuget/SomeClassLib@0.1.1
+- pkg:nuget/SomeClassLib@0.1.2
+- pkg:nuget/SomeClassLib@0.1.2-ci0004-7f1901f
+- pkg:nuget/SomeClassLib@0.1.2-feature0011-625f7c0
+- pkg:nuget/SomeClassLib@0.1.3
+- pkg:nuget/SomeClassLib@0.1.3-bug0005-b60a6ce
+- pkg:nuget/SomeClassLib@0.1.3-bug0006-a7d99ca
+- pkg:nuget/SomeClassLib@0.1.4
+- pkg:nuget/SomeClassLib@0.3.0
+- pkg:nuget/SomeClassLib@0.3.0-feature0002-b28fb60
+- pkg:nuget/SomeClassLib@0.3.1-ci0001-417fd59

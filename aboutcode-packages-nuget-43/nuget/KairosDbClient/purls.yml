@@ -1,0 +1,12 @@
+- pkg:nuget/KairosDbClient@0.1.0
+- pkg:nuget/KairosDbClient@0.1.0-beta
+- pkg:nuget/KairosDbClient@0.1.0-beta25
+- pkg:nuget/KairosDbClient@0.1.1-beta28
+- pkg:nuget/KairosDbClient@0.1.1-beta29
+- pkg:nuget/KairosDbClient@0.1.1-beta30
+- pkg:nuget/KairosDbClient@0.1.1-beta31
+- pkg:nuget/KairosDbClient@0.1.2
+- pkg:nuget/KairosDbClient@0.1.2-beta32
+- pkg:nuget/KairosDbClient@0.1.3
+- pkg:nuget/KairosDbClient@0.1.3-beta33
+- pkg:nuget/KairosDbClient@0.2.0

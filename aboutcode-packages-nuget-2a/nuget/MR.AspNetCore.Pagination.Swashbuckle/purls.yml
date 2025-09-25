@@ -1,0 +1,9 @@
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@0.1.0
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@1.0.0
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@1.0.1
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@2.0.0
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@2.0.1
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@2.1.0
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@2.2.0
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@3.0.0
+- pkg:nuget/MR.AspNetCore.Pagination.Swashbuckle@3.1.0

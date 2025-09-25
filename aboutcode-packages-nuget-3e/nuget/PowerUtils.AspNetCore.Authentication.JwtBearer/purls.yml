@@ -1,0 +1,4 @@
+- pkg:nuget/PowerUtils.AspNetCore.Authentication.JwtBearer@1.0.0
+- pkg:nuget/PowerUtils.AspNetCore.Authentication.JwtBearer@1.1.0
+- pkg:nuget/PowerUtils.AspNetCore.Authentication.JwtBearer@1.2.0
+- pkg:nuget/PowerUtils.AspNetCore.Authentication.JwtBearer@1.2.1

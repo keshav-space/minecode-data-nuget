@@ -1,0 +1,4 @@
+- pkg:nuget/SharpEDFlib.runtime.win-arm@1.27.0-alpha
+- pkg:nuget/SharpEDFlib.runtime.win-arm@1.27.0-rc.1
+- pkg:nuget/SharpEDFlib.runtime.win-arm@1.27.0-rc.2
+- pkg:nuget/SharpEDFlib.runtime.win-arm@1.27.0-rc.3

@@ -1,0 +1,4 @@
+- pkg:nuget/Refactorius.Logging.Log4net@10.0.1
+- pkg:nuget/Refactorius.Logging.Log4net@10.0.3
+- pkg:nuget/Refactorius.Logging.Log4net@10.1.1
+- pkg:nuget/Refactorius.Logging.Log4net@8.1.2

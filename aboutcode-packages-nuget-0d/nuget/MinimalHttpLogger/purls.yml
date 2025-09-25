@@ -1,0 +1,12 @@
+- pkg:nuget/MinimalHttpLogger@0.1.0
+- pkg:nuget/MinimalHttpLogger@0.1.0-ci0001-f222305
+- pkg:nuget/MinimalHttpLogger@0.1.1
+- pkg:nuget/MinimalHttpLogger@0.1.2
+- pkg:nuget/MinimalHttpLogger@1.0.1
+- pkg:nuget/MinimalHttpLogger@1.0.1-feature0005-00e070d
+- pkg:nuget/MinimalHttpLogger@1.0.1-feature0007-4044fdc
+- pkg:nuget/MinimalHttpLogger@1.0.2
+- pkg:nuget/MinimalHttpLogger@1.0.2-feature0001-de8b974
+- pkg:nuget/MinimalHttpLogger@2.0.0
+- pkg:nuget/MinimalHttpLogger@2.0.0-feature0009-e028e51
+- pkg:nuget/MinimalHttpLogger@3.0.0

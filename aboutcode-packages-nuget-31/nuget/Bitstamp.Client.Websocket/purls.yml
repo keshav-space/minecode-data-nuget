@@ -1,0 +1,5 @@
+- pkg:nuget/Bitstamp.Client.Websocket@1.0.2
+- pkg:nuget/Bitstamp.Client.Websocket@1.0.3
+- pkg:nuget/Bitstamp.Client.Websocket@1.1.0
+- pkg:nuget/Bitstamp.Client.Websocket@1.1.1
+- pkg:nuget/Bitstamp.Client.Websocket@1.2.0

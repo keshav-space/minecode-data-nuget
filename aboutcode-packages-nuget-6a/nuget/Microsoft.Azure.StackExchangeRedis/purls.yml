@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Azure.StackExchangeRedis@1.1.0
+- pkg:nuget/Microsoft.Azure.StackExchangeRedis@2.0.0
+- pkg:nuget/Microsoft.Azure.StackExchangeRedis@3.0.0
+- pkg:nuget/Microsoft.Azure.StackExchangeRedis@3.1.0
+- pkg:nuget/Microsoft.Azure.StackExchangeRedis@3.2.0
+- pkg:nuget/Microsoft.Azure.StackExchangeRedis@3.2.1

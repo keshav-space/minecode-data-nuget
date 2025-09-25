@@ -1,0 +1,5 @@
+- pkg:nuget/DotNetTool.Service@0.1.1-beta
+- pkg:nuget/DotNetTool.Service@0.1.2
+- pkg:nuget/DotNetTool.Service@0.2.0
+- pkg:nuget/DotNetTool.Service@0.2.1
+- pkg:nuget/DotNetTool.Service@0.3.0%2B11

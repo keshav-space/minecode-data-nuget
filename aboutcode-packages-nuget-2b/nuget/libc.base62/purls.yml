@@ -1,0 +1,4 @@
+- pkg:nuget/libc.base62@1.0.0
+- pkg:nuget/libc.base62@3.0.0
+- pkg:nuget/libc.base62@3.0.1
+- pkg:nuget/libc.base62@6.0.0

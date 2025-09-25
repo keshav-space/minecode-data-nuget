@@ -1,0 +1,9 @@
+- pkg:nuget/Solution.Framework.Office@5.0.0
+- pkg:nuget/Solution.Framework.Office@5.0.1
+- pkg:nuget/Solution.Framework.Office@6.0.0
+- pkg:nuget/Solution.Framework.Office@6.0.1
+- pkg:nuget/Solution.Framework.Office@7.0.0
+- pkg:nuget/Solution.Framework.Office@7.0.1
+- pkg:nuget/Solution.Framework.Office@7.0.2
+- pkg:nuget/Solution.Framework.Office@7.0.3
+- pkg:nuget/Solution.Framework.Office@8.0.0

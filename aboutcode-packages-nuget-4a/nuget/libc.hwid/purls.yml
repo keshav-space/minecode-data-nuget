@@ -1,0 +1,12 @@
+- pkg:nuget/libc.hwid@1.0.0
+- pkg:nuget/libc.hwid@1.0.1
+- pkg:nuget/libc.hwid@2.0.0
+- pkg:nuget/libc.hwid@3.0.0
+- pkg:nuget/libc.hwid@4.0.0
+- pkg:nuget/libc.hwid@4.1.0
+- pkg:nuget/libc.hwid@4.2.0
+- pkg:nuget/libc.hwid@4.2.1
+- pkg:nuget/libc.hwid@6.0.0
+- pkg:nuget/libc.hwid@6.0.1
+- pkg:nuget/libc.hwid@6.0.2
+- pkg:nuget/libc.hwid@7.0.0

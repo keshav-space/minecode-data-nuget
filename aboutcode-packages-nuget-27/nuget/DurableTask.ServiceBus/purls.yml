@@ -1,0 +1,9 @@
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.3-preview
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.4-preview
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.4-preview2
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.4-preview3
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.4-preview4
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.4-preview5
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.4-preview7
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.5
+- pkg:nuget/DurableTask.ServiceBus@2.0.0.6

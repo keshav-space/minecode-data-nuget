@@ -1,0 +1,4 @@
+- pkg:nuget/TcUnit.TestAdapter@0.0.1
+- pkg:nuget/TcUnit.TestAdapter@0.0.3-beta
+- pkg:nuget/TcUnit.TestAdapter@0.0.4-beta
+- pkg:nuget/TcUnit.TestAdapter@0.0.5-beta

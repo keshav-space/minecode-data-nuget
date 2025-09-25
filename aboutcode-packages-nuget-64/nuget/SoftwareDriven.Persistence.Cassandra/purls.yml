@@ -1,0 +1,11 @@
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.10.0
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.11.0
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.11.1
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.11.2
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.11.3
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.5.0
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.6.1
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.7.0
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.8.0
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.8.1
+- pkg:nuget/SoftwareDriven.Persistence.Cassandra@2.9.0

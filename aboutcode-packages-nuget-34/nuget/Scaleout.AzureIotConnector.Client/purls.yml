@@ -1,0 +1,11 @@
+- pkg:nuget/Scaleout.AzureIotConnector.Client@3.10.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@3.11.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@3.12.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@4.0.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@4.2.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@4.3.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@4.4.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@4.4.5
+- pkg:nuget/Scaleout.AzureIotConnector.Client@4.5.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@5.0.0
+- pkg:nuget/Scaleout.AzureIotConnector.Client@5.2.0

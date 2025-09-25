@@ -1,0 +1,5 @@
+- pkg:nuget/AngleSharp.Wasm@0.13.0
+- pkg:nuget/AngleSharp.Wasm@0.13.0-alpha-1
+- pkg:nuget/AngleSharp.Wasm@0.13.0-alpha-2
+- pkg:nuget/AngleSharp.Wasm@0.13.0-alpha-3
+- pkg:nuget/AngleSharp.Wasm@0.13.0-alpha-4

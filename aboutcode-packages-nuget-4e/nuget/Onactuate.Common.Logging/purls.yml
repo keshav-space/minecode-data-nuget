@@ -1,0 +1,10 @@
+- pkg:nuget/Onactuate.Common.Logging@17.0.0
+- pkg:nuget/Onactuate.Common.Logging@2.0.0-CI-20190703-214620
+- pkg:nuget/Onactuate.Common.Logging@2.0.0-CI-20190703-222718
+- pkg:nuget/Onactuate.Common.Logging@2.0.0-CI-20200207-181900
+- pkg:nuget/Onactuate.Common.Logging@2.0.0-CI-20200207-183838
+- pkg:nuget/Onactuate.Common.Logging@2.0.0-CI-20200207-201351
+- pkg:nuget/Onactuate.Common.Logging@3.0.0.14
+- pkg:nuget/Onactuate.Common.Logging@3.0.0.16
+- pkg:nuget/Onactuate.Common.Logging@3.0.0.18
+- pkg:nuget/Onactuate.Common.Logging@3.0.0.20200207

@@ -1,0 +1,7 @@
+- pkg:nuget/Scaleout.DynamoDb.PersistenceProviders.Provider@4.2.0
+- pkg:nuget/Scaleout.DynamoDb.PersistenceProviders.Provider@4.3.0
+- pkg:nuget/Scaleout.DynamoDb.PersistenceProviders.Provider@4.4.0
+- pkg:nuget/Scaleout.DynamoDb.PersistenceProviders.Provider@4.4.5
+- pkg:nuget/Scaleout.DynamoDb.PersistenceProviders.Provider@4.5.0
+- pkg:nuget/Scaleout.DynamoDb.PersistenceProviders.Provider@5.0.0
+- pkg:nuget/Scaleout.DynamoDb.PersistenceProviders.Provider@5.2.0

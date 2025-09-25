@@ -1,0 +1,4 @@
+- pkg:nuget/Radical.Windows.Presentation.WinRT@0.1.0-beta
+- pkg:nuget/Radical.Windows.Presentation.WinRT@0.1.0.1-beta
+- pkg:nuget/Radical.Windows.Presentation.WinRT@0.2.0
+- pkg:nuget/Radical.Windows.Presentation.WinRT@0.2.1

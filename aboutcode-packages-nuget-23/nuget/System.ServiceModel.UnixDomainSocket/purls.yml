@@ -1,0 +1,5 @@
+- pkg:nuget/System.ServiceModel.UnixDomainSocket@6.2.0
+- pkg:nuget/System.ServiceModel.UnixDomainSocket@8.0.0
+- pkg:nuget/System.ServiceModel.UnixDomainSocket@8.1.0
+- pkg:nuget/System.ServiceModel.UnixDomainSocket@8.1.1
+- pkg:nuget/System.ServiceModel.UnixDomainSocket@8.1.2

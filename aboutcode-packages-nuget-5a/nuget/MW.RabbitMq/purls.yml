@@ -1,0 +1,5 @@
+- pkg:nuget/MW.RabbitMq@1.0.0
+- pkg:nuget/MW.RabbitMq@1.0.1
+- pkg:nuget/MW.RabbitMq@2.0.1
+- pkg:nuget/MW.RabbitMq@25.3.10
+- pkg:nuget/MW.RabbitMq@25.3.4

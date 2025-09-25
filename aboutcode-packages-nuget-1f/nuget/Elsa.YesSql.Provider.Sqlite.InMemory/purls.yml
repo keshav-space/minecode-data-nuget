@@ -1,0 +1,6 @@
+- pkg:nuget/Elsa.YesSql.Provider.Sqlite.InMemory@2.0.0-preview1-43
+- pkg:nuget/Elsa.YesSql.Provider.Sqlite.InMemory@2.0.0-preview2-1
+- pkg:nuget/Elsa.YesSql.Provider.Sqlite.InMemory@2.0.0-preview3-0
+- pkg:nuget/Elsa.YesSql.Provider.Sqlite.InMemory@2.0.0-preview4-0
+- pkg:nuget/Elsa.YesSql.Provider.Sqlite.InMemory@2.0.0-preview4-1
+- pkg:nuget/Elsa.YesSql.Provider.Sqlite.InMemory@2.0.0-preview5-0
