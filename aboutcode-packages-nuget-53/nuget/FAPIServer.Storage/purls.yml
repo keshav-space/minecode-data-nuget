@@ -1,0 +1,4 @@
+- pkg:nuget/FAPIServer.Storage@1.0.0
+- pkg:nuget/FAPIServer.Storage@1.0.1
+- pkg:nuget/FAPIServer.Storage@1.0.2
+- pkg:nuget/FAPIServer.Storage@2.0.0

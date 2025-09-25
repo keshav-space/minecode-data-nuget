@@ -1,0 +1,3 @@
+- pkg:nuget/QAP.ExportDataToAppInsights@1.0.0
+- pkg:nuget/QAP.ExportDataToAppInsights@1.0.1
+- pkg:nuget/QAP.ExportDataToAppInsights@1.0.4

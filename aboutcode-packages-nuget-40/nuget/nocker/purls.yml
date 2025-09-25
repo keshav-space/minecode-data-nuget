@@ -1,0 +1,16 @@
+- pkg:nuget/nocker@1.0.0
+- pkg:nuget/nocker@1.0.1
+- pkg:nuget/nocker@1.0.1-preview-20221016-112403
+- pkg:nuget/nocker@1.0.1-preview-20221016-114015
+- pkg:nuget/nocker@1.0.1-preview-20221016-114239
+- pkg:nuget/nocker@1.0.1-preview-20221016-122740
+- pkg:nuget/nocker@1.0.1-preview-20221016-123947
+- pkg:nuget/nocker@1.0.1-preview-20221016-124609
+- pkg:nuget/nocker@1.0.1-preview-20221016-124835
+- pkg:nuget/nocker@1.0.1-preview-20221016-125459
+- pkg:nuget/nocker@1.0.1-preview-20221016-130958
+- pkg:nuget/nocker@1.0.1-preview-20221016-132243
+- pkg:nuget/nocker@1.0.1-preview-20221017-153005
+- pkg:nuget/nocker@1.0.1-preview-20221027-134616
+- pkg:nuget/nocker@1.0.1-preview-20221027-141520
+- pkg:nuget/nocker@1.0.2-preview-20240130-171006

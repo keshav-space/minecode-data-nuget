@@ -1,0 +1,5 @@
+- pkg:nuget/MyTestLib.SDK@0.0.0.14
+- pkg:nuget/MyTestLib.SDK@0.0.0.15
+- pkg:nuget/MyTestLib.SDK@0.0.0.16
+- pkg:nuget/MyTestLib.SDK@0.0.0.17
+- pkg:nuget/MyTestLib.SDK@0.0.0.18

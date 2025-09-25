@@ -1,0 +1,2 @@
+- pkg:nuget/NpgsqlYB.EntityFrameworkCore.YugabyteDB.NodaTime@8.0.4-yb-1-preview
+- pkg:nuget/NpgsqlYB.EntityFrameworkCore.YugabyteDB.NodaTime@8.0.4.1
