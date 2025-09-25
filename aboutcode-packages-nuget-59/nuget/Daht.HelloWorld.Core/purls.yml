@@ -1,0 +1,10 @@
+- pkg:nuget/Daht.HelloWorld.Core@10.0.0
+- pkg:nuget/Daht.HelloWorld.Core@11.0.0
+- pkg:nuget/Daht.HelloWorld.Core@12.0.0
+- pkg:nuget/Daht.HelloWorld.Core@14.0.0
+- pkg:nuget/Daht.HelloWorld.Core@3.0.1
+- pkg:nuget/Daht.HelloWorld.Core@8.0.0
+- pkg:nuget/Daht.HelloWorld.Core@9.0.0
+- pkg:nuget/Daht.HelloWorld.Core@9.0.1
+- pkg:nuget/Daht.HelloWorld.Core@9.0.2
+- pkg:nuget/Daht.HelloWorld.Core@9.0.5

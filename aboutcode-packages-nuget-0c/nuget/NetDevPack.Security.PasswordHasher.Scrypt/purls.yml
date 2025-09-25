@@ -1,0 +1,10 @@
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@3.0.0
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@5.0.1
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@5.0.5
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@5.1.0
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@5.1.1
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@6.0.0
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@6.0.0-nightbuild
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@7.0.0
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@7.0.1
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Scrypt@7.1.0

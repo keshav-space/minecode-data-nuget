@@ -1,0 +1,2 @@
+- pkg:nuget/Akka.Persistence.Sql.Linq2Db.Journal.Query@0.9.5
+- pkg:nuget/Akka.Persistence.Sql.Linq2Db.Journal.Query@0.9.6

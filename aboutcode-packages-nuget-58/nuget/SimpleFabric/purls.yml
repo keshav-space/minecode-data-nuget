@@ -1,0 +1,4 @@
+- pkg:nuget/SimpleFabric@0.0.1
+- pkg:nuget/SimpleFabric@0.0.2-prerelease
+- pkg:nuget/SimpleFabric@0.0.3-prerelease
+- pkg:nuget/SimpleFabric@0.0.4-prerelease

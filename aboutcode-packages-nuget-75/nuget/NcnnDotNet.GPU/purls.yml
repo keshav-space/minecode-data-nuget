@@ -1,0 +1,6 @@
+- pkg:nuget/NcnnDotNet.GPU@0.0.0.20191223
+- pkg:nuget/NcnnDotNet.GPU@0.0.0.20200106
+- pkg:nuget/NcnnDotNet.GPU@0.0.0.20210417
+- pkg:nuget/NcnnDotNet.GPU@0.0.0.20210723
+- pkg:nuget/NcnnDotNet.GPU@0.0.0.20221224
+- pkg:nuget/NcnnDotNet.GPU@0.0.0.20230101

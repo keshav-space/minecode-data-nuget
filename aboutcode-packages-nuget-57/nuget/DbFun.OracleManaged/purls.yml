@@ -1,0 +1,3 @@
+- pkg:nuget/DbFun.OracleManaged@1.2.0
+- pkg:nuget/DbFun.OracleManaged@2.0.0
+- pkg:nuget/DbFun.OracleManaged@2.2.0

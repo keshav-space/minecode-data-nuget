@@ -1,0 +1,2 @@
+- pkg:nuget/TestingFixtures.PostgresDockerContextFactory@0.1.0
+- pkg:nuget/TestingFixtures.PostgresDockerContextFactory@1.0.0

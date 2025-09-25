@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.WindowsAppSDK.Widgets@1.8.250505003-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.Widgets@1.8.250610001-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.Widgets@1.8.250801001-preview
+- pkg:nuget/Microsoft.WindowsAppSDK.Widgets@1.8.250904007

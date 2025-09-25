@@ -1,0 +1,5 @@
+- pkg:nuget/WebAssembly.Net.WebSockets@1.0.0
+- pkg:nuget/WebAssembly.Net.WebSockets@2.0.15
+- pkg:nuget/WebAssembly.Net.WebSockets@2.1.0
+- pkg:nuget/WebAssembly.Net.WebSockets@3.0.0
+- pkg:nuget/WebAssembly.Net.WebSockets@3.0.2

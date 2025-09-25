@@ -1,0 +1,6 @@
+- pkg:nuget/DICOMcloud.DataAccess.Database@0.5.2-beta
+- pkg:nuget/DICOMcloud.DataAccess.Database@0.5.3-beta
+- pkg:nuget/DICOMcloud.DataAccess.Database@0.5.4-beta
+- pkg:nuget/DICOMcloud.DataAccess.Database@0.6.0-beta
+- pkg:nuget/DICOMcloud.DataAccess.Database@0.7.0-beta
+- pkg:nuget/DICOMcloud.DataAccess.Database@0.7.1-beta

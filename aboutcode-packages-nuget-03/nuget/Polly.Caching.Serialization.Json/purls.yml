@@ -1,0 +1,3 @@
+- pkg:nuget/Polly.Caching.Serialization.Json@2.0.0
+- pkg:nuget/Polly.Caching.Serialization.Json@2.0.1
+- pkg:nuget/Polly.Caching.Serialization.Json@3.0.0

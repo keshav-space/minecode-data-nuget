@@ -1,0 +1,3 @@
+- pkg:nuget/ova.net.Common.EntityFramework.Abstract.Domain.Service@8.25.0
+- pkg:nuget/ova.net.Common.EntityFramework.Abstract.Domain.Service@8.25.1
+- pkg:nuget/ova.net.Common.EntityFramework.Abstract.Domain.Service@8.25.2

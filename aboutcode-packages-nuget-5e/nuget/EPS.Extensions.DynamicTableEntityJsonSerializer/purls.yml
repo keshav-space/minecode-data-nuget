@@ -1,0 +1,4 @@
+- pkg:nuget/EPS.Extensions.DynamicTableEntityJsonSerializer@1.0.0
+- pkg:nuget/EPS.Extensions.DynamicTableEntityJsonSerializer@5.0.0
+- pkg:nuget/EPS.Extensions.DynamicTableEntityJsonSerializer@6.0.1
+- pkg:nuget/EPS.Extensions.DynamicTableEntityJsonSerializer@6.0.2

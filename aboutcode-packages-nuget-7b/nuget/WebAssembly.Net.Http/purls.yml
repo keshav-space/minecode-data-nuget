@@ -1,0 +1,5 @@
+- pkg:nuget/WebAssembly.Net.Http@1.0.0
+- pkg:nuget/WebAssembly.Net.Http@2.0.15
+- pkg:nuget/WebAssembly.Net.Http@2.1.0
+- pkg:nuget/WebAssembly.Net.Http@3.0.0
+- pkg:nuget/WebAssembly.Net.Http@3.0.2

@@ -1,0 +1,6 @@
+- pkg:nuget/Knet.Kudu.Binary@0.1.0-preview.1
+- pkg:nuget/Knet.Kudu.Binary@1.13.0
+- pkg:nuget/Knet.Kudu.Binary@1.13.0-preview.1
+- pkg:nuget/Knet.Kudu.Binary@1.14.0
+- pkg:nuget/Knet.Kudu.Binary@1.15.0
+- pkg:nuget/Knet.Kudu.Binary@1.16.0

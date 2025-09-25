@@ -1,0 +1,10 @@
+- pkg:nuget/Rotex.Authorization.NetStandard@1.0.0
+- pkg:nuget/Rotex.Authorization.NetStandard@1.0.1
+- pkg:nuget/Rotex.Authorization.NetStandard@1.0.2
+- pkg:nuget/Rotex.Authorization.NetStandard@5.0.0
+- pkg:nuget/Rotex.Authorization.NetStandard@6.0.0
+- pkg:nuget/Rotex.Authorization.NetStandard@6.0.1
+- pkg:nuget/Rotex.Authorization.NetStandard@7.0.2
+- pkg:nuget/Rotex.Authorization.NetStandard@8.0.0
+- pkg:nuget/Rotex.Authorization.NetStandard@8.0.1
+- pkg:nuget/Rotex.Authorization.NetStandard@9.0.2

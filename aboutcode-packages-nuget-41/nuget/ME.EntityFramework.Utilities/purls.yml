@@ -1,0 +1,4 @@
+- pkg:nuget/ME.EntityFramework.Utilities@2.0.0-beta1
+- pkg:nuget/ME.EntityFramework.Utilities@2.0.0-beta2
+- pkg:nuget/ME.EntityFramework.Utilities@5.0.0-beta1
+- pkg:nuget/ME.EntityFramework.Utilities@6.0.0-beta1

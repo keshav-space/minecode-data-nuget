@@ -1,0 +1,10 @@
+- pkg:nuget/DontPanicLabs.CodeAnalysis@0.5.0-preview
+- pkg:nuget/DontPanicLabs.CodeAnalysis@0.5.1-preview
+- pkg:nuget/DontPanicLabs.CodeAnalysis@0.5.2-preview
+- pkg:nuget/DontPanicLabs.CodeAnalysis@0.5.3-preview
+- pkg:nuget/DontPanicLabs.CodeAnalysis@0.5.4-preview
+- pkg:nuget/DontPanicLabs.CodeAnalysis@0.5.5-preview
+- pkg:nuget/DontPanicLabs.CodeAnalysis@1.0.0
+- pkg:nuget/DontPanicLabs.CodeAnalysis@1.0.1
+- pkg:nuget/DontPanicLabs.CodeAnalysis@1.0.2
+- pkg:nuget/DontPanicLabs.CodeAnalysis@1.0.3

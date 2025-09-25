@@ -1,0 +1,4 @@
+- pkg:nuget/VaraniumSharp.ServiceCollection@1.0.0
+- pkg:nuget/VaraniumSharp.ServiceCollection@1.1.0
+- pkg:nuget/VaraniumSharp.ServiceCollection@1.2.0
+- pkg:nuget/VaraniumSharp.ServiceCollection@2.0.1

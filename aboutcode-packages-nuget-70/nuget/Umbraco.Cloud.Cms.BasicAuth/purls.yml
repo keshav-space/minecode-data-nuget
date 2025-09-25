@@ -1,0 +1,3 @@
+- pkg:nuget/Umbraco.Cloud.Cms.BasicAuth@10.0.0
+- pkg:nuget/Umbraco.Cloud.Cms.BasicAuth@11.0.0
+- pkg:nuget/Umbraco.Cloud.Cms.BasicAuth@9.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.CST.OSSGadget.Shared.CLI@0.2.14
+- pkg:nuget/Microsoft.CST.OSSGadget.Shared.CLI@0.2.20
+- pkg:nuget/Microsoft.CST.OSSGadget.Shared.CLI@0.2.25

@@ -1,0 +1,4 @@
+- pkg:nuget/MgcFramework.Crypto@3.0.0
+- pkg:nuget/MgcFramework.Crypto@9.0.0
+- pkg:nuget/MgcFramework.Crypto@9.1.0
+- pkg:nuget/MgcFramework.Crypto@9.2.0

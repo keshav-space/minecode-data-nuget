@@ -1,0 +1,4 @@
+- pkg:nuget/MO.RabbitMQ@1.0.0
+- pkg:nuget/MO.RabbitMQ@1.1.0
+- pkg:nuget/MO.RabbitMQ@1.1.1
+- pkg:nuget/MO.RabbitMQ@1.1.2

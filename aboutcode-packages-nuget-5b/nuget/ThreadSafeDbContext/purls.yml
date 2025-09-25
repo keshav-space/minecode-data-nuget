@@ -1,0 +1,11 @@
+- pkg:nuget/ThreadSafeDbContext@1.0.0
+- pkg:nuget/ThreadSafeDbContext@1.0.1
+- pkg:nuget/ThreadSafeDbContext@1.0.2
+- pkg:nuget/ThreadSafeDbContext@1.0.3
+- pkg:nuget/ThreadSafeDbContext@1.0.4
+- pkg:nuget/ThreadSafeDbContext@1.0.6
+- pkg:nuget/ThreadSafeDbContext@1.0.7
+- pkg:nuget/ThreadSafeDbContext@8.0.0
+- pkg:nuget/ThreadSafeDbContext@8.0.1
+- pkg:nuget/ThreadSafeDbContext@8.0.1-preview.1
+- pkg:nuget/ThreadSafeDbContext@8.0.1-preview.2

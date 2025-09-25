@@ -1,0 +1,3 @@
+- pkg:nuget/EventDriven.SchemaRegistry.Abstractions@1.0.0-beta1
+- pkg:nuget/EventDriven.SchemaRegistry.Abstractions@1.0.0-beta2
+- pkg:nuget/EventDriven.SchemaRegistry.Abstractions@1.1.0

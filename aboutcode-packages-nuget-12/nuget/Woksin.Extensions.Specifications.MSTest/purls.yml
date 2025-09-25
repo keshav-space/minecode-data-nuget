@@ -1,0 +1,4 @@
+- pkg:nuget/Woksin.Extensions.Specifications.MSTest@1.0.0
+- pkg:nuget/Woksin.Extensions.Specifications.MSTest@2.0.0
+- pkg:nuget/Woksin.Extensions.Specifications.MSTest@3.0.0
+- pkg:nuget/Woksin.Extensions.Specifications.MSTest@3.0.1

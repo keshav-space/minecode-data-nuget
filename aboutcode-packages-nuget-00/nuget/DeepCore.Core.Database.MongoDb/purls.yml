@@ -1,0 +1,2 @@
+- pkg:nuget/DeepCore.Core.Database.MongoDb@1.0.0
+- pkg:nuget/DeepCore.Core.Database.MongoDb@2.0.0

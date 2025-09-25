@@ -1,0 +1,6 @@
+- pkg:nuget/Highway.Data.EntityFrameworkCore@7.0.0-alpha1
+- pkg:nuget/Highway.Data.EntityFrameworkCore@7.0.0-alpha2
+- pkg:nuget/Highway.Data.EntityFrameworkCore@7.0.0-alpha3
+- pkg:nuget/Highway.Data.EntityFrameworkCore@7.0.0-beta1
+- pkg:nuget/Highway.Data.EntityFrameworkCore@7.0.0-beta2
+- pkg:nuget/Highway.Data.EntityFrameworkCore@7.0.0-beta4

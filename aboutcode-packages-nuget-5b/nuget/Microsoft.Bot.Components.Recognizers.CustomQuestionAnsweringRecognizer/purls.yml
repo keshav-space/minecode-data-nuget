@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Bot.Components.Recognizers.CustomQuestionAnsweringRecognizer@0.0.1-preview.20221207.d820abf
+- pkg:nuget/Microsoft.Bot.Components.Recognizers.CustomQuestionAnsweringRecognizer@1.0.0

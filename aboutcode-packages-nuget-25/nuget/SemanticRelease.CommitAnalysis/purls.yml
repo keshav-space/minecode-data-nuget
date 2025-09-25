@@ -1,0 +1,3 @@
+- pkg:nuget/SemanticRelease.CommitAnalysis@0.0.0
+- pkg:nuget/SemanticRelease.CommitAnalysis@1.0.0
+- pkg:nuget/SemanticRelease.CommitAnalysis@1.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/NetChris.AspNetCore.Hsts@0.0.0
+- pkg:nuget/NetChris.AspNetCore.Hsts@0.1.0
+- pkg:nuget/NetChris.AspNetCore.Hsts@0.1.1
+- pkg:nuget/NetChris.AspNetCore.Hsts@0.2.20-prerelease5
+- pkg:nuget/NetChris.AspNetCore.Hsts@0.2.22

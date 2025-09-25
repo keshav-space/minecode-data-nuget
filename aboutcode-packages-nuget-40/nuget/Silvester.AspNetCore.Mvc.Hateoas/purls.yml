@@ -1,0 +1,3 @@
+- pkg:nuget/Silvester.AspNetCore.Mvc.Hateoas@0.0.1
+- pkg:nuget/Silvester.AspNetCore.Mvc.Hateoas@1.0.0
+- pkg:nuget/Silvester.AspNetCore.Mvc.Hateoas@2.0.0

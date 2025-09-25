@@ -1,0 +1,4 @@
+- pkg:nuget/ftserver-client@0.0.2.10
+- pkg:nuget/ftserver-client@0.0.2.11
+- pkg:nuget/ftserver-client@0.0.2.12-alpha-1
+- pkg:nuget/ftserver-client@0.0.2.9

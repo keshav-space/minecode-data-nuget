@@ -1,0 +1,13 @@
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@3.0.0
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@5.0.1
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@5.0.2
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@5.0.3
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@5.0.4
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@5.0.5
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@5.1.0
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@5.1.1
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@6.0.0
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@6.0.0-nightbuild
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@7.0.0
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@7.0.1
+- pkg:nuget/NetDevPack.Security.PasswordHasher.Argon2@7.1.0

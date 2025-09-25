@@ -1,0 +1,4 @@
+- pkg:nuget/jjsHttpClient@1.0.0
+- pkg:nuget/jjsHttpClient@2.0.0
+- pkg:nuget/jjsHttpClient@3.0.0
+- pkg:nuget/jjsHttpClient@4.0.0

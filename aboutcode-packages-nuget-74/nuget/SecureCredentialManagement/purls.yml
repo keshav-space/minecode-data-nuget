@@ -1,0 +1,10 @@
+- pkg:nuget/SecureCredentialManagement@1.0.0
+- pkg:nuget/SecureCredentialManagement@1.0.0-CI-20190601-211939
+- pkg:nuget/SecureCredentialManagement@1.0.0-CI-20190601-223057
+- pkg:nuget/SecureCredentialManagement@1.0.1
+- pkg:nuget/SecureCredentialManagement@1.0.1-CI-20190602-69
+- pkg:nuget/SecureCredentialManagement@1.0.1-CI-20190603-70
+- pkg:nuget/SecureCredentialManagement@1.0.1-CI-20190603-71
+- pkg:nuget/SecureCredentialManagement@1.0.1-CI-20190606-85
+- pkg:nuget/SecureCredentialManagement@1.0.2
+- pkg:nuget/SecureCredentialManagement@1.0.2-CI-20190606-87

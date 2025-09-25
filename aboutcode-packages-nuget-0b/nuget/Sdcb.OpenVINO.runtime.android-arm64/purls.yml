@@ -1,0 +1,2 @@
+- pkg:nuget/Sdcb.OpenVINO.runtime.android-arm64@2023.1.0
+- pkg:nuget/Sdcb.OpenVINO.runtime.android-arm64@2023.2.0-preview.2

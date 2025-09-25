@@ -1,0 +1,4 @@
+- pkg:nuget/EPiServer.Automation@0.10.0
+- pkg:nuget/EPiServer.Automation@0.11.0
+- pkg:nuget/EPiServer.Automation@0.8.1
+- pkg:nuget/EPiServer.Automation@0.9.0
