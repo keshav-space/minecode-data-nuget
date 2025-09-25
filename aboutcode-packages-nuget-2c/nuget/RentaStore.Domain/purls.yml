@@ -1,0 +1,5 @@
+- pkg:nuget/RentaStore.Domain@0.0.0
+- pkg:nuget/RentaStore.Domain@0.0.0.1
+- pkg:nuget/RentaStore.Domain@0.0.1
+- pkg:nuget/RentaStore.Domain@0.0.2
+- pkg:nuget/RentaStore.Domain@0.0.2.1

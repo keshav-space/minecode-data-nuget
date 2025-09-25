@@ -1,0 +1,4 @@
+- pkg:nuget/Persis.ElasticSearch@2.1.0
+- pkg:nuget/Persis.ElasticSearch@2.1.1
+- pkg:nuget/Persis.ElasticSearch@3.1.0
+- pkg:nuget/Persis.ElasticSearch@5.0.0

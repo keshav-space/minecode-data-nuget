@@ -1,0 +1,4 @@
+- pkg:nuget/HBD.EfCore.Hooks@1.0.1.1
+- pkg:nuget/HBD.EfCore.Hooks@3.0.0-preview002
+- pkg:nuget/HBD.EfCore.Hooks@3.0.0-preview004
+- pkg:nuget/HBD.EfCore.Hooks@6.0.117

@@ -1,0 +1,6 @@
+- pkg:nuget/UkrGuru.WebJobs.Actions.SshNet@3.6.6
+- pkg:nuget/UkrGuru.WebJobs.Actions.SshNet@3.6.7
+- pkg:nuget/UkrGuru.WebJobs.Actions.SshNet@3.7.0
+- pkg:nuget/UkrGuru.WebJobs.Actions.SshNet@3.7.2
+- pkg:nuget/UkrGuru.WebJobs.Actions.SshNet@3.7.3
+- pkg:nuget/UkrGuru.WebJobs.Actions.SshNet@3.8.4

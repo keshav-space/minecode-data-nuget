@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.0.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.0.0-beta1
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.0.0-beta2
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.1.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.1.0-beta1
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.1.0-beta3
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.1.0-beta4
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.2.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.NotificationHubs@1.3.0

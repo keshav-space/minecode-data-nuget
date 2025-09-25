@@ -1,0 +1,3 @@
+- pkg:nuget/Database.Migrator.Postgres@1.0.0
+- pkg:nuget/Database.Migrator.Postgres@1.0.1
+- pkg:nuget/Database.Migrator.Postgres@1.0.2

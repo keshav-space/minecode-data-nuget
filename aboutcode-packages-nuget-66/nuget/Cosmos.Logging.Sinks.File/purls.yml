@@ -1,0 +1,4 @@
+- pkg:nuget/Cosmos.Logging.Sinks.File@0.1.0
+- pkg:nuget/Cosmos.Logging.Sinks.File@0.1.0-prerelease-103100
+- pkg:nuget/Cosmos.Logging.Sinks.File@0.1.1
+- pkg:nuget/Cosmos.Logging.Sinks.File@0.1.2

@@ -1,0 +1,3 @@
+- pkg:nuget/DataSuit.AspNetCore@0.2.0-beta
+- pkg:nuget/DataSuit.AspNetCore@0.2.1-beta
+- pkg:nuget/DataSuit.AspNetCore@0.3.0-beta

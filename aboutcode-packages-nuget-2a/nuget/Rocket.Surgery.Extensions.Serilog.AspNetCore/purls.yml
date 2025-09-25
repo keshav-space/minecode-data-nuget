@@ -1,0 +1,15 @@
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@3.0.0
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@3.1.0
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@4.0.0
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@5.0.0
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@5.0.1
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@5.0.2
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@5.0.3
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@6.0.0
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@6.0.1
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@6.0.2
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@6.0.3
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@6.0.4
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@6.0.5
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@7.0.0
+- pkg:nuget/Rocket.Surgery.Extensions.Serilog.AspNetCore@7.0.1

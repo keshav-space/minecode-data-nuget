@@ -1,0 +1,2 @@
+- pkg:nuget/MiniFox.Data.SqlServer@6.0.0
+- pkg:nuget/MiniFox.Data.SqlServer@8.0.0

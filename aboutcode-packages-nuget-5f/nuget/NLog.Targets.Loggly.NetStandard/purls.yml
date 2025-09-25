@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.Targets.Loggly.NetStandard@4.5.2.5
+- pkg:nuget/NLog.Targets.Loggly.NetStandard@4.5.2.6

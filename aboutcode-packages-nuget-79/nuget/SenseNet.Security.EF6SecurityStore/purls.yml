@@ -1,0 +1,7 @@
+- pkg:nuget/SenseNet.Security.EF6SecurityStore@2.3.0
+- pkg:nuget/SenseNet.Security.EF6SecurityStore@2.3.1
+- pkg:nuget/SenseNet.Security.EF6SecurityStore@3.0.0
+- pkg:nuget/SenseNet.Security.EF6SecurityStore@3.0.1
+- pkg:nuget/SenseNet.Security.EF6SecurityStore@4.0.0
+- pkg:nuget/SenseNet.Security.EF6SecurityStore@4.1.0
+- pkg:nuget/SenseNet.Security.EF6SecurityStore@4.1.1

@@ -1,0 +1,3 @@
+- pkg:nuget/AppFunc.SimpleInjector@0.0.1
+- pkg:nuget/AppFunc.SimpleInjector@0.0.1-pre
+- pkg:nuget/AppFunc.SimpleInjector@0.0.2-pre

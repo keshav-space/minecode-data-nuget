@@ -1,0 +1,13 @@
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@4.4.1
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@4.4.2
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@4.4.3
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@5.0.1
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@5.1.0
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@5.1.1
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@5.1.2
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@6.0.0-preview.1
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@6.0.26
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@6.1.0
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@6.1.1
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@7.0.0
+- pkg:nuget/Sdcb.FFmpeg.runtime.windows-x64@7.1.0

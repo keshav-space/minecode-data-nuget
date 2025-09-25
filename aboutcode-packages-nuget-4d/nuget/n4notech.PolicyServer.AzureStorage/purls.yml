@@ -1,0 +1,5 @@
+- pkg:nuget/n4notech.PolicyServer.AzureStorage@0.0.1
+- pkg:nuget/n4notech.PolicyServer.AzureStorage@0.0.2
+- pkg:nuget/n4notech.PolicyServer.AzureStorage@0.0.3-preview1
+- pkg:nuget/n4notech.PolicyServer.AzureStorage@0.0.3-preview2
+- pkg:nuget/n4notech.PolicyServer.AzureStorage@0.0.3-preview3

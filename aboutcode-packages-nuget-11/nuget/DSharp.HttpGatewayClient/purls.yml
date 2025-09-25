@@ -1,0 +1,5 @@
+- pkg:nuget/DSharp.HttpGatewayClient@1.0.7
+- pkg:nuget/DSharp.HttpGatewayClient@1.0.9
+- pkg:nuget/DSharp.HttpGatewayClient@2.1.23
+- pkg:nuget/DSharp.HttpGatewayClient@2.3.1.1901
+- pkg:nuget/DSharp.HttpGatewayClient@2.3.2

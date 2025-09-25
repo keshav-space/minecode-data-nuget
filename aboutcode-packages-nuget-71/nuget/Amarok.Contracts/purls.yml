@@ -1,0 +1,17 @@
+- pkg:nuget/Amarok.Contracts@1.0.0
+- pkg:nuget/Amarok.Contracts@1.0.0-beta.1
+- pkg:nuget/Amarok.Contracts@1.0.0-beta.2
+- pkg:nuget/Amarok.Contracts@2.0.0
+- pkg:nuget/Amarok.Contracts@3.0.0
+- pkg:nuget/Amarok.Contracts@3.0.1
+- pkg:nuget/Amarok.Contracts@3.0.2
+- pkg:nuget/Amarok.Contracts@3.0.3
+- pkg:nuget/Amarok.Contracts@3.1.0
+- pkg:nuget/Amarok.Contracts@3.1.1
+- pkg:nuget/Amarok.Contracts@3.1.2
+- pkg:nuget/Amarok.Contracts@3.1.3
+- pkg:nuget/Amarok.Contracts@4.0.0
+- pkg:nuget/Amarok.Contracts@5.0.0
+- pkg:nuget/Amarok.Contracts@6.0.0
+- pkg:nuget/Amarok.Contracts@7.0.0
+- pkg:nuget/Amarok.Contracts@7.1.0

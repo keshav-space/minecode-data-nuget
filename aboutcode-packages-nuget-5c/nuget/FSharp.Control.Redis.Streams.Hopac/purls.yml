@@ -1,0 +1,4 @@
+- pkg:nuget/FSharp.Control.Redis.Streams.Hopac@0.1.0
+- pkg:nuget/FSharp.Control.Redis.Streams.Hopac@0.1.0-beta001
+- pkg:nuget/FSharp.Control.Redis.Streams.Hopac@0.1.0-beta002
+- pkg:nuget/FSharp.Control.Redis.Streams.Hopac@0.1.0-beta003

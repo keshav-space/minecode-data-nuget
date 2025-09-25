@@ -1,0 +1,3 @@
+- pkg:nuget/RoboLynx.Umbraco.QRCodeGenerator.Frontend.Cache.Local@10.0.0-beta.8
+- pkg:nuget/RoboLynx.Umbraco.QRCodeGenerator.Frontend.Cache.Local@8.1.0
+- pkg:nuget/RoboLynx.Umbraco.QRCodeGenerator.Frontend.Cache.Local@9.0.0

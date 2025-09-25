@@ -1,0 +1,5 @@
+- pkg:nuget/Vayosoft.Streaming.Redis@2.2.1
+- pkg:nuget/Vayosoft.Streaming.Redis@2.3.0
+- pkg:nuget/Vayosoft.Streaming.Redis@2.3.1
+- pkg:nuget/Vayosoft.Streaming.Redis@2.4.0
+- pkg:nuget/Vayosoft.Streaming.Redis@8.0.0

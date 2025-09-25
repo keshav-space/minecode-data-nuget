@@ -1,0 +1,4 @@
+- pkg:nuget/Sherlock.Framework.Data.Dapper@2.0.1
+- pkg:nuget/Sherlock.Framework.Data.Dapper@3.0.0
+- pkg:nuget/Sherlock.Framework.Data.Dapper@3.0.0-beta2
+- pkg:nuget/Sherlock.Framework.Data.Dapper@3.0.1

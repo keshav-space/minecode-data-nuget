@@ -1,0 +1,10 @@
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@10.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@11.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@12.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@12.0.1
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@8.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@8.0.1
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@8.1.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@8.2.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@9.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.AspNet@9.1.0

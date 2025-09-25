@@ -1,0 +1,11 @@
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@0.1.13
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.0.0
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.0.0-dev.8
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.0.1-dev.1
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.0.1-dev.3
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.0.5
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.0.6
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.0.7
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.1.0
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.1.0-dev.4
+- pkg:nuget/dotnet-azdo-artifacts-multidownload@1.2.0-dev.1

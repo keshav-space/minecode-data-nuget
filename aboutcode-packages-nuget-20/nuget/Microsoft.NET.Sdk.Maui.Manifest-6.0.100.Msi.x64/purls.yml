@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100.Msi.x64@6.0.100-rc.1.1608
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100.Msi.x64@6.0.101-preview.10.2068
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100.Msi.x64@6.0.101-preview.11.2349
+- pkg:nuget/Microsoft.NET.Sdk.Maui.Manifest-6.0.100.Msi.x64@6.0.101-preview.9.1843

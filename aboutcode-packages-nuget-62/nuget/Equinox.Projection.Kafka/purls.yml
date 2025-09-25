@@ -1,0 +1,4 @@
+- pkg:nuget/Equinox.Projection.Kafka@1.1.0-beta3
+- pkg:nuget/Equinox.Projection.Kafka@1.1.0-beta4
+- pkg:nuget/Equinox.Projection.Kafka@1.1.0-preview1
+- pkg:nuget/Equinox.Projection.Kafka@1.1.0-preview2

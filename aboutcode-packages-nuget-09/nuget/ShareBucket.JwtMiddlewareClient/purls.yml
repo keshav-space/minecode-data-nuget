@@ -1,0 +1,12 @@
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@1.0.0
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@1.1.0
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@2.0.0
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@3.0.0
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@4.0.0
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@5.0.0
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@6.0.0
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@6.0.1
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@6.0.2
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@7.0.0
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@7.0.1
+- pkg:nuget/ShareBucket.JwtMiddlewareClient@7.0.2

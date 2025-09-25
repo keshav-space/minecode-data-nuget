@@ -1,0 +1,9 @@
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.0.0
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.0.0-beta
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.0.1
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.0.2
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.0.2-beta
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.0.2-beta2
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.0.3
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.1.4
+- pkg:nuget/Stenn.AppData.EntityFrameworkCore@7.1.4-beta

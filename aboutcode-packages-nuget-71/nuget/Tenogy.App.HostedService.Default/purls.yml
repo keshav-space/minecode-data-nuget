@@ -1,0 +1,10 @@
+- pkg:nuget/Tenogy.App.HostedService.Default@3.0.0
+- pkg:nuget/Tenogy.App.HostedService.Default@4.0.0
+- pkg:nuget/Tenogy.App.HostedService.Default@4.0.1
+- pkg:nuget/Tenogy.App.HostedService.Default@4.0.2
+- pkg:nuget/Tenogy.App.HostedService.Default@4.0.4
+- pkg:nuget/Tenogy.App.HostedService.Default@5.0.0
+- pkg:nuget/Tenogy.App.HostedService.Default@5.0.1
+- pkg:nuget/Tenogy.App.HostedService.Default@5.0.2
+- pkg:nuget/Tenogy.App.HostedService.Default@6.0.0
+- pkg:nuget/Tenogy.App.HostedService.Default@7.0.0

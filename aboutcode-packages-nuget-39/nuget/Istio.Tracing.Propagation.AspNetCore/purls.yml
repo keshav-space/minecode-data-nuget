@@ -1,0 +1,4 @@
+- pkg:nuget/Istio.Tracing.Propagation.AspNetCore@1.0.0
+- pkg:nuget/Istio.Tracing.Propagation.AspNetCore@1.0.0-alpha
+- pkg:nuget/Istio.Tracing.Propagation.AspNetCore@1.0.0-alpha2
+- pkg:nuget/Istio.Tracing.Propagation.AspNetCore@1.0.0-beta

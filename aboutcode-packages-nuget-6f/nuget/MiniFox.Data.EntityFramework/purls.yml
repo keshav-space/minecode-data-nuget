@@ -1,0 +1,2 @@
+- pkg:nuget/MiniFox.Data.EntityFramework@6.0.0
+- pkg:nuget/MiniFox.Data.EntityFramework@8.0.0

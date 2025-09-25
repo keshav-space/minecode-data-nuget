@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Enrichers.AspnetcoreHttpcontext.Fork@1.0.0
+- pkg:nuget/Serilog.Enrichers.AspnetcoreHttpcontext.Fork@5.0.0

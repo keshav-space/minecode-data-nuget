@@ -1,0 +1,9 @@
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@1.0.0.31
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@2.0.0.5
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@2.0.2.9
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@2.0.3.2
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@2.0.4.4
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@2.1.0.15
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@2.1.1.18
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@2.2.0.20
+- pkg:nuget/DbTestMonkey.Providers.SqlServer@2.3.0.24

@@ -1,0 +1,6 @@
+- pkg:nuget/AspNetCore.HealthChecks.Configuration@1.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Configuration@1.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Configuration@1.1.0
+- pkg:nuget/AspNetCore.HealthChecks.Configuration@1.1.1
+- pkg:nuget/AspNetCore.HealthChecks.Configuration@1.1.2
+- pkg:nuget/AspNetCore.HealthChecks.Configuration@1.1.3

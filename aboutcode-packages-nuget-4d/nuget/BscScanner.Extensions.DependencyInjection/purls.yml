@@ -1,0 +1,3 @@
+- pkg:nuget/BscScanner.Extensions.DependencyInjection@0.1.0
+- pkg:nuget/BscScanner.Extensions.DependencyInjection@0.1.2
+- pkg:nuget/BscScanner.Extensions.DependencyInjection@0.1.2-rc1

@@ -1,0 +1,6 @@
+- pkg:nuget/CsabaDu.DynamicTestData.xUnit@1.0.0
+- pkg:nuget/CsabaDu.DynamicTestData.xUnit@1.0.1
+- pkg:nuget/CsabaDu.DynamicTestData.xUnit@1.1.0
+- pkg:nuget/CsabaDu.DynamicTestData.xUnit@1.1.1
+- pkg:nuget/CsabaDu.DynamicTestData.xUnit@2.0.0-beta
+- pkg:nuget/CsabaDu.DynamicTestData.xUnit@2.0.1-beta

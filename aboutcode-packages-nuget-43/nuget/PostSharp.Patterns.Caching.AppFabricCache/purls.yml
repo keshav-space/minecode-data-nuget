@@ -1,0 +1,2 @@
+- pkg:nuget/PostSharp.Patterns.Caching.AppFabricCache@5.0.10-preview
+- pkg:nuget/PostSharp.Patterns.Caching.AppFabricCache@5.0.11-preview

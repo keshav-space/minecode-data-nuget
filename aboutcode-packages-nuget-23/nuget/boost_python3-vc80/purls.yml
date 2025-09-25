@@ -1,0 +1,3 @@
+- pkg:nuget/boost_python3-vc80@1.64.0
+- pkg:nuget/boost_python3-vc80@1.65.0
+- pkg:nuget/boost_python3-vc80@1.65.1

@@ -1,0 +1,5 @@
+- pkg:nuget/OpenTracing.Signed@0.10.0
+- pkg:nuget/OpenTracing.Signed@0.10.1
+- pkg:nuget/OpenTracing.Signed@0.10.2
+- pkg:nuget/OpenTracing.Signed@0.10.3
+- pkg:nuget/OpenTracing.Signed@0.10.4

@@ -1,0 +1,5 @@
+- pkg:nuget/Vayosoft.Persistence.MongoDB@2.2.1
+- pkg:nuget/Vayosoft.Persistence.MongoDB@2.3.0
+- pkg:nuget/Vayosoft.Persistence.MongoDB@2.3.1
+- pkg:nuget/Vayosoft.Persistence.MongoDB@2.4.0
+- pkg:nuget/Vayosoft.Persistence.MongoDB@8.0.0

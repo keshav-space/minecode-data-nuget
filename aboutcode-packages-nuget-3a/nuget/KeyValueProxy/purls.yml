@@ -1,0 +1,5 @@
+- pkg:nuget/KeyValueProxy@1.0.0-RC
+- pkg:nuget/KeyValueProxy@1.1.0
+- pkg:nuget/KeyValueProxy@1.1.0-preview
+- pkg:nuget/KeyValueProxy@1.2.0
+- pkg:nuget/KeyValueProxy@1.3.0

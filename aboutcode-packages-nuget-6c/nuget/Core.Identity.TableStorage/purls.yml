@@ -1,0 +1,5 @@
+- pkg:nuget/Core.Identity.TableStorage@0.0.1
+- pkg:nuget/Core.Identity.TableStorage@0.0.10-prerelease
+- pkg:nuget/Core.Identity.TableStorage@0.0.2-prerelease
+- pkg:nuget/Core.Identity.TableStorage@0.0.8-prerelease
+- pkg:nuget/Core.Identity.TableStorage@0.0.9-prerelease

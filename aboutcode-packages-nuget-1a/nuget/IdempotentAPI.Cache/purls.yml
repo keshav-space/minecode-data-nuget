@@ -1,0 +1,3 @@
+- pkg:nuget/IdempotentAPI.Cache@1.0.0-rc-01
+- pkg:nuget/IdempotentAPI.Cache@1.0.1
+- pkg:nuget/IdempotentAPI.Cache@1.0.2-prerelease-01

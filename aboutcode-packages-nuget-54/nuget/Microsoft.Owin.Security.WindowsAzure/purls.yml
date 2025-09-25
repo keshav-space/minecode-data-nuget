@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Owin.Security.WindowsAzure@1.1.0-beta2
+- pkg:nuget/Microsoft.Owin.Security.WindowsAzure@2.0.0-rc1

@@ -1,0 +1,4 @@
+- pkg:nuget/Nancy.Routing.UriTemplates@0.1.0
+- pkg:nuget/Nancy.Routing.UriTemplates@0.1.1
+- pkg:nuget/Nancy.Routing.UriTemplates@1.2.0
+- pkg:nuget/Nancy.Routing.UriTemplates@2.0.0

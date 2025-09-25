@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Deployment.DotNet.Releases@1.0.0
+- pkg:nuget/Microsoft.Deployment.DotNet.Releases@1.0.0-preview1.1.21116.1
+- pkg:nuget/Microsoft.Deployment.DotNet.Releases@1.0.0-preview2.6.21561.1
+- pkg:nuget/Microsoft.Deployment.DotNet.Releases@1.0.0-preview3.6.22115.1
+- pkg:nuget/Microsoft.Deployment.DotNet.Releases@1.0.0-preview4.1.22206.3
+- pkg:nuget/Microsoft.Deployment.DotNet.Releases@1.0.0-preview5.2.22558.1
+- pkg:nuget/Microsoft.Deployment.DotNet.Releases@1.0.1
+- pkg:nuget/Microsoft.Deployment.DotNet.Releases@2.0.0-preview.1.25277.114
