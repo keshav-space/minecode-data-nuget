@@ -1,0 +1,6 @@
+- pkg:nuget/App.Shared@1.0.0
+- pkg:nuget/App.Shared@1.0.1
+- pkg:nuget/App.Shared@2.0.0
+- pkg:nuget/App.Shared@2.0.1
+- pkg:nuget/App.Shared@2.0.2
+- pkg:nuget/App.Shared@2.0.3

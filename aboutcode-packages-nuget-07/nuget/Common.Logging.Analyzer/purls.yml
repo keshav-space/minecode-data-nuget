@@ -1,0 +1,4 @@
+- pkg:nuget/Common.Logging.Analyzer@0.1.0-beta1
+- pkg:nuget/Common.Logging.Analyzer@0.2.0
+- pkg:nuget/Common.Logging.Analyzer@0.2.1
+- pkg:nuget/Common.Logging.Analyzer@0.2.2

@@ -1,0 +1,5 @@
+- pkg:nuget/CitrixNetScalerSDK@10.0.0
+- pkg:nuget/CitrixNetScalerSDK@10.1.0
+- pkg:nuget/CitrixNetScalerSDK@10.5.0
+- pkg:nuget/CitrixNetScalerSDK@11.0.0
+- pkg:nuget/CitrixNetScalerSDK@9.2.0

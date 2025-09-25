@@ -1,0 +1,4 @@
+- pkg:nuget/libsvm.clr.vs2015.x64@0.9.0
+- pkg:nuget/libsvm.clr.vs2015.x64@1.0.0
+- pkg:nuget/libsvm.clr.vs2015.x64@1.1.0
+- pkg:nuget/libsvm.clr.vs2015.x64@1.1.2

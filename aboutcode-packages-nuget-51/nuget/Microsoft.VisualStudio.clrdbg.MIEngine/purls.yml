@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.VisualStudio.clrdbg.MIEngine@14.0.30401-preview-1
+- pkg:nuget/Microsoft.VisualStudio.clrdbg.MIEngine@14.0.30606-preview-1
+- pkg:nuget/Microsoft.VisualStudio.clrdbg.MIEngine@14.0.30610-preview-1
+- pkg:nuget/Microsoft.VisualStudio.clrdbg.MIEngine@14.0.30629-preview-1
+- pkg:nuget/Microsoft.VisualStudio.clrdbg.MIEngine@14.0.30715-preview-1
+- pkg:nuget/Microsoft.VisualStudio.clrdbg.MIEngine@14.0.30822-preview-1
+- pkg:nuget/Microsoft.VisualStudio.clrdbg.MIEngine@14.0.31028-preview-1

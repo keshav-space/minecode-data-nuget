@@ -1,0 +1,4 @@
+- pkg:nuget/CmdLineArgs@1.0.0
+- pkg:nuget/CmdLineArgs@1.0.1-alpha
+- pkg:nuget/CmdLineArgs@1.0.1-alpha01
+- pkg:nuget/CmdLineArgs@1.1.0

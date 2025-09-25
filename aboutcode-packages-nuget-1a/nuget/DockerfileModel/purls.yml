@@ -1,0 +1,6 @@
+- pkg:nuget/DockerfileModel@0.0.1-prerelease
+- pkg:nuget/DockerfileModel@0.1.0-prerelease
+- pkg:nuget/DockerfileModel@0.2.0-prerelease
+- pkg:nuget/DockerfileModel@0.3.0-prerelease
+- pkg:nuget/DockerfileModel@0.4.0-prerelease
+- pkg:nuget/DockerfileModel@0.5.0

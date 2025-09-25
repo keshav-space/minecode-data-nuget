@@ -1,0 +1,5 @@
+- pkg:nuget/MetaBrainz.Common@1.0.0
+- pkg:nuget/MetaBrainz.Common@2.0.0%2Bgithub.18.1
+- pkg:nuget/MetaBrainz.Common@2.1.0%2Bgithub.28.1
+- pkg:nuget/MetaBrainz.Common@3.0.0%2Bgithub.37.1
+- pkg:nuget/MetaBrainz.Common@4.0.0%2Bgithub.50.1

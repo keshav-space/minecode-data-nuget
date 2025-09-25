@@ -1,0 +1,4 @@
+- pkg:nuget/ArchitectureCore.Web@3.2.0
+- pkg:nuget/ArchitectureCore.Web@3.3.1
+- pkg:nuget/ArchitectureCore.Web@6.0.0
+- pkg:nuget/ArchitectureCore.Web@8.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/D2L.LaunchDarkly.Client@3.4.0
+- pkg:nuget/D2L.LaunchDarkly.Client@3.4.0.1
+- pkg:nuget/D2L.LaunchDarkly.Client@3.5.0
+- pkg:nuget/D2L.LaunchDarkly.Client@5.4.0
+- pkg:nuget/D2L.LaunchDarkly.Client@5.4.0.1
+- pkg:nuget/D2L.LaunchDarkly.Client@5.6.2

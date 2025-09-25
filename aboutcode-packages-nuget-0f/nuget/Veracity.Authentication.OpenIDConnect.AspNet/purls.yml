@@ -1,0 +1,11 @@
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-beta
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-beta1
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-preview001
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-preview002
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-preview003
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-preview004
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-preview005
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-preview006
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.0.0-preview007
+- pkg:nuget/Veracity.Authentication.OpenIDConnect.AspNet@1.1.0

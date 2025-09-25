@@ -1,0 +1,13 @@
+- pkg:nuget/GreatDomain.Core@0.1.0-beta
+- pkg:nuget/GreatDomain.Core@0.2.0-beta
+- pkg:nuget/GreatDomain.Core@0.3.0-beta
+- pkg:nuget/GreatDomain.Core@0.4.0-beta
+- pkg:nuget/GreatDomain.Core@0.4.1-beta
+- pkg:nuget/GreatDomain.Core@0.4.2-beta
+- pkg:nuget/GreatDomain.Core@0.5.0-beta
+- pkg:nuget/GreatDomain.Core@0.5.1-beta
+- pkg:nuget/GreatDomain.Core@0.5.2-beta
+- pkg:nuget/GreatDomain.Core@0.6.0-beta
+- pkg:nuget/GreatDomain.Core@0.7.0-beta
+- pkg:nuget/GreatDomain.Core@0.7.1-beta
+- pkg:nuget/GreatDomain.Core@0.7.2-beta

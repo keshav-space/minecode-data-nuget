@@ -1,0 +1,4 @@
+- pkg:nuget/test-4digit-semver@1.0.0
+- pkg:nuget/test-4digit-semver@1.0.0-beta
+- pkg:nuget/test-4digit-semver@1.0.0.5-beta
+- pkg:nuget/test-4digit-semver@2.0.0

@@ -1,0 +1,8 @@
+- pkg:nuget/TECHIS.Serialization.MessagePack@0.1.0
+- pkg:nuget/TECHIS.Serialization.MessagePack@0.1.1
+- pkg:nuget/TECHIS.Serialization.MessagePack@0.1.2
+- pkg:nuget/TECHIS.Serialization.MessagePack@1.0.0-preview
+- pkg:nuget/TECHIS.Serialization.MessagePack@2.0.0
+- pkg:nuget/TECHIS.Serialization.MessagePack@3.0.0
+- pkg:nuget/TECHIS.Serialization.MessagePack@4.0.0
+- pkg:nuget/TECHIS.Serialization.MessagePack@5.0.0

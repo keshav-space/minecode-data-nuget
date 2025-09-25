@@ -1,0 +1,10 @@
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@1.0.0
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@1.0.1
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@10.0.0
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@10.0.0-Alpha0001
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@10.0.0-Beta0001
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@2.0.0
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@2.0.1
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@2.1.0
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@3.0.0
+- pkg:nuget/Dynamicweb.Mailing.DeliveryProviders.SendGridProvider@3.0.1

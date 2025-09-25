@@ -1,0 +1,6 @@
+- pkg:nuget/RidgeDotNet.Extensions.Nunit@2.0.0
+- pkg:nuget/RidgeDotNet.Extensions.Nunit@2.0.1
+- pkg:nuget/RidgeDotNet.Extensions.Nunit@2.0.1-beta
+- pkg:nuget/RidgeDotNet.Extensions.Nunit@2.0.2
+- pkg:nuget/RidgeDotNet.Extensions.Nunit@2.1.0
+- pkg:nuget/RidgeDotNet.Extensions.Nunit@2.1.2-beta

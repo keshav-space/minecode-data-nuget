@@ -1,0 +1,4 @@
+- pkg:nuget/LostTech.TensorFlow.Python.runtime.win-x64@0.1.15
+- pkg:nuget/LostTech.TensorFlow.Python.runtime.win-x64@0.1.15.1
+- pkg:nuget/LostTech.TensorFlow.Python.runtime.win-x64@0.1.15.3
+- pkg:nuget/LostTech.TensorFlow.Python.runtime.win-x64@0.1.15.300

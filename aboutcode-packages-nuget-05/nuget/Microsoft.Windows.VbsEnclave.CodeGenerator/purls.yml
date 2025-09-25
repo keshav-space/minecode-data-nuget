@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Windows.VbsEnclave.CodeGenerator@0.0.2-prerelease.250520.3
+- pkg:nuget/Microsoft.Windows.VbsEnclave.CodeGenerator@0.1.0-prerelease.250731.6
+- pkg:nuget/Microsoft.Windows.VbsEnclave.CodeGenerator@0.1.1-prerelease.250815.1
+- pkg:nuget/Microsoft.Windows.VbsEnclave.CodeGenerator@0.1.2-prerelease.250820.1

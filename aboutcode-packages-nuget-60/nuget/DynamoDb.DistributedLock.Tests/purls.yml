@@ -1,0 +1,4 @@
+- pkg:nuget/DynamoDb.DistributedLock.Tests@1.1.0-beta.8
+- pkg:nuget/DynamoDb.DistributedLock.Tests@1.1.0-beta.9
+- pkg:nuget/DynamoDb.DistributedLock.Tests@1.1.0.10
+- pkg:nuget/DynamoDb.DistributedLock.Tests@1.2.1.16

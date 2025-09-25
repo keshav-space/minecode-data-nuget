@@ -1,0 +1,4 @@
+- pkg:nuget/Apache.Avro.File.Snappy@1.11.1
+- pkg:nuget/Apache.Avro.File.Snappy@1.11.2
+- pkg:nuget/Apache.Avro.File.Snappy@1.11.3
+- pkg:nuget/Apache.Avro.File.Snappy@1.12.0

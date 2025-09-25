@@ -1,0 +1,10 @@
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.1
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.10
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.11
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.12
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.13
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.14
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.2
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.4
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.6
+- pkg:nuget/HBDStack.Services.StateManagement.Storages.MySql@6.5.8

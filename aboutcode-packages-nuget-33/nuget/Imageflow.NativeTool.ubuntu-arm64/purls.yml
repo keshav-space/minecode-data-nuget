@@ -1,0 +1,14 @@
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.0-preview12
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.0-preview14
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.0-preview15
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.0-preview16
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.1-rc-2
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.1-rc01
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.1-rc04
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.1-rc05
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.0.1-rc07
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.1.0-rc01
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.1.0-rc02
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.1.0-rc05
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.1.0-rc06
+- pkg:nuget/Imageflow.NativeTool.ubuntu-arm64@2.1.0-rc07

@@ -1,0 +1,11 @@
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@16.5.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@16.7.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@16.8.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@18.0.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@18.1.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@18.2.0-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@18.2.1-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@19.0.1
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@19.0.1-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@19.1.1-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework.Communication@3.0.0

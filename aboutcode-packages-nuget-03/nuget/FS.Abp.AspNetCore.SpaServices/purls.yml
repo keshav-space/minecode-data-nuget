@@ -1,0 +1,7 @@
+- pkg:nuget/FS.Abp.AspNetCore.SpaServices@402.0.1
+- pkg:nuget/FS.Abp.AspNetCore.SpaServices@402.0.2
+- pkg:nuget/FS.Abp.AspNetCore.SpaServices@410.0.1
+- pkg:nuget/FS.Abp.AspNetCore.SpaServices@410.0.2
+- pkg:nuget/FS.Abp.AspNetCore.SpaServices@410.0.3
+- pkg:nuget/FS.Abp.AspNetCore.SpaServices@410.0.4
+- pkg:nuget/FS.Abp.AspNetCore.SpaServices@420.0.1

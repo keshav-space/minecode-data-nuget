@@ -1,0 +1,12 @@
+- pkg:nuget/NServiceBus.MessageRouting@0.1.0
+- pkg:nuget/NServiceBus.MessageRouting@0.2.0
+- pkg:nuget/NServiceBus.MessageRouting@0.3.0
+- pkg:nuget/NServiceBus.MessageRouting@0.4.0
+- pkg:nuget/NServiceBus.MessageRouting@1.0.0
+- pkg:nuget/NServiceBus.MessageRouting@1.0.1
+- pkg:nuget/NServiceBus.MessageRouting@2.0.0
+- pkg:nuget/NServiceBus.MessageRouting@2.0.0-beta1
+- pkg:nuget/NServiceBus.MessageRouting@3.0.0
+- pkg:nuget/NServiceBus.MessageRouting@3.0.0-beta1
+- pkg:nuget/NServiceBus.MessageRouting@4.0.0
+- pkg:nuget/NServiceBus.MessageRouting@5.0.0

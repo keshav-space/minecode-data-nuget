@@ -1,0 +1,9 @@
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@16.5.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@16.7.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@16.8.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@18.0.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@18.1.0
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@18.2.0-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@19.0.1
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@19.0.1-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework.Video.Client@3.0.0

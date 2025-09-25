@@ -1,0 +1,6 @@
+- pkg:nuget/ArchitectureCore.Connection.MySQLPomelo@3.1.3
+- pkg:nuget/ArchitectureCore.Connection.MySQLPomelo@3.2.0
+- pkg:nuget/ArchitectureCore.Connection.MySQLPomelo@6.0.0
+- pkg:nuget/ArchitectureCore.Connection.MySQLPomelo@6.0.1
+- pkg:nuget/ArchitectureCore.Connection.MySQLPomelo@6.0.2
+- pkg:nuget/ArchitectureCore.Connection.MySQLPomelo@8.0.0

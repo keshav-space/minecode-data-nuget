@@ -1,0 +1,3 @@
+- pkg:nuget/VirtoCommerce.CartModule.Client@2.10.4
+- pkg:nuget/VirtoCommerce.CartModule.Client@2.11.0
+- pkg:nuget/VirtoCommerce.CartModule.Client@2.11.0-rc1

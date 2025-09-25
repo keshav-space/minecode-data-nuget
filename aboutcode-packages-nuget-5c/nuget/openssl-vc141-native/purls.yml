@@ -1,0 +1,4 @@
+- pkg:nuget/openssl-vc141-native@1.1.1
+- pkg:nuget/openssl-vc141-native@1.1.1-j
+- pkg:nuget/openssl-vc141-native@2.0.0
+- pkg:nuget/openssl-vc141-native@3.0.0

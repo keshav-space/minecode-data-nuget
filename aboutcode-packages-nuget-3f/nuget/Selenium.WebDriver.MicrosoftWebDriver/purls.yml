@@ -1,0 +1,8 @@
+- pkg:nuget/Selenium.WebDriver.MicrosoftWebDriver@10.0.10240
+- pkg:nuget/Selenium.WebDriver.MicrosoftWebDriver@10.0.10586
+- pkg:nuget/Selenium.WebDriver.MicrosoftWebDriver@10.0.14393
+- pkg:nuget/Selenium.WebDriver.MicrosoftWebDriver@10.0.14393.1
+- pkg:nuget/Selenium.WebDriver.MicrosoftWebDriver@10.0.15063
+- pkg:nuget/Selenium.WebDriver.MicrosoftWebDriver@10.0.16299
+- pkg:nuget/Selenium.WebDriver.MicrosoftWebDriver@10.0.17134
+- pkg:nuget/Selenium.WebDriver.MicrosoftWebDriver@10.1.14393

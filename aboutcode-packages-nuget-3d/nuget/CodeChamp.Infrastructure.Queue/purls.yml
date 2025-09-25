@@ -1,0 +1,3 @@
+- pkg:nuget/CodeChamp.Infrastructure.Queue@1.0.0
+- pkg:nuget/CodeChamp.Infrastructure.Queue@1.0.1
+- pkg:nuget/CodeChamp.Infrastructure.Queue@1.0.2

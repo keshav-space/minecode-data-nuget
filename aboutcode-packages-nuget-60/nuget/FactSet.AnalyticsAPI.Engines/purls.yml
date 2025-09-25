@@ -1,0 +1,10 @@
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@3.0.0
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@4.0.0
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@4.1.1
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@5.0.0
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@5.1.0
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@5.1.1
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@5.2.0
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@5.3.0
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@5.4.0
+- pkg:nuget/FactSet.AnalyticsAPI.Engines@6.0.0

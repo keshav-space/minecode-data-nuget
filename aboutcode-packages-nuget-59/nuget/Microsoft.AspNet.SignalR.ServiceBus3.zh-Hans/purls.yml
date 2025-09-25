@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.2.2
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.2.2-preview1
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.2.3
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.3.0
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.4.0
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.4.0-preview1-20180920-03
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.4.0-preview2-20181018-02
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.4.1
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.4.2
+- pkg:nuget/Microsoft.AspNet.SignalR.ServiceBus3.zh-Hans@2.4.3

@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.PostgreSql.Reboot@1.0.0
+- pkg:nuget/Hangfire.PostgreSql.Reboot@1.0.1

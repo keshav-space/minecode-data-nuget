@@ -1,0 +1,14 @@
+- pkg:nuget/HarSA.EntityFrameworkCore@0.1.0
+- pkg:nuget/HarSA.EntityFrameworkCore@0.1.1
+- pkg:nuget/HarSA.EntityFrameworkCore@0.2.0
+- pkg:nuget/HarSA.EntityFrameworkCore@0.2.1
+- pkg:nuget/HarSA.EntityFrameworkCore@0.3.0
+- pkg:nuget/HarSA.EntityFrameworkCore@0.3.1
+- pkg:nuget/HarSA.EntityFrameworkCore@3.0.0
+- pkg:nuget/HarSA.EntityFrameworkCore@3.0.1
+- pkg:nuget/HarSA.EntityFrameworkCore@3.1.0
+- pkg:nuget/HarSA.EntityFrameworkCore@3.1.1
+- pkg:nuget/HarSA.EntityFrameworkCore@3.1.2
+- pkg:nuget/HarSA.EntityFrameworkCore@3.2.0
+- pkg:nuget/HarSA.EntityFrameworkCore@3.2.1
+- pkg:nuget/HarSA.EntityFrameworkCore@3.2.2

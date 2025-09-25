@@ -1,0 +1,8 @@
+- pkg:nuget/CleanArch.Utilities.AspNetCore@1.0.0
+- pkg:nuget/CleanArch.Utilities.AspNetCore@1.1.1
+- pkg:nuget/CleanArch.Utilities.AspNetCore@2.0.0
+- pkg:nuget/CleanArch.Utilities.AspNetCore@2.1.0
+- pkg:nuget/CleanArch.Utilities.AspNetCore@2.2.0
+- pkg:nuget/CleanArch.Utilities.AspNetCore@2.3.0
+- pkg:nuget/CleanArch.Utilities.AspNetCore@2.4.0
+- pkg:nuget/CleanArch.Utilities.AspNetCore@3.0.0

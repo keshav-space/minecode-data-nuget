@@ -1,0 +1,5 @@
+- pkg:nuget/NetModular.Module.Common.Quartz@1.7.5
+- pkg:nuget/NetModular.Module.Common.Quartz@1.7.6
+- pkg:nuget/NetModular.Module.Common.Quartz@1.8.2
+- pkg:nuget/NetModular.Module.Common.Quartz@1.8.3
+- pkg:nuget/NetModular.Module.Common.Quartz@9.0.0

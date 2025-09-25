@@ -1,0 +1,2 @@
+- pkg:nuget/Net.Bluewalk.log4net.RollingFileByMaxAgeAppender@1.0.0
+- pkg:nuget/Net.Bluewalk.log4net.RollingFileByMaxAgeAppender@1.0.1

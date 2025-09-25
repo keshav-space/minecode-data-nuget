@@ -1,0 +1,4 @@
+- pkg:nuget/TetraPak.AspNet.Api.Auth@0.10.1-beta
+- pkg:nuget/TetraPak.AspNet.Api.Auth@0.10.2-beta
+- pkg:nuget/TetraPak.AspNet.Api.Auth@0.11.0-beta
+- pkg:nuget/TetraPak.AspNet.Api.Auth@0.9.0-beta

@@ -1,0 +1,7 @@
+- pkg:nuget/MBrace.Azure.Standalone@0.6.10-alpha
+- pkg:nuget/MBrace.Azure.Standalone@0.6.5-alpha
+- pkg:nuget/MBrace.Azure.Standalone@0.6.6-alpha
+- pkg:nuget/MBrace.Azure.Standalone@0.6.7-alpha
+- pkg:nuget/MBrace.Azure.Standalone@0.6.8-alpha
+- pkg:nuget/MBrace.Azure.Standalone@0.6.9-alpha
+- pkg:nuget/MBrace.Azure.Standalone@0.7.0-alpha

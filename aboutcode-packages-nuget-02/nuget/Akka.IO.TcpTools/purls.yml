@@ -1,0 +1,5 @@
+- pkg:nuget/Akka.IO.TcpTools@0.0.1
+- pkg:nuget/Akka.IO.TcpTools@0.0.2
+- pkg:nuget/Akka.IO.TcpTools@0.0.3
+- pkg:nuget/Akka.IO.TcpTools@1.0.0
+- pkg:nuget/Akka.IO.TcpTools@1.0.1

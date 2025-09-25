@@ -1,0 +1,4 @@
+- pkg:nuget/Apache.Avro.File.BZip2@1.11.1
+- pkg:nuget/Apache.Avro.File.BZip2@1.11.2
+- pkg:nuget/Apache.Avro.File.BZip2@1.11.3
+- pkg:nuget/Apache.Avro.File.BZip2@1.12.0

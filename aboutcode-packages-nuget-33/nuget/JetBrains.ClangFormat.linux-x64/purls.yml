@@ -1,0 +1,6 @@
+- pkg:nuget/JetBrains.ClangFormat.linux-x64@14.0.2
+- pkg:nuget/JetBrains.ClangFormat.linux-x64@15.0.2
+- pkg:nuget/JetBrains.ClangFormat.linux-x64@16.0.3
+- pkg:nuget/JetBrains.ClangFormat.linux-x64@17.0.0
+- pkg:nuget/JetBrains.ClangFormat.linux-x64@18.0.0
+- pkg:nuget/JetBrains.ClangFormat.linux-x64@20.0.0

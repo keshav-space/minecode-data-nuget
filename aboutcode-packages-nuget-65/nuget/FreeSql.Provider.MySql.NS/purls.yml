@@ -1,0 +1,7 @@
+- pkg:nuget/FreeSql.Provider.MySql.NS@3.2.692-ns1
+- pkg:nuget/FreeSql.Provider.MySql.NS@3.2.695-ns1
+- pkg:nuget/FreeSql.Provider.MySql.NS@3.2.696-preview20230508-ns1
+- pkg:nuget/FreeSql.Provider.MySql.NS@3.2.696-preview20230517-ns1
+- pkg:nuget/FreeSql.Provider.MySql.NS@3.2.698-preview20230608-ns1
+- pkg:nuget/FreeSql.Provider.MySql.NS@3.2.698-preview20230629-ns1
+- pkg:nuget/FreeSql.Provider.MySql.NS@3.2.700-preview20230726-ns1

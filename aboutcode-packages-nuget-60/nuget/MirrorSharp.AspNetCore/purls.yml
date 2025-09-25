@@ -1,0 +1,12 @@
+- pkg:nuget/MirrorSharp.AspNetCore@0.1.0
+- pkg:nuget/MirrorSharp.AspNetCore@2.0.0
+- pkg:nuget/MirrorSharp.AspNetCore@2.1.0
+- pkg:nuget/MirrorSharp.AspNetCore@3.0.0
+- pkg:nuget/MirrorSharp.AspNetCore@3.0.0-preview-01
+- pkg:nuget/MirrorSharp.AspNetCore@3.0.0-preview-02
+- pkg:nuget/MirrorSharp.AspNetCore@3.0.1
+- pkg:nuget/MirrorSharp.AspNetCore@3.0.2
+- pkg:nuget/MirrorSharp.AspNetCore@3.0.3
+- pkg:nuget/MirrorSharp.AspNetCore@4.0.0
+- pkg:nuget/MirrorSharp.AspNetCore@4.0.0-test-2022-04-01-1
+- pkg:nuget/MirrorSharp.AspNetCore@4.0.0-test-2022-04-02-1

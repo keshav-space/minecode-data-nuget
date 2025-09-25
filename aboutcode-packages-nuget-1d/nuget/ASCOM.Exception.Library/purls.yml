@@ -1,0 +1,6 @@
+- pkg:nuget/ASCOM.Exception.Library@6.6.1
+- pkg:nuget/ASCOM.Exception.Library@6.6.2-rc.3682
+- pkg:nuget/ASCOM.Exception.Library@7.0.0
+- pkg:nuget/ASCOM.Exception.Library@7.0.0-rc.22
+- pkg:nuget/ASCOM.Exception.Library@7.0.0-rc.24
+- pkg:nuget/ASCOM.Exception.Library@7.0.1

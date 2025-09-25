@@ -1,0 +1,5 @@
+- pkg:nuget/UKHO.Logging.Serilog@1.24261.10
+- pkg:nuget/UKHO.Logging.Serilog@1.24261.8
+- pkg:nuget/UKHO.Logging.Serilog@1.24262.4
+- pkg:nuget/UKHO.Logging.Serilog@1.24267.3
+- pkg:nuget/UKHO.Logging.Serilog@1.25247.1

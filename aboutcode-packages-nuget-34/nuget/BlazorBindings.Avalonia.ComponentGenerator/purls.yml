@@ -1,0 +1,4 @@
+- pkg:nuget/BlazorBindings.Avalonia.ComponentGenerator@0.0.0-alpha.0.864
+- pkg:nuget/BlazorBindings.Avalonia.ComponentGenerator@0.1.0
+- pkg:nuget/BlazorBindings.Avalonia.ComponentGenerator@0.1.2-alpha.0.7
+- pkg:nuget/BlazorBindings.Avalonia.ComponentGenerator@0.1.2-alpha.0.8

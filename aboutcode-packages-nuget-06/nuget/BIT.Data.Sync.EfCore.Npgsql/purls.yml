@@ -1,0 +1,12 @@
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@6.0.2
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@7.0.3
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@7.0.3.1
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@7.0.3.2
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@8.0.2.1
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@8.0.2.3
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@8.0.2.4-beta
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@9.0.0
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@9.0.10
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@9.2.30
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@9.2.31
+- pkg:nuget/BIT.Data.Sync.EfCore.Npgsql@9.2.33
