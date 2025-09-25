@@ -1,0 +1,4 @@
+- pkg:nuget/OpenMLTD.MilliSim.Core@0.2.0
+- pkg:nuget/OpenMLTD.MilliSim.Core@0.2.1
+- pkg:nuget/OpenMLTD.MilliSim.Core@0.2.2-alpha
+- pkg:nuget/OpenMLTD.MilliSim.Core@0.2.3

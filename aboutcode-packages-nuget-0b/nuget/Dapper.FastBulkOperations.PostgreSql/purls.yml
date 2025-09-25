@@ -1,0 +1,2 @@
+- pkg:nuget/Dapper.FastBulkOperations.PostgreSql@1.1.0
+- pkg:nuget/Dapper.FastBulkOperations.PostgreSql@1.2.0

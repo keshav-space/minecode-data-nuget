@@ -1,0 +1,2 @@
+- pkg:nuget/GenerativeObjects.Build.Utilities.ConvertT4TemplatesToAsyncTask@1.0.6
+- pkg:nuget/GenerativeObjects.Build.Utilities.ConvertT4TemplatesToAsyncTask@1.0.8-dev

@@ -1,0 +1,3 @@
+- pkg:nuget/Maxsys.Core.Web.Swagger@13.0.0
+- pkg:nuget/Maxsys.Core.Web.Swagger@14.0.0
+- pkg:nuget/Maxsys.Core.Web.Swagger@14.1.0

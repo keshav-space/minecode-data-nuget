@@ -1,0 +1,2 @@
+- pkg:nuget/SharpAbp.Abp.Data.DbConnections.PostgreSql@1.4.0
+- pkg:nuget/SharpAbp.Abp.Data.DbConnections.PostgreSql@1.4.1
