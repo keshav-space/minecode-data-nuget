@@ -1,0 +1,6 @@
+- pkg:nuget/BotSharp.Plugin.EmailHandler@2.0.0
+- pkg:nuget/BotSharp.Plugin.EmailHandler@3.0.0
+- pkg:nuget/BotSharp.Plugin.EmailHandler@4.0.0
+- pkg:nuget/BotSharp.Plugin.EmailHandler@4.1.0
+- pkg:nuget/BotSharp.Plugin.EmailHandler@5.0.0
+- pkg:nuget/BotSharp.Plugin.EmailHandler@5.1.0

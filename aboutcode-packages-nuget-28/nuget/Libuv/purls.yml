@@ -1,0 +1,6 @@
+- pkg:nuget/Libuv@1.10.0
+- pkg:nuget/Libuv@1.10.0-preview1-22040
+- pkg:nuget/Libuv@1.9.0
+- pkg:nuget/Libuv@1.9.0-rc2-20896
+- pkg:nuget/Libuv@1.9.1
+- pkg:nuget/Libuv@1.9.2

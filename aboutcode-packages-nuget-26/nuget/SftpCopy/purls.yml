@@ -1,0 +1,4 @@
+- pkg:nuget/SftpCopy@0.1.0
+- pkg:nuget/SftpCopy@0.1.0-azure-pipelines0001
+- pkg:nuget/SftpCopy@0.1.0-pullrequest0001-0015
+- pkg:nuget/SftpCopy@0.1.0-pullrequest0001-0017

@@ -1,0 +1,4 @@
+- pkg:nuget/RequestCorrelation.Net.RestSharp@0.0.1
+- pkg:nuget/RequestCorrelation.Net.RestSharp@0.0.1-beta
+- pkg:nuget/RequestCorrelation.Net.RestSharp@1.0.0
+- pkg:nuget/RequestCorrelation.Net.RestSharp@2.0.0

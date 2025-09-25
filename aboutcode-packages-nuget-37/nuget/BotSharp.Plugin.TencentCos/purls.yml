@@ -1,0 +1,5 @@
+- pkg:nuget/BotSharp.Plugin.TencentCos@3.0.0
+- pkg:nuget/BotSharp.Plugin.TencentCos@4.0.0
+- pkg:nuget/BotSharp.Plugin.TencentCos@4.1.0
+- pkg:nuget/BotSharp.Plugin.TencentCos@5.0.0
+- pkg:nuget/BotSharp.Plugin.TencentCos@5.1.0

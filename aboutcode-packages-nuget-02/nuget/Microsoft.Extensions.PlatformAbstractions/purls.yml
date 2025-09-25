@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Extensions.PlatformAbstractions@1.0.0
+- pkg:nuget/Microsoft.Extensions.PlatformAbstractions@1.0.0-rc1-final
+- pkg:nuget/Microsoft.Extensions.PlatformAbstractions@1.0.0-rc2-final
+- pkg:nuget/Microsoft.Extensions.PlatformAbstractions@1.1.0
+- pkg:nuget/Microsoft.Extensions.PlatformAbstractions@1.1.0-preview1-final

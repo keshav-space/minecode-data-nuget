@@ -1,0 +1,6 @@
+- pkg:nuget/VeryGood.IdentityServer4.Dapper.Storage@2.5.2
+- pkg:nuget/VeryGood.IdentityServer4.Dapper.Storage@2.5.3
+- pkg:nuget/VeryGood.IdentityServer4.Dapper.Storage@3.0.2
+- pkg:nuget/VeryGood.IdentityServer4.Dapper.Storage@3.1.0
+- pkg:nuget/VeryGood.IdentityServer4.Dapper.Storage@4.0.0
+- pkg:nuget/VeryGood.IdentityServer4.Dapper.Storage@4.0.1

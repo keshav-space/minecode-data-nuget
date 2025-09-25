@@ -1,0 +1,5 @@
+- pkg:nuget/MetaBrainz.MusicBrainz.dotnet-mbdiscid@1.0.0%2B20200322.174234.527
+- pkg:nuget/MetaBrainz.MusicBrainz.dotnet-mbdiscid@1.0.1%2B20200417.165848.296
+- pkg:nuget/MetaBrainz.MusicBrainz.dotnet-mbdiscid@2.0.0
+- pkg:nuget/MetaBrainz.MusicBrainz.dotnet-mbdiscid@2.0.1
+- pkg:nuget/MetaBrainz.MusicBrainz.dotnet-mbdiscid@3.0.0%2Bgithub.7.1

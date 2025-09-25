@@ -1,0 +1,6 @@
+- pkg:nuget/ZigBeeNet.Transport.SerialPort@1.0.0
+- pkg:nuget/ZigBeeNet.Transport.SerialPort@1.0.0-alpha1
+- pkg:nuget/ZigBeeNet.Transport.SerialPort@1.0.0-preview1
+- pkg:nuget/ZigBeeNet.Transport.SerialPort@1.1.0
+- pkg:nuget/ZigBeeNet.Transport.SerialPort@1.1.1
+- pkg:nuget/ZigBeeNet.Transport.SerialPort@1.5.0

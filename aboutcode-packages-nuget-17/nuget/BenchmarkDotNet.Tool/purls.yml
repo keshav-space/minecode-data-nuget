@@ -1,0 +1,4 @@
+- pkg:nuget/BenchmarkDotNet.Tool@0.11.4
+- pkg:nuget/BenchmarkDotNet.Tool@0.11.5
+- pkg:nuget/BenchmarkDotNet.Tool@0.12.0
+- pkg:nuget/BenchmarkDotNet.Tool@0.12.1

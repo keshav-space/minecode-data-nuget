@@ -1,0 +1,7 @@
+- pkg:nuget/Serilog.Sinks.Queuing.Redis.ElasticStore@1.0.2-dev.1680864219%2B29c93dc
+- pkg:nuget/Serilog.Sinks.Queuing.Redis.ElasticStore@1.0.2-dev.1680865799%2Be0a2057
+- pkg:nuget/Serilog.Sinks.Queuing.Redis.ElasticStore@1.0.2-dev.1680866085%2Bc25fd67
+- pkg:nuget/Serilog.Sinks.Queuing.Redis.ElasticStore@1.0.2-dev.1681098176%2Bcde8c03
+- pkg:nuget/Serilog.Sinks.Queuing.Redis.ElasticStore@1.0.2-dev.1681098694%2B277c6bc
+- pkg:nuget/Serilog.Sinks.Queuing.Redis.ElasticStore@1.0.2-dev.1681099199%2Be8ea14f
+- pkg:nuget/Serilog.Sinks.Queuing.Redis.ElasticStore@1.0.2-dev.1681113945%2B3ce17cb

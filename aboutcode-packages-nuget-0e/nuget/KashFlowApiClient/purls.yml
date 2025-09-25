@@ -1,0 +1,9 @@
+- pkg:nuget/KashFlowApiClient@1.0.0
+- pkg:nuget/KashFlowApiClient@1.0.0.1
+- pkg:nuget/KashFlowApiClient@2.0.0-beta
+- pkg:nuget/KashFlowApiClient@2.0.0.1-beta
+- pkg:nuget/KashFlowApiClient@2.0.0.2-beta
+- pkg:nuget/KashFlowApiClient@3.0.0
+- pkg:nuget/KashFlowApiClient@3.1.0-beta
+- pkg:nuget/KashFlowApiClient@3.1.1-beta
+- pkg:nuget/KashFlowApiClient@4.0.0-beta

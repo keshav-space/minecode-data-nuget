@@ -1,0 +1,5 @@
+- pkg:nuget/InfinitoOnline.SharedKernel@1.0.0
+- pkg:nuget/InfinitoOnline.SharedKernel@1.0.1-beta
+- pkg:nuget/InfinitoOnline.SharedKernel@1.1.0
+- pkg:nuget/InfinitoOnline.SharedKernel@4.0.0-beta
+- pkg:nuget/InfinitoOnline.SharedKernel@4.0.1-rc2-final

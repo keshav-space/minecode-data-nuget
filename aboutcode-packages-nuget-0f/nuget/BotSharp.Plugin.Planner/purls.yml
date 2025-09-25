@@ -1,0 +1,5 @@
+- pkg:nuget/BotSharp.Plugin.Planner@3.0.0
+- pkg:nuget/BotSharp.Plugin.Planner@4.0.0
+- pkg:nuget/BotSharp.Plugin.Planner@4.1.0
+- pkg:nuget/BotSharp.Plugin.Planner@5.0.0
+- pkg:nuget/BotSharp.Plugin.Planner@5.1.0

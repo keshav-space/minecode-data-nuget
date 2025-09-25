@@ -1,0 +1,5 @@
+- pkg:nuget/BotSharp.Plugin.AudioHandler@3.0.0
+- pkg:nuget/BotSharp.Plugin.AudioHandler@4.0.0
+- pkg:nuget/BotSharp.Plugin.AudioHandler@4.1.0
+- pkg:nuget/BotSharp.Plugin.AudioHandler@5.0.0
+- pkg:nuget/BotSharp.Plugin.AudioHandler@5.1.0

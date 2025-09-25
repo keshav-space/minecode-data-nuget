@@ -1,0 +1,2 @@
+- pkg:nuget/Affecto.EntityFramework.PostgreSql@2.0.0
+- pkg:nuget/Affecto.EntityFramework.PostgreSql@3.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@0.0.1
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@0.1.0-alpha.16
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@0.1.0-alpha.17
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@0.1.0-alpha.18
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@0.1.0-preview.20
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@1.0.0-preview.1
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@1.0.0-preview.9
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@1.0.0-rc.1
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@8.0.0
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@8.0.1
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@8.0.1-preview
+- pkg:nuget/MockResponse.Middleware.LocalFolderStore@8.0.1-rc.1

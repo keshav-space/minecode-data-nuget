@@ -1,0 +1,2 @@
+- pkg:nuget/UnsafeRuntime@0.1.0-preview
+- pkg:nuget/UnsafeRuntime@1.0.0-preview

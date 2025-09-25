@@ -1,0 +1,6 @@
+- pkg:nuget/BotSharp.Plugin.OpenAI@2.0.0
+- pkg:nuget/BotSharp.Plugin.OpenAI@3.0.0
+- pkg:nuget/BotSharp.Plugin.OpenAI@4.0.0
+- pkg:nuget/BotSharp.Plugin.OpenAI@4.1.0
+- pkg:nuget/BotSharp.Plugin.OpenAI@5.0.0
+- pkg:nuget/BotSharp.Plugin.OpenAI@5.1.0

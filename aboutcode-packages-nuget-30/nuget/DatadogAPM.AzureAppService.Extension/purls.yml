@@ -1,0 +1,4 @@
+- pkg:nuget/DatadogAPM.AzureAppService.Extension@1.3.0
+- pkg:nuget/DatadogAPM.AzureAppService.Extension@1.3.1
+- pkg:nuget/DatadogAPM.AzureAppService.Extension@1.6.0
+- pkg:nuget/DatadogAPM.AzureAppService.Extension@1.6.1

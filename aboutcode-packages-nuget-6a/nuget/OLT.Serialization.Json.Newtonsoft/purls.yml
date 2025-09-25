@@ -1,0 +1,7 @@
+- pkg:nuget/OLT.Serialization.Json.Newtonsoft@1.0.0
+- pkg:nuget/OLT.Serialization.Json.Newtonsoft@1.0.0-beta-0001
+- pkg:nuget/OLT.Serialization.Json.Newtonsoft@1.0.0-beta-0002
+- pkg:nuget/OLT.Serialization.Json.Newtonsoft@2.0.0
+- pkg:nuget/OLT.Serialization.Json.Newtonsoft@8.0.0
+- pkg:nuget/OLT.Serialization.Json.Newtonsoft@8.0.0-beta-0005
+- pkg:nuget/OLT.Serialization.Json.Newtonsoft@9.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/VeryGood.IdentityServer4.Storage.DatabaseScripts.DbUp@2.5.2
+- pkg:nuget/VeryGood.IdentityServer4.Storage.DatabaseScripts.DbUp@2.5.3
+- pkg:nuget/VeryGood.IdentityServer4.Storage.DatabaseScripts.DbUp@3.0.2
+- pkg:nuget/VeryGood.IdentityServer4.Storage.DatabaseScripts.DbUp@3.1.0
+- pkg:nuget/VeryGood.IdentityServer4.Storage.DatabaseScripts.DbUp@4.0.0
+- pkg:nuget/VeryGood.IdentityServer4.Storage.DatabaseScripts.DbUp@4.0.1

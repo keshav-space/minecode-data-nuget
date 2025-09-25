@@ -1,0 +1,7 @@
+- pkg:nuget/AnotherDependentPackageNoversion@10.0.0
+- pkg:nuget/AnotherDependentPackageNoversion@4.0.0
+- pkg:nuget/AnotherDependentPackageNoversion@5.0.0
+- pkg:nuget/AnotherDependentPackageNoversion@6.0.0
+- pkg:nuget/AnotherDependentPackageNoversion@7.0.0
+- pkg:nuget/AnotherDependentPackageNoversion@8.0.0
+- pkg:nuget/AnotherDependentPackageNoversion@9.0.0

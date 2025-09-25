@@ -1,0 +1,12 @@
+- pkg:nuget/Capsule.Testing@0.10.0
+- pkg:nuget/Capsule.Testing@0.10.1
+- pkg:nuget/Capsule.Testing@0.11.0
+- pkg:nuget/Capsule.Testing@0.12.0
+- pkg:nuget/Capsule.Testing@1.0.0
+- pkg:nuget/Capsule.Testing@2.0.0
+- pkg:nuget/Capsule.Testing@3.0.0
+- pkg:nuget/Capsule.Testing@3.0.0-beta01
+- pkg:nuget/Capsule.Testing@3.0.0-beta02
+- pkg:nuget/Capsule.Testing@3.1.0
+- pkg:nuget/Capsule.Testing@3.1.1
+- pkg:nuget/Capsule.Testing@4.0.0

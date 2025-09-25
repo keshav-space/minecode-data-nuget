@@ -1,0 +1,4 @@
+- pkg:nuget/Znaydemo.Dapper.Postgres@0.0.1
+- pkg:nuget/Znaydemo.Dapper.Postgres@1.0.0
+- pkg:nuget/Znaydemo.Dapper.Postgres@1.0.1
+- pkg:nuget/Znaydemo.Dapper.Postgres@1.0.2

@@ -1,0 +1,3 @@
+- pkg:nuget/Xunit.Extensions.TestDependency@1.0.0
+- pkg:nuget/Xunit.Extensions.TestDependency@1.0.0-preview.0
+- pkg:nuget/Xunit.Extensions.TestDependency@1.1.0

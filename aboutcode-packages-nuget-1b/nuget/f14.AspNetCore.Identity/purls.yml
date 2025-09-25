@@ -1,0 +1,5 @@
+- pkg:nuget/f14.AspNetCore.Identity@2.1.0
+- pkg:nuget/f14.AspNetCore.Identity@2.1.1
+- pkg:nuget/f14.AspNetCore.Identity@2.2.0
+- pkg:nuget/f14.AspNetCore.Identity@2.3.0
+- pkg:nuget/f14.AspNetCore.Identity@2.3.2

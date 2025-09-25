@@ -1,0 +1,12 @@
+- pkg:nuget/CosmosKit@1.0.0
+- pkg:nuget/CosmosKit@2.0.0
+- pkg:nuget/CosmosKit@4.0.0
+- pkg:nuget/CosmosKit@5.0.0
+- pkg:nuget/CosmosKit@5.0.1
+- pkg:nuget/CosmosKit@5.1.0
+- pkg:nuget/CosmosKit@5.1.1
+- pkg:nuget/CosmosKit@5.1.2
+- pkg:nuget/CosmosKit@5.1.3
+- pkg:nuget/CosmosKit@5.1.4
+- pkg:nuget/CosmosKit@5.1.5
+- pkg:nuget/CosmosKit@5.1.6

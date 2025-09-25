@@ -1,0 +1,5 @@
+- pkg:nuget/Hello.Nuget.NicePerson@1.0.0
+- pkg:nuget/Hello.Nuget.NicePerson@1.0.1
+- pkg:nuget/Hello.Nuget.NicePerson@1.0.2
+- pkg:nuget/Hello.Nuget.NicePerson@1.0.3
+- pkg:nuget/Hello.Nuget.NicePerson@1.0.4

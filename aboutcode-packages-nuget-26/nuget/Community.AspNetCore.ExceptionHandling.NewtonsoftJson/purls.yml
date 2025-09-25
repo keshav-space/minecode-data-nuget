@@ -1,0 +1,5 @@
+- pkg:nuget/Community.AspNetCore.ExceptionHandling.NewtonsoftJson@2.0.0
+- pkg:nuget/Community.AspNetCore.ExceptionHandling.NewtonsoftJson@2.0.1
+- pkg:nuget/Community.AspNetCore.ExceptionHandling.NewtonsoftJson@2.0.2
+- pkg:nuget/Community.AspNetCore.ExceptionHandling.NewtonsoftJson@2.0.3
+- pkg:nuget/Community.AspNetCore.ExceptionHandling.NewtonsoftJson@2.2.0

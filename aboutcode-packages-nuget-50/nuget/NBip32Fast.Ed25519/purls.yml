@@ -1,0 +1,5 @@
+- pkg:nuget/NBip32Fast.Ed25519@1.0.5
+- pkg:nuget/NBip32Fast.Ed25519@1.0.7
+- pkg:nuget/NBip32Fast.Ed25519@2.0.0
+- pkg:nuget/NBip32Fast.Ed25519@2.0.2
+- pkg:nuget/NBip32Fast.Ed25519@2.0.3

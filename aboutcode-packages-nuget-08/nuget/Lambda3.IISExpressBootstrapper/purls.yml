@@ -1,0 +1,5 @@
+- pkg:nuget/Lambda3.IISExpressBootstrapper@2.0.0
+- pkg:nuget/Lambda3.IISExpressBootstrapper@2.0.0-alpha01
+- pkg:nuget/Lambda3.IISExpressBootstrapper@2.0.0-alpha02
+- pkg:nuget/Lambda3.IISExpressBootstrapper@3.0.0
+- pkg:nuget/Lambda3.IISExpressBootstrapper@3.0.1

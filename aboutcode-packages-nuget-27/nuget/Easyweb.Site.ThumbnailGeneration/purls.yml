@@ -1,0 +1,5 @@
+- pkg:nuget/Easyweb.Site.ThumbnailGeneration@6.5.0-rc2
+- pkg:nuget/Easyweb.Site.ThumbnailGeneration@6.5.1
+- pkg:nuget/Easyweb.Site.ThumbnailGeneration@7.0.0
+- pkg:nuget/Easyweb.Site.ThumbnailGeneration@7.0.1
+- pkg:nuget/Easyweb.Site.ThumbnailGeneration@8.0.0

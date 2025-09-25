@@ -1,0 +1,6 @@
+- pkg:nuget/CQ.UnitOfWork.EfCore.Abstractions@1.1.1
+- pkg:nuget/CQ.UnitOfWork.EfCore.Abstractions@1.1.2
+- pkg:nuget/CQ.UnitOfWork.EfCore.Abstractions@1.1.7
+- pkg:nuget/CQ.UnitOfWork.EfCore.Abstractions@3.0.2
+- pkg:nuget/CQ.UnitOfWork.EfCore.Abstractions@3.0.3
+- pkg:nuget/CQ.UnitOfWork.EfCore.Abstractions@3.0.4

@@ -1,0 +1,6 @@
+- pkg:nuget/NBip32Fast.Secp256K1@1.0.5
+- pkg:nuget/NBip32Fast.Secp256K1@1.0.6
+- pkg:nuget/NBip32Fast.Secp256K1@2.0.0
+- pkg:nuget/NBip32Fast.Secp256K1@2.0.1
+- pkg:nuget/NBip32Fast.Secp256K1@2.0.2
+- pkg:nuget/NBip32Fast.Secp256K1@2.0.3

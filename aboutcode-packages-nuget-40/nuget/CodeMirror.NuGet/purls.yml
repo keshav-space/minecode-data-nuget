@@ -1,0 +1,3 @@
+- pkg:nuget/CodeMirror.NuGet@3.20.1
+- pkg:nuget/CodeMirror.NuGet@5.19.0
+- pkg:nuget/CodeMirror.NuGet@5.35.0

@@ -1,0 +1,11 @@
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@0.1.0
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@0.1.1
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.0
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.0-feature0001
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.0-feature000133
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.0-feature000135
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.0-feature000139
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.0-feature000141
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.0-feature000143
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.0-feature000150
+- pkg:nuget/Serilog.Sinks.AmazonSimpleEmailService@2.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/VeryGood.AspNetCore.Identity.DatabaseScripts.DbUp@1.0.0
+- pkg:nuget/VeryGood.AspNetCore.Identity.DatabaseScripts.DbUp@3.0.0
+- pkg:nuget/VeryGood.AspNetCore.Identity.DatabaseScripts.DbUp@3.1.0
+- pkg:nuget/VeryGood.AspNetCore.Identity.DatabaseScripts.DbUp@5.0.0
+- pkg:nuget/VeryGood.AspNetCore.Identity.DatabaseScripts.DbUp@5.0.1

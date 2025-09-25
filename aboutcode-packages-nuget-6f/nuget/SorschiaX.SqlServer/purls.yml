@@ -1,0 +1,4 @@
+- pkg:nuget/SorschiaX.SqlServer@0.0.2-pre
+- pkg:nuget/SorschiaX.SqlServer@0.1.0-pre
+- pkg:nuget/SorschiaX.SqlServer@0.2.0-pre
+- pkg:nuget/SorschiaX.SqlServer@1.0.0-pre

@@ -1,0 +1,5 @@
+- pkg:nuget/BotSharp.Plugin.Graph@3.0.0
+- pkg:nuget/BotSharp.Plugin.Graph@4.0.0
+- pkg:nuget/BotSharp.Plugin.Graph@4.1.0
+- pkg:nuget/BotSharp.Plugin.Graph@5.0.0
+- pkg:nuget/BotSharp.Plugin.Graph@5.1.0

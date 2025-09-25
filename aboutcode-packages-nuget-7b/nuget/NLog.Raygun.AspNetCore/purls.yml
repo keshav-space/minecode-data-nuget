@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.Raygun.AspNetCore@1.0.0
+- pkg:nuget/NLog.Raygun.AspNetCore@1.0.1

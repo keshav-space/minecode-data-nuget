@@ -1,0 +1,12 @@
+- pkg:nuget/MonoMod.Backports@1.0.0
+- pkg:nuget/MonoMod.Backports@1.0.0-prerelease.1
+- pkg:nuget/MonoMod.Backports@1.0.0-prerelease.2
+- pkg:nuget/MonoMod.Backports@1.0.1
+- pkg:nuget/MonoMod.Backports@1.1.0
+- pkg:nuget/MonoMod.Backports@1.1.0-prerelease.1
+- pkg:nuget/MonoMod.Backports@1.1.0-prerelease.2
+- pkg:nuget/MonoMod.Backports@1.1.1
+- pkg:nuget/MonoMod.Backports@1.1.2
+- pkg:nuget/MonoMod.Backports@2.0.0-prerelease.1
+- pkg:nuget/MonoMod.Backports@2.0.0-prerelease.2
+- pkg:nuget/MonoMod.Backports@2.0.0-prerelease.3

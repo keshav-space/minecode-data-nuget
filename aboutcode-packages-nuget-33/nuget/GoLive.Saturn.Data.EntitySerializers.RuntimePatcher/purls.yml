@@ -1,0 +1,4 @@
+- pkg:nuget/GoLive.Saturn.Data.EntitySerializers.RuntimePatcher@3.2.14
+- pkg:nuget/GoLive.Saturn.Data.EntitySerializers.RuntimePatcher@4.0.15
+- pkg:nuget/GoLive.Saturn.Data.EntitySerializers.RuntimePatcher@4.0.16
+- pkg:nuget/GoLive.Saturn.Data.EntitySerializers.RuntimePatcher@4.1.17

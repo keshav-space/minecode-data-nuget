@@ -1,0 +1,4 @@
+- pkg:nuget/ACave.Extensions.Common@0.0.1
+- pkg:nuget/ACave.Extensions.Common@0.2.0-beta
+- pkg:nuget/ACave.Extensions.Common@0.2.1-beta
+- pkg:nuget/ACave.Extensions.Common@0.3.0-beta

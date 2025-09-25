@@ -1,0 +1,5 @@
+- pkg:nuget/Nybus.Extensions.Hosting.Lambda@1.5.0
+- pkg:nuget/Nybus.Extensions.Hosting.Lambda@1.5.1
+- pkg:nuget/Nybus.Extensions.Hosting.Lambda@1.5.2
+- pkg:nuget/Nybus.Extensions.Hosting.Lambda@1.5.3
+- pkg:nuget/Nybus.Extensions.Hosting.Lambda@1.6.0

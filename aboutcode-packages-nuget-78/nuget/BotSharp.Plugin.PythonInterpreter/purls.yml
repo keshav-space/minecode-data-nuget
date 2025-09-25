@@ -1,0 +1,5 @@
+- pkg:nuget/BotSharp.Plugin.PythonInterpreter@3.0.0
+- pkg:nuget/BotSharp.Plugin.PythonInterpreter@4.0.0
+- pkg:nuget/BotSharp.Plugin.PythonInterpreter@4.1.0
+- pkg:nuget/BotSharp.Plugin.PythonInterpreter@5.0.0
+- pkg:nuget/BotSharp.Plugin.PythonInterpreter@5.1.0

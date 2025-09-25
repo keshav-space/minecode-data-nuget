@@ -1,0 +1,8 @@
+- pkg:nuget/Vertica.Data@23.3.0
+- pkg:nuget/Vertica.Data@23.3.0-rc
+- pkg:nuget/Vertica.Data@23.3.0.3
+- pkg:nuget/Vertica.Data@23.4.0
+- pkg:nuget/Vertica.Data@24.1.0
+- pkg:nuget/Vertica.Data@24.2.0
+- pkg:nuget/Vertica.Data@24.3.0
+- pkg:nuget/Vertica.Data@7.2.3

@@ -1,0 +1,6 @@
+- pkg:nuget/HrTestBackofficeClient@1.0.0-alpha
+- pkg:nuget/HrTestBackofficeClient@1.0.10-alpha
+- pkg:nuget/HrTestBackofficeClient@1.0.12-alpha
+- pkg:nuget/HrTestBackofficeClient@1.0.13-alpha
+- pkg:nuget/HrTestBackofficeClient@1.0.14-alpha
+- pkg:nuget/HrTestBackofficeClient@1.0.9-alpha

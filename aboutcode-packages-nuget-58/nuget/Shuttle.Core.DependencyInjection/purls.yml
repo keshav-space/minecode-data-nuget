@@ -1,0 +1,3 @@
+- pkg:nuget/Shuttle.Core.DependencyInjection@1.0.0
+- pkg:nuget/Shuttle.Core.DependencyInjection@1.0.1
+- pkg:nuget/Shuttle.Core.DependencyInjection@20.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/CrumbleDB@1.0.0
+- pkg:nuget/CrumbleDB@2.0.0
+- pkg:nuget/CrumbleDB@2.1.0
+- pkg:nuget/CrumbleDB@2.1.1

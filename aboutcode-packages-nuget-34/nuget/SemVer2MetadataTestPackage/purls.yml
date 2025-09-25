@@ -1,0 +1,2 @@
+- pkg:nuget/SemVer2MetadataTestPackage@0.9.0
+- pkg:nuget/SemVer2MetadataTestPackage@1.0.0%2Bmetadata2

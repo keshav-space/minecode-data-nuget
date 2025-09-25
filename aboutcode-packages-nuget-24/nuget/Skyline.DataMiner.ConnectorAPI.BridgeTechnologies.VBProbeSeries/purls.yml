@@ -1,0 +1,5 @@
+- pkg:nuget/Skyline.DataMiner.ConnectorAPI.BridgeTechnologies.VBProbeSeries@1.0.0.1
+- pkg:nuget/Skyline.DataMiner.ConnectorAPI.BridgeTechnologies.VBProbeSeries@1.0.0.2-prerelease.1
+- pkg:nuget/Skyline.DataMiner.ConnectorAPI.BridgeTechnologies.VBProbeSeries@2.0.0
+- pkg:nuget/Skyline.DataMiner.ConnectorAPI.BridgeTechnologies.VBProbeSeries@2.0.0-beta
+- pkg:nuget/Skyline.DataMiner.ConnectorAPI.BridgeTechnologies.VBProbeSeries@2.0.0-tuningID

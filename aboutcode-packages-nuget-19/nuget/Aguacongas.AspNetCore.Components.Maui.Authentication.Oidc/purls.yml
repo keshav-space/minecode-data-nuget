@@ -1,0 +1,3 @@
+- pkg:nuget/Aguacongas.AspNetCore.Components.Maui.Authentication.Oidc@0.1.0-preview1-0035
+- pkg:nuget/Aguacongas.AspNetCore.Components.Maui.Authentication.Oidc@1.0.0
+- pkg:nuget/Aguacongas.AspNetCore.Components.Maui.Authentication.Oidc@2.0.0-preview1-0093

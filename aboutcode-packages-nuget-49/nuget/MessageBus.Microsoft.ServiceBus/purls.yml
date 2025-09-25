@@ -1,0 +1,8 @@
+- pkg:nuget/MessageBus.Microsoft.ServiceBus@0.9.0-alpha
+- pkg:nuget/MessageBus.Microsoft.ServiceBus@1.0.0
+- pkg:nuget/MessageBus.Microsoft.ServiceBus@1.0.1
+- pkg:nuget/MessageBus.Microsoft.ServiceBus@1.0.2
+- pkg:nuget/MessageBus.Microsoft.ServiceBus@1.0.3
+- pkg:nuget/MessageBus.Microsoft.ServiceBus@1.1.0
+- pkg:nuget/MessageBus.Microsoft.ServiceBus@1.1.1
+- pkg:nuget/MessageBus.Microsoft.ServiceBus@2.0.0
