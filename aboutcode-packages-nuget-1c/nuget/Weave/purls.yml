@@ -1,0 +1,16 @@
+- pkg:nuget/Weave@1.0.0
+- pkg:nuget/Weave@1.1.0
+- pkg:nuget/Weave@1.1.1
+- pkg:nuget/Weave@1.1.2
+- pkg:nuget/Weave@1.1.3-ci0011
+- pkg:nuget/Weave@1.1.3-ci0013
+- pkg:nuget/Weave@1.2.0
+- pkg:nuget/Weave@1.2.1
+- pkg:nuget/Weave@2.0.0
+- pkg:nuget/Weave@2.0.1-ci0005
+- pkg:nuget/Weave@2.0.1-ci0006
+- pkg:nuget/Weave@2.0.1-ci0007
+- pkg:nuget/Weave@2.0.1-ci0008
+- pkg:nuget/Weave@2.0.1-ci0009
+- pkg:nuget/Weave@2.0.1-source-generators.1%2B40
+- pkg:nuget/Weave@2.1.0%2B1

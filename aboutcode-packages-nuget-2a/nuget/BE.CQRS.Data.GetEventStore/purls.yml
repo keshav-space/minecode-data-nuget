@@ -1,0 +1,4 @@
+- pkg:nuget/BE.CQRS.Data.GetEventStore@0.40.0-alpha
+- pkg:nuget/BE.CQRS.Data.GetEventStore@0.41.0-alpha
+- pkg:nuget/BE.CQRS.Data.GetEventStore@0.42.0-alpha
+- pkg:nuget/BE.CQRS.Data.GetEventStore@0.43.0-alpha

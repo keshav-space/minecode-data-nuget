@@ -1,0 +1,6 @@
+- pkg:nuget/Raccoon.Devkits.AzureFunctionPipeline@1.0.0
+- pkg:nuget/Raccoon.Devkits.AzureFunctionPipeline@1.1.0
+- pkg:nuget/Raccoon.Devkits.AzureFunctionPipeline@1.2.0
+- pkg:nuget/Raccoon.Devkits.AzureFunctionPipeline@2.0.0
+- pkg:nuget/Raccoon.Devkits.AzureFunctionPipeline@2.2.0
+- pkg:nuget/Raccoon.Devkits.AzureFunctionPipeline@2.3.0

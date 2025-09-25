@@ -1,0 +1,15 @@
+- pkg:nuget/CommandDotNet.NameCasing@1.0.0
+- pkg:nuget/CommandDotNet.NameCasing@1.0.0-preview1
+- pkg:nuget/CommandDotNet.NameCasing@1.0.0-preview2
+- pkg:nuget/CommandDotNet.NameCasing@1.0.0-preview4
+- pkg:nuget/CommandDotNet.NameCasing@1.0.0-preview5
+- pkg:nuget/CommandDotNet.NameCasing@1.0.1
+- pkg:nuget/CommandDotNet.NameCasing@2.0.0
+- pkg:nuget/CommandDotNet.NameCasing@2.0.0-preview-003
+- pkg:nuget/CommandDotNet.NameCasing@2.0.0-preview-004
+- pkg:nuget/CommandDotNet.NameCasing@3.0.0
+- pkg:nuget/CommandDotNet.NameCasing@3.0.1
+- pkg:nuget/CommandDotNet.NameCasing@4.0.1
+- pkg:nuget/CommandDotNet.NameCasing@4.0.2
+- pkg:nuget/CommandDotNet.NameCasing@5.0.0
+- pkg:nuget/CommandDotNet.NameCasing@5.1.0

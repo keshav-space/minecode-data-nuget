@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@1.0.201501028
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@1.1.20170206
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@1.1.20170207
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@2.0.20170207
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@2.0.20170208
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@2.1.0
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@2.2.0
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@2.2.0-beta
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider@2.4.0

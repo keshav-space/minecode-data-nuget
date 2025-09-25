@@ -1,0 +1,13 @@
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.20
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.20-alpha
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.21
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.21-alpha
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.22
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.22-alpha
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.22-beta
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.23
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.23-alpha
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.23-beta
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.24
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.24-alpha
+- pkg:nuget/Mathtone.Sdk.NeuralNetworks@1.0.24-beta

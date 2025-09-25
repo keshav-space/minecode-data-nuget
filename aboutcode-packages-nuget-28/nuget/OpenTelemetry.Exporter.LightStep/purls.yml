@@ -1,0 +1,5 @@
+- pkg:nuget/OpenTelemetry.Exporter.LightStep@0.2.0-alpha.100
+- pkg:nuget/OpenTelemetry.Exporter.LightStep@0.2.0-alpha.179
+- pkg:nuget/OpenTelemetry.Exporter.LightStep@0.2.0-alpha.220
+- pkg:nuget/OpenTelemetry.Exporter.LightStep@0.2.0-alpha.275
+- pkg:nuget/OpenTelemetry.Exporter.LightStep@0.2.0-alpha.40

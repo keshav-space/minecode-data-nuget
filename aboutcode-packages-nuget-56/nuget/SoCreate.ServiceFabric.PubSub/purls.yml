@@ -1,0 +1,15 @@
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@10.0.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@11.0.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@12.0.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@12.0.1
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@12.1.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@12.2.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@12.3.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@12.3.1
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@13.0.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@14.0.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@15.0.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@15.1.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@9.0.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@9.1.0
+- pkg:nuget/SoCreate.ServiceFabric.PubSub@9.1.1

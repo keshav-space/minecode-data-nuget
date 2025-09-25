@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@12.0.2000.8
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.101.1
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.103.2
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.104.1
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.84.1
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.84.10
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.84.6
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.86.2.1
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.86.6
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.87.2
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.87.7
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.88.3
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.90.0
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.94.0
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.94.1.1
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.96.1
+- pkg:nuget/Microsoft.AnalysisServices.AdomdClient@19.98.0.3

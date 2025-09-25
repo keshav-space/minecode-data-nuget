@@ -1,0 +1,5 @@
+- pkg:nuget/MongoDbInfrastructure@1.0.0
+- pkg:nuget/MongoDbInfrastructure@1.0.0.1
+- pkg:nuget/MongoDbInfrastructure@1.0.1
+- pkg:nuget/MongoDbInfrastructure@2.0.0-alpha
+- pkg:nuget/MongoDbInfrastructure@2.0.1-alpha

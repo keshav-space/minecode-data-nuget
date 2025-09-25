@@ -1,0 +1,7 @@
+- pkg:nuget/KubeClient.Extensions.DataProtection@2.5.10
+- pkg:nuget/KubeClient.Extensions.DataProtection@2.5.12
+- pkg:nuget/KubeClient.Extensions.DataProtection@2.5.8
+- pkg:nuget/KubeClient.Extensions.DataProtection@2.5.9
+- pkg:nuget/KubeClient.Extensions.DataProtection@3.0.0
+- pkg:nuget/KubeClient.Extensions.DataProtection@3.0.1
+- pkg:nuget/KubeClient.Extensions.DataProtection@3.0.2

@@ -1,0 +1,12 @@
+- pkg:nuget/DotNet.Memory.Logger@2.0.0
+- pkg:nuget/DotNet.Memory.Logger@2.1.0
+- pkg:nuget/DotNet.Memory.Logger@2.1.1
+- pkg:nuget/DotNet.Memory.Logger@2.1.2
+- pkg:nuget/DotNet.Memory.Logger@2.2.0
+- pkg:nuget/DotNet.Memory.Logger@3.1.0
+- pkg:nuget/DotNet.Memory.Logger@5.0.0
+- pkg:nuget/DotNet.Memory.Logger@6.0.0
+- pkg:nuget/DotNet.Memory.Logger@6.1.0
+- pkg:nuget/DotNet.Memory.Logger@7.0.0
+- pkg:nuget/DotNet.Memory.Logger@8.0.0
+- pkg:nuget/DotNet.Memory.Logger@9.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Identity.Server.AspNet@6.1.0
+- pkg:nuget/Identity.Server.AspNet@6.2.0-alpha.0.3

@@ -1,0 +1,13 @@
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@1.0.1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@2.1.1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@2.2.1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.1.1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.2.1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.3.1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.3.2
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.4.1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.4.1-rc1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.4.1-rc2
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.4.2
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.5.1
+- pkg:nuget/ServiceResolver.GenericHost.AspNetCore@3.5.2

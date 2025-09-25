@@ -1,0 +1,12 @@
+- pkg:nuget/SqlFun.NpgSql@0.0.3-alpha
+- pkg:nuget/SqlFun.NpgSql@0.1.0-alpha
+- pkg:nuget/SqlFun.NpgSql@0.2.0-alpha
+- pkg:nuget/SqlFun.NpgSql@0.3.0-alpha
+- pkg:nuget/SqlFun.NpgSql@0.4.0-alpha
+- pkg:nuget/SqlFun.NpgSql@0.5.0-alpha
+- pkg:nuget/SqlFun.NpgSql@0.7.0-alpha
+- pkg:nuget/SqlFun.NpgSql@0.8.1-alpha
+- pkg:nuget/SqlFun.NpgSql@1.0.0
+- pkg:nuget/SqlFun.NpgSql@1.0.1
+- pkg:nuget/SqlFun.NpgSql@2.0.5
+- pkg:nuget/SqlFun.NpgSql@2.4.0

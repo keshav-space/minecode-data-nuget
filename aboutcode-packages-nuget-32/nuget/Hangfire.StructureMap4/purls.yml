@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.StructureMap4@1.5.3.4
+- pkg:nuget/Hangfire.StructureMap4@1.6.3

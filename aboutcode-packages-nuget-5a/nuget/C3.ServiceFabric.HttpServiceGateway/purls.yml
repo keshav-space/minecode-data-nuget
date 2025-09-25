@@ -1,0 +1,11 @@
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@0.1.0
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@0.2.0
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@0.2.1
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@0.3.0
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@1.0.0-rc2-74
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@1.0.0-rc2-80
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@1.0.0-rtm-84
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@1.0.0-rtm-92
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@2.0.0
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@2.0.1
+- pkg:nuget/C3.ServiceFabric.HttpServiceGateway@2.0.1-build105

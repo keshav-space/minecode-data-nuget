@@ -1,0 +1,5 @@
+- pkg:nuget/GD.Domain@1.0.0
+- pkg:nuget/GD.Domain@1.0.0-alpha20190326
+- pkg:nuget/GD.Domain@1.0.1-CI-20190326-033138
+- pkg:nuget/GD.Domain@1.0.1-beta.2
+- pkg:nuget/GD.Domain@1.0.1-beta.3

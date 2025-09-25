@@ -1,0 +1,5 @@
+- pkg:nuget/InCube.Core@0.9.10
+- pkg:nuget/InCube.Core@0.9.9
+- pkg:nuget/InCube.Core@1.0.0
+- pkg:nuget/InCube.Core@1.0.0-alpha
+- pkg:nuget/InCube.Core@1.0.0-beta

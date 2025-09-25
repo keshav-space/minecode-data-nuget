@@ -1,0 +1,8 @@
+- pkg:nuget/runtime.osx.adk-platform-tools@24.0.1-beta001
+- pkg:nuget/runtime.osx.adk-platform-tools@24.0.1-beta002
+- pkg:nuget/runtime.osx.adk-platform-tools@24.0.1-beta004
+- pkg:nuget/runtime.osx.adk-platform-tools@25.0.3
+- pkg:nuget/runtime.osx.adk-platform-tools@26.0.0
+- pkg:nuget/runtime.osx.adk-platform-tools@26.0.1
+- pkg:nuget/runtime.osx.adk-platform-tools@28.0.0
+- pkg:nuget/runtime.osx.adk-platform-tools@28.0.1

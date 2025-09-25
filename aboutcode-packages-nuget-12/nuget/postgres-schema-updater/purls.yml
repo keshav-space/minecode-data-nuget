@@ -1,0 +1,6 @@
+- pkg:nuget/postgres-schema-updater@1.0.0
+- pkg:nuget/postgres-schema-updater@2.0.0
+- pkg:nuget/postgres-schema-updater@3.0.0
+- pkg:nuget/postgres-schema-updater@3.1.0
+- pkg:nuget/postgres-schema-updater@3.2.0
+- pkg:nuget/postgres-schema-updater@4.0.0

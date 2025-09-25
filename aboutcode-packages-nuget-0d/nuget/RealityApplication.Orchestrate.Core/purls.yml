@@ -1,0 +1,16 @@
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.0
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.0.1
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.2
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.3
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.4
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181019-162323
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181024-075149
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181025-191004
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181106-192534
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181113-021135
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181117-080923
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181118-101134
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181123-125609
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181123-214247
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.5-CI-20181124-065505
+- pkg:nuget/RealityApplication.Orchestrate.Core@1.0.6

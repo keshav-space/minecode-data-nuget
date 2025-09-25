@@ -1,0 +1,11 @@
+- pkg:nuget/glfw.redist@3.0.4
+- pkg:nuget/glfw.redist@3.0.4-p1
+- pkg:nuget/glfw.redist@3.0.4.1
+- pkg:nuget/glfw.redist@3.0.4.2
+- pkg:nuget/glfw.redist@3.0.4.3
+- pkg:nuget/glfw.redist@3.0.4.3-pre2015
+- pkg:nuget/glfw.redist@3.1.2
+- pkg:nuget/glfw.redist@3.2.0
+- pkg:nuget/glfw.redist@3.2.1
+- pkg:nuget/glfw.redist@3.2.1-v141
+- pkg:nuget/glfw.redist@3.2.1-v141to2015

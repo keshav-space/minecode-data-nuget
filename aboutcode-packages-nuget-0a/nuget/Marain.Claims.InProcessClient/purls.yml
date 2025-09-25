@@ -1,0 +1,10 @@
+- pkg:nuget/Marain.Claims.InProcessClient@0.1.0
+- pkg:nuget/Marain.Claims.InProcessClient@0.2.0
+- pkg:nuget/Marain.Claims.InProcessClient@0.3.0
+- pkg:nuget/Marain.Claims.InProcessClient@0.3.0-deployment.12
+- pkg:nuget/Marain.Claims.InProcessClient@0.3.0-deployment.20
+- pkg:nuget/Marain.Claims.InProcessClient@0.3.0-deployment.29
+- pkg:nuget/Marain.Claims.InProcessClient@0.3.0-deployment.39
+- pkg:nuget/Marain.Claims.InProcessClient@0.3.0-deployment.40
+- pkg:nuget/Marain.Claims.InProcessClient@0.3.0-deployment.5
+- pkg:nuget/Marain.Claims.InProcessClient@0.3.0-tenancy-update.6

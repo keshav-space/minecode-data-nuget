@@ -1,0 +1,11 @@
+- pkg:nuget/Elmish.Bridge.DotnetClient@3.0.0-pre
+- pkg:nuget/Elmish.Bridge.DotnetClient@3.4.0
+- pkg:nuget/Elmish.Bridge.DotnetClient@5.0.0
+- pkg:nuget/Elmish.Bridge.DotnetClient@5.0.0-rc
+- pkg:nuget/Elmish.Bridge.DotnetClient@5.0.0-rc-4
+- pkg:nuget/Elmish.Bridge.DotnetClient@5.0.0-rc-9
+- pkg:nuget/Elmish.Bridge.DotnetClient@6.0.0
+- pkg:nuget/Elmish.Bridge.DotnetClient@6.0.1
+- pkg:nuget/Elmish.Bridge.DotnetClient@7.0.0
+- pkg:nuget/Elmish.Bridge.DotnetClient@7.0.1
+- pkg:nuget/Elmish.Bridge.DotnetClient@7.1.0

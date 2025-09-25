@@ -1,0 +1,4 @@
+- pkg:nuget/MementoFX.Messaging.NServiceBus@1.0.0
+- pkg:nuget/MementoFX.Messaging.NServiceBus@1.0.1
+- pkg:nuget/MementoFX.Messaging.NServiceBus@1.0.1-pre
+- pkg:nuget/MementoFX.Messaging.NServiceBus@1.0.1-pre2

@@ -1,0 +1,17 @@
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8106
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8108
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8109
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8110
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8111
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8133
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8134
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8135
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-initial-package-creation-8136
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-merge-8137
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-merge-8142
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0-rc-readme-update-8141
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0.8140
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.0.0.8143
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.1.0-rc-Adding-azure-manage-identity-auth-21518
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.1.0.21536
+- pkg:nuget/Serilog.Sinks.AzureQueueStoragev2@1.2.0-rc-azure-credentials-bug-21595

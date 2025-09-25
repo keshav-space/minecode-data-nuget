@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.Management.ServiceFabricManagedClusters@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.ServiceFabricManagedClusters@1.0.0-beta.1

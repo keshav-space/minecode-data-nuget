@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Azure.Gallery@2.0.0-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.0.1-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.0.2-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.0.3-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.1.0-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.1.1-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.1.2-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.2.0-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.2.1-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.3.0-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.4.0-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.4.1-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.4.2-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.5.0-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.6.0-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.6.1-preview
+- pkg:nuget/Microsoft.Azure.Gallery@2.6.2-preview

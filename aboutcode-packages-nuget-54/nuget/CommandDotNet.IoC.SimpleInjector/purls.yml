@@ -1,0 +1,15 @@
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@1.0.0-preview1
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@1.0.0-preview2
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@2.0.0
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@2.0.0-preview3
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@2.0.0-preview5
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@2.0.1
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@3.0.0
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@3.0.0-preview-001
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@3.0.0-preview-003
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@3.0.0-preview-004
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@4.0.0
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@4.0.1
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@5.0.1
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@6.0.0
+- pkg:nuget/CommandDotNet.IoC.SimpleInjector@6.1.0

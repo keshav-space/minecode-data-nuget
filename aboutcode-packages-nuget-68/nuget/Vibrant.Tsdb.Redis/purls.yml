@@ -1,0 +1,16 @@
+- pkg:nuget/Vibrant.Tsdb.Redis@1.0.0
+- pkg:nuget/Vibrant.Tsdb.Redis@2.0.0
+- pkg:nuget/Vibrant.Tsdb.Redis@2.1.0
+- pkg:nuget/Vibrant.Tsdb.Redis@3.0.0
+- pkg:nuget/Vibrant.Tsdb.Redis@3.0.1
+- pkg:nuget/Vibrant.Tsdb.Redis@3.0.2
+- pkg:nuget/Vibrant.Tsdb.Redis@4.0.0
+- pkg:nuget/Vibrant.Tsdb.Redis@4.1.0
+- pkg:nuget/Vibrant.Tsdb.Redis@4.3.0
+- pkg:nuget/Vibrant.Tsdb.Redis@5.0.0
+- pkg:nuget/Vibrant.Tsdb.Redis@5.0.1
+- pkg:nuget/Vibrant.Tsdb.Redis@6.0.0
+- pkg:nuget/Vibrant.Tsdb.Redis@7.0.0
+- pkg:nuget/Vibrant.Tsdb.Redis@7.0.1
+- pkg:nuget/Vibrant.Tsdb.Redis@7.2.0
+- pkg:nuget/Vibrant.Tsdb.Redis@8.0.0

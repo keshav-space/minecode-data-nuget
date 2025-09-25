@@ -1,0 +1,11 @@
+- pkg:nuget/ResilienceDecorators.MySql@1.0.0
+- pkg:nuget/ResilienceDecorators.MySql@1.1.0
+- pkg:nuget/ResilienceDecorators.MySql@1.2.0
+- pkg:nuget/ResilienceDecorators.MySql@1.2.1
+- pkg:nuget/ResilienceDecorators.MySql@2.0.0
+- pkg:nuget/ResilienceDecorators.MySql@2.0.1
+- pkg:nuget/ResilienceDecorators.MySql@2.1.0
+- pkg:nuget/ResilienceDecorators.MySql@2.1.1
+- pkg:nuget/ResilienceDecorators.MySql@2.2.0
+- pkg:nuget/ResilienceDecorators.MySql@3.0.0
+- pkg:nuget/ResilienceDecorators.MySql@4.0.0

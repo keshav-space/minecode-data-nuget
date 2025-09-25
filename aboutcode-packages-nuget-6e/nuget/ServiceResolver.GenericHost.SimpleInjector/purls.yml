@@ -1,0 +1,15 @@
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@1.0.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@1.1.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@2.1.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@2.2.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.1.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.2.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.3.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.3.2
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.3.3
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.4.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.4.1-rc1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.4.1-rc2
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.4.2
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.5.1
+- pkg:nuget/ServiceResolver.GenericHost.SimpleInjector@3.5.2

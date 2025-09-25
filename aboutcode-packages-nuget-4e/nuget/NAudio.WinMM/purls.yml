@@ -1,0 +1,8 @@
+- pkg:nuget/NAudio.WinMM@2.0.0
+- pkg:nuget/NAudio.WinMM@2.0.0-beta1
+- pkg:nuget/NAudio.WinMM@2.0.0-beta2
+- pkg:nuget/NAudio.WinMM@2.0.1
+- pkg:nuget/NAudio.WinMM@2.1.0
+- pkg:nuget/NAudio.WinMM@2.1.0-beta.1
+- pkg:nuget/NAudio.WinMM@2.2.0
+- pkg:nuget/NAudio.WinMM@2.2.1

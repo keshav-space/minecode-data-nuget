@@ -1,0 +1,12 @@
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@3.0.0
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@3.0.1
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@3.0.2
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@4.0.0
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@4.1.0
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@4.2.0
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@4.2.1
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@5.0.0
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@6.0.0
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@7.0.0
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@7.1.0
+- pkg:nuget/Vibrant.Tsdb.InfluxDB@8.0.0

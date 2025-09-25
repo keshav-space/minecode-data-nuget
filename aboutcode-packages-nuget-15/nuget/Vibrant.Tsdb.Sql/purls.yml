@@ -1,0 +1,16 @@
+- pkg:nuget/Vibrant.Tsdb.Sql@1.0.0
+- pkg:nuget/Vibrant.Tsdb.Sql@2.0.0
+- pkg:nuget/Vibrant.Tsdb.Sql@2.1.0
+- pkg:nuget/Vibrant.Tsdb.Sql@3.0.0
+- pkg:nuget/Vibrant.Tsdb.Sql@3.0.1
+- pkg:nuget/Vibrant.Tsdb.Sql@3.0.2
+- pkg:nuget/Vibrant.Tsdb.Sql@4.0.0
+- pkg:nuget/Vibrant.Tsdb.Sql@4.1.0
+- pkg:nuget/Vibrant.Tsdb.Sql@4.2.0
+- pkg:nuget/Vibrant.Tsdb.Sql@4.2.1
+- pkg:nuget/Vibrant.Tsdb.Sql@5.0.0
+- pkg:nuget/Vibrant.Tsdb.Sql@6.0.0
+- pkg:nuget/Vibrant.Tsdb.Sql@7.0.0
+- pkg:nuget/Vibrant.Tsdb.Sql@7.1.0
+- pkg:nuget/Vibrant.Tsdb.Sql@7.2.0
+- pkg:nuget/Vibrant.Tsdb.Sql@8.0.0

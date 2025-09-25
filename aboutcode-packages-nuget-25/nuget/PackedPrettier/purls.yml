@@ -1,0 +1,17 @@
+- pkg:nuget/PackedPrettier@2.5.1.10
+- pkg:nuget/PackedPrettier@2.5.1.8
+- pkg:nuget/PackedPrettier@2.5.1.9
+- pkg:nuget/PackedPrettier@2.6.2.11
+- pkg:nuget/PackedPrettier@2.6.2.14
+- pkg:nuget/PackedPrettier@2.7.1.14
+- pkg:nuget/PackedPrettier@2.8.1.100-alpha1
+- pkg:nuget/PackedPrettier@2.8.1.2
+- pkg:nuget/PackedPrettier@2.8.1.82
+- pkg:nuget/PackedPrettier@2.8.2.105
+- pkg:nuget/PackedPrettier@2.8.3.112
+- pkg:nuget/PackedPrettier@2.8.4.137
+- pkg:nuget/PackedPrettier@2.8.5.177
+- pkg:nuget/PackedPrettier@2.8.6.178
+- pkg:nuget/PackedPrettier@2.8.7.181
+- pkg:nuget/PackedPrettier@2.8.8.211
+- pkg:nuget/PackedPrettier@3.2.5.13

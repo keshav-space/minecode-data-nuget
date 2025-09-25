@@ -1,0 +1,13 @@
+- pkg:nuget/Naos.Database.Mongo.Client@1.0.192
+- pkg:nuget/Naos.Database.Mongo.Client@1.0.194
+- pkg:nuget/Naos.Database.Mongo.Client@1.0.195-unifiedcqrsinterface
+- pkg:nuget/Naos.Database.Mongo.Client@1.0.196-unifiedcqrsinterface
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.197
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.198
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.199
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.200
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.202
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.203
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.204
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.205
+- pkg:nuget/Naos.Database.Mongo.Client@1.1.206

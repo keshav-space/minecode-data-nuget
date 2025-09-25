@@ -1,0 +1,6 @@
+- pkg:nuget/OpenTelemetry.Exporter.ApplicationInsights@0.2.0-alpha.100
+- pkg:nuget/OpenTelemetry.Exporter.ApplicationInsights@0.2.0-alpha.179
+- pkg:nuget/OpenTelemetry.Exporter.ApplicationInsights@0.2.0-alpha.220
+- pkg:nuget/OpenTelemetry.Exporter.ApplicationInsights@0.2.0-alpha.275
+- pkg:nuget/OpenTelemetry.Exporter.ApplicationInsights@0.2.0-alpha.40
+- pkg:nuget/OpenTelemetry.Exporter.ApplicationInsights@0.2.0-alpha.5

@@ -1,0 +1,17 @@
+- pkg:nuget/Vibrant.Tsdb.Client@1.0.0
+- pkg:nuget/Vibrant.Tsdb.Client@2.0.0
+- pkg:nuget/Vibrant.Tsdb.Client@2.1.0
+- pkg:nuget/Vibrant.Tsdb.Client@3.0.0
+- pkg:nuget/Vibrant.Tsdb.Client@3.0.1
+- pkg:nuget/Vibrant.Tsdb.Client@3.0.2
+- pkg:nuget/Vibrant.Tsdb.Client@4.0.0
+- pkg:nuget/Vibrant.Tsdb.Client@4.1.0
+- pkg:nuget/Vibrant.Tsdb.Client@4.2.0
+- pkg:nuget/Vibrant.Tsdb.Client@4.2.1
+- pkg:nuget/Vibrant.Tsdb.Client@4.2.2
+- pkg:nuget/Vibrant.Tsdb.Client@4.2.3
+- pkg:nuget/Vibrant.Tsdb.Client@5.0.0
+- pkg:nuget/Vibrant.Tsdb.Client@5.0.1
+- pkg:nuget/Vibrant.Tsdb.Client@5.0.2
+- pkg:nuget/Vibrant.Tsdb.Client@6.0.0
+- pkg:nuget/Vibrant.Tsdb.Client@6.1.0

@@ -1,0 +1,14 @@
+- pkg:nuget/NServiceBus.Persistence.MongoDb@0.1.0
+- pkg:nuget/NServiceBus.Persistence.MongoDb@0.2.0
+- pkg:nuget/NServiceBus.Persistence.MongoDb@0.3.0
+- pkg:nuget/NServiceBus.Persistence.MongoDb@5.0.0
+- pkg:nuget/NServiceBus.Persistence.MongoDb@5.0.25
+- pkg:nuget/NServiceBus.Persistence.MongoDb@5.0.27
+- pkg:nuget/NServiceBus.Persistence.MongoDb@6.0.1
+- pkg:nuget/NServiceBus.Persistence.MongoDb@6.0.4
+- pkg:nuget/NServiceBus.Persistence.MongoDb@7.0.0.17-beta1
+- pkg:nuget/NServiceBus.Persistence.MongoDb@7.0.0.21-beta1
+- pkg:nuget/NServiceBus.Persistence.MongoDb@8.0.24
+- pkg:nuget/NServiceBus.Persistence.MongoDb@9.0.0.25-rc1
+- pkg:nuget/NServiceBus.Persistence.MongoDb@9.0.0.26-rc1
+- pkg:nuget/NServiceBus.Persistence.MongoDb@9.0.1

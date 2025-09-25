@@ -1,0 +1,14 @@
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.0.0-alpha.0.20
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.0.0-alpha.0.21
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.0.0-alpha.0.22
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.0.0-alpha.0.24
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.0.1-alpha.1
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.1.0-beta.1
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.2.0-beta.1
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.3.0-beta
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@0.4.0-beta.1
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@1.0.0
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@1.0.0-rc.1
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@1.0.0-rc.2
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@2.0.0
+- pkg:nuget/NServiceBus.Extensions.Diagnostics.OpenTelemetry@2.1.0-rc.1

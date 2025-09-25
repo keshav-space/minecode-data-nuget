@@ -1,0 +1,15 @@
+- pkg:nuget/Finrir.Auth.Protocol@1.1.0
+- pkg:nuget/Finrir.Auth.Protocol@2023.112.106
+- pkg:nuget/Finrir.Auth.Protocol@2023.112.106.1
+- pkg:nuget/Finrir.Auth.Protocol@2024.102.118.1-telegram-auth-user
+- pkg:nuget/Finrir.Auth.Protocol@2024.102.118.2
+- pkg:nuget/Finrir.Auth.Protocol@2024.102.125.3-get-users
+- pkg:nuget/Finrir.Auth.Protocol@2024.102.125.4
+- pkg:nuget/Finrir.Auth.Protocol@2024.105.113.5-PutAccount
+- pkg:nuget/Finrir.Auth.Protocol@2024.105.129.6
+- pkg:nuget/Finrir.Auth.Protocol@2024.106.101.7-currencies
+- pkg:nuget/Finrir.Auth.Protocol@2024.106.107.10
+- pkg:nuget/Finrir.Auth.Protocol@2024.106.107.8-auth-logging-update
+- pkg:nuget/Finrir.Auth.Protocol@2024.106.107.9-auth-logging-update
+- pkg:nuget/Finrir.Auth.Protocol@2024.109.125.1-mobile-utilize-expenses-include-hidden
+- pkg:nuget/Finrir.Auth.Protocol@2024.109.125.2

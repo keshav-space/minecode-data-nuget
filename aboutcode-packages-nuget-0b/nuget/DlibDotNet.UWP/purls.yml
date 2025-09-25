@@ -1,0 +1,13 @@
+- pkg:nuget/DlibDotNet.UWP@19.17.0.20190730-pre
+- pkg:nuget/DlibDotNet.UWP@19.17.0.20190813
+- pkg:nuget/DlibDotNet.UWP@19.18.0.20190928
+- pkg:nuget/DlibDotNet.UWP@19.18.0.20191202
+- pkg:nuget/DlibDotNet.UWP@19.18.0.20200229
+- pkg:nuget/DlibDotNet.UWP@19.18.0.20200301
+- pkg:nuget/DlibDotNet.UWP@19.18.0.20200429
+- pkg:nuget/DlibDotNet.UWP@19.18.0.20200525
+- pkg:nuget/DlibDotNet.UWP@19.20.0.20200725
+- pkg:nuget/DlibDotNet.UWP@19.21.0.20210129
+- pkg:nuget/DlibDotNet.UWP@19.21.0.20210228
+- pkg:nuget/DlibDotNet.UWP@19.21.0.20210301
+- pkg:nuget/DlibDotNet.UWP@19.21.0.20210302
