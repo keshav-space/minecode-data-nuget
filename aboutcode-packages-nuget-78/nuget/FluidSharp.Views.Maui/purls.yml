@@ -1,0 +1,4 @@
+- pkg:nuget/FluidSharp.Views.Maui@1.4.0-alpha
+- pkg:nuget/FluidSharp.Views.Maui@1.4.1-alpha
+- pkg:nuget/FluidSharp.Views.Maui@2.0.1-alpha
+- pkg:nuget/FluidSharp.Views.Maui@3.0.0-alpha

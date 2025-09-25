@@ -1,0 +1,2 @@
+- pkg:nuget/RequestResponseLoggingMiddleware@1.0.0
+- pkg:nuget/RequestResponseLoggingMiddleware@3.1.0

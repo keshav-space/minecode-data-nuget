@@ -1,0 +1,2 @@
+- pkg:nuget/iAspNetcore.Middleware.Logging.RollingFile@2.1.0
+- pkg:nuget/iAspNetcore.Middleware.Logging.RollingFile@2.1.2.1

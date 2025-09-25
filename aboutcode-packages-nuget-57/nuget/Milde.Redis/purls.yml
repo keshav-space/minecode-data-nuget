@@ -1,0 +1,5 @@
+- pkg:nuget/Milde.Redis@1.0.0
+- pkg:nuget/Milde.Redis@2018.1.18
+- pkg:nuget/Milde.Redis@2018.1.19
+- pkg:nuget/Milde.Redis@2018.1.20
+- pkg:nuget/Milde.Redis@2018.1.21

@@ -1,0 +1,6 @@
+- pkg:nuget/DotNetRules.Events.Data.MongoDb@1.0.0-CI00003
+- pkg:nuget/DotNetRules.Events.Data.MongoDb@1.0.0-CI00006
+- pkg:nuget/DotNetRules.Events.Data.MongoDb@1.0.0-CI00007
+- pkg:nuget/DotNetRules.Events.Data.MongoDb@1.0.1
+- pkg:nuget/DotNetRules.Events.Data.MongoDb@1.0.1.10
+- pkg:nuget/DotNetRules.Events.Data.MongoDb@1.0.1.11

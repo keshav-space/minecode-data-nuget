@@ -1,0 +1,4 @@
+- pkg:nuget/nf.MessagePack@1.0.0
+- pkg:nuget/nf.MessagePack@1.0.1
+- pkg:nuget/nf.MessagePack@1.0.2
+- pkg:nuget/nf.MessagePack@1.0.3

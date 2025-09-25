@@ -1,0 +1,4 @@
+- pkg:nuget/Tmpps.Infrastructure.AspNetCore@1.0.0
+- pkg:nuget/Tmpps.Infrastructure.AspNetCore@2.0.0
+- pkg:nuget/Tmpps.Infrastructure.AspNetCore@3.0.0
+- pkg:nuget/Tmpps.Infrastructure.AspNetCore@3.0.1

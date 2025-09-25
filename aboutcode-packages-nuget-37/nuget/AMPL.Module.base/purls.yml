@@ -1,0 +1,3 @@
+- pkg:nuget/AMPL.Module.base@2023.10.12
+- pkg:nuget/AMPL.Module.base@2024.5.10
+- pkg:nuget/AMPL.Module.base@2024.5.11-preview.20240505

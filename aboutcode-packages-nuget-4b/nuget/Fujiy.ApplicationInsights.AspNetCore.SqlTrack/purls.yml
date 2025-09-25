@@ -1,0 +1,4 @@
+- pkg:nuget/Fujiy.ApplicationInsights.AspNetCore.SqlTrack@1.0.0
+- pkg:nuget/Fujiy.ApplicationInsights.AspNetCore.SqlTrack@1.1.0
+- pkg:nuget/Fujiy.ApplicationInsights.AspNetCore.SqlTrack@1.1.1
+- pkg:nuget/Fujiy.ApplicationInsights.AspNetCore.SqlTrack@2.0.0

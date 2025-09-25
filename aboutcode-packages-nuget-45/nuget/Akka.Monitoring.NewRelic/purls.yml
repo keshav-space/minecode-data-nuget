@@ -1,0 +1,2 @@
+- pkg:nuget/Akka.Monitoring.NewRelic@0.0.0-develop
+- pkg:nuget/Akka.Monitoring.NewRelic@1.0.3

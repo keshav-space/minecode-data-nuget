@@ -1,0 +1,4 @@
+- pkg:nuget/Newteq.Extensions.IServiceCollection@1.0.0
+- pkg:nuget/Newteq.Extensions.IServiceCollection@2.0.0
+- pkg:nuget/Newteq.Extensions.IServiceCollection@3.0.0
+- pkg:nuget/Newteq.Extensions.IServiceCollection@3.0.1

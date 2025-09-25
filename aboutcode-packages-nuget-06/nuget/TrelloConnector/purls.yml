@@ -1,0 +1,5 @@
+- pkg:nuget/TrelloConnector@4.18.0-localbuild
+- pkg:nuget/TrelloConnector@4.18.1.23
+- pkg:nuget/TrelloConnector@4.18.2.220
+- pkg:nuget/TrelloConnector@4.18.2.225
+- pkg:nuget/TrelloConnector@4.18.2.306

@@ -1,0 +1,12 @@
+- pkg:nuget/NuGetSolutionValidator.NUnit@1.0.7
+- pkg:nuget/NuGetSolutionValidator.NUnit@1.0.8
+- pkg:nuget/NuGetSolutionValidator.NUnit@2.0.5
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.10
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.14
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.15
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.17
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.18
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.19
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.7
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.8
+- pkg:nuget/NuGetSolutionValidator.NUnit@3.0.9

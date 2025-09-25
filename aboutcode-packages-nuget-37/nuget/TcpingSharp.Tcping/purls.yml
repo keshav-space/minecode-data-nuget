@@ -1,0 +1,3 @@
+- pkg:nuget/TcpingSharp.Tcping@1.0.25-rc
+- pkg:nuget/TcpingSharp.Tcping@1.0.26-beta
+- pkg:nuget/TcpingSharp.Tcping@1.0.28-beta

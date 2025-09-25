@@ -1,0 +1,4 @@
+- pkg:nuget/WebTestSuite@0.0.0-alpha
+- pkg:nuget/WebTestSuite@0.0.1
+- pkg:nuget/WebTestSuite@0.0.1-alpha
+- pkg:nuget/WebTestSuite@0.0.1-beta

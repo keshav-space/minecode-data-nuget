@@ -1,0 +1,9 @@
+- pkg:nuget/Dredd@1.0.0-CI-20191127-170220
+- pkg:nuget/Dredd@1.0.0-CI-20200213-185558
+- pkg:nuget/Dredd@1.1.0-CI-20200214-093104
+- pkg:nuget/Dredd@1.2.0-CI-20200214-094325
+- pkg:nuget/Dredd@2.0.0-CI-20200309-174438
+- pkg:nuget/Dredd@3.0.0-preview
+- pkg:nuget/Dredd@3.0.1-preview
+- pkg:nuget/Dredd@3.0.2-preview
+- pkg:nuget/Dredd@3.3.0-preview
