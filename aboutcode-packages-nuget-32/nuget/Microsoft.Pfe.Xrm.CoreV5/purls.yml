@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.0.1402.6
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.0.1405.2
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.0.1407
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.0.1409
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.0.1506
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.0.1611.1
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.0.1612.1
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.1405.0-alpha
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.1405.1
+- pkg:nuget/Microsoft.Pfe.Xrm.CoreV5@5.1405.2

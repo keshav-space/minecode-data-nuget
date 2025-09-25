@@ -1,0 +1,4 @@
+- pkg:nuget/Sequoia.Data.Postgresql@0.0.5
+- pkg:nuget/Sequoia.Data.Postgresql@0.1.1
+- pkg:nuget/Sequoia.Data.Postgresql@0.8.0
+- pkg:nuget/Sequoia.Data.Postgresql@0.8.1

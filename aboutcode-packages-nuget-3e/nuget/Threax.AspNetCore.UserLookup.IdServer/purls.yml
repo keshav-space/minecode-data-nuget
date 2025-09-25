@@ -1,0 +1,6 @@
+- pkg:nuget/Threax.AspNetCore.UserLookup.IdServer@1.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.IdServer@11.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.IdServer@2.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.IdServer@2.0.1
+- pkg:nuget/Threax.AspNetCore.UserLookup.IdServer@3.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.IdServer@4.0.0

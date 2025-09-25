@@ -1,0 +1,4 @@
+- pkg:nuget/Standalone.DependencyInjection.Adapters.Microsoft@1.0.0
+- pkg:nuget/Standalone.DependencyInjection.Adapters.Microsoft@1.0.1
+- pkg:nuget/Standalone.DependencyInjection.Adapters.Microsoft@1.0.2
+- pkg:nuget/Standalone.DependencyInjection.Adapters.Microsoft@1.0.3

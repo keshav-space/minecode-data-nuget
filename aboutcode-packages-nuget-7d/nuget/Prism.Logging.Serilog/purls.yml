@@ -1,0 +1,8 @@
+- pkg:nuget/Prism.Logging.Serilog@0.0.1-test
+- pkg:nuget/Prism.Logging.Serilog@1.0.0
+- pkg:nuget/Prism.Logging.Serilog@7.1.0-pre
+- pkg:nuget/Prism.Logging.Serilog@7.1.0.431
+- pkg:nuget/Prism.Logging.Serilog@7.2.0.1-pre
+- pkg:nuget/Prism.Logging.Serilog@7.2.0.1367
+- pkg:nuget/Prism.Logging.Serilog@7.2.0.1422
+- pkg:nuget/Prism.Logging.Serilog@7.2.0.1423

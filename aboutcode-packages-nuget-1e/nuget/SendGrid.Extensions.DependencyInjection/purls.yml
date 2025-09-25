@@ -1,0 +1,2 @@
+- pkg:nuget/SendGrid.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/SendGrid.Extensions.DependencyInjection@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/log4net.RavenDB@1.0.0
+- pkg:nuget/log4net.RavenDB@1.0.1
+- pkg:nuget/log4net.RavenDB@1.1.0
+- pkg:nuget/log4net.RavenDB@2.0.19

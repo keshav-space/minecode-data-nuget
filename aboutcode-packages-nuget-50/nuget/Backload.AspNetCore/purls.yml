@@ -1,0 +1,6 @@
+- pkg:nuget/Backload.AspNetCore@2.2.5
+- pkg:nuget/Backload.AspNetCore@2.2.6
+- pkg:nuget/Backload.AspNetCore@2.2.7
+- pkg:nuget/Backload.AspNetCore@2.2.8-rc3
+- pkg:nuget/Backload.AspNetCore@2.2.8-rc4
+- pkg:nuget/Backload.AspNetCore@2.2.8-rc5

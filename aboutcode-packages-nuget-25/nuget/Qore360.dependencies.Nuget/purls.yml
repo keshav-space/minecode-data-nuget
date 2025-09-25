@@ -1,0 +1,4 @@
+- pkg:nuget/Qore360.dependencies.Nuget@1.0.0
+- pkg:nuget/Qore360.dependencies.Nuget@2.0.0
+- pkg:nuget/Qore360.dependencies.Nuget@2.0.1
+- pkg:nuget/Qore360.dependencies.Nuget@2.1.1

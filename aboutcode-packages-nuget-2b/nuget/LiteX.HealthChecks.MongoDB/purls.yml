@@ -1,0 +1,2 @@
+- pkg:nuget/LiteX.HealthChecks.MongoDB@2.0.0
+- pkg:nuget/LiteX.HealthChecks.MongoDB@3.0.0

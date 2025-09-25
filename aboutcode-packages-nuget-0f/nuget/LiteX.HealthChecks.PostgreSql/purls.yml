@@ -1,0 +1,3 @@
+- pkg:nuget/LiteX.HealthChecks.PostgreSql@1.0.0
+- pkg:nuget/LiteX.HealthChecks.PostgreSql@2.0.0
+- pkg:nuget/LiteX.HealthChecks.PostgreSql@3.0.0

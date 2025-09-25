@@ -1,0 +1,5 @@
+- pkg:nuget/Liquid.WebApi.Http.Extensions.Crud@2.0.0-preview20211108-01
+- pkg:nuget/Liquid.WebApi.Http.Extensions.Crud@2.0.0-preview20211118-01
+- pkg:nuget/Liquid.WebApi.Http.Extensions.Crud@6.0.0-preview-20230517-01
+- pkg:nuget/Liquid.WebApi.Http.Extensions.Crud@6.0.0-preview-20230519-01
+- pkg:nuget/Liquid.WebApi.Http.Extensions.Crud@6.0.0-preview-20231130-01

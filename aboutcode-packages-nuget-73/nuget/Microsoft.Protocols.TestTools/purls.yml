@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Protocols.TestTools@2.0.0
+- pkg:nuget/Microsoft.Protocols.TestTools@2.1.0
+- pkg:nuget/Microsoft.Protocols.TestTools@2.2.0
+- pkg:nuget/Microsoft.Protocols.TestTools@2.3.0
+- pkg:nuget/Microsoft.Protocols.TestTools@2.5.0
+- pkg:nuget/Microsoft.Protocols.TestTools@2.6.1

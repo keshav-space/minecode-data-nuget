@@ -1,0 +1,8 @@
+- pkg:nuget/DependencyInjection.SourceGenerator@0.0.2
+- pkg:nuget/DependencyInjection.SourceGenerator@0.0.3
+- pkg:nuget/DependencyInjection.SourceGenerator@0.0.3-alpha1
+- pkg:nuget/DependencyInjection.SourceGenerator@0.0.3-alpha2
+- pkg:nuget/DependencyInjection.SourceGenerator@0.0.3-alpha3
+- pkg:nuget/DependencyInjection.SourceGenerator@0.0.3-alpha4
+- pkg:nuget/DependencyInjection.SourceGenerator@0.1.0
+- pkg:nuget/DependencyInjection.SourceGenerator@0.1.1

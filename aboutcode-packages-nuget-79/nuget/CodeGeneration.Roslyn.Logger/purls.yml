@@ -1,0 +1,3 @@
+- pkg:nuget/CodeGeneration.Roslyn.Logger@0.1.0-alpha
+- pkg:nuget/CodeGeneration.Roslyn.Logger@0.2.0-betta
+- pkg:nuget/CodeGeneration.Roslyn.Logger@0.2.0-betta.1

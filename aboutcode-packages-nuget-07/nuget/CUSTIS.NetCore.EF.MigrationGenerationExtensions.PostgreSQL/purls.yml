@@ -1,0 +1,7 @@
+- pkg:nuget/CUSTIS.NetCore.EF.MigrationGenerationExtensions.PostgreSQL@1.0.0
+- pkg:nuget/CUSTIS.NetCore.EF.MigrationGenerationExtensions.PostgreSQL@1.1.0
+- pkg:nuget/CUSTIS.NetCore.EF.MigrationGenerationExtensions.PostgreSQL@2.0.0
+- pkg:nuget/CUSTIS.NetCore.EF.MigrationGenerationExtensions.PostgreSQL@2.1.0
+- pkg:nuget/CUSTIS.NetCore.EF.MigrationGenerationExtensions.PostgreSQL@2.2.0
+- pkg:nuget/CUSTIS.NetCore.EF.MigrationGenerationExtensions.PostgreSQL@3.0.0
+- pkg:nuget/CUSTIS.NetCore.EF.MigrationGenerationExtensions.PostgreSQL@4.0.0

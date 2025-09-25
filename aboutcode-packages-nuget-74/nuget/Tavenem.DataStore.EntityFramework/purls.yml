@@ -1,0 +1,9 @@
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.29.1-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.30.0-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.31.0-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.32.0-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.33.0-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.34.0-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.34.1-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.35.0-preview
+- pkg:nuget/Tavenem.DataStore.EntityFramework@0.35.1-preview

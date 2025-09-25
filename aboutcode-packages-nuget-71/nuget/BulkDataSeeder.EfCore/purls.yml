@@ -1,0 +1,5 @@
+- pkg:nuget/BulkDataSeeder.EfCore@1.0.0
+- pkg:nuget/BulkDataSeeder.EfCore@1.0.1
+- pkg:nuget/BulkDataSeeder.EfCore@1.0.2
+- pkg:nuget/BulkDataSeeder.EfCore@1.0.3
+- pkg:nuget/BulkDataSeeder.EfCore@1.0.4

@@ -1,0 +1,5 @@
+- pkg:nuget/RiverSync.EntityFrameworkCore.MariaDB@0.0.0
+- pkg:nuget/RiverSync.EntityFrameworkCore.MariaDB@0.0.1
+- pkg:nuget/RiverSync.EntityFrameworkCore.MariaDB@0.0.2
+- pkg:nuget/RiverSync.EntityFrameworkCore.MariaDB@0.0.3
+- pkg:nuget/RiverSync.EntityFrameworkCore.MariaDB@0.0.4

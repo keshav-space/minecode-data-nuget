@@ -1,0 +1,2 @@
+- pkg:nuget/QMS.Storage.CosmosDB@0.0.1
+- pkg:nuget/QMS.Storage.CosmosDB@0.0.2-CI-20191105-122617

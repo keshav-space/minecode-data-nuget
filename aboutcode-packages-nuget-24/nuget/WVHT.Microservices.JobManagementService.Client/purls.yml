@@ -1,0 +1,4 @@
+- pkg:nuget/WVHT.Microservices.JobManagementService.Client@1.0.0
+- pkg:nuget/WVHT.Microservices.JobManagementService.Client@6.0.0
+- pkg:nuget/WVHT.Microservices.JobManagementService.Client@8.0.0
+- pkg:nuget/WVHT.Microservices.JobManagementService.Client@8.0.0-preview.1

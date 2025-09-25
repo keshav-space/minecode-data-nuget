@@ -1,0 +1,11 @@
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@15.0.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@15.1.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@16.0.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@16.0.0-rc1
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@16.1.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@17.0.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@18.0.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@18.1.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@18.1.0-rc1
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@19.0.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore@20.1.0

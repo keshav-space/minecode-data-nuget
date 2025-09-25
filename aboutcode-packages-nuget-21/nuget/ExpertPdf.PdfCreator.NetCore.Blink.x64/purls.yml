@@ -1,0 +1,4 @@
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore.Blink.x64@18.1.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore.Blink.x64@18.1.0-rc1
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore.Blink.x64@19.0.0
+- pkg:nuget/ExpertPdf.PdfCreator.NetCore.Blink.x64@20.1.0

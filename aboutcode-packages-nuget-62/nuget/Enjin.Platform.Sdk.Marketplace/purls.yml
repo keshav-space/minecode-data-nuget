@@ -1,0 +1,3 @@
+- pkg:nuget/Enjin.Platform.Sdk.Marketplace@1.0.0-beta.1
+- pkg:nuget/Enjin.Platform.Sdk.Marketplace@2.0.0
+- pkg:nuget/Enjin.Platform.Sdk.Marketplace@2.0.1

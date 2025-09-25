@@ -1,0 +1,13 @@
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.0.0
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.0.1
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.0.2
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.0.3
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.1.0
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.1.1
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.1.2
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.2.0
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.4.0
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.4.1
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.9.0
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@1.9.1
+- pkg:nuget/NLog.Railtown.Ingest.Logs.Target@2.0.0

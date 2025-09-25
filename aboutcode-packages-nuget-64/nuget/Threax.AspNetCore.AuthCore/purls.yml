@@ -1,0 +1,7 @@
+- pkg:nuget/Threax.AspNetCore.AuthCore@11.0.0
+- pkg:nuget/Threax.AspNetCore.AuthCore@2.0.2
+- pkg:nuget/Threax.AspNetCore.AuthCore@2.0.3
+- pkg:nuget/Threax.AspNetCore.AuthCore@2.0.4
+- pkg:nuget/Threax.AspNetCore.AuthCore@3.0.0
+- pkg:nuget/Threax.AspNetCore.AuthCore@4.0.0
+- pkg:nuget/Threax.AspNetCore.AuthCore@5.0.0

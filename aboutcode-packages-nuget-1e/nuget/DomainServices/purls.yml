@@ -1,0 +1,5 @@
+- pkg:nuget/DomainServices@0.9.0-rc01
+- pkg:nuget/DomainServices@1.0.0
+- pkg:nuget/DomainServices@1.0.0-rc01
+- pkg:nuget/DomainServices@1.0.1
+- pkg:nuget/DomainServices@1.0.2

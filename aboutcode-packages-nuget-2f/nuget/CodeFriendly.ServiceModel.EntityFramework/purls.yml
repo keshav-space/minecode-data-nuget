@@ -1,0 +1,17 @@
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190316-191736
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190316-201248
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190316-203855
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190316-204515
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190316-205833
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190317-000839
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190317-135749
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190509-121420
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190510-220825
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190512-104928
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.1-CI-20190512-151302
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.2-CI-20190512-161221
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.2-CI-20190515-111956
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.2-CI-20190604-221538
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.2-CI-20190611-111850
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.2-CI-20190611-124502
+- pkg:nuget/CodeFriendly.ServiceModel.EntityFramework@1.0.2-CI-20191014-144336

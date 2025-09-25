@@ -1,0 +1,13 @@
+- pkg:nuget/NRedisGraph@1.0.0
+- pkg:nuget/NRedisGraph@1.1.0
+- pkg:nuget/NRedisGraph@1.10.0-alpha-1
+- pkg:nuget/NRedisGraph@1.10.0-alpha-2
+- pkg:nuget/NRedisGraph@1.2.0
+- pkg:nuget/NRedisGraph@1.3.0
+- pkg:nuget/NRedisGraph@1.4.0
+- pkg:nuget/NRedisGraph@1.5.0
+- pkg:nuget/NRedisGraph@1.6.0
+- pkg:nuget/NRedisGraph@1.7.0
+- pkg:nuget/NRedisGraph@1.7.0-rc
+- pkg:nuget/NRedisGraph@1.8.0
+- pkg:nuget/NRedisGraph@1.9.0

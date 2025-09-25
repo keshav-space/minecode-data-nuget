@@ -1,0 +1,11 @@
+- pkg:nuget/FSharp.CosmosDb@0.1.0
+- pkg:nuget/FSharp.CosmosDb@0.1.1
+- pkg:nuget/FSharp.CosmosDb@0.2.0
+- pkg:nuget/FSharp.CosmosDb@0.3.0
+- pkg:nuget/FSharp.CosmosDb@0.3.0-ci-434945281
+- pkg:nuget/FSharp.CosmosDb@0.4.0
+- pkg:nuget/FSharp.CosmosDb@0.5.2
+- pkg:nuget/FSharp.CosmosDb@1.0.0
+- pkg:nuget/FSharp.CosmosDb@1.1.0
+- pkg:nuget/FSharp.CosmosDb@1.2.0
+- pkg:nuget/FSharp.CosmosDb@1.2.1

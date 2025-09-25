@@ -1,0 +1,11 @@
+- pkg:nuget/DotNetCore.Compile.Environment@1.0.0
+- pkg:nuget/DotNetCore.Compile.Environment@1.0.0-alpha1
+- pkg:nuget/DotNetCore.Compile.Environment@1.0.0-alpha2
+- pkg:nuget/DotNetCore.Compile.Environment@1.0.0-alpha5
+- pkg:nuget/DotNetCore.Compile.Environment@1.0.0-alpha6
+- pkg:nuget/DotNetCore.Compile.Environment@2.0.0
+- pkg:nuget/DotNetCore.Compile.Environment@2.1.0-alpha1
+- pkg:nuget/DotNetCore.Compile.Environment@2.2.0
+- pkg:nuget/DotNetCore.Compile.Environment@2.3.0
+- pkg:nuget/DotNetCore.Compile.Environment@3.0.0
+- pkg:nuget/DotNetCore.Compile.Environment@3.2.0

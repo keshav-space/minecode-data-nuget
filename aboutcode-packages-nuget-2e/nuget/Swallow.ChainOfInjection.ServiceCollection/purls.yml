@@ -1,0 +1,4 @@
+- pkg:nuget/Swallow.ChainOfInjection.ServiceCollection@2.1.0
+- pkg:nuget/Swallow.ChainOfInjection.ServiceCollection@3.0.0
+- pkg:nuget/Swallow.ChainOfInjection.ServiceCollection@4.0.0
+- pkg:nuget/Swallow.ChainOfInjection.ServiceCollection@5.0.0

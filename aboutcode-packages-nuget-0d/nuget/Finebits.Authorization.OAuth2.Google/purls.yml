@@ -1,0 +1,5 @@
+- pkg:nuget/Finebits.Authorization.OAuth2.Google@0.1.0-alpha%2B2.1.be2a40c
+- pkg:nuget/Finebits.Authorization.OAuth2.Google@0.2.0-alpha%2B4.1.984d7ec
+- pkg:nuget/Finebits.Authorization.OAuth2.Google@0.3.0-alpha%2B6.1.12363d7
+- pkg:nuget/Finebits.Authorization.OAuth2.Google@0.3.1-alpha%2B8.1.baf45d1
+- pkg:nuget/Finebits.Authorization.OAuth2.Google@0.4.0-preview.1%2B10.1.416c5c0

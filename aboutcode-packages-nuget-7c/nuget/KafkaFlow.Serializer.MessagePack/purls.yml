@@ -1,0 +1,4 @@
+- pkg:nuget/KafkaFlow.Serializer.MessagePack@1.0.0
+- pkg:nuget/KafkaFlow.Serializer.MessagePack@3.0.0
+- pkg:nuget/KafkaFlow.Serializer.MessagePack@3.0.1
+- pkg:nuget/KafkaFlow.Serializer.MessagePack@4.0.0

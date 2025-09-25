@@ -1,0 +1,5 @@
+- pkg:nuget/CosmoStore.InMemory@2.0.1
+- pkg:nuget/CosmoStore.InMemory@3.0.0
+- pkg:nuget/CosmoStore.InMemory@3.1.0
+- pkg:nuget/CosmoStore.InMemory@3.1.1
+- pkg:nuget/CosmoStore.InMemory@3.1.2

@@ -1,0 +1,5 @@
+- pkg:nuget/Emgu.CV.runtime.xamarin.mini.ios@4.6.0.5131
+- pkg:nuget/Emgu.CV.runtime.xamarin.mini.ios@4.7.0.5276
+- pkg:nuget/Emgu.CV.runtime.xamarin.mini.ios@4.8.0.5324
+- pkg:nuget/Emgu.CV.runtime.xamarin.mini.ios@4.8.1.5350
+- pkg:nuget/Emgu.CV.runtime.xamarin.mini.ios@4.9.0.5494

@@ -1,0 +1,11 @@
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@15.0.0
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@15.1.0
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@16.0.0
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@16.0.0-rc1
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@16.1.0
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@17.0.0
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@18.0.0
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@18.1.0
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@18.1.0-rc1
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@19.0.0
+- pkg:nuget/ExpertPdf.HtmlToPdf.NetCore.Blink@20.1.0

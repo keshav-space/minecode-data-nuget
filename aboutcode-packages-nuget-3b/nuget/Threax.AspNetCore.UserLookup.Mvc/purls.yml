@@ -1,0 +1,9 @@
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@1.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@11.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@2.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@2.1.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@2.1.0-pre01
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@2.1.0-pre03
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@3.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@4.0.0
+- pkg:nuget/Threax.AspNetCore.UserLookup.Mvc@5.0.0

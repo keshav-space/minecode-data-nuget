@@ -1,0 +1,7 @@
+- pkg:nuget/ApplicationMetrics.MetricLoggers.WindowsPerformanceCounter@2.0.0
+- pkg:nuget/ApplicationMetrics.MetricLoggers.WindowsPerformanceCounter@3.0.0
+- pkg:nuget/ApplicationMetrics.MetricLoggers.WindowsPerformanceCounter@4.0.0
+- pkg:nuget/ApplicationMetrics.MetricLoggers.WindowsPerformanceCounter@4.1.0
+- pkg:nuget/ApplicationMetrics.MetricLoggers.WindowsPerformanceCounter@5.0.0
+- pkg:nuget/ApplicationMetrics.MetricLoggers.WindowsPerformanceCounter@5.1.0
+- pkg:nuget/ApplicationMetrics.MetricLoggers.WindowsPerformanceCounter@5.2.0

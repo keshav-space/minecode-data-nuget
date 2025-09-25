@@ -1,0 +1,2 @@
+- pkg:nuget/LiteX.HealthChecks.AzureKeyVault@2.0.0
+- pkg:nuget/LiteX.HealthChecks.AzureKeyVault@3.0.0

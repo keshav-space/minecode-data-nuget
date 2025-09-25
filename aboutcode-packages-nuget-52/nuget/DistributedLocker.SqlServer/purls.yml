@@ -1,0 +1,2 @@
+- pkg:nuget/DistributedLocker.SqlServer@1.0.0.1
+- pkg:nuget/DistributedLocker.SqlServer@1.0.0.3

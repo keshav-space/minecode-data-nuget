@@ -1,0 +1,6 @@
+- pkg:nuget/Service.Identity.Grpc@1.0.0
+- pkg:nuget/Service.Identity.Grpc@1.0.0-CI-20240820-114436
+- pkg:nuget/Service.Identity.Grpc@1.0.0-CI-20240820-114925
+- pkg:nuget/Service.Identity.Grpc@1.0.0-CI-20240820-115323
+- pkg:nuget/Service.Identity.Grpc@1.0.0-CI-20240820-124510
+- pkg:nuget/Service.Identity.Grpc@1.0.0-CI-20240820-152830

@@ -1,0 +1,7 @@
+- pkg:nuget/NLog.Targets.Redis@0.1.0
+- pkg:nuget/NLog.Targets.Redis@0.1.0.1
+- pkg:nuget/NLog.Targets.Redis@0.1.0.2
+- pkg:nuget/NLog.Targets.Redis@0.1.0.3
+- pkg:nuget/NLog.Targets.Redis@2.0.0
+- pkg:nuget/NLog.Targets.Redis@3.0.0
+- pkg:nuget/NLog.Targets.Redis@3.1.0

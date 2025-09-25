@@ -1,0 +1,6 @@
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Aws.DistributedS3Cache@1.0.2
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Aws.DistributedS3Cache@1.0.3
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Aws.DistributedS3Cache@1.0.4
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Aws.DistributedS3Cache@1.0.5
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Aws.DistributedS3Cache@2.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Aws.DistributedS3Cache@3.0.0

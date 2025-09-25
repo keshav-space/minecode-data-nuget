@@ -1,0 +1,3 @@
+- pkg:nuget/circuitpython-net@0.1.12
+- pkg:nuget/circuitpython-net@0.1.14
+- pkg:nuget/circuitpython-net@0.3.23

@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.OData.Extensions.Client.Abstractions@1.0.0
+- pkg:nuget/Microsoft.OData.Extensions.Client.Abstractions@1.0.0-beta0
+- pkg:nuget/Microsoft.OData.Extensions.Client.Abstractions@1.0.1
+- pkg:nuget/Microsoft.OData.Extensions.Client.Abstractions@1.0.2
+- pkg:nuget/Microsoft.OData.Extensions.Client.Abstractions@1.0.6

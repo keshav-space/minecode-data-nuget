@@ -1,0 +1,3 @@
+- pkg:nuget/Innofactor.SuomiFiIdentificationClient.Test@1.13.0
+- pkg:nuget/Innofactor.SuomiFiIdentificationClient.Test@1.14.0
+- pkg:nuget/Innofactor.SuomiFiIdentificationClient.Test@1.15.0

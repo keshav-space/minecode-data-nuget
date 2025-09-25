@@ -1,0 +1,4 @@
+- pkg:nuget/TestFramework.NUnit.Ninject.NSubstitute@1.0.0
+- pkg:nuget/TestFramework.NUnit.Ninject.NSubstitute@1.0.0-beta1
+- pkg:nuget/TestFramework.NUnit.Ninject.NSubstitute@1.0.0-beta2
+- pkg:nuget/TestFramework.NUnit.Ninject.NSubstitute@1.1.0

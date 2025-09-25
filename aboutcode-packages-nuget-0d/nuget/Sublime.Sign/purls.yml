@@ -1,0 +1,4 @@
+- pkg:nuget/Sublime.Sign@1.0.0
+- pkg:nuget/Sublime.Sign@1.0.0-net6
+- pkg:nuget/Sublime.Sign@1.0.1-net6
+- pkg:nuget/Sublime.Sign@1.0.1-net7

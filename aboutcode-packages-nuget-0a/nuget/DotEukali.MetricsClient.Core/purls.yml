@@ -1,0 +1,8 @@
+- pkg:nuget/DotEukali.MetricsClient.Core@0.1.0
+- pkg:nuget/DotEukali.MetricsClient.Core@0.2.1
+- pkg:nuget/DotEukali.MetricsClient.Core@0.2.2
+- pkg:nuget/DotEukali.MetricsClient.Core@0.2.3
+- pkg:nuget/DotEukali.MetricsClient.Core@6.0.0
+- pkg:nuget/DotEukali.MetricsClient.Core@6.1.0
+- pkg:nuget/DotEukali.MetricsClient.Core@7.0.0
+- pkg:nuget/DotEukali.MetricsClient.Core@8.0.0

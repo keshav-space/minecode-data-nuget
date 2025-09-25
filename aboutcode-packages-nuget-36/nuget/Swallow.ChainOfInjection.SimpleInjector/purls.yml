@@ -1,0 +1,4 @@
+- pkg:nuget/Swallow.ChainOfInjection.SimpleInjector@2.1.0
+- pkg:nuget/Swallow.ChainOfInjection.SimpleInjector@3.0.0
+- pkg:nuget/Swallow.ChainOfInjection.SimpleInjector@4.0.0
+- pkg:nuget/Swallow.ChainOfInjection.SimpleInjector@5.0.0

@@ -1,0 +1,11 @@
+- pkg:nuget/WindowsAPICodePack@1.1.0
+- pkg:nuget/WindowsAPICodePack@1.1.1
+- pkg:nuget/WindowsAPICodePack@1.1.2
+- pkg:nuget/WindowsAPICodePack@1.1.3
+- pkg:nuget/WindowsAPICodePack@7.0.1
+- pkg:nuget/WindowsAPICodePack@7.0.2
+- pkg:nuget/WindowsAPICodePack@7.0.3
+- pkg:nuget/WindowsAPICodePack@7.0.4
+- pkg:nuget/WindowsAPICodePack@8.0.4
+- pkg:nuget/WindowsAPICodePack@8.0.6
+- pkg:nuget/WindowsAPICodePack@8.0.9
