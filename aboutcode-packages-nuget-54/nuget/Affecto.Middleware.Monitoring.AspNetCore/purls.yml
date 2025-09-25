@@ -1,0 +1,6 @@
+- pkg:nuget/Affecto.Middleware.Monitoring.AspNetCore@1.0.0-prerelease02
+- pkg:nuget/Affecto.Middleware.Monitoring.AspNetCore@1.0.1
+- pkg:nuget/Affecto.Middleware.Monitoring.AspNetCore@2.0.0
+- pkg:nuget/Affecto.Middleware.Monitoring.AspNetCore@2.0.0-prerelease01
+- pkg:nuget/Affecto.Middleware.Monitoring.AspNetCore@3.0.0
+- pkg:nuget/Affecto.Middleware.Monitoring.AspNetCore@3.0.0-prerelease01

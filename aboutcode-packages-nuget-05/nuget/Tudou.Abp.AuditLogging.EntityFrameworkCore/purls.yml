@@ -1,0 +1,2 @@
+- pkg:nuget/Tudou.Abp.AuditLogging.EntityFrameworkCore@2.2.1
+- pkg:nuget/Tudou.Abp.AuditLogging.EntityFrameworkCore@2.3.0

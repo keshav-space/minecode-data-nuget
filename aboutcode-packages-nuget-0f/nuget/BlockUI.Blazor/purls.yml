@@ -1,0 +1,5 @@
+- pkg:nuget/BlockUI.Blazor@1.0.0
+- pkg:nuget/BlockUI.Blazor@1.0.0-alpha
+- pkg:nuget/BlockUI.Blazor@2.0.0-alpha
+- pkg:nuget/BlockUI.Blazor@2.0.0-beta
+- pkg:nuget/BlockUI.Blazor@2.0.0-beta2

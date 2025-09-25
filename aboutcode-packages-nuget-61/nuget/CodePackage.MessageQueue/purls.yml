@@ -1,0 +1,9 @@
+- pkg:nuget/CodePackage.MessageQueue@1.0.0
+- pkg:nuget/CodePackage.MessageQueue@1.0.1
+- pkg:nuget/CodePackage.MessageQueue@2.0.0
+- pkg:nuget/CodePackage.MessageQueue@2.0.1
+- pkg:nuget/CodePackage.MessageQueue@5.0.0
+- pkg:nuget/CodePackage.MessageQueue@6.0.0
+- pkg:nuget/CodePackage.MessageQueue@6.1.0
+- pkg:nuget/CodePackage.MessageQueue@6.1.1
+- pkg:nuget/CodePackage.MessageQueue@6.1.2

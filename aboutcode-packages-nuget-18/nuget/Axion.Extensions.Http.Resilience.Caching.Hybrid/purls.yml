@@ -1,0 +1,5 @@
+- pkg:nuget/Axion.Extensions.Http.Resilience.Caching.Hybrid@9.0.0
+- pkg:nuget/Axion.Extensions.Http.Resilience.Caching.Hybrid@9.0.0-preview.9.24556.5.0
+- pkg:nuget/Axion.Extensions.Http.Resilience.Caching.Hybrid@9.0.1
+- pkg:nuget/Axion.Extensions.Http.Resilience.Caching.Hybrid@9.3.0
+- pkg:nuget/Axion.Extensions.Http.Resilience.Caching.Hybrid@9.5.0

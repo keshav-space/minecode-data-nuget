@@ -1,0 +1,6 @@
+- pkg:nuget/Extensions.Hosting.AsyncInitialization@1.0.0
+- pkg:nuget/Extensions.Hosting.AsyncInitialization@1.0.0-alpha001
+- pkg:nuget/Extensions.Hosting.AsyncInitialization@1.0.0-beta.1
+- pkg:nuget/Extensions.Hosting.AsyncInitialization@2.0.0
+- pkg:nuget/Extensions.Hosting.AsyncInitialization@3.0.0
+- pkg:nuget/Extensions.Hosting.AsyncInitialization@3.0.1

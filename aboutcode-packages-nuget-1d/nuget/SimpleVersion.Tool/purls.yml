@@ -1,0 +1,5 @@
+- pkg:nuget/SimpleVersion.Tool@0.3.0-alpha1.2
+- pkg:nuget/SimpleVersion.Tool@0.4.0-beta.1.21
+- pkg:nuget/SimpleVersion.Tool@0.4.0-beta.1.23
+- pkg:nuget/SimpleVersion.Tool@0.4.0-beta.1.7
+- pkg:nuget/SimpleVersion.Tool@0.5.0-beta.1.2

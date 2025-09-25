@@ -1,0 +1,4 @@
+- pkg:nuget/Marvin.Cache.Headers.DistributedStore@1.0.0
+- pkg:nuget/Marvin.Cache.Headers.DistributedStore@1.0.0-beta
+- pkg:nuget/Marvin.Cache.Headers.DistributedStore@1.1.0
+- pkg:nuget/Marvin.Cache.Headers.DistributedStore@1.1.0-rc

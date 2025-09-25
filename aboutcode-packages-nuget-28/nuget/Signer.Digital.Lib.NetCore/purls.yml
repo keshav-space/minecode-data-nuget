@@ -1,0 +1,3 @@
+- pkg:nuget/Signer.Digital.Lib.NetCore@1.11.0
+- pkg:nuget/Signer.Digital.Lib.NetCore@1.4.0
+- pkg:nuget/Signer.Digital.Lib.NetCore@3.0.0

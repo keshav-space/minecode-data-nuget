@@ -1,0 +1,5 @@
+- pkg:nuget/ILDisassembler@1.0.0-beta
+- pkg:nuget/ILDisassembler@1.0.0-beta2
+- pkg:nuget/ILDisassembler@1.0.1
+- pkg:nuget/ILDisassembler@1.0.1-beta
+- pkg:nuget/ILDisassembler@1.0.1-beta2

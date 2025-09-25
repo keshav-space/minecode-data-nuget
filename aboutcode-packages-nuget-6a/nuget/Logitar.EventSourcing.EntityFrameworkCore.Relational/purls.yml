@@ -1,0 +1,10 @@
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@3.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@4.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@5.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@5.0.1
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@5.1.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@6.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@6.0.1
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@7.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@7.0.1
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.Relational@7.0.2

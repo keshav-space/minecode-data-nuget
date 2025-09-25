@@ -1,0 +1,17 @@
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-development.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-extendedJoinMap.2
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-extendedJoinMap.3
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-extendedJoinMap.4
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-feature-4series-and-actions-udpates.7
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-feature-4series-and-actions-udpates.8
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-feature-4series-and-actions-udpates.9
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-feature-essentialsMessengerUpdate.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-feature-essentialsMessengerUpdate.2
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.0-feature-essentialsMessengerUpdate.3
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.2.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.3.0-activeInputs.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.3.0-activeInputs.2
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.3.0-activeInputs.3
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.3.0-activeinputs-cleanup.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.3.0-feature-essentials-version.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.4Series.PanasonicProjector@1.3.1

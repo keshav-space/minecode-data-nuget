@@ -1,0 +1,6 @@
+- pkg:nuget/runtime.unix.System.Diagnostics.Debug@4.0.11
+- pkg:nuget/runtime.unix.System.Diagnostics.Debug@4.0.11-beta-23409
+- pkg:nuget/runtime.unix.System.Diagnostics.Debug@4.0.11-beta-23516
+- pkg:nuget/runtime.unix.System.Diagnostics.Debug@4.0.11-rc2-24027
+- pkg:nuget/runtime.unix.System.Diagnostics.Debug@4.3.0
+- pkg:nuget/runtime.unix.System.Diagnostics.Debug@4.3.0-preview1-24530-04

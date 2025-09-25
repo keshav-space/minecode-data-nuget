@@ -1,0 +1,17 @@
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@0.0.1-dev1
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@1.0.0
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@1.0.0-rc1
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@1.0.0-rc2
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@1.1.0
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@1.1.1
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@1.2.0
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@1.3.0
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.0.0
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.1.0
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.1.0-beta1
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.1.0-beta2
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.1.1
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.1.2
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.1.3
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.2.0
+- pkg:nuget/SpatialFocus.EntityFrameworkCore.Extensions@2.3.0

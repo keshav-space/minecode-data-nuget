@@ -1,0 +1,5 @@
+- pkg:nuget/AltOne.TwoFactorAuth@2212.2.5-8.1.6.0-n2.0
+- pkg:nuget/AltOne.TwoFactorAuth@2304.0.0-8.1.6.0-n2.0
+- pkg:nuget/AltOne.TwoFactorAuth@2410.0.0-10.2.0.3-Beta
+- pkg:nuget/AltOne.TwoFactorAuth@2410.0.0-8.1.7.0
+- pkg:nuget/AltOne.TwoFactorAuth@2410.0.0-8.1.7.1

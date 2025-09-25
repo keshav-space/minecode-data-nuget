@@ -1,0 +1,3 @@
+- pkg:nuget/FFmpegInterop.Win10@1.3.0
+- pkg:nuget/FFmpegInterop.Win10@1.5.0
+- pkg:nuget/FFmpegInterop.Win10@1.6.1

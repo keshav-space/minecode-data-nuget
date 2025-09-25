@@ -1,0 +1,4 @@
+- pkg:nuget/Ploch.Data.EFCore.IntegrationTesting@1.0.0
+- pkg:nuget/Ploch.Data.EFCore.IntegrationTesting@2.0.0
+- pkg:nuget/Ploch.Data.EFCore.IntegrationTesting@2.0.0-prerelease-240607015317
+- pkg:nuget/Ploch.Data.EFCore.IntegrationTesting@2.1.0

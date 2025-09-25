@@ -1,0 +1,5 @@
+- pkg:nuget/Albatross.Testing.EFCore@7.5.12%2B8cd39ca
+- pkg:nuget/Albatross.Testing.EFCore@8.0.0%2B9b3bdcd
+- pkg:nuget/Albatross.Testing.EFCore@8.0.1%2Bb34d590
+- pkg:nuget/Albatross.Testing.EFCore@8.1.0%2B492097b
+- pkg:nuget/Albatross.Testing.EFCore@8.1.1%2B43997c9

@@ -1,0 +1,5 @@
+- pkg:nuget/Core.GenericRepository.Implementation@3.0.0
+- pkg:nuget/Core.GenericRepository.Implementation@4.0.0
+- pkg:nuget/Core.GenericRepository.Implementation@5.0.0
+- pkg:nuget/Core.GenericRepository.Implementation@7.0.0
+- pkg:nuget/Core.GenericRepository.Implementation@8.0.0

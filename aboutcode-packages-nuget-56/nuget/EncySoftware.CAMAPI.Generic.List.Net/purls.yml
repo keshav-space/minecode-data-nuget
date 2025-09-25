@@ -1,0 +1,4 @@
+- pkg:nuget/EncySoftware.CAMAPI.Generic.List.Net@1.1.1%2B515e0ba9881b91ecd4392e7a57233c257a06a300
+- pkg:nuget/EncySoftware.CAMAPI.Generic.List.Net@1.1.1-rc.1%2Bac3c27f2b488883358552f30c592076b837034a3
+- pkg:nuget/EncySoftware.CAMAPI.Generic.List.Net@1.2.0
+- pkg:nuget/EncySoftware.CAMAPI.Generic.List.Net@2.0.0

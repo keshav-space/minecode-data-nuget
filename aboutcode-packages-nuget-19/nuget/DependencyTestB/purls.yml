@@ -1,0 +1,3 @@
+- pkg:nuget/DependencyTestB@1.0.0
+- pkg:nuget/DependencyTestB@1.0.0-a
+- pkg:nuget/DependencyTestB@1.0.1-a

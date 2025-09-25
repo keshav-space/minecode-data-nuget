@@ -1,0 +1,4 @@
+- pkg:nuget/runtime.win.System.Net.Sockets@0.0.1-alpha
+- pkg:nuget/runtime.win.System.Net.Sockets@4.1.0
+- pkg:nuget/runtime.win.System.Net.Sockets@4.3.0
+- pkg:nuget/runtime.win.System.Net.Sockets@4.3.0-preview1-24530-04

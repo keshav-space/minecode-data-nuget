@@ -1,0 +1,5 @@
+- pkg:nuget/Promitor.Parsers.Prometheus.Core@0.1.0
+- pkg:nuget/Promitor.Parsers.Prometheus.Core@0.1.0-rc.1
+- pkg:nuget/Promitor.Parsers.Prometheus.Core@0.1.0-rc.2
+- pkg:nuget/Promitor.Parsers.Prometheus.Core@0.1.0-rc.3
+- pkg:nuget/Promitor.Parsers.Prometheus.Core@0.2.0

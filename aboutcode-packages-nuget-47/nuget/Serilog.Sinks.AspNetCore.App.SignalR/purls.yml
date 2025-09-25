@@ -1,0 +1,8 @@
+- pkg:nuget/Serilog.Sinks.AspNetCore.App.SignalR@0.0.1
+- pkg:nuget/Serilog.Sinks.AspNetCore.App.SignalR@0.0.2
+- pkg:nuget/Serilog.Sinks.AspNetCore.App.SignalR@1.0.0
+- pkg:nuget/Serilog.Sinks.AspNetCore.App.SignalR@1.1.0
+- pkg:nuget/Serilog.Sinks.AspNetCore.App.SignalR@1.1.1
+- pkg:nuget/Serilog.Sinks.AspNetCore.App.SignalR@1.2.0
+- pkg:nuget/Serilog.Sinks.AspNetCore.App.SignalR@1.2.1
+- pkg:nuget/Serilog.Sinks.AspNetCore.App.SignalR@1.2.2

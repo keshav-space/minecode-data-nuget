@@ -1,0 +1,15 @@
+- pkg:nuget/NotoriousClient@0.0.1
+- pkg:nuget/NotoriousClient@0.0.2
+- pkg:nuget/NotoriousClient@0.0.3
+- pkg:nuget/NotoriousClient@1.0.0
+- pkg:nuget/NotoriousClient@1.0.1
+- pkg:nuget/NotoriousClient@1.0.2
+- pkg:nuget/NotoriousClient@2.0.0
+- pkg:nuget/NotoriousClient@2.0.1
+- pkg:nuget/NotoriousClient@2.0.1-beta.10
+- pkg:nuget/NotoriousClient@2.0.1-beta.8
+- pkg:nuget/NotoriousClient@2.0.2
+- pkg:nuget/NotoriousClient@2.0.2-beta.15
+- pkg:nuget/NotoriousClient@2.0.2-beta.16
+- pkg:nuget/NotoriousClient@2.0.3
+- pkg:nuget/NotoriousClient@2.0.3-beta.20

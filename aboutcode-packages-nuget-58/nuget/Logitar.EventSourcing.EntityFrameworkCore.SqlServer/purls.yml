@@ -1,0 +1,10 @@
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@3.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@4.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@5.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@5.0.1
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@5.0.2
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@6.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@6.0.1
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@7.0.0
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@7.0.1
+- pkg:nuget/Logitar.EventSourcing.EntityFrameworkCore.SqlServer@7.0.2

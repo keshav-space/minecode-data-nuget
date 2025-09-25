@@ -1,0 +1,11 @@
+- pkg:nuget/DeviceOAuth2@1.0.0
+- pkg:nuget/DeviceOAuth2@1.0.1
+- pkg:nuget/DeviceOAuth2@1.1.0
+- pkg:nuget/DeviceOAuth2@2.0.0
+- pkg:nuget/DeviceOAuth2@2.0.0-alpha-0
+- pkg:nuget/DeviceOAuth2@2.0.0-alpha-1
+- pkg:nuget/DeviceOAuth2@2.1.0
+- pkg:nuget/DeviceOAuth2@2.1.0-alpha-0
+- pkg:nuget/DeviceOAuth2@2.1.0-alpha-1
+- pkg:nuget/DeviceOAuth2@2.1.0-alpha-3
+- pkg:nuget/DeviceOAuth2@2.1.1

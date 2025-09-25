@@ -1,0 +1,5 @@
+- pkg:nuget/Azure.ResourceManager.Kubernetes@1.0.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Kubernetes@1.0.0-beta.2
+- pkg:nuget/Azure.ResourceManager.Kubernetes@1.0.0-beta.3
+- pkg:nuget/Azure.ResourceManager.Kubernetes@1.0.0-beta.4
+- pkg:nuget/Azure.ResourceManager.Kubernetes@1.0.0-beta.5

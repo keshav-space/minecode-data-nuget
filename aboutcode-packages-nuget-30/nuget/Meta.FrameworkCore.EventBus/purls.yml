@@ -1,0 +1,6 @@
+- pkg:nuget/Meta.FrameworkCore.EventBus@1.0.0
+- pkg:nuget/Meta.FrameworkCore.EventBus@1.1.0
+- pkg:nuget/Meta.FrameworkCore.EventBus@1.1.1
+- pkg:nuget/Meta.FrameworkCore.EventBus@3.0.0
+- pkg:nuget/Meta.FrameworkCore.EventBus@3.0.1
+- pkg:nuget/Meta.FrameworkCore.EventBus@6.0.0

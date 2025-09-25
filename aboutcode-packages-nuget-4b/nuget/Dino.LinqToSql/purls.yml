@@ -1,0 +1,17 @@
+- pkg:nuget/Dino.LinqToSql@1.7.1%2Bfixliqtosql
+- pkg:nuget/Dino.LinqToSql@1.7.3
+- pkg:nuget/Dino.LinqToSql@1.7.4%2BfixApiController
+- pkg:nuget/Dino.LinqToSql@1.7.5%2Bfix-VideoStreams2
+- pkg:nuget/Dino.LinqToSql@1.7.6%2Bfix-total-modelpaging
+- pkg:nuget/Dino.LinqToSql@1.8.0%2Baddition-dbcontext-provider
+- pkg:nuget/Dino.LinqToSql@1.8.1%2BAddition-error-Handling
+- pkg:nuget/Dino.LinqToSql@1.8.2%2Bfix-error-Handling
+- pkg:nuget/Dino.LinqToSql@1.8.3%2Bfix-modelstate-error-Handling
+- pkg:nuget/Dino.LinqToSql@1.8.4%2Badd-logger-error-Handling
+- pkg:nuget/Dino.LinqToSql@1.9.0%2Badd-rr-service-acount
+- pkg:nuget/Dino.LinqToSql@2.0.0%2Badd-drive-common-upgrade-stream
+- pkg:nuget/Dino.LinqToSql@2.0.1%2Badd-drive-common-upgrade-stream
+- pkg:nuget/Dino.LinqToSql@2.0.2%2Badd-drive-common-upgrade-stream
+- pkg:nuget/Dino.LinqToSql@2.1.0%2BAdd-PatchAsync-method-and-dynamic-type-creation-utilities
+- pkg:nuget/Dino.LinqToSql@2.1.1%2Bfix-convert-vaue-patch
+- pkg:nuget/Dino.LinqToSql@2.1.2%2Bfix-convert-vaue-patch

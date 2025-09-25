@@ -1,0 +1,4 @@
+- pkg:nuget/SpeedTest.NetCore@1.0.0
+- pkg:nuget/SpeedTest.NetCore@1.1.0
+- pkg:nuget/SpeedTest.NetCore@2.0.0-beta
+- pkg:nuget/SpeedTest.NetCore@2.1.0

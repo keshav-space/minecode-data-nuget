@@ -1,0 +1,8 @@
+- pkg:nuget/SharpAttributeParser.RecordBuilders.Abstractions@3.0.0
+- pkg:nuget/SharpAttributeParser.RecordBuilders.Abstractions@4.0.0
+- pkg:nuget/SharpAttributeParser.RecordBuilders.Abstractions@5.0.0
+- pkg:nuget/SharpAttributeParser.RecordBuilders.Abstractions@5.0.1
+- pkg:nuget/SharpAttributeParser.RecordBuilders.Abstractions@5.0.2
+- pkg:nuget/SharpAttributeParser.RecordBuilders.Abstractions@5.0.3
+- pkg:nuget/SharpAttributeParser.RecordBuilders.Abstractions@6.0.0
+- pkg:nuget/SharpAttributeParser.RecordBuilders.Abstractions@9.0.0-alpha.8

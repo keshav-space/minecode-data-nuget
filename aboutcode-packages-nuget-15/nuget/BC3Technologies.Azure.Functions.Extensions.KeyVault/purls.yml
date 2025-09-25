@@ -1,0 +1,6 @@
+- pkg:nuget/BC3Technologies.Azure.Functions.Extensions.KeyVault@2.0.0
+- pkg:nuget/BC3Technologies.Azure.Functions.Extensions.KeyVault@2.0.0-preview
+- pkg:nuget/BC3Technologies.Azure.Functions.Extensions.KeyVault@2.0.0-preview2
+- pkg:nuget/BC3Technologies.Azure.Functions.Extensions.KeyVault@2.0.0-preview3
+- pkg:nuget/BC3Technologies.Azure.Functions.Extensions.KeyVault@2.0.0-preview4
+- pkg:nuget/BC3Technologies.Azure.Functions.Extensions.KeyVault@2.0.1

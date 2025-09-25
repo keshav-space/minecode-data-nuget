@@ -1,0 +1,5 @@
+- pkg:nuget/Tenant.EntityModel@1.0.0
+- pkg:nuget/Tenant.EntityModel@1.0.0-CI00007
+- pkg:nuget/Tenant.EntityModel@1.0.19
+- pkg:nuget/Tenant.EntityModel@1.0.20
+- pkg:nuget/Tenant.EntityModel@1.0.22

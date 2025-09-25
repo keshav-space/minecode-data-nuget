@@ -1,0 +1,14 @@
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@10.0.0
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@10.1.0
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@7.1.0
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@7.1.1
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@7.2.0
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@8.0.0
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@8.0.0-rc.2
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@8.0.1
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@8.1.0
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@8.2.0
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@8.2.1
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@9.0.0
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@9.0.1
+- pkg:nuget/NServiceBus.RavenDB.TransactionalSession@9.1.0

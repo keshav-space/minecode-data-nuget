@@ -1,0 +1,3 @@
+- pkg:nuget/GraphQL.AspNetCore3.JwtBearer@7.0.0
+- pkg:nuget/GraphQL.AspNetCore3.JwtBearer@7.1.0
+- pkg:nuget/GraphQL.AspNetCore3.JwtBearer@7.2.0

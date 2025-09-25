@@ -1,0 +1,4 @@
+- pkg:nuget/MongoDB.EmbeddedMulti@2.0.1.6158
+- pkg:nuget/MongoDB.EmbeddedMulti@2.0.2.6162
+- pkg:nuget/MongoDB.EmbeddedMulti@2.1.0.6478
+- pkg:nuget/MongoDB.EmbeddedMulti@2.1.1.6480

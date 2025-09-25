@@ -1,0 +1,14 @@
+- pkg:nuget/MACRIM.Caching@4.12.15
+- pkg:nuget/MACRIM.Caching@5.1.1
+- pkg:nuget/MACRIM.Caching@5.2.1
+- pkg:nuget/MACRIM.Caching@5.3.15
+- pkg:nuget/MACRIM.Caching@5.4.15
+- pkg:nuget/MACRIM.Caching@5.5.1
+- pkg:nuget/MACRIM.Caching@6.1.1
+- pkg:nuget/MACRIM.Caching@6.4.15
+- pkg:nuget/MACRIM.Caching@6.5.1
+- pkg:nuget/MACRIM.Caching@6.5.15
+- pkg:nuget/MACRIM.Caching@6.6.15
+- pkg:nuget/MACRIM.Caching@6.6.15-alpha
+- pkg:nuget/MACRIM.Caching@6.6.15-alpha.2
+- pkg:nuget/MACRIM.Caching@6.8.1

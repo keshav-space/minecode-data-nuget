@@ -1,0 +1,9 @@
+- pkg:nuget/jaindb.storage.Redis@1.0.0
+- pkg:nuget/jaindb.storage.Redis@1.0.1
+- pkg:nuget/jaindb.storage.Redis@1.0.3
+- pkg:nuget/jaindb.storage.Redis@1.0.6
+- pkg:nuget/jaindb.storage.Redis@1.0.7
+- pkg:nuget/jaindb.storage.Redis@1.1.0
+- pkg:nuget/jaindb.storage.Redis@1.2.0
+- pkg:nuget/jaindb.storage.Redis@1.2.2
+- pkg:nuget/jaindb.storage.Redis@1.2.3

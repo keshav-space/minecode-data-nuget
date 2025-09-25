@@ -1,0 +1,9 @@
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@3.0.0
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@4.0.0
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@5.0.0
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@5.0.1
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@5.0.2
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@6.0.0
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@6.0.1
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@7.0.0
+- pkg:nuget/Logitar.EventSourcing.Infrastructure@7.0.1

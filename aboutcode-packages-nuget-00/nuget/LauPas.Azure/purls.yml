@@ -1,0 +1,11 @@
+- pkg:nuget/LauPas.Azure@0.0.0-local
+- pkg:nuget/LauPas.Azure@1.0.10
+- pkg:nuget/LauPas.Azure@1.0.11
+- pkg:nuget/LauPas.Azure@1.0.12
+- pkg:nuget/LauPas.Azure@1.0.13
+- pkg:nuget/LauPas.Azure@1.0.22
+- pkg:nuget/LauPas.Azure@1.0.23
+- pkg:nuget/LauPas.Azure@1.0.25
+- pkg:nuget/LauPas.Azure@1.0.7
+- pkg:nuget/LauPas.Azure@1.0.8
+- pkg:nuget/LauPas.Azure@1.0.9

@@ -1,0 +1,6 @@
+- pkg:nuget/runtime.win8-arm.runtime.native.System.IO.Compression@0.0.1-alpha
+- pkg:nuget/runtime.win8-arm.runtime.native.System.IO.Compression@4.0.1
+- pkg:nuget/runtime.win8-arm.runtime.native.System.IO.Compression@4.3.0
+- pkg:nuget/runtime.win8-arm.runtime.native.System.IO.Compression@4.3.0-preview1-24530-04
+- pkg:nuget/runtime.win8-arm.runtime.native.System.IO.Compression@4.3.1
+- pkg:nuget/runtime.win8-arm.runtime.native.System.IO.Compression@4.3.2

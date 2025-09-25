@@ -1,0 +1,6 @@
+- pkg:nuget/RustFlakes@1.0.0
+- pkg:nuget/RustFlakes@1.1.0
+- pkg:nuget/RustFlakes@1.2.0
+- pkg:nuget/RustFlakes@1.4.0
+- pkg:nuget/RustFlakes@1.4.1
+- pkg:nuget/RustFlakes@2.0.0

@@ -1,0 +1,13 @@
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.13
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.14
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.15
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.16
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.17
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.18
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.18-debug
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.18-debug-r2
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.18-debug-r3
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.19
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.19-debug
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.20
+- pkg:nuget/ANGLE.WindowsStore.Servo@2.1.20-debug

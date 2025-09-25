@@ -1,0 +1,6 @@
+- pkg:nuget/CSharp.JWT@1.0.0
+- pkg:nuget/CSharp.JWT@1.1.0
+- pkg:nuget/CSharp.JWT@1.1.1
+- pkg:nuget/CSharp.JWT@2.0.0
+- pkg:nuget/CSharp.JWT@2.1.0
+- pkg:nuget/CSharp.JWT@2.2.0

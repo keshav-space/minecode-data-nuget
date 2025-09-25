@@ -1,0 +1,5 @@
+- pkg:nuget/VisioForge.CrossPlatform.Core.Linux.x64@15.10.24
+- pkg:nuget/VisioForge.CrossPlatform.Core.Linux.x64@15.10.30
+- pkg:nuget/VisioForge.CrossPlatform.Core.Linux.x64@15.9.25
+- pkg:nuget/VisioForge.CrossPlatform.Core.Linux.x64@15.9.46
+- pkg:nuget/VisioForge.CrossPlatform.Core.Linux.x64@2025.9.0

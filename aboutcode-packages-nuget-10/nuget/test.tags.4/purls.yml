@@ -1,0 +1,7 @@
+- pkg:nuget/test.tags.4@3.5.7
+- pkg:nuget/test.tags.4@3.5.8
+- pkg:nuget/test.tags.4@3.5.9
+- pkg:nuget/test.tags.4@3.6.0
+- pkg:nuget/test.tags.4@3.6.2
+- pkg:nuget/test.tags.4@3.6.3
+- pkg:nuget/test.tags.4@4.6.4

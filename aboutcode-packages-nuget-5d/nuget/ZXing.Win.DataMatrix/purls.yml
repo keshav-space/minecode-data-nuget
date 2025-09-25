@@ -1,0 +1,5 @@
+- pkg:nuget/ZXing.Win.DataMatrix@0.2.0-beta
+- pkg:nuget/ZXing.Win.DataMatrix@0.2.1-beta
+- pkg:nuget/ZXing.Win.DataMatrix@0.2.10-beta
+- pkg:nuget/ZXing.Win.DataMatrix@0.2.5-beta
+- pkg:nuget/ZXing.Win.DataMatrix@0.2.9-beta

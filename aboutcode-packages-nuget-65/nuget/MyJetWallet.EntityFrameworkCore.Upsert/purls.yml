@@ -1,0 +1,3 @@
+- pkg:nuget/MyJetWallet.EntityFrameworkCore.Upsert@7.0.0
+- pkg:nuget/MyJetWallet.EntityFrameworkCore.Upsert@7.0.1
+- pkg:nuget/MyJetWallet.EntityFrameworkCore.Upsert@8.0.0

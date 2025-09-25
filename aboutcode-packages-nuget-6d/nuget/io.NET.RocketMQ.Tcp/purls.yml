@@ -1,0 +1,8 @@
+- pkg:nuget/io.NET.RocketMQ.Tcp@1.0.0
+- pkg:nuget/io.NET.RocketMQ.Tcp@1.1.0
+- pkg:nuget/io.NET.RocketMQ.Tcp@1.2.0
+- pkg:nuget/io.NET.RocketMQ.Tcp@2.0.0
+- pkg:nuget/io.NET.RocketMQ.Tcp@2.0.0.100
+- pkg:nuget/io.NET.RocketMQ.Tcp@2.0.0.200
+- pkg:nuget/io.NET.RocketMQ.Tcp@2.1.0
+- pkg:nuget/io.NET.RocketMQ.Tcp@8.0.0

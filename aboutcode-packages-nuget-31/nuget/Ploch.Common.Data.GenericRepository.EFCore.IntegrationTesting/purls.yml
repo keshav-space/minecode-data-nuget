@@ -1,0 +1,3 @@
+- pkg:nuget/Ploch.Common.Data.GenericRepository.EFCore.IntegrationTesting@1.0.0
+- pkg:nuget/Ploch.Common.Data.GenericRepository.EFCore.IntegrationTesting@2.0.0
+- pkg:nuget/Ploch.Common.Data.GenericRepository.EFCore.IntegrationTesting@2.0.0-prerelease-240607015318

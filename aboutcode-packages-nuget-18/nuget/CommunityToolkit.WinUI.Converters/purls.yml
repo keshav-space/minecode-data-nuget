@@ -1,0 +1,11 @@
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.0.230823-rc
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.0.230828-rc
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.0.230907
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.0.240109
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.1.240328-rc
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.1.240606-rc
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.1.240821
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.1.240916
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.2.241112-preview1
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.2.250129-preview2
+- pkg:nuget/CommunityToolkit.WinUI.Converters@8.2.250402

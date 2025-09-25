@@ -1,0 +1,3 @@
+- pkg:nuget/WebSharper.WebSerial@10.0.0.604-beta1
+- pkg:nuget/WebSharper.WebSerial@9.1.0.555
+- pkg:nuget/WebSharper.WebSerial@9.1.0.557

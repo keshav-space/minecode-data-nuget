@@ -1,0 +1,5 @@
+- pkg:nuget/FS.Abp.JsonSubTypes.NewtonsoftJson@440.0.1
+- pkg:nuget/FS.Abp.JsonSubTypes.NewtonsoftJson@442.0.1
+- pkg:nuget/FS.Abp.JsonSubTypes.NewtonsoftJson@443.0.1
+- pkg:nuget/FS.Abp.JsonSubTypes.NewtonsoftJson@443.0.2
+- pkg:nuget/FS.Abp.JsonSubTypes.NewtonsoftJson@444.0.1

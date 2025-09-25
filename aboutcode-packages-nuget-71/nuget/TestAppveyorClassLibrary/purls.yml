@@ -1,0 +1,3 @@
+- pkg:nuget/TestAppveyorClassLibrary@1.0.0
+- pkg:nuget/TestAppveyorClassLibrary@1.0.11
+- pkg:nuget/TestAppveyorClassLibrary@1.0.12

@@ -1,0 +1,2 @@
+- pkg:nuget/QuorumMind.Infrastructure.LeaderElection.Redis@1.0.0
+- pkg:nuget/QuorumMind.Infrastructure.LeaderElection.Redis@1.0.1

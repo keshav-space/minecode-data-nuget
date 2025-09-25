@@ -1,0 +1,13 @@
+- pkg:nuget/DockerContainer.ImageInformation.Validator@1.0.0
+- pkg:nuget/DockerContainer.ImageInformation.Validator@1.0.3
+- pkg:nuget/DockerContainer.ImageInformation.Validator@1.0.4
+- pkg:nuget/DockerContainer.ImageInformation.Validator@1.0.5
+- pkg:nuget/DockerContainer.ImageInformation.Validator@1.0.6
+- pkg:nuget/DockerContainer.ImageInformation.Validator@1.0.7
+- pkg:nuget/DockerContainer.ImageInformation.Validator@2.0.0
+- pkg:nuget/DockerContainer.ImageInformation.Validator@2.0.1
+- pkg:nuget/DockerContainer.ImageInformation.Validator@2.0.2
+- pkg:nuget/DockerContainer.ImageInformation.Validator@2.0.3
+- pkg:nuget/DockerContainer.ImageInformation.Validator@3.0.0
+- pkg:nuget/DockerContainer.ImageInformation.Validator@3.0.1
+- pkg:nuget/DockerContainer.ImageInformation.Validator@3.0.2

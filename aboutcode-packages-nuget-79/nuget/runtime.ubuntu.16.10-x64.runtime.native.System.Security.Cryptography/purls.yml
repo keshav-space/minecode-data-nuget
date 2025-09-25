@@ -1,0 +1,6 @@
+- pkg:nuget/runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography@4.3.0
+- pkg:nuget/runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography@4.3.0-preview1-24530-04
+- pkg:nuget/runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography@4.3.1
+- pkg:nuget/runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography@4.3.2
+- pkg:nuget/runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography@4.3.3
+- pkg:nuget/runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography@4.3.4

@@ -1,0 +1,4 @@
+- pkg:nuget/Reusable.sdk.Smtp@7.10.0
+- pkg:nuget/Reusable.sdk.Smtp@7.8.0
+- pkg:nuget/Reusable.sdk.Smtp@7.9.0
+- pkg:nuget/Reusable.sdk.Smtp@8.1.2

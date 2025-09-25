@@ -1,0 +1,5 @@
+- pkg:nuget/Logitar.EventSourcing.MongoDB@4.0.0
+- pkg:nuget/Logitar.EventSourcing.MongoDB@5.0.0
+- pkg:nuget/Logitar.EventSourcing.MongoDB@5.0.1
+- pkg:nuget/Logitar.EventSourcing.MongoDB@6.0.0
+- pkg:nuget/Logitar.EventSourcing.MongoDB@6.0.1

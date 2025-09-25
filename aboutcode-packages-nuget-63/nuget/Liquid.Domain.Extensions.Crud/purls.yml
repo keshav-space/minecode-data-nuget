@@ -1,0 +1,4 @@
+- pkg:nuget/Liquid.Domain.Extensions.Crud@2.0.0-preview-20211105-01
+- pkg:nuget/Liquid.Domain.Extensions.Crud@6.0.0-preview-20221201-01
+- pkg:nuget/Liquid.Domain.Extensions.Crud@6.0.0-preview-20230201-02
+- pkg:nuget/Liquid.Domain.Extensions.Crud@6.0.0-preview-20231131-1

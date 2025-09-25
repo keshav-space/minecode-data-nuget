@@ -1,0 +1,5 @@
+- pkg:nuget/runtime.ubuntu.16.04-x64.runtime.native.System.IO.Compression@0.0.1-alpha
+- pkg:nuget/runtime.ubuntu.16.04-x64.runtime.native.System.IO.Compression@1.0.1
+- pkg:nuget/runtime.ubuntu.16.04-x64.runtime.native.System.IO.Compression@4.3.0
+- pkg:nuget/runtime.ubuntu.16.04-x64.runtime.native.System.IO.Compression@4.3.0-preview1-24530-04
+- pkg:nuget/runtime.ubuntu.16.04-x64.runtime.native.System.IO.Compression@4.3.2

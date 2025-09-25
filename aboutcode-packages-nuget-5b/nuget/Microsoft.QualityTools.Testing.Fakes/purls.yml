@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@16.11.230815
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@16.6.2-beta.20207.6
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@16.7.4-beta.20330.2
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@17.11.0-beta.24319.3
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@17.12.0
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@17.12.0-beta.24429.1
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@17.14.0-beta.25202.4
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@17.14.1
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@17.5.0-beta.22580.1
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@17.5.0-beta.23060.1
+- pkg:nuget/Microsoft.QualityTools.Testing.Fakes@18.0.0-beta.25458.2

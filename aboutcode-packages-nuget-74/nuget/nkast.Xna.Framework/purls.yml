@@ -1,0 +1,15 @@
+- pkg:nuget/nkast.Xna.Framework@3.10.9001
+- pkg:nuget/nkast.Xna.Framework@3.11.9001
+- pkg:nuget/nkast.Xna.Framework@3.11.9002
+- pkg:nuget/nkast.Xna.Framework@3.12.9001
+- pkg:nuget/nkast.Xna.Framework@3.13.9001
+- pkg:nuget/nkast.Xna.Framework@3.14.9001
+- pkg:nuget/nkast.Xna.Framework@3.8.9013
+- pkg:nuget/nkast.Xna.Framework@3.8.9014
+- pkg:nuget/nkast.Xna.Framework@3.8.9100
+- pkg:nuget/nkast.Xna.Framework@3.8.9101
+- pkg:nuget/nkast.Xna.Framework@3.8.9102
+- pkg:nuget/nkast.Xna.Framework@3.9.9001
+- pkg:nuget/nkast.Xna.Framework@4.0.9001
+- pkg:nuget/nkast.Xna.Framework@4.0.9001.1
+- pkg:nuget/nkast.Xna.Framework@4.1.9001

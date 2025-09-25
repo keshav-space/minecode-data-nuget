@@ -1,0 +1,12 @@
+- pkg:nuget/Composite.WindowsAzure@1.0.0.1
+- pkg:nuget/Composite.WindowsAzure@1.0.0.2
+- pkg:nuget/Composite.WindowsAzure@1.0.0.3
+- pkg:nuget/Composite.WindowsAzure@1.0.0.4
+- pkg:nuget/Composite.WindowsAzure@2.0.0
+- pkg:nuget/Composite.WindowsAzure@2.0.0-beta-201401131
+- pkg:nuget/Composite.WindowsAzure@2.0.0-beta-201401222
+- pkg:nuget/Composite.WindowsAzure@2.0.0-beta-201401223
+- pkg:nuget/Composite.WindowsAzure@2.0.0-beta-201402062
+- pkg:nuget/Composite.WindowsAzure@2.0.0-beta-201402101
+- pkg:nuget/Composite.WindowsAzure@2.0.1
+- pkg:nuget/Composite.WindowsAzure@2.0.3

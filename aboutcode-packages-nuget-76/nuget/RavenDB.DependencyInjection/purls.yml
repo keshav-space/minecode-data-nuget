@@ -1,0 +1,16 @@
+- pkg:nuget/RavenDB.DependencyInjection@1.0.0
+- pkg:nuget/RavenDB.DependencyInjection@1.0.0-beta1
+- pkg:nuget/RavenDB.DependencyInjection@1.0.0-beta1-build2
+- pkg:nuget/RavenDB.DependencyInjection@1.0.0-beta1-build3
+- pkg:nuget/RavenDB.DependencyInjection@1.0.0-rc2
+- pkg:nuget/RavenDB.DependencyInjection@2.0.0
+- pkg:nuget/RavenDB.DependencyInjection@2.0.1
+- pkg:nuget/RavenDB.DependencyInjection@2.0.2
+- pkg:nuget/RavenDB.DependencyInjection@2.0.3
+- pkg:nuget/RavenDB.DependencyInjection@3.0.0
+- pkg:nuget/RavenDB.DependencyInjection@3.1.0
+- pkg:nuget/RavenDB.DependencyInjection@4.0.0
+- pkg:nuget/RavenDB.DependencyInjection@4.0.1
+- pkg:nuget/RavenDB.DependencyInjection@4.0.2
+- pkg:nuget/RavenDB.DependencyInjection@5.0.0
+- pkg:nuget/RavenDB.DependencyInjection@5.0.1
