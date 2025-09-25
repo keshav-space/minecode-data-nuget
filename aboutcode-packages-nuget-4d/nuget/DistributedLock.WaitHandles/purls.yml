@@ -1,0 +1,4 @@
+- pkg:nuget/DistributedLock.WaitHandles@0.0.0-alpha000
+- pkg:nuget/DistributedLock.WaitHandles@1.0.0
+- pkg:nuget/DistributedLock.WaitHandles@1.0.0-alpha02
+- pkg:nuget/DistributedLock.WaitHandles@1.0.1

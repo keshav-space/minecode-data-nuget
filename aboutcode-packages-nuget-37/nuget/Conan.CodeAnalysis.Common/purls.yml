@@ -1,0 +1,5 @@
+- pkg:nuget/Conan.CodeAnalysis.Common@2.8.2-alpha1
+- pkg:nuget/Conan.CodeAnalysis.Common@2.8.2-alpha2
+- pkg:nuget/Conan.CodeAnalysis.Common@2.8.2-alpha3
+- pkg:nuget/Conan.CodeAnalysis.Common@2.8.2-alpha4
+- pkg:nuget/Conan.CodeAnalysis.Common@2.8.2-alpha5

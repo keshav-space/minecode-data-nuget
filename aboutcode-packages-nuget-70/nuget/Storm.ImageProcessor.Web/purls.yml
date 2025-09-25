@@ -1,0 +1,4 @@
+- pkg:nuget/Storm.ImageProcessor.Web@0.1.0-beta0005
+- pkg:nuget/Storm.ImageProcessor.Web@0.2.0
+- pkg:nuget/Storm.ImageProcessor.Web@0.3.0
+- pkg:nuget/Storm.ImageProcessor.Web@0.3.2

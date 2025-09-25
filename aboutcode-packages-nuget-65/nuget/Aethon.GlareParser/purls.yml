@@ -1,0 +1,17 @@
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-11-master
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-12-master
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-17-return
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-18-return
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-19-master
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-20-master
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-23-lexing
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-24-scanner
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-25-scanning
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-26-scanners
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-27-master
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-28-syntax
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-29-docs
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-30-master
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-31-master
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-32-syntax
+- pkg:nuget/Aethon.GlareParser@1.0.0-preview-33-trivia

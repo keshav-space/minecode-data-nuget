@@ -1,0 +1,3 @@
+- pkg:nuget/SteamServerQuery@0.1.0.12-ci-build000012
+- pkg:nuget/SteamServerQuery@0.1.0.73-ci-build000073
+- pkg:nuget/SteamServerQuery@0.1.0.77-ci-build000077

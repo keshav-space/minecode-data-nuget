@@ -1,0 +1,7 @@
+- pkg:nuget/Python.Runtime.NETStandard@2.7.1
+- pkg:nuget/Python.Runtime.NETStandard@3.5.0
+- pkg:nuget/Python.Runtime.NETStandard@3.5.1
+- pkg:nuget/Python.Runtime.NETStandard@3.6.0
+- pkg:nuget/Python.Runtime.NETStandard@3.6.1
+- pkg:nuget/Python.Runtime.NETStandard@3.7.0
+- pkg:nuget/Python.Runtime.NETStandard@3.7.1

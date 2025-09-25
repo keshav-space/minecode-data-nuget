@@ -1,0 +1,5 @@
+- pkg:nuget/RedisBoost@1.6.0
+- pkg:nuget/RedisBoost@1.6.1
+- pkg:nuget/RedisBoost@1.6.2
+- pkg:nuget/RedisBoost@1.6.3
+- pkg:nuget/RedisBoost@1.6.4

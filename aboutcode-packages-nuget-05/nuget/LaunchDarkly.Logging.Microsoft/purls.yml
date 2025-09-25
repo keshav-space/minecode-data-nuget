@@ -1,0 +1,5 @@
+- pkg:nuget/LaunchDarkly.Logging.Microsoft@1.0.0
+- pkg:nuget/LaunchDarkly.Logging.Microsoft@2.0.0
+- pkg:nuget/LaunchDarkly.Logging.Microsoft@3.0.0
+- pkg:nuget/LaunchDarkly.Logging.Microsoft@3.1.0
+- pkg:nuget/LaunchDarkly.Logging.Microsoft@3.2.0

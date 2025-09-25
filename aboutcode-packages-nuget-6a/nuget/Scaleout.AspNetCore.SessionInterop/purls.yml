@@ -1,0 +1,2 @@
+- pkg:nuget/Scaleout.AspNetCore.SessionInterop@1.0.0-beta
+- pkg:nuget/Scaleout.AspNetCore.SessionInterop@1.0.1-beta

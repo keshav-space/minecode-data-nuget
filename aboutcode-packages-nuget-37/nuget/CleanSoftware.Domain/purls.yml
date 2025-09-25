@@ -1,0 +1,4 @@
+- pkg:nuget/CleanSoftware.Domain@1.0.0
+- pkg:nuget/CleanSoftware.Domain@8.0.1-alpha.0.4
+- pkg:nuget/CleanSoftware.Domain@8.0.2
+- pkg:nuget/CleanSoftware.Domain@8.0.4

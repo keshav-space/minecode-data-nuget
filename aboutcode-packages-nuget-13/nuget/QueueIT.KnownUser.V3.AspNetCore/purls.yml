@@ -1,0 +1,4 @@
+- pkg:nuget/QueueIT.KnownUser.V3.AspNetCore@3.5.1
+- pkg:nuget/QueueIT.KnownUser.V3.AspNetCore@3.6.0
+- pkg:nuget/QueueIT.KnownUser.V3.AspNetCore@3.6.1
+- pkg:nuget/QueueIT.KnownUser.V3.AspNetCore@3.7.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Rebus.IdempotentSagas@0.81.0
+- pkg:nuget/Rebus.IdempotentSagas@0.82.0
+- pkg:nuget/Rebus.IdempotentSagas@0.82.1
+- pkg:nuget/Rebus.IdempotentSagas@0.83.0
+- pkg:nuget/Rebus.IdempotentSagas@0.84.0

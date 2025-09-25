@@ -1,0 +1,4 @@
+- pkg:nuget/Puntual.Cryptography@1.0.0
+- pkg:nuget/Puntual.Cryptography@7.0.0
+- pkg:nuget/Puntual.Cryptography@9.0.0
+- pkg:nuget/Puntual.Cryptography@9.0.1

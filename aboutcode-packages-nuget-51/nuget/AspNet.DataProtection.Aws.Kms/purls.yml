@@ -1,0 +1,5 @@
+- pkg:nuget/AspNet.DataProtection.Aws.Kms@3.0.0
+- pkg:nuget/AspNet.DataProtection.Aws.Kms@3.0.1
+- pkg:nuget/AspNet.DataProtection.Aws.Kms@3.1.0
+- pkg:nuget/AspNet.DataProtection.Aws.Kms@3.1.1
+- pkg:nuget/AspNet.DataProtection.Aws.Kms@3.3.0

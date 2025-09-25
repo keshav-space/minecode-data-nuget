@@ -1,0 +1,6 @@
+- pkg:nuget/Amazon.Lambda.SQSEvents@1.0.0
+- pkg:nuget/Amazon.Lambda.SQSEvents@1.1.0
+- pkg:nuget/Amazon.Lambda.SQSEvents@1.2.0
+- pkg:nuget/Amazon.Lambda.SQSEvents@2.0.0
+- pkg:nuget/Amazon.Lambda.SQSEvents@2.1.0
+- pkg:nuget/Amazon.Lambda.SQSEvents@2.2.0

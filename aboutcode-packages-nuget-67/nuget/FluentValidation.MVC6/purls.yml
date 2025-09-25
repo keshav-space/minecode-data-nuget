@@ -1,0 +1,4 @@
+- pkg:nuget/FluentValidation.MVC6@6.4.0
+- pkg:nuget/FluentValidation.MVC6@6.4.0-beta1
+- pkg:nuget/FluentValidation.MVC6@6.4.0-beta2
+- pkg:nuget/FluentValidation.MVC6@6.4.0-beta3

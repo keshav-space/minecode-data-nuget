@@ -1,0 +1,6 @@
+- pkg:nuget/Krytan.Messaging.RabbitMq@1.0.0
+- pkg:nuget/Krytan.Messaging.RabbitMq@1.1.77
+- pkg:nuget/Krytan.Messaging.RabbitMq@1.1.85
+- pkg:nuget/Krytan.Messaging.RabbitMq@1.1.90
+- pkg:nuget/Krytan.Messaging.RabbitMq@1.1.91
+- pkg:nuget/Krytan.Messaging.RabbitMq@1.1.95

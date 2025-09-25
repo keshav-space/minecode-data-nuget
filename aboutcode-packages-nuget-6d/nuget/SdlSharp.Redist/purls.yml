@@ -1,0 +1,9 @@
+- pkg:nuget/SdlSharp.Redist@0.10.3-alpha
+- pkg:nuget/SdlSharp.Redist@0.10.6-alpha
+- pkg:nuget/SdlSharp.Redist@0.11.7-alpha-g32f3fc925a
+- pkg:nuget/SdlSharp.Redist@0.11.8-alpha
+- pkg:nuget/SdlSharp.Redist@0.11.9
+- pkg:nuget/SdlSharp.Redist@0.12.64-alpha
+- pkg:nuget/SdlSharp.Redist@0.13.3
+- pkg:nuget/SdlSharp.Redist@0.14.5
+- pkg:nuget/SdlSharp.Redist@0.14.6

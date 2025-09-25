@@ -1,0 +1,5 @@
+- pkg:nuget/Phoenix.MessageTransport.RabbitMQ@0.0.1
+- pkg:nuget/Phoenix.MessageTransport.RabbitMQ@0.0.2
+- pkg:nuget/Phoenix.MessageTransport.RabbitMQ@1.0.0
+- pkg:nuget/Phoenix.MessageTransport.RabbitMQ@1.0.1
+- pkg:nuget/Phoenix.MessageTransport.RabbitMQ@1.0.2

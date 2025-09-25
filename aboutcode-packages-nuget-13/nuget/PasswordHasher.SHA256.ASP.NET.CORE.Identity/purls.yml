@@ -1,0 +1,2 @@
+- pkg:nuget/PasswordHasher.SHA256.ASP.NET.CORE.Identity@1.0.0
+- pkg:nuget/PasswordHasher.SHA256.ASP.NET.CORE.Identity@1.0.1

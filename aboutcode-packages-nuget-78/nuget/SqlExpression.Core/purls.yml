@@ -1,0 +1,5 @@
+- pkg:nuget/SqlExpression.Core@1.0.0
+- pkg:nuget/SqlExpression.Core@3.0.0
+- pkg:nuget/SqlExpression.Core@3.0.1
+- pkg:nuget/SqlExpression.Core@3.0.1.1
+- pkg:nuget/SqlExpression.Core@3.0.1.2

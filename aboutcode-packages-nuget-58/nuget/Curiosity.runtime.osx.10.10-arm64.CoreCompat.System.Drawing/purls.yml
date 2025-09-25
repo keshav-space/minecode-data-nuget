@@ -1,0 +1,4 @@
+- pkg:nuget/Curiosity.runtime.osx.10.10-arm64.CoreCompat.System.Drawing@6.0.5
+- pkg:nuget/Curiosity.runtime.osx.10.10-arm64.CoreCompat.System.Drawing@6.0.5.2
+- pkg:nuget/Curiosity.runtime.osx.10.10-arm64.CoreCompat.System.Drawing@6.0.5.3
+- pkg:nuget/Curiosity.runtime.osx.10.10-arm64.CoreCompat.System.Drawing@6.0.5.4

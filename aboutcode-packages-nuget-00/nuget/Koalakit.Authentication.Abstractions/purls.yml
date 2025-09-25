@@ -1,0 +1,4 @@
+- pkg:nuget/Koalakit.Authentication.Abstractions@7.0.11-alpha
+- pkg:nuget/Koalakit.Authentication.Abstractions@7.0.12-alpha
+- pkg:nuget/Koalakit.Authentication.Abstractions@7.0.14-alpha
+- pkg:nuget/Koalakit.Authentication.Abstractions@7.0.3-alpha

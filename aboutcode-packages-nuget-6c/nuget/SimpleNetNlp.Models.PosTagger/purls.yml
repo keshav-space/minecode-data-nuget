@@ -1,0 +1,5 @@
+- pkg:nuget/SimpleNetNlp.Models.PosTagger@3.7.0
+- pkg:nuget/SimpleNetNlp.Models.PosTagger@3.7.0.1
+- pkg:nuget/SimpleNetNlp.Models.PosTagger@3.8.0
+- pkg:nuget/SimpleNetNlp.Models.PosTagger@4.5.0
+- pkg:nuget/SimpleNetNlp.Models.PosTagger@4.5.5

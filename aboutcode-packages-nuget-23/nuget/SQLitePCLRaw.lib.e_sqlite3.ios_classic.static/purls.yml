@@ -1,0 +1,4 @@
+- pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios_classic.static@1.0.0
+- pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios_classic.static@1.0.0-pre20160901085507
+- pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios_classic.static@1.0.0-pre20160912104037
+- pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios_classic.static@1.0.1

@@ -1,0 +1,6 @@
+- pkg:nuget/DuckSoup.Database@2.0.0-ALPHA
+- pkg:nuget/DuckSoup.Database@2.0.2-ALPHA
+- pkg:nuget/DuckSoup.Database@2.0.3-ALPHA
+- pkg:nuget/DuckSoup.Database@2.1.0-ALPHA
+- pkg:nuget/DuckSoup.Database@2.1.1-ALPHA
+- pkg:nuget/DuckSoup.Database@2.2.0-RELEASE

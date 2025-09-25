@@ -1,0 +1,4 @@
+- pkg:nuget/OpenStudio.linux-x64@3.10.0
+- pkg:nuget/OpenStudio.linux-x64@3.3.1.1
+- pkg:nuget/OpenStudio.linux-x64@3.7.0
+- pkg:nuget/OpenStudio.linux-x64@3.7.0.1

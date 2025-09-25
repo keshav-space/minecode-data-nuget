@@ -1,0 +1,6 @@
+- pkg:nuget/protobuf-net.Grpc.HttpClient@0.0.3-alpha.106
+- pkg:nuget/protobuf-net.Grpc.HttpClient@0.0.3-alpha.27
+- pkg:nuget/protobuf-net.Grpc.HttpClient@0.0.3-alpha.36
+- pkg:nuget/protobuf-net.Grpc.HttpClient@0.0.3-alpha.54
+- pkg:nuget/protobuf-net.Grpc.HttpClient@0.0.3-alpha.68
+- pkg:nuget/protobuf-net.Grpc.HttpClient@0.0.3-alpha.96

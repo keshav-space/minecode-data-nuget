@@ -1,0 +1,4 @@
+- pkg:nuget/Thoth.Elmish.Debouncer@1.0.0
+- pkg:nuget/Thoth.Elmish.Debouncer@1.0.0-beta-001
+- pkg:nuget/Thoth.Elmish.Debouncer@2.0.0
+- pkg:nuget/Thoth.Elmish.Debouncer@2.1.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.CodeAnalysis.FxCopAnalyzers.Common@0.7.4091001-CTP4
+- pkg:nuget/Microsoft.CodeAnalysis.FxCopAnalyzers.Common@0.7.4091001-beta

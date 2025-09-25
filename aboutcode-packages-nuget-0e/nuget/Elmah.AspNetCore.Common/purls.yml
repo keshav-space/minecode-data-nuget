@@ -1,0 +1,5 @@
+- pkg:nuget/Elmah.AspNetCore.Common@1.0.0
+- pkg:nuget/Elmah.AspNetCore.Common@1.0.0-preview.1
+- pkg:nuget/Elmah.AspNetCore.Common@1.0.0-preview.1.5
+- pkg:nuget/Elmah.AspNetCore.Common@1.0.0-preview.1.5.1
+- pkg:nuget/Elmah.AspNetCore.Common@1.0.1

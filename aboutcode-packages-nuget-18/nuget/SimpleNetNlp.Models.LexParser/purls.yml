@@ -1,0 +1,5 @@
+- pkg:nuget/SimpleNetNlp.Models.LexParser@3.7.0
+- pkg:nuget/SimpleNetNlp.Models.LexParser@3.7.0.1
+- pkg:nuget/SimpleNetNlp.Models.LexParser@3.8.0
+- pkg:nuget/SimpleNetNlp.Models.LexParser@4.5.0
+- pkg:nuget/SimpleNetNlp.Models.LexParser@4.5.5

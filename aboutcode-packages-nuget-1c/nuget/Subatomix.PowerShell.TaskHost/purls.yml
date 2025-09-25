@@ -1,0 +1,13 @@
+- pkg:nuget/Subatomix.PowerShell.TaskHost@1.0.0
+- pkg:nuget/Subatomix.PowerShell.TaskHost@1.0.0-pre.1
+- pkg:nuget/Subatomix.PowerShell.TaskHost@1.0.0-pre.2
+- pkg:nuget/Subatomix.PowerShell.TaskHost@1.0.0-rc.1
+- pkg:nuget/Subatomix.PowerShell.TaskHost@1.1.0-rc.1
+- pkg:nuget/Subatomix.PowerShell.TaskHost@1.1.0-rc.2
+- pkg:nuget/Subatomix.PowerShell.TaskHost@1.1.0-rc.3
+- pkg:nuget/Subatomix.PowerShell.TaskHost@2.0.0-pre0
+- pkg:nuget/Subatomix.PowerShell.TaskHost@2.0.0-pre1
+- pkg:nuget/Subatomix.PowerShell.TaskHost@2.0.0-rc0
+- pkg:nuget/Subatomix.PowerShell.TaskHost@2.0.0-rc1
+- pkg:nuget/Subatomix.PowerShell.TaskHost@2.0.0-rc2
+- pkg:nuget/Subatomix.PowerShell.TaskHost@2.0.0-rc3

@@ -1,0 +1,5 @@
+- pkg:nuget/libressl_native.redist@3.5.3
+- pkg:nuget/libressl_native.redist@3.5.3.1
+- pkg:nuget/libressl_native.redist@3.5.3.2
+- pkg:nuget/libressl_native.redist@3.7.3
+- pkg:nuget/libressl_native.redist@4.0.0

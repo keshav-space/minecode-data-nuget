@@ -1,0 +1,7 @@
+- pkg:nuget/Basilisque.CodeAnalysis.TestSupport.MSTest@1.0.0-RC11
+- pkg:nuget/Basilisque.CodeAnalysis.TestSupport.MSTest@1.0.0-RC13
+- pkg:nuget/Basilisque.CodeAnalysis.TestSupport.MSTest@1.0.0-RC19
+- pkg:nuget/Basilisque.CodeAnalysis.TestSupport.MSTest@1.0.0-RC20
+- pkg:nuget/Basilisque.CodeAnalysis.TestSupport.MSTest@1.0.0-RC21
+- pkg:nuget/Basilisque.CodeAnalysis.TestSupport.MSTest@1.0.0-RC22
+- pkg:nuget/Basilisque.CodeAnalysis.TestSupport.MSTest@1.0.0-RC25

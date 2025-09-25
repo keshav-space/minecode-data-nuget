@@ -1,0 +1,5 @@
+- pkg:nuget/Shuttle.Esb.EMail.SendGrid@11.0.0
+- pkg:nuget/Shuttle.Esb.EMail.SendGrid@11.0.1
+- pkg:nuget/Shuttle.Esb.EMail.SendGrid@11.0.2
+- pkg:nuget/Shuttle.Esb.EMail.SendGrid@11.0.3
+- pkg:nuget/Shuttle.Esb.EMail.SendGrid@11.0.4

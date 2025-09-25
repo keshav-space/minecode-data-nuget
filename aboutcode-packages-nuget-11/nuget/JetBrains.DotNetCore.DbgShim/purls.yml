@@ -1,0 +1,7 @@
+- pkg:nuget/JetBrains.DotNetCore.DbgShim@5.0.20210119.3
+- pkg:nuget/JetBrains.DotNetCore.DbgShim@5.0.20210411.4
+- pkg:nuget/JetBrains.DotNetCore.DbgShim@5.0.20210522.5
+- pkg:nuget/JetBrains.DotNetCore.DbgShim@5.0.20210616.6
+- pkg:nuget/JetBrains.DotNetCore.DbgShim@6.0.20211013.4
+- pkg:nuget/JetBrains.DotNetCore.DbgShim@6.0.20211108.5
+- pkg:nuget/JetBrains.DotNetCore.DbgShim@6.0.20211215.6

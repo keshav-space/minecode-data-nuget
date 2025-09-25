@@ -1,0 +1,5 @@
+- pkg:nuget/Rotex.CacheManager.NetStandard@2.0.0
+- pkg:nuget/Rotex.CacheManager.NetStandard@2.1.0
+- pkg:nuget/Rotex.CacheManager.NetStandard@2.1.2
+- pkg:nuget/Rotex.CacheManager.NetStandard@3.0.1
+- pkg:nuget/Rotex.CacheManager.NetStandard@3.0.3

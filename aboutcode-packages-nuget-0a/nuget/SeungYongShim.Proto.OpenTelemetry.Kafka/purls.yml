@@ -1,0 +1,4 @@
+- pkg:nuget/SeungYongShim.Proto.OpenTelemetry.Kafka@0.17.0.150
+- pkg:nuget/SeungYongShim.Proto.OpenTelemetry.Kafka@0.17.0.151
+- pkg:nuget/SeungYongShim.Proto.OpenTelemetry.Kafka@0.17.0.160
+- pkg:nuget/SeungYongShim.Proto.OpenTelemetry.Kafka@0.17.0.201

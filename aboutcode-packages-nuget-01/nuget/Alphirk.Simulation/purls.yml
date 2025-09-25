@@ -1,0 +1,6 @@
+- pkg:nuget/Alphirk.Simulation@0.0.9-alpha
+- pkg:nuget/Alphirk.Simulation@0.0.9-beta
+- pkg:nuget/Alphirk.Simulation@1.0.0
+- pkg:nuget/Alphirk.Simulation@1.0.0-CI-20190131-120734
+- pkg:nuget/Alphirk.Simulation@1.0.0-CI-20190131-120809
+- pkg:nuget/Alphirk.Simulation@1.1.0

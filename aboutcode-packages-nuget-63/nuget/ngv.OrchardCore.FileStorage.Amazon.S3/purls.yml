@@ -1,0 +1,5 @@
+- pkg:nuget/ngv.OrchardCore.FileStorage.Amazon.S3@1.0.1
+- pkg:nuget/ngv.OrchardCore.FileStorage.Amazon.S3@1.0.2
+- pkg:nuget/ngv.OrchardCore.FileStorage.Amazon.S3@1.0.3
+- pkg:nuget/ngv.OrchardCore.FileStorage.Amazon.S3@1.0.4
+- pkg:nuget/ngv.OrchardCore.FileStorage.Amazon.S3@1.1.0
