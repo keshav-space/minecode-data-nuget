@@ -1,0 +1,5 @@
+- pkg:nuget/Oktaf.Workflow.Domain@7.0.0
+- pkg:nuget/Oktaf.Workflow.Domain@7.1.0
+- pkg:nuget/Oktaf.Workflow.Domain@7.1.1
+- pkg:nuget/Oktaf.Workflow.Domain@8.0.0
+- pkg:nuget/Oktaf.Workflow.Domain@8.0.0.1

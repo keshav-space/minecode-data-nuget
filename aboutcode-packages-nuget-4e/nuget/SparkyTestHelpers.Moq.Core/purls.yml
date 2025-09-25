@@ -1,0 +1,5 @@
+- pkg:nuget/SparkyTestHelpers.Moq.Core@1.4.0
+- pkg:nuget/SparkyTestHelpers.Moq.Core@1.4.1
+- pkg:nuget/SparkyTestHelpers.Moq.Core@1.4.3
+- pkg:nuget/SparkyTestHelpers.Moq.Core@1.5.0
+- pkg:nuget/SparkyTestHelpers.Moq.Core@1.5.1

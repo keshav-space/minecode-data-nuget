@@ -1,0 +1,8 @@
+- pkg:nuget/AskDev.ServiceStack@3.0.38-InternalTesting
+- pkg:nuget/AskDev.ServiceStack@3.0.39-InternalTesting
+- pkg:nuget/AskDev.ServiceStack@3.0.40-InternalTesting
+- pkg:nuget/AskDev.ServiceStack@3.0.44-InternalTesting
+- pkg:nuget/AskDev.ServiceStack@3.0.45-InternalTesting
+- pkg:nuget/AskDev.ServiceStack@3.0.49-InternalTesting
+- pkg:nuget/AskDev.ServiceStack@3.0.52-InternalTesting
+- pkg:nuget/AskDev.ServiceStack@3.0.58-InternalTesting

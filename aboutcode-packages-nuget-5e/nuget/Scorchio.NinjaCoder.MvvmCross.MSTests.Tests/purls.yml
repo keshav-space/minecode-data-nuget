@@ -1,0 +1,4 @@
+- pkg:nuget/Scorchio.NinjaCoder.MvvmCross.MSTests.Tests@1.0.0
+- pkg:nuget/Scorchio.NinjaCoder.MvvmCross.MSTests.Tests@1.0.1
+- pkg:nuget/Scorchio.NinjaCoder.MvvmCross.MSTests.Tests@1.0.2
+- pkg:nuget/Scorchio.NinjaCoder.MvvmCross.MSTests.Tests@2.0.0

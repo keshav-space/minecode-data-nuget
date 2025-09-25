@@ -1,0 +1,8 @@
+- pkg:nuget/FrontLookCoreLibraryAssembly.Hosting.DbContext.AspNetCore@8.24.407.1
+- pkg:nuget/FrontLookCoreLibraryAssembly.Hosting.DbContext.AspNetCore@8.24.427.18
+- pkg:nuget/FrontLookCoreLibraryAssembly.Hosting.DbContext.AspNetCore@8.24.502.15
+- pkg:nuget/FrontLookCoreLibraryAssembly.Hosting.DbContext.AspNetCore@8.24.504
+- pkg:nuget/FrontLookCoreLibraryAssembly.Hosting.DbContext.AspNetCore@8.24.505.19
+- pkg:nuget/FrontLookCoreLibraryAssembly.Hosting.DbContext.AspNetCore@8.24.524.14
+- pkg:nuget/FrontLookCoreLibraryAssembly.Hosting.DbContext.AspNetCore@8.24.525.19
+- pkg:nuget/FrontLookCoreLibraryAssembly.Hosting.DbContext.AspNetCore@8.24.525.22

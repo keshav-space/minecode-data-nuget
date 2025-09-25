@@ -1,0 +1,4 @@
+- pkg:nuget/ZptSharp.AngleSharp@2.0.0
+- pkg:nuget/ZptSharp.AngleSharp@2.0.0-beta.1
+- pkg:nuget/ZptSharp.AngleSharp@2.0.0-beta.2
+- pkg:nuget/ZptSharp.AngleSharp@2.0.0-issue278test.5

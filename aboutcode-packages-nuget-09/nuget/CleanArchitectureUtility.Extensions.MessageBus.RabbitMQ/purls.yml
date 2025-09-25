@@ -1,0 +1,3 @@
+- pkg:nuget/CleanArchitectureUtility.Extensions.MessageBus.RabbitMQ@10.0.0
+- pkg:nuget/CleanArchitectureUtility.Extensions.MessageBus.RabbitMQ@9.0.0
+- pkg:nuget/CleanArchitectureUtility.Extensions.MessageBus.RabbitMQ@9.0.1

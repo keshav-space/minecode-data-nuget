@@ -1,0 +1,2 @@
+- pkg:nuget/Berg.MessageBus.Middlewares.SafeReceiving@1.0.0
+- pkg:nuget/Berg.MessageBus.Middlewares.SafeReceiving@1.0.1

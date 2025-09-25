@@ -1,0 +1,2 @@
+- pkg:nuget/Amazon.CDK.LambdaLayer.KubectlV27@2.0.0
+- pkg:nuget/Amazon.CDK.LambdaLayer.KubectlV27@2.1.0

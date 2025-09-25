@@ -1,0 +1,11 @@
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@3.0.1
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@4.0.0
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@4.1.0
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@5.0.0
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@5.1.0
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@6.0.0
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@6.0.1
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@6.0.2
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@6.1.0
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@6.1.1
+- pkg:nuget/DryIoc.Microsoft.DependencyInjection.src@6.2.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Serilog.Extensions.Logging.ApplicationInsights@0.1.0
+- pkg:nuget/Serilog.Extensions.Logging.ApplicationInsights@1.0.0
+- pkg:nuget/Serilog.Extensions.Logging.ApplicationInsights@1.0.0-dev-00004
+- pkg:nuget/Serilog.Extensions.Logging.ApplicationInsights@1.1.0
+- pkg:nuget/Serilog.Extensions.Logging.ApplicationInsights@1.1.0-dev-00005

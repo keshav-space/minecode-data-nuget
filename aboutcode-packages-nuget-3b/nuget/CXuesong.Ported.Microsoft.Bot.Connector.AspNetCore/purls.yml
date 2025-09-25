@@ -1,0 +1,5 @@
+- pkg:nuget/CXuesong.Ported.Microsoft.Bot.Connector.AspNetCore@3.5.1-int1
+- pkg:nuget/CXuesong.Ported.Microsoft.Bot.Connector.AspNetCore@3.5.1-int2
+- pkg:nuget/CXuesong.Ported.Microsoft.Bot.Connector.AspNetCore@3.5.1-int3
+- pkg:nuget/CXuesong.Ported.Microsoft.Bot.Connector.AspNetCore@3.8.1
+- pkg:nuget/CXuesong.Ported.Microsoft.Bot.Connector.AspNetCore@3.9.0-int0

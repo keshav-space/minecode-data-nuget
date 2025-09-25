@@ -1,0 +1,4 @@
+- pkg:nuget/RedmentCore.Caching.MemoryCache@1.0.0
+- pkg:nuget/RedmentCore.Caching.MemoryCache@1.0.1
+- pkg:nuget/RedmentCore.Caching.MemoryCache@6.1.0.1
+- pkg:nuget/RedmentCore.Caching.MemoryCache@8.0.0

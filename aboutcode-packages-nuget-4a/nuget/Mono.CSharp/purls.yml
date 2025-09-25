@@ -1,0 +1,6 @@
+- pkg:nuget/Mono.CSharp@3.0.6
+- pkg:nuget/Mono.CSharp@3.2.6
+- pkg:nuget/Mono.CSharp@3.4.0
+- pkg:nuget/Mono.CSharp@3.6.1
+- pkg:nuget/Mono.CSharp@4.0.0
+- pkg:nuget/Mono.CSharp@4.0.0.143

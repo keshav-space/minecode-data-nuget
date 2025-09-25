@@ -1,0 +1,9 @@
+- pkg:nuget/Majunga.Libraries.Client@6.0.1
+- pkg:nuget/Majunga.Libraries.Client@6.0.1-grid1238
+- pkg:nuget/Majunga.Libraries.Client@6.0.1-littlejigglearound1226
+- pkg:nuget/Majunga.Libraries.Client@6.0.1-updatesToEditorForms1219
+- pkg:nuget/Majunga.Libraries.Client@7.0.0
+- pkg:nuget/Majunga.Libraries.Client@7.0.0-dotnet71243
+- pkg:nuget/Majunga.Libraries.Client@7.1.0
+- pkg:nuget/Majunga.Libraries.Client@7.2.0-dev1275
+- pkg:nuget/Majunga.Libraries.Client@7.2.0-dev1281

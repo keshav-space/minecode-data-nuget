@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Extensions.Options.ValidateOnStart@8.0.0-preview.4.23273.7
+- pkg:nuget/Microsoft.Extensions.Options.ValidateOnStart@8.0.0-preview.5.23308.3
+- pkg:nuget/Microsoft.Extensions.Options.ValidateOnStart@8.0.0-preview.6.23360.2
+- pkg:nuget/Microsoft.Extensions.Options.ValidateOnStart@8.0.0-preview.7.23407.5

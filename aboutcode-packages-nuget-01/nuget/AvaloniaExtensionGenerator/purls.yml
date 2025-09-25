@@ -1,0 +1,13 @@
+- pkg:nuget/AvaloniaExtensionGenerator@1.0.0
+- pkg:nuget/AvaloniaExtensionGenerator@11.1.3
+- pkg:nuget/AvaloniaExtensionGenerator@11.2.0-beta4
+- pkg:nuget/AvaloniaExtensionGenerator@11.2.999-preview1
+- pkg:nuget/AvaloniaExtensionGenerator@11.2.999-preview10
+- pkg:nuget/AvaloniaExtensionGenerator@11.2.999-preview7
+- pkg:nuget/AvaloniaExtensionGenerator@11.2.999-preview8
+- pkg:nuget/AvaloniaExtensionGenerator@11.2.999-preview9
+- pkg:nuget/AvaloniaExtensionGenerator@11.2.999-preview90
+- pkg:nuget/AvaloniaExtensionGenerator@11.2.999-preview92
+- pkg:nuget/AvaloniaExtensionGenerator@11.3.0-beta04
+- pkg:nuget/AvaloniaExtensionGenerator@11.3.0-beta07
+- pkg:nuget/AvaloniaExtensionGenerator@11.3.4-beta01

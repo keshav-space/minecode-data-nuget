@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.ML.GenAI.LLaMA@0.22.0
+- pkg:nuget/Microsoft.ML.GenAI.LLaMA@0.22.0-preview.24522.7
+- pkg:nuget/Microsoft.ML.GenAI.LLaMA@0.22.1
+- pkg:nuget/Microsoft.ML.GenAI.LLaMA@0.22.2
+- pkg:nuget/Microsoft.ML.GenAI.LLaMA@0.23.0-preview.1.25125.4
+- pkg:nuget/Microsoft.ML.GenAI.LLaMA@0.23.0-preview.1.25127.4
+- pkg:nuget/Microsoft.ML.GenAI.LLaMA@0.23.0-preview.25373.1

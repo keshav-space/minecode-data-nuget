@@ -1,0 +1,7 @@
+- pkg:nuget/Karambolo.AspNetCore.Bundling.Tools@2.0.0
+- pkg:nuget/Karambolo.AspNetCore.Bundling.Tools@2.0.0-rc1
+- pkg:nuget/Karambolo.AspNetCore.Bundling.Tools@2.0.1
+- pkg:nuget/Karambolo.AspNetCore.Bundling.Tools@2.1.0
+- pkg:nuget/Karambolo.AspNetCore.Bundling.Tools@2.1.1
+- pkg:nuget/Karambolo.AspNetCore.Bundling.Tools@2.2.0
+- pkg:nuget/Karambolo.AspNetCore.Bundling.Tools@3.0.0-pre1

@@ -1,0 +1,16 @@
+- pkg:nuget/MSBuildGitHash@0.1.0
+- pkg:nuget/MSBuildGitHash@0.2.0
+- pkg:nuget/MSBuildGitHash@0.3.0
+- pkg:nuget/MSBuildGitHash@0.4.0
+- pkg:nuget/MSBuildGitHash@0.4.1
+- pkg:nuget/MSBuildGitHash@0.5.0
+- pkg:nuget/MSBuildGitHash@0.5.1
+- pkg:nuget/MSBuildGitHash@0.5.2
+- pkg:nuget/MSBuildGitHash@0.5.3
+- pkg:nuget/MSBuildGitHash@1.0.0
+- pkg:nuget/MSBuildGitHash@1.0.1
+- pkg:nuget/MSBuildGitHash@1.0.2
+- pkg:nuget/MSBuildGitHash@2.0.0
+- pkg:nuget/MSBuildGitHash@2.0.0-B0001
+- pkg:nuget/MSBuildGitHash@2.0.1
+- pkg:nuget/MSBuildGitHash@2.0.2

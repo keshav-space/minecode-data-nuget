@@ -1,0 +1,6 @@
+- pkg:nuget/Rougamo.Retry.AspNetCore@0.1.0
+- pkg:nuget/Rougamo.Retry.AspNetCore@0.1.0-beta
+- pkg:nuget/Rougamo.Retry.AspNetCore@0.1.0-beta1
+- pkg:nuget/Rougamo.Retry.AspNetCore@4.0.0
+- pkg:nuget/Rougamo.Retry.AspNetCore@4.0.0-priview-1723529391
+- pkg:nuget/Rougamo.Retry.AspNetCore@5.0.0

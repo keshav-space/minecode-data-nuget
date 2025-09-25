@@ -1,0 +1,5 @@
+- pkg:nuget/Mariowski.Common.MongoDb@3.0.0
+- pkg:nuget/Mariowski.Common.MongoDb@3.0.1
+- pkg:nuget/Mariowski.Common.MongoDb@3.1.0
+- pkg:nuget/Mariowski.Common.MongoDb@5.0.0
+- pkg:nuget/Mariowski.Common.MongoDb@5.0.1-dev1

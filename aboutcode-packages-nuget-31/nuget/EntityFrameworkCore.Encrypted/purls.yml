@@ -1,0 +1,6 @@
+- pkg:nuget/EntityFrameworkCore.Encrypted@0.0.4-beta
+- pkg:nuget/EntityFrameworkCore.Encrypted@0.0.6-beta2
+- pkg:nuget/EntityFrameworkCore.Encrypted@0.0.6-beta3
+- pkg:nuget/EntityFrameworkCore.Encrypted@0.0.6-beta4
+- pkg:nuget/EntityFrameworkCore.Encrypted@0.0.7-pre1
+- pkg:nuget/EntityFrameworkCore.Encrypted@1.0.0-beta1

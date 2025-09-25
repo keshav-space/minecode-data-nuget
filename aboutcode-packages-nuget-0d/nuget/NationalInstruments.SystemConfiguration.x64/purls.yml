@@ -1,0 +1,4 @@
+- pkg:nuget/NationalInstruments.SystemConfiguration.x64@24.8.49237
+- pkg:nuget/NationalInstruments.SystemConfiguration.x64@25.0.49280
+- pkg:nuget/NationalInstruments.SystemConfiguration.x64@25.3.49226
+- pkg:nuget/NationalInstruments.SystemConfiguration.x64@25.5.49227

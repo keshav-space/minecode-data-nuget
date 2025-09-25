@@ -1,0 +1,5 @@
+- pkg:nuget/Finebits.Network.RestClient@0.1.0%2B2.1.093e993
+- pkg:nuget/Finebits.Network.RestClient@0.1.0-alpha%2B3.1.e1aa235
+- pkg:nuget/Finebits.Network.RestClient@0.2.1-alpha%2B7.1.4f4b0a6
+- pkg:nuget/Finebits.Network.RestClient@0.2.2-alpha%2B9.1.6cab7f3
+- pkg:nuget/Finebits.Network.RestClient@0.3.0-alpha%2B11.1.957a6ec

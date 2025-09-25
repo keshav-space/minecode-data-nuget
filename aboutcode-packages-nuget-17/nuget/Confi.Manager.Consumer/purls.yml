@@ -1,0 +1,11 @@
+- pkg:nuget/Confi.Manager.Consumer@2025.106.103.1
+- pkg:nuget/Confi.Manager.Consumer@2025.106.104.2-v0.6
+- pkg:nuget/Confi.Manager.Consumer@2025.107.104.3
+- pkg:nuget/Confi.Manager.Consumer@2025.107.107.4
+- pkg:nuget/Confi.Manager.Consumer@2025.108.118.5-manger-app-versions-support
+- pkg:nuget/Confi.Manager.Consumer@2025.108.118.6-manger-app-versions-support
+- pkg:nuget/Confi.Manager.Consumer@2025.108.118.7
+- pkg:nuget/Confi.Manager.Consumer@2025.108.119.10-versioning-endpoints-update
+- pkg:nuget/Confi.Manager.Consumer@2025.108.119.11
+- pkg:nuget/Confi.Manager.Consumer@2025.108.119.8-versioning-endpoints-update
+- pkg:nuget/Confi.Manager.Consumer@2025.108.119.9-versioning-endpoints-update

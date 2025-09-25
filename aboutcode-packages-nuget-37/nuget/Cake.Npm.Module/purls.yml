@@ -1,0 +1,10 @@
+- pkg:nuget/Cake.Npm.Module@0.1.0
+- pkg:nuget/Cake.Npm.Module@0.1.0-unstable0014
+- pkg:nuget/Cake.Npm.Module@1.0.0
+- pkg:nuget/Cake.Npm.Module@2.0.0
+- pkg:nuget/Cake.Npm.Module@2.0.1
+- pkg:nuget/Cake.Npm.Module@2.0.2
+- pkg:nuget/Cake.Npm.Module@3.0.0
+- pkg:nuget/Cake.Npm.Module@4.0.0
+- pkg:nuget/Cake.Npm.Module@5.0.0
+- pkg:nuget/Cake.Npm.Module@6.0.0

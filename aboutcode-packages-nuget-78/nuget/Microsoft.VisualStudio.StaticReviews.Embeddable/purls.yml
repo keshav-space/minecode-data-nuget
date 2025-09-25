@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.VisualStudio.StaticReviews.Embeddable@0.1.102-alpha
+- pkg:nuget/Microsoft.VisualStudio.StaticReviews.Embeddable@0.1.13-alpha
+- pkg:nuget/Microsoft.VisualStudio.StaticReviews.Embeddable@0.1.14-alpha
+- pkg:nuget/Microsoft.VisualStudio.StaticReviews.Embeddable@0.1.9-alpha
+- pkg:nuget/Microsoft.VisualStudio.StaticReviews.Embeddable@0.1.99-alpha

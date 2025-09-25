@@ -1,0 +1,6 @@
+- pkg:nuget/CleanArchitectureUtility.Infra.Data.Sql@10.0.0
+- pkg:nuget/CleanArchitectureUtility.Infra.Data.Sql@10.0.1
+- pkg:nuget/CleanArchitectureUtility.Infra.Data.Sql@9.0.0
+- pkg:nuget/CleanArchitectureUtility.Infra.Data.Sql@9.0.1
+- pkg:nuget/CleanArchitectureUtility.Infra.Data.Sql@9.0.2
+- pkg:nuget/CleanArchitectureUtility.Infra.Data.Sql@9.0.3

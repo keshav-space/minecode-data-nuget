@@ -1,0 +1,5 @@
+- pkg:nuget/AK.Commons.Providers.DataAccess.MongoDb@0.1.0
+- pkg:nuget/AK.Commons.Providers.DataAccess.MongoDb@0.1.1
+- pkg:nuget/AK.Commons.Providers.DataAccess.MongoDb@1.0.0
+- pkg:nuget/AK.Commons.Providers.DataAccess.MongoDb@1.0.1
+- pkg:nuget/AK.Commons.Providers.DataAccess.MongoDb@1.0.2

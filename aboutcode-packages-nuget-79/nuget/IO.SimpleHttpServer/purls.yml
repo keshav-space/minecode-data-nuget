@@ -1,0 +1,3 @@
+- pkg:nuget/IO.SimpleHttpServer@10.0.0.15
+- pkg:nuget/IO.SimpleHttpServer@10.2.0.1
+- pkg:nuget/IO.SimpleHttpServer@10.3.1

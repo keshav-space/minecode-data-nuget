@@ -1,0 +1,2 @@
+- pkg:nuget/MyStack.Hangfire.SQLite@0.0.1-beta1
+- pkg:nuget/MyStack.Hangfire.SQLite@0.0.1-beta2

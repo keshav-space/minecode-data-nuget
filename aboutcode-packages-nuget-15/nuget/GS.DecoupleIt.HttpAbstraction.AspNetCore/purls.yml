@@ -1,0 +1,6 @@
+- pkg:nuget/GS.DecoupleIt.HttpAbstraction.AspNetCore@5.0.0
+- pkg:nuget/GS.DecoupleIt.HttpAbstraction.AspNetCore@5.0.0-prerelease.0
+- pkg:nuget/GS.DecoupleIt.HttpAbstraction.AspNetCore@5.0.0-prerelease.1
+- pkg:nuget/GS.DecoupleIt.HttpAbstraction.AspNetCore@5.0.0-prerelease.2
+- pkg:nuget/GS.DecoupleIt.HttpAbstraction.AspNetCore@5.0.0-prerelease.3
+- pkg:nuget/GS.DecoupleIt.HttpAbstraction.AspNetCore@5.0.1

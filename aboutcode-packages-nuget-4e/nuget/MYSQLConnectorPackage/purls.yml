@@ -1,0 +1,4 @@
+- pkg:nuget/MYSQLConnectorPackage@1.0.1
+- pkg:nuget/MYSQLConnectorPackage@1.0.2
+- pkg:nuget/MYSQLConnectorPackage@1.0.3
+- pkg:nuget/MYSQLConnectorPackage@2.0.0

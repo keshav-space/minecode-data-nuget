@@ -1,0 +1,5 @@
+- pkg:nuget/Wfx.Platform.JsonApi.Server@0.5.0
+- pkg:nuget/Wfx.Platform.JsonApi.Server@0.6.0
+- pkg:nuget/Wfx.Platform.JsonApi.Server@0.6.2
+- pkg:nuget/Wfx.Platform.JsonApi.Server@0.6.3
+- pkg:nuget/Wfx.Platform.JsonApi.Server@0.7.1

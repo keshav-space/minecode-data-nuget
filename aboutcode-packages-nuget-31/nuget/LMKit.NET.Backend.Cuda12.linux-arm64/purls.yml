@@ -1,0 +1,9 @@
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.7.3
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.7.4
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.7.5
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.8.1
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.8.2
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.8.3
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.8.4
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.9.1
+- pkg:nuget/LMKit.NET.Backend.Cuda12.linux-arm64@2025.9.2

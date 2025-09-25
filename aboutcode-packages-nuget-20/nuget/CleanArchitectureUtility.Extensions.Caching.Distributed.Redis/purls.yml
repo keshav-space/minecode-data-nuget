@@ -1,0 +1,3 @@
+- pkg:nuget/CleanArchitectureUtility.Extensions.Caching.Distributed.Redis@10.0.0
+- pkg:nuget/CleanArchitectureUtility.Extensions.Caching.Distributed.Redis@9.0.0
+- pkg:nuget/CleanArchitectureUtility.Extensions.Caching.Distributed.Redis@9.0.1

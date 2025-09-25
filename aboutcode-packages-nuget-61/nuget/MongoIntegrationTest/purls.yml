@@ -1,0 +1,4 @@
+- pkg:nuget/MongoIntegrationTest@1.0.0
+- pkg:nuget/MongoIntegrationTest@1.1.0
+- pkg:nuget/MongoIntegrationTest@2.1.0
+- pkg:nuget/MongoIntegrationTest@3.0.0

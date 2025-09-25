@@ -1,0 +1,13 @@
+- pkg:nuget/ElasticIdentity@2.0.0-alpha
+- pkg:nuget/ElasticIdentity@2.0.1-alpha
+- pkg:nuget/ElasticIdentity@2.0.2-rc
+- pkg:nuget/ElasticIdentity@2.0.3-rc
+- pkg:nuget/ElasticIdentity@5.0.0
+- pkg:nuget/ElasticIdentity@5.0.0-rc3
+- pkg:nuget/ElasticIdentity@5.0.0-rc4
+- pkg:nuget/ElasticIdentity@5.0.0-rc5
+- pkg:nuget/ElasticIdentity@5.0.0-rc6
+- pkg:nuget/ElasticIdentity@5.0.0-rc7
+- pkg:nuget/ElasticIdentity@5.0.1-rc
+- pkg:nuget/ElasticIdentity@5.0.2-rc
+- pkg:nuget/ElasticIdentity@5.2.0

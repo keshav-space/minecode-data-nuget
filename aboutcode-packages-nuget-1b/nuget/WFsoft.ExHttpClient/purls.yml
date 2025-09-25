@@ -1,0 +1,11 @@
+- pkg:nuget/WFsoft.ExHttpClient@1.0.0.1
+- pkg:nuget/WFsoft.ExHttpClient@1.0.0.2
+- pkg:nuget/WFsoft.ExHttpClient@2.0.0
+- pkg:nuget/WFsoft.ExHttpClient@3.0.0
+- pkg:nuget/WFsoft.ExHttpClient@4.0.0
+- pkg:nuget/WFsoft.ExHttpClient@5.0.0
+- pkg:nuget/WFsoft.ExHttpClient@6.0.0
+- pkg:nuget/WFsoft.ExHttpClient@7.0.0
+- pkg:nuget/WFsoft.ExHttpClient@8.0.0
+- pkg:nuget/WFsoft.ExHttpClient@8.0.1
+- pkg:nuget/WFsoft.ExHttpClient@9.0.0

@@ -1,0 +1,8 @@
+- pkg:nuget/AskDev.NetFramework.Mvc@3.0.0-InternalTesting
+- pkg:nuget/AskDev.NetFramework.Mvc@3.0.34-InternalTesting
+- pkg:nuget/AskDev.NetFramework.Mvc@3.0.35-InternalTesting
+- pkg:nuget/AskDev.NetFramework.Mvc@3.0.43-InternalTesting
+- pkg:nuget/AskDev.NetFramework.Mvc@3.0.44-InternalTesting
+- pkg:nuget/AskDev.NetFramework.Mvc@3.0.45-InternalTesting
+- pkg:nuget/AskDev.NetFramework.Mvc@3.0.48-InternalTesting
+- pkg:nuget/AskDev.NetFramework.Mvc@3.0.52-InternalTesting

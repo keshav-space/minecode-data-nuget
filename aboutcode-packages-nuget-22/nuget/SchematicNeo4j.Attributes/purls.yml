@@ -1,0 +1,4 @@
+- pkg:nuget/SchematicNeo4j.Attributes@0.1.0-beta
+- pkg:nuget/SchematicNeo4j.Attributes@1.0.0
+- pkg:nuget/SchematicNeo4j.Attributes@5.0.0
+- pkg:nuget/SchematicNeo4j.Attributes@5.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/QuantConnect.IEX@2.5.16223
+- pkg:nuget/QuantConnect.IEX@2.5.16230
+- pkg:nuget/QuantConnect.IEX@2.5.16242
+- pkg:nuget/QuantConnect.IEX@2.5.16255

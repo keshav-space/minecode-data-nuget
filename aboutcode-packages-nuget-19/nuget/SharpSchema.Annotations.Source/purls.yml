@@ -1,0 +1,11 @@
+- pkg:nuget/SharpSchema.Annotations.Source@0.1.26-beta
+- pkg:nuget/SharpSchema.Annotations.Source@0.1.28-beta
+- pkg:nuget/SharpSchema.Annotations.Source@0.1.585-beta
+- pkg:nuget/SharpSchema.Annotations.Source@0.1.601-rc
+- pkg:nuget/SharpSchema.Annotations.Source@0.1.602-rc
+- pkg:nuget/SharpSchema.Annotations.Source@0.2.6-rc
+- pkg:nuget/SharpSchema.Annotations.Source@0.3.32-rc
+- pkg:nuget/SharpSchema.Annotations.Source@0.3.33-rc
+- pkg:nuget/SharpSchema.Annotations.Source@1.2.1-alpha
+- pkg:nuget/SharpSchema.Annotations.Source@1.2.9-beta
+- pkg:nuget/SharpSchema.Annotations.Source@1.3.21-beta

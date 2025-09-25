@@ -1,0 +1,4 @@
+- pkg:nuget/Cosm.Net.Thorchain@1.5.13.370%2Bthorchain.v3.7.0
+- pkg:nuget/Cosm.Net.Thorchain@1.5.13.380%2Bthorchain.v3.8.0
+- pkg:nuget/Cosm.Net.Thorchain@1.5.13.380-beta%2Bthorchain.v3.8.0
+- pkg:nuget/Cosm.Net.Thorchain@1.5.14.380%2Bthorchain.v3.8.0

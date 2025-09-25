@@ -1,0 +1,4 @@
+- pkg:nuget/Noise.EntityFrameworkCore.SQLite@1.0.0
+- pkg:nuget/Noise.EntityFrameworkCore.SQLite@8.0.0
+- pkg:nuget/Noise.EntityFrameworkCore.SQLite@8.0.1
+- pkg:nuget/Noise.EntityFrameworkCore.SQLite@9.0.2

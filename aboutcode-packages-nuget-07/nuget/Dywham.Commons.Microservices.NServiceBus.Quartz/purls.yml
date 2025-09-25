@@ -1,0 +1,9 @@
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@1.5.0
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@1.5.1
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@1.5.2
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@1.5.3
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@1.5.4
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@2.0.0
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@2.0.1
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@2.0.5
+- pkg:nuget/Dywham.Commons.Microservices.NServiceBus.Quartz@2.0.6

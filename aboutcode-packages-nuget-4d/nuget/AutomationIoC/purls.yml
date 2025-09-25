@@ -1,0 +1,15 @@
+- pkg:nuget/AutomationIoC@1.0.0
+- pkg:nuget/AutomationIoC@1.0.0-alpha2
+- pkg:nuget/AutomationIoC@1.0.0-beta1
+- pkg:nuget/AutomationIoC@1.0.0-preview1
+- pkg:nuget/AutomationIoC@1.1.0
+- pkg:nuget/AutomationIoC@1.1.0-alpha1
+- pkg:nuget/AutomationIoC@1.1.0-alpha2
+- pkg:nuget/AutomationIoC@1.1.0-beta1
+- pkg:nuget/AutomationIoC@1.2.0
+- pkg:nuget/AutomationIoC@1.3.0
+- pkg:nuget/AutomationIoC@1.3.1
+- pkg:nuget/AutomationIoC@2.0.0-alpha1
+- pkg:nuget/AutomationIoC@2.0.0-preview1
+- pkg:nuget/AutomationIoC@2.1.0-alpha1
+- pkg:nuget/AutomationIoC@2.1.0-alpha2

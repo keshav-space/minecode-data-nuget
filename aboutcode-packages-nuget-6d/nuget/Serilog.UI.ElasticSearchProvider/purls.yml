@@ -1,0 +1,9 @@
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@1.0.0
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@2.1.0
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@2.1.1
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@2.2.0
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@2.2.1
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@3.0.0
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@3.0.0-alpha.1
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@3.0.0-alpha.2
+- pkg:nuget/Serilog.UI.ElasticSearchProvider@3.1.0
