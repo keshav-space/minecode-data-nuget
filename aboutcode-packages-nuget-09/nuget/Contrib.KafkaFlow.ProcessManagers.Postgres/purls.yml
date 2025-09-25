@@ -1,0 +1,15 @@
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@0.1.45
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@1.0.0
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@1.0.1
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@2.0.3
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@2.0.4
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@3.0.0
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@3.0.1
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@3.1.0
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@3.1.6
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@3.1.7
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@4.0.0
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@4.0.1
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@4.0.12
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@4.1.0
+- pkg:nuget/Contrib.KafkaFlow.ProcessManagers.Postgres@4.1.2

@@ -1,0 +1,7 @@
+- pkg:nuget/SomeTestPackage123@0.0.1
+- pkg:nuget/SomeTestPackage123@0.0.16
+- pkg:nuget/SomeTestPackage123@0.0.17
+- pkg:nuget/SomeTestPackage123@0.0.19
+- pkg:nuget/SomeTestPackage123@0.0.20
+- pkg:nuget/SomeTestPackage123@0.0.4
+- pkg:nuget/SomeTestPackage123@0.5.0

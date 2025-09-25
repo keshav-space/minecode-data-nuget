@@ -1,0 +1,6 @@
+- pkg:nuget/Dino.GoogleDrive.Common@2.0.0%2Badd-drive-common-upgrade-stream
+- pkg:nuget/Dino.GoogleDrive.Common@2.0.1%2Badd-drive-common-upgrade-stream
+- pkg:nuget/Dino.GoogleDrive.Common@2.0.2%2Badd-drive-common-upgrade-stream
+- pkg:nuget/Dino.GoogleDrive.Common@2.1.0%2BAdd-PatchAsync-method-and-dynamic-type-creation-utilities
+- pkg:nuget/Dino.GoogleDrive.Common@2.1.1%2Bfix-convert-vaue-patch
+- pkg:nuget/Dino.GoogleDrive.Common@2.1.2%2Bfix-convert-vaue-patch

@@ -1,0 +1,6 @@
+- pkg:nuget/EMGU.CV-CUDA@3.4.1.2980
+- pkg:nuget/EMGU.CV-CUDA@3.4.3.3016
+- pkg:nuget/EMGU.CV-CUDA@4.0.1.3373
+- pkg:nuget/EMGU.CV-CUDA@4.1.0.3420
+- pkg:nuget/EMGU.CV-CUDA@4.1.0.3425
+- pkg:nuget/EMGU.CV-CUDA@4.1.1.3506

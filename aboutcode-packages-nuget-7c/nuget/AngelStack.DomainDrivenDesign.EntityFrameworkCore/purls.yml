@@ -1,0 +1,6 @@
+- pkg:nuget/AngelStack.DomainDrivenDesign.EntityFrameworkCore@1.0.0
+- pkg:nuget/AngelStack.DomainDrivenDesign.EntityFrameworkCore@1.0.8
+- pkg:nuget/AngelStack.DomainDrivenDesign.EntityFrameworkCore@1.0.9
+- pkg:nuget/AngelStack.DomainDrivenDesign.EntityFrameworkCore@1.1.0
+- pkg:nuget/AngelStack.DomainDrivenDesign.EntityFrameworkCore@1.1.1
+- pkg:nuget/AngelStack.DomainDrivenDesign.EntityFrameworkCore@1.1.2

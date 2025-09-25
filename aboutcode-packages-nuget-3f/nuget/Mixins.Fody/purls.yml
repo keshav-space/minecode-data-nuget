@@ -1,0 +1,5 @@
+- pkg:nuget/Mixins.Fody@0.0.1-alpha
+- pkg:nuget/Mixins.Fody@0.0.2-alpha
+- pkg:nuget/Mixins.Fody@0.0.3
+- pkg:nuget/Mixins.Fody@0.0.5
+- pkg:nuget/Mixins.Fody@0.0.6

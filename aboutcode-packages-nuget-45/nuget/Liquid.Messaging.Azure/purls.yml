@@ -1,0 +1,4 @@
+- pkg:nuget/Liquid.Messaging.Azure@2.0.0-alpha
+- pkg:nuget/Liquid.Messaging.Azure@2.0.0-preview-20210806-01
+- pkg:nuget/Liquid.Messaging.Azure@2.0.1-alpha
+- pkg:nuget/Liquid.Messaging.Azure@2.0.2-alpha

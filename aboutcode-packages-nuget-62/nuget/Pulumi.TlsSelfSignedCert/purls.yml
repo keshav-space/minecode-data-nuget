@@ -1,0 +1,6 @@
+- pkg:nuget/Pulumi.TlsSelfSignedCert@0.0.1
+- pkg:nuget/Pulumi.TlsSelfSignedCert@0.0.2
+- pkg:nuget/Pulumi.TlsSelfSignedCert@0.0.3
+- pkg:nuget/Pulumi.TlsSelfSignedCert@0.1.0
+- pkg:nuget/Pulumi.TlsSelfSignedCert@0.1.2
+- pkg:nuget/Pulumi.TlsSelfSignedCert@0.1.3

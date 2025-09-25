@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.0
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.0-rc.2.24473.5
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.1
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.2
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.3
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.4
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.5
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.6
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.7
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.8
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Templates.net9.Msi.x64@9.0.9

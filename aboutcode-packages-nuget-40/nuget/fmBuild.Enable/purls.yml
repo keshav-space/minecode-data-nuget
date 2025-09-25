@@ -1,0 +1,8 @@
+- pkg:nuget/fmBuild.Enable@1.2.0
+- pkg:nuget/fmBuild.Enable@1.2.0-beta8
+- pkg:nuget/fmBuild.Enable@1.2.1
+- pkg:nuget/fmBuild.Enable@1.2.1-beta1
+- pkg:nuget/fmBuild.Enable@2.0.0
+- pkg:nuget/fmBuild.Enable@2.2.0
+- pkg:nuget/fmBuild.Enable@3.0.0
+- pkg:nuget/fmBuild.Enable@3.0.0-preview.1

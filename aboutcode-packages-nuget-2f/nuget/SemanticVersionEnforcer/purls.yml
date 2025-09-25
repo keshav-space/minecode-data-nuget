@@ -1,0 +1,8 @@
+- pkg:nuget/SemanticVersionEnforcer@1.0.0
+- pkg:nuget/SemanticVersionEnforcer@1.0.1
+- pkg:nuget/SemanticVersionEnforcer@2.0.0
+- pkg:nuget/SemanticVersionEnforcer@2.1.0
+- pkg:nuget/SemanticVersionEnforcer@2.1.1
+- pkg:nuget/SemanticVersionEnforcer@2.2.0
+- pkg:nuget/SemanticVersionEnforcer@2.3.0
+- pkg:nuget/SemanticVersionEnforcer@3.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Nethereum.BlockchainStore.EF.SqlServer@3.1.2
+- pkg:nuget/Nethereum.BlockchainStore.EF.SqlServer@3.4.0
+- pkg:nuget/Nethereum.BlockchainStore.EF.SqlServer@3.7.1
+- pkg:nuget/Nethereum.BlockchainStore.EF.SqlServer@3.8.0
+- pkg:nuget/Nethereum.BlockchainStore.EF.SqlServer@4.8.0

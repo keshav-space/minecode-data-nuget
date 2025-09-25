@@ -1,0 +1,4 @@
+- pkg:nuget/SymbolTest@1.0.0
+- pkg:nuget/SymbolTest@2.0.0
+- pkg:nuget/SymbolTest@3.0.0
+- pkg:nuget/SymbolTest@5.0.0

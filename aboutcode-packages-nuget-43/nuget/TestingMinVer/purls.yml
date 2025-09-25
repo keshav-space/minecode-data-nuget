@@ -1,0 +1,5 @@
+- pkg:nuget/TestingMinVer@0.2.0
+- pkg:nuget/TestingMinVer@0.3.0
+- pkg:nuget/TestingMinVer@0.3.1
+- pkg:nuget/TestingMinVer@0.3.3
+- pkg:nuget/TestingMinVer@1.0.0-alpha.1

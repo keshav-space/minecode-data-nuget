@@ -1,0 +1,8 @@
+- pkg:nuget/gflags@2.0.1
+- pkg:nuget/gflags@2.1.1-alpha
+- pkg:nuget/gflags@2.1.1.1-alpha
+- pkg:nuget/gflags@2.1.1.2
+- pkg:nuget/gflags@2.1.1.2-alpha
+- pkg:nuget/gflags@2.1.1.2-beta
+- pkg:nuget/gflags@2.1.2
+- pkg:nuget/gflags@2.1.2.1

@@ -1,0 +1,11 @@
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.10-20240220090545.pr37.sha-d3da791
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.10-20240220104731.pr37.sha-11edd31
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.10-20240220134817.pr37.sha-db29496
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.10-20240220135140.pr37.sha-df9e28d
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.10-20240220141432.pr37.sha-4bd3077
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.11
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.11-20240220143636.pr37.sha-920fb90
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.11-20240220151933.pr37.sha-0069f92
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.11-20240220152343.pr37.sha-c55da86
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.12
+- pkg:nuget/ShipitSmarter.Core.Messaging.Receiver@8.0.12-20240221131054.pr39.sha-d076bb5

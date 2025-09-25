@@ -1,0 +1,4 @@
+- pkg:nuget/PerformanceMetrics.AspNetCore@0.1.0-beta.76
+- pkg:nuget/PerformanceMetrics.AspNetCore@0.1.0-buildfix-.73
+- pkg:nuget/PerformanceMetrics.AspNetCore@0.8.0-beta.0
+- pkg:nuget/PerformanceMetrics.AspNetCore@0.8.0-beta.1

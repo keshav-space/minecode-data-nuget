@@ -1,0 +1,7 @@
+- pkg:nuget/EventStore.ClientAPI.NetCore@0.0.1-alpha
+- pkg:nuget/EventStore.ClientAPI.NetCore@4.0.0-alpha-1
+- pkg:nuget/EventStore.ClientAPI.NetCore@4.0.2-rc
+- pkg:nuget/EventStore.ClientAPI.NetCore@4.0.3-rc
+- pkg:nuget/EventStore.ClientAPI.NetCore@4.1.0
+- pkg:nuget/EventStore.ClientAPI.NetCore@4.1.0.23
+- pkg:nuget/EventStore.ClientAPI.NetCore@4.1.1-rc

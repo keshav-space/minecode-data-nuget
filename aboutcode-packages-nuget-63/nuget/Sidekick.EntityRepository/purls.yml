@@ -1,0 +1,5 @@
+- pkg:nuget/Sidekick.EntityRepository@1.0.0
+- pkg:nuget/Sidekick.EntityRepository@2.0.0
+- pkg:nuget/Sidekick.EntityRepository@3.0.0
+- pkg:nuget/Sidekick.EntityRepository@3.1.0
+- pkg:nuget/Sidekick.EntityRepository@4.0.0

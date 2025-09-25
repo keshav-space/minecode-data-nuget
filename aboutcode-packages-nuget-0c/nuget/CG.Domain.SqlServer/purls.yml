@@ -1,0 +1,4 @@
+- pkg:nuget/CG.Domain.SqlServer@0.2017.10
+- pkg:nuget/CG.Domain.SqlServer@0.2017.11
+- pkg:nuget/CG.Domain.SqlServer@0.2017.12
+- pkg:nuget/CG.Domain.SqlServer@0.2017.9

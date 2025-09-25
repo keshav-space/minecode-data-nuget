@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.ServiceHub.Framework.Testing@4.2.102
+- pkg:nuget/Microsoft.ServiceHub.Framework.Testing@4.2.74-beta
+- pkg:nuget/Microsoft.ServiceHub.Framework.Testing@4.2.99-beta
+- pkg:nuget/Microsoft.ServiceHub.Framework.Testing@4.4.22

@@ -1,0 +1,2 @@
+- pkg:nuget/Taitans.Abp.AuditLogging.EntityFrameworkCore@0.0.7
+- pkg:nuget/Taitans.Abp.AuditLogging.EntityFrameworkCore@2.6.0

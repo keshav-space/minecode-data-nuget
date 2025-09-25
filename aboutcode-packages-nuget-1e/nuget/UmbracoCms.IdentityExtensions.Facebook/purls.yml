@@ -1,0 +1,6 @@
+- pkg:nuget/UmbracoCms.IdentityExtensions.Facebook@1.0.0
+- pkg:nuget/UmbracoCms.IdentityExtensions.Facebook@1.0.0-beta
+- pkg:nuget/UmbracoCms.IdentityExtensions.Facebook@1.0.2
+- pkg:nuget/UmbracoCms.IdentityExtensions.Facebook@2.0.0
+- pkg:nuget/UmbracoCms.IdentityExtensions.Facebook@2.0.1
+- pkg:nuget/UmbracoCms.IdentityExtensions.Facebook@3.0.0-rc

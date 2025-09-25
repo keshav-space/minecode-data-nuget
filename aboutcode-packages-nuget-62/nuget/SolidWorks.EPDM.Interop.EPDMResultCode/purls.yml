@@ -1,0 +1,5 @@
+- pkg:nuget/SolidWorks.EPDM.Interop.EPDMResultCode@27.3.0
+- pkg:nuget/SolidWorks.EPDM.Interop.EPDMResultCode@29.4.1
+- pkg:nuget/SolidWorks.EPDM.Interop.EPDMResultCode@30.5.1
+- pkg:nuget/SolidWorks.EPDM.Interop.EPDMResultCode@31.5.0
+- pkg:nuget/SolidWorks.EPDM.Interop.EPDMResultCode@32.1.0

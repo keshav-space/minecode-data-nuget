@@ -1,0 +1,4 @@
+- pkg:nuget/Activout.DatabaseClient.Dapper@1.0.1
+- pkg:nuget/Activout.DatabaseClient.Dapper@3.0.0-beta
+- pkg:nuget/Activout.DatabaseClient.Dapper@4.0.0
+- pkg:nuget/Activout.DatabaseClient.Dapper@5.0.0-rc1

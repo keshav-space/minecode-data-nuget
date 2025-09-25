@@ -1,0 +1,6 @@
+- pkg:nuget/Jh.Abp.JhAuditLogging.Domain.Shared@4.5.5001
+- pkg:nuget/Jh.Abp.JhAuditLogging.Domain.Shared@5.1.5001
+- pkg:nuget/Jh.Abp.JhAuditLogging.Domain.Shared@5.1.5002
+- pkg:nuget/Jh.Abp.JhAuditLogging.Domain.Shared@5.1.5003
+- pkg:nuget/Jh.Abp.JhAuditLogging.Domain.Shared@5.2.1
+- pkg:nuget/Jh.Abp.JhAuditLogging.Domain.Shared@5.2.2

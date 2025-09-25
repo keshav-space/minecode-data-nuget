@@ -1,0 +1,2 @@
+- pkg:nuget/OpenTelemetry.Extensions.DependencyInjection@1.4.0-rc.1
+- pkg:nuget/OpenTelemetry.Extensions.DependencyInjection@1.4.0-rc.2

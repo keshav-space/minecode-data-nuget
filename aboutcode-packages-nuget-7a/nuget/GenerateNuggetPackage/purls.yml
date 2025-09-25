@@ -1,0 +1,3 @@
+- pkg:nuget/GenerateNuggetPackage@0.0.1
+- pkg:nuget/GenerateNuggetPackage@1.0.0
+- pkg:nuget/GenerateNuggetPackage@1.0.0-CI-20220407-144158

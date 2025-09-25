@@ -1,0 +1,6 @@
+- pkg:nuget/Nethereum.BlockchainStore.AzureTables@3.1.2
+- pkg:nuget/Nethereum.BlockchainStore.AzureTables@3.4.0
+- pkg:nuget/Nethereum.BlockchainStore.AzureTables@3.7.1
+- pkg:nuget/Nethereum.BlockchainStore.AzureTables@3.8.0
+- pkg:nuget/Nethereum.BlockchainStore.AzureTables@4.11.0
+- pkg:nuget/Nethereum.BlockchainStore.AzureTables@4.8.0

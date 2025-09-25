@@ -1,0 +1,3 @@
+- pkg:nuget/PowerUtils.AspNetCore.WebAPI@1.0.0
+- pkg:nuget/PowerUtils.AspNetCore.WebAPI@1.1.0
+- pkg:nuget/PowerUtils.AspNetCore.WebAPI@2.0.0

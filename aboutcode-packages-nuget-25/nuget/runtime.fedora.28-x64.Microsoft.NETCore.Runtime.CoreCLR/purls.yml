@@ -1,0 +1,5 @@
+- pkg:nuget/runtime.fedora.28-x64.Microsoft.NETCore.Runtime.CoreCLR@1.1.10
+- pkg:nuget/runtime.fedora.28-x64.Microsoft.NETCore.Runtime.CoreCLR@1.1.11
+- pkg:nuget/runtime.fedora.28-x64.Microsoft.NETCore.Runtime.CoreCLR@1.1.12
+- pkg:nuget/runtime.fedora.28-x64.Microsoft.NETCore.Runtime.CoreCLR@1.1.13
+- pkg:nuget/runtime.fedora.28-x64.Microsoft.NETCore.Runtime.CoreCLR@1.1.9

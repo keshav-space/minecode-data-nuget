@@ -1,0 +1,3 @@
+- pkg:nuget/Trimble.Connect.UserAppService.Client@1.0.3
+- pkg:nuget/Trimble.Connect.UserAppService.Client@2.0.1
+- pkg:nuget/Trimble.Connect.UserAppService.Client@2.0.2

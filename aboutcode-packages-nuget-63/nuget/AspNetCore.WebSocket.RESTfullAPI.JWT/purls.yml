@@ -1,0 +1,10 @@
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.0.0
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.0.5
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.0.6
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.1.0
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.1.1
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.1.2
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.1.5
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.1.6
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.1.7
+- pkg:nuget/AspNetCore.WebSocket.RESTfullAPI.JWT@1.1.8

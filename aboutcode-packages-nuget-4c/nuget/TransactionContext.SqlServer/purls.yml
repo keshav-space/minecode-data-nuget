@@ -1,0 +1,2 @@
+- pkg:nuget/TransactionContext.SqlServer@0.0.6-preview
+- pkg:nuget/TransactionContext.SqlServer@0.0.7-preview

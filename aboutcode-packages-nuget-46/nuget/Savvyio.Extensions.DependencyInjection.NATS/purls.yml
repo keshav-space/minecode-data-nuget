@@ -1,0 +1,4 @@
+- pkg:nuget/Savvyio.Extensions.DependencyInjection.NATS@4.2.0
+- pkg:nuget/Savvyio.Extensions.DependencyInjection.NATS@4.3.0
+- pkg:nuget/Savvyio.Extensions.DependencyInjection.NATS@4.4.0
+- pkg:nuget/Savvyio.Extensions.DependencyInjection.NATS@4.4.1

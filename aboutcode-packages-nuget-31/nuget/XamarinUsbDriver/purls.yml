@@ -1,0 +1,8 @@
+- pkg:nuget/XamarinUsbDriver@0.0.1.20
+- pkg:nuget/XamarinUsbDriver@0.1.0
+- pkg:nuget/XamarinUsbDriver@0.1.1
+- pkg:nuget/XamarinUsbDriver@0.1.2
+- pkg:nuget/XamarinUsbDriver@0.1.8-feature-build-with-github-actions-9-0d66
+- pkg:nuget/XamarinUsbDriver@0.1.9-feature-build-with-github-actions-1-8bda
+- pkg:nuget/XamarinUsbDriver@0.2.0-feature-EN-8492-add-new-prolific-device-id-0-61b4
+- pkg:nuget/XamarinUsbDriver@0.2.0-feature-EN-8610-handle-optional-initialization-0-1322
