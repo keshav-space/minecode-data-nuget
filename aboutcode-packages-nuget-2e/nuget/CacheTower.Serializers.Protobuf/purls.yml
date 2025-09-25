@@ -1,0 +1,3 @@
+- pkg:nuget/CacheTower.Serializers.Protobuf@0.12.0%2Bg6c1eead-github.2559744167
+- pkg:nuget/CacheTower.Serializers.Protobuf@0.13.0%2Bg8260b96-github.2644620088
+- pkg:nuget/CacheTower.Serializers.Protobuf@0.14.0%2Bg0ee6795-github.5821991369

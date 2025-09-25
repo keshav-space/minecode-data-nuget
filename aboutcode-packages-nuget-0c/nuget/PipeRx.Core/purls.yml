@@ -1,0 +1,4 @@
+- pkg:nuget/PipeRx.Core@0.1.0
+- pkg:nuget/PipeRx.Core@0.1.10
+- pkg:nuget/PipeRx.Core@0.1.13
+- pkg:nuget/PipeRx.Core@0.1.14

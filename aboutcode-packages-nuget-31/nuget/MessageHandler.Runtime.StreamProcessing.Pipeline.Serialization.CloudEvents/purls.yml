@@ -1,0 +1,4 @@
+- pkg:nuget/MessageHandler.Runtime.StreamProcessing.Pipeline.Serialization.CloudEvents@4.0.0
+- pkg:nuget/MessageHandler.Runtime.StreamProcessing.Pipeline.Serialization.CloudEvents@4.0.0-rc2
+- pkg:nuget/MessageHandler.Runtime.StreamProcessing.Pipeline.Serialization.CloudEvents@4.0.1
+- pkg:nuget/MessageHandler.Runtime.StreamProcessing.Pipeline.Serialization.CloudEvents@5.0.0

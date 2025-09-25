@@ -1,0 +1,5 @@
+- pkg:nuget/TinyXlsx@0.1.0
+- pkg:nuget/TinyXlsx@0.1.0-prerelease
+- pkg:nuget/TinyXlsx@0.1.1-prerelease
+- pkg:nuget/TinyXlsx@0.1.2-prerelease
+- pkg:nuget/TinyXlsx@0.2.0

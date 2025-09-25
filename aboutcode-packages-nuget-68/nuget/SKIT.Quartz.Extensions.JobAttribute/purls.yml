@@ -1,0 +1,3 @@
+- pkg:nuget/SKIT.Quartz.Extensions.JobAttribute@0.1.0
+- pkg:nuget/SKIT.Quartz.Extensions.JobAttribute@0.2.0
+- pkg:nuget/SKIT.Quartz.Extensions.JobAttribute@0.3.0

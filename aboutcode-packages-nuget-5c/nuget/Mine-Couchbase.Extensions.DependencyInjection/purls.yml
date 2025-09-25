@@ -1,0 +1,5 @@
+- pkg:nuget/Mine-Couchbase.Extensions.DependencyInjection@1.0.0-local-202212281302
+- pkg:nuget/Mine-Couchbase.Extensions.DependencyInjection@1.0.0-local-202212281401
+- pkg:nuget/Mine-Couchbase.Extensions.DependencyInjection@3.4.0.1
+- pkg:nuget/Mine-Couchbase.Extensions.DependencyInjection@3.4.0.1-dor
+- pkg:nuget/Mine-Couchbase.Extensions.DependencyInjection@3.4.2.1-mine

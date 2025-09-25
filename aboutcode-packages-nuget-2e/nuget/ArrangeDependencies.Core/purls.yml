@@ -1,0 +1,3 @@
+- pkg:nuget/ArrangeDependencies.Core@1.0.0
+- pkg:nuget/ArrangeDependencies.Core@6.0.0
+- pkg:nuget/ArrangeDependencies.Core@8.0.0

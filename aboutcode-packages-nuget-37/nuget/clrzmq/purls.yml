@@ -1,0 +1,12 @@
+- pkg:nuget/clrzmq@2.1.0.2011100900
+- pkg:nuget/clrzmq@2.2.0
+- pkg:nuget/clrzmq@2.2.1
+- pkg:nuget/clrzmq@2.2.2
+- pkg:nuget/clrzmq@2.2.3
+- pkg:nuget/clrzmq@2.2.4
+- pkg:nuget/clrzmq@2.2.5
+- pkg:nuget/clrzmq@3.0.0-alpha1
+- pkg:nuget/clrzmq@3.0.0-beta1
+- pkg:nuget/clrzmq@3.0.0-beta2
+- pkg:nuget/clrzmq@3.0.0-beta3
+- pkg:nuget/clrzmq@3.0.0-rc1

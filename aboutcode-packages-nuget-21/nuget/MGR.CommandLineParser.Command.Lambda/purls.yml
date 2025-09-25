@@ -1,0 +1,5 @@
+- pkg:nuget/MGR.CommandLineParser.Command.Lambda@0.11.0
+- pkg:nuget/MGR.CommandLineParser.Command.Lambda@0.11.0-beta.1
+- pkg:nuget/MGR.CommandLineParser.Command.Lambda@0.11.0-beta.2
+- pkg:nuget/MGR.CommandLineParser.Command.Lambda@0.12.0
+- pkg:nuget/MGR.CommandLineParser.Command.Lambda@0.13.0

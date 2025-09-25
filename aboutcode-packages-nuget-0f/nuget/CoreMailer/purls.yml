@@ -1,0 +1,9 @@
+- pkg:nuget/CoreMailer@1.0.0
+- pkg:nuget/CoreMailer@1.1.0
+- pkg:nuget/CoreMailer@1.1.1
+- pkg:nuget/CoreMailer@1.1.2
+- pkg:nuget/CoreMailer@1.1.3
+- pkg:nuget/CoreMailer@1.1.4
+- pkg:nuget/CoreMailer@2.0.0
+- pkg:nuget/CoreMailer@2.1.0
+- pkg:nuget/CoreMailer@3.0.0

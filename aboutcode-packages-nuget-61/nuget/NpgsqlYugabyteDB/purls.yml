@@ -1,0 +1,5 @@
+- pkg:nuget/NpgsqlYugabyteDB@4.0.10
+- pkg:nuget/NpgsqlYugabyteDB@6.0.10-yb-1-beta
+- pkg:nuget/NpgsqlYugabyteDB@8.0.0-yb-1-beta
+- pkg:nuget/NpgsqlYugabyteDB@8.0.3-yb-1
+- pkg:nuget/NpgsqlYugabyteDB@8.0.3.2

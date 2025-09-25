@@ -1,0 +1,9 @@
+- pkg:nuget/CouchbaseNetClient-Mine@3.3.4.1-local-202212281246
+- pkg:nuget/CouchbaseNetClient-Mine@3.3.4.1-local-202212281401
+- pkg:nuget/CouchbaseNetClient-Mine@3.4.0.1
+- pkg:nuget/CouchbaseNetClient-Mine@3.4.0.1-dor
+- pkg:nuget/CouchbaseNetClient-Mine@3.4.2.1-mine
+- pkg:nuget/CouchbaseNetClient-Mine@3.4.2.2-mine
+- pkg:nuget/CouchbaseNetClient-Mine@3.4.2.3-mine
+- pkg:nuget/CouchbaseNetClient-Mine@3.4.2.4-mine
+- pkg:nuget/CouchbaseNetClient-Mine@3.4.2.5-mine

@@ -1,0 +1,5 @@
+- pkg:nuget/PSPDFKit.Mac.Model@4.2.0
+- pkg:nuget/PSPDFKit.Mac.Model@4.3.0%2Bsha.9659850
+- pkg:nuget/PSPDFKit.Mac.Model@4.5.0%2Bsha.79418bd
+- pkg:nuget/PSPDFKit.Mac.Model@5.1.0%2Bsha.4f4c080
+- pkg:nuget/PSPDFKit.Mac.Model@5.1.1%2Bsha.a5f17d4

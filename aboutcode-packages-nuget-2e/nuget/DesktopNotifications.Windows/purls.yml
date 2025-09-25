@@ -1,0 +1,4 @@
+- pkg:nuget/DesktopNotifications.Windows@1.0.0
+- pkg:nuget/DesktopNotifications.Windows@1.2.0
+- pkg:nuget/DesktopNotifications.Windows@1.3.0
+- pkg:nuget/DesktopNotifications.Windows@1.3.1

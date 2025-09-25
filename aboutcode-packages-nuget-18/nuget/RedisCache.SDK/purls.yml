@@ -1,0 +1,7 @@
+- pkg:nuget/RedisCache.SDK@1.0.0
+- pkg:nuget/RedisCache.SDK@2.0.0
+- pkg:nuget/RedisCache.SDK@3.0.0
+- pkg:nuget/RedisCache.SDK@4.0.0
+- pkg:nuget/RedisCache.SDK@6.0.0
+- pkg:nuget/RedisCache.SDK@7.0.0
+- pkg:nuget/RedisCache.SDK@8.0.0

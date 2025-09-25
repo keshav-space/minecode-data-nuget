@@ -1,0 +1,3 @@
+- pkg:nuget/Squidex.MongoDb.Search@1.0.0-beta1
+- pkg:nuget/Squidex.MongoDb.Search@1.0.0-beta3
+- pkg:nuget/Squidex.MongoDb.Search@1.0.0-beta4

@@ -1,0 +1,2 @@
+- pkg:nuget/CI.Plugins.TrimContentVersionPlugin@0.9.1-beta
+- pkg:nuget/CI.Plugins.TrimContentVersionPlugin@0.9.2-beta

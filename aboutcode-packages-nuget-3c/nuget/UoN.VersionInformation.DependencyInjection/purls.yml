@@ -1,0 +1,4 @@
+- pkg:nuget/UoN.VersionInformation.DependencyInjection@1.0.0
+- pkg:nuget/UoN.VersionInformation.DependencyInjection@1.0.0-beta1
+- pkg:nuget/UoN.VersionInformation.DependencyInjection@2.0.0
+- pkg:nuget/UoN.VersionInformation.DependencyInjection@2.0.0-beta.1

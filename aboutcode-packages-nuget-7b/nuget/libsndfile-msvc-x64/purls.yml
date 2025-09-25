@@ -1,0 +1,6 @@
+- pkg:nuget/libsndfile-msvc-x64@1.0.27.8788
+- pkg:nuget/libsndfile-msvc-x64@1.0.27.9901
+- pkg:nuget/libsndfile-msvc-x64@1.0.27.9902
+- pkg:nuget/libsndfile-msvc-x64@1.0.27.9909
+- pkg:nuget/libsndfile-msvc-x64@1.0.27.9910
+- pkg:nuget/libsndfile-msvc-x64@1.1.0.9907

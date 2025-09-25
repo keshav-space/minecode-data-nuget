@@ -1,0 +1,4 @@
+- pkg:nuget/Xamarin.Legacy.OpenTK@0.0.1-alpha
+- pkg:nuget/Xamarin.Legacy.OpenTK@1.0.0
+- pkg:nuget/Xamarin.Legacy.OpenTK@1.0.1
+- pkg:nuget/Xamarin.Legacy.OpenTK@1.0.2

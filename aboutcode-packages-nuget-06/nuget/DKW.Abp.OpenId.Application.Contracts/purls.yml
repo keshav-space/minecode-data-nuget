@@ -1,0 +1,11 @@
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.0-alpha
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.0-alpha-0002
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.0-beta-0001
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.0-beta-0002
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.0-beta-0003
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.0-beta-0004-ge5654265b1
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.0-beta-0005
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.0-beta-0005-gf815f7f911
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.3-alpha.6
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.4-alpha.7
+- pkg:nuget/DKW.Abp.OpenId.Application.Contracts@1.0.5-alpha.7

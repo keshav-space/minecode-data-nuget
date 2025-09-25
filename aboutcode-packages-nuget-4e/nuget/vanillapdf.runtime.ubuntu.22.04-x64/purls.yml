@@ -1,0 +1,4 @@
+- pkg:nuget/vanillapdf.runtime.ubuntu.22.04-x64@1.7.0
+- pkg:nuget/vanillapdf.runtime.ubuntu.22.04-x64@1.7.0-rc
+- pkg:nuget/vanillapdf.runtime.ubuntu.22.04-x64@1.7.0-rc2
+- pkg:nuget/vanillapdf.runtime.ubuntu.22.04-x64@1.8.0

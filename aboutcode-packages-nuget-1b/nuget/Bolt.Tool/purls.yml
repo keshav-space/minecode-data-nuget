@@ -1,0 +1,5 @@
+- pkg:nuget/Bolt.Tool@0.10.0-alpha
+- pkg:nuget/Bolt.Tool@0.9.0
+- pkg:nuget/Bolt.Tool@0.9.0.2
+- pkg:nuget/Bolt.Tool@0.9.1
+- pkg:nuget/Bolt.Tool@0.9.1.1

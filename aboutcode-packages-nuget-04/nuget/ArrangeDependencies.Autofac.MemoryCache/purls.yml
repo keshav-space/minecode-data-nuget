@@ -1,0 +1,3 @@
+- pkg:nuget/ArrangeDependencies.Autofac.MemoryCache@1.0.0
+- pkg:nuget/ArrangeDependencies.Autofac.MemoryCache@6.0.0
+- pkg:nuget/ArrangeDependencies.Autofac.MemoryCache@8.0.0

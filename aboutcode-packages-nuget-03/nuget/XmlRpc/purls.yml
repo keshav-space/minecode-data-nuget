@@ -1,0 +1,4 @@
+- pkg:nuget/XmlRpc@1.1.0
+- pkg:nuget/XmlRpc@2.0.0
+- pkg:nuget/XmlRpc@2.1.0
+- pkg:nuget/XmlRpc@2.1.1

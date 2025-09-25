@@ -1,0 +1,6 @@
+- pkg:nuget/softaware.UsageAware.ApplicationInsights.AspNetCore@1.0.0
+- pkg:nuget/softaware.UsageAware.ApplicationInsights.AspNetCore@1.0.1
+- pkg:nuget/softaware.UsageAware.ApplicationInsights.AspNetCore@2.0.0
+- pkg:nuget/softaware.UsageAware.ApplicationInsights.AspNetCore@3.0.0
+- pkg:nuget/softaware.UsageAware.ApplicationInsights.AspNetCore@3.1.0
+- pkg:nuget/softaware.UsageAware.ApplicationInsights.AspNetCore@3.1.1

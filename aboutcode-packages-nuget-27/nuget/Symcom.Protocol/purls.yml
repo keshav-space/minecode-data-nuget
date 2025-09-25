@@ -1,0 +1,5 @@
+- pkg:nuget/Symcom.Protocol@1.0.0
+- pkg:nuget/Symcom.Protocol@2.0.0-preview-20190529193700
+- pkg:nuget/Symcom.Protocol@2.0.0-preview-20190618000400
+- pkg:nuget/Symcom.Protocol@2.0.0-preview-20190618014600
+- pkg:nuget/Symcom.Protocol@2.0.0-preview-20190708231400

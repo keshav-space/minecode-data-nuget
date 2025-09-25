@@ -1,0 +1,4 @@
+- pkg:nuget/LocalsInit.Fody@0.0.1
+- pkg:nuget/LocalsInit.Fody@0.1.0
+- pkg:nuget/LocalsInit.Fody@1.0.0
+- pkg:nuget/LocalsInit.Fody@1.1.0

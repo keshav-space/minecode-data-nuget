@@ -1,0 +1,2 @@
+- pkg:nuget/TrojanLabs.Core.DataAccess.MongoDb@1.0.0
+- pkg:nuget/TrojanLabs.Core.DataAccess.MongoDb@2.0.0

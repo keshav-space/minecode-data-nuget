@@ -1,0 +1,3 @@
+- pkg:nuget/Fx.Core.Tests.Debug.x86@0.2.0
+- pkg:nuget/Fx.Core.Tests.Debug.x86@0.3.0
+- pkg:nuget/Fx.Core.Tests.Debug.x86@0.4.0

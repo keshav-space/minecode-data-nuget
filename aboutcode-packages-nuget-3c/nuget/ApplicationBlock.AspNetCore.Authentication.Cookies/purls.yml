@@ -1,0 +1,4 @@
+- pkg:nuget/ApplicationBlock.AspNetCore.Authentication.Cookies@0.0.1-alpha
+- pkg:nuget/ApplicationBlock.AspNetCore.Authentication.Cookies@0.0.3-alpha
+- pkg:nuget/ApplicationBlock.AspNetCore.Authentication.Cookies@0.0.4-alpha
+- pkg:nuget/ApplicationBlock.AspNetCore.Authentication.Cookies@0.0.5-alpha

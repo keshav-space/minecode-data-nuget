@@ -1,0 +1,5 @@
+- pkg:nuget/Couchbase.EntityFrameworkCore@1.0.0
+- pkg:nuget/Couchbase.EntityFrameworkCore@1.0.0-RC.1
+- pkg:nuget/Couchbase.EntityFrameworkCore@1.0.0-RC.2
+- pkg:nuget/Couchbase.EntityFrameworkCore@1.0.0-pre.1
+- pkg:nuget/Couchbase.EntityFrameworkCore@1.0.0-pre.2
