@@ -1,0 +1,3 @@
+- pkg:nuget/Tenogy.Tools.FluentMigrator.AddMigration@1.0.1
+- pkg:nuget/Tenogy.Tools.FluentMigrator.AddMigration@1.0.2
+- pkg:nuget/Tenogy.Tools.FluentMigrator.AddMigration@1.0.3

@@ -1,0 +1,4 @@
+- pkg:nuget/BrinkSoftware.DistributedCaching.AzureTableStorage@1.0.0
+- pkg:nuget/BrinkSoftware.DistributedCaching.AzureTableStorage@1.0.0-beta.1
+- pkg:nuget/BrinkSoftware.DistributedCaching.AzureTableStorage@1.0.1
+- pkg:nuget/BrinkSoftware.DistributedCaching.AzureTableStorage@1.0.2

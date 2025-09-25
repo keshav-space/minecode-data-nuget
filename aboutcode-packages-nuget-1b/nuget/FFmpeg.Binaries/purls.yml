@@ -1,0 +1,3 @@
+- pkg:nuget/FFmpeg.Binaries@2.1.0
+- pkg:nuget/FFmpeg.Binaries@2.1.4
+- pkg:nuget/FFmpeg.Binaries@2.2.1

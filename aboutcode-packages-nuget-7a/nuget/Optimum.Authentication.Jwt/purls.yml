@@ -1,0 +1,3 @@
+- pkg:nuget/Optimum.Authentication.Jwt@1.0.1
+- pkg:nuget/Optimum.Authentication.Jwt@6.0.1
+- pkg:nuget/Optimum.Authentication.Jwt@6.0.2

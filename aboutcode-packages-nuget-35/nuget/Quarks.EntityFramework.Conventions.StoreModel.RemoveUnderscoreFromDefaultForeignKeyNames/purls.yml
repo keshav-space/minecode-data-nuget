@@ -1,0 +1,1 @@
+- pkg:nuget/Quarks.EntityFramework.Conventions.StoreModel.RemoveUnderscoreFromDefaultForeignKeyNames@1.0.0

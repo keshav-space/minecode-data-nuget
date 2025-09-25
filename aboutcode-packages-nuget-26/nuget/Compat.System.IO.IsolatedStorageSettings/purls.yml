@@ -1,0 +1,4 @@
+- pkg:nuget/Compat.System.IO.IsolatedStorageSettings@1.0.0
+- pkg:nuget/Compat.System.IO.IsolatedStorageSettings@1.0.1
+- pkg:nuget/Compat.System.IO.IsolatedStorageSettings@1.0.2
+- pkg:nuget/Compat.System.IO.IsolatedStorageSettings@1.0.3

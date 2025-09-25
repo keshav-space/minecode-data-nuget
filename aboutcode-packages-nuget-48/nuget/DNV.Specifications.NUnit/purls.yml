@@ -1,0 +1,3 @@
+- pkg:nuget/DNV.Specifications.NUnit@1.0.0
+- pkg:nuget/DNV.Specifications.NUnit@1.0.0-test.2
+- pkg:nuget/DNV.Specifications.NUnit@1.0.1

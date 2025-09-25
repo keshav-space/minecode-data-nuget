@@ -1,0 +1,1 @@
+- pkg:nuget/OpenTelemetry.Contrib.Instrumentation.AWSLambda@1.1.0-beta1

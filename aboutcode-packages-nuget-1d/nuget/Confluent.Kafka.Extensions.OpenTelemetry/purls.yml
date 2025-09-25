@@ -1,0 +1,5 @@
+- pkg:nuget/Confluent.Kafka.Extensions.OpenTelemetry@0.1.0
+- pkg:nuget/Confluent.Kafka.Extensions.OpenTelemetry@0.2.0
+- pkg:nuget/Confluent.Kafka.Extensions.OpenTelemetry@0.3.0
+- pkg:nuget/Confluent.Kafka.Extensions.OpenTelemetry@0.3.1-alpha.1
+- pkg:nuget/Confluent.Kafka.Extensions.OpenTelemetry@0.4.0

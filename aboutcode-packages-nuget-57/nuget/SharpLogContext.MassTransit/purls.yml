@@ -1,0 +1,6 @@
+- pkg:nuget/SharpLogContext.MassTransit@1.0.0
+- pkg:nuget/SharpLogContext.MassTransit@4.0.0
+- pkg:nuget/SharpLogContext.MassTransit@4.0.1
+- pkg:nuget/SharpLogContext.MassTransit@7.0.3
+- pkg:nuget/SharpLogContext.MassTransit@7.0.4
+- pkg:nuget/SharpLogContext.MassTransit@7.0.5

@@ -1,0 +1,2 @@
+- pkg:nuget/X.Extensions.Serilog.Sinks.Telegram@2.0.1-rc
+- pkg:nuget/X.Extensions.Serilog.Sinks.Telegram@2.0.2

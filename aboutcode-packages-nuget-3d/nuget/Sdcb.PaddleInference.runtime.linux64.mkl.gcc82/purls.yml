@@ -1,0 +1,2 @@
+- pkg:nuget/Sdcb.PaddleInference.runtime.linux64.mkl.gcc82@2.3.2-preview.1
+- pkg:nuget/Sdcb.PaddleInference.runtime.linux64.mkl.gcc82@2.6.0-preview.1

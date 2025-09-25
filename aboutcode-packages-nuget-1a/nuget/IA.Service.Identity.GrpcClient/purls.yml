@@ -1,0 +1,7 @@
+- pkg:nuget/IA.Service.Identity.GrpcClient@1.0.0-CI-20210806-144423
+- pkg:nuget/IA.Service.Identity.GrpcClient@1.0.0-CI-20210806-195423
+- pkg:nuget/IA.Service.Identity.GrpcClient@1.0.0-CI-20210806-225132
+- pkg:nuget/IA.Service.Identity.GrpcClient@1.0.0-CI-20210807-204823
+- pkg:nuget/IA.Service.Identity.GrpcClient@1.0.0-CI-20210808-101259
+- pkg:nuget/IA.Service.Identity.GrpcClient@1.0.0-CI-20210808-143254
+- pkg:nuget/IA.Service.Identity.GrpcClient@1.0.0-CI-20210808-153550

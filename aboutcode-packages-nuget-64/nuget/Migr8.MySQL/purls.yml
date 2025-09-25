@@ -1,0 +1,5 @@
+- pkg:nuget/Migr8.MySQL@0.20.0-b3
+- pkg:nuget/Migr8.MySQL@0.20.0-b4
+- pkg:nuget/Migr8.MySQL@0.23.0
+- pkg:nuget/Migr8.MySQL@0.24.0
+- pkg:nuget/Migr8.MySQL@0.25.0

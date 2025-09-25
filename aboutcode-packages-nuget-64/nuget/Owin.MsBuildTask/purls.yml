@@ -1,0 +1,4 @@
+- pkg:nuget/Owin.MsBuildTask@1.0.0
+- pkg:nuget/Owin.MsBuildTask@1.2.0
+- pkg:nuget/Owin.MsBuildTask@1.2.5
+- pkg:nuget/Owin.MsBuildTask@2.0.0

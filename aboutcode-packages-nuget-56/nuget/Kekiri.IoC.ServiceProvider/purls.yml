@@ -1,0 +1,4 @@
+- pkg:nuget/Kekiri.IoC.ServiceProvider@1.0.0
+- pkg:nuget/Kekiri.IoC.ServiceProvider@1.0.0-alpha
+- pkg:nuget/Kekiri.IoC.ServiceProvider@1.0.0-rc1
+- pkg:nuget/Kekiri.IoC.ServiceProvider@1.0.0-rc2

@@ -1,0 +1,4 @@
+- pkg:nuget/LambdaContainer.Integrations.Owin.WebApi@0.0.1
+- pkg:nuget/LambdaContainer.Integrations.Owin.WebApi@0.0.2
+- pkg:nuget/LambdaContainer.Integrations.Owin.WebApi@0.0.3
+- pkg:nuget/LambdaContainer.Integrations.Owin.WebApi@1.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Marten.ApplicationInsights.DependencyTracker@1.0.0
+- pkg:nuget/Marten.ApplicationInsights.DependencyTracker@1.0.1

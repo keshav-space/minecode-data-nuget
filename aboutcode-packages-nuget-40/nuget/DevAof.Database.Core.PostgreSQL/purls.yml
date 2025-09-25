@@ -1,0 +1,8 @@
+- pkg:nuget/DevAof.Database.Core.PostgreSQL@8.5.9-beta.1
+- pkg:nuget/DevAof.Database.Core.PostgreSQL@8.6.0-beta.1
+- pkg:nuget/DevAof.Database.Core.PostgreSQL@8.6.1-beta.1
+- pkg:nuget/DevAof.Database.Core.PostgreSQL@8.6.2-beta.1
+- pkg:nuget/DevAof.Database.Core.PostgreSQL@8.6.3-beta.1
+- pkg:nuget/DevAof.Database.Core.PostgreSQL@8.6.4-beta.1
+- pkg:nuget/DevAof.Database.Core.PostgreSQL@8.6.5-beta.1
+- pkg:nuget/DevAof.Database.Core.PostgreSQL@8.6.6-beta.1

@@ -1,0 +1,3 @@
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.AbpIntegration@2.2.3.4
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.AbpIntegration@2.3.0
+- pkg:nuget/MaiReo.MicroService.Messages.RabbitMQ.AbpIntegration@2.3.1

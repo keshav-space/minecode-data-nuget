@@ -1,0 +1,4 @@
+- pkg:nuget/Fermion.EntityFramework.SnapshotLogs@0.0.1
+- pkg:nuget/Fermion.EntityFramework.SnapshotLogs@0.1.0
+- pkg:nuget/Fermion.EntityFramework.SnapshotLogs@1.0.0
+- pkg:nuget/Fermion.EntityFramework.SnapshotLogs@1.0.1
