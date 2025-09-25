@@ -1,0 +1,17 @@
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.10.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.11.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.12.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.2.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.2.0-alpha-20240229081645
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.2.1
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.4.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.5.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.6.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.7.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.8.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@24.9.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@25.1.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@25.2.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@25.7.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@25.8.0
+- pkg:nuget/GroupDocs.Parser.NETFramework@25.8.0-alpha-20250827095815

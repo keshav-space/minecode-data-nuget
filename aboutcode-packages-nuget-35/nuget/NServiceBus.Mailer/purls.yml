@@ -1,0 +1,14 @@
+- pkg:nuget/NServiceBus.Mailer@0.2.4-preRelease
+- pkg:nuget/NServiceBus.Mailer@0.3.0-preRelease
+- pkg:nuget/NServiceBus.Mailer@1.0.0
+- pkg:nuget/NServiceBus.Mailer@1.1.0
+- pkg:nuget/NServiceBus.Mailer@2.0.0
+- pkg:nuget/NServiceBus.Mailer@3.0.0
+- pkg:nuget/NServiceBus.Mailer@3.0.1
+- pkg:nuget/NServiceBus.Mailer@4.0.0
+- pkg:nuget/NServiceBus.Mailer@4.0.0-beta
+- pkg:nuget/NServiceBus.Mailer@4.0.0-beta002
+- pkg:nuget/NServiceBus.Mailer@4.0.0-beta003
+- pkg:nuget/NServiceBus.Mailer@5.0.0
+- pkg:nuget/NServiceBus.Mailer@6.0.0
+- pkg:nuget/NServiceBus.Mailer@7.0.0

@@ -1,0 +1,14 @@
+- pkg:nuget/SecurePasswordGenerator@1.0.0
+- pkg:nuget/SecurePasswordGenerator@1.0.1
+- pkg:nuget/SecurePasswordGenerator@1.0.1-CI-20190618-104
+- pkg:nuget/SecurePasswordGenerator@1.0.2
+- pkg:nuget/SecurePasswordGenerator@1.0.3
+- pkg:nuget/SecurePasswordGenerator@1.0.3-CI-20190619-112
+- pkg:nuget/SecurePasswordGenerator@1.0.4
+- pkg:nuget/SecurePasswordGenerator@1.0.4-CI-20190619-114
+- pkg:nuget/SecurePasswordGenerator@1.0.5
+- pkg:nuget/SecurePasswordGenerator@1.0.5-CI-20190621-116
+- pkg:nuget/SecurePasswordGenerator@1.0.5-CI-20190621-118
+- pkg:nuget/SecurePasswordGenerator@1.0.5-CI-20200301-163
+- pkg:nuget/SecurePasswordGenerator@1.0.6
+- pkg:nuget/SecurePasswordGenerator@1.0.6-CI-20200302-171

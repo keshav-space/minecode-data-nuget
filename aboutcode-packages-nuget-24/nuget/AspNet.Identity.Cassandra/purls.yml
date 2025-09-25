@@ -1,0 +1,6 @@
+- pkg:nuget/AspNet.Identity.Cassandra@1.0.0
+- pkg:nuget/AspNet.Identity.Cassandra@1.0.0.1
+- pkg:nuget/AspNet.Identity.Cassandra@1.0.0.2
+- pkg:nuget/AspNet.Identity.Cassandra@1.0.0.3
+- pkg:nuget/AspNet.Identity.Cassandra@2.0.0
+- pkg:nuget/AspNet.Identity.Cassandra@2.0.0.1

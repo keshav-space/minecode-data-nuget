@@ -1,0 +1,4 @@
+- pkg:nuget/NetCore.Standalone@0.1.0
+- pkg:nuget/NetCore.Standalone@0.2.0
+- pkg:nuget/NetCore.Standalone@0.2.1
+- pkg:nuget/NetCore.Standalone@0.2.2

@@ -1,0 +1,6 @@
+- pkg:nuget/objectflow.core@1.4.0-prerelease
+- pkg:nuget/objectflow.core@1.4.0.1-prerelease
+- pkg:nuget/objectflow.core@1.4.71
+- pkg:nuget/objectflow.core@1.4.72
+- pkg:nuget/objectflow.core@1.4.75
+- pkg:nuget/objectflow.core@1.4.81

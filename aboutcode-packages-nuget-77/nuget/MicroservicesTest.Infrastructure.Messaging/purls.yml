@@ -1,0 +1,3 @@
+- pkg:nuget/MicroservicesTest.Infrastructure.Messaging@1.0.0
+- pkg:nuget/MicroservicesTest.Infrastructure.Messaging@1.0.0.1
+- pkg:nuget/MicroservicesTest.Infrastructure.Messaging@1.0.0.2

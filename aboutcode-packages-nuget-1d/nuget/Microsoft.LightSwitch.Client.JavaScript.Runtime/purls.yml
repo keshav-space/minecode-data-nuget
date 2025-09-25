@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.LightSwitch.Client.JavaScript.Runtime@1.0.1
+- pkg:nuget/Microsoft.LightSwitch.Client.JavaScript.Runtime@2.0.0
+- pkg:nuget/Microsoft.LightSwitch.Client.JavaScript.Runtime@2.5.0
+- pkg:nuget/Microsoft.LightSwitch.Client.JavaScript.Runtime@2.5.1
+- pkg:nuget/Microsoft.LightSwitch.Client.JavaScript.Runtime@2.5.2
+- pkg:nuget/Microsoft.LightSwitch.Client.JavaScript.Runtime@2.5.3
+- pkg:nuget/Microsoft.LightSwitch.Client.JavaScript.Runtime@2.5.4

@@ -1,0 +1,17 @@
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.0.1
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.0.2
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.0.3
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.1.0
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.1.1
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.2.1
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.2.2
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.2.3
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.2.4
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.2.5
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.2.6
+- pkg:nuget/Veracity.Common.Authentication.AspNet@2.2.7
+- pkg:nuget/Veracity.Common.Authentication.AspNet@3.0.0
+- pkg:nuget/Veracity.Common.Authentication.AspNet@3.0.0-rc1
+- pkg:nuget/Veracity.Common.Authentication.AspNet@3.0.1
+- pkg:nuget/Veracity.Common.Authentication.AspNet@3.5.0
+- pkg:nuget/Veracity.Common.Authentication.AspNet@3.5.1

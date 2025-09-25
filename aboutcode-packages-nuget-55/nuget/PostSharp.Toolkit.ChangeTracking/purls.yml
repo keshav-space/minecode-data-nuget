@@ -1,0 +1,6 @@
+- pkg:nuget/PostSharp.Toolkit.ChangeTracking@3.0.3-alpha
+- pkg:nuget/PostSharp.Toolkit.ChangeTracking@3.0.4-alpha
+- pkg:nuget/PostSharp.Toolkit.ChangeTracking@3.0.5-alpha
+- pkg:nuget/PostSharp.Toolkit.ChangeTracking@3.0.6-alpha
+- pkg:nuget/PostSharp.Toolkit.ChangeTracking@3.0.7-alpha
+- pkg:nuget/PostSharp.Toolkit.ChangeTracking@3.0.8-alpha

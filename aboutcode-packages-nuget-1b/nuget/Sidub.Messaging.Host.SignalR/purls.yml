@@ -1,0 +1,3 @@
+- pkg:nuget/Sidub.Messaging.Host.SignalR@1.0.14
+- pkg:nuget/Sidub.Messaging.Host.SignalR@1.0.5
+- pkg:nuget/Sidub.Messaging.Host.SignalR@1.0.8

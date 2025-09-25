@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.0.249-master2E2DC10C
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.0.251-masterEC7ACD60
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.0.259-master92314DA9
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.0.261-master269445C6
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.0.262-masterA5CACE98
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.0.263-masterA66FF384
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.1.10
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.1.12-gc342f289b1
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.1.2
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.1.6-master-g92e35f17a6
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@14.1.8-master-g8a50bb0822
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@16.3.23
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@16.3.32
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@16.3.41
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@16.3.44
+- pkg:nuget/Microsoft.VisualStudio.RemoteControl@16.3.52

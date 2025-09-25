@@ -1,0 +1,3 @@
+- pkg:nuget/NServiceBus.AttributeConventions.Contracts@0.0.1
+- pkg:nuget/NServiceBus.AttributeConventions.Contracts@0.0.2
+- pkg:nuget/NServiceBus.AttributeConventions.Contracts@1.0.0

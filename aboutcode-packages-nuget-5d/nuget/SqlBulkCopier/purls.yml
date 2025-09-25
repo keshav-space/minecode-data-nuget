@@ -1,0 +1,3 @@
+- pkg:nuget/SqlBulkCopier@0.0.8
+- pkg:nuget/SqlBulkCopier@1.0.0
+- pkg:nuget/SqlBulkCopier@1.1.0

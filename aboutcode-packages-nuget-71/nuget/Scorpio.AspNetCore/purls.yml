@@ -1,0 +1,4 @@
+- pkg:nuget/Scorpio.AspNetCore@0.1.0
+- pkg:nuget/Scorpio.AspNetCore@0.1.0-alpha.5
+- pkg:nuget/Scorpio.AspNetCore@0.1.1
+- pkg:nuget/Scorpio.AspNetCore@0.1.1-alpha.2-dev.221

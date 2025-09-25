@@ -1,0 +1,15 @@
+- pkg:nuget/skewwhiffy.batcher@0.0.0.19-NugetPublish
+- pkg:nuget/skewwhiffy.batcher@0.0.0.48
+- pkg:nuget/skewwhiffy.batcher@0.0.0.49-SingleThread
+- pkg:nuget/skewwhiffy.batcher@0.0.0.51
+- pkg:nuget/skewwhiffy.batcher@0.0.0.52-MultiThreadBatcher
+- pkg:nuget/skewwhiffy.batcher@0.0.0.53-MultiThreadBatcher
+- pkg:nuget/skewwhiffy.batcher@0.0.0.54-MultiThreadBatcher
+- pkg:nuget/skewwhiffy.batcher@0.0.0.56-MultiThreadBatcher
+- pkg:nuget/skewwhiffy.batcher@0.0.0.58
+- pkg:nuget/skewwhiffy.batcher@0.0.0.59-ParallelThreads
+- pkg:nuget/skewwhiffy.batcher@0.0.0.60-ParallelThreads
+- pkg:nuget/skewwhiffy.batcher@0.0.0.64-ParallelThreads
+- pkg:nuget/skewwhiffy.batcher@0.0.0.66
+- pkg:nuget/skewwhiffy.batcher@0.0.0.71-Example
+- pkg:nuget/skewwhiffy.batcher@0.0.0.73

@@ -1,0 +1,10 @@
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@0.0.2
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@0.1.0
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@0.1.1
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@0.2.0
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@0.3.0
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@1.0.0
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@1.1.0
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@1.2.0
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@1.2.1
+- pkg:nuget/ApolloGraphQL.HotChocolate.Federation@1.3.0

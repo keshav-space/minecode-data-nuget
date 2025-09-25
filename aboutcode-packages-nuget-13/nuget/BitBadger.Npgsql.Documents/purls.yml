@@ -1,0 +1,5 @@
+- pkg:nuget/BitBadger.Npgsql.Documents@1.0.0
+- pkg:nuget/BitBadger.Npgsql.Documents@1.0.0-beta
+- pkg:nuget/BitBadger.Npgsql.Documents@1.0.0-beta2
+- pkg:nuget/BitBadger.Npgsql.Documents@1.0.0-beta3
+- pkg:nuget/BitBadger.Npgsql.Documents@2.0.0

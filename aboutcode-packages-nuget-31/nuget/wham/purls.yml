@@ -1,0 +1,15 @@
+- pkg:nuget/wham@0.10.0
+- pkg:nuget/wham@0.11.0
+- pkg:nuget/wham@0.12.0
+- pkg:nuget/wham@0.13.0
+- pkg:nuget/wham@0.6.15-beta-g1cb58de07f
+- pkg:nuget/wham@0.6.17
+- pkg:nuget/wham@0.6.8-beta-ge10d0437a4
+- pkg:nuget/wham@0.7.0
+- pkg:nuget/wham@0.7.0-alpha-0002
+- pkg:nuget/wham@0.7.0-beta.1
+- pkg:nuget/wham@0.7.0-beta.2
+- pkg:nuget/wham@0.7.0-beta.3
+- pkg:nuget/wham@0.8.0
+- pkg:nuget/wham@0.8.0-rc.1.1
+- pkg:nuget/wham@0.9.0

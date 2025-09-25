@@ -1,0 +1,4 @@
+- pkg:nuget/TeamCityRestApiNetClient@0.1.2
+- pkg:nuget/TeamCityRestApiNetClient@0.1.2-alpha
+- pkg:nuget/TeamCityRestApiNetClient@0.1.2.1
+- pkg:nuget/TeamCityRestApiNetClient@0.1.2.2

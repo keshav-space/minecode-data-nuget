@@ -1,0 +1,6 @@
+- pkg:nuget/MultiTenant.Core@0.1.0
+- pkg:nuget/MultiTenant.Core@1.0.0
+- pkg:nuget/MultiTenant.Core@1.0.0-CI-20200414-042221
+- pkg:nuget/MultiTenant.Core@1.0.0-CI-20200414-044503
+- pkg:nuget/MultiTenant.Core@1.0.0-CI-20200421-205948
+- pkg:nuget/MultiTenant.Core@1.0.1

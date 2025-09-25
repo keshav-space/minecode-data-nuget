@@ -1,0 +1,10 @@
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@5.0.0
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@5.0.0-rc.1
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@5.0.0-rc.2
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@5.0.1
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@5.0.2
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@6.0.0
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@6.0.0-rc.1
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@6.0.0-rc.2
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@6.0.1
+- pkg:nuget/WixToolset.BootstrapperApplications.wixext@6.0.2

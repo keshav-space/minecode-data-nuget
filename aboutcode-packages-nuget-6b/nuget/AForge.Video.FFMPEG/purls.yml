@@ -1,0 +1,10 @@
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5-rc
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5.1
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5.1-alpha
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5.1-alpha.3
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5.1-alpha.4
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5.1-alpha.5
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5.1-alpha.6
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5.1-beta
+- pkg:nuget/AForge.Video.FFMPEG@2.2.5.1-rc

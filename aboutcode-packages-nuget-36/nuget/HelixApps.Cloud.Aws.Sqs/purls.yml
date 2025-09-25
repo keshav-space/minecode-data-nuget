@@ -1,0 +1,13 @@
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@6.20230923.1
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@6.20230929.4
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@6.20230929.5
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@6.20230929.6
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@6.20231011.1
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@6.20240302.1
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@8.20240506.4
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@8.20240612.3
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@8.20240711.4
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@8.20240819.1
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@8.20240922.1
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@8.20241111.1
+- pkg:nuget/HelixApps.Cloud.Aws.Sqs@8.20250131.3

@@ -1,0 +1,5 @@
+- pkg:nuget/com.faburaya.Reusable.DataAccess.Sqlite@1.0.0
+- pkg:nuget/com.faburaya.Reusable.DataAccess.Sqlite@1.1.1
+- pkg:nuget/com.faburaya.Reusable.DataAccess.Sqlite@2.0.2
+- pkg:nuget/com.faburaya.Reusable.DataAccess.Sqlite@3.0.1
+- pkg:nuget/com.faburaya.Reusable.DataAccess.Sqlite@4.0.2

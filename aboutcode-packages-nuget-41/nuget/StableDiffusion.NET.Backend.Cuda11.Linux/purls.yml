@@ -1,0 +1,15 @@
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@2.2.0
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@2.2.1
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@2.3.0
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.0.0
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.1.0
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.1.1
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.2.0
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.3.0
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.3.1
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.4.1
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.4.2
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.5.0
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.6.0
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.6.1
+- pkg:nuget/StableDiffusion.NET.Backend.Cuda11.Linux@3.6.2

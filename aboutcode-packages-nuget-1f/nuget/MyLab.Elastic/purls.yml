@@ -1,0 +1,6 @@
+- pkg:nuget/MyLab.Elastic@1.0.0
+- pkg:nuget/MyLab.Elastic@1.1.0
+- pkg:nuget/MyLab.Elastic@1.2.11
+- pkg:nuget/MyLab.Elastic@1.3.13
+- pkg:nuget/MyLab.Elastic@1.4.13
+- pkg:nuget/MyLab.Elastic@1.4.14

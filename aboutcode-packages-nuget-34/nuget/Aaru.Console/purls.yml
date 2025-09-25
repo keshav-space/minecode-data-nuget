@@ -1,0 +1,15 @@
+- pkg:nuget/Aaru.Console@5.2.99.3331-alpha%2B0eb1345d
+- pkg:nuget/Aaru.Console@5.2.99.3380-alpha%2B0eb1345d
+- pkg:nuget/Aaru.Console@5.3.0%2Ba1d7e8fa
+- pkg:nuget/Aaru.Console@5.3.0-rc1%2B3606cdab
+- pkg:nuget/Aaru.Console@5.3.0-rc2%2B5b03dbd5
+- pkg:nuget/Aaru.Console@5.3.1%2Bb554ff2c
+- pkg:nuget/Aaru.Console@5.3.2%2B429f84a6
+- pkg:nuget/Aaru.Console@5.3.2-rc1%2B6832294e
+- pkg:nuget/Aaru.Console@5.3.2-rc2%2Bb5dcb2b0
+- pkg:nuget/Aaru.Console@5.4.0%2Bb7b0f11c
+- pkg:nuget/Aaru.Console@5.4.1%2B4f340c91
+- pkg:nuget/Aaru.Console@6.0.0-alpha10%2B21368f00
+- pkg:nuget/Aaru.Console@6.0.0-alpha7%2B8b12448e
+- pkg:nuget/Aaru.Console@6.0.0-alpha8%2B300b17fa
+- pkg:nuget/Aaru.Console@6.0.0-alpha9%2B72ff6760

@@ -1,0 +1,3 @@
+- pkg:nuget/StreamsDB.Client@1.0.0-dev.8.b18cb0e
+- pkg:nuget/StreamsDB.Client@1.0.0-rc
+- pkg:nuget/StreamsDB.Client@1.0.1-rc

@@ -1,0 +1,4 @@
+- pkg:nuget/Hellang.Middleware.SpaFallback@1.0.0
+- pkg:nuget/Hellang.Middleware.SpaFallback@1.1.0
+- pkg:nuget/Hellang.Middleware.SpaFallback@1.2.0
+- pkg:nuget/Hellang.Middleware.SpaFallback@2.0.0

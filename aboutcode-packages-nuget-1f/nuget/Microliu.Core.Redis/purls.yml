@@ -1,0 +1,6 @@
+- pkg:nuget/Microliu.Core.Redis@1.0.0
+- pkg:nuget/Microliu.Core.Redis@1.0.1
+- pkg:nuget/Microliu.Core.Redis@1.1.2
+- pkg:nuget/Microliu.Core.Redis@1.1.3
+- pkg:nuget/Microliu.Core.Redis@1.1.4
+- pkg:nuget/Microliu.Core.Redis@1.1.5

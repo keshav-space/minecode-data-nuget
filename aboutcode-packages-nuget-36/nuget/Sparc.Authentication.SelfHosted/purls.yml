@@ -1,0 +1,11 @@
+- pkg:nuget/Sparc.Authentication.SelfHosted@2.0.11
+- pkg:nuget/Sparc.Authentication.SelfHosted@2.0.2
+- pkg:nuget/Sparc.Authentication.SelfHosted@2.1.0
+- pkg:nuget/Sparc.Authentication.SelfHosted@2.1.1
+- pkg:nuget/Sparc.Authentication.SelfHosted@2.1.2
+- pkg:nuget/Sparc.Authentication.SelfHosted@2.1.3
+- pkg:nuget/Sparc.Authentication.SelfHosted@6.0.0
+- pkg:nuget/Sparc.Authentication.SelfHosted@6.0.1
+- pkg:nuget/Sparc.Authentication.SelfHosted@6.0.2
+- pkg:nuget/Sparc.Authentication.SelfHosted@6.0.3
+- pkg:nuget/Sparc.Authentication.SelfHosted@7.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Tardigrade.Framework.MailKit@1.0.0
+- pkg:nuget/Tardigrade.Framework.MailKit@2.0.0
+- pkg:nuget/Tardigrade.Framework.MailKit@3.0.0
+- pkg:nuget/Tardigrade.Framework.MailKit@3.0.1
+- pkg:nuget/Tardigrade.Framework.MailKit@3.0.2
+- pkg:nuget/Tardigrade.Framework.MailKit@3.1.0

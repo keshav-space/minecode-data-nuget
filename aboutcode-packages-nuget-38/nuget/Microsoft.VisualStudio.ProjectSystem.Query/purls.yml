@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.0.1313-pre
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.0.667-pre
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.10.214
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.11.308
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.12.128
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.13.81
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.14.143
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.2.402-pre
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.9.117
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Query@17.9.380

@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.Editor.Contracts@17.10.166
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.Editor.Contracts@17.10.191
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.Editor.Contracts@17.11.260
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.Editor.Contracts@17.12.215
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.Editor.Contracts@17.13.226
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.Editor.Contracts@17.14.249
+- pkg:nuget/Microsoft.VisualStudio.Extensibility.Editor.Contracts@17.9.145

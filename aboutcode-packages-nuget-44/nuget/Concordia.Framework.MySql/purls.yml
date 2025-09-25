@@ -1,0 +1,4 @@
+- pkg:nuget/Concordia.Framework.MySql@1.0.0
+- pkg:nuget/Concordia.Framework.MySql@1.0.1
+- pkg:nuget/Concordia.Framework.MySql@1.1.0
+- pkg:nuget/Concordia.Framework.MySql@2.0.0

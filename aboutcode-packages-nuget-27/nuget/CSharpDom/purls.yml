@@ -1,0 +1,4 @@
+- pkg:nuget/CSharpDom@0.1.0-pre
+- pkg:nuget/CSharpDom@0.2.0-pre
+- pkg:nuget/CSharpDom@0.3.0-pre
+- pkg:nuget/CSharpDom@1.0.0

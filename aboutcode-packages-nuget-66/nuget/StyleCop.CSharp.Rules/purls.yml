@@ -1,0 +1,8 @@
+- pkg:nuget/StyleCop.CSharp.Rules@5.0.0
+- pkg:nuget/StyleCop.CSharp.Rules@5.0.0-alpha01
+- pkg:nuget/StyleCop.CSharp.Rules@5.0.0-beta01
+- pkg:nuget/StyleCop.CSharp.Rules@5.0.0-beta02
+- pkg:nuget/StyleCop.CSharp.Rules@6.0.0
+- pkg:nuget/StyleCop.CSharp.Rules@6.0.0-beta04
+- pkg:nuget/StyleCop.CSharp.Rules@6.1.0
+- pkg:nuget/StyleCop.CSharp.Rules@6.2.0

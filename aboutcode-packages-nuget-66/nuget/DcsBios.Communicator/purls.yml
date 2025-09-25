@@ -1,0 +1,16 @@
+- pkg:nuget/DcsBios.Communicator@0.1.0-alpha
+- pkg:nuget/DcsBios.Communicator@0.2.0
+- pkg:nuget/DcsBios.Communicator@1.0.0
+- pkg:nuget/DcsBios.Communicator@2.0.0
+- pkg:nuget/DcsBios.Communicator@2.0.1
+- pkg:nuget/DcsBios.Communicator@2.0.2
+- pkg:nuget/DcsBios.Communicator@3.0.0
+- pkg:nuget/DcsBios.Communicator@3.0.0-alpha
+- pkg:nuget/DcsBios.Communicator@3.0.0-alpha.2
+- pkg:nuget/DcsBios.Communicator@3.0.1
+- pkg:nuget/DcsBios.Communicator@3.0.2-rc.1
+- pkg:nuget/DcsBios.Communicator@4.0.0
+- pkg:nuget/DcsBios.Communicator@4.0.0-rc.1
+- pkg:nuget/DcsBios.Communicator@4.1.0
+- pkg:nuget/DcsBios.Communicator@4.1.0-rc.1
+- pkg:nuget/DcsBios.Communicator@5.0.0

@@ -1,0 +1,8 @@
+- pkg:nuget/Liquid.Core.Telemetry.ElasticApm@2.0.0-preview-20211216-01
+- pkg:nuget/Liquid.Core.Telemetry.ElasticApm@6.0.0
+- pkg:nuget/Liquid.Core.Telemetry.ElasticApm@6.0.0-preview-20221201-01
+- pkg:nuget/Liquid.Core.Telemetry.ElasticApm@6.0.0-preview-20231131-01
+- pkg:nuget/Liquid.Core.Telemetry.ElasticApm@6.0.1
+- pkg:nuget/Liquid.Core.Telemetry.ElasticApm@8.0.0
+- pkg:nuget/Liquid.Core.Telemetry.ElasticApm@8.0.0-alpha-01
+- pkg:nuget/Liquid.Core.Telemetry.ElasticApm@8.0.0-beta-02

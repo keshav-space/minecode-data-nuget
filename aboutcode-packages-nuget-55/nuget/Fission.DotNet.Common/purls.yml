@@ -1,0 +1,5 @@
+- pkg:nuget/Fission.DotNet.Common@0.0.1
+- pkg:nuget/Fission.DotNet.Common@0.0.2
+- pkg:nuget/Fission.DotNet.Common@0.0.3
+- pkg:nuget/Fission.DotNet.Common@1.0.0
+- pkg:nuget/Fission.DotNet.Common@1.1.0

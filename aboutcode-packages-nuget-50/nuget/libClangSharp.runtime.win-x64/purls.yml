@@ -1,0 +1,17 @@
+- pkg:nuget/libClangSharp.runtime.win-x64@10.0.0-beta1
+- pkg:nuget/libClangSharp.runtime.win-x64@10.0.0-beta2
+- pkg:nuget/libClangSharp.runtime.win-x64@10.0.1-beta2
+- pkg:nuget/libClangSharp.runtime.win-x64@10.0.2-beta2
+- pkg:nuget/libClangSharp.runtime.win-x64@11.0.0-beta1
+- pkg:nuget/libClangSharp.runtime.win-x64@11.0.0-beta2
+- pkg:nuget/libClangSharp.runtime.win-x64@12.0.0-beta1
+- pkg:nuget/libClangSharp.runtime.win-x64@13.0.0-beta1
+- pkg:nuget/libClangSharp.runtime.win-x64@14.0.0-beta1
+- pkg:nuget/libClangSharp.runtime.win-x64@15.0.0
+- pkg:nuget/libClangSharp.runtime.win-x64@16.0.0
+- pkg:nuget/libClangSharp.runtime.win-x64@16.0.6
+- pkg:nuget/libClangSharp.runtime.win-x64@17.0.4
+- pkg:nuget/libClangSharp.runtime.win-x64@18.1.3
+- pkg:nuget/libClangSharp.runtime.win-x64@18.1.3.1
+- pkg:nuget/libClangSharp.runtime.win-x64@20.1.2
+- pkg:nuget/libClangSharp.runtime.win-x64@9.0.0-beta1

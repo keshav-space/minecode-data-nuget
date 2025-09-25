@@ -1,0 +1,3 @@
+- pkg:nuget/SkbKontur.Cassandra.GlobalTimestamp@1.0.11
+- pkg:nuget/SkbKontur.Cassandra.GlobalTimestamp@1.0.13
+- pkg:nuget/SkbKontur.Cassandra.GlobalTimestamp@1.0.8

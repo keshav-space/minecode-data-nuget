@@ -1,0 +1,3 @@
+- pkg:nuget/Ninject.Extensions.WebApi.UsageLogger@1.0.0
+- pkg:nuget/Ninject.Extensions.WebApi.UsageLogger@1.0.1
+- pkg:nuget/Ninject.Extensions.WebApi.UsageLogger@1.0.1.1

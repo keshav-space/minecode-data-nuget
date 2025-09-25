@@ -1,0 +1,10 @@
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@2.1.1.11
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@2.1.1.12
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@2.1.1.9
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@3.0.2-alpha
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@3.0.3-alpha
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@3.0.4-alpha
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@3.0.5-alpha
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@3.0.6-alpha
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@3.0.7-alpha
+- pkg:nuget/PostSharp.Toolkit.Diagnostics@3.0.8-alpha

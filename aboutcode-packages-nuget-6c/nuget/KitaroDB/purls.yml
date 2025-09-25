@@ -1,0 +1,5 @@
+- pkg:nuget/KitaroDB@2.1.0.1-alpha
+- pkg:nuget/KitaroDB@2.2.0
+- pkg:nuget/KitaroDB@2.2.1
+- pkg:nuget/KitaroDB@2.3.0
+- pkg:nuget/KitaroDB@2.3.1

@@ -1,0 +1,4 @@
+- pkg:nuget/AzureAI.Community.Microsoft.Semantic.Kernel.Translation@1.0.0
+- pkg:nuget/AzureAI.Community.Microsoft.Semantic.Kernel.Translation@1.0.0-beta1
+- pkg:nuget/AzureAI.Community.Microsoft.Semantic.Kernel.Translation@1.0.1
+- pkg:nuget/AzureAI.Community.Microsoft.Semantic.Kernel.Translation@1.0.2

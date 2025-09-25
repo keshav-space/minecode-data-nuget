@@ -1,0 +1,5 @@
+- pkg:nuget/FSharp.Reactive@2.0.120725-rc
+- pkg:nuget/FSharp.Reactive@2.0.121121
+- pkg:nuget/FSharp.Reactive@2.0.6-rc
+- pkg:nuget/FSharp.Reactive@2.1.131002
+- pkg:nuget/FSharp.Reactive@2.2.131002

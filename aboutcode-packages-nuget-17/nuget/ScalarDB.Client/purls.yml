@@ -1,0 +1,5 @@
+- pkg:nuget/ScalarDB.Client@3.13.0
+- pkg:nuget/ScalarDB.Client@3.13.1
+- pkg:nuget/ScalarDB.Client@3.14.0
+- pkg:nuget/ScalarDB.Client@3.14.1
+- pkg:nuget/ScalarDB.Client@3.15.0

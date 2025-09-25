@@ -1,0 +1,13 @@
+- pkg:nuget/FluentAssertions.BestPractices@0.1.0-preview22
+- pkg:nuget/FluentAssertions.BestPractices@0.1.0-preview28
+- pkg:nuget/FluentAssertions.BestPractices@0.1.0-preview29
+- pkg:nuget/FluentAssertions.BestPractices@0.1.1-preview30
+- pkg:nuget/FluentAssertions.BestPractices@0.2.0-preview20
+- pkg:nuget/FluentAssertions.BestPractices@0.2.0-preview21
+- pkg:nuget/FluentAssertions.BestPractices@0.2.0-preview22
+- pkg:nuget/FluentAssertions.BestPractices@0.2.0-preview23
+- pkg:nuget/FluentAssertions.BestPractices@0.2.0-preview24
+- pkg:nuget/FluentAssertions.BestPractices@0.2.1-preview25
+- pkg:nuget/FluentAssertions.BestPractices@0.3.0
+- pkg:nuget/FluentAssertions.BestPractices@0.4.0
+- pkg:nuget/FluentAssertions.BestPractices@0.5.0

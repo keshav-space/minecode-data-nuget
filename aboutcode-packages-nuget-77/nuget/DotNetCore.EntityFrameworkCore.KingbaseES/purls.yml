@@ -1,0 +1,4 @@
+- pkg:nuget/DotNetCore.EntityFrameworkCore.KingbaseES@6.0.22
+- pkg:nuget/DotNetCore.EntityFrameworkCore.KingbaseES@8.0.0
+- pkg:nuget/DotNetCore.EntityFrameworkCore.KingbaseES@8.0.1
+- pkg:nuget/DotNetCore.EntityFrameworkCore.KingbaseES@9.0.0

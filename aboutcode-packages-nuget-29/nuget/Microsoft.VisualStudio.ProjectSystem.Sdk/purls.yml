@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Sdk@15.8.235
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Sdk@15.8.239
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Sdk@15.8.243
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Sdk@16.0.374-pre
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Sdk@16.2.133-pre
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Sdk@17.0.1313-pre
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Sdk@17.0.667-pre
+- pkg:nuget/Microsoft.VisualStudio.ProjectSystem.Sdk@17.2.402-pre

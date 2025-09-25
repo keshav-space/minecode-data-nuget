@@ -1,0 +1,11 @@
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.5.0.1678
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.5.1.1679
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.6.0.1625
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.7.0.1681-develop
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.7.0.1708
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.7.1.189
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.8.0.1375-develop
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.8.0.1641
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.8.1.257-develop
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.8.1.263
+- pkg:nuget/MonoGame.Framework.WindowsUniversal@3.8.1.303

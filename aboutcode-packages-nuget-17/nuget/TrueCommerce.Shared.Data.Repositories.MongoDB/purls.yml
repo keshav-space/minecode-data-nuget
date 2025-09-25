@@ -1,0 +1,13 @@
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@4.0.0%2B4746
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@5.0.0%2B4941
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@6.0.0%2B4982
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@6.1.0%2B4988
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@6.1.1%2B4992
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@6.2.0%2B4996
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@6.2.1%2B5005
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@6.2.2%2B5008
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@6.3.0%2B5604
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@6.4.0%2B5605
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@7.0.0-beta.1%2B5731
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@7.0.0-preview.5780
+- pkg:nuget/TrueCommerce.Shared.Data.Repositories.MongoDB@7.0.0-preview.6000

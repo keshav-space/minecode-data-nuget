@@ -1,0 +1,5 @@
+- pkg:nuget/libClangSharp.runtime.sles-x64@10.0.0-beta1
+- pkg:nuget/libClangSharp.runtime.sles-x64@10.0.0-beta2
+- pkg:nuget/libClangSharp.runtime.sles-x64@10.0.1-beta2
+- pkg:nuget/libClangSharp.runtime.sles-x64@10.0.2-beta2
+- pkg:nuget/libClangSharp.runtime.sles-x64@9.0.0-beta1
