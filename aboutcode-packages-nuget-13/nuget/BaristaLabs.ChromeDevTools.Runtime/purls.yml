@@ -1,0 +1,16 @@
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@60.0.3112.101-beta1
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@61.0.3163.100
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@61.0.3163.79
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@61.0.3163.79-beta1
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@61.0.3163.91
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@62.0.3202.62
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@62.0.3202.75
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@63.0.3239.84
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@64.0.3282.119
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@65.0.3325.146
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@66.0.3359.117
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@67.0.3396.87
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@68.0.3440.106
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@68.0.3440.107
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@69.0.3497.81
+- pkg:nuget/BaristaLabs.ChromeDevTools.Runtime@70.0.3538.77

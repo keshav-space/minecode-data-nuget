@@ -1,0 +1,16 @@
+- pkg:nuget/dotnet-mergenupkg@0.10.0
+- pkg:nuget/dotnet-mergenupkg@0.10.1
+- pkg:nuget/dotnet-mergenupkg@0.10.2
+- pkg:nuget/dotnet-mergenupkg@0.9.8
+- pkg:nuget/dotnet-mergenupkg@0.9.9
+- pkg:nuget/dotnet-mergenupkg@1.0.0
+- pkg:nuget/dotnet-mergenupkg@1.0.1
+- pkg:nuget/dotnet-mergenupkg@2.0.0
+- pkg:nuget/dotnet-mergenupkg@2.1.0
+- pkg:nuget/dotnet-mergenupkg@2.2.0
+- pkg:nuget/dotnet-mergenupkg@2.2.1
+- pkg:nuget/dotnet-mergenupkg@2.2.2
+- pkg:nuget/dotnet-mergenupkg@2.3.0
+- pkg:nuget/dotnet-mergenupkg@2.3.1
+- pkg:nuget/dotnet-mergenupkg@2.4.0
+- pkg:nuget/dotnet-mergenupkg@3.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/SymbioticTS.MSBuild@0.1.52-beta
+- pkg:nuget/SymbioticTS.MSBuild@0.1.55-beta
+- pkg:nuget/SymbioticTS.MSBuild@0.1.61-beta
+- pkg:nuget/SymbioticTS.MSBuild@0.1.63-beta

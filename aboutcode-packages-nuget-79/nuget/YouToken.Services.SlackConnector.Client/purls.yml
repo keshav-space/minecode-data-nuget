@@ -1,0 +1,16 @@
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.10
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.11
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.15-InitialReview
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.17-InitialReview
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.18
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.19
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.20
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.21
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.22-BlocksMessage
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.23-BlocksMessage
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.24
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.24-OptionsObj
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.25-OptionsObj
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.26
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.26-OptionsObj
+- pkg:nuget/YouToken.Services.SlackConnector.Client@0.1.0.9

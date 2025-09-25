@@ -1,0 +1,6 @@
+- pkg:nuget/AspNetCoreApp@22.0.0
+- pkg:nuget/AspNetCoreApp@22.0.1
+- pkg:nuget/AspNetCoreApp@22.0.3
+- pkg:nuget/AspNetCoreApp@22.0.5
+- pkg:nuget/AspNetCoreApp@22.0.7
+- pkg:nuget/AspNetCoreApp@6.0.9

@@ -1,0 +1,12 @@
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.1.0
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.1.2
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.2.0
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.2.2
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.3.0
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.4.0
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.5.0
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.5.2
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.6.0
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.7.0
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.7.2
+- pkg:nuget/ServiceStack.AspNetCore.OpenApi@8.8.0

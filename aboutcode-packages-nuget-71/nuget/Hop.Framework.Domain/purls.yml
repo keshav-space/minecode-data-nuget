@@ -1,0 +1,4 @@
+- pkg:nuget/Hop.Framework.Domain@1.0.0
+- pkg:nuget/Hop.Framework.Domain@1.1.0
+- pkg:nuget/Hop.Framework.Domain@2.0.0
+- pkg:nuget/Hop.Framework.Domain@4.0.0

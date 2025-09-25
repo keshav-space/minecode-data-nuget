@@ -1,0 +1,4 @@
+- pkg:nuget/Hop.Framework.Core@1.0.0
+- pkg:nuget/Hop.Framework.Core@1.1.0
+- pkg:nuget/Hop.Framework.Core@2.0.0
+- pkg:nuget/Hop.Framework.Core@4.0.0

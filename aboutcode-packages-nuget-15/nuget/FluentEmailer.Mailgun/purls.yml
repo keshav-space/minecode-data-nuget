@@ -1,0 +1,3 @@
+- pkg:nuget/FluentEmailer.Mailgun@0.5.0
+- pkg:nuget/FluentEmailer.Mailgun@1.0.0-rc1
+- pkg:nuget/FluentEmailer.Mailgun@1.0.0-rc2

@@ -1,0 +1,10 @@
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@1.0.0
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@2.0.0
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@2.1.0
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@2.1.1
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@2.6.0
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@2.7.0
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@3.0.0
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@8.0.0
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@8.0.1
+- pkg:nuget/GodelTech.Microservices.Data.EntityFrameworkCore@8.1.0

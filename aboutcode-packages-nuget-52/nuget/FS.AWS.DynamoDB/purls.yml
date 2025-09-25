@@ -1,0 +1,16 @@
+- pkg:nuget/FS.AWS.DynamoDB@1.0.0
+- pkg:nuget/FS.AWS.DynamoDB@1.0.1
+- pkg:nuget/FS.AWS.DynamoDB@1.0.2
+- pkg:nuget/FS.AWS.DynamoDB@1.0.3
+- pkg:nuget/FS.AWS.DynamoDB@6.0.0
+- pkg:nuget/FS.AWS.DynamoDB@6.0.1
+- pkg:nuget/FS.AWS.DynamoDB@6.0.2
+- pkg:nuget/FS.AWS.DynamoDB@6.23.11.2411
+- pkg:nuget/FS.AWS.DynamoDB@6.23.1124
+- pkg:nuget/FS.AWS.DynamoDB@8.0.1
+- pkg:nuget/FS.AWS.DynamoDB@9.0.0
+- pkg:nuget/FS.AWS.DynamoDB@9.0.1
+- pkg:nuget/FS.AWS.DynamoDB@9.0.3
+- pkg:nuget/FS.AWS.DynamoDB@9.0.4
+- pkg:nuget/FS.AWS.DynamoDB@9.0.5
+- pkg:nuget/FS.AWS.DynamoDB@9.0.6

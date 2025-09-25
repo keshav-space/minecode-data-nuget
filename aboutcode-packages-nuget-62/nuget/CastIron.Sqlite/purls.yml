@@ -1,0 +1,12 @@
+- pkg:nuget/CastIron.Sqlite@0.2.0
+- pkg:nuget/CastIron.Sqlite@0.3.0
+- pkg:nuget/CastIron.Sqlite@0.5.3
+- pkg:nuget/CastIron.Sqlite@0.5.4
+- pkg:nuget/CastIron.Sqlite@0.6.0
+- pkg:nuget/CastIron.Sqlite@0.7.0
+- pkg:nuget/CastIron.Sqlite@0.9.0
+- pkg:nuget/CastIron.Sqlite@1.0.0
+- pkg:nuget/CastIron.Sqlite@2.0.0
+- pkg:nuget/CastIron.Sqlite@2.0.0-alpha3
+- pkg:nuget/CastIron.Sqlite@2.0.0-alpha4
+- pkg:nuget/CastIron.Sqlite@2.1.0

@@ -1,0 +1,14 @@
+- pkg:nuget/KeycloakAdapter@2.0.2
+- pkg:nuget/KeycloakAdapter@2.0.3
+- pkg:nuget/KeycloakAdapter@2.0.4
+- pkg:nuget/KeycloakAdapter@2.1.0
+- pkg:nuget/KeycloakAdapter@2.1.1
+- pkg:nuget/KeycloakAdapter@2.1.2
+- pkg:nuget/KeycloakAdapter@2.2.0
+- pkg:nuget/KeycloakAdapter@2.2.1
+- pkg:nuget/KeycloakAdapter@2.2.2
+- pkg:nuget/KeycloakAdapter@2.2.3
+- pkg:nuget/KeycloakAdapter@2.3.0
+- pkg:nuget/KeycloakAdapter@2.4.0
+- pkg:nuget/KeycloakAdapter@2.4.1
+- pkg:nuget/KeycloakAdapter@2.5.0

@@ -1,0 +1,12 @@
+- pkg:nuget/RestBus.ServiceStack@0.4.0-beta
+- pkg:nuget/RestBus.ServiceStack@0.4.1-beta
+- pkg:nuget/RestBus.ServiceStack@0.4.2-beta
+- pkg:nuget/RestBus.ServiceStack@0.4.3-beta
+- pkg:nuget/RestBus.ServiceStack@0.5.0-beta
+- pkg:nuget/RestBus.ServiceStack@0.5.2-beta
+- pkg:nuget/RestBus.ServiceStack@0.5.3-beta
+- pkg:nuget/RestBus.ServiceStack@0.5.4-beta
+- pkg:nuget/RestBus.ServiceStack@0.5.4-rc1
+- pkg:nuget/RestBus.ServiceStack@0.5.5
+- pkg:nuget/RestBus.ServiceStack@0.5.6
+- pkg:nuget/RestBus.ServiceStack@0.5.7

@@ -1,0 +1,2 @@
+- pkg:nuget/runtime.win10-arm-aot.runtime.native.System.IO.Compression@0.0.1-alpha
+- pkg:nuget/runtime.win10-arm-aot.runtime.native.System.IO.Compression@4.0.1

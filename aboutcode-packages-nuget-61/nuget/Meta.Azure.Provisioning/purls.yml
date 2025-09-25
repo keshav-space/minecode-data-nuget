@@ -1,0 +1,5 @@
+- pkg:nuget/Meta.Azure.Provisioning@1.0.0-preview1
+- pkg:nuget/Meta.Azure.Provisioning@1.0.0-preview2
+- pkg:nuget/Meta.Azure.Provisioning@1.0.0-preview3
+- pkg:nuget/Meta.Azure.Provisioning@1.0.0-preview4
+- pkg:nuget/Meta.Azure.Provisioning@1.0.0-preview5

@@ -1,0 +1,11 @@
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@7.1.0
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@7.1.0-beta1
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@7.1.1
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@7.1.2
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@7.2.0
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@7.2.0-beta1
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@7.3.0
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@8.0.0
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@8.0.0-beta1
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@8.0.0-beta2
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@8.0.0-beta3

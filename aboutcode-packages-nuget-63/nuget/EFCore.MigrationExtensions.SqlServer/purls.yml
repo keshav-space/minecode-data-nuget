@@ -1,0 +1,8 @@
+- pkg:nuget/EFCore.MigrationExtensions.SqlServer@6.0.0
+- pkg:nuget/EFCore.MigrationExtensions.SqlServer@6.0.1
+- pkg:nuget/EFCore.MigrationExtensions.SqlServer@7.0.0
+- pkg:nuget/EFCore.MigrationExtensions.SqlServer@7.0.1
+- pkg:nuget/EFCore.MigrationExtensions.SqlServer@8.0.0
+- pkg:nuget/EFCore.MigrationExtensions.SqlServer@8.0.1
+- pkg:nuget/EFCore.MigrationExtensions.SqlServer@9.0.0
+- pkg:nuget/EFCore.MigrationExtensions.SqlServer@9.0.1

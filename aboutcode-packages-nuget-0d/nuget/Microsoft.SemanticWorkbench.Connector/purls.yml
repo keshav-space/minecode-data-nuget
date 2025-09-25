@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.SemanticWorkbench.Connector@0.1.240910.6%2B22fa2ea
+- pkg:nuget/Microsoft.SemanticWorkbench.Connector@0.2.241009.1%2B031eaf2
+- pkg:nuget/Microsoft.SemanticWorkbench.Connector@0.3.241104.1%2B8db5455
+- pkg:nuget/Microsoft.SemanticWorkbench.Connector@0.4.241125.1%2Be44d525
+- pkg:nuget/Microsoft.SemanticWorkbench.Connector@0.4.241126.1%2B256123e

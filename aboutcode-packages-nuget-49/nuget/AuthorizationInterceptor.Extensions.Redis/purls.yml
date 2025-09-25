@@ -1,0 +1,8 @@
+- pkg:nuget/AuthorizationInterceptor.Extensions.Redis@1.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.Redis@1.0.0-beta1
+- pkg:nuget/AuthorizationInterceptor.Extensions.Redis@2.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.Redis@2.0.0-beta1
+- pkg:nuget/AuthorizationInterceptor.Extensions.Redis@2.1.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.Redis@2.1.1
+- pkg:nuget/AuthorizationInterceptor.Extensions.Redis@2.1.2
+- pkg:nuget/AuthorizationInterceptor.Extensions.Redis@2.2.0

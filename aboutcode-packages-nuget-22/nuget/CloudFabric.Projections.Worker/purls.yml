@@ -1,0 +1,8 @@
+- pkg:nuget/CloudFabric.Projections.Worker@0.1.6
+- pkg:nuget/CloudFabric.Projections.Worker@0.1.6-add-worker-nuget-20232508104106
+- pkg:nuget/CloudFabric.Projections.Worker@0.2.0
+- pkg:nuget/CloudFabric.Projections.Worker@0.2.0-feature-projections-rebuild-20232908124046
+- pkg:nuget/CloudFabric.Projections.Worker@0.2.1
+- pkg:nuget/CloudFabric.Projections.Worker@0.2.1-todo-update-20233008172343
+- pkg:nuget/CloudFabric.Projections.Worker@0.2.2
+- pkg:nuget/CloudFabric.Projections.Worker@0.2.2-update-ts-filter-package-20252703150352

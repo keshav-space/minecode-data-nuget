@@ -1,0 +1,4 @@
+- pkg:nuget/APIWeaver.MsBuild@2.4.2
+- pkg:nuget/APIWeaver.MsBuild@2.5.0-preview.1
+- pkg:nuget/APIWeaver.MsBuild@2.5.0-preview.2
+- pkg:nuget/APIWeaver.MsBuild@2.5.0-preview.3

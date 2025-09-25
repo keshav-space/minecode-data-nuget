@@ -1,0 +1,5 @@
+- pkg:nuget/RiotGamesApi.AspNet@1.8.11.2139
+- pkg:nuget/RiotGamesApi.AspNet@1.8.12.1606
+- pkg:nuget/RiotGamesApi.AspNet@1.9.1.1804
+- pkg:nuget/RiotGamesApi.AspNet@1.9.29.2204
+- pkg:nuget/RiotGamesApi.AspNet@2.2.1.9999

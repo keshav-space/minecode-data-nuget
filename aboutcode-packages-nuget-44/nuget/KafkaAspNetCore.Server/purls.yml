@@ -1,0 +1,5 @@
+- pkg:nuget/KafkaAspNetCore.Server@0.1.2-alpha4
+- pkg:nuget/KafkaAspNetCore.Server@0.1.2-alpha5
+- pkg:nuget/KafkaAspNetCore.Server@0.1.2-alpha6
+- pkg:nuget/KafkaAspNetCore.Server@0.2.0
+- pkg:nuget/KafkaAspNetCore.Server@0.2.1

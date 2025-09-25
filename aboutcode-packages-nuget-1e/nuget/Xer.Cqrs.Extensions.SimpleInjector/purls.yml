@@ -1,0 +1,4 @@
+- pkg:nuget/Xer.Cqrs.Extensions.SimpleInjector@1.0.0
+- pkg:nuget/Xer.Cqrs.Extensions.SimpleInjector@2.0.0
+- pkg:nuget/Xer.Cqrs.Extensions.SimpleInjector@2.0.0-PullRequest0004
+- pkg:nuget/Xer.Cqrs.Extensions.SimpleInjector@2.0.1

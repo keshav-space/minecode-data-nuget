@@ -1,0 +1,9 @@
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@10.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@11.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@12.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@12.0.1
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@5.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@8.1.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@8.2.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@9.0.0
+- pkg:nuget/IntelligentPlant.BackgroundTasks.OpenTelemetry@9.1.0

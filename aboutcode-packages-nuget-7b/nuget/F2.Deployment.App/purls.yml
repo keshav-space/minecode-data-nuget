@@ -1,0 +1,15 @@
+- pkg:nuget/F2.Deployment.App@0.0.1-testing
+- pkg:nuget/F2.Deployment.App@0.0.2-testing
+- pkg:nuget/F2.Deployment.App@0.1.0-testing
+- pkg:nuget/F2.Deployment.App@0.1.1-testing
+- pkg:nuget/F2.Deployment.App@0.1.2-testing
+- pkg:nuget/F2.Deployment.App@0.2.0-jb-44-librarian-services
+- pkg:nuget/F2.Deployment.App@0.2.1-jb-44-librarian-services
+- pkg:nuget/F2.Deployment.App@0.2.2-testing
+- pkg:nuget/F2.Deployment.App@0.2.3-testing
+- pkg:nuget/F2.Deployment.App@0.3.0-testing
+- pkg:nuget/F2.Deployment.App@0.3.1-testing
+- pkg:nuget/F2.Deployment.App@0.3.2-testing
+- pkg:nuget/F2.Deployment.App@0.4.0-testing
+- pkg:nuget/F2.Deployment.App@0.5.0-testing
+- pkg:nuget/F2.Deployment.App@0.6.0-testing

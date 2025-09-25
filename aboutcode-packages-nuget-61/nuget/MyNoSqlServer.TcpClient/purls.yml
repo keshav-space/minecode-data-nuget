@@ -1,0 +1,6 @@
+- pkg:nuget/MyNoSqlServer.TcpClient@1.0.0
+- pkg:nuget/MyNoSqlServer.TcpClient@1.0.1
+- pkg:nuget/MyNoSqlServer.TcpClient@1.1.0
+- pkg:nuget/MyNoSqlServer.TcpClient@1.1.1
+- pkg:nuget/MyNoSqlServer.TcpClient@1.1.2
+- pkg:nuget/MyNoSqlServer.TcpClient@1.1.3-rc-00001

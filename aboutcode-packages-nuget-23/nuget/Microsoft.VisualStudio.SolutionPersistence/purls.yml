@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.VisualStudio.SolutionPersistence@1.0.23
+- pkg:nuget/Microsoft.VisualStudio.SolutionPersistence@1.0.24
+- pkg:nuget/Microsoft.VisualStudio.SolutionPersistence@1.0.26
+- pkg:nuget/Microsoft.VisualStudio.SolutionPersistence@1.0.28
+- pkg:nuget/Microsoft.VisualStudio.SolutionPersistence@1.0.52
+- pkg:nuget/Microsoft.VisualStudio.SolutionPersistence@1.0.9

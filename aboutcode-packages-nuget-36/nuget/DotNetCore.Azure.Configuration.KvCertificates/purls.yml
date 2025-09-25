@@ -1,0 +1,3 @@
+- pkg:nuget/DotNetCore.Azure.Configuration.KvCertificates@6.0.2
+- pkg:nuget/DotNetCore.Azure.Configuration.KvCertificates@7.0.0
+- pkg:nuget/DotNetCore.Azure.Configuration.KvCertificates@8.0.0

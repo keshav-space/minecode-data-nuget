@@ -1,0 +1,4 @@
+- pkg:nuget/Hop.Framework.EFCore@1.0.0
+- pkg:nuget/Hop.Framework.EFCore@1.1.0
+- pkg:nuget/Hop.Framework.EFCore@2.0.0
+- pkg:nuget/Hop.Framework.EFCore@4.0.0

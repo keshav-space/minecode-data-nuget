@@ -1,0 +1,4 @@
+- pkg:nuget/Nuages.PubSub.API.Controllers@1.0.25
+- pkg:nuget/Nuages.PubSub.API.Controllers@1.0.26
+- pkg:nuget/Nuages.PubSub.API.Controllers@1.1.0
+- pkg:nuget/Nuages.PubSub.API.Controllers@1.2.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.MongoDB@2.0.0
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.MongoDB@2.1.0
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.MongoDB@2.1.2
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.MongoDB@2.2.0
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.MongoDB@3.0.0

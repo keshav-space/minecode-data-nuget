@@ -1,0 +1,12 @@
+- pkg:nuget/Panelak.Database.SqlServer@2.0.0
+- pkg:nuget/Panelak.Database.SqlServer@3.0.0
+- pkg:nuget/Panelak.Database.SqlServer@3.0.1
+- pkg:nuget/Panelak.Database.SqlServer@3.0.2
+- pkg:nuget/Panelak.Database.SqlServer@4.0.0
+- pkg:nuget/Panelak.Database.SqlServer@4.0.1
+- pkg:nuget/Panelak.Database.SqlServer@5.0.0
+- pkg:nuget/Panelak.Database.SqlServer@6.0.0
+- pkg:nuget/Panelak.Database.SqlServer@7.0.0
+- pkg:nuget/Panelak.Database.SqlServer@7.0.1
+- pkg:nuget/Panelak.Database.SqlServer@7.1.0
+- pkg:nuget/Panelak.Database.SqlServer@8.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Sdz.Serilog.Pack@1.0.0
+- pkg:nuget/Sdz.Serilog.Pack@2.0.0
+- pkg:nuget/Sdz.Serilog.Pack@6.0.0
+- pkg:nuget/Sdz.Serilog.Pack@6.0.1
+- pkg:nuget/Sdz.Serilog.Pack@6.0.2
+- pkg:nuget/Sdz.Serilog.Pack@8.0.0

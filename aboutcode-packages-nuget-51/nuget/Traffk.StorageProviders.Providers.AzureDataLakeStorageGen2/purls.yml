@@ -1,0 +1,9 @@
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.1.1
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.1.2
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.10.313
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.10.31301
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.11.313
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.14.313
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.15.31
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.7.301
+- pkg:nuget/Traffk.StorageProviders.Providers.AzureDataLakeStorageGen2@3.8.313

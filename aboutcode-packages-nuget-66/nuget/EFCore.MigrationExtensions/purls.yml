@@ -1,0 +1,8 @@
+- pkg:nuget/EFCore.MigrationExtensions@6.0.0
+- pkg:nuget/EFCore.MigrationExtensions@6.0.1
+- pkg:nuget/EFCore.MigrationExtensions@7.0.0
+- pkg:nuget/EFCore.MigrationExtensions@7.0.1
+- pkg:nuget/EFCore.MigrationExtensions@8.0.0
+- pkg:nuget/EFCore.MigrationExtensions@8.0.1
+- pkg:nuget/EFCore.MigrationExtensions@9.0.0
+- pkg:nuget/EFCore.MigrationExtensions@9.0.1

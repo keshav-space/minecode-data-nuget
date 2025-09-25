@@ -1,0 +1,7 @@
+- pkg:nuget/ServiceStack.Jobs@8.4.0
+- pkg:nuget/ServiceStack.Jobs@8.5.0
+- pkg:nuget/ServiceStack.Jobs@8.5.2
+- pkg:nuget/ServiceStack.Jobs@8.6.0
+- pkg:nuget/ServiceStack.Jobs@8.7.0
+- pkg:nuget/ServiceStack.Jobs@8.7.2
+- pkg:nuget/ServiceStack.Jobs@8.8.0

@@ -1,0 +1,7 @@
+- pkg:nuget/DNVGL.One.Telemetry.Core.ApplicationInsights@4.0.0
+- pkg:nuget/DNVGL.One.Telemetry.Core.ApplicationInsights@4.2.0
+- pkg:nuget/DNVGL.One.Telemetry.Core.ApplicationInsights@4.3.1
+- pkg:nuget/DNVGL.One.Telemetry.Core.ApplicationInsights@4.5.0
+- pkg:nuget/DNVGL.One.Telemetry.Core.ApplicationInsights@5.0.1
+- pkg:nuget/DNVGL.One.Telemetry.Core.ApplicationInsights@5.3.0
+- pkg:nuget/DNVGL.One.Telemetry.Core.ApplicationInsights@5.4.0

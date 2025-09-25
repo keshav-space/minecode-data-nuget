@@ -1,0 +1,5 @@
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.Sql@2.0.0
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.Sql@2.1.0
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.Sql@2.1.2
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.Sql@2.2.0
+- pkg:nuget/Weapsy.Cqrs.EventStore.CosmosDB.Sql@3.0.0

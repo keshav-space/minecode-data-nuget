@@ -1,0 +1,11 @@
+- pkg:nuget/Mapster.EFCore@1.0.0
+- pkg:nuget/Mapster.EFCore@1.1.0
+- pkg:nuget/Mapster.EFCore@3.0.0
+- pkg:nuget/Mapster.EFCore@5.0.0
+- pkg:nuget/Mapster.EFCore@5.1.0
+- pkg:nuget/Mapster.EFCore@5.1.1
+- pkg:nuget/Mapster.EFCore@5.1.1-pre01
+- pkg:nuget/Mapster.EFCore@5.1.1-pre02
+- pkg:nuget/Mapster.EFCore@5.1.2-pre01
+- pkg:nuget/Mapster.EFCore@5.1.3-pre01
+- pkg:nuget/Mapster.EFCore@5.1.3-pre02

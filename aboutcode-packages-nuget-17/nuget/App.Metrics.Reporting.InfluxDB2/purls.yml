@@ -1,0 +1,2 @@
+- pkg:nuget/App.Metrics.Reporting.InfluxDB2@4.2.0
+- pkg:nuget/App.Metrics.Reporting.InfluxDB2@4.2.1

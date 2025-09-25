@@ -1,0 +1,4 @@
+- pkg:nuget/MassTransit.Autofac.StateMachineSagas@0.1.0
+- pkg:nuget/MassTransit.Autofac.StateMachineSagas@3.2.4
+- pkg:nuget/MassTransit.Autofac.StateMachineSagas@3.2.4.1
+- pkg:nuget/MassTransit.Autofac.StateMachineSagas@3.4.0

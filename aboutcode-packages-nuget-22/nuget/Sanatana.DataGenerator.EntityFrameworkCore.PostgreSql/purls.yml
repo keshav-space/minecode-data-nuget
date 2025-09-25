@@ -1,0 +1,9 @@
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.0.0
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.1.0
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.2.0
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.3.0
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.3.1
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.3.2
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.4.0
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.5.0
+- pkg:nuget/Sanatana.DataGenerator.EntityFrameworkCore.PostgreSql@3.6.0

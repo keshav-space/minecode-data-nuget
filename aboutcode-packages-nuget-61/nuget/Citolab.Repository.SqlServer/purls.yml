@@ -1,0 +1,9 @@
+- pkg:nuget/Citolab.Repository.SqlServer@1.0.0
+- pkg:nuget/Citolab.Repository.SqlServer@1.0.0-alpha
+- pkg:nuget/Citolab.Repository.SqlServer@1.0.1-alpha
+- pkg:nuget/Citolab.Repository.SqlServer@2018.1.28.3
+- pkg:nuget/Citolab.Repository.SqlServer@2018.1.28.4
+- pkg:nuget/Citolab.Repository.SqlServer@2018.1.28.5
+- pkg:nuget/Citolab.Repository.SqlServer@2018.1.29.1
+- pkg:nuget/Citolab.Repository.SqlServer@2018.1.29.3
+- pkg:nuget/Citolab.Repository.SqlServer@2018.1.29.5

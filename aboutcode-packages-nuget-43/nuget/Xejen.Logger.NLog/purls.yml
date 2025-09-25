@@ -1,0 +1,5 @@
+- pkg:nuget/Xejen.Logger.NLog@2024.5.13.1
+- pkg:nuget/Xejen.Logger.NLog@2024.7.23.1
+- pkg:nuget/Xejen.Logger.NLog@2024.9.11.1
+- pkg:nuget/Xejen.Logger.NLog@2024.9.11.2
+- pkg:nuget/Xejen.Logger.NLog@2025.3.14.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Hop.Framework.UnitTests@1.0.0
+- pkg:nuget/Hop.Framework.UnitTests@1.1.0
+- pkg:nuget/Hop.Framework.UnitTests@2.0.0
+- pkg:nuget/Hop.Framework.UnitTests@4.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/OpenVINO.runtime.debian10-armhf@2024.3.0.1
+- pkg:nuget/OpenVINO.runtime.debian10-armhf@2024.4.0.1

@@ -1,0 +1,3 @@
+- pkg:nuget/XCell.EntityFrameworkCore.MySql@2.0.0
+- pkg:nuget/XCell.EntityFrameworkCore.MySql@2.0.0.1-Resilliency
+- pkg:nuget/XCell.EntityFrameworkCore.MySql@2.0.1

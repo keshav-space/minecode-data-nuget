@@ -1,0 +1,16 @@
+- pkg:nuget/AuthorizationInterceptor@1.0.0
+- pkg:nuget/AuthorizationInterceptor@1.0.0-beta1
+- pkg:nuget/AuthorizationInterceptor@1.1.0-beta1
+- pkg:nuget/AuthorizationInterceptor@1.1.1-beta1
+- pkg:nuget/AuthorizationInterceptor@1.1.2-beta1
+- pkg:nuget/AuthorizationInterceptor@1.2.1-beta1
+- pkg:nuget/AuthorizationInterceptor@2.0.0
+- pkg:nuget/AuthorizationInterceptor@2.0.0-beta1
+- pkg:nuget/AuthorizationInterceptor@2.1.0
+- pkg:nuget/AuthorizationInterceptor@2.1.2
+- pkg:nuget/AuthorizationInterceptor@2.2.0
+- pkg:nuget/AuthorizationInterceptor@4.0.0
+- pkg:nuget/AuthorizationInterceptor@5.0.0
+- pkg:nuget/AuthorizationInterceptor@5.0.0-beta
+- pkg:nuget/AuthorizationInterceptor@5.0.0-preview-1
+- pkg:nuget/AuthorizationInterceptor@5.0.1
