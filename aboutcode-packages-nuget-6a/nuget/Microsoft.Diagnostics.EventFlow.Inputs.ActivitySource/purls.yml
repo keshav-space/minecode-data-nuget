@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.ActivitySource@1.0.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.ActivitySource@1.0.1

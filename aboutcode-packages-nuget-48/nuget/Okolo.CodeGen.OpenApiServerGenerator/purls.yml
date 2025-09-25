@@ -1,0 +1,5 @@
+- pkg:nuget/Okolo.CodeGen.OpenApiServerGenerator@1.1.25
+- pkg:nuget/Okolo.CodeGen.OpenApiServerGenerator@1.2.1
+- pkg:nuget/Okolo.CodeGen.OpenApiServerGenerator@1.2.5
+- pkg:nuget/Okolo.CodeGen.OpenApiServerGenerator@1.2.6
+- pkg:nuget/Okolo.CodeGen.OpenApiServerGenerator@1.2.7

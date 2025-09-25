@@ -1,0 +1,2 @@
+- pkg:nuget/opencv.win.native.static@310.4.0
+- pkg:nuget/opencv.win.native.static@310.4.112316-dev

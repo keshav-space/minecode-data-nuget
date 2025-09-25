@@ -1,0 +1,2 @@
+- pkg:nuget/WebJobs.Extensions.HttpTelemetryProcessor@1.0.0
+- pkg:nuget/WebJobs.Extensions.HttpTelemetryProcessor@1.0.1

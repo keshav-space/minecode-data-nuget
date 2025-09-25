@@ -1,0 +1,2 @@
+- pkg:nuget/NetEvolve.HealthChecks.ArangoDb@4.14.3
+- pkg:nuget/NetEvolve.HealthChecks.ArangoDb@4.15.1

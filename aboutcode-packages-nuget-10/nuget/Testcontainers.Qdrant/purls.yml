@@ -1,0 +1,4 @@
+- pkg:nuget/Testcontainers.Qdrant@4.4.0
+- pkg:nuget/Testcontainers.Qdrant@4.5.0
+- pkg:nuget/Testcontainers.Qdrant@4.6.0
+- pkg:nuget/Testcontainers.Qdrant@4.7.0

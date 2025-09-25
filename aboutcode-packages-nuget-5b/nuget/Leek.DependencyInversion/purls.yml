@@ -1,0 +1,3 @@
+- pkg:nuget/Leek.DependencyInversion@0.0.3-alpha1
+- pkg:nuget/Leek.DependencyInversion@1.0.0-beta1
+- pkg:nuget/Leek.DependencyInversion@1.0.0-beta2

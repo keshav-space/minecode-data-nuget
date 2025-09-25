@@ -1,0 +1,5 @@
+- pkg:nuget/Testcontainers.EventHubs@4.3.0
+- pkg:nuget/Testcontainers.EventHubs@4.4.0
+- pkg:nuget/Testcontainers.EventHubs@4.5.0
+- pkg:nuget/Testcontainers.EventHubs@4.6.0
+- pkg:nuget/Testcontainers.EventHubs@4.7.0

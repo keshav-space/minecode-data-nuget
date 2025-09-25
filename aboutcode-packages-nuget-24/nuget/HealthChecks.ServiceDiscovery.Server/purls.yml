@@ -1,0 +1,17 @@
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@1.0.0
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.17.1
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.17.2
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.2.11
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.2.12
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.2.13
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.2.15
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.2.19
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.2.21
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.2.22
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.2.23
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.3.1
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.3.2
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.3.3
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.4.1
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@2024.3.5.1
+- pkg:nuget/HealthChecks.ServiceDiscovery.Server@8.0.0

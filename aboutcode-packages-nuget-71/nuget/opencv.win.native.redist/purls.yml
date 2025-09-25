@@ -1,0 +1,17 @@
+- pkg:nuget/opencv.win.native.redist@310.0.1
+- pkg:nuget/opencv.win.native.redist@310.0.2
+- pkg:nuget/opencv.win.native.redist@310.1.0
+- pkg:nuget/opencv.win.native.redist@310.1.102916-dev
+- pkg:nuget/opencv.win.native.redist@310.10.121616-vs150-dev
+- pkg:nuget/opencv.win.native.redist@310.2.0
+- pkg:nuget/opencv.win.native.redist@310.2.103116-dev
+- pkg:nuget/opencv.win.native.redist@310.3.0
+- pkg:nuget/opencv.win.native.redist@310.3.103116-dev
+- pkg:nuget/opencv.win.native.redist@310.3.120516-dev
+- pkg:nuget/opencv.win.native.redist@310.7.120516-dev
+- pkg:nuget/opencv.win.native.redist@310.8.0-vs141-beta
+- pkg:nuget/opencv.win.native.redist@310.8.120816-vs141-beta
+- pkg:nuget/opencv.win.native.redist@310.9.0-vs150-beta
+- pkg:nuget/opencv.win.native.redist@310.9.121616-vs150-dev
+- pkg:nuget/opencv.win.native.redist@320.1.0-vs141
+- pkg:nuget/opencv.win.native.redist@320.1.1-vs141

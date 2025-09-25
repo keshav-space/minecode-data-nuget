@@ -1,0 +1,2 @@
+- pkg:nuget/Signals.Aspects.Logging.Serilog@2.0.3
+- pkg:nuget/Signals.Aspects.Logging.Serilog@3.0.0

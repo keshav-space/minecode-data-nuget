@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.AzureQueueStorage@0.2.0

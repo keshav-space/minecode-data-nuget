@@ -1,0 +1,8 @@
+- pkg:nuget/MsBuildTools.PackWithProjects@0.0.0-dev
+- pkg:nuget/MsBuildTools.PackWithProjects@0.1.0-dev
+- pkg:nuget/MsBuildTools.PackWithProjects@0.1.101-dev
+- pkg:nuget/MsBuildTools.PackWithProjects@0.1.104-dev
+- pkg:nuget/MsBuildTools.PackWithProjects@0.1.106-dev
+- pkg:nuget/MsBuildTools.PackWithProjects@0.1.108-dev
+- pkg:nuget/MsBuildTools.PackWithProjects@0.1.110
+- pkg:nuget/MsBuildTools.PackWithProjects@0.1.99-dev

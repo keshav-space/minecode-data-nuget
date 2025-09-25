@@ -1,0 +1,12 @@
+- pkg:nuget/Slalom.Stacks.Akka@1.6.1
+- pkg:nuget/Slalom.Stacks.Akka@1.6.3-develop-00040
+- pkg:nuget/Slalom.Stacks.Akka@1.7.1-develop-00041
+- pkg:nuget/Slalom.Stacks.Akka@1.8.1-develop-00048
+- pkg:nuget/Slalom.Stacks.Akka@1.8.12
+- pkg:nuget/Slalom.Stacks.Akka@1.8.12-develop-00057
+- pkg:nuget/Slalom.Stacks.Akka@1.8.6
+- pkg:nuget/Slalom.Stacks.Akka@1.8.6-develop-00050
+- pkg:nuget/Slalom.Stacks.Akka@1.8.8
+- pkg:nuget/Slalom.Stacks.Akka@1.8.8-develop-00054
+- pkg:nuget/Slalom.Stacks.Akka@1.9.3
+- pkg:nuget/Slalom.Stacks.Akka@1.9.5

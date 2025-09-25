@@ -1,0 +1,4 @@
+- pkg:nuget/TestNuGetLibrary@1.0.0
+- pkg:nuget/TestNuGetLibrary@1.1.0
+- pkg:nuget/TestNuGetLibrary@2.0.0
+- pkg:nuget/TestNuGetLibrary@3.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/CNative.Dapper.EntityFramework@2.0.117
+- pkg:nuget/CNative.Dapper.EntityFramework@2.0.120
+- pkg:nuget/CNative.Dapper.EntityFramework@2.0.95

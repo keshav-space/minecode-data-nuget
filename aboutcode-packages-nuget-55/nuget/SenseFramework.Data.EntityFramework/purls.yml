@@ -1,0 +1,4 @@
+- pkg:nuget/SenseFramework.Data.EntityFramework@2.1.27
+- pkg:nuget/SenseFramework.Data.EntityFramework@2.1.36
+- pkg:nuget/SenseFramework.Data.EntityFramework@2.1.39
+- pkg:nuget/SenseFramework.Data.EntityFramework@2.1.40

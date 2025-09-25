@@ -1,0 +1,4 @@
+- pkg:nuget/DarkLink.OpenFaaS@0.0.1
+- pkg:nuget/DarkLink.OpenFaaS@0.0.2-dev
+- pkg:nuget/DarkLink.OpenFaaS@0.0.3-dev
+- pkg:nuget/DarkLink.OpenFaaS@0.0.4-dev

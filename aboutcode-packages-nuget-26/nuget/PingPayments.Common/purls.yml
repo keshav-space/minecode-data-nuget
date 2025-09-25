@@ -1,0 +1,9 @@
+- pkg:nuget/PingPayments.Common@0.1.0-alpha
+- pkg:nuget/PingPayments.Common@1.0.0
+- pkg:nuget/PingPayments.Common@1.0.1
+- pkg:nuget/PingPayments.Common@1.2.0
+- pkg:nuget/PingPayments.Common@1.3.0
+- pkg:nuget/PingPayments.Common@1.4.0
+- pkg:nuget/PingPayments.Common@1.5.0
+- pkg:nuget/PingPayments.Common@1.6.0
+- pkg:nuget/PingPayments.Common@1.6.1

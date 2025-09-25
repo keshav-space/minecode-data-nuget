@@ -1,0 +1,6 @@
+- pkg:nuget/NLog.Targets.FireDotNet@0.2.30.34
+- pkg:nuget/NLog.Targets.FireDotNet@0.2.31.28
+- pkg:nuget/NLog.Targets.FireDotNet@0.2.33.29
+- pkg:nuget/NLog.Targets.FireDotNet@0.3.1
+- pkg:nuget/NLog.Targets.FireDotNet@0.3.7
+- pkg:nuget/NLog.Targets.FireDotNet@0.3.9

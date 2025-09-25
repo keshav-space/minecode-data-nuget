@@ -1,0 +1,5 @@
+- pkg:nuget/Colder.MessageBus.MassTransit@1.0.0
+- pkg:nuget/Colder.MessageBus.MassTransit@1.0.0-CI-20200917-135718
+- pkg:nuget/Colder.MessageBus.MassTransit@1.0.1
+- pkg:nuget/Colder.MessageBus.MassTransit@1.0.2
+- pkg:nuget/Colder.MessageBus.MassTransit@1.0.3

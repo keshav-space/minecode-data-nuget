@@ -1,0 +1,11 @@
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@0.5.11
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@0.5.12
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.11
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.12
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.13
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.14
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.16
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.17
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.18
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.19
+- pkg:nuget/Rixian.Extensions.ApplicationInsights.Kubernetes@2.1.6

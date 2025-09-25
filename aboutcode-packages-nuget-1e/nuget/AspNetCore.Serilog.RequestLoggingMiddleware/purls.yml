@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCore.Serilog.RequestLoggingMiddleware@1.0.1
+- pkg:nuget/AspNetCore.Serilog.RequestLoggingMiddleware@1.0.2

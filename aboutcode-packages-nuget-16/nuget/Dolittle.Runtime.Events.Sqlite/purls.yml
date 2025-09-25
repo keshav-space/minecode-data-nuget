@@ -1,0 +1,3 @@
+- pkg:nuget/Dolittle.Runtime.Events.Sqlite@1.0.1
+- pkg:nuget/Dolittle.Runtime.Events.Sqlite@1.0.2
+- pkg:nuget/Dolittle.Runtime.Events.Sqlite@2.0.0

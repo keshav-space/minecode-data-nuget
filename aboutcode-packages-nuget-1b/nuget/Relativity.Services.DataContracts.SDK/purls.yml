@@ -1,0 +1,4 @@
+- pkg:nuget/Relativity.Services.DataContracts.SDK@13.2.8
+- pkg:nuget/Relativity.Services.DataContracts.SDK@13.3.0
+- pkg:nuget/Relativity.Services.DataContracts.SDK@13.5.0
+- pkg:nuget/Relativity.Services.DataContracts.SDK@13.6.2

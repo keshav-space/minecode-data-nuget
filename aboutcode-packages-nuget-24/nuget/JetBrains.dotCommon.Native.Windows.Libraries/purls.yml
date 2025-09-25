@@ -1,0 +1,4 @@
+- pkg:nuget/JetBrains.dotCommon.Native.Windows.Libraries@112.0.20180305.130115-eap02
+- pkg:nuget/JetBrains.dotCommon.Native.Windows.Libraries@112.0.20180316.124923-eap03
+- pkg:nuget/JetBrains.dotCommon.Native.Windows.Libraries@112.0.20180323.173412-eap04
+- pkg:nuget/JetBrains.dotCommon.Native.Windows.Libraries@112.0.20180328.222859-eap05

@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.Azure.TableStorage.Compact.Core@0.0.2

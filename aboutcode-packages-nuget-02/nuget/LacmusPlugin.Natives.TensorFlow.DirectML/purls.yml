@@ -1,0 +1,2 @@
+- pkg:nuget/LacmusPlugin.Natives.TensorFlow.DirectML@1.15.4
+- pkg:nuget/LacmusPlugin.Natives.TensorFlow.DirectML@1.15.7

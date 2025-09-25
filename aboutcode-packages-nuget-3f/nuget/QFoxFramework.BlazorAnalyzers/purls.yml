@@ -1,0 +1,6 @@
+- pkg:nuget/QFoxFramework.BlazorAnalyzers@0.9.8-beta
+- pkg:nuget/QFoxFramework.BlazorAnalyzers@0.9.9-beta
+- pkg:nuget/QFoxFramework.BlazorAnalyzers@1.0.0
+- pkg:nuget/QFoxFramework.BlazorAnalyzers@1.1.0
+- pkg:nuget/QFoxFramework.BlazorAnalyzers@1.1.1
+- pkg:nuget/QFoxFramework.BlazorAnalyzers@1.2.0

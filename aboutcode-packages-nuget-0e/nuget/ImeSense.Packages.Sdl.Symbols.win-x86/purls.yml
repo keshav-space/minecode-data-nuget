@@ -1,0 +1,5 @@
+- pkg:nuget/ImeSense.Packages.Sdl.Symbols.win-x86@2.28.5.1
+- pkg:nuget/ImeSense.Packages.Sdl.Symbols.win-x86@2.28.5.2
+- pkg:nuget/ImeSense.Packages.Sdl.Symbols.win-x86@2023.12.9.1-open
+- pkg:nuget/ImeSense.Packages.Sdl.Symbols.win-x86@2023.12.9.2-open
+- pkg:nuget/ImeSense.Packages.Sdl.Symbols.win-x86@2024.3.16-open

@@ -1,0 +1,3 @@
+- pkg:nuget/Ground.Extensions.MessageBus.MessageInbox@1.0.0
+- pkg:nuget/Ground.Extensions.MessageBus.MessageInbox@2.0.0
+- pkg:nuget/Ground.Extensions.MessageBus.MessageInbox@3.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Altavec.Aspire.Hosting.PostgreSQL@9.2.1
+- pkg:nuget/Altavec.Aspire.Hosting.PostgreSQL@9.3.0-beta.3
+- pkg:nuget/Altavec.Aspire.Hosting.PostgreSQL@9.3.0-beta.5
+- pkg:nuget/Altavec.Aspire.Hosting.PostgreSQL@9.3.0-beta.7

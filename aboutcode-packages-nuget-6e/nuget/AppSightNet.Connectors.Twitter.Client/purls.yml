@@ -1,0 +1,5 @@
+- pkg:nuget/AppSightNet.Connectors.Twitter.Client@0.0.2-alpha
+- pkg:nuget/AppSightNet.Connectors.Twitter.Client@0.0.3-alpha
+- pkg:nuget/AppSightNet.Connectors.Twitter.Client@0.0.4-alpha
+- pkg:nuget/AppSightNet.Connectors.Twitter.Client@0.0.5-alpha
+- pkg:nuget/AppSightNet.Connectors.Twitter.Client@0.1.0-alpha

@@ -1,0 +1,5 @@
+- pkg:nuget/spdlog_native@1.0.0
+- pkg:nuget/spdlog_native@2021.7.27
+- pkg:nuget/spdlog_native@2021.7.28
+- pkg:nuget/spdlog_native@2021.7.29
+- pkg:nuget/spdlog_native@2021.7.30

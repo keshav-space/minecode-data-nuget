@@ -1,0 +1,6 @@
+- pkg:nuget/xmisc.backbone.migration.simple.migrations@4.1.17-beta
+- pkg:nuget/xmisc.backbone.migration.simple.migrations@4.1.18-beta
+- pkg:nuget/xmisc.backbone.migration.simple.migrations@4.1.19-beta
+- pkg:nuget/xmisc.backbone.migration.simple.migrations@6.0.14
+- pkg:nuget/xmisc.backbone.migration.simple.migrations@8.2.12
+- pkg:nuget/xmisc.backbone.migration.simple.migrations@9.0.11

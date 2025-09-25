@@ -1,0 +1,2 @@
+- pkg:nuget/logstash-windows-x86_64-binary@8.13.1
+- pkg:nuget/logstash-windows-x86_64-binary@8.13.2

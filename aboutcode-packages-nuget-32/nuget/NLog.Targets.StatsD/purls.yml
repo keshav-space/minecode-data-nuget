@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.Targets.StatsD@0.1.0
+- pkg:nuget/NLog.Targets.StatsD@0.1.1

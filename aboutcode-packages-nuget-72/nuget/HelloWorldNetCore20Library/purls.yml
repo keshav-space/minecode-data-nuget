@@ -1,0 +1,5 @@
+- pkg:nuget/HelloWorldNetCore20Library@1.0.0
+- pkg:nuget/HelloWorldNetCore20Library@1.0.0-alpha
+- pkg:nuget/HelloWorldNetCore20Library@1.0.0-beta
+- pkg:nuget/HelloWorldNetCore20Library@1.0.0-delta
+- pkg:nuget/HelloWorldNetCore20Library@1.0.0-gamma

@@ -1,0 +1,4 @@
+- pkg:nuget/Roslyn@1.0.11014.5
+- pkg:nuget/Roslyn@1.1.20524.4
+- pkg:nuget/Roslyn@1.2.20906.1
+- pkg:nuget/Roslyn@1.2.20906.2

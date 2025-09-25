@@ -1,0 +1,5 @@
+- pkg:nuget/libzmq-nightly@4.2.2
+- pkg:nuget/libzmq-nightly@4.2.2.1
+- pkg:nuget/libzmq-nightly@4.2.2.2
+- pkg:nuget/libzmq-nightly@4.2.2.3
+- pkg:nuget/libzmq-nightly@4.2.2.4
