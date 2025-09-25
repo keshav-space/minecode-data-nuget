@@ -1,0 +1,5 @@
+- pkg:nuget/mrjamiebowman.Hangfire.JobManagement@2.0.0
+- pkg:nuget/mrjamiebowman.Hangfire.JobManagement@2.0.1
+- pkg:nuget/mrjamiebowman.Hangfire.JobManagement@8.0.0
+- pkg:nuget/mrjamiebowman.Hangfire.JobManagement@8.0.1
+- pkg:nuget/mrjamiebowman.Hangfire.JobManagement@8.0.2

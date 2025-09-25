@@ -1,0 +1,4 @@
+- pkg:nuget/TensorFlowLiteSelectTfOps.iOS@2.13.0
+- pkg:nuget/TensorFlowLiteSelectTfOps.iOS@2.14.0
+- pkg:nuget/TensorFlowLiteSelectTfOps.iOS@2.17.0
+- pkg:nuget/TensorFlowLiteSelectTfOps.iOS@2.6.0

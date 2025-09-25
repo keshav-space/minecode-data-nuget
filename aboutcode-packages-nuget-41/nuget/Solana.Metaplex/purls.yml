@@ -1,0 +1,15 @@
+- pkg:nuget/Solana.Metaplex@0.9.0
+- pkg:nuget/Solana.Metaplex@1.0.0
+- pkg:nuget/Solana.Metaplex@1.2.0
+- pkg:nuget/Solana.Metaplex@1.2.0-NET5
+- pkg:nuget/Solana.Metaplex@1.3.0
+- pkg:nuget/Solana.Metaplex@2.0.0
+- pkg:nuget/Solana.Metaplex@3.0.0
+- pkg:nuget/Solana.Metaplex@4.8.0
+- pkg:nuget/Solana.Metaplex@4.8.1
+- pkg:nuget/Solana.Metaplex@4.8.2
+- pkg:nuget/Solana.Metaplex@6.8.0
+- pkg:nuget/Solana.Metaplex@6.8.1
+- pkg:nuget/Solana.Metaplex@6.8.2
+- pkg:nuget/Solana.Metaplex@6.9.0
+- pkg:nuget/Solana.Metaplex@8.0.0

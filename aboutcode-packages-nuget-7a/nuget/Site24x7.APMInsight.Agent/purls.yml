@@ -1,0 +1,12 @@
+- pkg:nuget/Site24x7.APMInsight.Agent@1.0.0
+- pkg:nuget/Site24x7.APMInsight.Agent@2.0.0
+- pkg:nuget/Site24x7.APMInsight.Agent@4.7.0
+- pkg:nuget/Site24x7.APMInsight.Agent@4.8.0
+- pkg:nuget/Site24x7.APMInsight.Agent@5.3.0
+- pkg:nuget/Site24x7.APMInsight.Agent@5.5.0
+- pkg:nuget/Site24x7.APMInsight.Agent@5.9.0
+- pkg:nuget/Site24x7.APMInsight.Agent@6.0.0
+- pkg:nuget/Site24x7.APMInsight.Agent@6.3.0
+- pkg:nuget/Site24x7.APMInsight.Agent@6.4.2
+- pkg:nuget/Site24x7.APMInsight.Agent@6.5.1
+- pkg:nuget/Site24x7.APMInsight.Agent@6.9.2

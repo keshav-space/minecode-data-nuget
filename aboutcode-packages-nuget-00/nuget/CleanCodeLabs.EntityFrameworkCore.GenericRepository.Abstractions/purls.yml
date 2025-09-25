@@ -1,0 +1,17 @@
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@1.0.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@1.1.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@1.2.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@1.3.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.0.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.0.1
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.1.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.1.1
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.1.2
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.2.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.2.1
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.2.2
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@2.2.4
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@3.0.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@4.0.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@4.0.0-rc.0
+- pkg:nuget/CleanCodeLabs.EntityFrameworkCore.GenericRepository.Abstractions@4.1.0

@@ -1,0 +1,14 @@
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.0
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1-beta2
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1-beta3
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1-beta4
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1-beta5
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1-beta6
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1-beta7
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1-beta8
+- pkg:nuget/Soul.IdentityServer.Authentication@6.0.1-beta9
+- pkg:nuget/Soul.IdentityServer.Authentication@7.0.0
+- pkg:nuget/Soul.IdentityServer.Authentication@7.0.0-beta1
+- pkg:nuget/Soul.IdentityServer.Authentication@7.0.1
+- pkg:nuget/Soul.IdentityServer.Authentication@7.0.1.1

@@ -1,0 +1,6 @@
+- pkg:nuget/Loom.EventSourcing.InMemory@0.19.1
+- pkg:nuget/Loom.EventSourcing.InMemory@0.19.2
+- pkg:nuget/Loom.EventSourcing.InMemory@0.30.0
+- pkg:nuget/Loom.EventSourcing.InMemory@1.0.0
+- pkg:nuget/Loom.EventSourcing.InMemory@1.1.0
+- pkg:nuget/Loom.EventSourcing.InMemory@1.2.0

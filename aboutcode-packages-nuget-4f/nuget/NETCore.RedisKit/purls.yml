@@ -1,0 +1,5 @@
+- pkg:nuget/NETCore.RedisKit@1.0.0
+- pkg:nuget/NETCore.RedisKit@1.0.1
+- pkg:nuget/NETCore.RedisKit@2.0.0
+- pkg:nuget/NETCore.RedisKit@2.0.1-beta1
+- pkg:nuget/NETCore.RedisKit@2.0.1-beta2

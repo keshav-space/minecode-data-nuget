@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Sdk@1.0.0
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Sdk@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Sdk@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Sdk@1.0.2-preview
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Sdk@1.0.3-preview
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Sdk@1.1.0
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Sdk@1.2.0

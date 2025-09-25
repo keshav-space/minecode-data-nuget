@@ -1,0 +1,13 @@
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@1.0.0
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@2.0.0
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@2.1.0
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@2.1.1
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@2.2.0
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@2.2.1
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@2.2.2
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@3.0.0
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@3.0.1
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@4.0.0
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@4.1.0
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@5.0.0
+- pkg:nuget/Hangfire.Azure.ServiceBusQueue@6.0.0

@@ -1,0 +1,10 @@
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.0.0-beta.1
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.3.0
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.3.1
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.4.0
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.5.0
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.5.1
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.6.0
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.7.0
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.7.1
+- pkg:nuget/CloudNative.CloudEvents.Protobuf@2.8.0

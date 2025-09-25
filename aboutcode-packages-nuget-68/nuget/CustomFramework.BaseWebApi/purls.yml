@@ -1,0 +1,6 @@
+- pkg:nuget/CustomFramework.BaseWebApi@1.0.0
+- pkg:nuget/CustomFramework.BaseWebApi@1.0.1
+- pkg:nuget/CustomFramework.BaseWebApi@1.0.2
+- pkg:nuget/CustomFramework.BaseWebApi@2.0.1
+- pkg:nuget/CustomFramework.BaseWebApi@3.0.0-preview.1.0.0
+- pkg:nuget/CustomFramework.BaseWebApi@3.0.0-preview.1.0.1

@@ -1,0 +1,6 @@
+- pkg:nuget/CloudBees.OpenFeature.Provider@0.1.1
+- pkg:nuget/CloudBees.OpenFeature.Provider@0.1.2
+- pkg:nuget/CloudBees.OpenFeature.Provider@0.5.0
+- pkg:nuget/CloudBees.OpenFeature.Provider@1.0.0
+- pkg:nuget/CloudBees.OpenFeature.Provider@1.0.1
+- pkg:nuget/CloudBees.OpenFeature.Provider@2.0.1

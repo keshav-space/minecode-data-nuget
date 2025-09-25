@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.SqlServer.Compact@4.0.8852.1
+- pkg:nuget/Microsoft.SqlServer.Compact@4.0.8854.1
+- pkg:nuget/Microsoft.SqlServer.Compact@4.0.8854.2
+- pkg:nuget/Microsoft.SqlServer.Compact@4.0.8876.1

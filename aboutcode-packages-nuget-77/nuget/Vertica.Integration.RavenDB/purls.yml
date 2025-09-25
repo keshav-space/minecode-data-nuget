@@ -1,0 +1,11 @@
+- pkg:nuget/Vertica.Integration.RavenDB@1.14.0
+- pkg:nuget/Vertica.Integration.RavenDB@1.15.0
+- pkg:nuget/Vertica.Integration.RavenDB@1.16.0
+- pkg:nuget/Vertica.Integration.RavenDB@1.17.0
+- pkg:nuget/Vertica.Integration.RavenDB@1.17.1
+- pkg:nuget/Vertica.Integration.RavenDB@1.17.2
+- pkg:nuget/Vertica.Integration.RavenDB@1.17.3
+- pkg:nuget/Vertica.Integration.RavenDB@1.17.4
+- pkg:nuget/Vertica.Integration.RavenDB@2.0.0-alpha01
+- pkg:nuget/Vertica.Integration.RavenDB@2.0.0-alpha02
+- pkg:nuget/Vertica.Integration.RavenDB@2.0.0-alpha03

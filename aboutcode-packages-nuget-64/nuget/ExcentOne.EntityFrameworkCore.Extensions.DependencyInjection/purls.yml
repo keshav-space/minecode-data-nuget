@@ -1,0 +1,4 @@
+- pkg:nuget/ExcentOne.EntityFrameworkCore.Extensions.DependencyInjection@1.2.0
+- pkg:nuget/ExcentOne.EntityFrameworkCore.Extensions.DependencyInjection@7.0.3
+- pkg:nuget/ExcentOne.EntityFrameworkCore.Extensions.DependencyInjection@7.0.4
+- pkg:nuget/ExcentOne.EntityFrameworkCore.Extensions.DependencyInjection@7.0.5

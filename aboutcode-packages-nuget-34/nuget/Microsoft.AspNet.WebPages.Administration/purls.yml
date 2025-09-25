@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.AspNet.WebPages.Administration@1.0.20105.408
+- pkg:nuget/Microsoft.AspNet.WebPages.Administration@2.0.20505
+- pkg:nuget/Microsoft.AspNet.WebPages.Administration@2.0.20710
+- pkg:nuget/Microsoft.AspNet.WebPages.Administration@2.0.20713
+- pkg:nuget/Microsoft.AspNet.WebPages.Administration@2.0.30506

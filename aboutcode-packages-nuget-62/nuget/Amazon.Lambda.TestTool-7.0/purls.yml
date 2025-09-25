@@ -1,0 +1,10 @@
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.12.6
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.12.7
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.13.0
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.13.1
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.14.0
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.14.1
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.15.0
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.15.1
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.15.2
+- pkg:nuget/Amazon.Lambda.TestTool-7.0@0.15.3

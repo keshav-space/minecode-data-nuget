@@ -1,0 +1,14 @@
+- pkg:nuget/HttpContextCatcher@1.0.0
+- pkg:nuget/HttpContextCatcher@1.0.1
+- pkg:nuget/HttpContextCatcher@1.0.3
+- pkg:nuget/HttpContextCatcher@2.0.0
+- pkg:nuget/HttpContextCatcher@2.0.1
+- pkg:nuget/HttpContextCatcher@3.0.0
+- pkg:nuget/HttpContextCatcher@4.0.0
+- pkg:nuget/HttpContextCatcher@5.0.0
+- pkg:nuget/HttpContextCatcher@8.0.0
+- pkg:nuget/HttpContextCatcher@8.1.0
+- pkg:nuget/HttpContextCatcher@8.2.0
+- pkg:nuget/HttpContextCatcher@8.3.0
+- pkg:nuget/HttpContextCatcher@8.4.0
+- pkg:nuget/HttpContextCatcher@9.0.0

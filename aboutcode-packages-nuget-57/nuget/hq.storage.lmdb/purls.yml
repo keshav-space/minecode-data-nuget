@@ -1,0 +1,3 @@
+- pkg:nuget/hq.storage.lmdb@1.1.0-pre
+- pkg:nuget/hq.storage.lmdb@1.1.1-pre
+- pkg:nuget/hq.storage.lmdb@1.2.0-pre

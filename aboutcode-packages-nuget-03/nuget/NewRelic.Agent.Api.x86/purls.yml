@@ -1,0 +1,10 @@
+- pkg:nuget/NewRelic.Agent.Api.x86@0.1.0
+- pkg:nuget/NewRelic.Agent.Api.x86@0.2.0
+- pkg:nuget/NewRelic.Agent.Api.x86@2.0.11.1
+- pkg:nuget/NewRelic.Agent.Api.x86@2.1.0.5
+- pkg:nuget/NewRelic.Agent.Api.x86@2.1.0.6
+- pkg:nuget/NewRelic.Agent.Api.x86@2.1.1.13
+- pkg:nuget/NewRelic.Agent.Api.x86@2.1.2.472
+- pkg:nuget/NewRelic.Agent.Api.x86@2.5.112
+- pkg:nuget/NewRelic.Agent.Api.x86@2.8.135
+- pkg:nuget/NewRelic.Agent.Api.x86@2.9.122

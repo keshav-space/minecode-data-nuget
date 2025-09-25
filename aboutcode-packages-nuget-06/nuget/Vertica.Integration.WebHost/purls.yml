@@ -1,0 +1,10 @@
+- pkg:nuget/Vertica.Integration.WebHost@1.12.0
+- pkg:nuget/Vertica.Integration.WebHost@1.13.0
+- pkg:nuget/Vertica.Integration.WebHost@1.13.1
+- pkg:nuget/Vertica.Integration.WebHost@1.14.0
+- pkg:nuget/Vertica.Integration.WebHost@1.14.1
+- pkg:nuget/Vertica.Integration.WebHost@1.14.2
+- pkg:nuget/Vertica.Integration.WebHost@1.14.3
+- pkg:nuget/Vertica.Integration.WebHost@2.0.0-alpha01
+- pkg:nuget/Vertica.Integration.WebHost@2.0.0-alpha02
+- pkg:nuget/Vertica.Integration.WebHost@2.0.0-alpha03

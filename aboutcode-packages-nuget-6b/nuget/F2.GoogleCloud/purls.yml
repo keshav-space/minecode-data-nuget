@@ -1,0 +1,12 @@
+- pkg:nuget/F2.GoogleCloud@1.0.1-testing
+- pkg:nuget/F2.GoogleCloud@1.0.10-testing
+- pkg:nuget/F2.GoogleCloud@1.0.2-testing
+- pkg:nuget/F2.GoogleCloud@1.0.3-testing
+- pkg:nuget/F2.GoogleCloud@1.0.4-testing
+- pkg:nuget/F2.GoogleCloud@1.0.5-jb-37-firestore-local-cache
+- pkg:nuget/F2.GoogleCloud@1.0.5-jb-37-firestore-local-cache-r2
+- pkg:nuget/F2.GoogleCloud@1.0.5-testing
+- pkg:nuget/F2.GoogleCloud@1.0.6-testing
+- pkg:nuget/F2.GoogleCloud@1.0.7-testing
+- pkg:nuget/F2.GoogleCloud@1.0.8-testing
+- pkg:nuget/F2.GoogleCloud@1.0.9-testing

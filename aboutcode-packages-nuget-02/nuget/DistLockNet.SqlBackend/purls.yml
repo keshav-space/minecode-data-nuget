@@ -1,0 +1,6 @@
+- pkg:nuget/DistLockNet.SqlBackend@1.0.0
+- pkg:nuget/DistLockNet.SqlBackend@1.0.1
+- pkg:nuget/DistLockNet.SqlBackend@2.0.0
+- pkg:nuget/DistLockNet.SqlBackend@2.0.1
+- pkg:nuget/DistLockNet.SqlBackend@3.0.0
+- pkg:nuget/DistLockNet.SqlBackend@3.1.0

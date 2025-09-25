@@ -1,0 +1,10 @@
+- pkg:nuget/Salix.AspNetCore.Utilities@1.0.0
+- pkg:nuget/Salix.AspNetCore.Utilities@1.1.0
+- pkg:nuget/Salix.AspNetCore.Utilities@2.0.0
+- pkg:nuget/Salix.AspNetCore.Utilities@2.0.1
+- pkg:nuget/Salix.AspNetCore.Utilities@2.1.0
+- pkg:nuget/Salix.AspNetCore.Utilities@2.1.1
+- pkg:nuget/Salix.AspNetCore.Utilities@2.2.0
+- pkg:nuget/Salix.AspNetCore.Utilities@2.3.0
+- pkg:nuget/Salix.AspNetCore.Utilities@3.0.0
+- pkg:nuget/Salix.AspNetCore.Utilities@3.1.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Vertica.Integration.Rebus@1.14.0
+- pkg:nuget/Vertica.Integration.Rebus@1.15.0
+- pkg:nuget/Vertica.Integration.Rebus@1.16.0
+- pkg:nuget/Vertica.Integration.Rebus@2.0.0-alpha01
+- pkg:nuget/Vertica.Integration.Rebus@2.0.0-alpha02
+- pkg:nuget/Vertica.Integration.Rebus@2.0.0-alpha03

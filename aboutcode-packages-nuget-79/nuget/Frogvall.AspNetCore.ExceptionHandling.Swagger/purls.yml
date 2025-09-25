@@ -1,0 +1,9 @@
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@4.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@4.1.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@4.2.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@5.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@5.0.0-preview1
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@6.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@6.1.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@7.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.Swagger@8.0.0

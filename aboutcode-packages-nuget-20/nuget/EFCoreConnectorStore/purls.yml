@@ -1,0 +1,5 @@
+- pkg:nuget/EFCoreConnectorStore@1.0.0
+- pkg:nuget/EFCoreConnectorStore@1.1.0
+- pkg:nuget/EFCoreConnectorStore@2.0.0
+- pkg:nuget/EFCoreConnectorStore@2.1.0
+- pkg:nuget/EFCoreConnectorStore@3.0.0

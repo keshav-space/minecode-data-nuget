@@ -1,0 +1,10 @@
+- pkg:nuget/Google.Cloud.ResourceManager.V3@1.0.0
+- pkg:nuget/Google.Cloud.ResourceManager.V3@1.0.0-beta01
+- pkg:nuget/Google.Cloud.ResourceManager.V3@1.1.0
+- pkg:nuget/Google.Cloud.ResourceManager.V3@1.2.0
+- pkg:nuget/Google.Cloud.ResourceManager.V3@2.0.0
+- pkg:nuget/Google.Cloud.ResourceManager.V3@2.1.0
+- pkg:nuget/Google.Cloud.ResourceManager.V3@2.2.0
+- pkg:nuget/Google.Cloud.ResourceManager.V3@2.3.0
+- pkg:nuget/Google.Cloud.ResourceManager.V3@2.4.0
+- pkg:nuget/Google.Cloud.ResourceManager.V3@2.5.0

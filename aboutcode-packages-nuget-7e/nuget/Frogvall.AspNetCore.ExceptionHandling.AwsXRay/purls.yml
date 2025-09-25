@@ -1,0 +1,9 @@
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@4.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@4.1.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@4.2.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@5.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@5.0.0-preview1
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@6.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@6.1.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@7.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.AwsXRay@8.0.0

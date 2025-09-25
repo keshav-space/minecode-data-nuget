@@ -1,0 +1,10 @@
+- pkg:nuget/Furore.Fhir.Testing@0.5.0-alpha1
+- pkg:nuget/Furore.Fhir.Testing@0.5.0-alpha2
+- pkg:nuget/Furore.Fhir.Testing@0.5.1-beta1
+- pkg:nuget/Furore.Fhir.Testing@0.5.1-beta2
+- pkg:nuget/Furore.Fhir.Testing@0.5.2-alpha1
+- pkg:nuget/Furore.Fhir.Testing@0.5.5-beta1
+- pkg:nuget/Furore.Fhir.Testing@0.5.6-alpha1
+- pkg:nuget/Furore.Fhir.Testing@0.5.6-beta1
+- pkg:nuget/Furore.Fhir.Testing@0.5.6-beta2
+- pkg:nuget/Furore.Fhir.Testing@0.5.6-beta3

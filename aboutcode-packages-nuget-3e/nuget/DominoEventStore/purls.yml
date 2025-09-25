@@ -1,0 +1,4 @@
+- pkg:nuget/DominoEventStore@1.0.0
+- pkg:nuget/DominoEventStore@1.0.0-beta-10
+- pkg:nuget/DominoEventStore@1.0.0-beta-11
+- pkg:nuget/DominoEventStore@1.0.0-beta-9

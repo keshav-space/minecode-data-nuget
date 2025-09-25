@@ -1,0 +1,9 @@
+- pkg:nuget/Raylib-CSharp-Vinculum@4.2.0-alpha
+- pkg:nuget/Raylib-CSharp-Vinculum@4.5.0
+- pkg:nuget/Raylib-CSharp-Vinculum@4.5.0-dev-alpha
+- pkg:nuget/Raylib-CSharp-Vinculum@4.5.0-rc1
+- pkg:nuget/Raylib-CSharp-Vinculum@4.5.0.1
+- pkg:nuget/Raylib-CSharp-Vinculum@4.5.1
+- pkg:nuget/Raylib-CSharp-Vinculum@4.5.2
+- pkg:nuget/Raylib-CSharp-Vinculum@5.0.0
+- pkg:nuget/Raylib-CSharp-Vinculum@5.0.1

@@ -1,0 +1,11 @@
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@4.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@4.0.1
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@4.0.2
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@4.1.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@4.2.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@5.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@6.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@6.1.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@7.0.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@7.1.0
+- pkg:nuget/Frogvall.AspNetCore.ExceptionHandling.ModelValidation@8.0.0

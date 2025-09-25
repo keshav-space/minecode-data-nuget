@@ -1,0 +1,5 @@
+- pkg:nuget/HostBox@1.0.0
+- pkg:nuget/HostBox@1.0.1
+- pkg:nuget/HostBox@1.0.2
+- pkg:nuget/HostBox@1.0.3
+- pkg:nuget/HostBox@2.0.0-core24

@@ -1,0 +1,13 @@
+- pkg:nuget/TpWebWcf@4.8.402.1
+- pkg:nuget/TpWebWcf@4.9.215
+- pkg:nuget/TpWebWcf@5.0.224
+- pkg:nuget/TpWebWcf@5.1.130
+- pkg:nuget/TpWebWcf@5.2.211
+- pkg:nuget/TpWebWcf@5.3.212
+- pkg:nuget/TpWebWcf@5.4.229
+- pkg:nuget/TpWebWcf@5.4.307
+- pkg:nuget/TpWebWcf@5.5.317
+- pkg:nuget/TpWebWcf@5.6.229
+- pkg:nuget/TpWebWcf@5.7.317
+- pkg:nuget/TpWebWcf@5.8.324
+- pkg:nuget/TpWebWcf@5.9.310

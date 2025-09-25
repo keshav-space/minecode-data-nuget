@@ -1,0 +1,3 @@
+- pkg:nuget/RPCBroker.RabbitMQ@1.0.0-rc
+- pkg:nuget/RPCBroker.RabbitMQ@1.0.1-rc
+- pkg:nuget/RPCBroker.RabbitMQ@1.1.0

@@ -1,0 +1,6 @@
+- pkg:nuget/RosSharp@0.1.0
+- pkg:nuget/RosSharp@0.1.0-alpha
+- pkg:nuget/RosSharp@0.1.0-beta
+- pkg:nuget/RosSharp@0.1.0-beta2
+- pkg:nuget/RosSharp@0.1.0-rc1
+- pkg:nuget/RosSharp@0.1.0-rc2

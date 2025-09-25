@@ -1,0 +1,13 @@
+- pkg:nuget/RabbitMQ.Core.Client@1.0.0
+- pkg:nuget/RabbitMQ.Core.Client@1.0.1
+- pkg:nuget/RabbitMQ.Core.Client@1.0.2
+- pkg:nuget/RabbitMQ.Core.Client@1.0.3
+- pkg:nuget/RabbitMQ.Core.Client@1.0.4
+- pkg:nuget/RabbitMQ.Core.Client@1.0.5
+- pkg:nuget/RabbitMQ.Core.Client@1.0.600
+- pkg:nuget/RabbitMQ.Core.Client@1.0.601
+- pkg:nuget/RabbitMQ.Core.Client@1.0.602
+- pkg:nuget/RabbitMQ.Core.Client@1.0.603
+- pkg:nuget/RabbitMQ.Core.Client@1.0.604
+- pkg:nuget/RabbitMQ.Core.Client@1.0.610
+- pkg:nuget/RabbitMQ.Core.Client@1.0.611

@@ -1,0 +1,17 @@
+- pkg:nuget/NakedObjects.Framework@4.0.110
+- pkg:nuget/NakedObjects.Framework@4.0.218
+- pkg:nuget/NakedObjects.Framework@4.0.239
+- pkg:nuget/NakedObjects.Framework@4.0.306
+- pkg:nuget/NakedObjects.Framework@4.0.93
+- pkg:nuget/NakedObjects.Framework@4.1.0
+- pkg:nuget/NakedObjects.Framework@4.1.1
+- pkg:nuget/NakedObjects.Framework@5.0.0
+- pkg:nuget/NakedObjects.Framework@5.1.0
+- pkg:nuget/NakedObjects.Framework@5.4.0
+- pkg:nuget/NakedObjects.Framework@5.5.0
+- pkg:nuget/NakedObjects.Framework@5.6.0
+- pkg:nuget/NakedObjects.Framework@5.7.0
+- pkg:nuget/NakedObjects.Framework@5.7.1
+- pkg:nuget/NakedObjects.Framework@5.7.2
+- pkg:nuget/NakedObjects.Framework@5.8.0
+- pkg:nuget/NakedObjects.Framework@6.0.0-beta1

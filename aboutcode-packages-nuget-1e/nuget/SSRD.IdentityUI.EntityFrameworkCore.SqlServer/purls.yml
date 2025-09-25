@@ -1,0 +1,6 @@
+- pkg:nuget/SSRD.IdentityUI.EntityFrameworkCore.SqlServer@3.0.0
+- pkg:nuget/SSRD.IdentityUI.EntityFrameworkCore.SqlServer@3.0.0-alpha.1
+- pkg:nuget/SSRD.IdentityUI.EntityFrameworkCore.SqlServer@3.1.0
+- pkg:nuget/SSRD.IdentityUI.EntityFrameworkCore.SqlServer@3.1.0-alpha.1
+- pkg:nuget/SSRD.IdentityUI.EntityFrameworkCore.SqlServer@3.1.0-alpha.2
+- pkg:nuget/SSRD.IdentityUI.EntityFrameworkCore.SqlServer@3.1.0-alpha.6

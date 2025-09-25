@@ -1,0 +1,8 @@
+- pkg:nuget/Soul.IdentityServer.EntityFramework@1.0.0
+- pkg:nuget/Soul.IdentityServer.EntityFramework@6.0.1
+- pkg:nuget/Soul.IdentityServer.EntityFramework@6.0.1-beta8
+- pkg:nuget/Soul.IdentityServer.EntityFramework@6.0.1-beta9
+- pkg:nuget/Soul.IdentityServer.EntityFramework@7.0.0
+- pkg:nuget/Soul.IdentityServer.EntityFramework@7.0.0-beta1
+- pkg:nuget/Soul.IdentityServer.EntityFramework@7.0.1
+- pkg:nuget/Soul.IdentityServer.EntityFramework@7.0.1.1

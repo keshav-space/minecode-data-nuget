@@ -1,0 +1,10 @@
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@13.0.0
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@14.0.0
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@14.0.0.1
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@15.0.0
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@15.0.0.1
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@16.0.0.2
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@17.0.0
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@18.0.0
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@19.1.0
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@20.1.0.1

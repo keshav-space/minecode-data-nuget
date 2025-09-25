@@ -1,0 +1,15 @@
+- pkg:nuget/Serilog.Sinks.FastConsole@1.0.0
+- pkg:nuget/Serilog.Sinks.FastConsole@1.1.0
+- pkg:nuget/Serilog.Sinks.FastConsole@1.2.0
+- pkg:nuget/Serilog.Sinks.FastConsole@1.3.0
+- pkg:nuget/Serilog.Sinks.FastConsole@1.3.1
+- pkg:nuget/Serilog.Sinks.FastConsole@1.3.2
+- pkg:nuget/Serilog.Sinks.FastConsole@1.4.0
+- pkg:nuget/Serilog.Sinks.FastConsole@1.4.1
+- pkg:nuget/Serilog.Sinks.FastConsole@1.5.0
+- pkg:nuget/Serilog.Sinks.FastConsole@1.6.0
+- pkg:nuget/Serilog.Sinks.FastConsole@2.0.0
+- pkg:nuget/Serilog.Sinks.FastConsole@2.1.0
+- pkg:nuget/Serilog.Sinks.FastConsole@2.2.0
+- pkg:nuget/Serilog.Sinks.FastConsole@2.3.0
+- pkg:nuget/Serilog.Sinks.FastConsole@2.4.0

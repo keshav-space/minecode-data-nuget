@@ -1,0 +1,8 @@
+- pkg:nuget/MT.ML.InspectionAnalyseAPI@2.5.20211230-alpha
+- pkg:nuget/MT.ML.InspectionAnalyseAPI@2.5.20211230-beta
+- pkg:nuget/MT.ML.InspectionAnalyseAPI@2.5.20220118-alpha
+- pkg:nuget/MT.ML.InspectionAnalyseAPI@2.6.20220209-alpha
+- pkg:nuget/MT.ML.InspectionAnalyseAPI@2.6.20220218-alpha
+- pkg:nuget/MT.ML.InspectionAnalyseAPI@2.6.20220517-alpha
+- pkg:nuget/MT.ML.InspectionAnalyseAPI@2.7.20220609
+- pkg:nuget/MT.ML.InspectionAnalyseAPI@2.7.20230803
