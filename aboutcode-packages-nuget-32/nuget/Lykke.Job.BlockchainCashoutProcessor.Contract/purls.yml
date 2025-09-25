@@ -1,0 +1,15 @@
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@1.0.0
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@2.0.0
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@2.1.0
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@2.1.1
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@2.2.0
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@2.2.1
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@2.3.0
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@2.4.0
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@3.0.0
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@3.0.1
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@4.0.0-beta
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@4.0.0-beta.1
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@4.0.1
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@5.0.1
+- pkg:nuget/Lykke.Job.BlockchainCashoutProcessor.Contract@6.0.1

@@ -1,0 +1,6 @@
+- pkg:nuget/X.Abp.Chat.EntityFrameworkCore@8.3.0-beta
+- pkg:nuget/X.Abp.Chat.EntityFrameworkCore@8.3.1
+- pkg:nuget/X.Abp.Chat.EntityFrameworkCore@8.3.1-alpha
+- pkg:nuget/X.Abp.Chat.EntityFrameworkCore@8.3.1-beta
+- pkg:nuget/X.Abp.Chat.EntityFrameworkCore@8.3.2
+- pkg:nuget/X.Abp.Chat.EntityFrameworkCore@8.3.3

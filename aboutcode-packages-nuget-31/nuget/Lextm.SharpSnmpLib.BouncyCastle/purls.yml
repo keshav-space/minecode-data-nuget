@@ -1,0 +1,4 @@
+- pkg:nuget/Lextm.SharpSnmpLib.BouncyCastle@10.0.10
+- pkg:nuget/Lextm.SharpSnmpLib.BouncyCastle@10.0.11
+- pkg:nuget/Lextm.SharpSnmpLib.BouncyCastle@10.0.9
+- pkg:nuget/Lextm.SharpSnmpLib.BouncyCastle@11.0.0

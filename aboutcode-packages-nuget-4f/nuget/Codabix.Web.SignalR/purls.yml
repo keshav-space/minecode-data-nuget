@@ -1,0 +1,17 @@
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview1-210921
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview10-240626
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview2-211028
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview3-220210
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview4-220214
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview5-220215
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview6-220706
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview7-220822
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview8-240306
+- pkg:nuget/Codabix.Web.SignalR@1.0.0-preview9-240322
+- pkg:nuget/Codabix.Web.SignalR@1.0.1-preview.1.240628
+- pkg:nuget/Codabix.Web.SignalR@1.0.1-preview.2.241031
+- pkg:nuget/Codabix.Web.SignalR@1.0.1-preview.3.241112
+- pkg:nuget/Codabix.Web.SignalR@1.1.0
+- pkg:nuget/Codabix.Web.SignalR@1.1.1
+- pkg:nuget/Codabix.Web.SignalR@1.2.0
+- pkg:nuget/Codabix.Web.SignalR@2.0.0-preview1-220706

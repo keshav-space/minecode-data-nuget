@@ -1,0 +1,9 @@
+- pkg:nuget/IdentityServer3.DocumentDb@0.5.0
+- pkg:nuget/IdentityServer3.DocumentDb@0.5.6
+- pkg:nuget/IdentityServer3.DocumentDb@0.5.7
+- pkg:nuget/IdentityServer3.DocumentDb@0.5.8
+- pkg:nuget/IdentityServer3.DocumentDb@0.7.1
+- pkg:nuget/IdentityServer3.DocumentDb@0.7.2
+- pkg:nuget/IdentityServer3.DocumentDb@0.7.4
+- pkg:nuget/IdentityServer3.DocumentDb@0.7.5
+- pkg:nuget/IdentityServer3.DocumentDb@0.7.9

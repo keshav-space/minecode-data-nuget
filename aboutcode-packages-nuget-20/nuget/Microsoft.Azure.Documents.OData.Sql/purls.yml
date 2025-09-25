@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Documents.OData.Sql@1.0.0
+- pkg:nuget/Microsoft.Azure.Documents.OData.Sql@2.0.0
+- pkg:nuget/Microsoft.Azure.Documents.OData.Sql@2.0.1
+- pkg:nuget/Microsoft.Azure.Documents.OData.Sql@2.0.2

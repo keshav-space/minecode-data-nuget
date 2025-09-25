@@ -1,0 +1,5 @@
+- pkg:nuget/Owin.Types@0.7.0-alpha
+- pkg:nuget/Owin.Types@0.7.1-alpha
+- pkg:nuget/Owin.Types@0.8.3-alpha
+- pkg:nuget/Owin.Types@0.8.4-alpha
+- pkg:nuget/Owin.Types@0.8.5

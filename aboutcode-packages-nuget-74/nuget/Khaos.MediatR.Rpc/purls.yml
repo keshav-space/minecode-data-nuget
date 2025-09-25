@@ -1,0 +1,4 @@
+- pkg:nuget/Khaos.MediatR.Rpc@1.0.2
+- pkg:nuget/Khaos.MediatR.Rpc@2.0.0
+- pkg:nuget/Khaos.MediatR.Rpc@3.0.0
+- pkg:nuget/Khaos.MediatR.Rpc@4.0.0

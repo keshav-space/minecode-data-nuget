@@ -1,0 +1,5 @@
+- pkg:nuget/Nerdbank.Zcash@0.1.542-beta
+- pkg:nuget/Nerdbank.Zcash@0.1.635-beta-ge3703560a5
+- pkg:nuget/Nerdbank.Zcash@0.2.68-beta
+- pkg:nuget/Nerdbank.Zcash@0.3.1-beta
+- pkg:nuget/Nerdbank.Zcash@0.3.185

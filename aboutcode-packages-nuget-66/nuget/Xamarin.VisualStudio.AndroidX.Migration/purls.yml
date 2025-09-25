@@ -1,0 +1,5 @@
+- pkg:nuget/Xamarin.VisualStudio.AndroidX.Migration@1.0.11%2Bsha.c78f354-build.3962460
+- pkg:nuget/Xamarin.VisualStudio.AndroidX.Migration@1.0.12%2Bsha.aabf7a9-build.3963781
+- pkg:nuget/Xamarin.VisualStudio.AndroidX.Migration@1.0.13%2Bsha.425ee3d-build.4006425
+- pkg:nuget/Xamarin.VisualStudio.AndroidX.Migration@1.0.8%2Bsha.8989d5c-build.3078235
+- pkg:nuget/Xamarin.VisualStudio.AndroidX.Migration@1.0.9%2Bsha.3038fca-build.3956531

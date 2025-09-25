@@ -1,0 +1,8 @@
+- pkg:nuget/Domain.RateLimiting.Redis@1.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.Redis@4.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.Redis@4.0.2-alpha
+- pkg:nuget/Domain.RateLimiting.Redis@4.0.3-alpha
+- pkg:nuget/Domain.RateLimiting.Redis@5.0.1-alpha
+- pkg:nuget/Domain.RateLimiting.Redis@5.0.2-alpha
+- pkg:nuget/Domain.RateLimiting.Redis@5.0.3-alpha
+- pkg:nuget/Domain.RateLimiting.Redis@5.0.4-alpha

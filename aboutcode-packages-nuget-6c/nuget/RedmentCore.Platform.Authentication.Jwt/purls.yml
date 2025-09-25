@@ -1,0 +1,9 @@
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@1.0.0
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@1.0.1
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@1.0.2
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@1.0.2.1
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@6.1.2.1
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@6.2.0
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@8.0.0
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@8.0.0.1
+- pkg:nuget/RedmentCore.Platform.Authentication.Jwt@8.0.0.2

@@ -1,0 +1,7 @@
+- pkg:nuget/CoreCompat.BouncyCastle@1.8.1-beta001
+- pkg:nuget/CoreCompat.BouncyCastle@1.8.1-beta002
+- pkg:nuget/CoreCompat.BouncyCastle@1.8.1-beta003
+- pkg:nuget/CoreCompat.BouncyCastle@1.8.1-beta004
+- pkg:nuget/CoreCompat.BouncyCastle@1.8.1-r101
+- pkg:nuget/CoreCompat.BouncyCastle@1.8.1-r102
+- pkg:nuget/CoreCompat.BouncyCastle@1.8.2-r105

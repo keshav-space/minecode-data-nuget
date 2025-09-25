@@ -1,0 +1,3 @@
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.ExtensionManager@15.0.25604-Preview4
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.ExtensionManager@15.0.25726-Preview5
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.ExtensionManager@15.0.25920-RC

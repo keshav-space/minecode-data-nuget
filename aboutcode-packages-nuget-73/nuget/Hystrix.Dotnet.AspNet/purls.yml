@@ -1,0 +1,8 @@
+- pkg:nuget/Hystrix.Dotnet.AspNet@1.0.0
+- pkg:nuget/Hystrix.Dotnet.AspNet@1.0.0-beta1
+- pkg:nuget/Hystrix.Dotnet.AspNet@1.0.0-beta2
+- pkg:nuget/Hystrix.Dotnet.AspNet@1.0.0-beta3
+- pkg:nuget/Hystrix.Dotnet.AspNet@1.0.0-beta4
+- pkg:nuget/Hystrix.Dotnet.AspNet@1.0.3
+- pkg:nuget/Hystrix.Dotnet.AspNet@1.0.4
+- pkg:nuget/Hystrix.Dotnet.AspNet@1.1.0-beta1

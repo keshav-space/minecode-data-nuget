@@ -1,0 +1,2 @@
+- pkg:nuget/New-NuGetPackageAfterBuild@0.0.0.1
+- pkg:nuget/New-NuGetPackageAfterBuild@0.0.0.2

@@ -1,0 +1,11 @@
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.2.2.3
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.2.2.33
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.2.2.34
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.2.2.35
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.2.2.4
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.2.4
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.5.0
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.6.0
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.6.2
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.7.0
+- pkg:nuget/Septa.Microsoft.Owin.Security.Jwt@4.8.0

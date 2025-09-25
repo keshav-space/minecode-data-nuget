@@ -1,0 +1,10 @@
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.16.12
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.16.24
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.16.25
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.17.12
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.17.13
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.17.5-rtm
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.17.6-rtm
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.17.8
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.17.9
+- pkg:nuget/Remotion.Reflection.CodeGeneration.TypePipe@1.18.0

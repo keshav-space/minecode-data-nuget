@@ -1,0 +1,13 @@
+- pkg:nuget/Hysorm.Core@1.0.0
+- pkg:nuget/Hysorm.Core@6.0.0
+- pkg:nuget/Hysorm.Core@6.1.0
+- pkg:nuget/Hysorm.Core@6.2.0
+- pkg:nuget/Hysorm.Core@8.0.0
+- pkg:nuget/Hysorm.Core@8.1.0
+- pkg:nuget/Hysorm.Core@8.2.0
+- pkg:nuget/Hysorm.Core@8.3.0
+- pkg:nuget/Hysorm.Core@8.4.0
+- pkg:nuget/Hysorm.Core@8.5.0
+- pkg:nuget/Hysorm.Core@8.6.0
+- pkg:nuget/Hysorm.Core@8.7.0
+- pkg:nuget/Hysorm.Core@8.8.0

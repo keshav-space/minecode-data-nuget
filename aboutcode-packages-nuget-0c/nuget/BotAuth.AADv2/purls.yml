@@ -1,0 +1,5 @@
+- pkg:nuget/BotAuth.AADv2@0.1.0-alpha
+- pkg:nuget/BotAuth.AADv2@0.1.2-alpha
+- pkg:nuget/BotAuth.AADv2@3.11.0-alpha
+- pkg:nuget/BotAuth.AADv2@3.8.1-alpha
+- pkg:nuget/BotAuth.AADv2@3.9.0-alpha

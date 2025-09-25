@@ -1,0 +1,4 @@
+- pkg:nuget/cpprestsdk.v140.winapp.msvcstl.dyn.rt-dyn@2.6.0
+- pkg:nuget/cpprestsdk.v140.winapp.msvcstl.dyn.rt-dyn@2.7.0
+- pkg:nuget/cpprestsdk.v140.winapp.msvcstl.dyn.rt-dyn@2.8.0
+- pkg:nuget/cpprestsdk.v140.winapp.msvcstl.dyn.rt-dyn@2.9.1

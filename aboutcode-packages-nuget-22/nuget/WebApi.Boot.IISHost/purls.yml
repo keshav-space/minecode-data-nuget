@@ -1,0 +1,3 @@
+- pkg:nuget/WebApi.Boot.IISHost@1.0.0-alpha
+- pkg:nuget/WebApi.Boot.IISHost@1.0.1-alpha
+- pkg:nuget/WebApi.Boot.IISHost@1.0.2-alpha

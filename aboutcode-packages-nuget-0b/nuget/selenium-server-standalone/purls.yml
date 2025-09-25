@@ -1,0 +1,4 @@
+- pkg:nuget/selenium-server-standalone@3.4.0
+- pkg:nuget/selenium-server-standalone@3.8.1
+- pkg:nuget/selenium-server-standalone@3.9.1
+- pkg:nuget/selenium-server-standalone@3.9.1.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Faker.Core.Extensions.Json@0.0.1
+- pkg:nuget/Faker.Core.Extensions.Json@0.1.0.23-json
+- pkg:nuget/Faker.Core.Extensions.Json@0.2.0
+- pkg:nuget/Faker.Core.Extensions.Json@0.3.0
+- pkg:nuget/Faker.Core.Extensions.Json@0.4.0

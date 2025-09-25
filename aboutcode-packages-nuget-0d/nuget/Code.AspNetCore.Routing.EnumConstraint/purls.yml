@@ -1,0 +1,4 @@
+- pkg:nuget/Code.AspNetCore.Routing.EnumConstraint@1.0.0
+- pkg:nuget/Code.AspNetCore.Routing.EnumConstraint@1.1.0
+- pkg:nuget/Code.AspNetCore.Routing.EnumConstraint@1.2.0
+- pkg:nuget/Code.AspNetCore.Routing.EnumConstraint@2.0.0

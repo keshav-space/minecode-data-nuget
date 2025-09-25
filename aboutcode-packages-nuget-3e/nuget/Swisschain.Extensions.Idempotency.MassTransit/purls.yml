@@ -1,0 +1,11 @@
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@1.0.0
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@1.0.0-beta
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@1.0.0-beta.1
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@1.0.1
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@1.0.2
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@1.0.3
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@2.0.0
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@3.0.0
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@3.0.0-beta
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@3.0.1
+- pkg:nuget/Swisschain.Extensions.Idempotency.MassTransit@4.0.0

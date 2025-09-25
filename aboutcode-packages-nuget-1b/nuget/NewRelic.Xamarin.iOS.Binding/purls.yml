@@ -1,0 +1,7 @@
+- pkg:nuget/NewRelic.Xamarin.iOS.Binding@7.4.10
+- pkg:nuget/NewRelic.Xamarin.iOS.Binding@7.4.12
+- pkg:nuget/NewRelic.Xamarin.iOS.Binding@7.4.5
+- pkg:nuget/NewRelic.Xamarin.iOS.Binding@7.4.8
+- pkg:nuget/NewRelic.Xamarin.iOS.Binding@7.4.9
+- pkg:nuget/NewRelic.Xamarin.iOS.Binding@7.5.0
+- pkg:nuget/NewRelic.Xamarin.iOS.Binding@7.5.2

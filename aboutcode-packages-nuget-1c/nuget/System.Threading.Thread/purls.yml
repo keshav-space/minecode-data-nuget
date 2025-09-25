@@ -1,0 +1,14 @@
+- pkg:nuget/System.Threading.Thread@4.0.0
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-22231
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-22416
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-22605
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-22816
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-23019
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-23109
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-23123
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-23225
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-23409
+- pkg:nuget/System.Threading.Thread@4.0.0-beta-23516
+- pkg:nuget/System.Threading.Thread@4.0.0-rc2-24027
+- pkg:nuget/System.Threading.Thread@4.3.0
+- pkg:nuget/System.Threading.Thread@4.3.0-preview1-24530-04

@@ -1,0 +1,7 @@
+- pkg:nuget/EntityFrameworkCore.Presto@0.0.1
+- pkg:nuget/EntityFrameworkCore.Presto@0.0.2-alpha
+- pkg:nuget/EntityFrameworkCore.Presto@0.0.2-alpha2
+- pkg:nuget/EntityFrameworkCore.Presto@0.0.2-alpha3
+- pkg:nuget/EntityFrameworkCore.Presto@1.0.0
+- pkg:nuget/EntityFrameworkCore.Presto@1.0.0-alpha2
+- pkg:nuget/EntityFrameworkCore.Presto@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.CodeAnalysis.Sdk.UI@14.3.25420
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.CodeAnalysis.Sdk.UI@15.0.25604-Preview4
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.CodeAnalysis.Sdk.UI@15.0.25726-Preview5
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.CodeAnalysis.Sdk.UI@15.0.25920-RC

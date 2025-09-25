@@ -1,0 +1,8 @@
+- pkg:nuget/My.Component.SubComponent@1.0.0
+- pkg:nuget/My.Component.SubComponent@1.0.1
+- pkg:nuget/My.Component.SubComponent@1.0.2
+- pkg:nuget/My.Component.SubComponent@1.0.3
+- pkg:nuget/My.Component.SubComponent@1.1.0
+- pkg:nuget/My.Component.SubComponent@1.1.1
+- pkg:nuget/My.Component.SubComponent@1.1.2-build-01
+- pkg:nuget/My.Component.SubComponent@1.1.2-build-02

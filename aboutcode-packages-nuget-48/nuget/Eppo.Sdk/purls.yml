@@ -1,0 +1,13 @@
+- pkg:nuget/Eppo.Sdk@1.0.0
+- pkg:nuget/Eppo.Sdk@2.0.0
+- pkg:nuget/Eppo.Sdk@2.1.0
+- pkg:nuget/Eppo.Sdk@3.0.0
+- pkg:nuget/Eppo.Sdk@3.1.1
+- pkg:nuget/Eppo.Sdk@3.2.1
+- pkg:nuget/Eppo.Sdk@3.3.1
+- pkg:nuget/Eppo.Sdk@3.3.2
+- pkg:nuget/Eppo.Sdk@3.3.3
+- pkg:nuget/Eppo.Sdk@3.4.0
+- pkg:nuget/Eppo.Sdk@3.5.1
+- pkg:nuget/Eppo.Sdk@3.5.2
+- pkg:nuget/Eppo.Sdk@4.0.0

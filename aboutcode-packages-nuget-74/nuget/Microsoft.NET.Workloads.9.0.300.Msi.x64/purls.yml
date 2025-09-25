@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300.Msi.x64@9.300.0
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300.Msi.x64@9.301.0
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300.Msi.x64@9.301.1
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300.Msi.x64@9.302.0
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300.Msi.x64@9.303.0
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300.Msi.x64@9.303.1
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300.Msi.x64@9.304.0
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300.Msi.x64@9.305.0

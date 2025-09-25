@@ -1,0 +1,4 @@
+- pkg:nuget/Owin.AutoStartup.Sources@0.7.0-alpha
+- pkg:nuget/Owin.AutoStartup.Sources@0.7.1-alpha
+- pkg:nuget/Owin.AutoStartup.Sources@0.8.3-alpha
+- pkg:nuget/Owin.AutoStartup.Sources@0.8.4-alpha

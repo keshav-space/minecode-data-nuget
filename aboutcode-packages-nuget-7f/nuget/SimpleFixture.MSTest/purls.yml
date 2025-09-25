@@ -1,0 +1,4 @@
+- pkg:nuget/SimpleFixture.MSTest@3.0.0
+- pkg:nuget/SimpleFixture.MSTest@3.0.1
+- pkg:nuget/SimpleFixture.MSTest@3.0.2
+- pkg:nuget/SimpleFixture.MSTest@3.0.3

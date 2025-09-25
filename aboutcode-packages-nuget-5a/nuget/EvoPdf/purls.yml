@@ -1,0 +1,5 @@
+- pkg:nuget/EvoPdf@1.0.0-alpha
+- pkg:nuget/EvoPdf@1.0.1-alpha
+- pkg:nuget/EvoPdf@10.0.0
+- pkg:nuget/EvoPdf@11.0.0
+- pkg:nuget/EvoPdf@12.0.0

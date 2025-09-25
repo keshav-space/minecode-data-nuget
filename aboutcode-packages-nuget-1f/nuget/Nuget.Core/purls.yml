@@ -1,0 +1,6 @@
+- pkg:nuget/Nuget.Core@1.0.1120.104
+- pkg:nuget/Nuget.Core@2.1.1
+- pkg:nuget/Nuget.Core@2.2.0-alpha003
+- pkg:nuget/Nuget.Core@2.5.1
+- pkg:nuget/Nuget.Core@2.6.0.1
+- pkg:nuget/Nuget.Core@2.6.1

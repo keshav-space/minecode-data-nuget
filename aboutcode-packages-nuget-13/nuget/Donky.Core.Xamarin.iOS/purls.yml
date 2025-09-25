@@ -1,0 +1,6 @@
+- pkg:nuget/Donky.Core.Xamarin.iOS@1.0.0-beta
+- pkg:nuget/Donky.Core.Xamarin.iOS@1.1.0-beta
+- pkg:nuget/Donky.Core.Xamarin.iOS@1.1.1-beta
+- pkg:nuget/Donky.Core.Xamarin.iOS@2.2.0
+- pkg:nuget/Donky.Core.Xamarin.iOS@2.3.1
+- pkg:nuget/Donky.Core.Xamarin.iOS@2.3.2

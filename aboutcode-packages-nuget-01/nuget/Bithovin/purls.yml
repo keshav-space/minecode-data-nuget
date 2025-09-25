@@ -1,0 +1,4 @@
+- pkg:nuget/Bithovin@2024.105.129.1-csharp-nuget-and-js-verification
+- pkg:nuget/Bithovin@2024.105.129.2
+- pkg:nuget/Bithovin@2024.105.129.3-fixed-ci-trigger
+- pkg:nuget/Bithovin@2024.105.129.4

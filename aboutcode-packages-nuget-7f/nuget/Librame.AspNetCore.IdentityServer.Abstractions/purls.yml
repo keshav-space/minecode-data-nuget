@@ -1,0 +1,5 @@
+- pkg:nuget/Librame.AspNetCore.IdentityServer.Abstractions@7.0.1722.301
+- pkg:nuget/Librame.AspNetCore.IdentityServer.Abstractions@7.4.2.3
+- pkg:nuget/Librame.AspNetCore.IdentityServer.Abstractions@7.4.2.4
+- pkg:nuget/Librame.AspNetCore.IdentityServer.Abstractions@7.6.0.2
+- pkg:nuget/Librame.AspNetCore.IdentityServer.Abstractions@7.6.0.3

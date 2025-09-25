@@ -1,0 +1,10 @@
+- pkg:nuget/Meriworks.PowerShell.Sign@5.0.0
+- pkg:nuget/Meriworks.PowerShell.Sign@5.0.1
+- pkg:nuget/Meriworks.PowerShell.Sign@6.0.0
+- pkg:nuget/Meriworks.PowerShell.Sign@6.0.1
+- pkg:nuget/Meriworks.PowerShell.Sign@6.0.1-CI00001
+- pkg:nuget/Meriworks.PowerShell.Sign@6.0.2
+- pkg:nuget/Meriworks.PowerShell.Sign@6.0.3
+- pkg:nuget/Meriworks.PowerShell.Sign@6.0.4
+- pkg:nuget/Meriworks.PowerShell.Sign@6.2.4
+- pkg:nuget/Meriworks.PowerShell.Sign@6.2.5

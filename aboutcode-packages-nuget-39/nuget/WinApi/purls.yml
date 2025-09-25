@@ -1,0 +1,9 @@
+- pkg:nuget/WinApi@1.0.0
+- pkg:nuget/WinApi@1.0.1
+- pkg:nuget/WinApi@1.1.1
+- pkg:nuget/WinApi@2.0.0
+- pkg:nuget/WinApi@2.0.0.1
+- pkg:nuget/WinApi@2.0.1
+- pkg:nuget/WinApi@3.0.1
+- pkg:nuget/WinApi@3.1.0
+- pkg:nuget/WinApi@4.0.0

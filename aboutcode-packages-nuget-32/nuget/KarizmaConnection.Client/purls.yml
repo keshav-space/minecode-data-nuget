@@ -1,0 +1,13 @@
+- pkg:nuget/KarizmaConnection.Client@1.0.0
+- pkg:nuget/KarizmaConnection.Client@1.0.1
+- pkg:nuget/KarizmaConnection.Client@2.0.0
+- pkg:nuget/KarizmaConnection.Client@2.0.1
+- pkg:nuget/KarizmaConnection.Client@2.1.0
+- pkg:nuget/KarizmaConnection.Client@2.1.1
+- pkg:nuget/KarizmaConnection.Client@2.1.3
+- pkg:nuget/KarizmaConnection.Client@3.0.0
+- pkg:nuget/KarizmaConnection.Client@4.0.0
+- pkg:nuget/KarizmaConnection.Client@4.0.1
+- pkg:nuget/KarizmaConnection.Client@4.0.2
+- pkg:nuget/KarizmaConnection.Client@4.1.0
+- pkg:nuget/KarizmaConnection.Client@4.2.0

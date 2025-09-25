@@ -1,0 +1,4 @@
+- pkg:nuget/Khaos.MediatR.Callable@1.0.0
+- pkg:nuget/Khaos.MediatR.Callable@1.0.1
+- pkg:nuget/Khaos.MediatR.Callable@3.0.0
+- pkg:nuget/Khaos.MediatR.Callable@4.0.0

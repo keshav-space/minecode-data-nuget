@@ -1,0 +1,7 @@
+- pkg:nuget/SerilogSinkAzureQueueStorage@1.0.0
+- pkg:nuget/SerilogSinkAzureQueueStorage@1.0.0-rc-Initial-package-8095
+- pkg:nuget/SerilogSinkAzureQueueStorage@1.1.0-rc-Initial-package-8096
+- pkg:nuget/SerilogSinkAzureQueueStorage@1.1.0-rc-Initial-package-8100
+- pkg:nuget/SerilogSinkAzureQueueStorage@1.1.0-rc-Initial-package-8101
+- pkg:nuget/SerilogSinkAzureQueueStorage@1.1.0-rc-merge-8097
+- pkg:nuget/SerilogSinkAzureQueueStorage@1.1.8098

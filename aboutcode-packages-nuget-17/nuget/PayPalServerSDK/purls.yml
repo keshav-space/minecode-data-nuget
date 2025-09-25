@@ -1,0 +1,8 @@
+- pkg:nuget/PayPalServerSDK@0.5.2
+- pkg:nuget/PayPalServerSDK@0.5.3
+- pkg:nuget/PayPalServerSDK@0.6.0
+- pkg:nuget/PayPalServerSDK@0.6.1
+- pkg:nuget/PayPalServerSDK@0.7.0
+- pkg:nuget/PayPalServerSDK@1.0.0
+- pkg:nuget/PayPalServerSDK@1.1.0
+- pkg:nuget/PayPalServerSDK@1.1.1

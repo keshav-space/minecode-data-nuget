@@ -1,0 +1,7 @@
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.GraphModel@14.2.25123
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.GraphModel@14.3.25407
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.GraphModel@15.0.25604-Preview4
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.GraphModel@15.0.25713
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.GraphModel@15.0.25726-Preview5
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.GraphModel@15.0.25807
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.GraphModel@15.0.25920-RC

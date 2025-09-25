@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.10.0-build09114
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.10.0-build18337
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.10.0-build23829
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.11.0-build16285
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.12.0-build12000
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.13.0-build26207
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.13.2-build00198
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.13.2-build00446
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.13.3-build04535
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@0.14.0-build20894
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@1.0.0-build08896
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@1.1.0-build04531
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@1.2.0-build00149
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@1.3.0-build05658
+- pkg:nuget/Microsoft.ApplicationInsights.StatusMonitor@1.4.0-build00129

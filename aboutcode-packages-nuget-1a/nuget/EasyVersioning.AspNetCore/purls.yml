@@ -1,0 +1,17 @@
+- pkg:nuget/EasyVersioning.AspNetCore@1.0.0
+- pkg:nuget/EasyVersioning.AspNetCore@1.0.0-beta1
+- pkg:nuget/EasyVersioning.AspNetCore@1.0.1
+- pkg:nuget/EasyVersioning.AspNetCore@1.0.2
+- pkg:nuget/EasyVersioning.AspNetCore@1.0.2-beta
+- pkg:nuget/EasyVersioning.AspNetCore@2.0.0
+- pkg:nuget/EasyVersioning.AspNetCore@2.0.1
+- pkg:nuget/EasyVersioning.AspNetCore@2.0.1-beta0001
+- pkg:nuget/EasyVersioning.AspNetCore@2.0.1-beta0009
+- pkg:nuget/EasyVersioning.AspNetCore@2.0.1-ci0007
+- pkg:nuget/EasyVersioning.AspNetCore@2.1.0
+- pkg:nuget/EasyVersioning.AspNetCore@2.1.0-beta0003
+- pkg:nuget/EasyVersioning.AspNetCore@2.1.0-beta0005
+- pkg:nuget/EasyVersioning.AspNetCore@2.2.0
+- pkg:nuget/EasyVersioning.AspNetCore@2.2.1-beta0004
+- pkg:nuget/EasyVersioning.AspNetCore@2.2.1-beta0008
+- pkg:nuget/EasyVersioning.AspNetCore@3.1.0

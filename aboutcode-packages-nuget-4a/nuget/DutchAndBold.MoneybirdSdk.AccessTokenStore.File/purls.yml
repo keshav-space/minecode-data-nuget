@@ -1,0 +1,5 @@
+- pkg:nuget/DutchAndBold.MoneybirdSdk.AccessTokenStore.File@1.0.2-alpha
+- pkg:nuget/DutchAndBold.MoneybirdSdk.AccessTokenStore.File@1.0.3-alpha
+- pkg:nuget/DutchAndBold.MoneybirdSdk.AccessTokenStore.File@1.0.5-alpha
+- pkg:nuget/DutchAndBold.MoneybirdSdk.AccessTokenStore.File@1.0.6-alpha
+- pkg:nuget/DutchAndBold.MoneybirdSdk.AccessTokenStore.File@1.0.7-alpha

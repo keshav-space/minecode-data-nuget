@@ -1,0 +1,9 @@
+- pkg:nuget/Elasticsearch-Azure-PAAS@1.0.0-Beta
+- pkg:nuget/Elasticsearch-Azure-PAAS@1.0.0-Beta1
+- pkg:nuget/Elasticsearch-Azure-PAAS@1.0.2-Beta1
+- pkg:nuget/Elasticsearch-Azure-PAAS@1.0.4-Beta
+- pkg:nuget/Elasticsearch-Azure-PAAS@1.0.6-Beta
+- pkg:nuget/Elasticsearch-Azure-PAAS@1.0.7-Beta
+- pkg:nuget/Elasticsearch-Azure-PAAS@1.0.8-Beta
+- pkg:nuget/Elasticsearch-Azure-PAAS@5.0.0.1
+- pkg:nuget/Elasticsearch-Azure-PAAS@5.3.0

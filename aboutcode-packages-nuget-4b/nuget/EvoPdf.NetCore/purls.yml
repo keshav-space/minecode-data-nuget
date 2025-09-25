@@ -1,0 +1,4 @@
+- pkg:nuget/EvoPdf.NetCore@10.0.0
+- pkg:nuget/EvoPdf.NetCore@11.0.0
+- pkg:nuget/EvoPdf.NetCore@12.0.0
+- pkg:nuget/EvoPdf.NetCore@12.0.2

@@ -1,0 +1,13 @@
+- pkg:nuget/DeepEqual.System.Text.Json@3.0.0
+- pkg:nuget/DeepEqual.System.Text.Json@4.0.0
+- pkg:nuget/DeepEqual.System.Text.Json@4.0.1
+- pkg:nuget/DeepEqual.System.Text.Json@4.1.0
+- pkg:nuget/DeepEqual.System.Text.Json@4.2.0
+- pkg:nuget/DeepEqual.System.Text.Json@4.2.1
+- pkg:nuget/DeepEqual.System.Text.Json@5.0.0
+- pkg:nuget/DeepEqual.System.Text.Json@5.1.0
+- pkg:nuget/DeepEqual.System.Text.Json@6.0.0-alpha
+- pkg:nuget/DeepEqual.System.Text.Json@6.0.0-alpha2
+- pkg:nuget/DeepEqual.System.Text.Json@6.0.0-alpha3
+- pkg:nuget/DeepEqual.System.Text.Json@6.0.0-rc1
+- pkg:nuget/DeepEqual.System.Text.Json@6.0.0-rc2

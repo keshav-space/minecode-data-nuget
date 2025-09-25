@@ -1,0 +1,4 @@
+- pkg:nuget/Lacuna.IdentityServer4@6.0.0
+- pkg:nuget/Lacuna.IdentityServer4@6.0.1
+- pkg:nuget/Lacuna.IdentityServer4@6.0.2
+- pkg:nuget/Lacuna.IdentityServer4@8.0.0
