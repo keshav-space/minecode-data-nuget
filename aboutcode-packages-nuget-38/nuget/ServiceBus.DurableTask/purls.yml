@@ -1,0 +1,6 @@
+- pkg:nuget/ServiceBus.DurableTask@0.1.0
+- pkg:nuget/ServiceBus.DurableTask@0.2.0
+- pkg:nuget/ServiceBus.DurableTask@0.2.0.1
+- pkg:nuget/ServiceBus.DurableTask@0.2.0.16
+- pkg:nuget/ServiceBus.DurableTask@0.2.0.2
+- pkg:nuget/ServiceBus.DurableTask@0.2.0.5

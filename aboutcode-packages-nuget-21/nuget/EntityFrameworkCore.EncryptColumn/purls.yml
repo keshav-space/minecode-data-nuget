@@ -1,0 +1,9 @@
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@1.0.0
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@1.1.0
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@3.1.0
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@5.0.6
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@6.0.6
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@6.0.8
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@7.0.0
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@8.0.0
+- pkg:nuget/EntityFrameworkCore.EncryptColumn@9.0.0

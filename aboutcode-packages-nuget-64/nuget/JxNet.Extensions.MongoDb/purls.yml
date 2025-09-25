@@ -1,0 +1,4 @@
+- pkg:nuget/JxNet.Extensions.MongoDb@8.0.0
+- pkg:nuget/JxNet.Extensions.MongoDb@8.0.1
+- pkg:nuget/JxNet.Extensions.MongoDb@8.0.2
+- pkg:nuget/JxNet.Extensions.MongoDb@9.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/SpicyCat.Analyzers.DisallowDbContextInController@1.0.0
+- pkg:nuget/SpicyCat.Analyzers.DisallowDbContextInController@1.0.1

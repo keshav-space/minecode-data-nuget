@@ -1,0 +1,5 @@
+- pkg:nuget/ScriptCs.OctopusClient@0.0.1
+- pkg:nuget/ScriptCs.OctopusClient@0.0.2
+- pkg:nuget/ScriptCs.OctopusClient@0.0.3-alpha
+- pkg:nuget/ScriptCs.OctopusClient@0.1.0
+- pkg:nuget/ScriptCs.OctopusClient@0.1.1

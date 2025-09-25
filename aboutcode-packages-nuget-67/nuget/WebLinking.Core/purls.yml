@@ -1,0 +1,5 @@
+- pkg:nuget/WebLinking.Core@1.0.0-beta
+- pkg:nuget/WebLinking.Core@1.0.1-beta
+- pkg:nuget/WebLinking.Core@1.0.11
+- pkg:nuget/WebLinking.Core@2.0.0
+- pkg:nuget/WebLinking.Core@3.0.0

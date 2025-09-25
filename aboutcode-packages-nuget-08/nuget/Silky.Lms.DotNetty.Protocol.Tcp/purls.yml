@@ -1,0 +1,4 @@
+- pkg:nuget/Silky.Lms.DotNetty.Protocol.Tcp@0.0.1
+- pkg:nuget/Silky.Lms.DotNetty.Protocol.Tcp@1.0.0
+- pkg:nuget/Silky.Lms.DotNetty.Protocol.Tcp@1.0.1
+- pkg:nuget/Silky.Lms.DotNetty.Protocol.Tcp@1.0.2

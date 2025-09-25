@@ -1,0 +1,4 @@
+- pkg:nuget/Zendesk.Client@6.0.0
+- pkg:nuget/Zendesk.Client@6.0.1
+- pkg:nuget/Zendesk.Client@6.0.2
+- pkg:nuget/Zendesk.Client@6.0.3

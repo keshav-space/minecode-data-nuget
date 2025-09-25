@@ -1,0 +1,4 @@
+- pkg:nuget/Zendesk.OAuth@7.0.4
+- pkg:nuget/Zendesk.OAuth@7.0.5
+- pkg:nuget/Zendesk.OAuth@7.0.6
+- pkg:nuget/Zendesk.OAuth@7.0.7

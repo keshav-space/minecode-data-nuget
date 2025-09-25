@@ -1,0 +1,4 @@
+- pkg:nuget/RecShark.AspNetCore.Testing@1.0.0
+- pkg:nuget/RecShark.AspNetCore.Testing@2.0.0
+- pkg:nuget/RecShark.AspNetCore.Testing@2.0.0-beta1
+- pkg:nuget/RecShark.AspNetCore.Testing@2.0.0-beta4

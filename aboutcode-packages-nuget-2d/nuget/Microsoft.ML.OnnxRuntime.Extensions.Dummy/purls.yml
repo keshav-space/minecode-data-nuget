@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions.Dummy@0.10.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions.Dummy@0.10.0-beta
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions.Dummy@0.12.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions.Dummy@0.13.0

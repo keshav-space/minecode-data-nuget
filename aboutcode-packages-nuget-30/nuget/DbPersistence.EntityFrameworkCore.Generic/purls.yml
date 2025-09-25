@@ -1,0 +1,3 @@
+- pkg:nuget/DbPersistence.EntityFrameworkCore.Generic@1.0.0
+- pkg:nuget/DbPersistence.EntityFrameworkCore.Generic@1.1.0
+- pkg:nuget/DbPersistence.EntityFrameworkCore.Generic@2.0.1

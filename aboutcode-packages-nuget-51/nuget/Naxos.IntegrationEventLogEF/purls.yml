@@ -1,0 +1,4 @@
+- pkg:nuget/Naxos.IntegrationEventLogEF@1.0.0
+- pkg:nuget/Naxos.IntegrationEventLogEF@2.0.0
+- pkg:nuget/Naxos.IntegrationEventLogEF@2.0.0.1
+- pkg:nuget/Naxos.IntegrationEventLogEF@2.0.0.2

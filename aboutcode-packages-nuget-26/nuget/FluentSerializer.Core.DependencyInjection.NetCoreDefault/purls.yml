@@ -1,0 +1,4 @@
+- pkg:nuget/FluentSerializer.Core.DependencyInjection.NetCoreDefault@1.0.0
+- pkg:nuget/FluentSerializer.Core.DependencyInjection.NetCoreDefault@1.0.0-alpha.1
+- pkg:nuget/FluentSerializer.Core.DependencyInjection.NetCoreDefault@1.0.0-rc.1
+- pkg:nuget/FluentSerializer.Core.DependencyInjection.NetCoreDefault@1.0.1

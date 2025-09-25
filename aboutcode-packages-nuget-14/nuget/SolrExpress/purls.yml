@@ -1,0 +1,12 @@
+- pkg:nuget/SolrExpress@5.0.0
+- pkg:nuget/SolrExpress@5.0.0-BETA1
+- pkg:nuget/SolrExpress@5.0.0-BETA2
+- pkg:nuget/SolrExpress@5.0.1
+- pkg:nuget/SolrExpress@5.1.1
+- pkg:nuget/SolrExpress@5.1.2
+- pkg:nuget/SolrExpress@5.2.0
+- pkg:nuget/SolrExpress@5.3.0
+- pkg:nuget/SolrExpress@5.3.1
+- pkg:nuget/SolrExpress@5.4.0
+- pkg:nuget/SolrExpress@5.4.2
+- pkg:nuget/SolrExpress@5.5.0

@@ -1,0 +1,8 @@
+- pkg:nuget/DotnetCoreUtils@1.1.0-CI-20190916-084934
+- pkg:nuget/DotnetCoreUtils@1.2.0
+- pkg:nuget/DotnetCoreUtils@1.2.0-CI-20190916-111444
+- pkg:nuget/DotnetCoreUtils@1.2.1
+- pkg:nuget/DotnetCoreUtils@1.2.2
+- pkg:nuget/DotnetCoreUtils@1.2.3
+- pkg:nuget/DotnetCoreUtils@1.2.4
+- pkg:nuget/DotnetCoreUtils@1.2.5

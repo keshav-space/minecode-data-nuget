@@ -1,0 +1,5 @@
+- pkg:nuget/DNV.OAuth.Web.Swagger@1.5.0
+- pkg:nuget/DNV.OAuth.Web.Swagger@1.5.1
+- pkg:nuget/DNV.OAuth.Web.Swagger@1.6.0
+- pkg:nuget/DNV.OAuth.Web.Swagger@1.6.1
+- pkg:nuget/DNV.OAuth.Web.Swagger@2.0.0

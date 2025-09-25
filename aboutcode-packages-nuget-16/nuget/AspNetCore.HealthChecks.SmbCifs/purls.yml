@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.HealthChecks.SmbCifs@2.0.0
+- pkg:nuget/AspNetCore.HealthChecks.SmbCifs@2.0.5
+- pkg:nuget/AspNetCore.HealthChecks.SmbCifs@2.0.6
+- pkg:nuget/AspNetCore.HealthChecks.SmbCifs@2.0.7

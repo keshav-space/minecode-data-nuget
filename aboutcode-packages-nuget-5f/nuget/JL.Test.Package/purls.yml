@@ -1,0 +1,4 @@
+- pkg:nuget/JL.Test.Package@0.0.1-a
+- pkg:nuget/JL.Test.Package@0.0.1-b
+- pkg:nuget/JL.Test.Package@0.0.1-c
+- pkg:nuget/JL.Test.Package@0.0.1-d

@@ -1,0 +1,4 @@
+- pkg:nuget/Edisha.Common.Azure.CosmosDB@0.0.12
+- pkg:nuget/Edisha.Common.Azure.CosmosDB@0.0.13
+- pkg:nuget/Edisha.Common.Azure.CosmosDB@0.0.8
+- pkg:nuget/Edisha.Common.Azure.CosmosDB@0.0.9

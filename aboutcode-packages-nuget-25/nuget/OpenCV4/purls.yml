@@ -1,0 +1,12 @@
+- pkg:nuget/OpenCV4@4.1.2
+- pkg:nuget/OpenCV4@4.1.3
+- pkg:nuget/OpenCV4@4.1.4
+- pkg:nuget/OpenCV4@4.1.5
+- pkg:nuget/OpenCV4@4.1.6
+- pkg:nuget/OpenCV4@4.1.7
+- pkg:nuget/OpenCV4@4.2.0
+- pkg:nuget/OpenCV4@4.2.10
+- pkg:nuget/OpenCV4@4.2.11
+- pkg:nuget/OpenCV4@4.2.12
+- pkg:nuget/OpenCV4@4.3.1
+- pkg:nuget/OpenCV4@5.0.0

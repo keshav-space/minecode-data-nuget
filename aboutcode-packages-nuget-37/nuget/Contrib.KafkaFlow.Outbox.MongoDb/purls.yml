@@ -1,0 +1,3 @@
+- pkg:nuget/Contrib.KafkaFlow.Outbox.MongoDb@4.0.12
+- pkg:nuget/Contrib.KafkaFlow.Outbox.MongoDb@4.1.0
+- pkg:nuget/Contrib.KafkaFlow.Outbox.MongoDb@4.1.2

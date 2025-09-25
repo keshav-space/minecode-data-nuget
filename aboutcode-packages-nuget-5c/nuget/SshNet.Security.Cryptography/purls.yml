@@ -1,0 +1,5 @@
+- pkg:nuget/SshNet.Security.Cryptography@1.0.0
+- pkg:nuget/SshNet.Security.Cryptography@1.1.0
+- pkg:nuget/SshNet.Security.Cryptography@1.1.0-beta1
+- pkg:nuget/SshNet.Security.Cryptography@1.2.0
+- pkg:nuget/SshNet.Security.Cryptography@1.3.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Amazon.Lambda.TestUtilities@1.0.0
+- pkg:nuget/Amazon.Lambda.TestUtilities@1.1.0
+- pkg:nuget/Amazon.Lambda.TestUtilities@1.2.0
+- pkg:nuget/Amazon.Lambda.TestUtilities@2.0.0
+- pkg:nuget/Amazon.Lambda.TestUtilities@3.0.0

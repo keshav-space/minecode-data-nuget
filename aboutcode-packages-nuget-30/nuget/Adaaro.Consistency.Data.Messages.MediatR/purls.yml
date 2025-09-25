@@ -1,0 +1,6 @@
+- pkg:nuget/Adaaro.Consistency.Data.Messages.MediatR@1.0.0
+- pkg:nuget/Adaaro.Consistency.Data.Messages.MediatR@2.0.0
+- pkg:nuget/Adaaro.Consistency.Data.Messages.MediatR@2.1.0
+- pkg:nuget/Adaaro.Consistency.Data.Messages.MediatR@2.2.0
+- pkg:nuget/Adaaro.Consistency.Data.Messages.MediatR@2.3.0
+- pkg:nuget/Adaaro.Consistency.Data.Messages.MediatR@3.0.0

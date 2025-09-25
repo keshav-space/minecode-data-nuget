@@ -1,0 +1,3 @@
+- pkg:nuget/DBVM.SqlServer@1.0.0
+- pkg:nuget/DBVM.SqlServer@1.1.0
+- pkg:nuget/DBVM.SqlServer@1.2.1

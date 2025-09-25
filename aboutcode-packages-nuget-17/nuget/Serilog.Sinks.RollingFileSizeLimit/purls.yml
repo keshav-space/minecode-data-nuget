@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.RollingFileSizeLimit@1.0.0

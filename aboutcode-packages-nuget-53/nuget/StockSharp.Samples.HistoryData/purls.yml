@@ -1,0 +1,4 @@
+- pkg:nuget/StockSharp.Samples.HistoryData@1.0.0
+- pkg:nuget/StockSharp.Samples.HistoryData@5.0.0
+- pkg:nuget/StockSharp.Samples.HistoryData@5.0.1
+- pkg:nuget/StockSharp.Samples.HistoryData@5.0.2

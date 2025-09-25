@@ -1,0 +1,7 @@
+- pkg:nuget/Rebus.RabbitMq.TransientFaultHelper@0.9.0
+- pkg:nuget/Rebus.RabbitMq.TransientFaultHelper@0.9.1
+- pkg:nuget/Rebus.RabbitMq.TransientFaultHelper@1.0.0
+- pkg:nuget/Rebus.RabbitMq.TransientFaultHelper@1.0.1
+- pkg:nuget/Rebus.RabbitMq.TransientFaultHelper@1.0.2
+- pkg:nuget/Rebus.RabbitMq.TransientFaultHelper@1.0.3
+- pkg:nuget/Rebus.RabbitMq.TransientFaultHelper@2.0.0

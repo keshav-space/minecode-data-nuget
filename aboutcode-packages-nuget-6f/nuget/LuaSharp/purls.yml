@@ -1,0 +1,3 @@
+- pkg:nuget/LuaSharp@1.0.0
+- pkg:nuget/LuaSharp@1.0.1
+- pkg:nuget/LuaSharp@5.4.6
