@@ -1,0 +1,5 @@
+- pkg:nuget/BH.External.Keras@3.6.1.11-alpha
+- pkg:nuget/BH.External.Keras@3.6.1.12-alpha
+- pkg:nuget/BH.External.Keras@3.6.1.13-alpha
+- pkg:nuget/BH.External.Keras@3.6.1.14-alpha
+- pkg:nuget/BH.External.Keras@3.6.1.15-alpha

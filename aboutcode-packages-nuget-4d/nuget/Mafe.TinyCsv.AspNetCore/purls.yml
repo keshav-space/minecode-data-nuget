@@ -1,0 +1,8 @@
+- pkg:nuget/Mafe.TinyCsv.AspNetCore@1.0.0
+- pkg:nuget/Mafe.TinyCsv.AspNetCore@2.0.0
+- pkg:nuget/Mafe.TinyCsv.AspNetCore@2.0.0-beta1
+- pkg:nuget/Mafe.TinyCsv.AspNetCore@2.0.0-beta2
+- pkg:nuget/Mafe.TinyCsv.AspNetCore@2.0.0-rc1
+- pkg:nuget/Mafe.TinyCsv.AspNetCore@2.0.1
+- pkg:nuget/Mafe.TinyCsv.AspNetCore@2.2.0
+- pkg:nuget/Mafe.TinyCsv.AspNetCore@2.2.0-rc1

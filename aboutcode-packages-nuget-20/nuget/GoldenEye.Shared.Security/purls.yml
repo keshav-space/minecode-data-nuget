@@ -1,0 +1,14 @@
+- pkg:nuget/GoldenEye.Shared.Security@2.1.2
+- pkg:nuget/GoldenEye.Shared.Security@2.2.3
+- pkg:nuget/GoldenEye.Shared.Security@2.2.4
+- pkg:nuget/GoldenEye.Shared.Security@3.0.0
+- pkg:nuget/GoldenEye.Shared.Security@3.0.3
+- pkg:nuget/GoldenEye.Shared.Security@3.0.4
+- pkg:nuget/GoldenEye.Shared.Security@3.0.6
+- pkg:nuget/GoldenEye.Shared.Security@3.0.7
+- pkg:nuget/GoldenEye.Shared.Security@3.0.8
+- pkg:nuget/GoldenEye.Shared.Security@4.0.0
+- pkg:nuget/GoldenEye.Shared.Security@5.0.0
+- pkg:nuget/GoldenEye.Shared.Security@5.1.0
+- pkg:nuget/GoldenEye.Shared.Security@7.0.0
+- pkg:nuget/GoldenEye.Shared.Security@7.1.0

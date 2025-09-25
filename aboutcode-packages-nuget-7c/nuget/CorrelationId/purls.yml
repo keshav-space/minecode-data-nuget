@@ -1,0 +1,11 @@
+- pkg:nuget/CorrelationId@1.0.0
+- pkg:nuget/CorrelationId@1.0.1
+- pkg:nuget/CorrelationId@2.0.0
+- pkg:nuget/CorrelationId@2.0.1
+- pkg:nuget/CorrelationId@2.1.0
+- pkg:nuget/CorrelationId@2.1.0-rc
+- pkg:nuget/CorrelationId@2.1.0-rc2
+- pkg:nuget/CorrelationId@2.1.0-rc3
+- pkg:nuget/CorrelationId@3.0.0
+- pkg:nuget/CorrelationId@3.0.0-preview.1
+- pkg:nuget/CorrelationId@3.0.1

@@ -1,0 +1,10 @@
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@0.1.0-pre
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@0.1.0.1-pre
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@0.1.0.2-pre
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@0.1.0.3-pre
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@0.1.0.4-pre
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@0.1.0.5-pre
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@1.0.1-pre
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@1.0.1.1-pre
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@1.0.1.2
+- pkg:nuget/Stormancer.Server.Plugins.GeoIp.Maxmind@1.0.1.2-pre

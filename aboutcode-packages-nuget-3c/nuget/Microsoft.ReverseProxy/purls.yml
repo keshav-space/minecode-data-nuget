@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.1.20264.1
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.1.20268.2
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.2.20318.2
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.3.20371.4
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.4.20424.2
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.5.20467.3
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.6.20513.1
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.7.20562.2
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.8.21065.1
+- pkg:nuget/Microsoft.ReverseProxy@1.0.0-preview.9.21116.1

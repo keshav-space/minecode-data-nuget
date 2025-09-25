@@ -1,0 +1,6 @@
+- pkg:nuget/ContainerSolutions.Kubernetes.OperatorSDK@0.6.0
+- pkg:nuget/ContainerSolutions.Kubernetes.OperatorSDK@0.6.1
+- pkg:nuget/ContainerSolutions.Kubernetes.OperatorSDK@0.6.2
+- pkg:nuget/ContainerSolutions.Kubernetes.OperatorSDK@0.6.3
+- pkg:nuget/ContainerSolutions.Kubernetes.OperatorSDK@0.6.4
+- pkg:nuget/ContainerSolutions.Kubernetes.OperatorSDK@0.7.0

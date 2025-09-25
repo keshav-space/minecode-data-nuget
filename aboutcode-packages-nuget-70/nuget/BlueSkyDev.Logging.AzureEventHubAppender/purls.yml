@@ -1,0 +1,5 @@
+- pkg:nuget/BlueSkyDev.Logging.AzureEventHubAppender@1.1.0-CI-20200103-191040
+- pkg:nuget/BlueSkyDev.Logging.AzureEventHubAppender@1.2.0-CI-20200609-131213
+- pkg:nuget/BlueSkyDev.Logging.AzureEventHubAppender@1.2.1
+- pkg:nuget/BlueSkyDev.Logging.AzureEventHubAppender@1.3.0
+- pkg:nuget/BlueSkyDev.Logging.AzureEventHubAppender@1.3.2

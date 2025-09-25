@@ -1,0 +1,4 @@
+- pkg:nuget/Lambor.EventBus.RabbitMQ.Standard@1.0.0
+- pkg:nuget/Lambor.EventBus.RabbitMQ.Standard@1.0.0.1
+- pkg:nuget/Lambor.EventBus.RabbitMQ.Standard@1.0.0.2
+- pkg:nuget/Lambor.EventBus.RabbitMQ.Standard@1.0.0.3

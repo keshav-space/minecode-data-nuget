@@ -1,0 +1,6 @@
+- pkg:nuget/NuvTools.Storage.Azure@7.0.0
+- pkg:nuget/NuvTools.Storage.Azure@7.0.1
+- pkg:nuget/NuvTools.Storage.Azure@8.0.0
+- pkg:nuget/NuvTools.Storage.Azure@8.1.0
+- pkg:nuget/NuvTools.Storage.Azure@9.0.0
+- pkg:nuget/NuvTools.Storage.Azure@9.1.0

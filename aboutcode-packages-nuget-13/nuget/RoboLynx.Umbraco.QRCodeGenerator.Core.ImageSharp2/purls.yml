@@ -1,0 +1,4 @@
+- pkg:nuget/RoboLynx.Umbraco.QRCodeGenerator.Core.ImageSharp2@12.0.0
+- pkg:nuget/RoboLynx.Umbraco.QRCodeGenerator.Core.ImageSharp2@12.0.1
+- pkg:nuget/RoboLynx.Umbraco.QRCodeGenerator.Core.ImageSharp2@12.0.2
+- pkg:nuget/RoboLynx.Umbraco.QRCodeGenerator.Core.ImageSharp2@13.0.0

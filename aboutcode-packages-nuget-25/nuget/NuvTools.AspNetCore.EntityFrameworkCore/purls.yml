@@ -1,0 +1,15 @@
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@6.5.0
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@7.0.0
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@7.0.1
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@7.1.0
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@8.0.0
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@8.0.2
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@8.0.3
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@8.1.0
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@9.0.0
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@9.0.2
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@9.0.3
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@9.0.4
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@9.0.9
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@9.1.0
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@9.2.0

@@ -1,0 +1,6 @@
+- pkg:nuget/NetCoreDI@1.0.0
+- pkg:nuget/NetCoreDI@1.1.0
+- pkg:nuget/NetCoreDI@2.0.0
+- pkg:nuget/NetCoreDI@2.0.0.1
+- pkg:nuget/NetCoreDI@3.0.0
+- pkg:nuget/NetCoreDI@4.0.0-rc1

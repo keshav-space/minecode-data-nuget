@@ -1,0 +1,4 @@
+- pkg:nuget/Snow.Gqz.Infra.Repository.EfCore.MySql@6.1.0
+- pkg:nuget/Snow.Gqz.Infra.Repository.EfCore.MySql@6.1.1
+- pkg:nuget/Snow.Gqz.Infra.Repository.EfCore.MySql@6.1.2
+- pkg:nuget/Snow.Gqz.Infra.Repository.EfCore.MySql@6.1.3

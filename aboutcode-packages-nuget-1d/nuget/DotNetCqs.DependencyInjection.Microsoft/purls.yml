@@ -1,0 +1,6 @@
+- pkg:nuget/DotNetCqs.DependencyInjection.Microsoft@1.0.0
+- pkg:nuget/DotNetCqs.DependencyInjection.Microsoft@1.0.1
+- pkg:nuget/DotNetCqs.DependencyInjection.Microsoft@2.2.0
+- pkg:nuget/DotNetCqs.DependencyInjection.Microsoft@2.2.0.1
+- pkg:nuget/DotNetCqs.DependencyInjection.Microsoft@2.2.0.2
+- pkg:nuget/DotNetCqs.DependencyInjection.Microsoft@2.2.1

@@ -1,0 +1,10 @@
+- pkg:nuget/TCDev.APIGenerator.OData@0.5.0-WDWC
+- pkg:nuget/TCDev.APIGenerator.OData@0.5.0-WDWC-DEMO
+- pkg:nuget/TCDev.APIGenerator.OData@0.5.0-WDWC-DEMO-ODATA
+- pkg:nuget/TCDev.APIGenerator.OData@0.5.0-alpha-1
+- pkg:nuget/TCDev.APIGenerator.OData@0.6.0
+- pkg:nuget/TCDev.APIGenerator.OData@0.6.0-RC1
+- pkg:nuget/TCDev.APIGenerator.OData@0.6.0-RC2
+- pkg:nuget/TCDev.APIGenerator.OData@0.7.0
+- pkg:nuget/TCDev.APIGenerator.OData@0.7.0-RC1
+- pkg:nuget/TCDev.APIGenerator.OData@0.7.1-RC1

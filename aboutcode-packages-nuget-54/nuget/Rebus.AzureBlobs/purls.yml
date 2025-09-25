@@ -1,0 +1,13 @@
+- pkg:nuget/Rebus.AzureBlobs@0.1.0
+- pkg:nuget/Rebus.AzureBlobs@0.3.0
+- pkg:nuget/Rebus.AzureBlobs@0.4.0
+- pkg:nuget/Rebus.AzureBlobs@0.5.0
+- pkg:nuget/Rebus.AzureBlobs@0.5.1
+- pkg:nuget/Rebus.AzureBlobs@0.6.0
+- pkg:nuget/Rebus.AzureBlobs@1.0.0
+- pkg:nuget/Rebus.AzureBlobs@1.0.0-alpha01
+- pkg:nuget/Rebus.AzureBlobs@1.0.0-alpha02
+- pkg:nuget/Rebus.AzureBlobs@1.0.0-alpha03
+- pkg:nuget/Rebus.AzureBlobs@1.0.0-alpha04
+- pkg:nuget/Rebus.AzureBlobs@1.0.1
+- pkg:nuget/Rebus.AzureBlobs@1.1.0

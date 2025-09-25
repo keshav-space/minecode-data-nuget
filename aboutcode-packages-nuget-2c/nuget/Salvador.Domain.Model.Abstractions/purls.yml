@@ -1,0 +1,5 @@
+- pkg:nuget/Salvador.Domain.Model.Abstractions@0.1.0-CI-20201019-122101
+- pkg:nuget/Salvador.Domain.Model.Abstractions@0.1.1
+- pkg:nuget/Salvador.Domain.Model.Abstractions@1.0.0.1
+- pkg:nuget/Salvador.Domain.Model.Abstractions@1.0.1.2
+- pkg:nuget/Salvador.Domain.Model.Abstractions@2.0.0.1

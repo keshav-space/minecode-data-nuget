@@ -1,0 +1,4 @@
+- pkg:nuget/RRQMSocket.RPC.AspNetCore@8.2.0
+- pkg:nuget/RRQMSocket.RPC.AspNetCore@8.2.1
+- pkg:nuget/RRQMSocket.RPC.AspNetCore@8.2.2
+- pkg:nuget/RRQMSocket.RPC.AspNetCore@8.2.3

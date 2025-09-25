@@ -1,0 +1,5 @@
+- pkg:nuget/BulmaBlazor@0.1.0-alpha
+- pkg:nuget/BulmaBlazor@0.2.0-alpha
+- pkg:nuget/BulmaBlazor@0.3.0
+- pkg:nuget/BulmaBlazor@0.5.0
+- pkg:nuget/BulmaBlazor@1.0.0

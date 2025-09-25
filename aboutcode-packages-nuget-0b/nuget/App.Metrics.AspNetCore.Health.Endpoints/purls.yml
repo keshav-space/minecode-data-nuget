@@ -1,0 +1,10 @@
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@2.0.0
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@2.0.0-alpha
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@2.0.0-preview1
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@2.1.0
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@2.1.0-alpha-0065
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@2.1.0-alpha-0071
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@3.1.0
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@3.1.0-dev0029
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@3.2.0
+- pkg:nuget/App.Metrics.AspNetCore.Health.Endpoints@3.2.0-dev0002

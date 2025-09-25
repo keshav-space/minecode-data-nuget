@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.WinUI@3.0.0-alpha.191101.0
+- pkg:nuget/Microsoft.WinUI@3.0.0-alpha.200210.0
+- pkg:nuget/Microsoft.WinUI@3.0.0-preview1.200515.3
+- pkg:nuget/Microsoft.WinUI@3.0.0-preview2.200713.0
+- pkg:nuget/Microsoft.WinUI@3.0.0-preview3.201113.0
+- pkg:nuget/Microsoft.WinUI@3.0.0-preview4.210210.4

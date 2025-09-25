@@ -1,0 +1,2 @@
+- pkg:nuget/NHibernate5.SqlAzure.Standalone@2.1.6
+- pkg:nuget/NHibernate5.SqlAzure.Standalone@3.0.0

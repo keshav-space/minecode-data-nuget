@@ -1,0 +1,9 @@
+- pkg:nuget/NuvTools.Security.AspNetCore@6.5.0
+- pkg:nuget/NuvTools.Security.AspNetCore@7.0.0
+- pkg:nuget/NuvTools.Security.AspNetCore@7.0.1
+- pkg:nuget/NuvTools.Security.AspNetCore@8.0.3
+- pkg:nuget/NuvTools.Security.AspNetCore@8.1.0
+- pkg:nuget/NuvTools.Security.AspNetCore@9.0.0
+- pkg:nuget/NuvTools.Security.AspNetCore@9.1.1
+- pkg:nuget/NuvTools.Security.AspNetCore@9.1.2
+- pkg:nuget/NuvTools.Security.AspNetCore@9.2.0

@@ -1,0 +1,3 @@
+- pkg:nuget/ConsoleExtensions.Commandline@0.1.0-Dev
+- pkg:nuget/ConsoleExtensions.Commandline@1.0.0
+- pkg:nuget/ConsoleExtensions.Commandline@1.0.1

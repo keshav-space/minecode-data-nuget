@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200@15.2.200-preview.12.4%2Bsha.8b457e14b
+- pkg:nuget/Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200@15.2.301-preview.13.10%2Bsha.922db38a7
+- pkg:nuget/Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200@15.2.301-preview.13.15%2Bsha.118a4b337
+- pkg:nuget/Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200@15.2.301-preview.13.2%2Bsha.88f54c5e8
+- pkg:nuget/Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200@15.2.301-preview.13.5%2Bsha.33c8b60c1
+- pkg:nuget/Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200@15.2.301-preview.13.7%2Bsha.53134097a
+- pkg:nuget/Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200@15.2.302-preview.14.117%2Bsha.2ba978066
+- pkg:nuget/Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200@15.2.302-preview.14.122%2Bsha.3ca798cb5

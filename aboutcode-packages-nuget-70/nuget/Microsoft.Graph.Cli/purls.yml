@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Graph.Cli@1.0.0-preview.1
+- pkg:nuget/Microsoft.Graph.Cli@1.0.0-preview.2
+- pkg:nuget/Microsoft.Graph.Cli@1.0.0-rc.0
+- pkg:nuget/Microsoft.Graph.Cli@1.0.0-rc.1
+- pkg:nuget/Microsoft.Graph.Cli@1.0.0-rc.2

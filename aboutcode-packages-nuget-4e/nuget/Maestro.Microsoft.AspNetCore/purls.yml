@@ -1,0 +1,8 @@
+- pkg:nuget/Maestro.Microsoft.AspNetCore@1.0.0
+- pkg:nuget/Maestro.Microsoft.AspNetCore@1.0.0-rc1
+- pkg:nuget/Maestro.Microsoft.AspNetCore@1.0.0-rc2
+- pkg:nuget/Maestro.Microsoft.AspNetCore@2.0.0
+- pkg:nuget/Maestro.Microsoft.AspNetCore@2.0.0-beta-1808241145
+- pkg:nuget/Maestro.Microsoft.AspNetCore@2.0.0-beta-1808281144
+- pkg:nuget/Maestro.Microsoft.AspNetCore@2.0.0-rc3
+- pkg:nuget/Maestro.Microsoft.AspNetCore@2.1.0

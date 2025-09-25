@@ -1,0 +1,11 @@
+- pkg:nuget/MongoDB.Extensions.Repository@1.0.0
+- pkg:nuget/MongoDB.Extensions.Repository@1.0.24
+- pkg:nuget/MongoDB.Extensions.Repository@1.0.28
+- pkg:nuget/MongoDB.Extensions.Repository@1.0.32
+- pkg:nuget/MongoDB.Extensions.Repository@1.0.36
+- pkg:nuget/MongoDB.Extensions.Repository@1.0.40
+- pkg:nuget/MongoDB.Extensions.Repository@1.0.44
+- pkg:nuget/MongoDB.Extensions.Repository@1.20.0
+- pkg:nuget/MongoDB.Extensions.Repository@2.0.53
+- pkg:nuget/MongoDB.Extensions.Repository@2.0.55
+- pkg:nuget/MongoDB.Extensions.Repository@2.0.57

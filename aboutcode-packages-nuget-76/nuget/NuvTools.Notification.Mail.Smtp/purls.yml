@@ -1,0 +1,8 @@
+- pkg:nuget/NuvTools.Notification.Mail.Smtp@7.0.0
+- pkg:nuget/NuvTools.Notification.Mail.Smtp@7.0.1
+- pkg:nuget/NuvTools.Notification.Mail.Smtp@8.0.3
+- pkg:nuget/NuvTools.Notification.Mail.Smtp@8.1.0
+- pkg:nuget/NuvTools.Notification.Mail.Smtp@9.0.0
+- pkg:nuget/NuvTools.Notification.Mail.Smtp@9.1.0
+- pkg:nuget/NuvTools.Notification.Mail.Smtp@9.2.0
+- pkg:nuget/NuvTools.Notification.Mail.Smtp@9.3.0

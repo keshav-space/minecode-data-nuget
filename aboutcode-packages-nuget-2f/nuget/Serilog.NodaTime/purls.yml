@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.NodaTime@1.0.0
+- pkg:nuget/Serilog.NodaTime@2.0.0
+- pkg:nuget/Serilog.NodaTime@3.0.0
+- pkg:nuget/Serilog.NodaTime@3.0.0-beta01

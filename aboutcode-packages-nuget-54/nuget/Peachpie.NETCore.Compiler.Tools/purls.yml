@@ -1,0 +1,10 @@
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.0-preview-4
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.0-preview-5
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.0-preview-7
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.0-private0
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.0-private1
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.1-preview-1
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.1-preview-2
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.1-preview5
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.1-preview6
+- pkg:nuget/Peachpie.NETCore.Compiler.Tools@0.1.1-preview7

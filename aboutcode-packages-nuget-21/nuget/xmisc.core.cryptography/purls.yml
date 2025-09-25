@@ -1,0 +1,7 @@
+- pkg:nuget/xmisc.core.cryptography@2.0.11-alpha
+- pkg:nuget/xmisc.core.cryptography@2.0.28-alpha
+- pkg:nuget/xmisc.core.cryptography@2.0.6-alpha
+- pkg:nuget/xmisc.core.cryptography@4.0.3-alpha
+- pkg:nuget/xmisc.core.cryptography@4.0.69-alpha
+- pkg:nuget/xmisc.core.cryptography@6.0.6
+- pkg:nuget/xmisc.core.cryptography@9.0.10

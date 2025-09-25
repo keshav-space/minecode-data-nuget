@@ -1,0 +1,15 @@
+- pkg:nuget/Xunit.AssertMessages@2.4.0
+- pkg:nuget/Xunit.AssertMessages@2.4.0-beta1
+- pkg:nuget/Xunit.AssertMessages@2.4.1
+- pkg:nuget/Xunit.AssertMessages@2.4.2
+- pkg:nuget/Xunit.AssertMessages@2.5.0
+- pkg:nuget/Xunit.AssertMessages@2.5.1
+- pkg:nuget/Xunit.AssertMessages@2.5.2
+- pkg:nuget/Xunit.AssertMessages@2.6.2
+- pkg:nuget/Xunit.AssertMessages@2.6.3
+- pkg:nuget/Xunit.AssertMessages@2.7.0
+- pkg:nuget/Xunit.AssertMessages@2.7.1
+- pkg:nuget/Xunit.AssertMessages@2.8.0
+- pkg:nuget/Xunit.AssertMessages@2.8.1
+- pkg:nuget/Xunit.AssertMessages@2.9.0
+- pkg:nuget/Xunit.AssertMessages@2.9.2

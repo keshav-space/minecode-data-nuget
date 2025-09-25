@@ -1,0 +1,7 @@
+- pkg:nuget/OpenTelemetry.Resources.Host@0.1.0-beta.1
+- pkg:nuget/OpenTelemetry.Resources.Host@0.1.0-beta.2
+- pkg:nuget/OpenTelemetry.Resources.Host@0.1.0-beta.3
+- pkg:nuget/OpenTelemetry.Resources.Host@1.10.0-beta.1
+- pkg:nuget/OpenTelemetry.Resources.Host@1.11.0-beta.1
+- pkg:nuget/OpenTelemetry.Resources.Host@1.11.0-beta.2
+- pkg:nuget/OpenTelemetry.Resources.Host@1.12.0-beta.1

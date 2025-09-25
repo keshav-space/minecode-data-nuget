@@ -1,0 +1,10 @@
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.0.1-preview320-rc1
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.0.2-preview320-rc1
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.0.3-preview320-rc1
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.0.4-preview320-rc1
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.0.5-preview320-rc1
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.0.6-preview
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.0.7-preview
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.0.8-preview
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.1.0
+- pkg:nuget/Shipwreck.BlazorFramework.Core@0.2.0

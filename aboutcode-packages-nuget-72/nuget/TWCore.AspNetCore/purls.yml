@@ -1,0 +1,3 @@
+- pkg:nuget/TWCore.AspNetCore@3.0.0-beta3
+- pkg:nuget/TWCore.AspNetCore@3.0.0-beta4
+- pkg:nuget/TWCore.AspNetCore@3.0.0-beta5

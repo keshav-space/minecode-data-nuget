@@ -1,0 +1,14 @@
+- pkg:nuget/Southport.Messaging.Email.SendGrid@1.0.0
+- pkg:nuget/Southport.Messaging.Email.SendGrid@1.0.0-beta1
+- pkg:nuget/Southport.Messaging.Email.SendGrid@1.0.1
+- pkg:nuget/Southport.Messaging.Email.SendGrid@1.0.2
+- pkg:nuget/Southport.Messaging.Email.SendGrid@2.0.0
+- pkg:nuget/Southport.Messaging.Email.SendGrid@2.0.1
+- pkg:nuget/Southport.Messaging.Email.SendGrid@2.1.0
+- pkg:nuget/Southport.Messaging.Email.SendGrid@2.2.0
+- pkg:nuget/Southport.Messaging.Email.SendGrid@2.3.0
+- pkg:nuget/Southport.Messaging.Email.SendGrid@2.3.1
+- pkg:nuget/Southport.Messaging.Email.SendGrid@2.3.2
+- pkg:nuget/Southport.Messaging.Email.SendGrid@8.0.0
+- pkg:nuget/Southport.Messaging.Email.SendGrid@8.0.1
+- pkg:nuget/Southport.Messaging.Email.SendGrid@8.0.2

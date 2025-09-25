@@ -1,0 +1,8 @@
+- pkg:nuget/NHibernate4.SqlAzure.Standalone@2.1.0
+- pkg:nuget/NHibernate4.SqlAzure.Standalone@2.1.1
+- pkg:nuget/NHibernate4.SqlAzure.Standalone@2.1.2
+- pkg:nuget/NHibernate4.SqlAzure.Standalone@2.1.3
+- pkg:nuget/NHibernate4.SqlAzure.Standalone@2.1.4
+- pkg:nuget/NHibernate4.SqlAzure.Standalone@2.1.5
+- pkg:nuget/NHibernate4.SqlAzure.Standalone@2.1.6
+- pkg:nuget/NHibernate4.SqlAzure.Standalone@3.0.0

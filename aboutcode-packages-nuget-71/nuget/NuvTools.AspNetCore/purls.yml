@@ -1,0 +1,11 @@
+- pkg:nuget/NuvTools.AspNetCore@6.5.0
+- pkg:nuget/NuvTools.AspNetCore@7.0.0
+- pkg:nuget/NuvTools.AspNetCore@7.0.1
+- pkg:nuget/NuvTools.AspNetCore@7.1.0
+- pkg:nuget/NuvTools.AspNetCore@8.0.0
+- pkg:nuget/NuvTools.AspNetCore@8.0.2
+- pkg:nuget/NuvTools.AspNetCore@8.1.0
+- pkg:nuget/NuvTools.AspNetCore@9.0.0
+- pkg:nuget/NuvTools.AspNetCore@9.0.9
+- pkg:nuget/NuvTools.AspNetCore@9.1.0
+- pkg:nuget/NuvTools.AspNetCore@9.2.0

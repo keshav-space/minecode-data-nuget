@@ -1,0 +1,15 @@
+- pkg:nuget/Sourcey.EntityFrameworkCore@1.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@1.0.0-alpha
+- pkg:nuget/Sourcey.EntityFrameworkCore@2.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@3.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@3.1.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@3.2.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@3.2.1
+- pkg:nuget/Sourcey.EntityFrameworkCore@4.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@5.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@6.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@7.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@8.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@8.1.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@9.0.0
+- pkg:nuget/Sourcey.EntityFrameworkCore@9.0.1

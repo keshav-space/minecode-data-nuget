@@ -1,0 +1,5 @@
+- pkg:nuget/Serilog.Sinks.Azure.TableStorage.Compact.Reader@0.0.1
+- pkg:nuget/Serilog.Sinks.Azure.TableStorage.Compact.Reader@0.0.2
+- pkg:nuget/Serilog.Sinks.Azure.TableStorage.Compact.Reader@0.0.3
+- pkg:nuget/Serilog.Sinks.Azure.TableStorage.Compact.Reader@0.0.4
+- pkg:nuget/Serilog.Sinks.Azure.TableStorage.Compact.Reader@0.0.5

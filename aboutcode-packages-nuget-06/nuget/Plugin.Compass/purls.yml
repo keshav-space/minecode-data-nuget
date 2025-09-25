@@ -1,0 +1,4 @@
+- pkg:nuget/Plugin.Compass@2.0.0
+- pkg:nuget/Plugin.Compass@3.0.0.10-alpha
+- pkg:nuget/Plugin.Compass@3.0.0.9-alpha
+- pkg:nuget/Plugin.Compass@3.0.1

@@ -1,0 +1,6 @@
+- pkg:nuget/Pomelo.AspNetCore.SignalR.Redis@0.1.0
+- pkg:nuget/Pomelo.AspNetCore.SignalR.Redis@0.1.0-prerelease-20160726
+- pkg:nuget/Pomelo.AspNetCore.SignalR.Redis@1.0.0-prerelease-20160727
+- pkg:nuget/Pomelo.AspNetCore.SignalR.Redis@1.0.0-prerelease-20160730
+- pkg:nuget/Pomelo.AspNetCore.SignalR.Redis@1.0.0-prerelease-20160802
+- pkg:nuget/Pomelo.AspNetCore.SignalR.Redis@1.0.0-prerelease-20160803

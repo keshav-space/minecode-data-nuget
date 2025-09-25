@@ -1,0 +1,5 @@
+- pkg:nuget/Orleans.Telemetry.SerilogConsumer@1.0.0-build-00001
+- pkg:nuget/Orleans.Telemetry.SerilogConsumer@1.0.0-build-00002
+- pkg:nuget/Orleans.Telemetry.SerilogConsumer@1.0.0-build-00003
+- pkg:nuget/Orleans.Telemetry.SerilogConsumer@1.0.0-build-00004
+- pkg:nuget/Orleans.Telemetry.SerilogConsumer@1.0.6

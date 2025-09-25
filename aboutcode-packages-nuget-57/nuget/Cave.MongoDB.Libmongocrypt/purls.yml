@@ -1,0 +1,11 @@
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.15.0-git-23-g8c762326ce
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.15.1
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.15.1-git-1-g4f4f6c22cd
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.15.1-git-1-g787b27af53
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.15.1-git-23-ge8de39975d
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.19.1
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.19.1-20230404.12
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.19.1-20230404.13
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.19.1-20230404.13-debug
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.19.1-20230404.8
+- pkg:nuget/Cave.MongoDB.Libmongocrypt@2.19.1-debug

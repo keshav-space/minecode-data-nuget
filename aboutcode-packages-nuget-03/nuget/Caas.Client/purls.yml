@@ -1,0 +1,4 @@
+- pkg:nuget/Caas.Client@1.0.0
+- pkg:nuget/Caas.Client@1.0.10
+- pkg:nuget/Caas.Client@1.1.17
+- pkg:nuget/Caas.Client@1.1.8

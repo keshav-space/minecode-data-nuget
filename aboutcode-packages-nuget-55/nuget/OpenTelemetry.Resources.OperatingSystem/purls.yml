@@ -1,0 +1,8 @@
+- pkg:nuget/OpenTelemetry.Resources.OperatingSystem@0.1.0-alpha.1
+- pkg:nuget/OpenTelemetry.Resources.OperatingSystem@0.1.0-alpha.2
+- pkg:nuget/OpenTelemetry.Resources.OperatingSystem@0.1.0-alpha.3
+- pkg:nuget/OpenTelemetry.Resources.OperatingSystem@0.1.0-alpha.4
+- pkg:nuget/OpenTelemetry.Resources.OperatingSystem@1.10.0-beta.1
+- pkg:nuget/OpenTelemetry.Resources.OperatingSystem@1.11.0-beta.1
+- pkg:nuget/OpenTelemetry.Resources.OperatingSystem@1.11.0-beta.2
+- pkg:nuget/OpenTelemetry.Resources.OperatingSystem@1.12.0-beta.1

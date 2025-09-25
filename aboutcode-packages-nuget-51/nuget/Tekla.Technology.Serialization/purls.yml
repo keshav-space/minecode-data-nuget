@@ -1,0 +1,3 @@
+- pkg:nuget/Tekla.Technology.Serialization@1.1.0%2Brelease.49.git.839d0bc
+- pkg:nuget/Tekla.Technology.Serialization@4.1.1
+- pkg:nuget/Tekla.Technology.Serialization@4.3.7

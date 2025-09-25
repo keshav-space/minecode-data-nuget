@@ -1,0 +1,11 @@
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.10.0
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.11.0
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.12.0
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.13.0
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.13.1
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.13.2
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.13.3
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.14.0
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.14.1
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.9.0
+- pkg:nuget/Zebus.Persistence.Cassandra.Testing@3.9.0.1
