@@ -1,0 +1,3 @@
+- pkg:nuget/TestSdkTools.Manifest@1.0.0
+- pkg:nuget/TestSdkTools.Manifest@1.0.1
+- pkg:nuget/TestSdkTools.Manifest@2.0.0

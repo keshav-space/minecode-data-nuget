@@ -1,0 +1,5 @@
+- pkg:nuget/Blazor.SubtleCrypto@6.0.0
+- pkg:nuget/Blazor.SubtleCrypto@6.0.1
+- pkg:nuget/Blazor.SubtleCrypto@7.0.0
+- pkg:nuget/Blazor.SubtleCrypto@8.0.0
+- pkg:nuget/Blazor.SubtleCrypto@9.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Kdu.ServiceBaseLibs.TokenAuthentication@2.2.5
+- pkg:nuget/Kdu.ServiceBaseLibs.TokenAuthentication@3.0.0
+- pkg:nuget/Kdu.ServiceBaseLibs.TokenAuthentication@3.0.1
+- pkg:nuget/Kdu.ServiceBaseLibs.TokenAuthentication@3.0.9

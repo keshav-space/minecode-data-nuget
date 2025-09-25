@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.Redis.StackExchange.Unofficial@1.8.0
+- pkg:nuget/Hangfire.Redis.StackExchange.Unofficial@1.8.1

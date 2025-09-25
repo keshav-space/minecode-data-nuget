@@ -1,0 +1,10 @@
+- pkg:nuget/EasyRefreshToken.EFCore@5.2.0
+- pkg:nuget/EasyRefreshToken.EFCore@5.2.1
+- pkg:nuget/EasyRefreshToken.EFCore@5.2.2
+- pkg:nuget/EasyRefreshToken.EFCore@6.2.0
+- pkg:nuget/EasyRefreshToken.EFCore@6.2.1
+- pkg:nuget/EasyRefreshToken.EFCore@6.2.2
+- pkg:nuget/EasyRefreshToken.EFCore@7.2.0
+- pkg:nuget/EasyRefreshToken.EFCore@7.2.1
+- pkg:nuget/EasyRefreshToken.EFCore@7.2.2
+- pkg:nuget/EasyRefreshToken.EFCore@8.2.2

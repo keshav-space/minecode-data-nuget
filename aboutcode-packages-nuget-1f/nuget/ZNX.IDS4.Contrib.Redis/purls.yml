@@ -1,0 +1,5 @@
+- pkg:nuget/ZNX.IDS4.Contrib.Redis@4.0.0
+- pkg:nuget/ZNX.IDS4.Contrib.Redis@4.0.1
+- pkg:nuget/ZNX.IDS4.Contrib.Redis@4.0.2
+- pkg:nuget/ZNX.IDS4.Contrib.Redis@4.0.3
+- pkg:nuget/ZNX.IDS4.Contrib.Redis@6.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Pushpay.DynamoDbProvisioner@1.0.0
+- pkg:nuget/Pushpay.DynamoDbProvisioner@1.0.1
+- pkg:nuget/Pushpay.DynamoDbProvisioner@1.0.152

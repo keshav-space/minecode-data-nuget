@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.Common.Authorization@0.14.0-preview
+- pkg:nuget/Microsoft.Azure.Common.Authorization@0.15.0-preview

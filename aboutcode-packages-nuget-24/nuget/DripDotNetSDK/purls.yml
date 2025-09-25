@@ -1,0 +1,5 @@
+- pkg:nuget/DripDotNetSDK@3.0.0
+- pkg:nuget/DripDotNetSDK@3.1.0
+- pkg:nuget/DripDotNetSDK@4.0.0
+- pkg:nuget/DripDotNetSDK@4.0.1
+- pkg:nuget/DripDotNetSDK@4.0.2

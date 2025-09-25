@@ -1,0 +1,5 @@
+- pkg:nuget/AES-GCM-SIV@0.1.0-alpha
+- pkg:nuget/AES-GCM-SIV@0.2.0-alpha
+- pkg:nuget/AES-GCM-SIV@0.3.0
+- pkg:nuget/AES-GCM-SIV@0.3.1
+- pkg:nuget/AES-GCM-SIV@0.3.2

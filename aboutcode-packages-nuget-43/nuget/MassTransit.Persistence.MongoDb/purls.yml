@@ -1,0 +1,2 @@
+- pkg:nuget/MassTransit.Persistence.MongoDb@1.0.0
+- pkg:nuget/MassTransit.Persistence.MongoDb@2.0.0

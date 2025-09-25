@@ -1,0 +1,6 @@
+- pkg:nuget/Swashbuckle.NodaTime@1.0.0
+- pkg:nuget/Swashbuckle.NodaTime@2.0.0
+- pkg:nuget/Swashbuckle.NodaTime@2.0.1
+- pkg:nuget/Swashbuckle.NodaTime@2.1.0
+- pkg:nuget/Swashbuckle.NodaTime@2.2.0
+- pkg:nuget/Swashbuckle.NodaTime@3.0.0

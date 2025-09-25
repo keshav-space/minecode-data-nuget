@@ -1,0 +1,2 @@
+- pkg:nuget/Shinya.Scheduling.Quartz.Plugins.EntityFrameworkCoreMigrations.SqlServer@1.1.4-preview20240804.1
+- pkg:nuget/Shinya.Scheduling.Quartz.Plugins.EntityFrameworkCoreMigrations.SqlServer@1.1.4-preview20240805.1

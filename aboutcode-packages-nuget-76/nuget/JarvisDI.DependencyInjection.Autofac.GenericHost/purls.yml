@@ -1,0 +1,5 @@
+- pkg:nuget/JarvisDI.DependencyInjection.Autofac.GenericHost@1.0.0
+- pkg:nuget/JarvisDI.DependencyInjection.Autofac.GenericHost@1.0.1
+- pkg:nuget/JarvisDI.DependencyInjection.Autofac.GenericHost@1.0.2
+- pkg:nuget/JarvisDI.DependencyInjection.Autofac.GenericHost@1.0.3
+- pkg:nuget/JarvisDI.DependencyInjection.Autofac.GenericHost@1.0.4
