@@ -1,0 +1,2 @@
+- pkg:nuget/AzureFunctions.SqlBinding@0.1.0.139
+- pkg:nuget/AzureFunctions.SqlBinding@1.0.0

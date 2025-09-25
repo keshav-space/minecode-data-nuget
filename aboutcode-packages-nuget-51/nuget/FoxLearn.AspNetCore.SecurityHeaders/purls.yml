@@ -1,0 +1,6 @@
+- pkg:nuget/FoxLearn.AspNetCore.SecurityHeaders@1.0.0
+- pkg:nuget/FoxLearn.AspNetCore.SecurityHeaders@1.0.1
+- pkg:nuget/FoxLearn.AspNetCore.SecurityHeaders@1.0.2
+- pkg:nuget/FoxLearn.AspNetCore.SecurityHeaders@1.1.0
+- pkg:nuget/FoxLearn.AspNetCore.SecurityHeaders@2.0.0
+- pkg:nuget/FoxLearn.AspNetCore.SecurityHeaders@2.0.1

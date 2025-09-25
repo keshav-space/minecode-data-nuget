@@ -1,0 +1,2 @@
+- pkg:nuget/NugetRestore.UnlistedLatest.Test@1.0.0
+- pkg:nuget/NugetRestore.UnlistedLatest.Test@2.0.0

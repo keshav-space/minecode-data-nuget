@@ -1,0 +1,3 @@
+- pkg:nuget/Horseback.Applications.AzureServiceBus@1.0.0
+- pkg:nuget/Horseback.Applications.AzureServiceBus@1.0.1-beta-20230317-092217
+- pkg:nuget/Horseback.Applications.AzureServiceBus@1.0.1-beta-20230320-07

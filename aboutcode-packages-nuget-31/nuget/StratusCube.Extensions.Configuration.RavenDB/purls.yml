@@ -1,0 +1,4 @@
+- pkg:nuget/StratusCube.Extensions.Configuration.RavenDB@6.0.0
+- pkg:nuget/StratusCube.Extensions.Configuration.RavenDB@6.0.1
+- pkg:nuget/StratusCube.Extensions.Configuration.RavenDB@6.1.0
+- pkg:nuget/StratusCube.Extensions.Configuration.RavenDB@6.2.0

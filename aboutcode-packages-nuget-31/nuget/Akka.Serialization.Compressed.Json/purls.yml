@@ -1,0 +1,5 @@
+- pkg:nuget/Akka.Serialization.Compressed.Json@0.1.0
+- pkg:nuget/Akka.Serialization.Compressed.Json@1.5.25
+- pkg:nuget/Akka.Serialization.Compressed.Json@1.5.4
+- pkg:nuget/Akka.Serialization.Compressed.Json@1.5.46
+- pkg:nuget/Akka.Serialization.Compressed.Json@1.5.8

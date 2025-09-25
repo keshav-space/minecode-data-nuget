@@ -1,0 +1,4 @@
+- pkg:nuget/SharpRepository.Logging@1.4.6
+- pkg:nuget/SharpRepository.Logging@1.5.0.2
+- pkg:nuget/SharpRepository.Logging@2.0.1-alpha3
+- pkg:nuget/SharpRepository.Logging@2.0.2-alpha4

@@ -1,0 +1,4 @@
+- pkg:nuget/ThothRpc.MessagePack@0.7.0
+- pkg:nuget/ThothRpc.MessagePack@0.7.3
+- pkg:nuget/ThothRpc.MessagePack@0.7.4
+- pkg:nuget/ThothRpc.MessagePack@0.7.5

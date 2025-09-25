@@ -1,0 +1,4 @@
+- pkg:nuget/TelegramBotBase.Extensions.Serializer.Database.MSSQL@1.0.0
+- pkg:nuget/TelegramBotBase.Extensions.Serializer.Database.MSSQL@1.0.1
+- pkg:nuget/TelegramBotBase.Extensions.Serializer.Database.MSSQL@1.1.0
+- pkg:nuget/TelegramBotBase.Extensions.Serializer.Database.MSSQL@1.2.0

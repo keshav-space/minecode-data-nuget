@@ -1,0 +1,2 @@
+- pkg:nuget/Pulumi.AwsMiniflux@0.0.17
+- pkg:nuget/Pulumi.AwsMiniflux@0.1.0

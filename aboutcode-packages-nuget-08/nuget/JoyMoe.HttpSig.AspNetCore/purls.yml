@@ -1,0 +1,5 @@
+- pkg:nuget/JoyMoe.HttpSig.AspNetCore@5.0.0-preview.20524.56
+- pkg:nuget/JoyMoe.HttpSig.AspNetCore@5.0.0-preview.20524.58
+- pkg:nuget/JoyMoe.HttpSig.AspNetCore@5.0.0-preview.20524.59
+- pkg:nuget/JoyMoe.HttpSig.AspNetCore@5.0.0-preview.20524.61
+- pkg:nuget/JoyMoe.HttpSig.AspNetCore@5.0.156629

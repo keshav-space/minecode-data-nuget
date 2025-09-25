@@ -1,0 +1,5 @@
+- pkg:nuget/libxml2.redist@2.7.8.2
+- pkg:nuget/libxml2.redist@2.7.8.4
+- pkg:nuget/libxml2.redist@2.7.8.5
+- pkg:nuget/libxml2.redist@2.7.8.6
+- pkg:nuget/libxml2.redist@2.7.8.7

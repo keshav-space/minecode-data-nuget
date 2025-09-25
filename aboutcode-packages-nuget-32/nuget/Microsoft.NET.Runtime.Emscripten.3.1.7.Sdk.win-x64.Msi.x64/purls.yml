@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.7.Sdk.win-x64.Msi.x64@7.0.0-preview.4.22215.1
+- pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.7.Sdk.win-x64.Msi.x64@7.0.0-preview.5.22268.1
+- pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.7.Sdk.win-x64.Msi.x64@7.0.0-preview.6.22320.1

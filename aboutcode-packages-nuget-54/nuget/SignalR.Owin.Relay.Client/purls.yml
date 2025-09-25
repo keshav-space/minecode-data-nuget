@@ -1,0 +1,3 @@
+- pkg:nuget/SignalR.Owin.Relay.Client@0.1.0
+- pkg:nuget/SignalR.Owin.Relay.Client@0.1.1
+- pkg:nuget/SignalR.Owin.Relay.Client@0.1.2

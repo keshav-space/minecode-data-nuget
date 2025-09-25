@@ -1,0 +1,4 @@
+- pkg:nuget/SusLang.Compiler@1.0.0
+- pkg:nuget/SusLang.Compiler@5.0.0
+- pkg:nuget/SusLang.Compiler@5.1.0
+- pkg:nuget/SusLang.Compiler@5.2.0

@@ -1,0 +1,3 @@
+- pkg:nuget/FSharp.Data.Validation.Async@2.1.0
+- pkg:nuget/FSharp.Data.Validation.Async@2.2.0
+- pkg:nuget/FSharp.Data.Validation.Async@3.0.0

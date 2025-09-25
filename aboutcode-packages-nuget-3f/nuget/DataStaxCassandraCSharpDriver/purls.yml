@@ -1,0 +1,2 @@
+- pkg:nuget/DataStaxCassandraCSharpDriver@0.9.1
+- pkg:nuget/DataStaxCassandraCSharpDriver@1.0.0

@@ -1,0 +1,7 @@
+- pkg:nuget/Frank.Testing.TestBases@1.5.12-preview
+- pkg:nuget/Frank.Testing.TestBases@1.6.0
+- pkg:nuget/Frank.Testing.TestBases@1.6.14-preview
+- pkg:nuget/Frank.Testing.TestBases@1.7.0
+- pkg:nuget/Frank.Testing.TestBases@1.7.15-preview
+- pkg:nuget/Frank.Testing.TestBases@1.7.16-preview
+- pkg:nuget/Frank.Testing.TestBases@1.8.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Persistity.Serializers.LazyData.Binary@0.6.0
+- pkg:nuget/Persistity.Serializers.LazyData.Binary@2.0.37
+- pkg:nuget/Persistity.Serializers.LazyData.Binary@2.0.39
+- pkg:nuget/Persistity.Serializers.LazyData.Binary@2.0.41
+- pkg:nuget/Persistity.Serializers.LazyData.Binary@2.0.47

@@ -1,0 +1,5 @@
+- pkg:nuget/AspNet.Security.OAuth.Xiaomi@7.0.3-ci
+- pkg:nuget/AspNet.Security.OAuth.Xiaomi@8.2.0-beta
+- pkg:nuget/AspNet.Security.OAuth.Xiaomi@8.2.0-ci
+- pkg:nuget/AspNet.Security.OAuth.Xiaomi@8.3.0
+- pkg:nuget/AspNet.Security.OAuth.Xiaomi@9.4.0

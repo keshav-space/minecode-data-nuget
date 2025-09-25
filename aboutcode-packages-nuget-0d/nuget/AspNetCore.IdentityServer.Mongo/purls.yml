@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.IdentityServer.Mongo@1.0.0%2Bbuild.2
+- pkg:nuget/AspNetCore.IdentityServer.Mongo@1.1.0%2Bbuild.6
+- pkg:nuget/AspNetCore.IdentityServer.Mongo@1.1.0-preview%2Bbuild.4
+- pkg:nuget/AspNetCore.IdentityServer.Mongo@1.1.1%2Bbuild.10

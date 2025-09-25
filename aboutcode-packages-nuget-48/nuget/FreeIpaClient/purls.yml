@@ -1,0 +1,3 @@
+- pkg:nuget/FreeIpaClient@0.0.0-alpha
+- pkg:nuget/FreeIpaClient@1.0.0
+- pkg:nuget/FreeIpaClient@6.0.0

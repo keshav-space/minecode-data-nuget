@@ -1,0 +1,2 @@
+- pkg:nuget/ConfiguredSqlConnection.SqlServer@2.0.0
+- pkg:nuget/ConfiguredSqlConnection.SqlServer@2.0.1

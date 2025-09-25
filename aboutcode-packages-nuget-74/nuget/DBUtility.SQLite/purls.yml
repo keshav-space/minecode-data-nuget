@@ -1,0 +1,3 @@
+- pkg:nuget/DBUtility.SQLite@2.0.0
+- pkg:nuget/DBUtility.SQLite@2.1.0
+- pkg:nuget/DBUtility.SQLite@5.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/CQRS.NET@0.1.0
+- pkg:nuget/CQRS.NET@0.2.0
+- pkg:nuget/CQRS.NET@0.3.0
+- pkg:nuget/CQRS.NET@1.0.0-rc.1

@@ -1,0 +1,4 @@
+- pkg:nuget/WebJobs.Extensions.AppCenterPush@0.0.1
+- pkg:nuget/WebJobs.Extensions.AppCenterPush@1.0.0
+- pkg:nuget/WebJobs.Extensions.AppCenterPush@1.0.0-alpha
+- pkg:nuget/WebJobs.Extensions.AppCenterPush@1.0.1

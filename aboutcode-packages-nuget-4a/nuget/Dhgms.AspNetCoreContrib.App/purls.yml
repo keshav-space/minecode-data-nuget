@@ -1,0 +1,6 @@
+- pkg:nuget/Dhgms.AspNetCoreContrib.App@3.5.0
+- pkg:nuget/Dhgms.AspNetCoreContrib.App@3.6.0
+- pkg:nuget/Dhgms.AspNetCoreContrib.App@3.7.0
+- pkg:nuget/Dhgms.AspNetCoreContrib.App@3.7.1
+- pkg:nuget/Dhgms.AspNetCoreContrib.App@4.0.0
+- pkg:nuget/Dhgms.AspNetCoreContrib.App@4.1.0

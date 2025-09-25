@@ -1,0 +1,5 @@
+- pkg:nuget/cx.CQRS@1.0.0
+- pkg:nuget/cx.CQRS@2.0.0
+- pkg:nuget/cx.CQRS@2.3.0
+- pkg:nuget/cx.CQRS@8.0.0
+- pkg:nuget/cx.CQRS@8.0.1

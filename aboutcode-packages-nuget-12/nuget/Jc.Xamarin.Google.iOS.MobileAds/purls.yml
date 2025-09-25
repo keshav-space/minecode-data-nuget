@@ -1,0 +1,4 @@
+- pkg:nuget/Jc.Xamarin.Google.iOS.MobileAds@10.0.0-preview100
+- pkg:nuget/Jc.Xamarin.Google.iOS.MobileAds@10.0.0-preview200
+- pkg:nuget/Jc.Xamarin.Google.iOS.MobileAds@10.0.0-preview300
+- pkg:nuget/Jc.Xamarin.Google.iOS.MobileAds@8.13.0.3
