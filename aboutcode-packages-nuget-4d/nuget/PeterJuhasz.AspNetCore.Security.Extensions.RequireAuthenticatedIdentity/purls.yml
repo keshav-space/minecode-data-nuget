@@ -1,0 +1,3 @@
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.RequireAuthenticatedIdentity@3.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.RequireAuthenticatedIdentity@3.0.1
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.RequireAuthenticatedIdentity@6.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Immutable.Net.Serialization.Newtonsoft@1.0.0
+- pkg:nuget/Immutable.Net.Serialization.Newtonsoft@1.1.0
+- pkg:nuget/Immutable.Net.Serialization.Newtonsoft@1.2.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Flyleaf.FFmpeg.Bindings@7.1.0
+- pkg:nuget/Flyleaf.FFmpeg.Bindings@7.1.1
+- pkg:nuget/Flyleaf.FFmpeg.Bindings@8.0.0

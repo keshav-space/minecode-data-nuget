@@ -1,0 +1,2 @@
+- pkg:nuget/AspNet.Identity.EntityFramework.LongId@1.0.0
+- pkg:nuget/AspNet.Identity.EntityFramework.LongId@2.0.0

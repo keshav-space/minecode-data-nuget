@@ -1,0 +1,3 @@
+- pkg:nuget/Reusable.AspNetCore.Middleware.SemanticLogger@4.10.0
+- pkg:nuget/Reusable.AspNetCore.Middleware.SemanticLogger@4.5.1
+- pkg:nuget/Reusable.AspNetCore.Middleware.SemanticLogger@4.6.0

@@ -1,0 +1,4 @@
+- pkg:nuget/DotSwashbuckle.AspNetCore.ReDoc@1.0.0
+- pkg:nuget/DotSwashbuckle.AspNetCore.ReDoc@1.0.1
+- pkg:nuget/DotSwashbuckle.AspNetCore.ReDoc@1.0.2
+- pkg:nuget/DotSwashbuckle.AspNetCore.ReDoc@2.0.0

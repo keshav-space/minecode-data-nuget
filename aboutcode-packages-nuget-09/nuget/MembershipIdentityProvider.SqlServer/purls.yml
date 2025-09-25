@@ -1,0 +1,4 @@
+- pkg:nuget/MembershipIdentityProvider.SqlServer@1.0.0
+- pkg:nuget/MembershipIdentityProvider.SqlServer@1.1.0
+- pkg:nuget/MembershipIdentityProvider.SqlServer@1.2.0
+- pkg:nuget/MembershipIdentityProvider.SqlServer@2.0.0

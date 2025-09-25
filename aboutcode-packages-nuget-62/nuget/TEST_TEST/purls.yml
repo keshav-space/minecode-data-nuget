@@ -1,0 +1,9 @@
+- pkg:nuget/TEST_TEST@1.0.0
+- pkg:nuget/TEST_TEST@1.0.0.1
+- pkg:nuget/TEST_TEST@1.0.0.2
+- pkg:nuget/TEST_TEST@1.0.1
+- pkg:nuget/TEST_TEST@1.0.2
+- pkg:nuget/TEST_TEST@1.0.3
+- pkg:nuget/TEST_TEST@1.0.5
+- pkg:nuget/TEST_TEST@1.0.52
+- pkg:nuget/TEST_TEST@1.1.7

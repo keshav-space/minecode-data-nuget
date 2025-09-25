@@ -1,0 +1,4 @@
+- pkg:nuget/DSFramework.Hosting.MultiTenancy@0.6.0-alpha0021
+- pkg:nuget/DSFramework.Hosting.MultiTenancy@1.0.0
+- pkg:nuget/DSFramework.Hosting.MultiTenancy@1.0.0-beta0001
+- pkg:nuget/DSFramework.Hosting.MultiTenancy@1.1.0-alpha0006

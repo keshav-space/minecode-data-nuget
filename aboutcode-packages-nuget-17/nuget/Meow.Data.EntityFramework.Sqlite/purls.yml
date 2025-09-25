@@ -1,0 +1,2 @@
+- pkg:nuget/Meow.Data.EntityFramework.Sqlite@1.0.2
+- pkg:nuget/Meow.Data.EntityFramework.Sqlite@2.0.1

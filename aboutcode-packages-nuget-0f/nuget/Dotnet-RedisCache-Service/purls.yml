@@ -1,0 +1,4 @@
+- pkg:nuget/Dotnet-RedisCache-Service@1.0.0
+- pkg:nuget/Dotnet-RedisCache-Service@1.0.3
+- pkg:nuget/Dotnet-RedisCache-Service@1.0.5
+- pkg:nuget/Dotnet-RedisCache-Service@1.0.6

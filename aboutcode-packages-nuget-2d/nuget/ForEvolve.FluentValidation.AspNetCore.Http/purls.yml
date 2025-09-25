@@ -1,0 +1,5 @@
+- pkg:nuget/ForEvolve.FluentValidation.AspNetCore.Http@1.0.17
+- pkg:nuget/ForEvolve.FluentValidation.AspNetCore.Http@1.0.19
+- pkg:nuget/ForEvolve.FluentValidation.AspNetCore.Http@1.0.24
+- pkg:nuget/ForEvolve.FluentValidation.AspNetCore.Http@1.0.25
+- pkg:nuget/ForEvolve.FluentValidation.AspNetCore.Http@1.0.26

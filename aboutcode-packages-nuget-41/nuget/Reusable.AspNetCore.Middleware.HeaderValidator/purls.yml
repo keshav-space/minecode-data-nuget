@@ -1,0 +1,4 @@
+- pkg:nuget/Reusable.AspNetCore.Middleware.HeaderValidator@4.10.0
+- pkg:nuget/Reusable.AspNetCore.Middleware.HeaderValidator@4.5.0
+- pkg:nuget/Reusable.AspNetCore.Middleware.HeaderValidator@4.5.1
+- pkg:nuget/Reusable.AspNetCore.Middleware.HeaderValidator@4.6.0

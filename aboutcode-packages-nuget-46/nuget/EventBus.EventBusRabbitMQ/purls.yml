@@ -1,0 +1,5 @@
+- pkg:nuget/EventBus.EventBusRabbitMQ@1.0.0
+- pkg:nuget/EventBus.EventBusRabbitMQ@1.0.1
+- pkg:nuget/EventBus.EventBusRabbitMQ@1.0.2
+- pkg:nuget/EventBus.EventBusRabbitMQ@1.0.3
+- pkg:nuget/EventBus.EventBusRabbitMQ@1.0.4

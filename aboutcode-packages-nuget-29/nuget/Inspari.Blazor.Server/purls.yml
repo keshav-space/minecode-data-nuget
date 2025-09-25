@@ -1,0 +1,4 @@
+- pkg:nuget/Inspari.Blazor.Server@0.1.0
+- pkg:nuget/Inspari.Blazor.Server@1.0.0
+- pkg:nuget/Inspari.Blazor.Server@6.0.0
+- pkg:nuget/Inspari.Blazor.Server@6.0.1

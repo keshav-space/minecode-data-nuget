@@ -1,0 +1,4 @@
+- pkg:nuget/Inbucket.CSharp.Client@1.0.0
+- pkg:nuget/Inbucket.CSharp.Client@1.0.0-alpha
+- pkg:nuget/Inbucket.CSharp.Client@1.0.0-beta
+- pkg:nuget/Inbucket.CSharp.Client@1.1.0

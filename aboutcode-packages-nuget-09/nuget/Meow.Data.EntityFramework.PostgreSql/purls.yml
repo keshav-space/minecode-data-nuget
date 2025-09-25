@@ -1,0 +1,2 @@
+- pkg:nuget/Meow.Data.EntityFramework.PostgreSql@1.0.2
+- pkg:nuget/Meow.Data.EntityFramework.PostgreSql@2.0.1

@@ -1,0 +1,3 @@
+- pkg:nuget/Jones.DependencyInjection@1.0.0
+- pkg:nuget/Jones.DependencyInjection@2.0.0
+- pkg:nuget/Jones.DependencyInjection@3.0.0

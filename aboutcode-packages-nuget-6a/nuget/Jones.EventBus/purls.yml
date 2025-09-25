@@ -1,0 +1,4 @@
+- pkg:nuget/Jones.EventBus@1.0.0
+- pkg:nuget/Jones.EventBus@2.0.0
+- pkg:nuget/Jones.EventBus@3.0.0
+- pkg:nuget/Jones.EventBus@4.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/MyTest012345.ClassLibrary1@0.10.0
+- pkg:nuget/MyTest012345.ClassLibrary1@0.21.0
+- pkg:nuget/MyTest012345.ClassLibrary1@0.23.0
+- pkg:nuget/MyTest012345.ClassLibrary1@0.7.0

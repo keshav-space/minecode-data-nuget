@@ -1,0 +1,8 @@
+- pkg:nuget/UFX.IdentityModel.AspNetCore@0.0.0-alpha.0.252
+- pkg:nuget/UFX.IdentityModel.AspNetCore@0.0.0-alpha.0.253
+- pkg:nuget/UFX.IdentityModel.AspNetCore@0.0.0-alpha.0.254
+- pkg:nuget/UFX.IdentityModel.AspNetCore@0.0.0-alpha.0.255
+- pkg:nuget/UFX.IdentityModel.AspNetCore@4.2.1
+- pkg:nuget/UFX.IdentityModel.AspNetCore@4.3.1
+- pkg:nuget/UFX.IdentityModel.AspNetCore@4.3.2
+- pkg:nuget/UFX.IdentityModel.AspNetCore@4.3.2-alpha.0.1

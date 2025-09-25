@@ -1,0 +1,3 @@
+- pkg:nuget/MonitoringClient@1.0.0
+- pkg:nuget/MonitoringClient@2.0.0
+- pkg:nuget/MonitoringClient@3.0.0

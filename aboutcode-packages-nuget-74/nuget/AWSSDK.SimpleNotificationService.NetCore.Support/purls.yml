@@ -1,0 +1,4 @@
+- pkg:nuget/AWSSDK.SimpleNotificationService.NetCore.Support@1.0.0
+- pkg:nuget/AWSSDK.SimpleNotificationService.NetCore.Support@1.0.1
+- pkg:nuget/AWSSDK.SimpleNotificationService.NetCore.Support@1.0.2
+- pkg:nuget/AWSSDK.SimpleNotificationService.NetCore.Support@1.0.3

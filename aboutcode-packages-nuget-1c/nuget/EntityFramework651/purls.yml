@@ -1,0 +1,4 @@
+- pkg:nuget/EntityFramework651@1.0.0
+- pkg:nuget/EntityFramework651@2.1.1
+- pkg:nuget/EntityFramework651@3.0.0
+- pkg:nuget/EntityFramework651@4.0.0

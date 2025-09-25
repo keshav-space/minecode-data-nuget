@@ -1,0 +1,6 @@
+- pkg:nuget/Rocket.Libraries.HttpRequestDecompression@1.0.0
+- pkg:nuget/Rocket.Libraries.HttpRequestDecompression@1.0.0-beta01
+- pkg:nuget/Rocket.Libraries.HttpRequestDecompression@1.0.1
+- pkg:nuget/Rocket.Libraries.HttpRequestDecompression@1.0.2
+- pkg:nuget/Rocket.Libraries.HttpRequestDecompression@1.0.2-beta01
+- pkg:nuget/Rocket.Libraries.HttpRequestDecompression@1.0.2-beta02
