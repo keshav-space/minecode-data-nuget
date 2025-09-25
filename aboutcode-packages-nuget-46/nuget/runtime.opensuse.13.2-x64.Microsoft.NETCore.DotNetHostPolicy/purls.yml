@@ -1,0 +1,7 @@
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostPolicy@0.0.1-alpha
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostPolicy@1.0.1
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostPolicy@1.0.3
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostPolicy@1.0.5
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostPolicy@1.1.0
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostPolicy@1.1.0-preview1-001100-00
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostPolicy@1.1.2

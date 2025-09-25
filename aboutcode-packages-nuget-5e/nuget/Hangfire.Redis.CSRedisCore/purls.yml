@@ -1,0 +1,6 @@
+- pkg:nuget/Hangfire.Redis.CSRedisCore@0.0.1
+- pkg:nuget/Hangfire.Redis.CSRedisCore@0.0.1-preview-20200916-1
+- pkg:nuget/Hangfire.Redis.CSRedisCore@0.0.1-preview-20200917-1
+- pkg:nuget/Hangfire.Redis.CSRedisCore@0.0.2
+- pkg:nuget/Hangfire.Redis.CSRedisCore@1.0.0
+- pkg:nuget/Hangfire.Redis.CSRedisCore@1.0.0-preview-20230307-1

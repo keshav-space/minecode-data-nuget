@@ -1,0 +1,13 @@
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.11.17
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.11.22
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.11.8
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.12.4
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.2.24-beta
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.5.10
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.5.10.1
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.6.13
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.6.13.1
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.7.14
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.7.29
+- pkg:nuget/CommonStructureLibrary.DotNet6@2023.8.22
+- pkg:nuget/CommonStructureLibrary.DotNet6@2024.1.2

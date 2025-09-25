@@ -1,0 +1,6 @@
+- pkg:nuget/DbConn.DbExecutor.Dapper.Npgsql@1.0.2-alpha12
+- pkg:nuget/DbConn.DbExecutor.Dapper.Npgsql@1.0.2-alpha13
+- pkg:nuget/DbConn.DbExecutor.Dapper.Npgsql@1.0.2-alpha14
+- pkg:nuget/DbConn.DbExecutor.Dapper.Npgsql@1.0.2-alpha15
+- pkg:nuget/DbConn.DbExecutor.Dapper.Npgsql@1.0.2-alpha16
+- pkg:nuget/DbConn.DbExecutor.Dapper.Npgsql@1.0.2-alpha17

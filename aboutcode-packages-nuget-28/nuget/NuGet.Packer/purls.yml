@@ -1,0 +1,10 @@
+- pkg:nuget/NuGet.Packer@1.0.0
+- pkg:nuget/NuGet.Packer@1.1.0
+- pkg:nuget/NuGet.Packer@1.2.0
+- pkg:nuget/NuGet.Packer@1.2.1
+- pkg:nuget/NuGet.Packer@1.2.10
+- pkg:nuget/NuGet.Packer@1.2.3
+- pkg:nuget/NuGet.Packer@1.2.5
+- pkg:nuget/NuGet.Packer@1.2.7
+- pkg:nuget/NuGet.Packer@1.2.8
+- pkg:nuget/NuGet.Packer@1.2.9

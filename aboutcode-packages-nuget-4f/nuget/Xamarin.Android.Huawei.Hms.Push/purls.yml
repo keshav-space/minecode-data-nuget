@@ -1,0 +1,11 @@
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@4.0.2.300
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@4.0.2.300-rc1
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@4.0.2.300-rc2
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@4.0.2.300-rc3
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@4.0.2.300-rc4
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@5.0.2.300-rc1
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@5.0.4.302
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@5.3.0.304
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@5.3.0.404
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@6.3.0.302
+- pkg:nuget/Xamarin.Android.Huawei.Hms.Push@6.3.0.402

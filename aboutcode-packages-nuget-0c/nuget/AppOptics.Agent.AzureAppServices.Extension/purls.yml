@@ -1,0 +1,8 @@
+- pkg:nuget/AppOptics.Agent.AzureAppServices.Extension@4.2.0-beta
+- pkg:nuget/AppOptics.Agent.AzureAppServices.Extension@4.2.0-chi
+- pkg:nuget/AppOptics.Agent.AzureAppServices.Extension@4.2.0-delta
+- pkg:nuget/AppOptics.Agent.AzureAppServices.Extension@4.2.0-gamma
+- pkg:nuget/AppOptics.Agent.AzureAppServices.Extension@4.3.0
+- pkg:nuget/AppOptics.Agent.AzureAppServices.Extension@4.3.1
+- pkg:nuget/AppOptics.Agent.AzureAppServices.Extension@4.3.2
+- pkg:nuget/AppOptics.Agent.AzureAppServices.Extension@4.3.3

@@ -1,0 +1,6 @@
+- pkg:nuget/Crping.EntityFramework.WebApi@5.0.0
+- pkg:nuget/Crping.EntityFramework.WebApi@5.0.1
+- pkg:nuget/Crping.EntityFramework.WebApi@5.0.2
+- pkg:nuget/Crping.EntityFramework.WebApi@5.1.0
+- pkg:nuget/Crping.EntityFramework.WebApi@5.2.0
+- pkg:nuget/Crping.EntityFramework.WebApi@5.2.1

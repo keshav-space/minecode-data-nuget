@@ -1,0 +1,6 @@
+- pkg:nuget/Valobtify.AspNetCore.WebApi@2.0.1
+- pkg:nuget/Valobtify.AspNetCore.WebApi@2.0.2
+- pkg:nuget/Valobtify.AspNetCore.WebApi@2.0.3
+- pkg:nuget/Valobtify.AspNetCore.WebApi@2.1.1
+- pkg:nuget/Valobtify.AspNetCore.WebApi@2.1.2
+- pkg:nuget/Valobtify.AspNetCore.WebApi@3.0.0-rc.1

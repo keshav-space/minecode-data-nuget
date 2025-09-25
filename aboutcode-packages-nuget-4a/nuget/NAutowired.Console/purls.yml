@@ -1,0 +1,12 @@
+- pkg:nuget/NAutowired.Console@1.0.0
+- pkg:nuget/NAutowired.Console@1.0.0-alpha
+- pkg:nuget/NAutowired.Console@1.0.0-alpha.2
+- pkg:nuget/NAutowired.Console@1.0.0-alpha.3
+- pkg:nuget/NAutowired.Console@1.0.0-alpha.4
+- pkg:nuget/NAutowired.Console@1.0.0-beta.1
+- pkg:nuget/NAutowired.Console@2.0.0
+- pkg:nuget/NAutowired.Console@2.0.1
+- pkg:nuget/NAutowired.Console@2.0.2
+- pkg:nuget/NAutowired.Console@2.1.0
+- pkg:nuget/NAutowired.Console@2.2.0
+- pkg:nuget/NAutowired.Console@2.3.1

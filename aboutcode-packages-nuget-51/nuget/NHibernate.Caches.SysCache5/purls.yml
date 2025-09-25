@@ -1,0 +1,4 @@
+- pkg:nuget/NHibernate.Caches.SysCache5@1.0.5
+- pkg:nuget/NHibernate.Caches.SysCache5@1.5.0
+- pkg:nuget/NHibernate.Caches.SysCache5@1.5.1
+- pkg:nuget/NHibernate.Caches.SysCache5@1.5.2

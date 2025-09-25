@@ -1,0 +1,6 @@
+- pkg:nuget/Blazor.WebAssembly.DynamicCulture.Loader@1.0.0
+- pkg:nuget/Blazor.WebAssembly.DynamicCulture.Loader@1.1.0
+- pkg:nuget/Blazor.WebAssembly.DynamicCulture.Loader@2.0.0
+- pkg:nuget/Blazor.WebAssembly.DynamicCulture.Loader@3.0.0
+- pkg:nuget/Blazor.WebAssembly.DynamicCulture.Loader@3.0.0-preview
+- pkg:nuget/Blazor.WebAssembly.DynamicCulture.Loader@3.1.0

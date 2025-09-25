@@ -1,0 +1,4 @@
+- pkg:nuget/FSharp.Data.Validation.Giraffe@0.0.1
+- pkg:nuget/FSharp.Data.Validation.Giraffe@1.0.0
+- pkg:nuget/FSharp.Data.Validation.Giraffe@2.0.0
+- pkg:nuget/FSharp.Data.Validation.Giraffe@2.0.1

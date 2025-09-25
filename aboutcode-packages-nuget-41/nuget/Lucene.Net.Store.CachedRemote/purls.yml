@@ -1,0 +1,6 @@
+- pkg:nuget/Lucene.Net.Store.CachedRemote@0.1.4-beta
+- pkg:nuget/Lucene.Net.Store.CachedRemote@0.2.0-beta
+- pkg:nuget/Lucene.Net.Store.CachedRemote@0.2.2-beta
+- pkg:nuget/Lucene.Net.Store.CachedRemote@0.2.3-beta
+- pkg:nuget/Lucene.Net.Store.CachedRemote@0.2.4-beta
+- pkg:nuget/Lucene.Net.Store.CachedRemote@0.2.5-beta

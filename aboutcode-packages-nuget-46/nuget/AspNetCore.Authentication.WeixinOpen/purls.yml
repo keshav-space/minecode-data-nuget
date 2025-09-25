@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.Authentication.WeixinOpen@2.1.406
+- pkg:nuget/AspNetCore.Authentication.WeixinOpen@2.1.410
+- pkg:nuget/AspNetCore.Authentication.WeixinOpen@2.1.412
+- pkg:nuget/AspNetCore.Authentication.WeixinOpen@2.1.505

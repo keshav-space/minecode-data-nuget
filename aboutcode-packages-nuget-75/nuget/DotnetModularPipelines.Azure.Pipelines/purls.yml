@@ -1,0 +1,14 @@
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@0.2.0-ci.897-ci
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.41.0-alpha.100-alpha
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.41.0-alpha.102-alpha
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.44.0-alpha.58
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.48.0-alpha.195
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.48.0-alpha.198
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.48.0-alpha.200
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.48.0-alpha.202
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.48.0-alpha.203
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.48.0-alpha.204
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@2.48.0-alpha.205
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@4.40.0-alpha.61-alpha0061
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@4.40.0-alpha.62-alpha0062
+- pkg:nuget/DotnetModularPipelines.Azure.Pipelines@4.40.0-alpha0071

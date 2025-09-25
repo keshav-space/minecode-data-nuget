@@ -1,0 +1,5 @@
+- pkg:nuget/Xamarin.Android.Huawei.Hms.UI@5.0.0.301-rc1
+- pkg:nuget/Xamarin.Android.Huawei.Hms.UI@5.1.0.300
+- pkg:nuget/Xamarin.Android.Huawei.Hms.UI@5.3.0.304
+- pkg:nuget/Xamarin.Android.Huawei.Hms.UI@6.3.0.303
+- pkg:nuget/Xamarin.Android.Huawei.Hms.UI@6.3.0.403

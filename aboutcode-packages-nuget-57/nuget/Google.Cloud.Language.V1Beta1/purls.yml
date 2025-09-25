@@ -1,0 +1,4 @@
+- pkg:nuget/Google.Cloud.Language.V1Beta1@0.2.0
+- pkg:nuget/Google.Cloud.Language.V1Beta1@1.0.0-alpha01
+- pkg:nuget/Google.Cloud.Language.V1Beta1@1.0.0-alpha02
+- pkg:nuget/Google.Cloud.Language.V1Beta1@1.0.0-alpha03

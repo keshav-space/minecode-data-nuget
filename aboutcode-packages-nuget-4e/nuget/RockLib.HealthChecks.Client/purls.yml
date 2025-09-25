@@ -1,0 +1,10 @@
+- pkg:nuget/RockLib.HealthChecks.Client@1.0.0
+- pkg:nuget/RockLib.HealthChecks.Client@1.0.0-alpha01
+- pkg:nuget/RockLib.HealthChecks.Client@1.0.0-alpha02
+- pkg:nuget/RockLib.HealthChecks.Client@1.0.0-alpha03
+- pkg:nuget/RockLib.HealthChecks.Client@2.0.0
+- pkg:nuget/RockLib.HealthChecks.Client@2.0.0-alpha.1
+- pkg:nuget/RockLib.HealthChecks.Client@2.0.1
+- pkg:nuget/RockLib.HealthChecks.Client@2.0.2
+- pkg:nuget/RockLib.HealthChecks.Client@3.0.0
+- pkg:nuget/RockLib.HealthChecks.Client@3.0.0-alpha.1

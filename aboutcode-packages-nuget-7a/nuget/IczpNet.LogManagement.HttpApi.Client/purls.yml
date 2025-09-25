@@ -1,0 +1,5 @@
+- pkg:nuget/IczpNet.LogManagement.HttpApi.Client@8.2.0.2
+- pkg:nuget/IczpNet.LogManagement.HttpApi.Client@8.2.0.3
+- pkg:nuget/IczpNet.LogManagement.HttpApi.Client@9.0.0
+- pkg:nuget/IczpNet.LogManagement.HttpApi.Client@9.0.0.903
+- pkg:nuget/IczpNet.LogManagement.HttpApi.Client@9.0.1.903

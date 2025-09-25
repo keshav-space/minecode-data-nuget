@@ -1,0 +1,11 @@
+- pkg:nuget/Google.Storage.V1@0.1.0-CI00035
+- pkg:nuget/Google.Storage.V1@0.1.0-CI00036
+- pkg:nuget/Google.Storage.V1@0.1.0-CI00039
+- pkg:nuget/Google.Storage.V1@0.1.0-CI00053
+- pkg:nuget/Google.Storage.V1@0.1.0-CI00063
+- pkg:nuget/Google.Storage.V1@0.1.0-CI00106
+- pkg:nuget/Google.Storage.V1@0.1.0-CI00128
+- pkg:nuget/Google.Storage.V1@1.0.0-beta01
+- pkg:nuget/Google.Storage.V1@1.0.0-beta02
+- pkg:nuget/Google.Storage.V1@1.0.0-beta03
+- pkg:nuget/Google.Storage.V1@1.0.0-beta04

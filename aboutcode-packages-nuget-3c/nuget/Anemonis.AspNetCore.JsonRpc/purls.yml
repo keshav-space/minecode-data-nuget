@@ -1,0 +1,12 @@
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.12.0
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.12.1
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.13.0
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.14.0
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.14.1
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.15.0
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.15.1
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.16.0
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.17.0
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.18.0
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.18.0-beta-20191129.2
+- pkg:nuget/Anemonis.AspNetCore.JsonRpc@1.19.0

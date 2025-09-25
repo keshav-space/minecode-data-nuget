@@ -1,0 +1,14 @@
+- pkg:nuget/NF.Common.PDFTools@3.0.0
+- pkg:nuget/NF.Common.PDFTools@3.0.0-beta1
+- pkg:nuget/NF.Common.PDFTools@3.0.1
+- pkg:nuget/NF.Common.PDFTools@3.0.1-beta1
+- pkg:nuget/NF.Common.PDFTools@3.0.2-beta1
+- pkg:nuget/NF.Common.PDFTools@3.0.2-beta2
+- pkg:nuget/NF.Common.PDFTools@3.0.2-beta3
+- pkg:nuget/NF.Common.PDFTools@3.0.2-beta4
+- pkg:nuget/NF.Common.PDFTools@3.0.2-beta5
+- pkg:nuget/NF.Common.PDFTools@3.0.3
+- pkg:nuget/NF.Common.PDFTools@3.0.3-beta1
+- pkg:nuget/NF.Common.PDFTools@3.0.4-beta1
+- pkg:nuget/NF.Common.PDFTools@3.2.0-beta01
+- pkg:nuget/NF.Common.PDFTools@3.2.0-beta02

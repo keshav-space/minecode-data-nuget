@@ -1,0 +1,4 @@
+- pkg:nuget/Jun.Extensions.Redis@0.5.0
+- pkg:nuget/Jun.Extensions.Redis@0.5.1
+- pkg:nuget/Jun.Extensions.Redis@0.6.0
+- pkg:nuget/Jun.Extensions.Redis@2.2.1

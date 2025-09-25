@@ -1,0 +1,11 @@
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@0.0.1-alpha
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@0.0.1-preview
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@0.0.2-preview
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@1.0.0-beta1
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@1.0.0-beta4
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@1.0.0-beta5
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@1.0.1-beta1
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@1.0.1-beta2
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@1.0.1-beta3
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@1.0.1-beta5
+- pkg:nuget/SemanticKernel.Connectors.Memory.MongoDB@1.0.1-beta6

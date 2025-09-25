@@ -1,0 +1,12 @@
+- pkg:nuget/ManagedCuda-CUSOLVE@10.2.40
+- pkg:nuget/ManagedCuda-CUSOLVE@10.2.41
+- pkg:nuget/ManagedCuda-CUSOLVE@11.0.43
+- pkg:nuget/ManagedCuda-CUSOLVE@11.4.47
+- pkg:nuget/ManagedCuda-CUSOLVE@12.0.48
+- pkg:nuget/ManagedCuda-CUSOLVE@12.1.51
+- pkg:nuget/ManagedCuda-CUSOLVE@12.2.52
+- pkg:nuget/ManagedCuda-CUSOLVE@12.3.54
+- pkg:nuget/ManagedCuda-CUSOLVE@12.4.57
+- pkg:nuget/ManagedCuda-CUSOLVE@12.8.60
+- pkg:nuget/ManagedCuda-CUSOLVE@8.0.13
+- pkg:nuget/ManagedCuda-CUSOLVE@8.0.22

@@ -1,0 +1,4 @@
+- pkg:nuget/Nick.OpenVinoSharp4.ubuntu.18.04-x64@4.4.0.20201012-beta.1
+- pkg:nuget/Nick.OpenVinoSharp4.ubuntu.18.04-x64@4.5.0.20201014
+- pkg:nuget/Nick.OpenVinoSharp4.ubuntu.18.04-x64@4.5.0.20201014-beta.1
+- pkg:nuget/Nick.OpenVinoSharp4.ubuntu.18.04-x64@4.5.0.20201014-beta.2

@@ -1,0 +1,13 @@
+- pkg:nuget/OneSignalApi@1.0.0
+- pkg:nuget/OneSignalApi@1.0.0-beta1
+- pkg:nuget/OneSignalApi@1.0.1
+- pkg:nuget/OneSignalApi@1.0.2
+- pkg:nuget/OneSignalApi@2.0.0
+- pkg:nuget/OneSignalApi@2.0.2
+- pkg:nuget/OneSignalApi@2.1.0
+- pkg:nuget/OneSignalApi@2.2.0
+- pkg:nuget/OneSignalApi@2.2.1
+- pkg:nuget/OneSignalApi@2.3.0
+- pkg:nuget/OneSignalApi@5.1.0-beta1
+- pkg:nuget/OneSignalApi@5.2.0-beta1
+- pkg:nuget/OneSignalApi@5.3.0-beta1

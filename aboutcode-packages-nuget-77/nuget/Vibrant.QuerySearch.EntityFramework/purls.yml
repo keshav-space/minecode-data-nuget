@@ -1,0 +1,13 @@
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@1.0.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@1.0.1
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@2.0.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@2.0.1
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@2.0.2
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@3.0.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@3.1.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@3.4.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@4.0.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@6.0.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@7.0.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@8.0.0
+- pkg:nuget/Vibrant.QuerySearch.EntityFramework@8.1.0

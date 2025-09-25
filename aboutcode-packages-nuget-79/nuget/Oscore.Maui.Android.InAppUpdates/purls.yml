@@ -1,0 +1,13 @@
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@0.0.0-dev
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@0.9.0
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@0.9.1
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.0.0
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.0.1
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.0.2
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.0.3
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.0.4
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.1.0
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.2.0
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.3.0
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.4.0
+- pkg:nuget/Oscore.Maui.Android.InAppUpdates@1.4.1

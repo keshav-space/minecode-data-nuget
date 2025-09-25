@@ -1,0 +1,15 @@
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.0.1304
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.0.1310
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.0.1311
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.0.1312
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.1.19-rc
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.1.7-rc
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.2.0
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.2.1
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.3.0
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.3.1
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@6.3.2
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@7.0.0-rc1
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@7.0.0-rc2
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@7.0.0-rc3
+- pkg:nuget/EnterpriseLibrary.Logging.Database.NetCore@7.0.0-rc4

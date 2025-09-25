@@ -1,0 +1,5 @@
+- pkg:nuget/VIC.DataAccess.PostgreSQL@1.0.0
+- pkg:nuget/VIC.DataAccess.PostgreSQL@1.0.1
+- pkg:nuget/VIC.DataAccess.PostgreSQL@2.0.0-beta
+- pkg:nuget/VIC.DataAccess.PostgreSQL@2.0.1
+- pkg:nuget/VIC.DataAccess.PostgreSQL@2.0.2

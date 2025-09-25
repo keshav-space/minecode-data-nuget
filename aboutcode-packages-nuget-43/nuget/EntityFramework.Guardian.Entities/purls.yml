@@ -1,0 +1,16 @@
+- pkg:nuget/EntityFramework.Guardian.Entities@1.0.0
+- pkg:nuget/EntityFramework.Guardian.Entities@1.1.0
+- pkg:nuget/EntityFramework.Guardian.Entities@1.2.0
+- pkg:nuget/EntityFramework.Guardian.Entities@1.3.0
+- pkg:nuget/EntityFramework.Guardian.Entities@1.3.1
+- pkg:nuget/EntityFramework.Guardian.Entities@1.3.2
+- pkg:nuget/EntityFramework.Guardian.Entities@1.3.3
+- pkg:nuget/EntityFramework.Guardian.Entities@1.3.5
+- pkg:nuget/EntityFramework.Guardian.Entities@1.5.42
+- pkg:nuget/EntityFramework.Guardian.Entities@1.5.44
+- pkg:nuget/EntityFramework.Guardian.Entities@1.6.10
+- pkg:nuget/EntityFramework.Guardian.Entities@1.6.11
+- pkg:nuget/EntityFramework.Guardian.Entities@1.6.12
+- pkg:nuget/EntityFramework.Guardian.Entities@1.6.13
+- pkg:nuget/EntityFramework.Guardian.Entities@1.6.6
+- pkg:nuget/EntityFramework.Guardian.Entities@1.6.9

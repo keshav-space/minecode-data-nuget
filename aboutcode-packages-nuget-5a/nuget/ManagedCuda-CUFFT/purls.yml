@@ -1,0 +1,13 @@
+- pkg:nuget/ManagedCuda-CUFFT@10.0.31
+- pkg:nuget/ManagedCuda-CUFFT@10.2.40
+- pkg:nuget/ManagedCuda-CUFFT@10.2.41
+- pkg:nuget/ManagedCuda-CUFFT@11.0.43
+- pkg:nuget/ManagedCuda-CUFFT@11.4.47
+- pkg:nuget/ManagedCuda-CUFFT@12.0.48
+- pkg:nuget/ManagedCuda-CUFFT@12.1.51
+- pkg:nuget/ManagedCuda-CUFFT@12.2.52
+- pkg:nuget/ManagedCuda-CUFFT@12.3.54
+- pkg:nuget/ManagedCuda-CUFFT@12.4.57
+- pkg:nuget/ManagedCuda-CUFFT@12.8.60
+- pkg:nuget/ManagedCuda-CUFFT@8.0.13
+- pkg:nuget/ManagedCuda-CUFFT@8.0.22

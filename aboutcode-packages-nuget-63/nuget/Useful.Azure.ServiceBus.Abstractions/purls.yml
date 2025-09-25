@@ -1,0 +1,9 @@
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@0.0.2-preview
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@0.0.3-preview
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@0.0.4-preview
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@1.0.0
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@1.0.1
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@1.0.2-preview
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@2.0.0
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@2.0.1-preview
+- pkg:nuget/Useful.Azure.ServiceBus.Abstractions@2.0.3-preview

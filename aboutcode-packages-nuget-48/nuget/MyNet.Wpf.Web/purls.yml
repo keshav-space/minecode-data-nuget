@@ -1,0 +1,14 @@
+- pkg:nuget/MyNet.Wpf.Web@1.0.0
+- pkg:nuget/MyNet.Wpf.Web@1.0.0-alpha
+- pkg:nuget/MyNet.Wpf.Web@1.1.0
+- pkg:nuget/MyNet.Wpf.Web@2.0.0
+- pkg:nuget/MyNet.Wpf.Web@2.1.0
+- pkg:nuget/MyNet.Wpf.Web@2.2.0
+- pkg:nuget/MyNet.Wpf.Web@3.0.0
+- pkg:nuget/MyNet.Wpf.Web@4.2.0
+- pkg:nuget/MyNet.Wpf.Web@4.4.0
+- pkg:nuget/MyNet.Wpf.Web@4.4.2
+- pkg:nuget/MyNet.Wpf.Web@5.1.0
+- pkg:nuget/MyNet.Wpf.Web@6.0.0
+- pkg:nuget/MyNet.Wpf.Web@6.0.14
+- pkg:nuget/MyNet.Wpf.Web@6.0.48

@@ -1,0 +1,4 @@
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostResolver@0.0.1-alpha
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostResolver@1.0.1
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostResolver@1.1.0
+- pkg:nuget/runtime.opensuse.13.2-x64.Microsoft.NETCore.DotNetHostResolver@1.1.0-preview1-001100-00

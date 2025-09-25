@@ -1,0 +1,3 @@
+- pkg:nuget/NevaleeBusinessSolutions.EntityFrameworkCore.SqlServer.TryParse.EF6@6.0.0
+- pkg:nuget/NevaleeBusinessSolutions.EntityFrameworkCore.SqlServer.TryParse.EF6@6.0.1
+- pkg:nuget/NevaleeBusinessSolutions.EntityFrameworkCore.SqlServer.TryParse.EF6@6.0.2

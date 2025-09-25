@@ -1,0 +1,8 @@
+- pkg:nuget/dnx-clr-win-x86@1.0.0-beta4
+- pkg:nuget/dnx-clr-win-x86@1.0.0-beta5
+- pkg:nuget/dnx-clr-win-x86@1.0.0-beta6
+- pkg:nuget/dnx-clr-win-x86@1.0.0-beta7
+- pkg:nuget/dnx-clr-win-x86@1.0.0-beta8
+- pkg:nuget/dnx-clr-win-x86@1.0.0-rc1-final
+- pkg:nuget/dnx-clr-win-x86@1.0.0-rc1-update1
+- pkg:nuget/dnx-clr-win-x86@1.0.0-rc1-update2

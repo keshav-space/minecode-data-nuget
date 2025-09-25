@@ -1,0 +1,15 @@
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.0.1
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.0.2
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.12
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.12.1
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.26
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.28
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.29
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.30
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.31
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.32
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.32-beta1
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.37
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.40
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.41-beta1
+- pkg:nuget/Akka.Persistence.MongoDb.Hosting@1.5.42

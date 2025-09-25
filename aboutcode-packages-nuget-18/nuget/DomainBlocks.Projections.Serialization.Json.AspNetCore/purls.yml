@@ -1,0 +1,13 @@
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.0.1-preview-g5d15bd74ad
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.0.1-preview-gdb157815d3
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.0.1-preview-gfd41748317
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.12-preview-gabf93c4a72
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.14-preview-gb69cb09928
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.16-preview-g42a8c98f8b
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.2-preview-gfcd883f52c
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.4-preview-g93b6e40487
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.5-preview-g2301279b8d
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.6-preview-g361fc3150b
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.7-preview-ga675f5105c
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.8-preview-g1ec1e4ba6d
+- pkg:nuget/DomainBlocks.Projections.Serialization.Json.AspNetCore@0.1.9-preview-gea41d4cb0b

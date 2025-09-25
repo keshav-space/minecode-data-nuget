@@ -1,0 +1,11 @@
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@1.0.0
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@2.0.0
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@3.0.0
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@4.0.0
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@4.0.1
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@7.0.3
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@7.0.8
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@8.0.0
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@8.0.1
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@9.0.0
+- pkg:nuget/DevelopmentHelpers.AzureDistributedCache@9.0.1

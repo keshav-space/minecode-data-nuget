@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.VisualStudio.TextManager.Interop.16.0.DesignTime@16.0.0
+- pkg:nuget/Microsoft.VisualStudio.TextManager.Interop.16.0.DesignTime@16.10.31320.204
+- pkg:nuget/Microsoft.VisualStudio.TextManager.Interop.16.0.DesignTime@16.6.30107.105
+- pkg:nuget/Microsoft.VisualStudio.TextManager.Interop.16.0.DesignTime@16.7.30328.74
+- pkg:nuget/Microsoft.VisualStudio.TextManager.Interop.16.0.DesignTime@16.8.30709.132
+- pkg:nuget/Microsoft.VisualStudio.TextManager.Interop.16.0.DesignTime@16.9.31024.71
