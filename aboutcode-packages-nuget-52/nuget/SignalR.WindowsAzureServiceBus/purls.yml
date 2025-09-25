@@ -1,0 +1,3 @@
+- pkg:nuget/SignalR.WindowsAzureServiceBus@0.1.0
+- pkg:nuget/SignalR.WindowsAzureServiceBus@0.5.1-pre
+- pkg:nuget/SignalR.WindowsAzureServiceBus@0.6.0

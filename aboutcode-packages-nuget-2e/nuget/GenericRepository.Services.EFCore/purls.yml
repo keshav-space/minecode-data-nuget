@@ -1,0 +1,13 @@
+- pkg:nuget/GenericRepository.Services.EFCore@1.0.0
+- pkg:nuget/GenericRepository.Services.EFCore@1.0.0-alpha
+- pkg:nuget/GenericRepository.Services.EFCore@1.1.0
+- pkg:nuget/GenericRepository.Services.EFCore@2.0.0
+- pkg:nuget/GenericRepository.Services.EFCore@2.1.0
+- pkg:nuget/GenericRepository.Services.EFCore@2.2.0
+- pkg:nuget/GenericRepository.Services.EFCore@3.0.0
+- pkg:nuget/GenericRepository.Services.EFCore@3.1.0
+- pkg:nuget/GenericRepository.Services.EFCore@5.0.0
+- pkg:nuget/GenericRepository.Services.EFCore@6.0.0
+- pkg:nuget/GenericRepository.Services.EFCore@7.0.0
+- pkg:nuget/GenericRepository.Services.EFCore@7.0.1
+- pkg:nuget/GenericRepository.Services.EFCore@8.0.0

@@ -1,0 +1,7 @@
+- pkg:nuget/AspNetX.Server.Abstractions@1.0.0-alpha
+- pkg:nuget/AspNetX.Server.Abstractions@1.0.0-beta-256
+- pkg:nuget/AspNetX.Server.Abstractions@1.0.0-beta-4096
+- pkg:nuget/AspNetX.Server.Abstractions@1.0.0-beta-512
+- pkg:nuget/AspNetX.Server.Abstractions@1.0.0-beta-527
+- pkg:nuget/AspNetX.Server.Abstractions@1.0.0-beta-65535
+- pkg:nuget/AspNetX.Server.Abstractions@1.0.0-beta1-02433

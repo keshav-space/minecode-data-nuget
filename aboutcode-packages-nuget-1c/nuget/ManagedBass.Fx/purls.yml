@@ -1,0 +1,15 @@
+- pkg:nuget/ManagedBass.Fx@1.0.0
+- pkg:nuget/ManagedBass.Fx@1.0.1
+- pkg:nuget/ManagedBass.Fx@1.0.2
+- pkg:nuget/ManagedBass.Fx@2.0.0
+- pkg:nuget/ManagedBass.Fx@2.0.1
+- pkg:nuget/ManagedBass.Fx@3.0.0
+- pkg:nuget/ManagedBass.Fx@3.0.8-prerelease
+- pkg:nuget/ManagedBass.Fx@3.1.0
+- pkg:nuget/ManagedBass.Fx@3.1.1
+- pkg:nuget/ManagedBass.Fx@3.1.4
+- pkg:nuget/ManagedBass.Fx@4.0.0
+- pkg:nuget/ManagedBass.Fx@4.0.0-prerelease
+- pkg:nuget/ManagedBass.Fx@4.0.1
+- pkg:nuget/ManagedBass.Fx@4.0.1-prerelease
+- pkg:nuget/ManagedBass.Fx@4.0.2-prerelease

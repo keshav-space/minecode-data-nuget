@@ -1,0 +1,8 @@
+- pkg:nuget/Cloudera.SchemaRegistry.Serdes.Avro@1.6.3
+- pkg:nuget/Cloudera.SchemaRegistry.Serdes.Avro@1.7.0
+- pkg:nuget/Cloudera.SchemaRegistry.Serdes.Avro@1.7.1
+- pkg:nuget/Cloudera.SchemaRegistry.Serdes.Avro@1.8.2
+- pkg:nuget/Cloudera.SchemaRegistry.Serdes.Avro@1.8.2-cloudera
+- pkg:nuget/Cloudera.SchemaRegistry.Serdes.Avro@1.9.0
+- pkg:nuget/Cloudera.SchemaRegistry.Serdes.Avro@2.2.0
+- pkg:nuget/Cloudera.SchemaRegistry.Serdes.Avro@2.6.1

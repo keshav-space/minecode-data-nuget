@@ -1,0 +1,5 @@
+- pkg:nuget/Firefly.DependencyInjection@1.0.0
+- pkg:nuget/Firefly.DependencyInjection@1.0.1
+- pkg:nuget/Firefly.DependencyInjection@1.1.0
+- pkg:nuget/Firefly.DependencyInjection@2.0.0
+- pkg:nuget/Firefly.DependencyInjection@2.0.1

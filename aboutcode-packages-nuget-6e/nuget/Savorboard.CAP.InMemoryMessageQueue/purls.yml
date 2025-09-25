@@ -1,0 +1,12 @@
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@1.0.0
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@1.1.0
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@2.5.1
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@2.6.0
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@3.0.0
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@3.1.1
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@5.1.1
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@6.0.0
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@7.0.0
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@8.0.0
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@8.2.0
+- pkg:nuget/Savorboard.CAP.InMemoryMessageQueue@8.2.1

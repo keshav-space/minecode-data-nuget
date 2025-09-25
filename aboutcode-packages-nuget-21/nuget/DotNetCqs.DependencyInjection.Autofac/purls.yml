@@ -1,0 +1,5 @@
+- pkg:nuget/DotNetCqs.DependencyInjection.Autofac@1.0.0
+- pkg:nuget/DotNetCqs.DependencyInjection.Autofac@1.0.0-rc01
+- pkg:nuget/DotNetCqs.DependencyInjection.Autofac@1.0.1
+- pkg:nuget/DotNetCqs.DependencyInjection.Autofac@1.0.2
+- pkg:nuget/DotNetCqs.DependencyInjection.Autofac@1.0.3

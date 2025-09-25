@@ -1,0 +1,8 @@
+- pkg:nuget/PK.Optional.Newtonsoft.Json@0.0.1-alpha
+- pkg:nuget/PK.Optional.Newtonsoft.Json@0.0.2-alpha
+- pkg:nuget/PK.Optional.Newtonsoft.Json@1.0.0
+- pkg:nuget/PK.Optional.Newtonsoft.Json@1.0.1
+- pkg:nuget/PK.Optional.Newtonsoft.Json@1.0.2
+- pkg:nuget/PK.Optional.Newtonsoft.Json@1.1.0
+- pkg:nuget/PK.Optional.Newtonsoft.Json@1.2.0
+- pkg:nuget/PK.Optional.Newtonsoft.Json@1.2.0-alpha

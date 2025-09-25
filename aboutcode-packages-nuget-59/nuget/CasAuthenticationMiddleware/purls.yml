@@ -1,0 +1,4 @@
+- pkg:nuget/CasAuthenticationMiddleware@0.5.0
+- pkg:nuget/CasAuthenticationMiddleware@1.0.0
+- pkg:nuget/CasAuthenticationMiddleware@1.1.0
+- pkg:nuget/CasAuthenticationMiddleware@1.1.1

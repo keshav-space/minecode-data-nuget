@@ -1,0 +1,6 @@
+- pkg:nuget/LLMSharp.OpenAi.Tokenizer@1.0.0
+- pkg:nuget/LLMSharp.OpenAi.Tokenizer@1.0.1
+- pkg:nuget/LLMSharp.OpenAi.Tokenizer@2.0.0
+- pkg:nuget/LLMSharp.OpenAi.Tokenizer@2.0.1
+- pkg:nuget/LLMSharp.OpenAi.Tokenizer@2.0.2
+- pkg:nuget/LLMSharp.OpenAi.Tokenizer@2.0.3

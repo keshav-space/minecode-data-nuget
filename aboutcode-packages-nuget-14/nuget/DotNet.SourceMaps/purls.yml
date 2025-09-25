@@ -1,0 +1,5 @@
+- pkg:nuget/DotNet.SourceMaps@0.1.0
+- pkg:nuget/DotNet.SourceMaps@0.2.0
+- pkg:nuget/DotNet.SourceMaps@0.3.0-appveyorchanges0001
+- pkg:nuget/DotNet.SourceMaps@0.3.0-unstable0001
+- pkg:nuget/DotNet.SourceMaps@0.3.0-unstable0004

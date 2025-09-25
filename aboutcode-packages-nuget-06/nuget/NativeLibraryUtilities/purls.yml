@@ -1,0 +1,15 @@
+- pkg:nuget/NativeLibraryUtilities@1.0.0
+- pkg:nuget/NativeLibraryUtilities@1.0.0-beta-0004
+- pkg:nuget/NativeLibraryUtilities@1.0.0-beta-0006
+- pkg:nuget/NativeLibraryUtilities@1.0.0-beta-0008
+- pkg:nuget/NativeLibraryUtilities@1.0.0-beta-0010
+- pkg:nuget/NativeLibraryUtilities@1.0.0-rc1
+- pkg:nuget/NativeLibraryUtilities@1.0.0-rc2
+- pkg:nuget/NativeLibraryUtilities@1.0.0-rc3
+- pkg:nuget/NativeLibraryUtilities@1.0.0-rc4
+- pkg:nuget/NativeLibraryUtilities@1.0.0-rc5
+- pkg:nuget/NativeLibraryUtilities@1.0.0-rc6
+- pkg:nuget/NativeLibraryUtilities@1.0.1
+- pkg:nuget/NativeLibraryUtilities@1.0.1-beta1
+- pkg:nuget/NativeLibraryUtilities@1.0.1-beta2
+- pkg:nuget/NativeLibraryUtilities@1.0.3

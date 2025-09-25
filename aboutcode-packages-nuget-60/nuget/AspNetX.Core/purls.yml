@@ -1,0 +1,6 @@
+- pkg:nuget/AspNetX.Core@1.0.0-alpha
+- pkg:nuget/AspNetX.Core@1.0.0-beta-1022
+- pkg:nuget/AspNetX.Core@1.0.0-beta-256
+- pkg:nuget/AspNetX.Core@1.0.0-beta-4096
+- pkg:nuget/AspNetX.Core@1.0.0-beta-65535
+- pkg:nuget/AspNetX.Core@1.0.0-beta1-02433

@@ -1,0 +1,2 @@
+- pkg:nuget/Nest.Connection.Thrift.Signed@0.11.7
+- pkg:nuget/Nest.Connection.Thrift.Signed@0.12.0

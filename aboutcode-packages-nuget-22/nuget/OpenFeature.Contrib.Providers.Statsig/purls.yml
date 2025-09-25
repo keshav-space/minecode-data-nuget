@@ -1,0 +1,8 @@
+- pkg:nuget/OpenFeature.Contrib.Providers.Statsig@0.0.4-preview
+- pkg:nuget/OpenFeature.Contrib.Providers.Statsig@0.0.5-preview
+- pkg:nuget/OpenFeature.Contrib.Providers.Statsig@0.0.6
+- pkg:nuget/OpenFeature.Contrib.Providers.Statsig@0.0.7
+- pkg:nuget/OpenFeature.Contrib.Providers.Statsig@0.0.8
+- pkg:nuget/OpenFeature.Contrib.Providers.Statsig@0.0.9
+- pkg:nuget/OpenFeature.Contrib.Providers.Statsig@0.1.0
+- pkg:nuget/OpenFeature.Contrib.Providers.Statsig@0.1.1

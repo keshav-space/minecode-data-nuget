@@ -1,0 +1,4 @@
+- pkg:nuget/tiny.DB.SQLServer@6.0.10
+- pkg:nuget/tiny.DB.SQLServer@6.0.8
+- pkg:nuget/tiny.DB.SQLServer@8.0.1
+- pkg:nuget/tiny.DB.SQLServer@8.0.2

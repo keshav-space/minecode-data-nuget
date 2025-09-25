@@ -1,0 +1,4 @@
+- pkg:nuget/MassTransit.RedisIntegration@0.1.0-unstable0004
+- pkg:nuget/MassTransit.RedisIntegration@0.1.0-unstable0005
+- pkg:nuget/MassTransit.RedisIntegration@0.1.0-unstable0006
+- pkg:nuget/MassTransit.RedisIntegration@3.4.0

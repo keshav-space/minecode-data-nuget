@@ -1,0 +1,11 @@
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@3.0.1-beta1
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@3.1.4-rc1
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@3.1.4-rc2
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@3.1.4-rc3
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@3.1.5
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@3.1.6
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@3.1.7
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@3.1.8
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@4.0.0
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@4.1.1
+- pkg:nuget/FRC.NetworkTables.Core.DesktopLibraries@4.1.2

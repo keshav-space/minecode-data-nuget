@@ -1,0 +1,15 @@
+- pkg:nuget/PersistedCache.PostgreSql@0.0.1
+- pkg:nuget/PersistedCache.PostgreSql@0.0.2
+- pkg:nuget/PersistedCache.PostgreSql@0.0.3
+- pkg:nuget/PersistedCache.PostgreSql@0.0.4
+- pkg:nuget/PersistedCache.PostgreSql@0.0.5
+- pkg:nuget/PersistedCache.PostgreSql@0.0.6
+- pkg:nuget/PersistedCache.PostgreSql@0.1.0
+- pkg:nuget/PersistedCache.PostgreSql@0.1.1
+- pkg:nuget/PersistedCache.PostgreSql@1.0.0
+- pkg:nuget/PersistedCache.PostgreSql@1.0.1
+- pkg:nuget/PersistedCache.PostgreSql@1.0.2
+- pkg:nuget/PersistedCache.PostgreSql@1.0.3
+- pkg:nuget/PersistedCache.PostgreSql@2.0.0
+- pkg:nuget/PersistedCache.PostgreSql@2.1.0
+- pkg:nuget/PersistedCache.PostgreSql@2.2.0

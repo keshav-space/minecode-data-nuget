@@ -1,0 +1,16 @@
+- pkg:nuget/AspNetX.Server@1.0.0-alpha
+- pkg:nuget/AspNetX.Server@1.0.0-alpha-1024
+- pkg:nuget/AspNetX.Server@1.0.0-beta-256
+- pkg:nuget/AspNetX.Server@1.0.0-beta-4096
+- pkg:nuget/AspNetX.Server@1.0.0-beta-512
+- pkg:nuget/AspNetX.Server@1.0.0-beta-518
+- pkg:nuget/AspNetX.Server@1.0.0-beta-520
+- pkg:nuget/AspNetX.Server@1.0.0-beta-521
+- pkg:nuget/AspNetX.Server@1.0.0-beta-524
+- pkg:nuget/AspNetX.Server@1.0.0-beta-527
+- pkg:nuget/AspNetX.Server@1.0.0-beta-529
+- pkg:nuget/AspNetX.Server@1.0.0-beta-65535
+- pkg:nuget/AspNetX.Server@1.0.0-beta-65536
+- pkg:nuget/AspNetX.Server@1.0.0-beta1-02433
+- pkg:nuget/AspNetX.Server@1.0.1-rc1-final
+- pkg:nuget/AspNetX.Server@1.0.2-rc1-final

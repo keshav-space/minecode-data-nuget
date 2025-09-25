@@ -1,0 +1,9 @@
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@1.0.0
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@1.0.0-rc01
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@1.0.0-rc02
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@1.0.0-rc03
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@1.0.0-rc04
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@1.0.0-rc05
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@1.0.1
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@2.0.0
+- pkg:nuget/DotNetCqs.Queues.Azure.ServiceBus@2.0.1

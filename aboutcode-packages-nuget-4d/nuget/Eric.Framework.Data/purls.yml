@@ -1,0 +1,17 @@
+- pkg:nuget/Eric.Framework.Data@2.0.0
+- pkg:nuget/Eric.Framework.Data@2.0.1
+- pkg:nuget/Eric.Framework.Data@6.0.0
+- pkg:nuget/Eric.Framework.Data@6.0.0-preview-1
+- pkg:nuget/Eric.Framework.Data@6.0.0-preview-2
+- pkg:nuget/Eric.Framework.Data@6.0.0-preview-3
+- pkg:nuget/Eric.Framework.Data@6.0.0-preview-4
+- pkg:nuget/Eric.Framework.Data@6.0.0-preview-5
+- pkg:nuget/Eric.Framework.Data@6.0.0-preview-6
+- pkg:nuget/Eric.Framework.Data@6.0.0-preview-7
+- pkg:nuget/Eric.Framework.Data@6.0.0-preview-8
+- pkg:nuget/Eric.Framework.Data@6.1.0
+- pkg:nuget/Eric.Framework.Data@6.1.0-preview1
+- pkg:nuget/Eric.Framework.Data@6.1.0-preview2
+- pkg:nuget/Eric.Framework.Data@6.2.0
+- pkg:nuget/Eric.Framework.Data@6.3.0
+- pkg:nuget/Eric.Framework.Data@7.0.0

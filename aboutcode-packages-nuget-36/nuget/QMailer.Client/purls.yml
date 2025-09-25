@@ -1,0 +1,5 @@
+- pkg:nuget/QMailer.Client@1.0.0
+- pkg:nuget/QMailer.Client@1.0.1
+- pkg:nuget/QMailer.Client@2.0.2
+- pkg:nuget/QMailer.Client@2.0.3
+- pkg:nuget/QMailer.Client@2.0.5

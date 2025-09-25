@@ -1,0 +1,8 @@
+- pkg:nuget/Hazelcast.Net.Linq.Async@5.2.0
+- pkg:nuget/Hazelcast.Net.Linq.Async@5.2.1
+- pkg:nuget/Hazelcast.Net.Linq.Async@5.2.2
+- pkg:nuget/Hazelcast.Net.Linq.Async@5.3.0
+- pkg:nuget/Hazelcast.Net.Linq.Async@5.3.1
+- pkg:nuget/Hazelcast.Net.Linq.Async@5.4.0
+- pkg:nuget/Hazelcast.Net.Linq.Async@5.5.0
+- pkg:nuget/Hazelcast.Net.Linq.Async@5.5.1

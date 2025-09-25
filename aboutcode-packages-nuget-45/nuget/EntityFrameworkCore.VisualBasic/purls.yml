@@ -1,0 +1,8 @@
+- pkg:nuget/EntityFrameworkCore.VisualBasic@0.0.1-alpha1
+- pkg:nuget/EntityFrameworkCore.VisualBasic@5.0.0-alpha.1
+- pkg:nuget/EntityFrameworkCore.VisualBasic@5.0.0-alpha.2
+- pkg:nuget/EntityFrameworkCore.VisualBasic@5.0.0-alpha.3
+- pkg:nuget/EntityFrameworkCore.VisualBasic@6.0.0-alpha.1
+- pkg:nuget/EntityFrameworkCore.VisualBasic@6.0.0-beta.2
+- pkg:nuget/EntityFrameworkCore.VisualBasic@7.0.0
+- pkg:nuget/EntityFrameworkCore.VisualBasic@8.0.0

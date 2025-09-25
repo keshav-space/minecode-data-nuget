@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@0.9.1-preview
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@0.9.2-preview
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@0.9.3-preview
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@0.9.4-preview
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@0.9.5-preview
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@1.0.0
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@1.0.1
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@2.0.0
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@3.0.0
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@3.1.0
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@3.2.0
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@3.3.0
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@3.4.0
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@3.5.0
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@3.5.1
+- pkg:nuget/Microsoft.Azure.Batch.Conventions.Files@4.0.0

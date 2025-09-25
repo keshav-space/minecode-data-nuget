@@ -1,0 +1,8 @@
+- pkg:nuget/Esri.CodeAnalysis.CSharp@1.0.0
+- pkg:nuget/Esri.CodeAnalysis.CSharp@1.0.1
+- pkg:nuget/Esri.CodeAnalysis.CSharp@2.0.0
+- pkg:nuget/Esri.CodeAnalysis.CSharp@2.0.1
+- pkg:nuget/Esri.CodeAnalysis.CSharp@2.1.0
+- pkg:nuget/Esri.CodeAnalysis.CSharp@2.2.0
+- pkg:nuget/Esri.CodeAnalysis.CSharp@2.3.0
+- pkg:nuget/Esri.CodeAnalysis.CSharp@2.4.0

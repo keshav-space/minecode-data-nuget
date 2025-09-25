@@ -1,0 +1,6 @@
+- pkg:nuget/SyncClient.Core@0.1.0
+- pkg:nuget/SyncClient.Core@1.0.0
+- pkg:nuget/SyncClient.Core@2.0.0-alpha
+- pkg:nuget/SyncClient.Core@2.0.1-alpha
+- pkg:nuget/SyncClient.Core@2.0.2-alpha
+- pkg:nuget/SyncClient.Core@2.0.3-alpha

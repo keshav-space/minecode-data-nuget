@@ -1,0 +1,10 @@
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@1.0.0
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@1.0.0-beta3
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@1.0.1
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@1.1.0
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@1.1.1
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@1.2.0
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@8.0.0
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@8.0.1
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@8.0.2-beta1
+- pkg:nuget/Southport.UnitTesting.EFCore.SQL@9.0.0
