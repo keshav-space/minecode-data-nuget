@@ -1,0 +1,11 @@
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@1.2.0
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@2.0.0
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@3.1.0
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@5.0.0
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@6.0.0
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@6.1.0-beta1
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@7.0.0
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@7.1.0
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@8.0.0
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@8.0.1
+- pkg:nuget/UW.AspNetCore.Authentication.Shibboleth@9.0.0

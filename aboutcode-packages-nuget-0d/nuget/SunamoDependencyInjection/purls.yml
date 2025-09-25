@@ -1,0 +1,11 @@
+- pkg:nuget/SunamoDependencyInjection@24.11.12.1
+- pkg:nuget/SunamoDependencyInjection@24.12.24.1
+- pkg:nuget/SunamoDependencyInjection@24.12.26.1
+- pkg:nuget/SunamoDependencyInjection@25.2.2.1
+- pkg:nuget/SunamoDependencyInjection@25.2.2.2
+- pkg:nuget/SunamoDependencyInjection@25.2.2.3
+- pkg:nuget/SunamoDependencyInjection@25.3.29.1
+- pkg:nuget/SunamoDependencyInjection@25.4.16.1
+- pkg:nuget/SunamoDependencyInjection@25.6.2.1
+- pkg:nuget/SunamoDependencyInjection@25.6.3.1
+- pkg:nuget/SunamoDependencyInjection@25.6.3.2

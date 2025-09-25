@@ -1,0 +1,5 @@
+- pkg:nuget/MuPDFCore.NativeAssets.Linux-musl-x64@1.10.0
+- pkg:nuget/MuPDFCore.NativeAssets.Linux-musl-x64@1.8.0
+- pkg:nuget/MuPDFCore.NativeAssets.Linux-musl-x64@1.9.0
+- pkg:nuget/MuPDFCore.NativeAssets.Linux-musl-x64@2.0.0
+- pkg:nuget/MuPDFCore.NativeAssets.Linux-musl-x64@2.0.1

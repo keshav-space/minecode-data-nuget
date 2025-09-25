@@ -1,0 +1,5 @@
+- pkg:nuget/TPI.Infrastructure.Repository@1.0.0
+- pkg:nuget/TPI.Infrastructure.Repository@1.1.0
+- pkg:nuget/TPI.Infrastructure.Repository@2.0.0
+- pkg:nuget/TPI.Infrastructure.Repository@2.0.1
+- pkg:nuget/TPI.Infrastructure.Repository@2.0.2

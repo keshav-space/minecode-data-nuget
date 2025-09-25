@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.HealthChecks.Dapr@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Dapr@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Dapr@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Dapr@9.0.0

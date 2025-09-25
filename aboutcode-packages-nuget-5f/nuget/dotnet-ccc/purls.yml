@@ -1,0 +1,10 @@
+- pkg:nuget/dotnet-ccc@0.0.1-pre-manual1
+- pkg:nuget/dotnet-ccc@0.0.1-pre-manual2
+- pkg:nuget/dotnet-ccc@0.0.2
+- pkg:nuget/dotnet-ccc@0.0.4-dev
+- pkg:nuget/dotnet-ccc@0.2.10
+- pkg:nuget/dotnet-ccc@0.2.11
+- pkg:nuget/dotnet-ccc@0.2.13
+- pkg:nuget/dotnet-ccc@0.3.2
+- pkg:nuget/dotnet-ccc@0.3.4
+- pkg:nuget/dotnet-ccc@0.3.6

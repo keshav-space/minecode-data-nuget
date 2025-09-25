@@ -1,0 +1,11 @@
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.11.0
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.12.0
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.13.0
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.14.0
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.6.0
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.6.1
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.6.2
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.6.3
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.7.0
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.8.0
+- pkg:nuget/CloudStreams.Core.Infrastructure.EventSourcing.EventStore@0.9.0

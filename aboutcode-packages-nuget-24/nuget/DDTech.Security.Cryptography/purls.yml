@@ -1,0 +1,5 @@
+- pkg:nuget/DDTech.Security.Cryptography@1.0.0
+- pkg:nuget/DDTech.Security.Cryptography@1.1.0-alpha
+- pkg:nuget/DDTech.Security.Cryptography@1.1.0-alpha.2
+- pkg:nuget/DDTech.Security.Cryptography@1.2.0-alpha
+- pkg:nuget/DDTech.Security.Cryptography@1.2.1-alpha

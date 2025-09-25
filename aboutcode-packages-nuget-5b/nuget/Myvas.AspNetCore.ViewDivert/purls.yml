@@ -1,0 +1,9 @@
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@2.1.405
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@2.1.505
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@2.1.506
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@2.1.507
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@3.1.0.1
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@3.1.0.2
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@7.0.11
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@8.0.7
+- pkg:nuget/Myvas.AspNetCore.ViewDivert@9.0.0

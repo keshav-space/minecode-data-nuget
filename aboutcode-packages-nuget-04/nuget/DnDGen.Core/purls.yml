@@ -1,0 +1,16 @@
+- pkg:nuget/DnDGen.Core@1.0.0
+- pkg:nuget/DnDGen.Core@1.1.0
+- pkg:nuget/DnDGen.Core@2.0.0
+- pkg:nuget/DnDGen.Core@2.1.0
+- pkg:nuget/DnDGen.Core@2.2.0
+- pkg:nuget/DnDGen.Core@2.2.1
+- pkg:nuget/DnDGen.Core@2.3.0
+- pkg:nuget/DnDGen.Core@2.4.0
+- pkg:nuget/DnDGen.Core@2.4.1
+- pkg:nuget/DnDGen.Core@3.0.0
+- pkg:nuget/DnDGen.Core@3.1.0
+- pkg:nuget/DnDGen.Core@3.1.1
+- pkg:nuget/DnDGen.Core@3.2.0
+- pkg:nuget/DnDGen.Core@3.3.0
+- pkg:nuget/DnDGen.Core@3.4.0
+- pkg:nuget/DnDGen.Core@3.5.0

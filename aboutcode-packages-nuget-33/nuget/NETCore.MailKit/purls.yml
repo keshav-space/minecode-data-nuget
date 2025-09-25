@@ -1,0 +1,9 @@
+- pkg:nuget/NETCore.MailKit@1.0.0
+- pkg:nuget/NETCore.MailKit@1.0.1
+- pkg:nuget/NETCore.MailKit@1.1.0
+- pkg:nuget/NETCore.MailKit@1.1.1
+- pkg:nuget/NETCore.MailKit@2.0.0
+- pkg:nuget/NETCore.MailKit@2.0.1
+- pkg:nuget/NETCore.MailKit@2.0.2
+- pkg:nuget/NETCore.MailKit@2.0.3
+- pkg:nuget/NETCore.MailKit@2.1.0

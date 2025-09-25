@@ -1,0 +1,11 @@
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.16.2
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.16.4
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.16.5
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.17.0
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.17.1
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.17.2
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.17.3
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.17.4
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@2.17.5
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@3.0.0-alpha-
+- pkg:nuget/LogMagic.Microsoft.Azure.Functions@3.0.1-semantic1

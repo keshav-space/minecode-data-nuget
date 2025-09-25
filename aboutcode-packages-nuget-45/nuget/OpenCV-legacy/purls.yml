@@ -1,0 +1,4 @@
+- pkg:nuget/OpenCV-legacy@1.1.0.1
+- pkg:nuget/OpenCV-legacy@1.1.0.1-final
+- pkg:nuget/OpenCV-legacy@2.1.0
+- pkg:nuget/OpenCV-legacy@2.1.0-final

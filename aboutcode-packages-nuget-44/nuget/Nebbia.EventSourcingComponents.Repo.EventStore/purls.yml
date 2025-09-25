@@ -1,0 +1,2 @@
+- pkg:nuget/Nebbia.EventSourcingComponents.Repo.EventStore@0.0.1-alpha
+- pkg:nuget/Nebbia.EventSourcingComponents.Repo.EventStore@0.0.2-beta

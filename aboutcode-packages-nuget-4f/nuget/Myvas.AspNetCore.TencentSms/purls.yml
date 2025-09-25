@@ -1,0 +1,9 @@
+- pkg:nuget/Myvas.AspNetCore.TencentSms@2.1.404
+- pkg:nuget/Myvas.AspNetCore.TencentSms@2.2.402
+- pkg:nuget/Myvas.AspNetCore.TencentSms@3.1.0.1
+- pkg:nuget/Myvas.AspNetCore.TencentSms@3.1.0.2
+- pkg:nuget/Myvas.AspNetCore.TencentSms@6.0.2.20221
+- pkg:nuget/Myvas.AspNetCore.TencentSms@6.0.3
+- pkg:nuget/Myvas.AspNetCore.TencentSms@7.0.0
+- pkg:nuget/Myvas.AspNetCore.TencentSms@9.0.0-alpha
+- pkg:nuget/Myvas.AspNetCore.TencentSms@9.0.2

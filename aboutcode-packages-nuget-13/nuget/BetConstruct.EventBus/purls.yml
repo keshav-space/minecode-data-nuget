@@ -1,0 +1,13 @@
+- pkg:nuget/BetConstruct.EventBus@0.1.0
+- pkg:nuget/BetConstruct.EventBus@0.1.1
+- pkg:nuget/BetConstruct.EventBus@1.0.0
+- pkg:nuget/BetConstruct.EventBus@1.0.1
+- pkg:nuget/BetConstruct.EventBus@1.1.0-preview-1
+- pkg:nuget/BetConstruct.EventBus@1.2.0
+- pkg:nuget/BetConstruct.EventBus@1.2.1
+- pkg:nuget/BetConstruct.EventBus@1.2.1-alpha-preview-1
+- pkg:nuget/BetConstruct.EventBus@1.2.1-alpha-preview-2
+- pkg:nuget/BetConstruct.EventBus@1.2.1-alpha-preview-3
+- pkg:nuget/BetConstruct.EventBus@1.2.1-alpha-preview-5
+- pkg:nuget/BetConstruct.EventBus@1.2.1-alpha-preview-6
+- pkg:nuget/BetConstruct.EventBus@1.2.1-alpha-preview-7

@@ -1,0 +1,9 @@
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@10.0.0-pre
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@9.0.0
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@9.0.0-preview10
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@9.0.0-preview11
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@9.0.0-preview12
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@9.0.0-preview9
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@9.1.0
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@9.2.0
+- pkg:nuget/REstate.EntityFrameworkCore.Migrations.SqlServer@9.3.0

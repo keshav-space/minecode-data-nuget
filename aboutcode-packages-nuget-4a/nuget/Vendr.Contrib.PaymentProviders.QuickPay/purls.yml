@@ -1,0 +1,5 @@
+- pkg:nuget/Vendr.Contrib.PaymentProviders.QuickPay@1.0.0
+- pkg:nuget/Vendr.Contrib.PaymentProviders.QuickPay@1.1.0
+- pkg:nuget/Vendr.Contrib.PaymentProviders.QuickPay@1.1.1
+- pkg:nuget/Vendr.Contrib.PaymentProviders.QuickPay@2.0.0
+- pkg:nuget/Vendr.Contrib.PaymentProviders.QuickPay@2.0.1

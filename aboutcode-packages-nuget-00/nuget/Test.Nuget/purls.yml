@@ -1,0 +1,3 @@
+- pkg:nuget/Test.Nuget@1.0.0
+- pkg:nuget/Test.Nuget@1.1.0
+- pkg:nuget/Test.Nuget@1.1.1

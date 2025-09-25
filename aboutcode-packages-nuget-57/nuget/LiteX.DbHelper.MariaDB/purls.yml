@@ -1,0 +1,4 @@
+- pkg:nuget/LiteX.DbHelper.MariaDB@1.0.0
+- pkg:nuget/LiteX.DbHelper.MariaDB@2.0.0
+- pkg:nuget/LiteX.DbHelper.MariaDB@3.0.0
+- pkg:nuget/LiteX.DbHelper.MariaDB@4.0.0

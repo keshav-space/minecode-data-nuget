@@ -1,0 +1,4 @@
+- pkg:nuget/zlib-msvc-x86@1.2.11.8795
+- pkg:nuget/zlib-msvc-x86@1.2.11.8895
+- pkg:nuget/zlib-msvc-x86@1.2.11.8899
+- pkg:nuget/zlib-msvc-x86@1.2.11.8900

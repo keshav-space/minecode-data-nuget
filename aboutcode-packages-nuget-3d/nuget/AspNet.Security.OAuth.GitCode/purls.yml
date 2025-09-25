@@ -1,0 +1,4 @@
+- pkg:nuget/AspNet.Security.OAuth.GitCode@9.1.0
+- pkg:nuget/AspNet.Security.OAuth.GitCode@9.2.0
+- pkg:nuget/AspNet.Security.OAuth.GitCode@9.3.0
+- pkg:nuget/AspNet.Security.OAuth.GitCode@9.4.0

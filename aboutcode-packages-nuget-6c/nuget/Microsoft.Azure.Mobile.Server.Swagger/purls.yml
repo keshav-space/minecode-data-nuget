@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Swagger@0.3.157.1
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Swagger@2.0.0
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Swagger@2.0.1
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Swagger@2.0.2
+- pkg:nuget/Microsoft.Azure.Mobile.Server.Swagger@2.0.3

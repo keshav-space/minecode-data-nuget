@@ -1,0 +1,10 @@
+- pkg:nuget/NLogCassandra@1.0.0
+- pkg:nuget/NLogCassandra@1.0.0-beta
+- pkg:nuget/NLogCassandra@1.0.1
+- pkg:nuget/NLogCassandra@1.0.2
+- pkg:nuget/NLogCassandra@1.0.3
+- pkg:nuget/NLogCassandra@1.0.4
+- pkg:nuget/NLogCassandra@1.0.5
+- pkg:nuget/NLogCassandra@1.0.6
+- pkg:nuget/NLogCassandra@1.0.7
+- pkg:nuget/NLogCassandra@1.0.8

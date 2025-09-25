@@ -1,0 +1,10 @@
+- pkg:nuget/NServiceBus.Hyperion@0.1.0
+- pkg:nuget/NServiceBus.Hyperion@1.0.0
+- pkg:nuget/NServiceBus.Hyperion@1.1.0-beta001
+- pkg:nuget/NServiceBus.Hyperion@1.1.0-beta002
+- pkg:nuget/NServiceBus.Hyperion@2.0.0
+- pkg:nuget/NServiceBus.Hyperion@2.0.0-beta001
+- pkg:nuget/NServiceBus.Hyperion@3.0.1
+- pkg:nuget/NServiceBus.Hyperion@3.0.2
+- pkg:nuget/NServiceBus.Hyperion@3.0.3
+- pkg:nuget/NServiceBus.Hyperion@3.0.4

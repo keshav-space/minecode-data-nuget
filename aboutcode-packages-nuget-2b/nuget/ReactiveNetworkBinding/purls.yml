@@ -1,0 +1,4 @@
+- pkg:nuget/ReactiveNetworkBinding@3.0.2
+- pkg:nuget/ReactiveNetworkBinding@3.0.2-rx2
+- pkg:nuget/ReactiveNetworkBinding@3.0.2.1
+- pkg:nuget/ReactiveNetworkBinding@3.0.8.1

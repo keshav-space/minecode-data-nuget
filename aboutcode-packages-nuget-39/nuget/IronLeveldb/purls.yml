@@ -1,0 +1,8 @@
+- pkg:nuget/IronLeveldb@1.0.0
+- pkg:nuget/IronLeveldb@1.0.0-b20170621001
+- pkg:nuget/IronLeveldb@1.0.0-b20170621002
+- pkg:nuget/IronLeveldb@1.0.0-b20170621003
+- pkg:nuget/IronLeveldb@1.0.0-b20170621004
+- pkg:nuget/IronLeveldb@1.0.0-b20170823001
+- pkg:nuget/IronLeveldb@1.0.0-b20180330001
+- pkg:nuget/IronLeveldb@1.1.0-b20180419004

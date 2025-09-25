@@ -1,0 +1,17 @@
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@3.1.0
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@5.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@5.0.0-preview1
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@5.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@6.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@6.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@6.0.1-rc1.3
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@6.0.1-rc2.4
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@6.0.2
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@7.0.0-rc2.5
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@7.0.0-rc2.6
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@7.0.0-rc2.7
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@7.0.0-rc2.8
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Gremlin@9.0.0

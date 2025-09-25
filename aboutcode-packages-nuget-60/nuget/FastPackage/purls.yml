@@ -1,0 +1,12 @@
+- pkg:nuget/FastPackage@20.10.11.1
+- pkg:nuget/FastPackage@20.10.12.2
+- pkg:nuget/FastPackage@20.10.13.1
+- pkg:nuget/FastPackage@20.10.13.2
+- pkg:nuget/FastPackage@20.10.13.3
+- pkg:nuget/FastPackage@20.10.27.3
+- pkg:nuget/FastPackage@20.12.5.1
+- pkg:nuget/FastPackage@20.12.6.1
+- pkg:nuget/FastPackage@2020.12.12.1
+- pkg:nuget/FastPackage@2021.1.24.1
+- pkg:nuget/FastPackage@2021.1.24.2
+- pkg:nuget/FastPackage@2021.4.9.1

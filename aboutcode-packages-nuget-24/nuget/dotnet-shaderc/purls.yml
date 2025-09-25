@@ -1,0 +1,5 @@
+- pkg:nuget/dotnet-shaderc@1.0.0
+- pkg:nuget/dotnet-shaderc@1.1.0
+- pkg:nuget/dotnet-shaderc@1.2.0
+- pkg:nuget/dotnet-shaderc@1.2.1
+- pkg:nuget/dotnet-shaderc@1.2.2

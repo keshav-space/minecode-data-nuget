@@ -1,0 +1,4 @@
+- pkg:nuget/Supersonic.HttpClientUtils@1.5.8
+- pkg:nuget/Supersonic.HttpClientUtils@6.0.0
+- pkg:nuget/Supersonic.HttpClientUtils@7.0.0
+- pkg:nuget/Supersonic.HttpClientUtils@9.0.0

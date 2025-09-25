@@ -1,0 +1,4 @@
+- pkg:nuget/MvcBundleConfig@1.0.0
+- pkg:nuget/MvcBundleConfig@2.0.0
+- pkg:nuget/MvcBundleConfig@2.1.0
+- pkg:nuget/MvcBundleConfig@2.2.0

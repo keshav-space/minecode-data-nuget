@@ -1,0 +1,3 @@
+- pkg:nuget/RS.QueueProcessor.Consumer@1.2.0
+- pkg:nuget/RS.QueueProcessor.Consumer@1.3.0
+- pkg:nuget/RS.QueueProcessor.Consumer@1.4.0

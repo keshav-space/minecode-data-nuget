@@ -1,0 +1,15 @@
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@1.0.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@1.1.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@1.1.1
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@1.1.2
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@1.1.3
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@1.1.4
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@1.2.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@2.0.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@2.1.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@2.1.1
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@2.2.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@3.0.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@3.1.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@3.2.0
+- pkg:nuget/VDT.Core.Blazor.GlobalEventHandler@4.0.0

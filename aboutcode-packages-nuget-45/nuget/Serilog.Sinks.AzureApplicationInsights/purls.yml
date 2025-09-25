@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Sinks.AzureApplicationInsights@0.11.5-pre
+- pkg:nuget/Serilog.Sinks.AzureApplicationInsights@0.12.6-pre
+- pkg:nuget/Serilog.Sinks.AzureApplicationInsights@0.12.7-pre
+- pkg:nuget/Serilog.Sinks.AzureApplicationInsights@0.12.8-pre

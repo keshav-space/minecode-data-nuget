@@ -1,0 +1,11 @@
+- pkg:nuget/SmartConfig.DataStores.SqlServer@5.0.0-beta1
+- pkg:nuget/SmartConfig.DataStores.SqlServer@5.0.1-beta
+- pkg:nuget/SmartConfig.DataStores.SqlServer@5.0.2
+- pkg:nuget/SmartConfig.DataStores.SqlServer@6.0.0
+- pkg:nuget/SmartConfig.DataStores.SqlServer@6.0.1
+- pkg:nuget/SmartConfig.DataStores.SqlServer@6.0.2
+- pkg:nuget/SmartConfig.DataStores.SqlServer@8.0.1
+- pkg:nuget/SmartConfig.DataStores.SqlServer@8.0.2
+- pkg:nuget/SmartConfig.DataStores.SqlServer@9.0.1
+- pkg:nuget/SmartConfig.DataStores.SqlServer@9.0.2
+- pkg:nuget/SmartConfig.DataStores.SqlServer@9.0.3

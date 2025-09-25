@@ -1,0 +1,3 @@
+- pkg:nuget/runtime.centos.7-x64.native.Microsoft.SqlToolsService@3.0.0-release.157
+- pkg:nuget/runtime.centos.7-x64.native.Microsoft.SqlToolsService@3.0.0-release.163
+- pkg:nuget/runtime.centos.7-x64.native.Microsoft.SqlToolsService@3.0.0-release.200

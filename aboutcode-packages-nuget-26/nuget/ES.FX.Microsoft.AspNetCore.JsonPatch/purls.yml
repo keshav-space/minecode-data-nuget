@@ -1,0 +1,5 @@
+- pkg:nuget/ES.FX.Microsoft.AspNetCore.JsonPatch@9.0.5
+- pkg:nuget/ES.FX.Microsoft.AspNetCore.JsonPatch@9.0.6
+- pkg:nuget/ES.FX.Microsoft.AspNetCore.JsonPatch@9.0.7
+- pkg:nuget/ES.FX.Microsoft.AspNetCore.JsonPatch@9.0.8
+- pkg:nuget/ES.FX.Microsoft.AspNetCore.JsonPatch@9.0.9

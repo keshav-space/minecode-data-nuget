@@ -1,0 +1,5 @@
+- pkg:nuget/SolidCode.CombinatorialTests.MSTest@0.9.0
+- pkg:nuget/SolidCode.CombinatorialTests.MSTest@1.0.0
+- pkg:nuget/SolidCode.CombinatorialTests.MSTest@1.1.0
+- pkg:nuget/SolidCode.CombinatorialTests.MSTest@1.1.1
+- pkg:nuget/SolidCode.CombinatorialTests.MSTest@1.1.2

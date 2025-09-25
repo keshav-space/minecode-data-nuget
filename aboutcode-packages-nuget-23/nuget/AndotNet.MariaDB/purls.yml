@@ -1,0 +1,8 @@
+- pkg:nuget/AndotNet.MariaDB@1.0.0
+- pkg:nuget/AndotNet.MariaDB@2.0.0
+- pkg:nuget/AndotNet.MariaDB@3.0.0
+- pkg:nuget/AndotNet.MariaDB@5.0.0
+- pkg:nuget/AndotNet.MariaDB@6.0.0
+- pkg:nuget/AndotNet.MariaDB@7.0.0
+- pkg:nuget/AndotNet.MariaDB@8.0.0
+- pkg:nuget/AndotNet.MariaDB@8.0.1

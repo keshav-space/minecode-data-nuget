@@ -1,0 +1,5 @@
+- pkg:nuget/google-testmock@1.13.0
+- pkg:nuget/google-testmock@1.13.0-rev
+- pkg:nuget/google-testmock@1.14.0
+- pkg:nuget/google-testmock@1.15.2
+- pkg:nuget/google-testmock@1.16.0

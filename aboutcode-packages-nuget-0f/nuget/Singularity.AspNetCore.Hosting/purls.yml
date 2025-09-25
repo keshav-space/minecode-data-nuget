@@ -1,0 +1,16 @@
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.14.1-ci0037
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.14.1-ci0045
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.14.1-ci0050
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.15.0
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.16.0
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.16.1-fixtooeagerconre0003
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.0
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.1
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.2
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.2-cleanuplistsinsc0002
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.3
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.3-addcachecleanup0003
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.4
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.4-fixlifetimeinchi0008
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.17.5
+- pkg:nuget/Singularity.AspNetCore.Hosting@0.18.0

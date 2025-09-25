@@ -1,0 +1,5 @@
+- pkg:nuget/Albatross.CodeAnalysis@7.5.9%2B896edac
+- pkg:nuget/Albatross.CodeAnalysis@7.6.0%2Bee239dc
+- pkg:nuget/Albatross.CodeAnalysis@7.6.1%2B3dd4b49
+- pkg:nuget/Albatross.CodeAnalysis@7.6.2%2Ba3222eb
+- pkg:nuget/Albatross.CodeAnalysis@7.7.1%2B2368c89

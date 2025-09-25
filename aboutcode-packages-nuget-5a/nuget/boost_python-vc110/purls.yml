@@ -1,0 +1,7 @@
+- pkg:nuget/boost_python-vc110@1.54.0.157
+- pkg:nuget/boost_python-vc110@1.62.0
+- pkg:nuget/boost_python-vc110@1.63.0
+- pkg:nuget/boost_python-vc110@1.64.0
+- pkg:nuget/boost_python-vc110@1.65.0
+- pkg:nuget/boost_python-vc110@1.65.1
+- pkg:nuget/boost_python-vc110@1.66.0

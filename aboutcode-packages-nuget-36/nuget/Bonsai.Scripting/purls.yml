@@ -1,0 +1,16 @@
+- pkg:nuget/Bonsai.Scripting@2.0.0
+- pkg:nuget/Bonsai.Scripting@2.0.0-ctp2
+- pkg:nuget/Bonsai.Scripting@2.0.0-rc1
+- pkg:nuget/Bonsai.Scripting@2.0.0-rc2
+- pkg:nuget/Bonsai.Scripting@2.0.0-rc8
+- pkg:nuget/Bonsai.Scripting@2.1.0
+- pkg:nuget/Bonsai.Scripting@2.1.1
+- pkg:nuget/Bonsai.Scripting@2.2.0
+- pkg:nuget/Bonsai.Scripting@2.2.1
+- pkg:nuget/Bonsai.Scripting@2.3.0
+- pkg:nuget/Bonsai.Scripting@2.4.0
+- pkg:nuget/Bonsai.Scripting@2.5.0
+- pkg:nuget/Bonsai.Scripting@2.6.0
+- pkg:nuget/Bonsai.Scripting@2.6.1
+- pkg:nuget/Bonsai.Scripting@2.7.0
+- pkg:nuget/Bonsai.Scripting@2.8.0

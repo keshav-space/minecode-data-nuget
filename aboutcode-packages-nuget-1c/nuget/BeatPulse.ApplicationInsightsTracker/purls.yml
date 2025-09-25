@@ -1,0 +1,6 @@
+- pkg:nuget/BeatPulse.ApplicationInsightsTracker@1.4.0
+- pkg:nuget/BeatPulse.ApplicationInsightsTracker@1.7.0
+- pkg:nuget/BeatPulse.ApplicationInsightsTracker@2.1.0
+- pkg:nuget/BeatPulse.ApplicationInsightsTracker@2.1.10
+- pkg:nuget/BeatPulse.ApplicationInsightsTracker@2.1.12
+- pkg:nuget/BeatPulse.ApplicationInsightsTracker@3.0.0

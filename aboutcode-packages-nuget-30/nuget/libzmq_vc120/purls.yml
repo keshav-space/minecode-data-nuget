@@ -1,0 +1,14 @@
+- pkg:nuget/libzmq_vc120@4.1.0.2
+- pkg:nuget/libzmq_vc120@4.1.0.3
+- pkg:nuget/libzmq_vc120@4.1.0.4
+- pkg:nuget/libzmq_vc120@4.1.0.6
+- pkg:nuget/libzmq_vc120@4.1.0.7
+- pkg:nuget/libzmq_vc120@4.2.0
+- pkg:nuget/libzmq_vc120@4.2.1
+- pkg:nuget/libzmq_vc120@4.2.2
+- pkg:nuget/libzmq_vc120@4.2.20
+- pkg:nuget/libzmq_vc120@4.2.20.1
+- pkg:nuget/libzmq_vc120@4.2.3
+- pkg:nuget/libzmq_vc120@4.2.30
+- pkg:nuget/libzmq_vc120@4.3.0
+- pkg:nuget/libzmq_vc120@4.3.2

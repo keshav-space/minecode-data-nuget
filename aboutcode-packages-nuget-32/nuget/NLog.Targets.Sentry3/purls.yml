@@ -1,0 +1,7 @@
+- pkg:nuget/NLog.Targets.Sentry3@3.0.10
+- pkg:nuget/NLog.Targets.Sentry3@3.0.19
+- pkg:nuget/NLog.Targets.Sentry3@3.1.21
+- pkg:nuget/NLog.Targets.Sentry3@3.2.25
+- pkg:nuget/NLog.Targets.Sentry3@3.3.29
+- pkg:nuget/NLog.Targets.Sentry3@4.0.34
+- pkg:nuget/NLog.Targets.Sentry3@4.0.35

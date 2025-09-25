@@ -1,0 +1,4 @@
+- pkg:nuget/LiteX.DbHelper.SqlServer@1.0.0
+- pkg:nuget/LiteX.DbHelper.SqlServer@2.0.0
+- pkg:nuget/LiteX.DbHelper.SqlServer@3.0.0
+- pkg:nuget/LiteX.DbHelper.SqlServer@4.0.0

@@ -1,0 +1,16 @@
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@1.0.0
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@1.0.1
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.0
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.1
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.2
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.3
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.4
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.5
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.6
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.7
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.0.8
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.1.0
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.2.0
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.2.1
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.2.2
+- pkg:nuget/DaffodilSoftware.Repository.Sql.EfCore@2.2.3

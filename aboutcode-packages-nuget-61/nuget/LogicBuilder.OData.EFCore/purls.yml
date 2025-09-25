@@ -1,0 +1,12 @@
+- pkg:nuget/LogicBuilder.OData.EFCore@1.0.0
+- pkg:nuget/LogicBuilder.OData.EFCore@1.0.1
+- pkg:nuget/LogicBuilder.OData.EFCore@1.0.2
+- pkg:nuget/LogicBuilder.OData.EFCore@1.0.3
+- pkg:nuget/LogicBuilder.OData.EFCore@2.0.0
+- pkg:nuget/LogicBuilder.OData.EFCore@2.0.1-preview02
+- pkg:nuget/LogicBuilder.OData.EFCore@2.0.1-preview05
+- pkg:nuget/LogicBuilder.OData.EFCore@2.0.1-preview06
+- pkg:nuget/LogicBuilder.OData.EFCore@2.0.1-preview07
+- pkg:nuget/LogicBuilder.OData.EFCore@2.0.1-preview08
+- pkg:nuget/LogicBuilder.OData.EFCore@2.0.1-preview09
+- pkg:nuget/LogicBuilder.OData.EFCore@2.0.3

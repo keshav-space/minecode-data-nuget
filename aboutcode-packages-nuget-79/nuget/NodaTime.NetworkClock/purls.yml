@@ -1,0 +1,4 @@
+- pkg:nuget/NodaTime.NetworkClock@1.0.0
+- pkg:nuget/NodaTime.NetworkClock@1.0.1
+- pkg:nuget/NodaTime.NetworkClock@1.1.0
+- pkg:nuget/NodaTime.NetworkClock@2.0.0

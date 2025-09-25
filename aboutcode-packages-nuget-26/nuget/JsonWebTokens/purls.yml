@@ -1,0 +1,9 @@
+- pkg:nuget/JsonWebTokens@1.0.0
+- pkg:nuget/JsonWebTokens@1.0.0-beta-1
+- pkg:nuget/JsonWebTokens@1.0.1
+- pkg:nuget/JsonWebTokens@1.1.0
+- pkg:nuget/JsonWebTokens@1.2.0
+- pkg:nuget/JsonWebTokens@1.3.0
+- pkg:nuget/JsonWebTokens@2.0.0
+- pkg:nuget/JsonWebTokens@3.0.0
+- pkg:nuget/JsonWebTokens@4.0.0

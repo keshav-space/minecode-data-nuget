@@ -1,0 +1,9 @@
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@6.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@7.0.0-rc2.1
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@7.0.0-rc2.2
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@7.0.0-rc2.3
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@7.0.0-rc2.4
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Aws.SystemsManager@9.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/TerevintoSoftware.AspNetCore.Authentication.ApiKeys.Abstractions@1.0.1
+- pkg:nuget/TerevintoSoftware.AspNetCore.Authentication.ApiKeys.Abstractions@1.0.2
+- pkg:nuget/TerevintoSoftware.AspNetCore.Authentication.ApiKeys.Abstractions@1.1.0
+- pkg:nuget/TerevintoSoftware.AspNetCore.Authentication.ApiKeys.Abstractions@1.1.1
+- pkg:nuget/TerevintoSoftware.AspNetCore.Authentication.ApiKeys.Abstractions@1.1.2

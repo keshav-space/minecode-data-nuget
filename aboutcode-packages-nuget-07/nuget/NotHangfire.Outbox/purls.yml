@@ -1,0 +1,5 @@
+- pkg:nuget/NotHangfire.Outbox@1.0.0
+- pkg:nuget/NotHangfire.Outbox@1.0.1
+- pkg:nuget/NotHangfire.Outbox@1.0.2
+- pkg:nuget/NotHangfire.Outbox@1.0.3
+- pkg:nuget/NotHangfire.Outbox@1.0.4

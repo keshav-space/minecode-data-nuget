@@ -1,0 +1,4 @@
+- pkg:nuget/LiteX.DbHelper.PostgreSql@1.0.0
+- pkg:nuget/LiteX.DbHelper.PostgreSql@2.0.0
+- pkg:nuget/LiteX.DbHelper.PostgreSql@3.0.0
+- pkg:nuget/LiteX.DbHelper.PostgreSql@4.0.0

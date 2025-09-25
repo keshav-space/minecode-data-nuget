@@ -1,0 +1,6 @@
+- pkg:nuget/AspNetCore.HealthChecks.UI.Data@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.UI.Data@7.0.0-rc2.6
+- pkg:nuget/AspNetCore.HealthChecks.UI.Data@7.0.0-rc2.7
+- pkg:nuget/AspNetCore.HealthChecks.UI.Data@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.UI.Data@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.UI.Data@9.0.0

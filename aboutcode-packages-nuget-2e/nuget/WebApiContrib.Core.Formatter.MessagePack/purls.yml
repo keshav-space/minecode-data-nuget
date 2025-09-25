@@ -1,0 +1,4 @@
+- pkg:nuget/WebApiContrib.Core.Formatter.MessagePack@1.0.0
+- pkg:nuget/WebApiContrib.Core.Formatter.MessagePack@1.0.1
+- pkg:nuget/WebApiContrib.Core.Formatter.MessagePack@2.0.0
+- pkg:nuget/WebApiContrib.Core.Formatter.MessagePack@2.1.0

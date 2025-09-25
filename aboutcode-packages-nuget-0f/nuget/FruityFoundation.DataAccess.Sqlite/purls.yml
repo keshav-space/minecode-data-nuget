@@ -1,0 +1,8 @@
+- pkg:nuget/FruityFoundation.DataAccess.Sqlite@2.0.0
+- pkg:nuget/FruityFoundation.DataAccess.Sqlite@2.1.0
+- pkg:nuget/FruityFoundation.DataAccess.Sqlite@2.1.1
+- pkg:nuget/FruityFoundation.DataAccess.Sqlite@3.0.0
+- pkg:nuget/FruityFoundation.DataAccess.Sqlite@3.1.0
+- pkg:nuget/FruityFoundation.DataAccess.Sqlite@3.1.1
+- pkg:nuget/FruityFoundation.DataAccess.Sqlite@3.2.0
+- pkg:nuget/FruityFoundation.DataAccess.Sqlite@3.3.0

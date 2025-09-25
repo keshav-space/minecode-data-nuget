@@ -1,0 +1,5 @@
+- pkg:nuget/AspNet.Security.OAuth.Feishu.Identity@8.0.0
+- pkg:nuget/AspNet.Security.OAuth.Feishu.Identity@8.0.1
+- pkg:nuget/AspNet.Security.OAuth.Feishu.Identity@8.0.2
+- pkg:nuget/AspNet.Security.OAuth.Feishu.Identity@8.2.0
+- pkg:nuget/AspNet.Security.OAuth.Feishu.Identity@9.0.0

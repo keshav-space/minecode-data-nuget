@@ -1,0 +1,11 @@
+- pkg:nuget/Vanguard.Framework.Test@0.0.1
+- pkg:nuget/Vanguard.Framework.Test@0.0.2
+- pkg:nuget/Vanguard.Framework.Test@1.0.0
+- pkg:nuget/Vanguard.Framework.Test@2.0.0
+- pkg:nuget/Vanguard.Framework.Test@2.0.1
+- pkg:nuget/Vanguard.Framework.Test@2.1.0
+- pkg:nuget/Vanguard.Framework.Test@2.2.0
+- pkg:nuget/Vanguard.Framework.Test@3.0.0
+- pkg:nuget/Vanguard.Framework.Test@3.0.0-beta1
+- pkg:nuget/Vanguard.Framework.Test@3.1.0
+- pkg:nuget/Vanguard.Framework.Test@4.0.0

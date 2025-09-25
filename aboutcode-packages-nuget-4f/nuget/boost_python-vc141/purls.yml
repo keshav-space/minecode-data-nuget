@@ -1,0 +1,4 @@
+- pkg:nuget/boost_python-vc141@1.64.0
+- pkg:nuget/boost_python-vc141@1.65.0
+- pkg:nuget/boost_python-vc141@1.65.1
+- pkg:nuget/boost_python-vc141@1.66.0

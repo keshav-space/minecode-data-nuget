@@ -1,0 +1,15 @@
+- pkg:nuget/Lib.AspNetCore.ServerTiming@1.0.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@2.0.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@2.1.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@3.0.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@3.1.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@3.2.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@4.0.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@4.1.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@4.2.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@4.3.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@4.4.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@5.0.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@5.0.1
+- pkg:nuget/Lib.AspNetCore.ServerTiming@5.1.0
+- pkg:nuget/Lib.AspNetCore.ServerTiming@6.0.0

@@ -1,0 +1,10 @@
+- pkg:nuget/EntityFrameworkCore.Concurrency@6.0.0
+- pkg:nuget/EntityFrameworkCore.Concurrency@6.1.0
+- pkg:nuget/EntityFrameworkCore.Concurrency@7.0.0
+- pkg:nuget/EntityFrameworkCore.Concurrency@7.1.0
+- pkg:nuget/EntityFrameworkCore.Concurrency@7.2.0
+- pkg:nuget/EntityFrameworkCore.Concurrency@7.3.0
+- pkg:nuget/EntityFrameworkCore.Concurrency@8.0.0
+- pkg:nuget/EntityFrameworkCore.Concurrency@8.0.1
+- pkg:nuget/EntityFrameworkCore.Concurrency@8.1.0
+- pkg:nuget/EntityFrameworkCore.Concurrency@8.2.0

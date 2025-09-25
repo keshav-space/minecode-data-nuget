@@ -1,0 +1,4 @@
+- pkg:nuget/DaffodilSoftware.Auth.Jwt@1.0.0
+- pkg:nuget/DaffodilSoftware.Auth.Jwt@1.0.2
+- pkg:nuget/DaffodilSoftware.Auth.Jwt@2.0.0
+- pkg:nuget/DaffodilSoftware.Auth.Jwt@2.0.1

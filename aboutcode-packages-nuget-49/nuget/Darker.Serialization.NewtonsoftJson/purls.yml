@@ -1,0 +1,7 @@
+- pkg:nuget/Darker.Serialization.NewtonsoftJson@0.1.0
+- pkg:nuget/Darker.Serialization.NewtonsoftJson@0.1.0-ci50
+- pkg:nuget/Darker.Serialization.NewtonsoftJson@0.1.0-ci51
+- pkg:nuget/Darker.Serialization.NewtonsoftJson@0.1.0-ci53
+- pkg:nuget/Darker.Serialization.NewtonsoftJson@0.1.0-ci54
+- pkg:nuget/Darker.Serialization.NewtonsoftJson@0.2.0
+- pkg:nuget/Darker.Serialization.NewtonsoftJson@0.3.0

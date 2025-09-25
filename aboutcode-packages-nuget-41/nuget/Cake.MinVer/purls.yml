@@ -1,0 +1,11 @@
+- pkg:nuget/Cake.MinVer@0.1.0
+- pkg:nuget/Cake.MinVer@0.1.0-preview
+- pkg:nuget/Cake.MinVer@0.1.0-preview2
+- pkg:nuget/Cake.MinVer@0.2.0
+- pkg:nuget/Cake.MinVer@0.2.0-preview
+- pkg:nuget/Cake.MinVer@1.0.0
+- pkg:nuget/Cake.MinVer@1.0.0-rc0001
+- pkg:nuget/Cake.MinVer@1.0.1
+- pkg:nuget/Cake.MinVer@2.0.0
+- pkg:nuget/Cake.MinVer@3.0.0
+- pkg:nuget/Cake.MinVer@4.0.0

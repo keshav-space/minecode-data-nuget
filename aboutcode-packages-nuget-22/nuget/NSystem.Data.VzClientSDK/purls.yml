@@ -1,0 +1,5 @@
+- pkg:nuget/NSystem.Data.VzClientSDK@2022.11.11
+- pkg:nuget/NSystem.Data.VzClientSDK@2022.12.12
+- pkg:nuget/NSystem.Data.VzClientSDK@2022.8.8
+- pkg:nuget/NSystem.Data.VzClientSDK@2022.9.9
+- pkg:nuget/NSystem.Data.VzClientSDK@2023.1.1

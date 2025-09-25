@@ -1,0 +1,11 @@
+- pkg:nuget/nPact.Provider.Web@0.1.0
+- pkg:nuget/nPact.Provider.Web@0.1.0-beta
+- pkg:nuget/nPact.Provider.Web@0.1.1-beta
+- pkg:nuget/nPact.Provider.Web@0.1.1.1-beta
+- pkg:nuget/nPact.Provider.Web@0.1.1.2-beta
+- pkg:nuget/nPact.Provider.Web@0.1.1.3-beta
+- pkg:nuget/nPact.Provider.Web@1.0.0
+- pkg:nuget/nPact.Provider.Web@1.0.0-rc
+- pkg:nuget/nPact.Provider.Web@1.0.1
+- pkg:nuget/nPact.Provider.Web@1.0.1-rc
+- pkg:nuget/nPact.Provider.Web@1.1.0-rc

@@ -1,0 +1,11 @@
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@2.2.1
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@3.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@3.1.0
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@3.1.1
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@5.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@5.0.0-preview1
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@5.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Kubernetes@9.0.0

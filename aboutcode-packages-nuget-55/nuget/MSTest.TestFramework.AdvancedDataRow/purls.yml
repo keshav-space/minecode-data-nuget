@@ -1,0 +1,3 @@
+- pkg:nuget/MSTest.TestFramework.AdvancedDataRow@1.0.0-CI00000
+- pkg:nuget/MSTest.TestFramework.AdvancedDataRow@1.0.0-CI00001
+- pkg:nuget/MSTest.TestFramework.AdvancedDataRow@1.0.0-CI00003

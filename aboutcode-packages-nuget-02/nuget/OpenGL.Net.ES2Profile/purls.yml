@@ -1,0 +1,14 @@
+- pkg:nuget/OpenGL.Net.ES2Profile@0.4.1-alpha
+- pkg:nuget/OpenGL.Net.ES2Profile@0.4.2-alpha
+- pkg:nuget/OpenGL.Net.ES2Profile@0.5.1
+- pkg:nuget/OpenGL.Net.ES2Profile@0.5.1-beta
+- pkg:nuget/OpenGL.Net.ES2Profile@0.5.2
+- pkg:nuget/OpenGL.Net.ES2Profile@0.6.0
+- pkg:nuget/OpenGL.Net.ES2Profile@0.6.0-beta1
+- pkg:nuget/OpenGL.Net.ES2Profile@0.6.0-beta2
+- pkg:nuget/OpenGL.Net.ES2Profile@0.6.0-beta3
+- pkg:nuget/OpenGL.Net.ES2Profile@0.6.1
+- pkg:nuget/OpenGL.Net.ES2Profile@0.7.0
+- pkg:nuget/OpenGL.Net.ES2Profile@0.7.1
+- pkg:nuget/OpenGL.Net.ES2Profile@0.8.4
+- pkg:nuget/OpenGL.Net.ES2Profile@1.0.304

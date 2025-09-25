@@ -1,0 +1,4 @@
+- pkg:nuget/NETCore.RabbitMQKit@1.0.0
+- pkg:nuget/NETCore.RabbitMQKit@1.0.1
+- pkg:nuget/NETCore.RabbitMQKit@1.1.0
+- pkg:nuget/NETCore.RabbitMQKit@2.0.0

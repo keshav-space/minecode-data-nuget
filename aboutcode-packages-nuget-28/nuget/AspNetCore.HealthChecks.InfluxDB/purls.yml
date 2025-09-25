@@ -1,0 +1,9 @@
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@1.0.0--rc2.1
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@1.0.0--rc2.2
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@1.0.0--rc2.3
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@1.0.0--rc2.4
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@7.0.0--rc2.5
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.InfluxDB@9.0.0

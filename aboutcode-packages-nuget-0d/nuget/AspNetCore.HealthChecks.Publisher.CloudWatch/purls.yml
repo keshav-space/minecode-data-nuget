@@ -1,0 +1,10 @@
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@6.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@6.1.0
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@7.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@7.0.0-rc2.1
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@7.0.0-rc2.2
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@7.0.0-rc2.3
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@7.0.0-rc2.4
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@8.0.0
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@8.0.1
+- pkg:nuget/AspNetCore.HealthChecks.Publisher.CloudWatch@9.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/LiteAdmin.SqlServer@0.0.1
+- pkg:nuget/LiteAdmin.SqlServer@0.0.2-beta
+- pkg:nuget/LiteAdmin.SqlServer@0.0.3
+- pkg:nuget/LiteAdmin.SqlServer@0.0.4

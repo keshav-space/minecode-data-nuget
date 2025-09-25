@@ -1,0 +1,17 @@
+- pkg:nuget/AspNet.Security.OAuth.Huawei@6.0.13
+- pkg:nuget/AspNet.Security.OAuth.Huawei@6.0.14
+- pkg:nuget/AspNet.Security.OAuth.Huawei@6.0.15
+- pkg:nuget/AspNet.Security.OAuth.Huawei@7.0.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@7.0.1
+- pkg:nuget/AspNet.Security.OAuth.Huawei@7.0.2
+- pkg:nuget/AspNet.Security.OAuth.Huawei@7.0.3
+- pkg:nuget/AspNet.Security.OAuth.Huawei@7.0.4
+- pkg:nuget/AspNet.Security.OAuth.Huawei@8.0.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@8.1.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@8.2.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@8.3.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@9.0.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@9.1.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@9.2.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@9.3.0
+- pkg:nuget/AspNet.Security.OAuth.Huawei@9.4.0

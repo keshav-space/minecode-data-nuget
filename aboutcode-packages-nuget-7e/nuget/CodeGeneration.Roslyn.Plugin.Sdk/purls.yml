@@ -1,0 +1,4 @@
+- pkg:nuget/CodeGeneration.Roslyn.Plugin.Sdk@0.7.43-alpha
+- pkg:nuget/CodeGeneration.Roslyn.Plugin.Sdk@0.7.5-alpha
+- pkg:nuget/CodeGeneration.Roslyn.Plugin.Sdk@0.7.57-alpha
+- pkg:nuget/CodeGeneration.Roslyn.Plugin.Sdk@0.7.63
