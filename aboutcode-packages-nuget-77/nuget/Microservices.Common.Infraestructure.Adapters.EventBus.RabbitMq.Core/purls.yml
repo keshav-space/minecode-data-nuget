@@ -1,0 +1,2 @@
+- pkg:nuget/Microservices.Common.Infraestructure.Adapters.EventBus.RabbitMq.Core@1.0.0
+- pkg:nuget/Microservices.Common.Infraestructure.Adapters.EventBus.RabbitMq.Core@1.0.1

@@ -1,0 +1,6 @@
+- pkg:nuget/Imageflow.NativeTool.linux-musl-arm64@2.1.0-rc05
+- pkg:nuget/Imageflow.NativeTool.linux-musl-arm64@2.1.0-rc06
+- pkg:nuget/Imageflow.NativeTool.linux-musl-arm64@2.1.0-rc07
+- pkg:nuget/Imageflow.NativeTool.linux-musl-arm64@2.1.0-rc08
+- pkg:nuget/Imageflow.NativeTool.linux-musl-arm64@2.1.0-rc09
+- pkg:nuget/Imageflow.NativeTool.linux-musl-arm64@2.1.0-rc11

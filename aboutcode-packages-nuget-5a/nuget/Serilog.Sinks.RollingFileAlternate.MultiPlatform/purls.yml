@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Sinks.RollingFileAlternate.MultiPlatform@0.0.1-alpha1
+- pkg:nuget/Serilog.Sinks.RollingFileAlternate.MultiPlatform@1.0.0

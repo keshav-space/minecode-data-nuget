@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.SlackTarget@1.0.0
+- pkg:nuget/NLog.SlackTarget@1.0.1

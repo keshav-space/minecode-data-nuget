@@ -1,0 +1,7 @@
+- pkg:nuget/Community.VisualStudio.Toolkit.DependencyInjection.Microsoft@14.0.75.2-pre
+- pkg:nuget/Community.VisualStudio.Toolkit.DependencyInjection.Microsoft@14.0.75.3-pre
+- pkg:nuget/Community.VisualStudio.Toolkit.DependencyInjection.Microsoft@15.0.75.2-pre
+- pkg:nuget/Community.VisualStudio.Toolkit.DependencyInjection.Microsoft@15.0.75.3-pre
+- pkg:nuget/Community.VisualStudio.Toolkit.DependencyInjection.Microsoft@16.0.75.2-pre
+- pkg:nuget/Community.VisualStudio.Toolkit.DependencyInjection.Microsoft@16.0.75.3-pre
+- pkg:nuget/Community.VisualStudio.Toolkit.DependencyInjection.Microsoft@17.0.75.3-pre

@@ -1,0 +1,5 @@
+- pkg:nuget/Chickensoft.Platform@0.6.0-godot4.4.0-dev.7
+- pkg:nuget/Chickensoft.Platform@1.0.0-godot4.4.0-dev.7
+- pkg:nuget/Chickensoft.Platform@1.1.0-godot4.4.0-beta.4
+- pkg:nuget/Chickensoft.Platform@1.2.0-godot4.4.0-beta.4
+- pkg:nuget/Chickensoft.Platform@1.3.0-godot4.4.0-rc.1

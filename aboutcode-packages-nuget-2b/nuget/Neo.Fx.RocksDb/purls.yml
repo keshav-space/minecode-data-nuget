@@ -1,0 +1,3 @@
+- pkg:nuget/Neo.Fx.RocksDb@0.9.10
+- pkg:nuget/Neo.Fx.RocksDb@1.0.2
+- pkg:nuget/Neo.Fx.RocksDb@1.0.5

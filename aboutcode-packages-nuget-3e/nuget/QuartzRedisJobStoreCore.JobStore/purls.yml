@@ -1,0 +1,2 @@
+- pkg:nuget/QuartzRedisJobStoreCore.JobStore@1.0.0
+- pkg:nuget/QuartzRedisJobStoreCore.JobStore@1.0.1

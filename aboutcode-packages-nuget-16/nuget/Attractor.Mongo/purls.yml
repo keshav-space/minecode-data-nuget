@@ -1,0 +1,3 @@
+- pkg:nuget/Attractor.Mongo@1.0.0-alpha.1-net5
+- pkg:nuget/Attractor.Mongo@1.0.0-alpha.1-netstandard2.0
+- pkg:nuget/Attractor.Mongo@1.0.0-alpha.2

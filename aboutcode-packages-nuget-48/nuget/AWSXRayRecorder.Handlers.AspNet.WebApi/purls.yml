@@ -1,0 +1,4 @@
+- pkg:nuget/AWSXRayRecorder.Handlers.AspNet.WebApi@1.0.0-beta
+- pkg:nuget/AWSXRayRecorder.Handlers.AspNet.WebApi@1.0.1-beta
+- pkg:nuget/AWSXRayRecorder.Handlers.AspNet.WebApi@1.1.0
+- pkg:nuget/AWSXRayRecorder.Handlers.AspNet.WebApi@1.1.2

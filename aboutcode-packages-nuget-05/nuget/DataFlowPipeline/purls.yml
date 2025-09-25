@@ -1,0 +1,5 @@
+- pkg:nuget/DataFlowPipeline@1.0.0
+- pkg:nuget/DataFlowPipeline@1.0.1
+- pkg:nuget/DataFlowPipeline@1.0.2
+- pkg:nuget/DataFlowPipeline@1.0.2-testing
+- pkg:nuget/DataFlowPipeline@1.0.3
