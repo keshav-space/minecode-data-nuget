@@ -1,0 +1,4 @@
+- pkg:nuget/Meadow.MSTest.Runner@0.3.181-beta
+- pkg:nuget/Meadow.MSTest.Runner@0.3.182-beta
+- pkg:nuget/Meadow.MSTest.Runner@0.3.183-beta
+- pkg:nuget/Meadow.MSTest.Runner@0.3.184

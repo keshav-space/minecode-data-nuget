@@ -1,0 +1,5 @@
+- pkg:nuget/EntityFramework.SharpDevelop@4.1.10311
+- pkg:nuget/EntityFramework.SharpDevelop@4.1.10331
+- pkg:nuget/EntityFramework.SharpDevelop@5.0.0
+- pkg:nuget/EntityFramework.SharpDevelop@5.0.1
+- pkg:nuget/EntityFramework.SharpDevelop@6.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.SqlServer.Migration.Tde@1.0.0-preview.1.0.20230428.77
+- pkg:nuget/Microsoft.SqlServer.Migration.Tde@1.0.0-preview.1.0.20230428.78
+- pkg:nuget/Microsoft.SqlServer.Migration.Tde@1.0.0-preview.1.0.20230720.98
+- pkg:nuget/Microsoft.SqlServer.Migration.Tde@1.0.0-preview.1.0.20230914.107

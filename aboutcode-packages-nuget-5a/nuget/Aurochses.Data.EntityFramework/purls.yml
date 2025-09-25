@@ -1,0 +1,11 @@
+- pkg:nuget/Aurochses.Data.EntityFramework@1.2.0
+- pkg:nuget/Aurochses.Data.EntityFramework@1.2.0-preview
+- pkg:nuget/Aurochses.Data.EntityFramework@1.2.1
+- pkg:nuget/Aurochses.Data.EntityFramework@1.2.2
+- pkg:nuget/Aurochses.Data.EntityFramework@1.2.3
+- pkg:nuget/Aurochses.Data.EntityFramework@2.0.0
+- pkg:nuget/Aurochses.Data.EntityFramework@2.0.1
+- pkg:nuget/Aurochses.Data.EntityFramework@6.2.0
+- pkg:nuget/Aurochses.Data.EntityFramework@6.2.1
+- pkg:nuget/Aurochses.Data.EntityFramework@6.2.2
+- pkg:nuget/Aurochses.Data.EntityFramework@6.2.3

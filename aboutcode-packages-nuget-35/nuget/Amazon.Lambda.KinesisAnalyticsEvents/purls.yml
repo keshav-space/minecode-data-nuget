@@ -1,0 +1,7 @@
+- pkg:nuget/Amazon.Lambda.KinesisAnalyticsEvents@1.0.0
+- pkg:nuget/Amazon.Lambda.KinesisAnalyticsEvents@1.1.0
+- pkg:nuget/Amazon.Lambda.KinesisAnalyticsEvents@2.0.0
+- pkg:nuget/Amazon.Lambda.KinesisAnalyticsEvents@2.1.0
+- pkg:nuget/Amazon.Lambda.KinesisAnalyticsEvents@2.2.0
+- pkg:nuget/Amazon.Lambda.KinesisAnalyticsEvents@2.2.1
+- pkg:nuget/Amazon.Lambda.KinesisAnalyticsEvents@2.3.0

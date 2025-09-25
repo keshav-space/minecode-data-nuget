@@ -1,0 +1,5 @@
+- pkg:nuget/PathfinderDb.Schema@0.1.0-pre201511212054
+- pkg:nuget/PathfinderDb.Schema@1.0.0
+- pkg:nuget/PathfinderDb.Schema@1.0.1
+- pkg:nuget/PathfinderDb.Schema@1.0.2
+- pkg:nuget/PathfinderDb.Schema@1.0.3

@@ -1,0 +1,5 @@
+- pkg:nuget/HoneyComb.Platform.Android@0.0.1
+- pkg:nuget/HoneyComb.Platform.Android@0.1.0-alpha01
+- pkg:nuget/HoneyComb.Platform.Android@1.0.0-beta01
+- pkg:nuget/HoneyComb.Platform.Android@1.0.0-beta02
+- pkg:nuget/HoneyComb.Platform.Android@1.0.1-beta01

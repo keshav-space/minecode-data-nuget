@@ -1,0 +1,11 @@
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@1.0.0
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@1.0.0-beta0001
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@2.0.0
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@2.0.0-beta0002
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@3.0.0
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@3.0.0-beta0002
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@3.0.0-beta0003
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@4.0.0
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@9.0.0
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@9.0.0-beta.1
+- pkg:nuget/MooVC.Infrastructure.Compression.LZ4@9.1.0

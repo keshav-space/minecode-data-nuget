@@ -1,0 +1,4 @@
+- pkg:nuget/WampSharp.NewtonsoftCbor@20.1.1
+- pkg:nuget/WampSharp.NewtonsoftCbor@22.5.1
+- pkg:nuget/WampSharp.NewtonsoftCbor@23.5.1
+- pkg:nuget/WampSharp.NewtonsoftCbor@23.8.1

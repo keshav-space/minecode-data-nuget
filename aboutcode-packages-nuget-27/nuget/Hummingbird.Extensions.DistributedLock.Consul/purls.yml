@@ -1,0 +1,7 @@
+- pkg:nuget/Hummingbird.Extensions.DistributedLock.Consul@1.0.0
+- pkg:nuget/Hummingbird.Extensions.DistributedLock.Consul@1.17.12
+- pkg:nuget/Hummingbird.Extensions.DistributedLock.Consul@1.17.13
+- pkg:nuget/Hummingbird.Extensions.DistributedLock.Consul@1.17.14
+- pkg:nuget/Hummingbird.Extensions.DistributedLock.Consul@1.17.15
+- pkg:nuget/Hummingbird.Extensions.DistributedLock.Consul@1.17.16
+- pkg:nuget/Hummingbird.Extensions.DistributedLock.Consul@1.18.1

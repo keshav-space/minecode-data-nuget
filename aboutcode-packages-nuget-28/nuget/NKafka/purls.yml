@@ -1,0 +1,3 @@
+- pkg:nuget/NKafka@0.1.0-dev.3
+- pkg:nuget/NKafka@0.2.0-dev.7
+- pkg:nuget/NKafka@0.3.0-dev.10

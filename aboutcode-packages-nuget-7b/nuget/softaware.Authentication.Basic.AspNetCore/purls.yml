@@ -1,0 +1,8 @@
+- pkg:nuget/softaware.Authentication.Basic.AspNetCore@1.0.0
+- pkg:nuget/softaware.Authentication.Basic.AspNetCore@1.1.0
+- pkg:nuget/softaware.Authentication.Basic.AspNetCore@3.0.0
+- pkg:nuget/softaware.Authentication.Basic.AspNetCore@3.1.0
+- pkg:nuget/softaware.Authentication.Basic.AspNetCore@3.2.0
+- pkg:nuget/softaware.Authentication.Basic.AspNetCore@4.0.0
+- pkg:nuget/softaware.Authentication.Basic.AspNetCore@4.0.1
+- pkg:nuget/softaware.Authentication.Basic.AspNetCore@5.0.1

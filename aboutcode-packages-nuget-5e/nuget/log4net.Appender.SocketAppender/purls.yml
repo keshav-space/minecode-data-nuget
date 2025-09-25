@@ -1,0 +1,2 @@
+- pkg:nuget/log4net.Appender.SocketAppender@1.0.0
+- pkg:nuget/log4net.Appender.SocketAppender@1.0.1

@@ -1,0 +1,9 @@
+- pkg:nuget/DotNetCICD@1.0.0
+- pkg:nuget/DotNetCICD@1.3.0
+- pkg:nuget/DotNetCICD@1.5.2
+- pkg:nuget/DotNetCICD@1.5.3
+- pkg:nuget/DotNetCICD@1.5.4
+- pkg:nuget/DotNetCICD@1.5.5
+- pkg:nuget/DotNetCICD@1.5.6
+- pkg:nuget/DotNetCICD@1.5.7
+- pkg:nuget/DotNetCICD@1.5.8

@@ -1,0 +1,8 @@
+- pkg:nuget/TestNuGetAutomationAction@1.0.0
+- pkg:nuget/TestNuGetAutomationAction@1.1.0
+- pkg:nuget/TestNuGetAutomationAction@10.0.0
+- pkg:nuget/TestNuGetAutomationAction@11.0.0
+- pkg:nuget/TestNuGetAutomationAction@12.0.0
+- pkg:nuget/TestNuGetAutomationAction@2.0.0
+- pkg:nuget/TestNuGetAutomationAction@2.2.0
+- pkg:nuget/TestNuGetAutomationAction@3.0.0

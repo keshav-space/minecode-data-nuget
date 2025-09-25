@@ -1,0 +1,6 @@
+- pkg:nuget/Syncromatics.Cake.Helm@1.0.2
+- pkg:nuget/Syncromatics.Cake.Helm@1.0.3
+- pkg:nuget/Syncromatics.Cake.Helm@1.0.7
+- pkg:nuget/Syncromatics.Cake.Helm@2.0.0
+- pkg:nuget/Syncromatics.Cake.Helm@2.0.1
+- pkg:nuget/Syncromatics.Cake.Helm@2.1.0

@@ -1,0 +1,13 @@
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@1.0.0
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@1.0.0-beta0001
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@1.0.0-beta0003
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@1.0.0-beta0004
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@2.0.0
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@2.0.0-beta0001
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@3.0.0
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@3.0.0-beta0001
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@3.0.0-beta0002
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@4.0.0
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@9.0.0
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@9.0.0-beta.1
+- pkg:nuget/MooVC.Infrastructure.Serialization.MessagePack@9.1.0

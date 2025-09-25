@@ -1,0 +1,2 @@
+- pkg:nuget/AppStartupTasks.EntityFrameworkCore.Sqlite@0.1.0-alpha.12
+- pkg:nuget/AppStartupTasks.EntityFrameworkCore.Sqlite@0.1.0-alpha.14

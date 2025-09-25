@@ -1,0 +1,12 @@
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@0.0.1-test
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@0.0.2-test
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@0.0.3-test
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@0.0.4-test
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@0.0.5-test
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@0.0.6-test
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@0.0.7-test
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@0.0.8-test
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@1.0.0
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@1.0.1
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@1.0.2
+- pkg:nuget/RapidXamlDemo.MyUserControlAnalyzer@1.1.0

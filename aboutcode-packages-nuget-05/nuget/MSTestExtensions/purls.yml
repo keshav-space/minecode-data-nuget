@@ -1,0 +1,5 @@
+- pkg:nuget/MSTestExtensions@1.0.0
+- pkg:nuget/MSTestExtensions@1.0.1
+- pkg:nuget/MSTestExtensions@2.0.0
+- pkg:nuget/MSTestExtensions@3.0.0
+- pkg:nuget/MSTestExtensions@4.0.0

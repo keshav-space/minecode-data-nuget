@@ -1,0 +1,3 @@
+- pkg:nuget/PackRefDemoWithDep@1.0.0
+- pkg:nuget/PackRefDemoWithDep@1.0.1
+- pkg:nuget/PackRefDemoWithDep@1.0.2

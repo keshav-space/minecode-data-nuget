@@ -1,0 +1,5 @@
+- pkg:nuget/Yuniql.Redshift@1.0.0
+- pkg:nuget/Yuniql.Redshift@1.1.55
+- pkg:nuget/Yuniql.Redshift@1.2.25
+- pkg:nuget/Yuniql.Redshift@1.3.10
+- pkg:nuget/Yuniql.Redshift@1.3.15

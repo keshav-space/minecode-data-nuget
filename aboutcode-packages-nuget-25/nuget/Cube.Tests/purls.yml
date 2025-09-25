@@ -1,0 +1,6 @@
+- pkg:nuget/Cube.Tests@4.0.0
+- pkg:nuget/Cube.Tests@4.0.1
+- pkg:nuget/Cube.Tests@4.0.2
+- pkg:nuget/Cube.Tests@5.0.0
+- pkg:nuget/Cube.Tests@6.0.0
+- pkg:nuget/Cube.Tests@7.0.0

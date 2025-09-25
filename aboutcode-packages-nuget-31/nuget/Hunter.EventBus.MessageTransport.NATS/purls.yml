@@ -1,0 +1,6 @@
+- pkg:nuget/Hunter.EventBus.MessageTransport.NATS@1.3.2.44
+- pkg:nuget/Hunter.EventBus.MessageTransport.NATS@1.3.2.45
+- pkg:nuget/Hunter.EventBus.MessageTransport.NATS@1.3.2.47
+- pkg:nuget/Hunter.EventBus.MessageTransport.NATS@1.3.2.48
+- pkg:nuget/Hunter.EventBus.MessageTransport.NATS@1.3.2.50
+- pkg:nuget/Hunter.EventBus.MessageTransport.NATS@1.3.2.51

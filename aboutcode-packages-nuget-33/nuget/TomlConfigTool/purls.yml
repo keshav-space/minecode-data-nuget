@@ -1,0 +1,4 @@
+- pkg:nuget/TomlConfigTool@0.8.0
+- pkg:nuget/TomlConfigTool@1.0.0
+- pkg:nuget/TomlConfigTool@1.0.1
+- pkg:nuget/TomlConfigTool@1.0.3

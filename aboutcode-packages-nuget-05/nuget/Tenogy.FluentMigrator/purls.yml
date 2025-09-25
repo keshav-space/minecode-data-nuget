@@ -1,0 +1,5 @@
+- pkg:nuget/Tenogy.FluentMigrator@1.0.0
+- pkg:nuget/Tenogy.FluentMigrator@1.0.1
+- pkg:nuget/Tenogy.FluentMigrator@1.1.0
+- pkg:nuget/Tenogy.FluentMigrator@6.1.0
+- pkg:nuget/Tenogy.FluentMigrator@7.0.0

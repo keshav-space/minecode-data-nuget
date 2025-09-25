@@ -1,0 +1,3 @@
+- pkg:nuget/GenHTTP.Modules.Minification@8.4.0
+- pkg:nuget/GenHTTP.Modules.Minification@8.5.0
+- pkg:nuget/GenHTTP.Modules.Minification@8.6.0

@@ -1,0 +1,6 @@
+- pkg:nuget/VNetDev.WmiQueryableCore.Sms@1.1.0-alpha
+- pkg:nuget/VNetDev.WmiQueryableCore.Sms@1.2.0-alpha
+- pkg:nuget/VNetDev.WmiQueryableCore.Sms@1.4.0-beta
+- pkg:nuget/VNetDev.WmiQueryableCore.Sms@1.4.1-beta
+- pkg:nuget/VNetDev.WmiQueryableCore.Sms@1.5.0
+- pkg:nuget/VNetDev.WmiQueryableCore.Sms@1.6.0

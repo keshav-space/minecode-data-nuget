@@ -1,0 +1,11 @@
+- pkg:nuget/PrestoClient@0.197.0
+- pkg:nuget/PrestoClient@0.197.1
+- pkg:nuget/PrestoClient@0.197.2
+- pkg:nuget/PrestoClient@0.197.3
+- pkg:nuget/PrestoClient@0.198.0
+- pkg:nuget/PrestoClient@0.198.1
+- pkg:nuget/PrestoClient@0.198.2
+- pkg:nuget/PrestoClient@0.198.4-beta
+- pkg:nuget/PrestoClient@0.198.5
+- pkg:nuget/PrestoClient@0.256.0-beta
+- pkg:nuget/PrestoClient@0.351.0-beta

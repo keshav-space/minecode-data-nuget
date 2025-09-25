@@ -1,0 +1,5 @@
+- pkg:nuget/Skyline.DataMiner.Core.SRM.Utils.Dijkstra@2.0.1
+- pkg:nuget/Skyline.DataMiner.Core.SRM.Utils.Dijkstra@2.0.1-CU1
+- pkg:nuget/Skyline.DataMiner.Core.SRM.Utils.Dijkstra@2.0.2
+- pkg:nuget/Skyline.DataMiner.Core.SRM.Utils.Dijkstra@2.0.2-RC1
+- pkg:nuget/Skyline.DataMiner.Core.SRM.Utils.Dijkstra@2.0.3

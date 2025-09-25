@@ -1,0 +1,4 @@
+- pkg:nuget/WampSharp.NewtonsoftMessagePack@20.1.1
+- pkg:nuget/WampSharp.NewtonsoftMessagePack@22.5.1
+- pkg:nuget/WampSharp.NewtonsoftMessagePack@23.5.1
+- pkg:nuget/WampSharp.NewtonsoftMessagePack@23.8.1

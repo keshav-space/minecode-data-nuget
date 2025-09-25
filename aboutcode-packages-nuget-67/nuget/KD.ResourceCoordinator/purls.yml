@@ -1,0 +1,9 @@
+- pkg:nuget/KD.ResourceCoordinator@1.0.0
+- pkg:nuget/KD.ResourceCoordinator@2.0.0
+- pkg:nuget/KD.ResourceCoordinator@7.0.0
+- pkg:nuget/KD.ResourceCoordinator@7.0.1
+- pkg:nuget/KD.ResourceCoordinator@7.1.0
+- pkg:nuget/KD.ResourceCoordinator@7.10.0
+- pkg:nuget/KD.ResourceCoordinator@7.10.0-preview
+- pkg:nuget/KD.ResourceCoordinator@7.10.0-preview2
+- pkg:nuget/KD.ResourceCoordinator@7.2.0

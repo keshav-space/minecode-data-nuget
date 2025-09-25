@@ -1,0 +1,5 @@
+- pkg:nuget/Akka.NLog@0.6.1
+- pkg:nuget/Akka.NLog@0.6.2
+- pkg:nuget/Akka.NLog@0.6.3
+- pkg:nuget/Akka.NLog@0.6.4
+- pkg:nuget/Akka.NLog@0.7.0

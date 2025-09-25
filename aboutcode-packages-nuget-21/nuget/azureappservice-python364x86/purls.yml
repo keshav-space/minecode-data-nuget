@@ -1,0 +1,3 @@
+- pkg:nuget/azureappservice-python364x86@3.6.4.2
+- pkg:nuget/azureappservice-python364x86@3.6.4.3
+- pkg:nuget/azureappservice-python364x86@3.6.4.4

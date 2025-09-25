@@ -1,0 +1,3 @@
+- pkg:nuget/ExistsForAll.SimpleInjector.AspNetCore.Integration@1.0.0
+- pkg:nuget/ExistsForAll.SimpleInjector.AspNetCore.Integration@2.0.0
+- pkg:nuget/ExistsForAll.SimpleInjector.AspNetCore.Integration@2.0.1

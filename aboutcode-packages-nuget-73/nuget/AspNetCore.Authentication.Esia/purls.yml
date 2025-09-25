@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.Authentication.Esia@0.1.0
+- pkg:nuget/AspNetCore.Authentication.Esia@1.0.0
+- pkg:nuget/AspNetCore.Authentication.Esia@2.0.0
+- pkg:nuget/AspNetCore.Authentication.Esia@3.0.0

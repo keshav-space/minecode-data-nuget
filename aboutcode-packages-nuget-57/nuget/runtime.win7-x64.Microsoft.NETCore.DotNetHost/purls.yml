@@ -1,0 +1,9 @@
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.0.1
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.0.1-rc2-002702-00
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.1.0
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.1.0-preview1-001100-00
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.1.10
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.1.11
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.1.12
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.1.13
+- pkg:nuget/runtime.win7-x64.Microsoft.NETCore.DotNetHost@1.1.9

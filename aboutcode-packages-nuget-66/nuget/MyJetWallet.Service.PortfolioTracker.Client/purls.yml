@@ -1,0 +1,4 @@
+- pkg:nuget/MyJetWallet.Service.PortfolioTracker.Client@1.0.0
+- pkg:nuget/MyJetWallet.Service.PortfolioTracker.Client@1.0.1
+- pkg:nuget/MyJetWallet.Service.PortfolioTracker.Client@2.1.5
+- pkg:nuget/MyJetWallet.Service.PortfolioTracker.Client@2.1.6

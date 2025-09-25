@@ -1,0 +1,3 @@
+- pkg:nuget/AWSXRay.SQS.Consumer.Extensions@1.0.0
+- pkg:nuget/AWSXRay.SQS.Consumer.Extensions@1.0.1
+- pkg:nuget/AWSXRay.SQS.Consumer.Extensions@2.0.0

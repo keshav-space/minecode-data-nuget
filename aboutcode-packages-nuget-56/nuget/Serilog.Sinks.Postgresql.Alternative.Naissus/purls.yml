@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Sinks.Postgresql.Alternative.Naissus@3.3.13%2B35
+- pkg:nuget/Serilog.Sinks.Postgresql.Alternative.Naissus@4.0.1%2B1
+- pkg:nuget/Serilog.Sinks.Postgresql.Alternative.Naissus@4.0.2%2B1
+- pkg:nuget/Serilog.Sinks.Postgresql.Alternative.Naissus@4.1.0

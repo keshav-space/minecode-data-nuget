@@ -1,0 +1,4 @@
+- pkg:nuget/ClangSharp.Pathogen.Native.linux-arm64@0.0.1%2B0c700323ed7fbd3ebbe034799d50442a39ec994c
+- pkg:nuget/ClangSharp.Pathogen.Native.linux-arm64@0.0.2%2Babc6e18bec3b5918271ccc54d44ae7f7acea9450
+- pkg:nuget/ClangSharp.Pathogen.Native.linux-arm64@0.0.3%2B328cede2b6c2ab0fd23f01db03df0fade54ef458
+- pkg:nuget/ClangSharp.Pathogen.Native.linux-arm64@0.0.4%2B80f0796d0f08987009718991db6c9bbe528c3aa5

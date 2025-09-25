@@ -1,0 +1,12 @@
+- pkg:nuget/Jellyfin.ApiClient@10.7.2
+- pkg:nuget/Jellyfin.ApiClient@10.7.2.1
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-beta210420044535
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.202104200745
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.202104201404
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.202104201414
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.202104201428
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.202104201600
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.202104201640
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.202104202035
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.210420044535
+- pkg:nuget/Jellyfin.ApiClient@10.8.0-unstable.210420044666

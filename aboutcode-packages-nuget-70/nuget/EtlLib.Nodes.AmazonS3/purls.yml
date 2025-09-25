@@ -1,0 +1,6 @@
+- pkg:nuget/EtlLib.Nodes.AmazonS3@1.0.11-beta-gc09028c926
+- pkg:nuget/EtlLib.Nodes.AmazonS3@1.0.23-beta-g9ec3b10e99
+- pkg:nuget/EtlLib.Nodes.AmazonS3@1.0.64-beta-g9701d4c15f
+- pkg:nuget/EtlLib.Nodes.AmazonS3@1.0.66-beta-gac49e2a814
+- pkg:nuget/EtlLib.Nodes.AmazonS3@1.0.67-beta-g6ef22848ed
+- pkg:nuget/EtlLib.Nodes.AmazonS3@1.0.8-beta-geeebf5b0e2

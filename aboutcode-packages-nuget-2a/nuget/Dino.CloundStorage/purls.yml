@@ -1,0 +1,7 @@
+- pkg:nuget/Dino.CloundStorage@1.0.0%2Bfirtcomit
+- pkg:nuget/Dino.CloundStorage@1.1.0%2Buploadanotation
+- pkg:nuget/Dino.CloundStorage@1.1.1%2Bfixuploadanotation
+- pkg:nuget/Dino.CloundStorage@1.1.2%2Baddfilebucketname
+- pkg:nuget/Dino.CloundStorage@1.1.3%2Bfixgetifromform
+- pkg:nuget/Dino.CloundStorage@1.1.4%2Bfixgetifromform
+- pkg:nuget/Dino.CloundStorage@1.1.5%2Bfixperformants3client

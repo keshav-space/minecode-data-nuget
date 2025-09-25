@@ -1,0 +1,11 @@
+- pkg:nuget/MailMerge@1.0.1
+- pkg:nuget/MailMerge@2.0.0
+- pkg:nuget/MailMerge@2.1.0
+- pkg:nuget/MailMerge@2.2.0
+- pkg:nuget/MailMerge@2.2.1
+- pkg:nuget/MailMerge@2.3.0
+- pkg:nuget/MailMerge@2.4.0
+- pkg:nuget/MailMerge@2.5.0
+- pkg:nuget/MailMerge@2.5.1
+- pkg:nuget/MailMerge@2.6.0
+- pkg:nuget/MailMerge@2.6.0-preview

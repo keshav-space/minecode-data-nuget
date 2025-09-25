@@ -1,0 +1,4 @@
+- pkg:nuget/IT.GostCryptography@5.0.10
+- pkg:nuget/IT.GostCryptography@5.0.9
+- pkg:nuget/IT.GostCryptography@6.0.0
+- pkg:nuget/IT.GostCryptography@6.0.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/BeatPulse.RabbitMQ@1.0.1
+- pkg:nuget/BeatPulse.RabbitMQ@1.4.0
+- pkg:nuget/BeatPulse.RabbitMQ@1.7.0
+- pkg:nuget/BeatPulse.RabbitMQ@2.1.0
+- pkg:nuget/BeatPulse.RabbitMQ@3.0.0

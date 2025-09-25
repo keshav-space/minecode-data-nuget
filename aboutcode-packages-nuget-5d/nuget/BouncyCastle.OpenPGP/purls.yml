@@ -1,0 +1,3 @@
+- pkg:nuget/BouncyCastle.OpenPGP@1.8.1
+- pkg:nuget/BouncyCastle.OpenPGP@2.0.0
+- pkg:nuget/BouncyCastle.OpenPGP@2.0.0.1

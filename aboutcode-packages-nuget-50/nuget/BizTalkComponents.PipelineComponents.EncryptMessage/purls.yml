@@ -1,0 +1,4 @@
+- pkg:nuget/BizTalkComponents.PipelineComponents.EncryptMessage@0.9.0-beta
+- pkg:nuget/BizTalkComponents.PipelineComponents.EncryptMessage@0.9.1-beta
+- pkg:nuget/BizTalkComponents.PipelineComponents.EncryptMessage@1.0.0
+- pkg:nuget/BizTalkComponents.PipelineComponents.EncryptMessage@1.0.0.5

@@ -1,0 +1,2 @@
+- pkg:nuget/log4net.extension.mongo@1.0.8
+- pkg:nuget/log4net.extension.mongo@2.0.0
