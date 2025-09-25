@@ -1,0 +1,3 @@
+- pkg:nuget/MyPackageDemo@1.0.0
+- pkg:nuget/MyPackageDemo@1.0.1
+- pkg:nuget/MyPackageDemo@1.0.2

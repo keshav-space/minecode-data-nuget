@@ -1,0 +1,5 @@
+- pkg:nuget/WpfLightToolkit@1.0.0%2B1.0.0
+- pkg:nuget/WpfLightToolkit@1.0.0-CI00000
+- pkg:nuget/WpfLightToolkit@1.0.1
+- pkg:nuget/WpfLightToolkit@1.0.2
+- pkg:nuget/WpfLightToolkit@1.0.3

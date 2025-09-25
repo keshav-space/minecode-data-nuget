@@ -1,0 +1,5 @@
+- pkg:nuget/Astronaut.Modules.Domain.Abstractions@1.0.0
+- pkg:nuget/Astronaut.Modules.Domain.Abstractions@3.0.0
+- pkg:nuget/Astronaut.Modules.Domain.Abstractions@3.1.0
+- pkg:nuget/Astronaut.Modules.Domain.Abstractions@4.0.0
+- pkg:nuget/Astronaut.Modules.Domain.Abstractions@4.1.0

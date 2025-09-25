@@ -1,0 +1,3 @@
+- pkg:nuget/ReportGenerator.BitbucketServerCodeCoverage@1.0.4
+- pkg:nuget/ReportGenerator.BitbucketServerCodeCoverage@1.0.5
+- pkg:nuget/ReportGenerator.BitbucketServerCodeCoverage@1.0.6

@@ -1,0 +1,4 @@
+- pkg:nuget/NetCoreControls@0.1.0-beta1
+- pkg:nuget/NetCoreControls@0.5.0-beta1
+- pkg:nuget/NetCoreControls@1.0.0-beta1
+- pkg:nuget/NetCoreControls@1.0.0-beta2

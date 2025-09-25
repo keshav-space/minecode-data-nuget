@@ -1,0 +1,2 @@
+- pkg:nuget/dev.Microsoft.EntityFrameworkCore.DateTimeOnly@1.0.0
+- pkg:nuget/dev.Microsoft.EntityFrameworkCore.DateTimeOnly@1.1.0

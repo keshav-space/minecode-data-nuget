@@ -1,0 +1,4 @@
+- pkg:nuget/TestAutomation.Framework.Web@5.0.0
+- pkg:nuget/TestAutomation.Framework.Web@6.0.0
+- pkg:nuget/TestAutomation.Framework.Web@7.0.0
+- pkg:nuget/TestAutomation.Framework.Web@8.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Goiar.Simple.Cqrs.persistance.rabbitmq@1.0.0
+- pkg:nuget/Goiar.Simple.Cqrs.persistance.rabbitmq@2.0.0

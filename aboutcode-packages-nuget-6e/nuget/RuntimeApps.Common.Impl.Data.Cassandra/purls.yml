@@ -1,0 +1,4 @@
+- pkg:nuget/RuntimeApps.Common.Impl.Data.Cassandra@1.0.0
+- pkg:nuget/RuntimeApps.Common.Impl.Data.Cassandra@1.1.0
+- pkg:nuget/RuntimeApps.Common.Impl.Data.Cassandra@1.1.1
+- pkg:nuget/RuntimeApps.Common.Impl.Data.Cassandra@1.1.2

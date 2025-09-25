@@ -1,0 +1,3 @@
+- pkg:nuget/TMStudio.EntityFrameworkCore@1.0.0
+- pkg:nuget/TMStudio.EntityFrameworkCore@1.0.1-alpha
+- pkg:nuget/TMStudio.EntityFrameworkCore@1.0.2-alpha

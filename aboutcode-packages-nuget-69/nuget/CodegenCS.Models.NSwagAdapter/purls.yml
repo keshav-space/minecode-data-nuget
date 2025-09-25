@@ -1,0 +1,5 @@
+- pkg:nuget/CodegenCS.Models.NSwagAdapter@3.0.0
+- pkg:nuget/CodegenCS.Models.NSwagAdapter@3.0.1
+- pkg:nuget/CodegenCS.Models.NSwagAdapter@3.4.0
+- pkg:nuget/CodegenCS.Models.NSwagAdapter@3.4.1
+- pkg:nuget/CodegenCS.Models.NSwagAdapter@3.5.0

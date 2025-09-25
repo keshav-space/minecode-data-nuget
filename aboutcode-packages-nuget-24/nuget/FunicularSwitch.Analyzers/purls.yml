@@ -1,0 +1,4 @@
+- pkg:nuget/FunicularSwitch.Analyzers@1.0.0
+- pkg:nuget/FunicularSwitch.Analyzers@1.0.0-separate-source-generator-and-analyzer-20250724.6
+- pkg:nuget/FunicularSwitch.Analyzers@1.0.0-separate-source-generator-and-analyzer-20250725.2
+- pkg:nuget/FunicularSwitch.Analyzers@1.0.0-separate-source-generator-and-analyzer-20250725.4

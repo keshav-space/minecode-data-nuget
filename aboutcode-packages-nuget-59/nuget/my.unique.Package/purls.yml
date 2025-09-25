@@ -1,0 +1,9 @@
+- pkg:nuget/my.unique.Package@1.0.0
+- pkg:nuget/my.unique.Package@1.0.1-alpha
+- pkg:nuget/my.unique.Package@2.2.3-alpha
+- pkg:nuget/my.unique.Package@2.2.3-alpha-87
+- pkg:nuget/my.unique.Package@2.2.3-alpha-88
+- pkg:nuget/my.unique.Package@2.2.3-alpha-90
+- pkg:nuget/my.unique.Package@2.2.3-alpha-91
+- pkg:nuget/my.unique.Package@2.2.3-alpha-92
+- pkg:nuget/my.unique.Package@2.2.3-alpha-97

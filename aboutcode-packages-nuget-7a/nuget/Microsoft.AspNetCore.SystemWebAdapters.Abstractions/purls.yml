@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@1.0.0
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@1.1.0
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@1.2.0
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@1.2.0-preview.1.23219.1
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@1.3.0
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@1.3.1
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@1.3.2
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@1.4.0
+- pkg:nuget/Microsoft.AspNetCore.SystemWebAdapters.Abstractions@2.0.0

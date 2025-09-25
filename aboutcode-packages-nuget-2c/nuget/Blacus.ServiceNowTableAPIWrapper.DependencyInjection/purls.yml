@@ -1,0 +1,5 @@
+- pkg:nuget/Blacus.ServiceNowTableAPIWrapper.DependencyInjection@8.0.9-beta
+- pkg:nuget/Blacus.ServiceNowTableAPIWrapper.DependencyInjection@9.0.5
+- pkg:nuget/Blacus.ServiceNowTableAPIWrapper.DependencyInjection@9.0.6
+- pkg:nuget/Blacus.ServiceNowTableAPIWrapper.DependencyInjection@9.0.7-beta
+- pkg:nuget/Blacus.ServiceNowTableAPIWrapper.DependencyInjection@9.0.8-beta

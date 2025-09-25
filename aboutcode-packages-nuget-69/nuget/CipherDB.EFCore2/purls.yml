@@ -1,0 +1,3 @@
+- pkg:nuget/CipherDB.EFCore2@2019.11.1
+- pkg:nuget/CipherDB.EFCore2@2019.11.2
+- pkg:nuget/CipherDB.EFCore2@2019.12.1

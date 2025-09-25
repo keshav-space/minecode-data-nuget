@@ -1,0 +1,3 @@
+- pkg:nuget/Mondol.Abp.AspNetCore.LoadBalancer@1.0.1
+- pkg:nuget/Mondol.Abp.AspNetCore.LoadBalancer@2.0.1
+- pkg:nuget/Mondol.Abp.AspNetCore.LoadBalancer@3.0.0

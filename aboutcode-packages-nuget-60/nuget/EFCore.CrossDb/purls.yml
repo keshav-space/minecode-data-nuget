@@ -1,0 +1,2 @@
+- pkg:nuget/EFCore.CrossDb@1.0.0
+- pkg:nuget/EFCore.CrossDb@1.0.9

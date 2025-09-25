@@ -1,0 +1,4 @@
+- pkg:nuget/egg.db.PostgreSql@1.0.2011.1
+- pkg:nuget/egg.db.PostgreSql@12.1.2205.4
+- pkg:nuget/egg.db.PostgreSql@2.0.2106.2
+- pkg:nuget/egg.db.PostgreSql@6.0.2112.3

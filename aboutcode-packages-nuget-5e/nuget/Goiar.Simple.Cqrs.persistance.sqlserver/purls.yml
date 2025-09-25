@@ -1,0 +1,2 @@
+- pkg:nuget/Goiar.Simple.Cqrs.persistance.sqlserver@1.0.0
+- pkg:nuget/Goiar.Simple.Cqrs.persistance.sqlserver@2.0.0

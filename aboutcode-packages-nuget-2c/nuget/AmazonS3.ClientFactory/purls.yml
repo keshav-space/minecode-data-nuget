@@ -1,0 +1,3 @@
+- pkg:nuget/AmazonS3.ClientFactory@1.1.0
+- pkg:nuget/AmazonS3.ClientFactory@1.1.1
+- pkg:nuget/AmazonS3.ClientFactory@1.1.2

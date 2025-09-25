@@ -1,0 +1,6 @@
+- pkg:nuget/Linq2DynamoDb.WebApi.OData@1.0.0
+- pkg:nuget/Linq2DynamoDb.WebApi.OData@1.0.0-beta
+- pkg:nuget/Linq2DynamoDb.WebApi.OData@1.0.0-beta2
+- pkg:nuget/Linq2DynamoDb.WebApi.OData@1.1.0
+- pkg:nuget/Linq2DynamoDb.WebApi.OData@1.1.1
+- pkg:nuget/Linq2DynamoDb.WebApi.OData@2.4.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.CodeAnalysis.VisualBasic.SourceGenerators.Testing.MSTest@1.1.0
+- pkg:nuget/Microsoft.CodeAnalysis.VisualBasic.SourceGenerators.Testing.MSTest@1.1.1
+- pkg:nuget/Microsoft.CodeAnalysis.VisualBasic.SourceGenerators.Testing.MSTest@1.1.2

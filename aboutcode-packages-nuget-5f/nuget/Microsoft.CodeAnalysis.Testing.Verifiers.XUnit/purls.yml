@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.CodeAnalysis.Testing.Verifiers.XUnit@1.1.0
+- pkg:nuget/Microsoft.CodeAnalysis.Testing.Verifiers.XUnit@1.1.1
+- pkg:nuget/Microsoft.CodeAnalysis.Testing.Verifiers.XUnit@1.1.2

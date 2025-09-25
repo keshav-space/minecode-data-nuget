@@ -1,0 +1,3 @@
+- pkg:nuget/LibraryWithMaliciousTargets@1.0.0
+- pkg:nuget/LibraryWithMaliciousTargets@3.0.0
+- pkg:nuget/LibraryWithMaliciousTargets@4.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Kitsumon.Shared.AWS.Dynamo@1.0.1
+- pkg:nuget/Kitsumon.Shared.AWS.Dynamo@1.0.5
+- pkg:nuget/Kitsumon.Shared.AWS.Dynamo@1.0.6
+- pkg:nuget/Kitsumon.Shared.AWS.Dynamo@1.0.7

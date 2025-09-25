@@ -1,0 +1,3 @@
+- pkg:nuget/Astronaut.Extensions.Outbox.Sqlite@1.1.0
+- pkg:nuget/Astronaut.Extensions.Outbox.Sqlite@2.0.0
+- pkg:nuget/Astronaut.Extensions.Outbox.Sqlite@4.0.0

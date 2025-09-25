@@ -1,0 +1,2 @@
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Tools.Office.targets@15.0.0
+- pkg:nuget/MSBuild.Microsoft.VisualStudio.Tools.Office.targets@15.0.1

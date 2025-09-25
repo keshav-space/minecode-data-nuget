@@ -1,0 +1,6 @@
+- pkg:nuget/Blazor.Monaco@0.0.2-alpha
+- pkg:nuget/Blazor.Monaco@0.0.3-alpha
+- pkg:nuget/Blazor.Monaco@0.0.4-alpha
+- pkg:nuget/Blazor.Monaco@0.0.5-alpha
+- pkg:nuget/Blazor.Monaco@0.1.0
+- pkg:nuget/Blazor.Monaco@0.2.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Personalizer@0.8.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Personalizer@1.0.0

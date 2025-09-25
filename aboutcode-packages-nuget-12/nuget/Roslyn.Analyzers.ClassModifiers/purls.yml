@@ -1,0 +1,2 @@
+- pkg:nuget/Roslyn.Analyzers.ClassModifiers@1.0.0
+- pkg:nuget/Roslyn.Analyzers.ClassModifiers@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/ServiceStack.Configuration.Consul@4.0.11
+- pkg:nuget/ServiceStack.Configuration.Consul@4.0.3
+- pkg:nuget/ServiceStack.Configuration.Consul@4.0.6
+- pkg:nuget/ServiceStack.Configuration.Consul@5.0.0
