@@ -1,0 +1,4 @@
+- pkg:nuget/lazy.nuget.test@1.0.0
+- pkg:nuget/lazy.nuget.test@1.0.1
+- pkg:nuget/lazy.nuget.test@1.0.2
+- pkg:nuget/lazy.nuget.test@2.0.0

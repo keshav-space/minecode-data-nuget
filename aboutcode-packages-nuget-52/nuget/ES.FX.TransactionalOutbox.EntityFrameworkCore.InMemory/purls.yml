@@ -1,0 +1,3 @@
+- pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.InMemory@9.1.30
+- pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.InMemory@9.1.31
+- pkg:nuget/ES.FX.TransactionalOutbox.EntityFrameworkCore.InMemory@9.1.32
