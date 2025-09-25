@@ -1,0 +1,5 @@
+- pkg:nuget/PuppeteerSharp.Contrib.PageObjects@1.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.PageObjects@2.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.PageObjects@5.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.PageObjects@6.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.PageObjects@7.0.0

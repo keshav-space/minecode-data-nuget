@@ -1,0 +1,7 @@
+- pkg:nuget/PuppeteerSharp.Contrib.Extensions@1.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.Extensions@2.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.Extensions@3.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.Extensions@4.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.Extensions@5.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.Extensions@6.0.0
+- pkg:nuget/PuppeteerSharp.Contrib.Extensions@7.0.0

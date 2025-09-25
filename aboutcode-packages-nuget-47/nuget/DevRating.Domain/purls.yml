@@ -1,0 +1,16 @@
+- pkg:nuget/DevRating.Domain@1.0.0
+- pkg:nuget/DevRating.Domain@10.0.0
+- pkg:nuget/DevRating.Domain@10.1.0
+- pkg:nuget/DevRating.Domain@2.0.0
+- pkg:nuget/DevRating.Domain@2.1.0
+- pkg:nuget/DevRating.Domain@3.0.0
+- pkg:nuget/DevRating.Domain@4.0.0
+- pkg:nuget/DevRating.Domain@4.1.0
+- pkg:nuget/DevRating.Domain@5.0.0
+- pkg:nuget/DevRating.Domain@5.1.0
+- pkg:nuget/DevRating.Domain@6.0.0
+- pkg:nuget/DevRating.Domain@6.1.0
+- pkg:nuget/DevRating.Domain@7.0.0
+- pkg:nuget/DevRating.Domain@7.1.0
+- pkg:nuget/DevRating.Domain@8.0.0
+- pkg:nuget/DevRating.Domain@9.0.0

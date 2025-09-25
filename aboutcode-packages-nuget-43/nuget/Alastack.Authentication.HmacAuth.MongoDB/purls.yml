@@ -1,0 +1,6 @@
+- pkg:nuget/Alastack.Authentication.HmacAuth.MongoDB@1.0.0
+- pkg:nuget/Alastack.Authentication.HmacAuth.MongoDB@1.1.0
+- pkg:nuget/Alastack.Authentication.HmacAuth.MongoDB@1.2.0
+- pkg:nuget/Alastack.Authentication.HmacAuth.MongoDB@2.0.0
+- pkg:nuget/Alastack.Authentication.HmacAuth.MongoDB@2.0.1
+- pkg:nuget/Alastack.Authentication.HmacAuth.MongoDB@2.1.0

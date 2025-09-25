@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.Psi.Calibration@0.10.16.1-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.11.82.2-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.12.53.2-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.13.38.2-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.14.35.3-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.15.49.1-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.16.92.1-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.17.52.1-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.18.72.1-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.19.100.1-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.7.57.2-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.8.32.1-beta
+- pkg:nuget/Microsoft.Psi.Calibration@0.9.6.1-beta

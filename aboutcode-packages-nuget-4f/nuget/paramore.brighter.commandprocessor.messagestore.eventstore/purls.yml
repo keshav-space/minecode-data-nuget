@@ -1,0 +1,8 @@
+- pkg:nuget/paramore.brighter.commandprocessor.messagestore.eventstore@5.0.323
+- pkg:nuget/paramore.brighter.commandprocessor.messagestore.eventstore@6.0.0
+- pkg:nuget/paramore.brighter.commandprocessor.messagestore.eventstore@6.0.28
+- pkg:nuget/paramore.brighter.commandprocessor.messagestore.eventstore@6.0.6
+- pkg:nuget/paramore.brighter.commandprocessor.messagestore.eventstore@6.1.0
+- pkg:nuget/paramore.brighter.commandprocessor.messagestore.eventstore@6.1.1
+- pkg:nuget/paramore.brighter.commandprocessor.messagestore.eventstore@6.1.8
+- pkg:nuget/paramore.brighter.commandprocessor.messagestore.eventstore@7.0.86-alpha

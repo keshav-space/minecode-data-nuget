@@ -1,0 +1,11 @@
+- pkg:nuget/DotNetify.SignalR.Owin@2.3.0-pre
+- pkg:nuget/DotNetify.SignalR.Owin@2.3.1-pre
+- pkg:nuget/DotNetify.SignalR.Owin@3.0.0-pre
+- pkg:nuget/DotNetify.SignalR.Owin@3.0.1
+- pkg:nuget/DotNetify.SignalR.Owin@3.1.0
+- pkg:nuget/DotNetify.SignalR.Owin@3.2.0
+- pkg:nuget/DotNetify.SignalR.Owin@3.3.0
+- pkg:nuget/DotNetify.SignalR.Owin@3.3.1
+- pkg:nuget/DotNetify.SignalR.Owin@3.4.0
+- pkg:nuget/DotNetify.SignalR.Owin@3.6.0
+- pkg:nuget/DotNetify.SignalR.Owin@3.6.1

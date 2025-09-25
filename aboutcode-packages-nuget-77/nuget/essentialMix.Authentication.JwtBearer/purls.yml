@@ -1,0 +1,9 @@
+- pkg:nuget/essentialMix.Authentication.JwtBearer@15.0.1
+- pkg:nuget/essentialMix.Authentication.JwtBearer@15.0.3
+- pkg:nuget/essentialMix.Authentication.JwtBearer@15.0.4
+- pkg:nuget/essentialMix.Authentication.JwtBearer@15.0.5
+- pkg:nuget/essentialMix.Authentication.JwtBearer@15.0.6
+- pkg:nuget/essentialMix.Authentication.JwtBearer@15.0.8
+- pkg:nuget/essentialMix.Authentication.JwtBearer@15.0.9
+- pkg:nuget/essentialMix.Authentication.JwtBearer@16.0.1
+- pkg:nuget/essentialMix.Authentication.JwtBearer@16.1.0

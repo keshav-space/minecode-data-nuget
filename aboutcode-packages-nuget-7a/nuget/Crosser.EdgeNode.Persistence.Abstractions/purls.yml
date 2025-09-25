@@ -1,0 +1,5 @@
+- pkg:nuget/Crosser.EdgeNode.Persistence.Abstractions@2.6.0-rc10
+- pkg:nuget/Crosser.EdgeNode.Persistence.Abstractions@3.0.0
+- pkg:nuget/Crosser.EdgeNode.Persistence.Abstractions@4.0.0
+- pkg:nuget/Crosser.EdgeNode.Persistence.Abstractions@4.0.0-rc1
+- pkg:nuget/Crosser.EdgeNode.Persistence.Abstractions@5.0.0

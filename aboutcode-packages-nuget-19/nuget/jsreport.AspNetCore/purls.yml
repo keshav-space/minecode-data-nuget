@@ -1,0 +1,9 @@
+- pkg:nuget/jsreport.AspNetCore@1.0.0
+- pkg:nuget/jsreport.AspNetCore@1.0.0-beta1
+- pkg:nuget/jsreport.AspNetCore@1.0.1
+- pkg:nuget/jsreport.AspNetCore@2.0.0
+- pkg:nuget/jsreport.AspNetCore@2.0.1
+- pkg:nuget/jsreport.AspNetCore@2.0.2
+- pkg:nuget/jsreport.AspNetCore@2.1.0
+- pkg:nuget/jsreport.AspNetCore@3.8.0
+- pkg:nuget/jsreport.AspNetCore@3.8.1

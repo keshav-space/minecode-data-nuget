@@ -1,0 +1,17 @@
+- pkg:nuget/Asa.Core.EF@0.0.0.1-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.10-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.11-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.12-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.13-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.14-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.15-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.16-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.2-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.3-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.4-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.5-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.6-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.7-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.8-beta
+- pkg:nuget/Asa.Core.EF@0.0.0.9-beta
+- pkg:nuget/Asa.Core.EF@0.0.17

@@ -1,0 +1,5 @@
+- pkg:nuget/CeriumX.Messaging.LocalMQ@1.0.0
+- pkg:nuget/CeriumX.Messaging.LocalMQ@1.0.1
+- pkg:nuget/CeriumX.Messaging.LocalMQ@1.0.2
+- pkg:nuget/CeriumX.Messaging.LocalMQ@7.0.0
+- pkg:nuget/CeriumX.Messaging.LocalMQ@8.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/CoreDX.Extensions.DependencyInjection.Abstractions@8.0.1
+- pkg:nuget/CoreDX.Extensions.DependencyInjection.Abstractions@8.0.1.1
+- pkg:nuget/CoreDX.Extensions.DependencyInjection.Abstractions@8.0.1.2
+- pkg:nuget/CoreDX.Extensions.DependencyInjection.Abstractions@9.0.0

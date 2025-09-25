@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Sinks.MementoGroup@0.0.5.1
+- pkg:nuget/Serilog.Sinks.MementoGroup@0.0.7.1
+- pkg:nuget/Serilog.Sinks.MementoGroup@0.9.2
+- pkg:nuget/Serilog.Sinks.MementoGroup@1.0.0

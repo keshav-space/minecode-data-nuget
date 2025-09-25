@@ -1,0 +1,4 @@
+- pkg:nuget/EventStoreKit.log4net@1.0.0
+- pkg:nuget/EventStoreKit.log4net@1.1.0
+- pkg:nuget/EventStoreKit.log4net@1.3.0
+- pkg:nuget/EventStoreKit.log4net@1.3.1

@@ -1,0 +1,4 @@
+- pkg:nuget/ServiceBus.RabbitMq@1.0.0
+- pkg:nuget/ServiceBus.RabbitMq@1.0.0-rc01
+- pkg:nuget/ServiceBus.RabbitMq@1.0.1
+- pkg:nuget/ServiceBus.RabbitMq@1.0.1-rc01

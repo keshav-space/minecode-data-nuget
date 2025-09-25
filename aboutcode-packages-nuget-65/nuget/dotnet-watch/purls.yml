@@ -1,0 +1,9 @@
+- pkg:nuget/dotnet-watch@0.0.1-alpha
+- pkg:nuget/dotnet-watch@2.1.0
+- pkg:nuget/dotnet-watch@2.1.0-preview1-final
+- pkg:nuget/dotnet-watch@2.1.1
+- pkg:nuget/dotnet-watch@2.2.0
+- pkg:nuget/dotnet-watch@2.2.0-preview1-35029
+- pkg:nuget/dotnet-watch@2.2.0-preview2-35157
+- pkg:nuget/dotnet-watch@2.2.0-preview3-35497
+- pkg:nuget/dotnet-watch@3.0.0-preview-18579-0056

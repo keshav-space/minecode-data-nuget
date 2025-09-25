@@ -1,0 +1,4 @@
+- pkg:nuget/CeriumX.WebEngine.WebView2@1.0.0
+- pkg:nuget/CeriumX.WebEngine.WebView2@7.0.0
+- pkg:nuget/CeriumX.WebEngine.WebView2@7.0.1
+- pkg:nuget/CeriumX.WebEngine.WebView2@8.0.0

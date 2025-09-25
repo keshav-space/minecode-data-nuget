@@ -1,0 +1,7 @@
+- pkg:nuget/Achilles.Entities.Sqlite@0.1.1-CI-20180804-160429
+- pkg:nuget/Achilles.Entities.Sqlite@0.1.2-alpha
+- pkg:nuget/Achilles.Entities.Sqlite@0.1.3-alpha
+- pkg:nuget/Achilles.Entities.Sqlite@0.1.5-alpha
+- pkg:nuget/Achilles.Entities.Sqlite@0.1.6-alpha
+- pkg:nuget/Achilles.Entities.Sqlite@0.1.7-alpha
+- pkg:nuget/Achilles.Entities.Sqlite@0.1.9-alpha

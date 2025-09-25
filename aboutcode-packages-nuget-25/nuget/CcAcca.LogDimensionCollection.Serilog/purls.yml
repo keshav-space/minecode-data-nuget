@@ -1,0 +1,5 @@
+- pkg:nuget/CcAcca.LogDimensionCollection.Serilog@1.0.0
+- pkg:nuget/CcAcca.LogDimensionCollection.Serilog@1.0.1
+- pkg:nuget/CcAcca.LogDimensionCollection.Serilog@2.0.0
+- pkg:nuget/CcAcca.LogDimensionCollection.Serilog@2.0.0-beta.1
+- pkg:nuget/CcAcca.LogDimensionCollection.Serilog@2.0.0-beta.2

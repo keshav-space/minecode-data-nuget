@@ -1,0 +1,6 @@
+- pkg:nuget/OpenStrata.MSBuild.AppSource@0.3.0-preview
+- pkg:nuget/OpenStrata.MSBuild.AppSource@0.3.32-preview
+- pkg:nuget/OpenStrata.MSBuild.AppSource@0.3.72-preview.1
+- pkg:nuget/OpenStrata.MSBuild.AppSource@0.3.76-preview
+- pkg:nuget/OpenStrata.MSBuild.AppSource@0.3.79-preview
+- pkg:nuget/OpenStrata.MSBuild.AppSource@0.3.82-preview

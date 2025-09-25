@@ -1,0 +1,5 @@
+- pkg:nuget/Agero.Core.SplunkLogger@1.0.0
+- pkg:nuget/Agero.Core.SplunkLogger@1.0.10
+- pkg:nuget/Agero.Core.SplunkLogger@1.0.7-alpha
+- pkg:nuget/Agero.Core.SplunkLogger@1.0.8-alpha
+- pkg:nuget/Agero.Core.SplunkLogger@1.0.9-alpha

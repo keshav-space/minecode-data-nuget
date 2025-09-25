@@ -1,0 +1,4 @@
+- pkg:nuget/Muflone.EventStore@0.9.0
+- pkg:nuget/Muflone.EventStore@0.9.1
+- pkg:nuget/Muflone.EventStore@0.9.3
+- pkg:nuget/Muflone.EventStore@1.0.0

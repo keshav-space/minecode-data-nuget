@@ -1,0 +1,4 @@
+- pkg:nuget/cl2j.FileStorage.Provider.AzureBlobStorage@1.0.2
+- pkg:nuget/cl2j.FileStorage.Provider.AzureBlobStorage@1.0.3
+- pkg:nuget/cl2j.FileStorage.Provider.AzureBlobStorage@1.0.6
+- pkg:nuget/cl2j.FileStorage.Provider.AzureBlobStorage@1.0.8

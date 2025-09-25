@@ -1,0 +1,2 @@
+- pkg:nuget/Storm.Infrastructure.Loggings.OpenTelemetry@1.1.0-rc
+- pkg:nuget/Storm.Infrastructure.Loggings.OpenTelemetry@1.2.0-rc

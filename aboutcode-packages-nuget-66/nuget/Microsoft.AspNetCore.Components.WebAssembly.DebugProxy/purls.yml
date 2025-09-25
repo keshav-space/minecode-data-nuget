@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@3.2.0
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@3.2.0-preview3.20168.3
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@3.2.0-preview4.20210.8
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@3.2.0-preview5.20216.8
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@3.2.0-rc1.20223.4
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@3.2.1
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@5.0.0-preview.6.20312.15
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@5.0.0-preview.7.20365.19
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy@5.0.0-preview.8.20414.8

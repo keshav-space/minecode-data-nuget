@@ -1,0 +1,11 @@
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-alpha.1%2B6.0.402
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-alpha.2%2B6.0.402
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-alpha.3%2B6.0.402
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-alpha.4%2B6.0.402
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-alpha.5%2B7.0.100
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-alpha.7%2B9.0.100
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-alpha.8%2B9.0.100
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-beta.1
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-beta.2
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-beta.3
+- pkg:nuget/TimeWarp.SourceGenerators@1.0.0-beta.4

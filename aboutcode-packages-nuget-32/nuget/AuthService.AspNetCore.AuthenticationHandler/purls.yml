@@ -1,0 +1,3 @@
+- pkg:nuget/AuthService.AspNetCore.AuthenticationHandler@0.1.0
+- pkg:nuget/AuthService.AspNetCore.AuthenticationHandler@0.1.2
+- pkg:nuget/AuthService.AspNetCore.AuthenticationHandler@0.1.3

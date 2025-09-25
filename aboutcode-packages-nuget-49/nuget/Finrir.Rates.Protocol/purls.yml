@@ -1,0 +1,14 @@
+- pkg:nuget/Finrir.Rates.Protocol@2024.110.108.1-rates-api
+- pkg:nuget/Finrir.Rates.Protocol@2024.110.108.2
+- pkg:nuget/Finrir.Rates.Protocol@2024.110.108.3-rates-endpoints
+- pkg:nuget/Finrir.Rates.Protocol@2024.110.108.4
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.113.5-era-loader
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.113.6
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.124.10-chainlink-exporter
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.124.11
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.124.12
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.124.13-btc-rates-fix
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.124.14
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.124.7-update-time-awereness
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.124.8-update-time-awereness
+- pkg:nuget/Finrir.Rates.Protocol@2024.111.124.9

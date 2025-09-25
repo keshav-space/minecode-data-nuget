@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.11.82.2-beta
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.12.53.2-beta
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.13.38.2-beta
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.14.35.3-beta
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.15.49.1-beta
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.16.92.1-beta
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.17.52.1-beta
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.18.72.1-beta
+- pkg:nuget/Microsoft.Psi.DeviceManagement@0.19.100.1-beta

@@ -1,0 +1,5 @@
+- pkg:nuget/TestCentric.Agent.Core@2.0.0
+- pkg:nuget/TestCentric.Agent.Core@2.0.0-beta4
+- pkg:nuget/TestCentric.Agent.Core@2.0.0-beta5
+- pkg:nuget/TestCentric.Agent.Core@2.1.0
+- pkg:nuget/TestCentric.Agent.Core@2.1.1

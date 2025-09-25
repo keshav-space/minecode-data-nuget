@@ -1,0 +1,8 @@
+- pkg:nuget/DynamicGrpc@1.0.0
+- pkg:nuget/DynamicGrpc@1.1.0
+- pkg:nuget/DynamicGrpc@1.2.0
+- pkg:nuget/DynamicGrpc@1.3.0
+- pkg:nuget/DynamicGrpc@1.3.1
+- pkg:nuget/DynamicGrpc@1.3.6
+- pkg:nuget/DynamicGrpc@1.3.7
+- pkg:nuget/DynamicGrpc@1.4.0

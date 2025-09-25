@@ -1,0 +1,12 @@
+- pkg:nuget/JetBrains.ClangTidy@0.1.1
+- pkg:nuget/JetBrains.ClangTidy@10.0.0
+- pkg:nuget/JetBrains.ClangTidy@11.0.0
+- pkg:nuget/JetBrains.ClangTidy@11.0.1
+- pkg:nuget/JetBrains.ClangTidy@12.0.0
+- pkg:nuget/JetBrains.ClangTidy@12.0.1
+- pkg:nuget/JetBrains.ClangTidy@13.0.0
+- pkg:nuget/JetBrains.ClangTidy@6.0.1
+- pkg:nuget/JetBrains.ClangTidy@7.0.0
+- pkg:nuget/JetBrains.ClangTidy@8.0.0
+- pkg:nuget/JetBrains.ClangTidy@8.0.1
+- pkg:nuget/JetBrains.ClangTidy@9.0.0

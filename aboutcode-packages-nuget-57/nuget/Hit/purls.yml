@@ -1,0 +1,16 @@
+- pkg:nuget/Hit@1.0.0
+- pkg:nuget/Hit@1.0.1-alpha
+- pkg:nuget/Hit@1.0.2-alpha
+- pkg:nuget/Hit@2.0.0-alpha
+- pkg:nuget/Hit@3.0.0-alpha
+- pkg:nuget/Hit@3.0.1-alpha
+- pkg:nuget/Hit@3.1.0-alpha
+- pkg:nuget/Hit@4.0.0-alpha
+- pkg:nuget/Hit@5.0.0-alpha
+- pkg:nuget/Hit@6.0.0-alpha
+- pkg:nuget/Hit@6.1.0-alpha
+- pkg:nuget/Hit@6.2.0-alpha
+- pkg:nuget/Hit@6.2.1-alpha
+- pkg:nuget/Hit@7.0.0-alpha
+- pkg:nuget/Hit@8.0.0-alpha
+- pkg:nuget/Hit@8.0.4-alpha

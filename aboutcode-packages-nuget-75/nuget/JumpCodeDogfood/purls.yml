@@ -1,0 +1,4 @@
+- pkg:nuget/JumpCodeDogfood@1.2.0-Alpha-Dogfood
+- pkg:nuget/JumpCodeDogfood@1.2.3-Alpha
+- pkg:nuget/JumpCodeDogfood@1.2.6-Alpha
+- pkg:nuget/JumpCodeDogfood@1.2.6-Beta

@@ -1,0 +1,6 @@
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Redis@6.3.0-beta.1
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Redis@6.3.0-beta.3
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Redis@7.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Redis@8.0.0
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Redis@8.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Redis@9.0.0

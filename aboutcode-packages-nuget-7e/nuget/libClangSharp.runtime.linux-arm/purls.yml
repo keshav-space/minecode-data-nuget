@@ -1,0 +1,2 @@
+- pkg:nuget/libClangSharp.runtime.linux-arm@10.0.0-beta1
+- pkg:nuget/libClangSharp.runtime.linux-arm@9.0.0-beta1

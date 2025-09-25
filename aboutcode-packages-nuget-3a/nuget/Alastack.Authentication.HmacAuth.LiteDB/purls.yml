@@ -1,0 +1,6 @@
+- pkg:nuget/Alastack.Authentication.HmacAuth.LiteDB@1.0.0
+- pkg:nuget/Alastack.Authentication.HmacAuth.LiteDB@1.1.0
+- pkg:nuget/Alastack.Authentication.HmacAuth.LiteDB@1.2.0
+- pkg:nuget/Alastack.Authentication.HmacAuth.LiteDB@2.0.0
+- pkg:nuget/Alastack.Authentication.HmacAuth.LiteDB@2.0.1
+- pkg:nuget/Alastack.Authentication.HmacAuth.LiteDB@2.1.0

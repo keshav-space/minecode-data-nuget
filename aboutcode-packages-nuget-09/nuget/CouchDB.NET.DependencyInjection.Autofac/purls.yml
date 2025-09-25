@@ -1,0 +1,6 @@
+- pkg:nuget/CouchDB.NET.DependencyInjection.Autofac@3.1.0
+- pkg:nuget/CouchDB.NET.DependencyInjection.Autofac@3.3.0
+- pkg:nuget/CouchDB.NET.DependencyInjection.Autofac@3.3.1
+- pkg:nuget/CouchDB.NET.DependencyInjection.Autofac@3.4.0
+- pkg:nuget/CouchDB.NET.DependencyInjection.Autofac@3.6.0
+- pkg:nuget/CouchDB.NET.DependencyInjection.Autofac@3.6.1

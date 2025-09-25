@@ -1,0 +1,17 @@
+- pkg:nuget/AppDynamics.Agent.Forms@2021.8.0
+- pkg:nuget/AppDynamics.Agent.Forms@2021.8.1
+- pkg:nuget/AppDynamics.Agent.Forms@2021.9.0
+- pkg:nuget/AppDynamics.Agent.Forms@2022.1.0-beta1
+- pkg:nuget/AppDynamics.Agent.Forms@2022.10.0
+- pkg:nuget/AppDynamics.Agent.Forms@2022.2.0
+- pkg:nuget/AppDynamics.Agent.Forms@2022.3.0
+- pkg:nuget/AppDynamics.Agent.Forms@2022.4.0
+- pkg:nuget/AppDynamics.Agent.Forms@2022.4.0-alpha1
+- pkg:nuget/AppDynamics.Agent.Forms@2022.5.0
+- pkg:nuget/AppDynamics.Agent.Forms@2022.5.0-alpha2
+- pkg:nuget/AppDynamics.Agent.Forms@2022.6.0
+- pkg:nuget/AppDynamics.Agent.Forms@2022.9.0
+- pkg:nuget/AppDynamics.Agent.Forms@2023.12.0
+- pkg:nuget/AppDynamics.Agent.Forms@2023.2.0
+- pkg:nuget/AppDynamics.Agent.Forms@2024.4.0
+- pkg:nuget/AppDynamics.Agent.Forms@2025.3.0

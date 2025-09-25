@@ -1,0 +1,9 @@
+- pkg:nuget/WixSharp.wix.bin@1.0.34
+- pkg:nuget/WixSharp.wix.bin@3.10.0
+- pkg:nuget/WixSharp.wix.bin@3.10.1
+- pkg:nuget/WixSharp.wix.bin@3.10.3
+- pkg:nuget/WixSharp.wix.bin@3.11.0
+- pkg:nuget/WixSharp.wix.bin@3.11.2
+- pkg:nuget/WixSharp.wix.bin@3.14.0
+- pkg:nuget/WixSharp.wix.bin@3.14.0.1
+- pkg:nuget/WixSharp.wix.bin@3.14.1

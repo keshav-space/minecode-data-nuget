@@ -1,0 +1,7 @@
+- pkg:nuget/ElCamino.IdentityServer.AzureStorage@6.0.0
+- pkg:nuget/ElCamino.IdentityServer.AzureStorage@6.1.2
+- pkg:nuget/ElCamino.IdentityServer.AzureStorage@6.3.0
+- pkg:nuget/ElCamino.IdentityServer.AzureStorage@7.0.0
+- pkg:nuget/ElCamino.IdentityServer.AzureStorage@7.0.8
+- pkg:nuget/ElCamino.IdentityServer.AzureStorage@7.1.0
+- pkg:nuget/ElCamino.IdentityServer.AzureStorage@7.2.0

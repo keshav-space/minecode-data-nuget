@@ -1,0 +1,11 @@
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2022.1.0-beta1
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2022.10.0
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2022.2.0-beta1
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2022.3.0-beta1
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2022.4.0-beta1
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2022.6.0
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2022.9.0
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2023.12.0
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2023.2.0
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2024.4.0
+- pkg:nuget/AppDynamics.Agent.AutoInstrument.Fody@2025.3.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Dotenv.Extensions.Microsoft.DependencyInjection@1.0.0
+- pkg:nuget/Dotenv.Extensions.Microsoft.DependencyInjection@1.0.1
+- pkg:nuget/Dotenv.Extensions.Microsoft.DependencyInjection@1.0.2
+- pkg:nuget/Dotenv.Extensions.Microsoft.DependencyInjection@2.0.0
+- pkg:nuget/Dotenv.Extensions.Microsoft.DependencyInjection@3.1.0

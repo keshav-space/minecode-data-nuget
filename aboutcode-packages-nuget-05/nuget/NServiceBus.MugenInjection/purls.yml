@@ -1,0 +1,11 @@
+- pkg:nuget/NServiceBus.MugenInjection@1.0.0
+- pkg:nuget/NServiceBus.MugenInjection@1.1.0
+- pkg:nuget/NServiceBus.MugenInjection@1.2.0
+- pkg:nuget/NServiceBus.MugenInjection@1.3.0
+- pkg:nuget/NServiceBus.MugenInjection@1.4.0
+- pkg:nuget/NServiceBus.MugenInjection@1.5.0
+- pkg:nuget/NServiceBus.MugenInjection@2.0.0
+- pkg:nuget/NServiceBus.MugenInjection@2.0.1
+- pkg:nuget/NServiceBus.MugenInjection@2.1.0
+- pkg:nuget/NServiceBus.MugenInjection@2.2.0
+- pkg:nuget/NServiceBus.MugenInjection@3.3.0

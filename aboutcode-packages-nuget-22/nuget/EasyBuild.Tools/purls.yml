@@ -1,0 +1,10 @@
+- pkg:nuget/EasyBuild.Tools@1.0.0
+- pkg:nuget/EasyBuild.Tools@1.1.0
+- pkg:nuget/EasyBuild.Tools@1.1.1
+- pkg:nuget/EasyBuild.Tools@2.0.0
+- pkg:nuget/EasyBuild.Tools@3.0.0
+- pkg:nuget/EasyBuild.Tools@3.1.0
+- pkg:nuget/EasyBuild.Tools@3.2.0
+- pkg:nuget/EasyBuild.Tools@3.3.0
+- pkg:nuget/EasyBuild.Tools@4.0.0
+- pkg:nuget/EasyBuild.Tools@4.1.0

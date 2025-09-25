@@ -1,0 +1,14 @@
+- pkg:nuget/Net.Http.Clients@1.0.0
+- pkg:nuget/Net.Http.Clients@7.0.0
+- pkg:nuget/Net.Http.Clients@8.0.0
+- pkg:nuget/Net.Http.Clients@8.1.0
+- pkg:nuget/Net.Http.Clients@8.2.0
+- pkg:nuget/Net.Http.Clients@8.2.1
+- pkg:nuget/Net.Http.Clients@8.3.0
+- pkg:nuget/Net.Http.Clients@8.3.1
+- pkg:nuget/Net.Http.Clients@8.4.0
+- pkg:nuget/Net.Http.Clients@8.4.1
+- pkg:nuget/Net.Http.Clients@8.4.2
+- pkg:nuget/Net.Http.Clients@8.5.0
+- pkg:nuget/Net.Http.Clients@8.5.1
+- pkg:nuget/Net.Http.Clients@8.5.2

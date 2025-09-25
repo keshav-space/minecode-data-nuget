@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.AspNet.Membership.OpenAuth.tr@1.0.0
+- pkg:nuget/Microsoft.AspNet.Membership.OpenAuth.tr@1.0.1
+- pkg:nuget/Microsoft.AspNet.Membership.OpenAuth.tr@1.0.2
+- pkg:nuget/Microsoft.AspNet.Membership.OpenAuth.tr@2.0.0
+- pkg:nuget/Microsoft.AspNet.Membership.OpenAuth.tr@2.0.1

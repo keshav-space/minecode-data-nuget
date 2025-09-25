@@ -1,0 +1,15 @@
+- pkg:nuget/Pulumi.FSharp.Gcp@6.12.0.5
+- pkg:nuget/Pulumi.FSharp.Gcp@6.17.0.6
+- pkg:nuget/Pulumi.FSharp.Gcp@6.32.0.7
+- pkg:nuget/Pulumi.FSharp.Gcp@6.35.0.8
+- pkg:nuget/Pulumi.FSharp.Gcp@6.39.0.9
+- pkg:nuget/Pulumi.FSharp.Gcp@6.41.0.10
+- pkg:nuget/Pulumi.FSharp.Gcp@6.41.0.11
+- pkg:nuget/Pulumi.FSharp.Gcp@6.41.0.12
+- pkg:nuget/Pulumi.FSharp.Gcp@6.41.0.13
+- pkg:nuget/Pulumi.FSharp.Gcp@6.41.0.14
+- pkg:nuget/Pulumi.FSharp.Gcp@6.41.0.15
+- pkg:nuget/Pulumi.FSharp.Gcp@6.41.0.16
+- pkg:nuget/Pulumi.FSharp.Gcp@6.7.0.2
+- pkg:nuget/Pulumi.FSharp.Gcp@6.7.0.3
+- pkg:nuget/Pulumi.FSharp.Gcp@6.7.0.4

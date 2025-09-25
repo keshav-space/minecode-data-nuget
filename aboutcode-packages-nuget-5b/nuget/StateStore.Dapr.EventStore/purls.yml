@@ -1,0 +1,16 @@
+- pkg:nuget/StateStore.Dapr.EventStore@1.0.0-alpha4
+- pkg:nuget/StateStore.Dapr.EventStore@1.0.0-rc5.alpha2
+- pkg:nuget/StateStore.Dapr.EventStore@1.0.0-rc5.alpha3
+- pkg:nuget/StateStore.Dapr.EventStore@1.0.0-rtm-alpha.5
+- pkg:nuget/StateStore.Dapr.EventStore@1.0.0-rtm-alpha.7
+- pkg:nuget/StateStore.Dapr.EventStore@1.0.0-rtm-alpha.8
+- pkg:nuget/StateStore.Dapr.EventStore@1.0.0-rtm-alpha.9
+- pkg:nuget/StateStore.Dapr.EventStore@1.1.0-alpha.1
+- pkg:nuget/StateStore.Dapr.EventStore@1.1.1-alpha.1
+- pkg:nuget/StateStore.Dapr.EventStore@1.1.1-alpha.2
+- pkg:nuget/StateStore.Dapr.EventStore@1.1.1-alpha.3
+- pkg:nuget/StateStore.Dapr.EventStore@1.1.1-alpha.4
+- pkg:nuget/StateStore.Dapr.EventStore@1.2.0-alpha.1
+- pkg:nuget/StateStore.Dapr.EventStore@1.2.0-alpha.2
+- pkg:nuget/StateStore.Dapr.EventStore@1.5.0-alpha.2
+- pkg:nuget/StateStore.Dapr.EventStore@1.9.0-alpha.4

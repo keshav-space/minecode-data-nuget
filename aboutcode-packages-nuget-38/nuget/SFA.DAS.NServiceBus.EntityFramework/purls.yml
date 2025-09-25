@@ -1,0 +1,6 @@
+- pkg:nuget/SFA.DAS.NServiceBus.EntityFramework@1.0.31
+- pkg:nuget/SFA.DAS.NServiceBus.EntityFramework@1.0.40
+- pkg:nuget/SFA.DAS.NServiceBus.EntityFramework@1.0.41
+- pkg:nuget/SFA.DAS.NServiceBus.EntityFramework@1.0.42
+- pkg:nuget/SFA.DAS.NServiceBus.EntityFramework@1.0.43
+- pkg:nuget/SFA.DAS.NServiceBus.EntityFramework@1.0.46

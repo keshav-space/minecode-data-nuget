@@ -1,0 +1,3 @@
+- pkg:nuget/OpenApiFramework@1.0.0
+- pkg:nuget/OpenApiFramework@1.0.1
+- pkg:nuget/OpenApiFramework@2.0.0

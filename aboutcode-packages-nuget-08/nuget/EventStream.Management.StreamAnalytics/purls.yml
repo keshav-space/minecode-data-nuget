@@ -1,0 +1,3 @@
+- pkg:nuget/EventStream.Management.StreamAnalytics@4.0.2
+- pkg:nuget/EventStream.Management.StreamAnalytics@4.0.3
+- pkg:nuget/EventStream.Management.StreamAnalytics@4.0.5

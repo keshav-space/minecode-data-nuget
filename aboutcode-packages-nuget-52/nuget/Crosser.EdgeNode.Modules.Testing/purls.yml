@@ -1,0 +1,5 @@
+- pkg:nuget/Crosser.EdgeNode.Modules.Testing@2.6.0-rc10
+- pkg:nuget/Crosser.EdgeNode.Modules.Testing@3.0.0
+- pkg:nuget/Crosser.EdgeNode.Modules.Testing@4.0.0
+- pkg:nuget/Crosser.EdgeNode.Modules.Testing@4.0.0-rc1
+- pkg:nuget/Crosser.EdgeNode.Modules.Testing@5.0.0

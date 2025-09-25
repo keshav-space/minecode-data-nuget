@@ -1,0 +1,8 @@
+- pkg:nuget/Zamin.Extensions.Events.PollingPublisher.Dal.Dapper@6.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Events.PollingPublisher.Dal.Dapper@6.0.0-beta.2
+- pkg:nuget/Zamin.Extensions.Events.PollingPublisher.Dal.Dapper@6.0.0-beta.3
+- pkg:nuget/Zamin.Extensions.Events.PollingPublisher.Dal.Dapper@7.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Events.PollingPublisher.Dal.Dapper@8.0.0
+- pkg:nuget/Zamin.Extensions.Events.PollingPublisher.Dal.Dapper@8.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Events.PollingPublisher.Dal.Dapper@8.0.0-beta.2
+- pkg:nuget/Zamin.Extensions.Events.PollingPublisher.Dal.Dapper@9.0.0-beta.1

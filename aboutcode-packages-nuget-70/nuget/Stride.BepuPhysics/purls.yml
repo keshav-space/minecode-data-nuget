@@ -1,0 +1,17 @@
+- pkg:nuget/Stride.BepuPhysics@0.0.0
+- pkg:nuget/Stride.BepuPhysics@0.9.0
+- pkg:nuget/Stride.BepuPhysics@0.9.0.1
+- pkg:nuget/Stride.BepuPhysics@0.9.0.2
+- pkg:nuget/Stride.BepuPhysics@0.9.0.3
+- pkg:nuget/Stride.BepuPhysics@0.9.0.4
+- pkg:nuget/Stride.BepuPhysics@0.9.1
+- pkg:nuget/Stride.BepuPhysics@0.9.1.1
+- pkg:nuget/Stride.BepuPhysics@0.9.1.2
+- pkg:nuget/Stride.BepuPhysics@0.9.2
+- pkg:nuget/Stride.BepuPhysics@4.2.0.2267%2Bg62d7fa28
+- pkg:nuget/Stride.BepuPhysics@4.2.0.2282%2Bg1106f1eb
+- pkg:nuget/Stride.BepuPhysics@4.2.0.2293%2Bg8bb3ca2f
+- pkg:nuget/Stride.BepuPhysics@4.2.0.2371%2Bg2080823d
+- pkg:nuget/Stride.BepuPhysics@4.2.0.2374%2Bge68e4d70
+- pkg:nuget/Stride.BepuPhysics@4.2.0.2381%2Bgd8c91218
+- pkg:nuget/Stride.BepuPhysics@4.2.1.2442%2Bg2ba62dcd

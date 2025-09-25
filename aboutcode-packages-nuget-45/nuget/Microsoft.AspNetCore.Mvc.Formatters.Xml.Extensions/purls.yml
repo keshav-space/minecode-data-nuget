@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@1.1.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@1.1.0.1
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@1.1.0.2
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@2.0.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@2.1.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@2.2.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@3.0.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@3.0.1
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@3.1.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@5.0.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@6.0.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@7.0.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@8.0.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Formatters.Xml.Extensions@9.0.0

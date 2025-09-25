@@ -1,0 +1,12 @@
+- pkg:nuget/MediatR.Courier.DependencyInjection@1.0.1
+- pkg:nuget/MediatR.Courier.DependencyInjection@1.1.0
+- pkg:nuget/MediatR.Courier.DependencyInjection@1.2.0
+- pkg:nuget/MediatR.Courier.DependencyInjection@2.0.0
+- pkg:nuget/MediatR.Courier.DependencyInjection@2.1.0
+- pkg:nuget/MediatR.Courier.DependencyInjection@2.1.1
+- pkg:nuget/MediatR.Courier.DependencyInjection@2.1.2
+- pkg:nuget/MediatR.Courier.DependencyInjection@3.0.0
+- pkg:nuget/MediatR.Courier.DependencyInjection@3.0.1
+- pkg:nuget/MediatR.Courier.DependencyInjection@4.0.0
+- pkg:nuget/MediatR.Courier.DependencyInjection@5.0.0
+- pkg:nuget/MediatR.Courier.DependencyInjection@5.0.0-preview0001

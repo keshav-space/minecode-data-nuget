@@ -1,0 +1,10 @@
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@1.0.0
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@2.0.0
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@2.3.0
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@2.3.1
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@2.3.10
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@2.6.0
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@2.8.0
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@3.0.0
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@3.3.0
+- pkg:nuget/SmartEventBus.RabbitMQImpl.Extensions@3.5.0

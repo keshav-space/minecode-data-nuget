@@ -1,0 +1,8 @@
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Sql@1.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Sql@1.0.0-beta.2
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Sql@6.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Sql@7.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Sql@8.0.0
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Sql@8.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Sql@8.0.0-beta.2
+- pkg:nuget/Zamin.Extensions.Caching.Distributed.Sql@9.0.0

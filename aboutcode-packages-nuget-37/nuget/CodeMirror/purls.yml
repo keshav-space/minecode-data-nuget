@@ -1,0 +1,6 @@
+- pkg:nuget/CodeMirror@2.23.0
+- pkg:nuget/CodeMirror@2.23.1
+- pkg:nuget/CodeMirror@2.24.0
+- pkg:nuget/CodeMirror@2.32.0
+- pkg:nuget/CodeMirror@2.35.0
+- pkg:nuget/CodeMirror@2.37.0

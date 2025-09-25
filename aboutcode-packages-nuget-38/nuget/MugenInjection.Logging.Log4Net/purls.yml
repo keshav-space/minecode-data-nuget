@@ -1,0 +1,5 @@
+- pkg:nuget/MugenInjection.Logging.Log4Net@1.0.0
+- pkg:nuget/MugenInjection.Logging.Log4Net@1.0.1
+- pkg:nuget/MugenInjection.Logging.Log4Net@1.1.0
+- pkg:nuget/MugenInjection.Logging.Log4Net@1.2.0
+- pkg:nuget/MugenInjection.Logging.Log4Net@1.3.0

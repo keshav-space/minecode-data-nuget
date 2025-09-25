@@ -1,0 +1,8 @@
+- pkg:nuget/Amazon.Lambda.TestTool-8.0@0.15.0
+- pkg:nuget/Amazon.Lambda.TestTool-8.0@0.15.1
+- pkg:nuget/Amazon.Lambda.TestTool-8.0@0.15.2
+- pkg:nuget/Amazon.Lambda.TestTool-8.0@0.15.3
+- pkg:nuget/Amazon.Lambda.TestTool-8.0@0.16.0
+- pkg:nuget/Amazon.Lambda.TestTool-8.0@0.16.1
+- pkg:nuget/Amazon.Lambda.TestTool-8.0@0.16.2
+- pkg:nuget/Amazon.Lambda.TestTool-8.0@0.16.3

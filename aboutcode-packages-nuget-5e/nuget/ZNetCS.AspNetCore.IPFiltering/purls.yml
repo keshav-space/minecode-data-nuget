@@ -1,0 +1,14 @@
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@1.0.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@1.0.1
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@2.0.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@2.1.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@2.1.1
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@2.2.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@2.2.1
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@2.3.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@3.0.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@4.0.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@6.0.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@6.0.1
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@7.0.0
+- pkg:nuget/ZNetCS.AspNetCore.IPFiltering@9.0.0

@@ -1,0 +1,11 @@
+- pkg:nuget/ArcGISServerAdminSDK@1.0.0
+- pkg:nuget/ArcGISServerAdminSDK@1.0.1
+- pkg:nuget/ArcGISServerAdminSDK@1.1.0
+- pkg:nuget/ArcGISServerAdminSDK@1.1.1-beta
+- pkg:nuget/ArcGISServerAdminSDK@1.1.2-beta
+- pkg:nuget/ArcGISServerAdminSDK@1.1.3-beta
+- pkg:nuget/ArcGISServerAdminSDK@1.2.0
+- pkg:nuget/ArcGISServerAdminSDK@1.2.0-beta
+- pkg:nuget/ArcGISServerAdminSDK@1.2.0.1
+- pkg:nuget/ArcGISServerAdminSDK@1.2.1
+- pkg:nuget/ArcGISServerAdminSDK@1.2.2

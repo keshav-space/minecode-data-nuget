@@ -1,0 +1,13 @@
+- pkg:nuget/CouchDB.NET.DependencyInjection@2.0.0
+- pkg:nuget/CouchDB.NET.DependencyInjection@2.0.1
+- pkg:nuget/CouchDB.NET.DependencyInjection@2.0.2
+- pkg:nuget/CouchDB.NET.DependencyInjection@2.1.0
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.0.0
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.0.1
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.1.0
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.1.1
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.3.0
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.3.1
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.4.0
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.6.0
+- pkg:nuget/CouchDB.NET.DependencyInjection@3.6.1

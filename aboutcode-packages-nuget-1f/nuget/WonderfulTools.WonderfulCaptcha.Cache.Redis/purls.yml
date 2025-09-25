@@ -1,0 +1,4 @@
+- pkg:nuget/WonderfulTools.WonderfulCaptcha.Cache.Redis@10.0.0
+- pkg:nuget/WonderfulTools.WonderfulCaptcha.Cache.Redis@10.2.1
+- pkg:nuget/WonderfulTools.WonderfulCaptcha.Cache.Redis@7.0.1
+- pkg:nuget/WonderfulTools.WonderfulCaptcha.Cache.Redis@8.0.1

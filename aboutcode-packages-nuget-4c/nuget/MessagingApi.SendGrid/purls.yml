@@ -1,0 +1,11 @@
+- pkg:nuget/MessagingApi.SendGrid@1.0.4
+- pkg:nuget/MessagingApi.SendGrid@1.0.5
+- pkg:nuget/MessagingApi.SendGrid@2.0.0
+- pkg:nuget/MessagingApi.SendGrid@2.0.1
+- pkg:nuget/MessagingApi.SendGrid@2.0.2
+- pkg:nuget/MessagingApi.SendGrid@2.0.3
+- pkg:nuget/MessagingApi.SendGrid@3.0.0
+- pkg:nuget/MessagingApi.SendGrid@4.0.0
+- pkg:nuget/MessagingApi.SendGrid@4.0.1
+- pkg:nuget/MessagingApi.SendGrid@5.0.0
+- pkg:nuget/MessagingApi.SendGrid@5.0.1

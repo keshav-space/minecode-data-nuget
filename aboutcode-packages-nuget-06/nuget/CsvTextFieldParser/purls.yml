@@ -1,0 +1,5 @@
+- pkg:nuget/CsvTextFieldParser@1.0.1
+- pkg:nuget/CsvTextFieldParser@1.1.1
+- pkg:nuget/CsvTextFieldParser@1.2.1
+- pkg:nuget/CsvTextFieldParser@1.2.2
+- pkg:nuget/CsvTextFieldParser@1.2.2-preview

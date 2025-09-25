@@ -1,0 +1,16 @@
+- pkg:nuget/RockLib.Messaging.CloudEvents@1.0.0
+- pkg:nuget/RockLib.Messaging.CloudEvents@1.0.0-alpha01
+- pkg:nuget/RockLib.Messaging.CloudEvents@1.0.0-alpha02
+- pkg:nuget/RockLib.Messaging.CloudEvents@1.0.0-rc1
+- pkg:nuget/RockLib.Messaging.CloudEvents@1.0.0-rc2
+- pkg:nuget/RockLib.Messaging.CloudEvents@1.0.1
+- pkg:nuget/RockLib.Messaging.CloudEvents@1.0.2
+- pkg:nuget/RockLib.Messaging.CloudEvents@2.0.0
+- pkg:nuget/RockLib.Messaging.CloudEvents@2.0.1
+- pkg:nuget/RockLib.Messaging.CloudEvents@2.0.1-alpha01
+- pkg:nuget/RockLib.Messaging.CloudEvents@2.0.1-alpha02
+- pkg:nuget/RockLib.Messaging.CloudEvents@3.0.0
+- pkg:nuget/RockLib.Messaging.CloudEvents@3.0.0-alpha.1
+- pkg:nuget/RockLib.Messaging.CloudEvents@3.0.1
+- pkg:nuget/RockLib.Messaging.CloudEvents@4.0.0
+- pkg:nuget/RockLib.Messaging.CloudEvents@4.0.0-alpha.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Prism.Autofac.Mutable.Wpf@1.0.0-pre
+- pkg:nuget/Prism.Autofac.Mutable.Wpf@1.0.0.1-pre
+- pkg:nuget/Prism.Autofac.Mutable.Wpf@1.0.0.2-pre
+- pkg:nuget/Prism.Autofac.Mutable.Wpf@2.0.0
+- pkg:nuget/Prism.Autofac.Mutable.Wpf@3.0.0

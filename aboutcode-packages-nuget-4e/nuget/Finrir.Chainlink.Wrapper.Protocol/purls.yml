@@ -1,0 +1,8 @@
+- pkg:nuget/Finrir.Chainlink.Wrapper.Protocol@2024.111.124.1-chainlink-exporter
+- pkg:nuget/Finrir.Chainlink.Wrapper.Protocol@2024.111.124.1-chainlink-wrapper
+- pkg:nuget/Finrir.Chainlink.Wrapper.Protocol@2024.111.124.2
+- pkg:nuget/Finrir.Chainlink.Wrapper.Protocol@2024.111.124.3
+- pkg:nuget/Finrir.Chainlink.Wrapper.Protocol@2024.111.124.3-chainlink-exporter
+- pkg:nuget/Finrir.Chainlink.Wrapper.Protocol@2024.111.124.4-chainlink-exported-final
+- pkg:nuget/Finrir.Chainlink.Wrapper.Protocol@2024.111.124.4-chainlink-exporter
+- pkg:nuget/Finrir.Chainlink.Wrapper.Protocol@2024.111.124.5

@@ -1,0 +1,4 @@
+- pkg:nuget/CeriumX.WebEngine.WebView2.GenericHost@1.0.0
+- pkg:nuget/CeriumX.WebEngine.WebView2.GenericHost@7.0.0
+- pkg:nuget/CeriumX.WebEngine.WebView2.GenericHost@7.0.1
+- pkg:nuget/CeriumX.WebEngine.WebView2.GenericHost@8.0.0

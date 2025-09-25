@@ -1,0 +1,16 @@
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.0
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.0-CI-20200508-141050
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.0-CI-20200508-143113
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.0-CI-20200508-143610
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.0-CI-20200508-144134
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.0-CI-20200509-060425
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.0-CI-20200509-060909
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.1
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.1-CI-20200509-061739
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.2
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.2-CI-20200518-093241
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.3
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.3-CI-20200518-115053
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.3-CI-20200519-061121
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.3-CI-20200519-061317
+- pkg:nuget/AzureCosmosDB.MongoDB.RequestUnitAnalyzer@1.0.3-CI-20200519-064150

@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Graph.StatefulClient@1.0.0-prerelease.27
+- pkg:nuget/Microsoft.Graph.StatefulClient@1.0.0-prerelease.392
+- pkg:nuget/Microsoft.Graph.StatefulClient@1.0.0-prerelease.48
+- pkg:nuget/Microsoft.Graph.StatefulClient@1.0.0-prerelease.494
+- pkg:nuget/Microsoft.Graph.StatefulClient@1.0.0-prerelease.881
+- pkg:nuget/Microsoft.Graph.StatefulClient@1.0.0.12

@@ -1,0 +1,5 @@
+- pkg:nuget/NoeticTools.Git2SemVer.Core@1.0.0
+- pkg:nuget/NoeticTools.Git2SemVer.Core@2.0.0
+- pkg:nuget/NoeticTools.Git2SemVer.Core@3.0.0
+- pkg:nuget/NoeticTools.Git2SemVer.Core@3.0.1-alpha.155
+- pkg:nuget/NoeticTools.Git2SemVer.Core@3.0.1-alpha.164

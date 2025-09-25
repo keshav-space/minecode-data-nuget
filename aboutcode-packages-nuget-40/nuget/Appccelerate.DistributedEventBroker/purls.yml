@@ -1,0 +1,11 @@
+- pkg:nuget/Appccelerate.DistributedEventBroker@1.0.21-alpha
+- pkg:nuget/Appccelerate.DistributedEventBroker@1.0.24-alpha
+- pkg:nuget/Appccelerate.DistributedEventBroker@1.0.25-alpha
+- pkg:nuget/Appccelerate.DistributedEventBroker@1.0.29
+- pkg:nuget/Appccelerate.DistributedEventBroker@1.0.32
+- pkg:nuget/Appccelerate.DistributedEventBroker@1.0.44
+- pkg:nuget/Appccelerate.DistributedEventBroker@1.0.83
+- pkg:nuget/Appccelerate.DistributedEventBroker@1.0.84
+- pkg:nuget/Appccelerate.DistributedEventBroker@2.0.85
+- pkg:nuget/Appccelerate.DistributedEventBroker@3.5.0
+- pkg:nuget/Appccelerate.DistributedEventBroker@3.7.0

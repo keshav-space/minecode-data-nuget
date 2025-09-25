@@ -1,0 +1,8 @@
+- pkg:nuget/Pulumi.FSharp.Docker@4.4.4.1
+- pkg:nuget/Pulumi.FSharp.Docker@4.4.4.2
+- pkg:nuget/Pulumi.FSharp.Docker@4.4.4.3
+- pkg:nuget/Pulumi.FSharp.Docker@4.4.4.4
+- pkg:nuget/Pulumi.FSharp.Docker@4.4.4.5
+- pkg:nuget/Pulumi.FSharp.Docker@4.4.4.6
+- pkg:nuget/Pulumi.FSharp.Docker@4.6.2.7
+- pkg:nuget/Pulumi.FSharp.Docker@4.7.0.8

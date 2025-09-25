@@ -1,0 +1,10 @@
+- pkg:nuget/SAGE.Core.Library@1.0.0
+- pkg:nuget/SAGE.Core.Library@1.0.2-cli1916
+- pkg:nuget/SAGE.Core.Library@1.0.2-ef900
+- pkg:nuget/SAGE.Core.Library@1.0.2-ef931
+- pkg:nuget/SAGE.Core.Library@1.0.2-ef932
+- pkg:nuget/SAGE.Core.Library@1.0.2-ef942
+- pkg:nuget/SAGE.Core.Library@1.0.2-ef967
+- pkg:nuget/SAGE.Core.Library@1.0.2-ef983
+- pkg:nuget/SAGE.Core.Library@1.1.0-ci3277
+- pkg:nuget/SAGE.Core.Library@1.1.0-cli2669

@@ -1,0 +1,11 @@
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@4.0.0
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@4.0.0-beta-1
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@4.0.0-beta-2
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@4.0.0-beta-3
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@4.0.0-beta-4
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@4.0.0-rc-1
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@5.0.0
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@5.0.0-alpha-2
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@5.0.0-alpha-3
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@5.0.0-rc-1
+- pkg:nuget/ActiveLogin.Authentication.BankId.AspNetCore.AzureMonitor@5.0.0-rc-2
