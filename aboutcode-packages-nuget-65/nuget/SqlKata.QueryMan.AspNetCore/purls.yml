@@ -1,0 +1,3 @@
+- pkg:nuget/SqlKata.QueryMan.AspNetCore@1.0.0
+- pkg:nuget/SqlKata.QueryMan.AspNetCore@1.0.5
+- pkg:nuget/SqlKata.QueryMan.AspNetCore@2.0.3

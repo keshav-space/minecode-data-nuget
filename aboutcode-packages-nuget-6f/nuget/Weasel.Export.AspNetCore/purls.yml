@@ -1,0 +1,9 @@
+- pkg:nuget/Weasel.Export.AspNetCore@6.0.1
+- pkg:nuget/Weasel.Export.AspNetCore@6.0.2
+- pkg:nuget/Weasel.Export.AspNetCore@7.0.0
+- pkg:nuget/Weasel.Export.AspNetCore@7.0.1
+- pkg:nuget/Weasel.Export.AspNetCore@7.0.2
+- pkg:nuget/Weasel.Export.AspNetCore@8.0.0
+- pkg:nuget/Weasel.Export.AspNetCore@8.0.1
+- pkg:nuget/Weasel.Export.AspNetCore@8.0.2
+- pkg:nuget/Weasel.Export.AspNetCore@8.0.3

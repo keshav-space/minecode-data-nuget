@@ -1,0 +1,4 @@
+- pkg:nuget/MyExtension@1.0.0
+- pkg:nuget/MyExtension@1.0.1
+- pkg:nuget/MyExtension@2.0.0
+- pkg:nuget/MyExtension@3.0.0

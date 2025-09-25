@@ -1,0 +1,4 @@
+- pkg:nuget/DotNetUtil.Common.Windows@1.0.0
+- pkg:nuget/DotNetUtil.Common.Windows@1.0.1
+- pkg:nuget/DotNetUtil.Common.Windows@1.0.2
+- pkg:nuget/DotNetUtil.Common.Windows@2.0.12

@@ -1,0 +1,4 @@
+- pkg:nuget/Thinktecture.HyperledgerFabric.Chaincode.NET@1.0.0
+- pkg:nuget/Thinktecture.HyperledgerFabric.Chaincode.NET@1.0.0-prerelease
+- pkg:nuget/Thinktecture.HyperledgerFabric.Chaincode.NET@1.0.0-prerelease.26
+- pkg:nuget/Thinktecture.HyperledgerFabric.Chaincode.NET@1.0.0-prerelease.28

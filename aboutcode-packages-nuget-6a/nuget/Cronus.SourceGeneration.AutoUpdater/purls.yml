@@ -1,0 +1,5 @@
+- pkg:nuget/Cronus.SourceGeneration.AutoUpdater@1.0.0
+- pkg:nuget/Cronus.SourceGeneration.AutoUpdater@1.0.1
+- pkg:nuget/Cronus.SourceGeneration.AutoUpdater@11.0.1
+- pkg:nuget/Cronus.SourceGeneration.AutoUpdater@11.1.0
+- pkg:nuget/Cronus.SourceGeneration.AutoUpdater@11.2.0

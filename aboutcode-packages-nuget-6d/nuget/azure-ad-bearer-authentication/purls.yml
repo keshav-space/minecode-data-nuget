@@ -1,0 +1,5 @@
+- pkg:nuget/azure-ad-bearer-authentication@1.0.0
+- pkg:nuget/azure-ad-bearer-authentication@1.0.1
+- pkg:nuget/azure-ad-bearer-authentication@1.0.2
+- pkg:nuget/azure-ad-bearer-authentication@1.0.3
+- pkg:nuget/azure-ad-bearer-authentication@1.0.6
