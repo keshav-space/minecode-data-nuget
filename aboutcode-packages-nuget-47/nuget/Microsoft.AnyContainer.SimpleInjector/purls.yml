@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.AnyContainer.SimpleInjector@1.0.0-beta201807314
+- pkg:nuget/Microsoft.AnyContainer.SimpleInjector@1.0.0-beta201808037
+- pkg:nuget/Microsoft.AnyContainer.SimpleInjector@1.0.0-beta201808122
+- pkg:nuget/Microsoft.AnyContainer.SimpleInjector@1.0.0-beta201808123
+- pkg:nuget/Microsoft.AnyContainer.SimpleInjector@1.0.0-beta201808141

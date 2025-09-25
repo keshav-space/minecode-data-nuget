@@ -1,0 +1,7 @@
+- pkg:nuget/MongoFramework.Fixed@0.28.0%2Bbuild.8
+- pkg:nuget/MongoFramework.Fixed@0.28.2%2Bbuild.13
+- pkg:nuget/MongoFramework.Fixed@0.28.3%2Bbuild.15
+- pkg:nuget/MongoFramework.Fixed@0.28.4%2Bbuild.17
+- pkg:nuget/MongoFramework.Fixed@1.0.0%2Bbuild.20
+- pkg:nuget/MongoFramework.Fixed@1.0.1%2Bbuild.22
+- pkg:nuget/MongoFramework.Fixed@1.0.2%2Bbuild.24

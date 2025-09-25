@@ -1,0 +1,5 @@
+- pkg:nuget/FlubuCore.Dotnet.Cli.Utils@3.0.0
+- pkg:nuget/FlubuCore.Dotnet.Cli.Utils@3.1.0
+- pkg:nuget/FlubuCore.Dotnet.Cli.Utils@3.1.0-preview1
+- pkg:nuget/FlubuCore.Dotnet.Cli.Utils@3.1.1
+- pkg:nuget/FlubuCore.Dotnet.Cli.Utils@3.1.2

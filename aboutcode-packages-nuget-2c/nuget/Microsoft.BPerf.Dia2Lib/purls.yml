@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.BPerf.Dia2Lib@1.0.0
+- pkg:nuget/Microsoft.BPerf.Dia2Lib@1.0.1
+- pkg:nuget/Microsoft.BPerf.Dia2Lib@1.0.1-beta
+- pkg:nuget/Microsoft.BPerf.Dia2Lib@1.0.2

@@ -1,0 +1,3 @@
+- pkg:nuget/Android.Google.OrTools.runtime.linux-arm64@9.10.9999
+- pkg:nuget/Android.Google.OrTools.runtime.linux-arm64@9.10.9999.1
+- pkg:nuget/Android.Google.OrTools.runtime.linux-arm64@9.12.1

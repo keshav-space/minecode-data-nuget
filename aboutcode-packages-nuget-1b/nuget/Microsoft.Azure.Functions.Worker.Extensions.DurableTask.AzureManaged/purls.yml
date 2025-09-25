@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.AzureManaged@0.3.0-alpha
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.AzureManaged@0.4.1-alpha
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.AzureManaged@0.4.2-alpha
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.AzureManaged@0.4.3-alpha
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.AzureManaged@0.4.4-alpha
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask.AzureManaged@1.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/DebuggerProtocolAdapter@0.0.1-rc01
+- pkg:nuget/DebuggerProtocolAdapter@0.0.2-rc02
+- pkg:nuget/DebuggerProtocolAdapter@0.0.3
+- pkg:nuget/DebuggerProtocolAdapter@0.0.4

@@ -1,0 +1,7 @@
+- pkg:nuget/Xrm.Framework.Test@2.0.0.1
+- pkg:nuget/Xrm.Framework.Test@2.0.0.2
+- pkg:nuget/Xrm.Framework.Test@3.0.0.1
+- pkg:nuget/Xrm.Framework.Test@3.1.0
+- pkg:nuget/Xrm.Framework.Test@3.1.0.1
+- pkg:nuget/Xrm.Framework.Test@3.1.0.2
+- pkg:nuget/Xrm.Framework.Test@7.0.0.1

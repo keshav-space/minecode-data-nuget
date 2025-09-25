@@ -1,0 +1,4 @@
+- pkg:nuget/SqlAdapter.Migrations@1.0.0
+- pkg:nuget/SqlAdapter.Migrations@1.1.0
+- pkg:nuget/SqlAdapter.Migrations@1.1.1
+- pkg:nuget/SqlAdapter.Migrations@1.1.2

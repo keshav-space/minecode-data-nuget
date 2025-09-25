@@ -1,0 +1,5 @@
+- pkg:nuget/PoweredSoft.ObjectStorage.MongoDB.AspNetCore@1.0.118
+- pkg:nuget/PoweredSoft.ObjectStorage.MongoDB.AspNetCore@1.0.173
+- pkg:nuget/PoweredSoft.ObjectStorage.MongoDB.AspNetCore@1.1.0
+- pkg:nuget/PoweredSoft.ObjectStorage.MongoDB.AspNetCore@1.1.1
+- pkg:nuget/PoweredSoft.ObjectStorage.MongoDB.AspNetCore@1.1.2

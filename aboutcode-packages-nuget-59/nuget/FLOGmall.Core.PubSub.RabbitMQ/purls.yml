@@ -1,0 +1,4 @@
+- pkg:nuget/FLOGmall.Core.PubSub.RabbitMQ@1.0.0
+- pkg:nuget/FLOGmall.Core.PubSub.RabbitMQ@1.0.0-beta.1
+- pkg:nuget/FLOGmall.Core.PubSub.RabbitMQ@1.0.0-beta.2
+- pkg:nuget/FLOGmall.Core.PubSub.RabbitMQ@1.0.0-beta.3

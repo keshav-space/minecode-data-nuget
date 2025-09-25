@@ -1,0 +1,4 @@
+- pkg:nuget/Nexus.Contracts.Redis@0.4.10
+- pkg:nuget/Nexus.Contracts.Redis@0.4.11
+- pkg:nuget/Nexus.Contracts.Redis@0.4.8
+- pkg:nuget/Nexus.Contracts.Redis@0.4.9

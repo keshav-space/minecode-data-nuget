@@ -1,0 +1,4 @@
+- pkg:nuget/Bucks.DataAccess.MySql@1.0.0-preview1
+- pkg:nuget/Bucks.DataAccess.MySql@1.0.0-preview2
+- pkg:nuget/Bucks.DataAccess.MySql@1.0.0-preview3
+- pkg:nuget/Bucks.DataAccess.MySql@1.0.0-preview4

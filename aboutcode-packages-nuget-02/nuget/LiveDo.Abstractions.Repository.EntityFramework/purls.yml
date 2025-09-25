@@ -1,0 +1,7 @@
+- pkg:nuget/LiveDo.Abstractions.Repository.EntityFramework@2.0.0
+- pkg:nuget/LiveDo.Abstractions.Repository.EntityFramework@2.0.0-rc10
+- pkg:nuget/LiveDo.Abstractions.Repository.EntityFramework@2.0.0-rc11
+- pkg:nuget/LiveDo.Abstractions.Repository.EntityFramework@2.0.0-rc4
+- pkg:nuget/LiveDo.Abstractions.Repository.EntityFramework@2.0.0-rc8
+- pkg:nuget/LiveDo.Abstractions.Repository.EntityFramework@2.0.0-rc9
+- pkg:nuget/LiveDo.Abstractions.Repository.EntityFramework@2.1.0-rc1

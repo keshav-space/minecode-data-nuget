@@ -1,0 +1,5 @@
+- pkg:nuget/ServiceBus.AttachmentPlugin.KeyVaultProvider@0.1.0-alpha0001
+- pkg:nuget/ServiceBus.AttachmentPlugin.KeyVaultProvider@0.1.0-alpha0002
+- pkg:nuget/ServiceBus.AttachmentPlugin.KeyVaultProvider@1.0.0
+- pkg:nuget/ServiceBus.AttachmentPlugin.KeyVaultProvider@2.0.0
+- pkg:nuget/ServiceBus.AttachmentPlugin.KeyVaultProvider@3.0.0

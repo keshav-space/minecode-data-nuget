@@ -1,0 +1,5 @@
+- pkg:nuget/Azure.AI.Vision.Core@0.10.0-beta.1
+- pkg:nuget/Azure.AI.Vision.Core@0.8.0-beta.0.33395485
+- pkg:nuget/Azure.AI.Vision.Core@0.8.0-beta.0.33537970
+- pkg:nuget/Azure.AI.Vision.Core@0.8.1-beta.1
+- pkg:nuget/Azure.AI.Vision.Core@0.9.0-beta.1

@@ -1,0 +1,10 @@
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@0.5.0
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@0.6.0
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@1.0.0
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@1.1.0
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@2.0.0
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@2.1.0
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@2.1.1
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@2.1.2
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@2.2.0
+- pkg:nuget/FluentResults.Extensions.FluentAssertions@2.2.1

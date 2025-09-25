@@ -1,0 +1,3 @@
+- pkg:nuget/Ministry.EntityFrameworkRepositoryBuilder.DbContext.Ef5@0.1.0.1
+- pkg:nuget/Ministry.EntityFrameworkRepositoryBuilder.DbContext.Ef5@0.1.1
+- pkg:nuget/Ministry.EntityFrameworkRepositoryBuilder.DbContext.Ef5@0.2.0

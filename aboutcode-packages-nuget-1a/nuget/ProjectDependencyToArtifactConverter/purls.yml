@@ -1,0 +1,3 @@
+- pkg:nuget/ProjectDependencyToArtifactConverter@0.0.1
+- pkg:nuget/ProjectDependencyToArtifactConverter@0.0.2
+- pkg:nuget/ProjectDependencyToArtifactConverter@0.0.3

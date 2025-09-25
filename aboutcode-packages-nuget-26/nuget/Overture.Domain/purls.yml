@@ -1,0 +1,6 @@
+- pkg:nuget/Overture.Domain@0.0.0-alpha.0%2Bbuild.0
+- pkg:nuget/Overture.Domain@0.1.0-alpha.0%2Bbuild.0
+- pkg:nuget/Overture.Domain@0.1.7-alpha.0.3%2Bbuild.0
+- pkg:nuget/Overture.Domain@0.2.0%2Bbuild.0
+- pkg:nuget/Overture.Domain@0.2.1-alpha.0.1%2Bbuild.0
+- pkg:nuget/Overture.Domain@0.2.1-alpha.0.2%2Bbuild.0

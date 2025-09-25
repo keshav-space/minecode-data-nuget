@@ -1,0 +1,2 @@
+- pkg:nuget/Narochno.AspNetCore.DataProtection.DistributedCache@1.0.0
+- pkg:nuget/Narochno.AspNetCore.DataProtection.DistributedCache@2.0.0

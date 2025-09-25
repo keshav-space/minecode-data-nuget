@@ -1,0 +1,4 @@
+- pkg:nuget/EntityFrameworkCore.Extensions.SqlServer@1.0.0
+- pkg:nuget/EntityFrameworkCore.Extensions.SqlServer@1.0.1-rc01
+- pkg:nuget/EntityFrameworkCore.Extensions.SqlServer@1.0.1-rc02
+- pkg:nuget/EntityFrameworkCore.Extensions.SqlServer@1.0.1-rc03

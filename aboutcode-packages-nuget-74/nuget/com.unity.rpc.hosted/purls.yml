@@ -1,0 +1,4 @@
+- pkg:nuget/com.unity.rpc.hosted@1.0.20-preview
+- pkg:nuget/com.unity.rpc.hosted@1.0.21-preview
+- pkg:nuget/com.unity.rpc.hosted@1.0.22-preview
+- pkg:nuget/com.unity.rpc.hosted@1.0.37-exp.3

@@ -1,0 +1,8 @@
+- pkg:nuget/Meta.FrameworkCore.Caching.Redis@1.0.0
+- pkg:nuget/Meta.FrameworkCore.Caching.Redis@1.1.0
+- pkg:nuget/Meta.FrameworkCore.Caching.Redis@1.1.2
+- pkg:nuget/Meta.FrameworkCore.Caching.Redis@1.1.3
+- pkg:nuget/Meta.FrameworkCore.Caching.Redis@1.1.4
+- pkg:nuget/Meta.FrameworkCore.Caching.Redis@3.0.0
+- pkg:nuget/Meta.FrameworkCore.Caching.Redis@3.0.1
+- pkg:nuget/Meta.FrameworkCore.Caching.Redis@6.0.0

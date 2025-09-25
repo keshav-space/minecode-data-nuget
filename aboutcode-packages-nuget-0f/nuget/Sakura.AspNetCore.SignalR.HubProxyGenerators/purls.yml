@@ -1,0 +1,4 @@
+- pkg:nuget/Sakura.AspNetCore.SignalR.HubProxyGenerators@1.0.0
+- pkg:nuget/Sakura.AspNetCore.SignalR.HubProxyGenerators@2.0.0
+- pkg:nuget/Sakura.AspNetCore.SignalR.HubProxyGenerators@2.0.1
+- pkg:nuget/Sakura.AspNetCore.SignalR.HubProxyGenerators@2.0.2

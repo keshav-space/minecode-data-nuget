@@ -1,0 +1,2 @@
+- pkg:nuget/Pulumi.Miniflux@0.0.13
+- pkg:nuget/Pulumi.Miniflux@0.0.16

@@ -1,0 +1,9 @@
+- pkg:nuget/AppHelpers.WinForms@0.1.0
+- pkg:nuget/AppHelpers.WinForms@0.1.0-alpha
+- pkg:nuget/AppHelpers.WinForms@0.1.0-beta
+- pkg:nuget/AppHelpers.WinForms@0.1.0-beta3
+- pkg:nuget/AppHelpers.WinForms@0.1.0-beta5
+- pkg:nuget/AppHelpers.WinForms@0.1.0-beta9
+- pkg:nuget/AppHelpers.WinForms@0.1.0-rc2
+- pkg:nuget/AppHelpers.WinForms@0.1.1
+- pkg:nuget/AppHelpers.WinForms@0.1.1-fix

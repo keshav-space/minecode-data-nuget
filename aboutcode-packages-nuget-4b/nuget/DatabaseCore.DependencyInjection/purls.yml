@@ -1,0 +1,5 @@
+- pkg:nuget/DatabaseCore.DependencyInjection@1.0.0
+- pkg:nuget/DatabaseCore.DependencyInjection@8.0.0
+- pkg:nuget/DatabaseCore.DependencyInjection@8.0.1
+- pkg:nuget/DatabaseCore.DependencyInjection@8.0.2
+- pkg:nuget/DatabaseCore.DependencyInjection@8.0.3
