@@ -1,0 +1,4 @@
+- pkg:nuget/ClangFormat.Exe@1.0.0
+- pkg:nuget/ClangFormat.Exe@2.0.0
+- pkg:nuget/ClangFormat.Exe@2.1.0
+- pkg:nuget/ClangFormat.Exe@2.2.0

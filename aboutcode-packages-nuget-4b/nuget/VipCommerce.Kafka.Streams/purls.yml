@@ -1,0 +1,4 @@
+- pkg:nuget/VipCommerce.Kafka.Streams@1.1.4
+- pkg:nuget/VipCommerce.Kafka.Streams@2.0.0
+- pkg:nuget/VipCommerce.Kafka.Streams@2.0.0-rc1
+- pkg:nuget/VipCommerce.Kafka.Streams@2.0.1

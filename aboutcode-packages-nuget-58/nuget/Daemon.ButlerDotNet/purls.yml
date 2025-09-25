@@ -1,0 +1,4 @@
+- pkg:nuget/Daemon.ButlerDotNet@0.1.0-dev
+- pkg:nuget/Daemon.ButlerDotNet@0.2.0-dev
+- pkg:nuget/Daemon.ButlerDotNet@0.2.1-dev
+- pkg:nuget/Daemon.ButlerDotNet@0.2.2-dev

@@ -1,0 +1,5 @@
+- pkg:nuget/TestLib_xyz@1.0.0
+- pkg:nuget/TestLib_xyz@1.0.1
+- pkg:nuget/TestLib_xyz@1.0.6
+- pkg:nuget/TestLib_xyz@1.0.7
+- pkg:nuget/TestLib_xyz@1.0.8

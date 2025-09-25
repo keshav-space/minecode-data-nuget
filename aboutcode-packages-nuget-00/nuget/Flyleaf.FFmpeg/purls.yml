@@ -1,0 +1,4 @@
+- pkg:nuget/Flyleaf.FFmpeg@7.1.0
+- pkg:nuget/Flyleaf.FFmpeg@7.1.1
+- pkg:nuget/Flyleaf.FFmpeg@8.0.0
+- pkg:nuget/Flyleaf.FFmpeg@8.0.0.1

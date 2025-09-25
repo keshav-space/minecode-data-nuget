@@ -1,0 +1,3 @@
+- pkg:nuget/Faactory.DbContext.Mapper@0.8.3-preview-1
+- pkg:nuget/Faactory.DbContext.Mapper@0.8.4-preview-1
+- pkg:nuget/Faactory.DbContext.Mapper@0.8.5

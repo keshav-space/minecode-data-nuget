@@ -1,0 +1,4 @@
+- pkg:nuget/AA.AspNetCore@1.0.0
+- pkg:nuget/AA.AspNetCore@2.0.1
+- pkg:nuget/AA.AspNetCore@2.0.6
+- pkg:nuget/AA.AspNetCore@2.0.7

@@ -1,0 +1,1 @@
+- pkg:nuget/Log4Net.Appender.GrafanaLoki@1.0.0-alpha

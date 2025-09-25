@@ -1,0 +1,3 @@
+- pkg:nuget/Intel.ML.OnnxRuntime.OpenVino@1.20.0
+- pkg:nuget/Intel.ML.OnnxRuntime.OpenVino@1.21.0
+- pkg:nuget/Intel.ML.OnnxRuntime.OpenVino@1.22.0

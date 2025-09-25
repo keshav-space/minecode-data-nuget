@@ -1,0 +1,3 @@
+- pkg:nuget/WebView.Avalonia.MacCatalyst.Cross@11.2.3
+- pkg:nuget/WebView.Avalonia.MacCatalyst.Cross@11.2.4
+- pkg:nuget/WebView.Avalonia.MacCatalyst.Cross@11.3.1

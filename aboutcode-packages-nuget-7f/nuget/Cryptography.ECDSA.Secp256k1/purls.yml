@@ -1,0 +1,2 @@
+- pkg:nuget/Cryptography.ECDSA.Secp256k1@1.0.0
+- pkg:nuget/Cryptography.ECDSA.Secp256k1@1.0.1
