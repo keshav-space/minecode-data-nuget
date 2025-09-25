@@ -1,0 +1,3 @@
+- pkg:nuget/MyTrout.Pipelines.Steps.Serialization.Protobuf@1.0.0
+- pkg:nuget/MyTrout.Pipelines.Steps.Serialization.Protobuf@1.0.1
+- pkg:nuget/MyTrout.Pipelines.Steps.Serialization.Protobuf@1.1.0

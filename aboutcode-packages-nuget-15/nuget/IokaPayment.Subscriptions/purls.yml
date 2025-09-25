@@ -1,0 +1,3 @@
+- pkg:nuget/IokaPayment.Subscriptions@1.0.0
+- pkg:nuget/IokaPayment.Subscriptions@1.0.1-alpha
+- pkg:nuget/IokaPayment.Subscriptions@1.0.1-beta

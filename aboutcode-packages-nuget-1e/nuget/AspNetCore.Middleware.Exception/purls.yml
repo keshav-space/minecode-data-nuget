@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCore.Middleware.Exception@1.0.0
+- pkg:nuget/AspNetCore.Middleware.Exception@1.0.1

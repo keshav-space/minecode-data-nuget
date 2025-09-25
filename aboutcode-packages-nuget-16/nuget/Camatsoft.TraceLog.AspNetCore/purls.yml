@@ -1,0 +1,3 @@
+- pkg:nuget/Camatsoft.TraceLog.AspNetCore@3.2.1
+- pkg:nuget/Camatsoft.TraceLog.AspNetCore@4.1.1
+- pkg:nuget/Camatsoft.TraceLog.AspNetCore@4.1.2

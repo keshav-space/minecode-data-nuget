@@ -1,0 +1,3 @@
+- pkg:nuget/FirebirdResources.Testcontainers@1.1.1-alpha
+- pkg:nuget/FirebirdResources.Testcontainers@1.1.3-alpha
+- pkg:nuget/FirebirdResources.Testcontainers@1.1.4-alpha

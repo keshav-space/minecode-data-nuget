@@ -1,0 +1,2 @@
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.Wifi@1.5.1
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.Wifi@1.6.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Serilog.Sinks.Json@1.0.0-beta-1
+- pkg:nuget/Serilog.Sinks.Json@1.0.0-beta-200
+- pkg:nuget/Serilog.Sinks.Json@1.0.0-beta-201
+- pkg:nuget/Serilog.Sinks.Json@1.0.0-beta-202
+- pkg:nuget/Serilog.Sinks.Json@1.0.0-beta-203

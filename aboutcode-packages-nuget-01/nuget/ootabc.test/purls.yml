@@ -1,0 +1,5 @@
+- pkg:nuget/ootabc.test@1.0.0
+- pkg:nuget/ootabc.test@1.0.0-BEAT
+- pkg:nuget/ootabc.test@1.0.1-BEAT
+- pkg:nuget/ootabc.test@1.0.2
+- pkg:nuget/ootabc.test@1.0.3

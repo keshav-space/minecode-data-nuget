@@ -1,0 +1,7 @@
+- pkg:nuget/NJH.AspNetCore.Common@1.0.1
+- pkg:nuget/NJH.AspNetCore.Common@1.0.12
+- pkg:nuget/NJH.AspNetCore.Common@1.0.3
+- pkg:nuget/NJH.AspNetCore.Common@1.13.0
+- pkg:nuget/NJH.AspNetCore.Common@1.14.0
+- pkg:nuget/NJH.AspNetCore.Common@1.18.0
+- pkg:nuget/NJH.AspNetCore.Common@1.19.0

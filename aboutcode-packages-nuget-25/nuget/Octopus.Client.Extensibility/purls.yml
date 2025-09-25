@@ -1,0 +1,2 @@
+- pkg:nuget/Octopus.Client.Extensibility@3.0.1
+- pkg:nuget/Octopus.Client.Extensibility@4.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Picorm.MySql@1.0.0
+- pkg:nuget/Picorm.MySql@1.0.3
+- pkg:nuget/Picorm.MySql@2.0.0

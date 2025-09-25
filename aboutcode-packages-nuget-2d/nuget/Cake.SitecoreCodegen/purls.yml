@@ -1,0 +1,2 @@
+- pkg:nuget/Cake.SitecoreCodegen@0.1.44-develop
+- pkg:nuget/Cake.SitecoreCodegen@0.1.45-alpha

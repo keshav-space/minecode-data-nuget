@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.MySql.Core_MySqlData@2.2.6
+- pkg:nuget/Hangfire.MySql.Core_MySqlData@2.2.7

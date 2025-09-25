@@ -1,0 +1,4 @@
+- pkg:nuget/CoreCompat.System.Security@4.2.3-r1
+- pkg:nuget/CoreCompat.System.Security@4.2.3-r2
+- pkg:nuget/CoreCompat.System.Security@4.2.3-r3
+- pkg:nuget/CoreCompat.System.Security@4.2.3-r4

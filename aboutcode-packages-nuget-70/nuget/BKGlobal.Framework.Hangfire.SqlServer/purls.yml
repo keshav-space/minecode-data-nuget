@@ -1,0 +1,2 @@
+- pkg:nuget/BKGlobal.Framework.Hangfire.SqlServer@1.10.1
+- pkg:nuget/BKGlobal.Framework.Hangfire.SqlServer@1.11.0

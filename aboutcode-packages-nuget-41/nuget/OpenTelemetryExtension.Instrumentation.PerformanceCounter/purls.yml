@@ -1,0 +1,4 @@
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.PerformanceCounter@1.4.0
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.PerformanceCounter@1.5.0
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.PerformanceCounter@1.5.1
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.PerformanceCounter@1.6.0

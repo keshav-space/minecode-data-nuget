@@ -1,0 +1,2 @@
+- pkg:nuget/BKGlobal.Framework.Logging.Providers.SqlServer@9.0.9
+- pkg:nuget/BKGlobal.Framework.Logging.Providers.SqlServer@9.1.0

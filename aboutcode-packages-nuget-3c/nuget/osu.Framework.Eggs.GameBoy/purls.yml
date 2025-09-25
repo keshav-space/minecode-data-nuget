@@ -1,0 +1,4 @@
+- pkg:nuget/osu.Framework.Eggs.GameBoy@192.168.0.1-192.168.1.100
+- pkg:nuget/osu.Framework.Eggs.GameBoy@192.168.0.1-192.168.1.101
+- pkg:nuget/osu.Framework.Eggs.GameBoy@192.168.0.1-192.168.1.102
+- pkg:nuget/osu.Framework.Eggs.GameBoy@192.168.0.1-192.168.1.103
