@@ -1,0 +1,12 @@
+- pkg:nuget/Socket.IO.Client@0.5.2
+- pkg:nuget/Socket.IO.Client@0.6.1
+- pkg:nuget/Socket.IO.Client@0.6.2
+- pkg:nuget/Socket.IO.Client@0.6.3
+- pkg:nuget/Socket.IO.Client@0.7.0
+- pkg:nuget/Socket.IO.Client@0.7.0.1
+- pkg:nuget/Socket.IO.Client@0.8.0
+- pkg:nuget/Socket.IO.Client@0.8.1
+- pkg:nuget/Socket.IO.Client@0.8.2
+- pkg:nuget/Socket.IO.Client@0.8.3
+- pkg:nuget/Socket.IO.Client@0.9.0
+- pkg:nuget/Socket.IO.Client@1.0.0

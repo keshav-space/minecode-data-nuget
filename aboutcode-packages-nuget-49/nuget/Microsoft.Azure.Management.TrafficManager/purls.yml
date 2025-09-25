@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@0.9.1-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@0.9.2-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@0.9.3-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@1.1.0
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.0.2-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.2.0-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.3.0-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.4.0-preview
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.5.0
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.5.1
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.5.2
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.5.3
+- pkg:nuget/Microsoft.Azure.Management.TrafficManager@2.5.4

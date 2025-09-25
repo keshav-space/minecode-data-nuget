@@ -1,0 +1,15 @@
+- pkg:nuget/Olive.Blob.Azure@1.0.0
+- pkg:nuget/Olive.Blob.Azure@1.0.1
+- pkg:nuget/Olive.Blob.Azure@2.1.0
+- pkg:nuget/Olive.Blob.Azure@3.1.101
+- pkg:nuget/Olive.Blob.Azure@3.1.102
+- pkg:nuget/Olive.Blob.Azure@3.1.103
+- pkg:nuget/Olive.Blob.Azure@3.1.105
+- pkg:nuget/Olive.Blob.Azure@3.1.106
+- pkg:nuget/Olive.Blob.Azure@3.1.107
+- pkg:nuget/Olive.Blob.Azure@3.1.115
+- pkg:nuget/Olive.Blob.Azure@3.1.116
+- pkg:nuget/Olive.Blob.Azure@3.1.117
+- pkg:nuget/Olive.Blob.Azure@3.1.118
+- pkg:nuget/Olive.Blob.Azure@3.1.119
+- pkg:nuget/Olive.Blob.Azure@8.0.0

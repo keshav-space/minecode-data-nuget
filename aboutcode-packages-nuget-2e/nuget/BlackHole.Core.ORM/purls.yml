@@ -1,0 +1,12 @@
+- pkg:nuget/BlackHole.Core.ORM@0.9.0
+- pkg:nuget/BlackHole.Core.ORM@0.9.1
+- pkg:nuget/BlackHole.Core.ORM@6.0.0
+- pkg:nuget/BlackHole.Core.ORM@6.0.1
+- pkg:nuget/BlackHole.Core.ORM@6.0.2
+- pkg:nuget/BlackHole.Core.ORM@6.0.3
+- pkg:nuget/BlackHole.Core.ORM@6.1.1
+- pkg:nuget/BlackHole.Core.ORM@6.1.2
+- pkg:nuget/BlackHole.Core.ORM@7.1.1
+- pkg:nuget/BlackHole.Core.ORM@7.1.2
+- pkg:nuget/BlackHole.Core.ORM@8.1.0-rc
+- pkg:nuget/BlackHole.Core.ORM@8.1.0-rc.2

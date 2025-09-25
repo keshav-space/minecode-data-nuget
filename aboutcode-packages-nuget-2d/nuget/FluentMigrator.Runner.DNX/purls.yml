@@ -1,0 +1,6 @@
+- pkg:nuget/FluentMigrator.Runner.DNX@1.0.0-alpha6
+- pkg:nuget/FluentMigrator.Runner.DNX@1.0.0-alpha7
+- pkg:nuget/FluentMigrator.Runner.DNX@1.0.0-alpha8
+- pkg:nuget/FluentMigrator.Runner.DNX@1.0.0-alpha9
+- pkg:nuget/FluentMigrator.Runner.DNX@1.0.0-beta1
+- pkg:nuget/FluentMigrator.Runner.DNX@1.0.0-beta2

@@ -1,0 +1,5 @@
+- pkg:nuget/SafeParallelAsync@0.1.0
+- pkg:nuget/SafeParallelAsync@0.1.0-beta1
+- pkg:nuget/SafeParallelAsync@0.2.0
+- pkg:nuget/SafeParallelAsync@0.3.0
+- pkg:nuget/SafeParallelAsync@0.4.0-pre.124681

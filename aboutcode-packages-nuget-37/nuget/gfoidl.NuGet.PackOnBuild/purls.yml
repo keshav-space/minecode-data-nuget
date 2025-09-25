@@ -1,0 +1,5 @@
+- pkg:nuget/gfoidl.NuGet.PackOnBuild@1.10.3
+- pkg:nuget/gfoidl.NuGet.PackOnBuild@1.11.3
+- pkg:nuget/gfoidl.NuGet.PackOnBuild@1.12.3
+- pkg:nuget/gfoidl.NuGet.PackOnBuild@1.13.3
+- pkg:nuget/gfoidl.NuGet.PackOnBuild@1.13.4

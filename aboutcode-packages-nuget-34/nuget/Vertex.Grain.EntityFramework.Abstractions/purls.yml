@@ -1,0 +1,5 @@
+- pkg:nuget/Vertex.Grain.EntityFramework.Abstractions@1.0.49-alpha-gfe12ecc094
+- pkg:nuget/Vertex.Grain.EntityFramework.Abstractions@1.1.1
+- pkg:nuget/Vertex.Grain.EntityFramework.Abstractions@1.2.0
+- pkg:nuget/Vertex.Grain.EntityFramework.Abstractions@1.2.2
+- pkg:nuget/Vertex.Grain.EntityFramework.Abstractions@1.2.3

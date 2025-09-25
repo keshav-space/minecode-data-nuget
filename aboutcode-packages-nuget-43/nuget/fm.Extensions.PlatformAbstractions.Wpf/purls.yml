@@ -1,0 +1,15 @@
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@1.0.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@1.0.0-beta1
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@2.0.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@2.0.0-preview1
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@2.1.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@2.2.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@2.3.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@3.0.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@3.1.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@3.2.0-preview.1
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@4.0.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@4.0.0-preview.1
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@5.0.0
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@5.0.0-preview.1
+- pkg:nuget/fm.Extensions.PlatformAbstractions.Wpf@6.0.0

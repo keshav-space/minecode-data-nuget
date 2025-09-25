@@ -1,0 +1,5 @@
+- pkg:nuget/Arkmory.Identity.Client@1.1.0-CI-20240901-162503
+- pkg:nuget/Arkmory.Identity.Client@1.1.0-CI-20240903-163034
+- pkg:nuget/Arkmory.Identity.Client@1.1.0-CI-20240904-045122
+- pkg:nuget/Arkmory.Identity.Client@1.1.0-CI-20241111-195452
+- pkg:nuget/Arkmory.Identity.Client@1.1.0-CI-20241112-085502

@@ -1,0 +1,2 @@
+- pkg:nuget/Orchard.Deployment.Core@0.0.1-alpha
+- pkg:nuget/Orchard.Deployment.Core@2.0.0-preview

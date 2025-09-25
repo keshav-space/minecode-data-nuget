@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Enrichers.HttpHeader@1.0.0

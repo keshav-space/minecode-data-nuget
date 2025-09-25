@@ -1,0 +1,4 @@
+- pkg:nuget/NLog.Targets.Bulk@0.0.1-beta
+- pkg:nuget/NLog.Targets.Bulk@0.0.10-beta
+- pkg:nuget/NLog.Targets.Bulk@0.0.11-beta
+- pkg:nuget/NLog.Targets.Bulk@1.0.0

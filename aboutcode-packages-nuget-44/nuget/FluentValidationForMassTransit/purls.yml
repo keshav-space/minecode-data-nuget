@@ -1,0 +1,4 @@
+- pkg:nuget/FluentValidationForMassTransit@1.0.0
+- pkg:nuget/FluentValidationForMassTransit@2.0.0
+- pkg:nuget/FluentValidationForMassTransit@3.0.0
+- pkg:nuget/FluentValidationForMassTransit@4.0.0

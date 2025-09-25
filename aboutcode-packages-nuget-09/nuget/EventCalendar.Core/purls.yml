@@ -1,0 +1,13 @@
+- pkg:nuget/EventCalendar.Core@3.0.0
+- pkg:nuget/EventCalendar.Core@3.0.0-RC
+- pkg:nuget/EventCalendar.Core@3.1.0
+- pkg:nuget/EventCalendar.Core@3.1.1
+- pkg:nuget/EventCalendar.Core@3.1.2
+- pkg:nuget/EventCalendar.Core@3.1.3
+- pkg:nuget/EventCalendar.Core@3.2.0
+- pkg:nuget/EventCalendar.Core@3.2.1
+- pkg:nuget/EventCalendar.Core@3.2.2
+- pkg:nuget/EventCalendar.Core@3.2.3
+- pkg:nuget/EventCalendar.Core@3.2.4
+- pkg:nuget/EventCalendar.Core@3.4.0
+- pkg:nuget/EventCalendar.Core@3.5.0

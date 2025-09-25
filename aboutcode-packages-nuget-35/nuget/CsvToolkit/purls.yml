@@ -1,0 +1,4 @@
+- pkg:nuget/CsvToolkit@0.10.0
+- pkg:nuget/CsvToolkit@0.11.0
+- pkg:nuget/CsvToolkit@0.12.0
+- pkg:nuget/CsvToolkit@0.13.0

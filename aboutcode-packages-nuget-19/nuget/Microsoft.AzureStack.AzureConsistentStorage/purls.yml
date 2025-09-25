@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.AzureStack.AzureConsistentStorage@0.10.1-preview
+- pkg:nuget/Microsoft.AzureStack.AzureConsistentStorage@0.10.2-preview
+- pkg:nuget/Microsoft.AzureStack.AzureConsistentStorage@0.10.5
+- pkg:nuget/Microsoft.AzureStack.AzureConsistentStorage@0.10.6
+- pkg:nuget/Microsoft.AzureStack.AzureConsistentStorage@0.10.8-preview

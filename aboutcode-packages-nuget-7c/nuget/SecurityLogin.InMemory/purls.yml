@@ -1,0 +1,8 @@
+- pkg:nuget/SecurityLogin.InMemory@1.2.0-preview.2
+- pkg:nuget/SecurityLogin.InMemory@1.3.0
+- pkg:nuget/SecurityLogin.InMemory@1.4.0-preview.1
+- pkg:nuget/SecurityLogin.InMemory@1.4.0-preview.2
+- pkg:nuget/SecurityLogin.InMemory@1.4.0-preview.3
+- pkg:nuget/SecurityLogin.InMemory@1.4.0-preview.4
+- pkg:nuget/SecurityLogin.InMemory@1.4.0-preview.5
+- pkg:nuget/SecurityLogin.InMemory@1.4.0-preview.6

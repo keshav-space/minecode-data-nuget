@@ -1,0 +1,7 @@
+- pkg:nuget/PraxiCloud-Core-Metrics-Prometheus@1.1.1
+- pkg:nuget/PraxiCloud-Core-Metrics-Prometheus@1.5.1
+- pkg:nuget/PraxiCloud-Core-Metrics-Prometheus@2.0.0
+- pkg:nuget/PraxiCloud-Core-Metrics-Prometheus@2.1.0
+- pkg:nuget/PraxiCloud-Core-Metrics-Prometheus@2.3.0
+- pkg:nuget/PraxiCloud-Core-Metrics-Prometheus@2.3.2
+- pkg:nuget/PraxiCloud-Core-Metrics-Prometheus@5.0.0

@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.AzureStack.Management@0.10.1-preview
+- pkg:nuget/Microsoft.AzureStack.Management@0.10.5-preview
+- pkg:nuget/Microsoft.AzureStack.Management@0.10.6-preview
+- pkg:nuget/Microsoft.AzureStack.Management@0.10.7-preview
+- pkg:nuget/Microsoft.AzureStack.Management@0.10.8-preview
+- pkg:nuget/Microsoft.AzureStack.Management@0.9.1-preview
+- pkg:nuget/Microsoft.AzureStack.Management@0.9.6-preview

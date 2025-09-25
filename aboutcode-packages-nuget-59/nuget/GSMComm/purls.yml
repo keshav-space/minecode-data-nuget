@@ -1,0 +1,3 @@
+- pkg:nuget/GSMComm@1.15.0
+- pkg:nuget/GSMComm@1.21.0
+- pkg:nuget/GSMComm@1.21.1

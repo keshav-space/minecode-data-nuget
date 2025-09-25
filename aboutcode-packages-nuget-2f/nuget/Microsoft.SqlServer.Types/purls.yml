@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.SqlServer.Types@10.50.1600.1
+- pkg:nuget/Microsoft.SqlServer.Types@11.0.0
+- pkg:nuget/Microsoft.SqlServer.Types@11.0.1
+- pkg:nuget/Microsoft.SqlServer.Types@11.0.2
+- pkg:nuget/Microsoft.SqlServer.Types@12.0.4100.1
+- pkg:nuget/Microsoft.SqlServer.Types@12.0.5000
+- pkg:nuget/Microsoft.SqlServer.Types@13.0.1601.5
+- pkg:nuget/Microsoft.SqlServer.Types@13.0.4001
+- pkg:nuget/Microsoft.SqlServer.Types@14.0.1016.290
+- pkg:nuget/Microsoft.SqlServer.Types@14.0.314.76
+- pkg:nuget/Microsoft.SqlServer.Types@160.1000.6
+- pkg:nuget/Microsoft.SqlServer.Types@160.600.9-ctp2p0
+- pkg:nuget/Microsoft.SqlServer.Types@160.900.6-rc0
+- pkg:nuget/Microsoft.SqlServer.Types@170.700.9-ctp2p0

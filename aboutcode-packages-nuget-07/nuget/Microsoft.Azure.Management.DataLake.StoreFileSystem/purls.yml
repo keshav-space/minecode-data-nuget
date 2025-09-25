@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.Management.DataLake.StoreFileSystem@0.9.5-preview
+- pkg:nuget/Microsoft.Azure.Management.DataLake.StoreFileSystem@0.9.6-preview

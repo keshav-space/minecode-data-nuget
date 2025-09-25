@@ -1,0 +1,12 @@
+- pkg:nuget/SQLServerHelperLibraries@1.0.0
+- pkg:nuget/SQLServerHelperLibraries@2.0.1
+- pkg:nuget/SQLServerHelperLibraries@3.0.1
+- pkg:nuget/SQLServerHelperLibraries@3.0.2
+- pkg:nuget/SQLServerHelperLibraries@4.0.1
+- pkg:nuget/SQLServerHelperLibraries@4.0.2
+- pkg:nuget/SQLServerHelperLibraries@5.0.1
+- pkg:nuget/SQLServerHelperLibraries@7.0.1
+- pkg:nuget/SQLServerHelperLibraries@8.0.1
+- pkg:nuget/SQLServerHelperLibraries@8.0.2
+- pkg:nuget/SQLServerHelperLibraries@9.0.1
+- pkg:nuget/SQLServerHelperLibraries@9.0.2

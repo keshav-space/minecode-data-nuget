@@ -1,0 +1,17 @@
+- pkg:nuget/DBBroker@1.0.0
+- pkg:nuget/DBBroker@1.0.2
+- pkg:nuget/DBBroker@1.0.3
+- pkg:nuget/DBBroker@1.0.4
+- pkg:nuget/DBBroker@1.1.0
+- pkg:nuget/DBBroker@1.2.0-beta
+- pkg:nuget/DBBroker@2.0.0-beta
+- pkg:nuget/DBBroker@2.0.1-beta
+- pkg:nuget/DBBroker@2.0.2-beta
+- pkg:nuget/DBBroker@2.0.3-beta
+- pkg:nuget/DBBroker@2.0.4-beta
+- pkg:nuget/DBBroker@2.0.5
+- pkg:nuget/DBBroker@2.0.6
+- pkg:nuget/DBBroker@2.0.7
+- pkg:nuget/DBBroker@2.0.8
+- pkg:nuget/DBBroker@2.0.9
+- pkg:nuget/DBBroker@3.0.0-beta

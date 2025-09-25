@@ -1,0 +1,13 @@
+- pkg:nuget/GodSharp.SerialPort@1.0.0
+- pkg:nuget/GodSharp.SerialPort@1.0.1
+- pkg:nuget/GodSharp.SerialPort@1.1.0
+- pkg:nuget/GodSharp.SerialPort@1.1.1
+- pkg:nuget/GodSharp.SerialPort@1.1.2
+- pkg:nuget/GodSharp.SerialPort@1.2.0
+- pkg:nuget/GodSharp.SerialPort@1.2.0-preview1
+- pkg:nuget/GodSharp.SerialPort@1.2.0-preview2
+- pkg:nuget/GodSharp.SerialPort@1.2.0-preview3
+- pkg:nuget/GodSharp.SerialPort@1.2.0.5
+- pkg:nuget/GodSharp.SerialPort@1.2.0.5-preview1
+- pkg:nuget/GodSharp.SerialPort@1.2.0.5-preview2
+- pkg:nuget/GodSharp.SerialPort@1.2.0.6

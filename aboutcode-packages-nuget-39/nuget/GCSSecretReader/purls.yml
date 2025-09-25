@@ -1,0 +1,4 @@
+- pkg:nuget/GCSSecretReader@0.0.25-alpha
+- pkg:nuget/GCSSecretReader@0.0.34-alpha
+- pkg:nuget/GCSSecretReader@1.0.1
+- pkg:nuget/GCSSecretReader@1.0.2

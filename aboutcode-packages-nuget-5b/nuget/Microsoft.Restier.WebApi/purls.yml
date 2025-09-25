@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Restier.WebApi@0.1.0-pre
+- pkg:nuget/Microsoft.Restier.WebApi@0.2.0-beta
+- pkg:nuget/Microsoft.Restier.WebApi@0.2.0-pre
+- pkg:nuget/Microsoft.Restier.WebApi@0.3.0-beta1
+- pkg:nuget/Microsoft.Restier.WebApi@0.3.0-beta2
+- pkg:nuget/Microsoft.Restier.WebApi@0.4.0-beta
+- pkg:nuget/Microsoft.Restier.WebApi@0.4.0-rc
+- pkg:nuget/Microsoft.Restier.WebApi@0.4.0-rc2

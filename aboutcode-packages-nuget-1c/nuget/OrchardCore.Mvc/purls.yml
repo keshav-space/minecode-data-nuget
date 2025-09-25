@@ -1,0 +1,4 @@
+- pkg:nuget/OrchardCore.Mvc@0.0.1-alpha
+- pkg:nuget/OrchardCore.Mvc@1.0.0
+- pkg:nuget/OrchardCore.Mvc@1.0.0-beta1-3383
+- pkg:nuget/OrchardCore.Mvc@1.0.0-beta1-3667

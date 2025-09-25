@@ -1,0 +1,14 @@
+- pkg:nuget/BlazorPolyfill.Server@5.0.0
+- pkg:nuget/BlazorPolyfill.Server@5.0.100.1
+- pkg:nuget/BlazorPolyfill.Server@5.0.100.2
+- pkg:nuget/BlazorPolyfill.Server@5.0.100.4
+- pkg:nuget/BlazorPolyfill.Server@5.0.100.5
+- pkg:nuget/BlazorPolyfill.Server@5.0.100.6
+- pkg:nuget/BlazorPolyfill.Server@5.0.102
+- pkg:nuget/BlazorPolyfill.Server@6.0.100
+- pkg:nuget/BlazorPolyfill.Server@6.0.100.1
+- pkg:nuget/BlazorPolyfill.Server@6.0.100.2
+- pkg:nuget/BlazorPolyfill.Server@6.0.100.3
+- pkg:nuget/BlazorPolyfill.Server@6.0.200
+- pkg:nuget/BlazorPolyfill.Server@7.0.203
+- pkg:nuget/BlazorPolyfill.Server@7.0.203.1

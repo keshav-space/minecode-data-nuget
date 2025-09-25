@@ -1,0 +1,12 @@
+- pkg:nuget/X2Software.Tapeti.Serilog@0.6.0
+- pkg:nuget/X2Software.Tapeti.Serilog@0.6.0-alpha0008
+- pkg:nuget/X2Software.Tapeti.Serilog@0.6.0-unstable0004
+- pkg:nuget/X2Software.Tapeti.Serilog@0.6.0-unstable0006
+- pkg:nuget/X2Software.Tapeti.Serilog@0.6.0-unstable0007
+- pkg:nuget/X2Software.Tapeti.Serilog@0.6.1
+- pkg:nuget/X2Software.Tapeti.Serilog@0.7.0-alpha0001
+- pkg:nuget/X2Software.Tapeti.Serilog@0.9.0
+- pkg:nuget/X2Software.Tapeti.Serilog@0.9.1
+- pkg:nuget/X2Software.Tapeti.Serilog@1.1.0-alpha0003
+- pkg:nuget/X2Software.Tapeti.Serilog@1.1.0-alpha0006
+- pkg:nuget/X2Software.Tapeti.Serilog@1.1.0-alpha0009

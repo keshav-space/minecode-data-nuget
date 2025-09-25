@@ -1,0 +1,6 @@
+- pkg:nuget/ConfigServer.AzureTableStorageProvider@1.0.0-beta5-0041
+- pkg:nuget/ConfigServer.AzureTableStorageProvider@1.0.0-beta6-0048
+- pkg:nuget/ConfigServer.AzureTableStorageProvider@1.0.0-beta7-0067
+- pkg:nuget/ConfigServer.AzureTableStorageProvider@1.0.0-beta7-0069
+- pkg:nuget/ConfigServer.AzureTableStorageProvider@1.0.0-beta7-0071
+- pkg:nuget/ConfigServer.AzureTableStorageProvider@1.0.0-beta7-0083

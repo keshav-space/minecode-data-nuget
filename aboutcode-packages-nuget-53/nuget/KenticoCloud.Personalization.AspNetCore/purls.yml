@@ -1,0 +1,7 @@
+- pkg:nuget/KenticoCloud.Personalization.AspNetCore@1.0.0
+- pkg:nuget/KenticoCloud.Personalization.AspNetCore@1.1.0
+- pkg:nuget/KenticoCloud.Personalization.AspNetCore@1.1.1
+- pkg:nuget/KenticoCloud.Personalization.AspNetCore@1.1.27
+- pkg:nuget/KenticoCloud.Personalization.AspNetCore@2.0.0
+- pkg:nuget/KenticoCloud.Personalization.AspNetCore@2.0.0-alpha1
+- pkg:nuget/KenticoCloud.Personalization.AspNetCore@3.0.0

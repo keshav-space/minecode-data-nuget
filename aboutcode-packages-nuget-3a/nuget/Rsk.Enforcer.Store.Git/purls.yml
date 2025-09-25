@@ -1,0 +1,11 @@
+- pkg:nuget/Rsk.Enforcer.Store.Git@1.0.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@1.2.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@1.4.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@2.0.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@2.1.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@3.0.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@3.0.1
+- pkg:nuget/Rsk.Enforcer.Store.Git@4.0.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@4.1.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@5.0.0
+- pkg:nuget/Rsk.Enforcer.Store.Git@5.1.0

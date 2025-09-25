@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.VisualStudio.Debugger.DebugAdapterHost.Interfaces@15.6.11127.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.DebugAdapterHost.Interfaces@15.6.20118.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.DebugAdapterHost.Interfaces@15.8.20619.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.DebugAdapterHost.Interfaces@16.5.40204.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.DebugAdapterHost.Interfaces@16.6.40406.1
+- pkg:nuget/Microsoft.VisualStudio.Debugger.DebugAdapterHost.Interfaces@17.10.10123.1-preview
+- pkg:nuget/Microsoft.VisualStudio.Debugger.DebugAdapterHost.Interfaces@18.0.10427.1-preview

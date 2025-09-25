@@ -1,0 +1,5 @@
+- pkg:nuget/WPF.Serialization.Core@1.0.0
+- pkg:nuget/WPF.Serialization.Core@1.0.2
+- pkg:nuget/WPF.Serialization.Core@1.0.3
+- pkg:nuget/WPF.Serialization.Core@2.0.0
+- pkg:nuget/WPF.Serialization.Core@2.0.2

@@ -1,0 +1,6 @@
+- pkg:nuget/PTI.Microservices.Library.AzureTranslator@2.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.AzureTranslator@2.0.0.1-preview
+- pkg:nuget/PTI.Microservices.Library.AzureTranslator@2.0.0.2-preview
+- pkg:nuget/PTI.Microservices.Library.AzureTranslator@6.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.AzureTranslator@7.0.0
+- pkg:nuget/PTI.Microservices.Library.AzureTranslator@7.0.0.1

@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@0.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@1.0.2-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@2.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@2.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@2.2.0-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@2.3.0-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@2.3.1-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@2.3.2-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@2.3.3-preview
+- pkg:nuget/Microsoft.Azure.Management.NotificationHubs@2.3.4-preview

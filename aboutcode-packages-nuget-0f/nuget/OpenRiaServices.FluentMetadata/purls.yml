@@ -1,0 +1,6 @@
+- pkg:nuget/OpenRiaServices.FluentMetadata@2.0.5213.23261
+- pkg:nuget/OpenRiaServices.FluentMetadata@3.0.0
+- pkg:nuget/OpenRiaServices.FluentMetadata@3.0.0-preview.1
+- pkg:nuget/OpenRiaServices.FluentMetadata@5.0.0
+- pkg:nuget/OpenRiaServices.FluentMetadata@5.0.0-rc.1
+- pkg:nuget/OpenRiaServices.FluentMetadata@5.1.0

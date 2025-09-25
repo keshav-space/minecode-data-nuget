@@ -1,0 +1,2 @@
+- pkg:nuget/OrchardCore.Modules.Nancy@0.0.1-alpha
+- pkg:nuget/OrchardCore.Modules.Nancy@2.0.0-preview

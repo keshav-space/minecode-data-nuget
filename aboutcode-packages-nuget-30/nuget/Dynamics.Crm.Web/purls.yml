@@ -1,0 +1,14 @@
+- pkg:nuget/Dynamics.Crm.Web@1.0.0
+- pkg:nuget/Dynamics.Crm.Web@1.0.1
+- pkg:nuget/Dynamics.Crm.Web@1.1.0
+- pkg:nuget/Dynamics.Crm.Web@1.2.0
+- pkg:nuget/Dynamics.Crm.Web@1.2.1
+- pkg:nuget/Dynamics.Crm.Web@1.2.10-alpha
+- pkg:nuget/Dynamics.Crm.Web@1.2.2
+- pkg:nuget/Dynamics.Crm.Web@1.2.3-alpha
+- pkg:nuget/Dynamics.Crm.Web@1.2.4-alpha
+- pkg:nuget/Dynamics.Crm.Web@1.2.5-alpha
+- pkg:nuget/Dynamics.Crm.Web@1.2.6-alpha
+- pkg:nuget/Dynamics.Crm.Web@1.2.7-alpha
+- pkg:nuget/Dynamics.Crm.Web@1.2.8-alpha
+- pkg:nuget/Dynamics.Crm.Web@1.2.9-alpha
