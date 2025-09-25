@@ -1,0 +1,2 @@
+- pkg:nuget/Sweety.Common.DataProvider.PostgreSQL@1.0.0-alpha
+- pkg:nuget/Sweety.Common.DataProvider.PostgreSQL@1.0.5-alpha

@@ -1,0 +1,4 @@
+- pkg:nuget/Anton.PropertyCacheHelper.SourceGenerator@1.0.0
+- pkg:nuget/Anton.PropertyCacheHelper.SourceGenerator@1.0.1%2B499e5092dd0ce3cd28ffa948ad386d152bcab923
+- pkg:nuget/Anton.PropertyCacheHelper.SourceGenerator@1.0.2%2Bc99fa32565149ddd3e13f8ee74a8f1fdab8ed388
+- pkg:nuget/Anton.PropertyCacheHelper.SourceGenerator@1.0.3%2B0e3347bd3825f5a764180661cd2cdf00117d314f

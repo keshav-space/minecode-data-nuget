@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@34.99.0-preview.4.272%2Bsha.5cb9ca9
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@34.99.0-preview.5.308%2Bsha.c8158ac
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@34.99.0-preview.6.340%2Bsha.ef5fd21
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.0-preview.7.41%2Bsha.a9d10b4
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.0-rc.1.80
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.0-rc.2.152
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.101
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.24
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.39
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.50
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.61
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.7
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.78
+- pkg:nuget/Microsoft.Android.Runtime.35.android-arm@35.0.92

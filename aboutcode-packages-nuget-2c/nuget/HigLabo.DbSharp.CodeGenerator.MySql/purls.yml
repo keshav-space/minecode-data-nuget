@@ -1,0 +1,4 @@
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.MySql@7.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.MySql@8.0.0
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.MySql@8.0.0.1
+- pkg:nuget/HigLabo.DbSharp.CodeGenerator.MySql@9.0.0

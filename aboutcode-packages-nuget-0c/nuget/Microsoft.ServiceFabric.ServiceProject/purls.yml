@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.ServiceFabric.ServiceProject@0.0.1-beta
+- pkg:nuget/Microsoft.ServiceFabric.ServiceProject@1.0.0

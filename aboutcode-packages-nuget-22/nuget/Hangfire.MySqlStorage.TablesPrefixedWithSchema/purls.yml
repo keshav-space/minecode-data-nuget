@@ -1,0 +1,5 @@
+- pkg:nuget/Hangfire.MySqlStorage.TablesPrefixedWithSchema@0.0.0
+- pkg:nuget/Hangfire.MySqlStorage.TablesPrefixedWithSchema@1.0.5
+- pkg:nuget/Hangfire.MySqlStorage.TablesPrefixedWithSchema@1.0.5.1
+- pkg:nuget/Hangfire.MySqlStorage.TablesPrefixedWithSchema@1.0.5.2
+- pkg:nuget/Hangfire.MySqlStorage.TablesPrefixedWithSchema@1.0.5.3

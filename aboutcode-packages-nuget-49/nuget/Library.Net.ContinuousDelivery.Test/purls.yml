@@ -1,0 +1,7 @@
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@0.1.1
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@0.1.2
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@0.1.2-pre-0385ca44
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@0.1.2-pre-9c6442dc
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@0.2.0
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@0.2.0-pre-e74a35ad
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@0.2.1-pre-cd7354d1

@@ -1,0 +1,6 @@
+- pkg:nuget/Tiny.Caching.Core@1.0.0
+- pkg:nuget/Tiny.Caching.Core@2.2.0
+- pkg:nuget/Tiny.Caching.Core@3.1.0
+- pkg:nuget/Tiny.Caching.Core@3.1.1
+- pkg:nuget/Tiny.Caching.Core@6.0.0
+- pkg:nuget/Tiny.Caching.Core@8.0.0

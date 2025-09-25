@@ -1,0 +1,5 @@
+- pkg:nuget/SagePayMvc@3.0.0
+- pkg:nuget/SagePayMvc@3.1.0
+- pkg:nuget/SagePayMvc@4.0.0
+- pkg:nuget/SagePayMvc@5.0.0
+- pkg:nuget/SagePayMvc@5.1.0

@@ -1,0 +1,4 @@
+- pkg:nuget/ToolNET.Infrastructure.Algorithm@3.0.1
+- pkg:nuget/ToolNET.Infrastructure.Algorithm@5.0.0
+- pkg:nuget/ToolNET.Infrastructure.Algorithm@5.0.1
+- pkg:nuget/ToolNET.Infrastructure.Algorithm@5.0.3

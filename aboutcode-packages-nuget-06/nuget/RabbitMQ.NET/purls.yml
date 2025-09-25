@@ -1,0 +1,14 @@
+- pkg:nuget/RabbitMQ.NET@1.0.0
+- pkg:nuget/RabbitMQ.NET@1.0.1
+- pkg:nuget/RabbitMQ.NET@1.0.2
+- pkg:nuget/RabbitMQ.NET@1.0.3
+- pkg:nuget/RabbitMQ.NET@1.0.4
+- pkg:nuget/RabbitMQ.NET@1.0.5
+- pkg:nuget/RabbitMQ.NET@1.1.0
+- pkg:nuget/RabbitMQ.NET@2.0.0
+- pkg:nuget/RabbitMQ.NET@2.1.0
+- pkg:nuget/RabbitMQ.NET@3.0.0
+- pkg:nuget/RabbitMQ.NET@3.0.1
+- pkg:nuget/RabbitMQ.NET@3.1.0
+- pkg:nuget/RabbitMQ.NET@3.1.1
+- pkg:nuget/RabbitMQ.NET@3.2.0

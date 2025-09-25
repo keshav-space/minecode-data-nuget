@@ -1,0 +1,16 @@
+- pkg:nuget/DbEx.Postgres@2.5.0
+- pkg:nuget/DbEx.Postgres@2.5.1
+- pkg:nuget/DbEx.Postgres@2.5.2
+- pkg:nuget/DbEx.Postgres@2.5.3
+- pkg:nuget/DbEx.Postgres@2.5.4
+- pkg:nuget/DbEx.Postgres@2.5.5
+- pkg:nuget/DbEx.Postgres@2.5.6
+- pkg:nuget/DbEx.Postgres@2.5.7
+- pkg:nuget/DbEx.Postgres@2.5.8
+- pkg:nuget/DbEx.Postgres@2.5.9
+- pkg:nuget/DbEx.Postgres@2.6.0
+- pkg:nuget/DbEx.Postgres@2.6.1
+- pkg:nuget/DbEx.Postgres@2.7.0
+- pkg:nuget/DbEx.Postgres@2.7.1
+- pkg:nuget/DbEx.Postgres@2.8.0
+- pkg:nuget/DbEx.Postgres@2.8.1

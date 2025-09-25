@@ -1,0 +1,5 @@
+- pkg:nuget/NestingContently.Umbraco.ValueConverters@3.1.0
+- pkg:nuget/NestingContently.Umbraco.ValueConverters@4.0.0
+- pkg:nuget/NestingContently.Umbraco.ValueConverters@4.0.0-rc-004
+- pkg:nuget/NestingContently.Umbraco.ValueConverters@9.0.0-beta
+- pkg:nuget/NestingContently.Umbraco.ValueConverters@9.0.0-rc001

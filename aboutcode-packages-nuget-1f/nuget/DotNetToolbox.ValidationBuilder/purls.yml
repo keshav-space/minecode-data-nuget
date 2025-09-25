@@ -1,0 +1,4 @@
+- pkg:nuget/DotNetToolbox.ValidationBuilder@8.0.2-rc1
+- pkg:nuget/DotNetToolbox.ValidationBuilder@8.0.2-rc2
+- pkg:nuget/DotNetToolbox.ValidationBuilder@8.0.4-rc1
+- pkg:nuget/DotNetToolbox.ValidationBuilder@8.1.0

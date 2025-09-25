@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Identity.Client.MtlsPop@4.74.0-pop-attestation-2
+- pkg:nuget/Microsoft.Identity.Client.MtlsPop@4.76.2-preview-preview

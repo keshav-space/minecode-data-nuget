@@ -1,0 +1,17 @@
+- pkg:nuget/ServiceStack.Confifu@1.0.0
+- pkg:nuget/ServiceStack.Confifu@1.0.1
+- pkg:nuget/ServiceStack.Confifu@1.0.2
+- pkg:nuget/ServiceStack.Confifu@1.1.0
+- pkg:nuget/ServiceStack.Confifu@1.3.0
+- pkg:nuget/ServiceStack.Confifu@1.3.1
+- pkg:nuget/ServiceStack.Confifu@1.3.2
+- pkg:nuget/ServiceStack.Confifu@2.0.0
+- pkg:nuget/ServiceStack.Confifu@2.0.0-preview1
+- pkg:nuget/ServiceStack.Confifu@2.1.0
+- pkg:nuget/ServiceStack.Confifu@2.1.1
+- pkg:nuget/ServiceStack.Confifu@2.1.2
+- pkg:nuget/ServiceStack.Confifu@2.2.0
+- pkg:nuget/ServiceStack.Confifu@2.2.1
+- pkg:nuget/ServiceStack.Confifu@2.3.0
+- pkg:nuget/ServiceStack.Confifu@3.0.0
+- pkg:nuget/ServiceStack.Confifu@3.0.1

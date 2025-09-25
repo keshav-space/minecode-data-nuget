@@ -1,0 +1,4 @@
+- pkg:nuget/Swashbuckle.SwaggerGen@6.0.0-beta9
+- pkg:nuget/Swashbuckle.SwaggerGen@6.0.0-beta901
+- pkg:nuget/Swashbuckle.SwaggerGen@6.0.0-beta902
+- pkg:nuget/Swashbuckle.SwaggerGen@6.0.0-rc1-final

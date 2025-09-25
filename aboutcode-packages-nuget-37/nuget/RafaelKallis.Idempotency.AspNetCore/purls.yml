@@ -1,0 +1,3 @@
+- pkg:nuget/RafaelKallis.Idempotency.AspNetCore@0.0.2-preview
+- pkg:nuget/RafaelKallis.Idempotency.AspNetCore@1.0.0
+- pkg:nuget/RafaelKallis.Idempotency.AspNetCore@1.0.1

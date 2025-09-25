@@ -1,0 +1,5 @@
+- pkg:nuget/Slnx@1.0.0
+- pkg:nuget/Slnx@2.0.0
+- pkg:nuget/Slnx@2.0.1
+- pkg:nuget/Slnx@3.0.0
+- pkg:nuget/Slnx@3.0.1

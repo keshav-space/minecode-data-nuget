@@ -1,0 +1,5 @@
+- pkg:nuget/github-nuget-distributor-csharp@0.0.8
+- pkg:nuget/github-nuget-distributor-csharp@1.0.12
+- pkg:nuget/github-nuget-distributor-csharp@1.0.13
+- pkg:nuget/github-nuget-distributor-csharp@1.0.14
+- pkg:nuget/github-nuget-distributor-csharp@1.0.8

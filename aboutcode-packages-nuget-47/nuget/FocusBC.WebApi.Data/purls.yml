@@ -1,0 +1,12 @@
+- pkg:nuget/FocusBC.WebApi.Data@1.0.0-alpha
+- pkg:nuget/FocusBC.WebApi.Data@1.0.1
+- pkg:nuget/FocusBC.WebApi.Data@1.0.1-alpha
+- pkg:nuget/FocusBC.WebApi.Data@2.0.0
+- pkg:nuget/FocusBC.WebApi.Data@2.0.1-rc.1
+- pkg:nuget/FocusBC.WebApi.Data@2.0.1-rc.2
+- pkg:nuget/FocusBC.WebApi.Data@7.0.0
+- pkg:nuget/FocusBC.WebApi.Data@8.0.0
+- pkg:nuget/FocusBC.WebApi.Data@8.0.0-beta.1
+- pkg:nuget/FocusBC.WebApi.Data@8.0.0-beta.2
+- pkg:nuget/FocusBC.WebApi.Data@9.0.0
+- pkg:nuget/FocusBC.WebApi.Data@9.0.0-beta.1

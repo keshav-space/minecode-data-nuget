@@ -1,0 +1,4 @@
+- pkg:nuget/HighIronRanch.Azure.TableStorage@1.0.0.1
+- pkg:nuget/HighIronRanch.Azure.TableStorage@1.0.0.3
+- pkg:nuget/HighIronRanch.Azure.TableStorage@1.1.0
+- pkg:nuget/HighIronRanch.Azure.TableStorage@2.0.0

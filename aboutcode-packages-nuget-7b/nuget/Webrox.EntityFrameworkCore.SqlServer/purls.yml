@@ -1,0 +1,6 @@
+- pkg:nuget/Webrox.EntityFrameworkCore.SqlServer@1.0.0
+- pkg:nuget/Webrox.EntityFrameworkCore.SqlServer@2.0.0
+- pkg:nuget/Webrox.EntityFrameworkCore.SqlServer@2.1.0
+- pkg:nuget/Webrox.EntityFrameworkCore.SqlServer@2.2.0
+- pkg:nuget/Webrox.EntityFrameworkCore.SqlServer@2.3.0
+- pkg:nuget/Webrox.EntityFrameworkCore.SqlServer@2.4.0

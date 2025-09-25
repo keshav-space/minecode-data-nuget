@@ -1,0 +1,4 @@
+- pkg:nuget/libclang-cgnx.runtime.win-x64@12.0.1
+- pkg:nuget/libclang-cgnx.runtime.win-x64@12.0.2
+- pkg:nuget/libclang-cgnx.runtime.win-x64@12.0.3
+- pkg:nuget/libclang-cgnx.runtime.win-x64@12.0.4

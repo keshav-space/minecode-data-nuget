@@ -1,0 +1,3 @@
+- pkg:nuget/NEventStore.Persistence.MongoPersistence-Signed@4.1.0.10
+- pkg:nuget/NEventStore.Persistence.MongoPersistence-Signed@4.1.0.7
+- pkg:nuget/NEventStore.Persistence.MongoPersistence-Signed@4.1.0.8

@@ -1,0 +1,5 @@
+- pkg:nuget/FFmpeg.Lib.Static.Win-x64@1.0.0
+- pkg:nuget/FFmpeg.Lib.Static.Win-x64@1.0.1
+- pkg:nuget/FFmpeg.Lib.Static.Win-x64@1.0.2
+- pkg:nuget/FFmpeg.Lib.Static.Win-x64@1.0.3
+- pkg:nuget/FFmpeg.Lib.Static.Win-x64@6.0.0

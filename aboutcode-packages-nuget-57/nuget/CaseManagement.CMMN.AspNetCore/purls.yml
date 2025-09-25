@@ -1,0 +1,5 @@
+- pkg:nuget/CaseManagement.CMMN.AspNetCore@1.0.0
+- pkg:nuget/CaseManagement.CMMN.AspNetCore@1.0.1
+- pkg:nuget/CaseManagement.CMMN.AspNetCore@1.0.2
+- pkg:nuget/CaseManagement.CMMN.AspNetCore@1.0.3
+- pkg:nuget/CaseManagement.CMMN.AspNetCore@1.0.4-ci-00081

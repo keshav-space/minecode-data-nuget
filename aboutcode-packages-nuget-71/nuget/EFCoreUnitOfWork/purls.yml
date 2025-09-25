@@ -1,0 +1,5 @@
+- pkg:nuget/EFCoreUnitOfWork@1.0.0
+- pkg:nuget/EFCoreUnitOfWork@5.0.0
+- pkg:nuget/EFCoreUnitOfWork@5.0.1
+- pkg:nuget/EFCoreUnitOfWork@6.0.0
+- pkg:nuget/EFCoreUnitOfWork@7.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/FAkka.Akka.Persistence.SqlServer@1.5.0
+- pkg:nuget/FAkka.Akka.Persistence.SqlServer@1.5.28
+- pkg:nuget/FAkka.Akka.Persistence.SqlServer@1.5.28-beta1
+- pkg:nuget/FAkka.Akka.Persistence.SqlServer@1.5.30

@@ -1,0 +1,8 @@
+- pkg:nuget/Motorbay.EntityFrameworkCore.Abstractions@1.0.0
+- pkg:nuget/Motorbay.EntityFrameworkCore.Abstractions@1.0.0-beta.1
+- pkg:nuget/Motorbay.EntityFrameworkCore.Abstractions@1.0.0-beta.2
+- pkg:nuget/Motorbay.EntityFrameworkCore.Abstractions@1.0.0-beta.3
+- pkg:nuget/Motorbay.EntityFrameworkCore.Abstractions@1.0.0-rc.1
+- pkg:nuget/Motorbay.EntityFrameworkCore.Abstractions@1.0.1
+- pkg:nuget/Motorbay.EntityFrameworkCore.Abstractions@1.0.2
+- pkg:nuget/Motorbay.EntityFrameworkCore.Abstractions@1.0.3

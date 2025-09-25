@@ -1,0 +1,2 @@
+- pkg:nuget/Scf.RedisLockerProvider@4.0.0
+- pkg:nuget/Scf.RedisLockerProvider@5.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Emgu.CV.runtime.windows.cuda@4.2.0.3636
+- pkg:nuget/Emgu.CV.runtime.windows.cuda@4.2.0.3662
+- pkg:nuget/Emgu.CV.runtime.windows.cuda@4.3.0.3890
+- pkg:nuget/Emgu.CV.runtime.windows.cuda@4.4.0.4061
+- pkg:nuget/Emgu.CV.runtime.windows.cuda@4.4.0.4077
+- pkg:nuget/Emgu.CV.runtime.windows.cuda@4.4.0.4099

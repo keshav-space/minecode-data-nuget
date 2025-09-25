@@ -1,0 +1,4 @@
+- pkg:nuget/FFmpeg.AudioConverter@0.1.0
+- pkg:nuget/FFmpeg.AudioConverter@0.2.0
+- pkg:nuget/FFmpeg.AudioConverter@0.3.0
+- pkg:nuget/FFmpeg.AudioConverter@0.3.0-pre1

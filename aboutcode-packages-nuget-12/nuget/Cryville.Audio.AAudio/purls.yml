@@ -1,0 +1,5 @@
+- pkg:nuget/Cryville.Audio.AAudio@4.0.0
+- pkg:nuget/Cryville.Audio.AAudio@6.0.0-rc.1
+- pkg:nuget/Cryville.Audio.AAudio@6.0.0-rc.5
+- pkg:nuget/Cryville.Audio.AAudio@6.0.0-rc.9
+- pkg:nuget/Cryville.Audio.AAudio@7.0.0-beta.1

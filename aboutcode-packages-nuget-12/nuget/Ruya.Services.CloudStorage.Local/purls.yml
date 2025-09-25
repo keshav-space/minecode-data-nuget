@@ -1,0 +1,3 @@
+- pkg:nuget/Ruya.Services.CloudStorage.Local@1.2.4
+- pkg:nuget/Ruya.Services.CloudStorage.Local@7.0.1
+- pkg:nuget/Ruya.Services.CloudStorage.Local@8.0.3

@@ -1,0 +1,5 @@
+- pkg:nuget/Yolva.Bitrix.Client@0.1.0
+- pkg:nuget/Yolva.Bitrix.Client@0.1.100-alpha
+- pkg:nuget/Yolva.Bitrix.Client@0.1.200-alpha
+- pkg:nuget/Yolva.Bitrix.Client@0.1.205-alpha
+- pkg:nuget/Yolva.Bitrix.Client@0.1.206-alpha

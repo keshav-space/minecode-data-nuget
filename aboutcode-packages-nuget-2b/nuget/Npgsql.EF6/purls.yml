@@ -1,0 +1,5 @@
+- pkg:nuget/Npgsql.EF6@2.0.12-ef6
+- pkg:nuget/Npgsql.EF6@2.0.12-pre
+- pkg:nuget/Npgsql.EF6@2.0.12-pre2
+- pkg:nuget/Npgsql.EF6@2.0.12-pre3
+- pkg:nuget/Npgsql.EF6@2.0.12-pre4

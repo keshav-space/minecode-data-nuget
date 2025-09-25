@@ -1,0 +1,14 @@
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@4.3.2
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@5.1.1
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@5.1.1.1
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@5.1.2
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@5.1.2.1
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@5.1.2.2
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@5.1.2.3
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@6.0.0
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@6.0.0.1
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@6.0.0.2
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@6.1.0
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@6.1.0.1
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@7.0.0
+- pkg:nuget/FFmpeg.AutoGen.Abstractions@7.1.1

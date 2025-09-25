@@ -1,0 +1,3 @@
+- pkg:nuget/ConstrainCSharp.Analyzer@1.0.0-alpha
+- pkg:nuget/ConstrainCSharp.Analyzer@1.0.1-alpha
+- pkg:nuget/ConstrainCSharp.Analyzer@1.0.2-alpha

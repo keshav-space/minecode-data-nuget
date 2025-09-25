@@ -1,0 +1,4 @@
+- pkg:nuget/RedmentCore.Platform.MediatR@1.1.1
+- pkg:nuget/RedmentCore.Platform.MediatR@1.1.2
+- pkg:nuget/RedmentCore.Platform.MediatR@6.1.1.2
+- pkg:nuget/RedmentCore.Platform.MediatR@8.0.0

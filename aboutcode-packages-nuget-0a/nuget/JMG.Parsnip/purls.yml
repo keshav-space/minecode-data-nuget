@@ -1,0 +1,10 @@
+- pkg:nuget/JMG.Parsnip@1.25.0
+- pkg:nuget/JMG.Parsnip@1.25.0-ci-test-17
+- pkg:nuget/JMG.Parsnip@1.26.0
+- pkg:nuget/JMG.Parsnip@1.26.0-ci-test-19
+- pkg:nuget/JMG.Parsnip@1.27.0
+- pkg:nuget/JMG.Parsnip@1.27.0-beta-26
+- pkg:nuget/JMG.Parsnip@1.27.0-ci-test-25
+- pkg:nuget/JMG.Parsnip@1.28.0
+- pkg:nuget/JMG.Parsnip@1.28.0-beta-28
+- pkg:nuget/JMG.Parsnip@1.28.0-beta-29

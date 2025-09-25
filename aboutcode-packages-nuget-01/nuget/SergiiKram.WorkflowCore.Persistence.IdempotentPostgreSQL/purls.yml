@@ -1,0 +1,1 @@
+- pkg:nuget/SergiiKram.WorkflowCore.Persistence.IdempotentPostgreSQL@3.5.6

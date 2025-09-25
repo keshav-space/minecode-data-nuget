@@ -1,0 +1,2 @@
+- pkg:nuget/PL.DataAccess.Providers.PostgreSQL@1.0.0
+- pkg:nuget/PL.DataAccess.Providers.PostgreSQL@1.1.0

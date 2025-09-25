@@ -1,0 +1,7 @@
+- pkg:nuget/MCB.Core.Infra.CrossCutting.Observability.OpenTelemetry@0.1.0-alpha
+- pkg:nuget/MCB.Core.Infra.CrossCutting.Observability.OpenTelemetry@0.2.0-alpha
+- pkg:nuget/MCB.Core.Infra.CrossCutting.Observability.OpenTelemetry@0.3.0-alpha
+- pkg:nuget/MCB.Core.Infra.CrossCutting.Observability.OpenTelemetry@0.4.0-alpha
+- pkg:nuget/MCB.Core.Infra.CrossCutting.Observability.OpenTelemetry@0.5.0-alpha
+- pkg:nuget/MCB.Core.Infra.CrossCutting.Observability.OpenTelemetry@0.6.0-alpha
+- pkg:nuget/MCB.Core.Infra.CrossCutting.Observability.OpenTelemetry@0.7.0-alpha

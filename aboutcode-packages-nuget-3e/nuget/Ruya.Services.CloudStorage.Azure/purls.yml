@@ -1,0 +1,2 @@
+- pkg:nuget/Ruya.Services.CloudStorage.Azure@7.0.1
+- pkg:nuget/Ruya.Services.CloudStorage.Azure@8.0.3

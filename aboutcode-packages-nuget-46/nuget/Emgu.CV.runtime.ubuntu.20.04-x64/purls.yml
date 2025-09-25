@@ -1,0 +1,5 @@
+- pkg:nuget/Emgu.CV.runtime.ubuntu.20.04-x64@4.5.1.4349
+- pkg:nuget/Emgu.CV.runtime.ubuntu.20.04-x64@4.5.2.4673
+- pkg:nuget/Emgu.CV.runtime.ubuntu.20.04-x64@4.5.3.4721
+- pkg:nuget/Emgu.CV.runtime.ubuntu.20.04-x64@4.5.4.4788
+- pkg:nuget/Emgu.CV.runtime.ubuntu.20.04-x64@4.5.5.4823

@@ -1,0 +1,2 @@
+- pkg:nuget/StackExchange.Redis.ConnectionPool@1.0.0
+- pkg:nuget/StackExchange.Redis.ConnectionPool@1.0.1

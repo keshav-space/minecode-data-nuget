@@ -1,0 +1,9 @@
+- pkg:nuget/NetCoreDomain@1.0.0
+- pkg:nuget/NetCoreDomain@1.0.1
+- pkg:nuget/NetCoreDomain@1.1.0
+- pkg:nuget/NetCoreDomain@2.0.0
+- pkg:nuget/NetCoreDomain@2.0.0.1
+- pkg:nuget/NetCoreDomain@2.0.0.2
+- pkg:nuget/NetCoreDomain@2.0.1
+- pkg:nuget/NetCoreDomain@3.0.0
+- pkg:nuget/NetCoreDomain@4.0.0-rc1

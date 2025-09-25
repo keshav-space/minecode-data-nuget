@@ -1,0 +1,11 @@
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@0.16.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@0.17.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@0.18.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@0.19.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@0.20.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@0.21.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@1.0.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@1.11.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@1.13.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@1.14.0
+- pkg:nuget/Serilog.Sinks.ReactiveSumoLogicSink@1.15.0

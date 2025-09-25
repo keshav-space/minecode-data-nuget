@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.Contrib.Targets.WebSocketServer@0.0.1
+- pkg:nuget/NLog.Contrib.Targets.WebSocketServer@1.0.0

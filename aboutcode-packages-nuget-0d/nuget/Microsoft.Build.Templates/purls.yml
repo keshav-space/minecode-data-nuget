@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Build.Templates@17.11.31
+- pkg:nuget/Microsoft.Build.Templates@17.11.4
+- pkg:nuget/Microsoft.Build.Templates@17.12.35
+- pkg:nuget/Microsoft.Build.Templates@17.12.36
+- pkg:nuget/Microsoft.Build.Templates@17.12.6
+- pkg:nuget/Microsoft.Build.Templates@17.13.25
+- pkg:nuget/Microsoft.Build.Templates@17.13.26
+- pkg:nuget/Microsoft.Build.Templates@17.13.9
+- pkg:nuget/Microsoft.Build.Templates@17.14.5
+- pkg:nuget/Microsoft.Build.Templates@17.14.7
+- pkg:nuget/Microsoft.Build.Templates@17.14.8
+- pkg:nuget/Microsoft.Build.Templates@17.15.0-preview-25277-114

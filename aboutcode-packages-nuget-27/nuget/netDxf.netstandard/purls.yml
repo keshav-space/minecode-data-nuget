@@ -1,0 +1,4 @@
+- pkg:nuget/netDxf.netstandard@2.2.1
+- pkg:nuget/netDxf.netstandard@2.3.0
+- pkg:nuget/netDxf.netstandard@2.4.0
+- pkg:nuget/netDxf.netstandard@3.0.1

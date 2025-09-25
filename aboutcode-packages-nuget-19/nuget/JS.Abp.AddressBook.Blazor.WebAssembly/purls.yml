@@ -1,0 +1,5 @@
+- pkg:nuget/JS.Abp.AddressBook.Blazor.WebAssembly@5.3.4
+- pkg:nuget/JS.Abp.AddressBook.Blazor.WebAssembly@6.0.1
+- pkg:nuget/JS.Abp.AddressBook.Blazor.WebAssembly@6.0.2
+- pkg:nuget/JS.Abp.AddressBook.Blazor.WebAssembly@7.0.0
+- pkg:nuget/JS.Abp.AddressBook.Blazor.WebAssembly@7.3.0

@@ -1,0 +1,3 @@
+- pkg:nuget/BootApp.ApplicationLayer.Abstractions@1.0.0-alpha
+- pkg:nuget/BootApp.ApplicationLayer.Abstractions@1.0.0-beta
+- pkg:nuget/BootApp.ApplicationLayer.Abstractions@1.0.0-beta-0622

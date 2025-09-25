@@ -1,0 +1,4 @@
+- pkg:nuget/GitDateVersion@0.1.0
+- pkg:nuget/GitDateVersion@0.1.2
+- pkg:nuget/GitDateVersion@1.4.0
+- pkg:nuget/GitDateVersion@8.0.0

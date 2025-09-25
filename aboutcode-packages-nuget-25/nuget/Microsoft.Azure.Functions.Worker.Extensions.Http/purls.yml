@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Http@3.0.12
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Http@3.0.12-preview1
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Http@3.0.13
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Http@3.1.0
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Http@3.2.0
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Http@3.3.0

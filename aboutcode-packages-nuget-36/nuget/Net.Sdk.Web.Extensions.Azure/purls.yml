@@ -1,0 +1,6 @@
+- pkg:nuget/Net.Sdk.Web.Extensions.Azure@0.7.0
+- pkg:nuget/Net.Sdk.Web.Extensions.Azure@0.8.0
+- pkg:nuget/Net.Sdk.Web.Extensions.Azure@0.8.1
+- pkg:nuget/Net.Sdk.Web.Extensions.Azure@0.8.2
+- pkg:nuget/Net.Sdk.Web.Extensions.Azure@0.8.3
+- pkg:nuget/Net.Sdk.Web.Extensions.Azure@0.8.4

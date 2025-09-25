@@ -1,0 +1,11 @@
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@2.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@2.0.0-beta1
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@2.1.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@2.2.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@3.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@4.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@4.0.1
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@5.0.0
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@5.0.0-beta
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@5.0.0-preview-1
+- pkg:nuget/AuthorizationInterceptor.Extensions.MemoryCache@5.0.1

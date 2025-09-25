@@ -1,0 +1,4 @@
+- pkg:nuget/RxWeb.Core.Logging@3.0.1
+- pkg:nuget/RxWeb.Core.Logging@3.0.2
+- pkg:nuget/RxWeb.Core.Logging@3.0.2-preview1
+- pkg:nuget/RxWeb.Core.Logging@8.0.0
