@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Experimental.IdentityModel.Clients.ActiveDirectory@4.0.208020147-alpha
+- pkg:nuget/Microsoft.Experimental.IdentityModel.Clients.ActiveDirectory@4.0.208052020-alpha
+- pkg:nuget/Microsoft.Experimental.IdentityModel.Clients.ActiveDirectory@4.0.209140138-alpha
+- pkg:nuget/Microsoft.Experimental.IdentityModel.Clients.ActiveDirectory@4.0.209160138-alpha

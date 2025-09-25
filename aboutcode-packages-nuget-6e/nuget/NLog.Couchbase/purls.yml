@@ -1,0 +1,9 @@
+- pkg:nuget/NLog.Couchbase@0.9.0-CI00011
+- pkg:nuget/NLog.Couchbase@1.0.0-CI00000
+- pkg:nuget/NLog.Couchbase@1.0.0-CI00012
+- pkg:nuget/NLog.Couchbase@1.0.0-CI00016
+- pkg:nuget/NLog.Couchbase@1.0.0-CI00018
+- pkg:nuget/NLog.Couchbase@1.0.0-CI00019
+- pkg:nuget/NLog.Couchbase@1.0.0-CI00020
+- pkg:nuget/NLog.Couchbase@1.0.0-CI00021
+- pkg:nuget/NLog.Couchbase@1.0.0-CI00022

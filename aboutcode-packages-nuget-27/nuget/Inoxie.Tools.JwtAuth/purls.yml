@@ -1,0 +1,4 @@
+- pkg:nuget/Inoxie.Tools.JwtAuth@6.0.0
+- pkg:nuget/Inoxie.Tools.JwtAuth@6.0.1
+- pkg:nuget/Inoxie.Tools.JwtAuth@6.5.0
+- pkg:nuget/Inoxie.Tools.JwtAuth@6.6.0

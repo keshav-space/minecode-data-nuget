@@ -1,0 +1,6 @@
+- pkg:nuget/Logster.Client.Web@1.0.0-beta
+- pkg:nuget/Logster.Client.Web@1.0.200.14-beta
+- pkg:nuget/Logster.Client.Web@1.0.200.15-beta
+- pkg:nuget/Logster.Client.Web@1.0.200.2-beta
+- pkg:nuget/Logster.Client.Web@1.0.200.3-beta
+- pkg:nuget/Logster.Client.Web@1.0.200.4-beta

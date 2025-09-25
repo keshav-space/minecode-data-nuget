@@ -1,0 +1,11 @@
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@0.5.0
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@0.5.1
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@0.5.2
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@0.5.3
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@0.6.0
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@1.0.0
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@1.0.1
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@1.1.0
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@1.2.0
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@1.2.1
+- pkg:nuget/NiceQueue.Adapter.AmazonSQS@1.2.2

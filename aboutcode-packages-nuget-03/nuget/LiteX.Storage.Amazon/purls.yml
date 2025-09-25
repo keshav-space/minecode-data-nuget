@@ -1,0 +1,17 @@
+- pkg:nuget/LiteX.Storage.Amazon@1.0.0
+- pkg:nuget/LiteX.Storage.Amazon@2.0.0
+- pkg:nuget/LiteX.Storage.Amazon@3.0.0
+- pkg:nuget/LiteX.Storage.Amazon@4.0.0
+- pkg:nuget/LiteX.Storage.Amazon@4.1.0
+- pkg:nuget/LiteX.Storage.Amazon@5.0.0
+- pkg:nuget/LiteX.Storage.Amazon@6.0.0
+- pkg:nuget/LiteX.Storage.Amazon@6.1.0
+- pkg:nuget/LiteX.Storage.Amazon@6.1.1
+- pkg:nuget/LiteX.Storage.Amazon@6.1.2
+- pkg:nuget/LiteX.Storage.Amazon@6.2.0
+- pkg:nuget/LiteX.Storage.Amazon@6.3.0
+- pkg:nuget/LiteX.Storage.Amazon@6.4.0
+- pkg:nuget/LiteX.Storage.Amazon@7.0.0
+- pkg:nuget/LiteX.Storage.Amazon@7.1.0
+- pkg:nuget/LiteX.Storage.Amazon@8.0.0
+- pkg:nuget/LiteX.Storage.Amazon@9.0.0

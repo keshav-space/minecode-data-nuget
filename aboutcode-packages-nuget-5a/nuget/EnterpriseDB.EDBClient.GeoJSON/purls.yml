@@ -1,0 +1,4 @@
+- pkg:nuget/EnterpriseDB.EDBClient.GeoJSON@7.0.6.2
+- pkg:nuget/EnterpriseDB.EDBClient.GeoJSON@8.0.2.1
+- pkg:nuget/EnterpriseDB.EDBClient.GeoJSON@8.0.5.1
+- pkg:nuget/EnterpriseDB.EDBClient.GeoJSON@9.0.3.1

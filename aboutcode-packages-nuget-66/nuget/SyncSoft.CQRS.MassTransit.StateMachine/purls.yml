@@ -1,0 +1,12 @@
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.25-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.26-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.27-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.29-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.40-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.41-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.43-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.44-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.45-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.50-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@1.1.0.51-alpha
+- pkg:nuget/SyncSoft.CQRS.MassTransit.StateMachine@11.0.28-alpha

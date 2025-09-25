@@ -1,0 +1,11 @@
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@1.0.0
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@1.0.1
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@1.0.2
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@1.0.3
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@1.0.4
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@1.0.5
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@1.0.5-Beta
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@1.0.5-alpha
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@2.0.0-alpha
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@2.0.1-alpha
+- pkg:nuget/Serilog.Sinks.RollingFile.Extension@2.0.2

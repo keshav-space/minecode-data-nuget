@@ -1,0 +1,6 @@
+- pkg:nuget/JetBrains.dotMemory.Console.Windows@2020.1.0-eap01
+- pkg:nuget/JetBrains.dotMemory.Console.Windows@2020.1.0-eap02
+- pkg:nuget/JetBrains.dotMemory.Console.Windows@2020.1.0-eap03
+- pkg:nuget/JetBrains.dotMemory.Console.Windows@2020.1.0-eap04
+- pkg:nuget/JetBrains.dotMemory.Console.Windows@2020.1.0-eap05
+- pkg:nuget/JetBrains.dotMemory.Console.Windows@2020.1.0-eap06

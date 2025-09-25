@@ -1,0 +1,10 @@
+- pkg:nuget/test-nuget-alp@0.0.0-draft1
+- pkg:nuget/test-nuget-alp@0.0.0-draft2
+- pkg:nuget/test-nuget-alp@0.0.0-draft3
+- pkg:nuget/test-nuget-alp@1.0.10
+- pkg:nuget/test-nuget-alp@1.0.10-preview1
+- pkg:nuget/test-nuget-alp@1.0.10-preview9
+- pkg:nuget/test-nuget-alp@1.0.5
+- pkg:nuget/test-nuget-alp@1.0.7
+- pkg:nuget/test-nuget-alp@1.0.8
+- pkg:nuget/test-nuget-alp@1.0.8-preview100

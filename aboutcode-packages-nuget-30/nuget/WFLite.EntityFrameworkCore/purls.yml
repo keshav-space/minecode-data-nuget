@@ -1,0 +1,5 @@
+- pkg:nuget/WFLite.EntityFrameworkCore@1.0.2
+- pkg:nuget/WFLite.EntityFrameworkCore@1.0.3
+- pkg:nuget/WFLite.EntityFrameworkCore@1.1.0
+- pkg:nuget/WFLite.EntityFrameworkCore@1.1.1
+- pkg:nuget/WFLite.EntityFrameworkCore@1.1.2

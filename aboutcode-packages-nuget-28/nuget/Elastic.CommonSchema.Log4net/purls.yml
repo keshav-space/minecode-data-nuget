@@ -1,0 +1,17 @@
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.11.0
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.11.1
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.12.0
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.12.1
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.12.2
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.12.3
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.18.0
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.18.1
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.18.2
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.19.0
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.4.0-alpha1
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.4.0-alpha2
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.4.0-alpha3
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.4.0-alpha4
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.6.0
+- pkg:nuget/Elastic.CommonSchema.Log4net@8.6.1
+- pkg:nuget/Elastic.CommonSchema.Log4net@9.0.0

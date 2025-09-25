@@ -1,0 +1,2 @@
+- pkg:nuget/MediatR.Integration.Messaging.Transport@1.0.0
+- pkg:nuget/MediatR.Integration.Messaging.Transport@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/CouchbaseLog4NetAdapter@1.0.0
+- pkg:nuget/CouchbaseLog4NetAdapter@1.2.7
+- pkg:nuget/CouchbaseLog4NetAdapter@1.3.8
+- pkg:nuget/CouchbaseLog4NetAdapter@1.3.9

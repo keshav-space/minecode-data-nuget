@@ -1,0 +1,16 @@
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@10.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@10.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@10.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@12.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@12.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@12.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@12.1.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@13.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@13.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@13.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@14.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@14.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@15.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@15.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@16.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Opayo@16.0.0-rc1

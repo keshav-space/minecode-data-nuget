@@ -1,0 +1,9 @@
+- pkg:nuget/Elastic.Extensions.Logging.Console@8.12.0
+- pkg:nuget/Elastic.Extensions.Logging.Console@8.12.1
+- pkg:nuget/Elastic.Extensions.Logging.Console@8.12.2
+- pkg:nuget/Elastic.Extensions.Logging.Console@8.12.3
+- pkg:nuget/Elastic.Extensions.Logging.Console@8.18.0
+- pkg:nuget/Elastic.Extensions.Logging.Console@8.18.1
+- pkg:nuget/Elastic.Extensions.Logging.Console@8.18.2
+- pkg:nuget/Elastic.Extensions.Logging.Console@8.19.0
+- pkg:nuget/Elastic.Extensions.Logging.Console@9.0.0

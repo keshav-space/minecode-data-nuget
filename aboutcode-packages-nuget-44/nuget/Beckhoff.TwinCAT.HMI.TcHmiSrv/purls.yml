@@ -1,0 +1,4 @@
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrv@12.714.0-beta
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrv@12.716.0-beta
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrv@12.716.2-beta
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrv@12.718.0-beta

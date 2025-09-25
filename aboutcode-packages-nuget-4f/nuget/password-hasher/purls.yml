@@ -1,0 +1,3 @@
+- pkg:nuget/password-hasher@0.1.0
+- pkg:nuget/password-hasher@1.0.0
+- pkg:nuget/password-hasher@2.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.WindowsAppSDK.WinUI@1.0.0-experimental1
+- pkg:nuget/Microsoft.WindowsAppSDK.WinUI@1.8.250507002-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.WinUI@1.8.250610001-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.WinUI@1.8.250701000-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.WinUI@1.8.250803000-preview
+- pkg:nuget/Microsoft.WindowsAppSDK.WinUI@1.8.250906003

@@ -1,0 +1,5 @@
+- pkg:nuget/AutomationConnectors.AzDevOps@3.1.0
+- pkg:nuget/AutomationConnectors.AzDevOps@5.0.0
+- pkg:nuget/AutomationConnectors.AzDevOps@5.0.1
+- pkg:nuget/AutomationConnectors.AzDevOps@5.0.2
+- pkg:nuget/AutomationConnectors.AzDevOps@5.0.3

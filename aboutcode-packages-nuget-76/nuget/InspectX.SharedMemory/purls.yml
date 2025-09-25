@@ -1,0 +1,5 @@
+- pkg:nuget/InspectX.SharedMemory@1.0.0
+- pkg:nuget/InspectX.SharedMemory@1.0.1-alpha.1
+- pkg:nuget/InspectX.SharedMemory@1.0.1-alpha.2
+- pkg:nuget/InspectX.SharedMemory@1.0.1-beta.1
+- pkg:nuget/InspectX.SharedMemory@1.0.1-beta.2

@@ -1,0 +1,4 @@
+- pkg:nuget/Dnx.Identity.MongoDB@3.0.0-beta8-001
+- pkg:nuget/Dnx.Identity.MongoDB@3.0.0-beta8-002
+- pkg:nuget/Dnx.Identity.MongoDB@3.0.0-beta8-003
+- pkg:nuget/Dnx.Identity.MongoDB@3.0.0-rc1-final-001

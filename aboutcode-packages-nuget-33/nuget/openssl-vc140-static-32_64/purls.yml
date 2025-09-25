@@ -1,0 +1,4 @@
+- pkg:nuget/openssl-vc140-static-32_64@1.1.0
+- pkg:nuget/openssl-vc140-static-32_64@1.1.0.1
+- pkg:nuget/openssl-vc140-static-32_64@1.1.1
+- pkg:nuget/openssl-vc140-static-32_64@1.1.1.1

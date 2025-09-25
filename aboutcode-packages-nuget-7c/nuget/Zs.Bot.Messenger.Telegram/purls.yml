@@ -1,0 +1,5 @@
+- pkg:nuget/Zs.Bot.Messenger.Telegram@6.0.1
+- pkg:nuget/Zs.Bot.Messenger.Telegram@7.0.0
+- pkg:nuget/Zs.Bot.Messenger.Telegram@7.0.0-preview-1
+- pkg:nuget/Zs.Bot.Messenger.Telegram@7.0.1
+- pkg:nuget/Zs.Bot.Messenger.Telegram@7.0.2

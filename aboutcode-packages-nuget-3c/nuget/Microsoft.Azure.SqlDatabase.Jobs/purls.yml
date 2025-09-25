@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.SqlDatabase.Jobs@0.8.3042.1
+- pkg:nuget/Microsoft.Azure.SqlDatabase.Jobs@0.8.3043.1
+- pkg:nuget/Microsoft.Azure.SqlDatabase.Jobs@0.8.3250.1
+- pkg:nuget/Microsoft.Azure.SqlDatabase.Jobs@0.8.3323.1
+- pkg:nuget/Microsoft.Azure.SqlDatabase.Jobs@0.8.3362.1

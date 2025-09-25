@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.CodeAnalysis.CodeActions@0.6.4033103-beta
+- pkg:nuget/Microsoft.CodeAnalysis.CodeActions@0.7.4052301-beta
+- pkg:nuget/Microsoft.CodeAnalysis.CodeActions@0.7.4091001-CTP4
+- pkg:nuget/Microsoft.CodeAnalysis.CodeActions@0.7.4091001-beta
+- pkg:nuget/Microsoft.CodeAnalysis.CodeActions@1.0.0-beta1-20141031-01

@@ -1,0 +1,4 @@
+- pkg:nuget/OmniCache.EntityFramework@1.0.1
+- pkg:nuget/OmniCache.EntityFramework@1.0.2
+- pkg:nuget/OmniCache.EntityFramework@1.0.3
+- pkg:nuget/OmniCache.EntityFramework@1.0.4

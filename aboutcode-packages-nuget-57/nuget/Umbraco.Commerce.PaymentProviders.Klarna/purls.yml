@@ -1,0 +1,16 @@
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@10.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@10.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@10.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@12.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@12.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@12.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@13.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@13.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@13.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@14.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@14.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@15.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@15.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@15.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@16.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Klarna@16.0.0-rc1

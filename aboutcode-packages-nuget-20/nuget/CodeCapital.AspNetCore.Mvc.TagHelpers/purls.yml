@@ -1,0 +1,13 @@
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@2.2.8
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@3.1.0
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@3.1.12
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@3.1.3
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@3.1.6
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@3.1.7
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@5.0.0
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@5.0.4
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@6.0.0
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@6.0.0-preview.6
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@7.0.0
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@8.0.0
+- pkg:nuget/CodeCapital.AspNetCore.Mvc.TagHelpers@9.0.0

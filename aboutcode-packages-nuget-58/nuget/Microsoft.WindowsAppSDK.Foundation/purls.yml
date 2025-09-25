@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.0.0-experimental1
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.250507001-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.250608001-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.250701000-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.250803001-preview
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.250906002

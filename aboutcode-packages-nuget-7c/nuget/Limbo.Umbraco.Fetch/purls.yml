@@ -1,0 +1,4 @@
+- pkg:nuget/Limbo.Umbraco.Fetch@1.0.0-alpha001
+- pkg:nuget/Limbo.Umbraco.Fetch@10.0.0
+- pkg:nuget/Limbo.Umbraco.Fetch@13.0.0
+- pkg:nuget/Limbo.Umbraco.Fetch@9.0.0

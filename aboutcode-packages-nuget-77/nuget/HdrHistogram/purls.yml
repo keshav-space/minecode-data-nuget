@@ -1,0 +1,6 @@
+- pkg:nuget/HdrHistogram@1.0.120-prerelease
+- pkg:nuget/HdrHistogram@1.14.0
+- pkg:nuget/HdrHistogram@1.18.0
+- pkg:nuget/HdrHistogram@1.7.0
+- pkg:nuget/HdrHistogram@2.0.0
+- pkg:nuget/HdrHistogram@2.5.0

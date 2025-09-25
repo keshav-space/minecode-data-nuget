@@ -1,0 +1,10 @@
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.0.5-alpha
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.1.0-beta
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.1.1-beta
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.1.2-beta
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.1.3-beta
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.1.4-beta
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.2.0-beta
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.2.1-beta
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.3.0-beta
+- pkg:nuget/Localiza.Framework.Infrastructure.Redis@0.3.1

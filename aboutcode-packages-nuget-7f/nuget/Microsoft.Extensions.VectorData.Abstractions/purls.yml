@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.0.0-preview.1.24515.1
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.0.0-preview.1.24518.1
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.0.0-preview.1.24523.1
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.0.0-preview.1.25078.1
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.0.0-preview.1.25161.1
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.0.0-preview.1.25229.1
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.5.0
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.6.0
+- pkg:nuget/Microsoft.Extensions.VectorData.Abstractions@9.7.0

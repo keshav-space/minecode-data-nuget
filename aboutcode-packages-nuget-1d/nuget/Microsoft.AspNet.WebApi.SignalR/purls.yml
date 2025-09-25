@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.AspNet.WebApi.SignalR@5.0.0
+- pkg:nuget/Microsoft.AspNet.WebApi.SignalR@5.0.0-beta1
+- pkg:nuget/Microsoft.AspNet.WebApi.SignalR@5.0.0-beta2
+- pkg:nuget/Microsoft.AspNet.WebApi.SignalR@5.0.0-rc1

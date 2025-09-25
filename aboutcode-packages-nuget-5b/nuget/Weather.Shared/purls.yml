@@ -1,0 +1,6 @@
+- pkg:nuget/Weather.Shared@1.0.0
+- pkg:nuget/Weather.Shared@1.0.0-prerelease
+- pkg:nuget/Weather.Shared@2023.3.7.2329
+- pkg:nuget/Weather.Shared@2023.3.8.2225
+- pkg:nuget/Weather.Shared@2023.3.8.2322-prerelease
+- pkg:nuget/Weather.Shared@2023.3.9.1458

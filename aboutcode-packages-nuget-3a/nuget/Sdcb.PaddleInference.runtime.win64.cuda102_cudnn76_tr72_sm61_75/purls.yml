@@ -1,0 +1,5 @@
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.cuda102_cudnn76_tr72_sm61_75@2.5.0
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.cuda102_cudnn76_tr72_sm61_75@2.5.0-preview.1
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.cuda102_cudnn76_tr72_sm61_75@2.5.0-preview.3
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.cuda102_cudnn76_tr72_sm61_75@2.5.1
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.cuda102_cudnn76_tr72_sm61_75@2.5.1-preview.1

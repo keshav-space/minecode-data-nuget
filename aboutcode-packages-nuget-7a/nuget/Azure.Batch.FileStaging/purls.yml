@@ -1,0 +1,4 @@
+- pkg:nuget/Azure.Batch.FileStaging@6.0.0
+- pkg:nuget/Azure.Batch.FileStaging@7.0.0
+- pkg:nuget/Azure.Batch.FileStaging@8.0.0
+- pkg:nuget/Azure.Batch.FileStaging@8.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/NodeJSAndNpm@10.0.1
+- pkg:nuget/NodeJSAndNpm@10.0.2
+- pkg:nuget/NodeJSAndNpm@10.0.3
+- pkg:nuget/NodeJSAndNpm@5.3.0

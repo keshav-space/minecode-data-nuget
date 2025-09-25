@@ -1,0 +1,5 @@
+- pkg:nuget/StockportGovUK.AspNetCore.ActiveDirectory@0.1.0
+- pkg:nuget/StockportGovUK.AspNetCore.ActiveDirectory@0.1.0-prerelease1
+- pkg:nuget/StockportGovUK.AspNetCore.ActiveDirectory@0.1.0-prerelease2
+- pkg:nuget/StockportGovUK.AspNetCore.ActiveDirectory@1.0.0
+- pkg:nuget/StockportGovUK.AspNetCore.ActiveDirectory@1.0.0-prerelease-3

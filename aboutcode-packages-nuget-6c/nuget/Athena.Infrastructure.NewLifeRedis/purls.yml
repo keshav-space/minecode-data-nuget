@@ -1,0 +1,7 @@
+- pkg:nuget/Athena.Infrastructure.NewLifeRedis@6.0.0
+- pkg:nuget/Athena.Infrastructure.NewLifeRedis@6.0.0-preview.20230705.1
+- pkg:nuget/Athena.Infrastructure.NewLifeRedis@7.0.0
+- pkg:nuget/Athena.Infrastructure.NewLifeRedis@7.0.0-preview.20231013.1
+- pkg:nuget/Athena.Infrastructure.NewLifeRedis@7.0.0-preview.20231020.1
+- pkg:nuget/Athena.Infrastructure.NewLifeRedis@7.0.5
+- pkg:nuget/Athena.Infrastructure.NewLifeRedis@8.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.WindowsAppSDK.InteractiveExperiences@1.0.0-experimental1
+- pkg:nuget/Microsoft.WindowsAppSDK.InteractiveExperiences@1.8.250509002-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.InteractiveExperiences@1.8.250523001-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.InteractiveExperiences@1.8.250626001-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.InteractiveExperiences@1.8.250801002-preview
+- pkg:nuget/Microsoft.WindowsAppSDK.InteractiveExperiences@1.8.250906004

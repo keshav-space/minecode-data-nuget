@@ -1,0 +1,4 @@
+- pkg:nuget/IdentityServer3.Contrib.Store.Redis@0.0.1
+- pkg:nuget/IdentityServer3.Contrib.Store.Redis@0.0.1-beta
+- pkg:nuget/IdentityServer3.Contrib.Store.Redis@0.0.2
+- pkg:nuget/IdentityServer3.Contrib.Store.Redis@0.0.3

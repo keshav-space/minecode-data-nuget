@@ -1,0 +1,4 @@
+- pkg:nuget/Devmonster.AzureStorage.Queue@1.0.0
+- pkg:nuget/Devmonster.AzureStorage.Queue@1.1.0
+- pkg:nuget/Devmonster.AzureStorage.Queue@1.2.0
+- pkg:nuget/Devmonster.AzureStorage.Queue@1.2.1

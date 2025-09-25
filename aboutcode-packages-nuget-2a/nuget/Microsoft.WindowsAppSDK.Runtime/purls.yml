@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.WindowsAppSDK.Runtime@1.8.250702007-experimental4
+- pkg:nuget/Microsoft.WindowsAppSDK.Runtime@1.8.250814004-preview
+- pkg:nuget/Microsoft.WindowsAppSDK.Runtime@1.8.250907003
+- pkg:nuget/Microsoft.WindowsAppSDK.Runtime@1.8.250916003

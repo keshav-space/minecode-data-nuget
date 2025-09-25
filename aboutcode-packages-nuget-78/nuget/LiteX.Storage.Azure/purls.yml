@@ -1,0 +1,16 @@
+- pkg:nuget/LiteX.Storage.Azure@1.0.0
+- pkg:nuget/LiteX.Storage.Azure@1.0.1
+- pkg:nuget/LiteX.Storage.Azure@2.0.0
+- pkg:nuget/LiteX.Storage.Azure@3.0.0
+- pkg:nuget/LiteX.Storage.Azure@4.0.0
+- pkg:nuget/LiteX.Storage.Azure@4.1.0
+- pkg:nuget/LiteX.Storage.Azure@5.0.0
+- pkg:nuget/LiteX.Storage.Azure@6.0.0
+- pkg:nuget/LiteX.Storage.Azure@6.1.0
+- pkg:nuget/LiteX.Storage.Azure@6.2.0
+- pkg:nuget/LiteX.Storage.Azure@6.3.0
+- pkg:nuget/LiteX.Storage.Azure@6.4.0
+- pkg:nuget/LiteX.Storage.Azure@7.0.0
+- pkg:nuget/LiteX.Storage.Azure@7.1.0
+- pkg:nuget/LiteX.Storage.Azure@8.0.0
+- pkg:nuget/LiteX.Storage.Azure@9.0.0

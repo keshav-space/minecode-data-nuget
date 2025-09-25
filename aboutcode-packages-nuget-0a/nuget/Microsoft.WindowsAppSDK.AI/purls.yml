@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.WindowsAppSDK.AI@1.8.135-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.AI@1.8.20-preview
+- pkg:nuget/Microsoft.WindowsAppSDK.AI@1.8.203-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.AI@1.8.37
+- pkg:nuget/Microsoft.WindowsAppSDK.AI@1.8.38
+- pkg:nuget/Microsoft.WindowsAppSDK.AI@1.8.407-experimental

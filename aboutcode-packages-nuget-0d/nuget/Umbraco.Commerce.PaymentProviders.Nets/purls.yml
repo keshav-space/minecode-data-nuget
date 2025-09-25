@@ -1,0 +1,14 @@
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@10.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@10.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@12.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@12.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@13.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@13.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@13.1.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@14.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@14.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@15.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@15.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@15.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@16.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Nets@16.0.0-rc1

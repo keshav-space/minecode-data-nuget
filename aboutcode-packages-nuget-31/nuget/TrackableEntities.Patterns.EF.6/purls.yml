@@ -1,0 +1,13 @@
+- pkg:nuget/TrackableEntities.Patterns.EF.6@1.0.3
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.0.0
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.1.0
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.1.1-alpha1
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.1.1-beta1
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.2.0
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.5.0
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.5.1
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.5.2
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.5.3
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.5.6
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.5.6.1
+- pkg:nuget/TrackableEntities.Patterns.EF.6@2.5.7

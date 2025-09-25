@@ -1,0 +1,15 @@
+- pkg:nuget/Umbraco.TheStarterKit@10.0.0
+- pkg:nuget/Umbraco.TheStarterKit@10.0.0-rc
+- pkg:nuget/Umbraco.TheStarterKit@11.0.0
+- pkg:nuget/Umbraco.TheStarterKit@12.0.0
+- pkg:nuget/Umbraco.TheStarterKit@13.0.0
+- pkg:nuget/Umbraco.TheStarterKit@13.0.0-rc
+- pkg:nuget/Umbraco.TheStarterKit@14.0.0
+- pkg:nuget/Umbraco.TheStarterKit@15.0.0
+- pkg:nuget/Umbraco.TheStarterKit@16.0.0
+- pkg:nuget/Umbraco.TheStarterKit@16.0.0-rc
+- pkg:nuget/Umbraco.TheStarterKit@9.0.0
+- pkg:nuget/Umbraco.TheStarterKit@9.0.0-beta001
+- pkg:nuget/Umbraco.TheStarterKit@9.0.0-rc001
+- pkg:nuget/Umbraco.TheStarterKit@9.0.0-rc002
+- pkg:nuget/Umbraco.TheStarterKit@9.0.0-rc003

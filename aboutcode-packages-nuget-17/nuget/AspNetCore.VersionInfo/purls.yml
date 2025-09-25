@@ -1,0 +1,11 @@
+- pkg:nuget/AspNetCore.VersionInfo@0.1.0
+- pkg:nuget/AspNetCore.VersionInfo@0.2.0
+- pkg:nuget/AspNetCore.VersionInfo@0.2.1-tags-v0-2-0-0001
+- pkg:nuget/AspNetCore.VersionInfo@0.3.0
+- pkg:nuget/AspNetCore.VersionInfo@0.4.0
+- pkg:nuget/AspNetCore.VersionInfo@0.5.0
+- pkg:nuget/AspNetCore.VersionInfo@0.6.0
+- pkg:nuget/AspNetCore.VersionInfo@0.7.0
+- pkg:nuget/AspNetCore.VersionInfo@1.0.0
+- pkg:nuget/AspNetCore.VersionInfo@1.1.0
+- pkg:nuget/AspNetCore.VersionInfo@2.0.0

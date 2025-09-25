@@ -1,0 +1,2 @@
+- pkg:nuget/Cake.Serilog.Module@0.0.1-preview
+- pkg:nuget/Cake.Serilog.Module@0.1.0-rc

@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.CrmSdk.Samples.HelperCode-CS@7.1.0
+- pkg:nuget/Microsoft.CrmSdk.Samples.HelperCode-CS@8.0.0
+- pkg:nuget/Microsoft.CrmSdk.Samples.HelperCode-CS@8.0.0-preview
+- pkg:nuget/Microsoft.CrmSdk.Samples.HelperCode-CS@9.0.0-preview
+- pkg:nuget/Microsoft.CrmSdk.Samples.HelperCode-CS@9.0.0.1-preview
+- pkg:nuget/Microsoft.CrmSdk.Samples.HelperCode-CS@9.0.0.2-preview
+- pkg:nuget/Microsoft.CrmSdk.Samples.HelperCode-CS@9.0.0.4-preview
+- pkg:nuget/Microsoft.CrmSdk.Samples.HelperCode-CS@9.0.0.5

@@ -1,0 +1,17 @@
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@10.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@10.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@10.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@12.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@12.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@12.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@13.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@13.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@13.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@13.1.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@14.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@14.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@15.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@15.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@15.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@16.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.PayPal@16.0.0-rc1

@@ -1,0 +1,8 @@
+- pkg:nuget/Mapr.DependencyInjection@0.1.1
+- pkg:nuget/Mapr.DependencyInjection@0.2.0
+- pkg:nuget/Mapr.DependencyInjection@0.3.0
+- pkg:nuget/Mapr.DependencyInjection@0.4.0-alpha0001
+- pkg:nuget/Mapr.DependencyInjection@1.0.0
+- pkg:nuget/Mapr.DependencyInjection@1.0.0-alpha0001
+- pkg:nuget/Mapr.DependencyInjection@1.0.1
+- pkg:nuget/Mapr.DependencyInjection@1.1.0

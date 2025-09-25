@@ -1,0 +1,6 @@
+- pkg:nuget/Tewr.BlazorWorker.Extensions.JSRuntime@1.0.0-preview
+- pkg:nuget/Tewr.BlazorWorker.Extensions.JSRuntime@1.0.1-preview
+- pkg:nuget/Tewr.BlazorWorker.Extensions.JSRuntime@3.1.0-preview
+- pkg:nuget/Tewr.BlazorWorker.Extensions.JSRuntime@4.0.0
+- pkg:nuget/Tewr.BlazorWorker.Extensions.JSRuntime@4.1.2
+- pkg:nuget/Tewr.BlazorWorker.Extensions.JSRuntime@4.1.3

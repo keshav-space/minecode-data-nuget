@@ -1,0 +1,12 @@
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@2.0.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@2.1.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@2.2.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@3.0.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@4.0.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@5.0.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@5.1.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@6.0.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@6.1.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@7.0.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@8.0.0
+- pkg:nuget/SlimLib.Microsoft.Defender.AdvancedThreatProtection@9.0.0

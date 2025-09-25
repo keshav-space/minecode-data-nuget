@@ -1,0 +1,12 @@
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@1.0.1
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@2.0.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@3.0.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@4.0.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@5.0.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@5.1.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@6.0.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@6.1.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@7.0.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@7.1.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@7.2.0
+- pkg:nuget/JuniorRoute.AspNetIntegration.Diagnostics@8.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.1
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.2
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.2-alpha.0.1
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.3
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.3-alpha.0.1
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.4
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.5
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.5-alpha.0.3
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.6
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.6-alpha.0.1
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.7
+- pkg:nuget/CodeCorrectCollective.Blocks.EntityFramework.Testing@1.0.7-alpha.0.1

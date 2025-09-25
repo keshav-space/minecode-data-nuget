@@ -1,0 +1,4 @@
+- pkg:nuget/JezekT.AspNetCore.DataTables@1.0.0-beta
+- pkg:nuget/JezekT.AspNetCore.DataTables@1.0.1-beta
+- pkg:nuget/JezekT.AspNetCore.DataTables@2.0.0-beta
+- pkg:nuget/JezekT.AspNetCore.DataTables@2.0.1-beta

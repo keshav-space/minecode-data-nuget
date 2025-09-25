@@ -1,0 +1,4 @@
+- pkg:nuget/EnterpriseDB.EDBClient.EntityFrameworkCore.PostgreSQL@7.0.11.2
+- pkg:nuget/EnterpriseDB.EDBClient.EntityFrameworkCore.PostgreSQL@8.0.10.1
+- pkg:nuget/EnterpriseDB.EDBClient.EntityFrameworkCore.PostgreSQL@8.0.2.1
+- pkg:nuget/EnterpriseDB.EDBClient.EntityFrameworkCore.PostgreSQL@9.0.4.1

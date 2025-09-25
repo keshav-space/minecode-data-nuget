@@ -1,0 +1,12 @@
+- pkg:nuget/FSharp.Azure.Storage@2.0.0
+- pkg:nuget/FSharp.Azure.Storage@2.1.0
+- pkg:nuget/FSharp.Azure.Storage@2.2.0
+- pkg:nuget/FSharp.Azure.Storage@3.0.0
+- pkg:nuget/FSharp.Azure.Storage@3.1.0
+- pkg:nuget/FSharp.Azure.Storage@3.2.0
+- pkg:nuget/FSharp.Azure.Storage@3.3.0
+- pkg:nuget/FSharp.Azure.Storage@3.3.1
+- pkg:nuget/FSharp.Azure.Storage@4.0.0
+- pkg:nuget/FSharp.Azure.Storage@5.0.0
+- pkg:nuget/FSharp.Azure.Storage@5.0.1
+- pkg:nuget/FSharp.Azure.Storage@5.0.2

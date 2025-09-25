@@ -1,0 +1,6 @@
+- pkg:nuget/Autofac.Extras.AttributeMetadata@4.0.0
+- pkg:nuget/Autofac.Extras.AttributeMetadata@4.0.1
+- pkg:nuget/Autofac.Extras.AttributeMetadata@4.0.2
+- pkg:nuget/Autofac.Extras.AttributeMetadata@4.1.0
+- pkg:nuget/Autofac.Extras.AttributeMetadata@5.0.0
+- pkg:nuget/Autofac.Extras.AttributeMetadata@6.0.0

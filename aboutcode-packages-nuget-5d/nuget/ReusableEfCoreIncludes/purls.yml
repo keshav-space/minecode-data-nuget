@@ -1,0 +1,4 @@
+- pkg:nuget/ReusableEfCoreIncludes@6.0.0-beta.1
+- pkg:nuget/ReusableEfCoreIncludes@6.0.0-beta.2
+- pkg:nuget/ReusableEfCoreIncludes@6.0.0-beta.3
+- pkg:nuget/ReusableEfCoreIncludes@8.0.0-beta.3

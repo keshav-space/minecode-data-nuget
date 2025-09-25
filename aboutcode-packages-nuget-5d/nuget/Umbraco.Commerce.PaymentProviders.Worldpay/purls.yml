@@ -1,0 +1,13 @@
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@10.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@10.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@10.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@10.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@12.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@12.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@13.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@14.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@14.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@15.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@15.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@16.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@16.0.0-rc1

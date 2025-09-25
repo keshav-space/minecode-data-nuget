@@ -1,0 +1,4 @@
+- pkg:nuget/EnterpriseDB.EDBClient.NodaTime@7.0.6.2
+- pkg:nuget/EnterpriseDB.EDBClient.NodaTime@8.0.2.1
+- pkg:nuget/EnterpriseDB.EDBClient.NodaTime@8.0.5.1
+- pkg:nuget/EnterpriseDB.EDBClient.NodaTime@9.0.3.1

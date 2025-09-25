@@ -1,0 +1,17 @@
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@10.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@10.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@10.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@12.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@12.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@12.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@12.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@13.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@13.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@13.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@14.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@14.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@15.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@15.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@15.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@16.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Quickpay@16.0.0-rc1

@@ -1,0 +1,11 @@
+- pkg:nuget/Metrics.NET.InfluxDB@1.0.14
+- pkg:nuget/Metrics.NET.InfluxDB@1.0.26
+- pkg:nuget/Metrics.NET.InfluxDB@1.0.38
+- pkg:nuget/Metrics.NET.InfluxDB@1.0.41
+- pkg:nuget/Metrics.NET.InfluxDB@2.0.44-beta
+- pkg:nuget/Metrics.NET.InfluxDB@2.0.47-beta
+- pkg:nuget/Metrics.NET.InfluxDB@2.0.48-beta
+- pkg:nuget/Metrics.NET.InfluxDB@2.0.50-beta
+- pkg:nuget/Metrics.NET.InfluxDB@2.0.54-beta
+- pkg:nuget/Metrics.NET.InfluxDB@3.0.59-beta
+- pkg:nuget/Metrics.NET.InfluxDB@3.0.60-beta

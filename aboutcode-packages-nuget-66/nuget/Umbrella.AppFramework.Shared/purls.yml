@@ -1,0 +1,7 @@
+- pkg:nuget/Umbrella.AppFramework.Shared@3.0.0-preview-0271
+- pkg:nuget/Umbrella.AppFramework.Shared@3.0.0-preview-0282
+- pkg:nuget/Umbrella.AppFramework.Shared@3.0.0-preview-0292
+- pkg:nuget/Umbrella.AppFramework.Shared@3.0.0-preview-0304
+- pkg:nuget/Umbrella.AppFramework.Shared@5.0.0-preview-0006
+- pkg:nuget/Umbrella.AppFramework.Shared@6.0.0-preview-0057
+- pkg:nuget/Umbrella.AppFramework.Shared@6.0.0-preview-0073

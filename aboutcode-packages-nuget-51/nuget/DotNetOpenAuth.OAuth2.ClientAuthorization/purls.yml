@@ -1,0 +1,16 @@
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@0.25.0-draft1
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@0.25.0-draft2
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@0.25.0-draft3
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@0.25.0-draft4
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@0.25.0-draft5
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@4.2.0.13024
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@4.2.1.13026
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@4.2.2.13055
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@4.3.0.13117
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@4.3.1.13153
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@4.3.2.13293
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@4.3.3.13295
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@4.3.4.13329
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@5.0.0-alpha1
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@5.0.0-alpha2
+- pkg:nuget/DotNetOpenAuth.OAuth2.ClientAuthorization@5.0.0-alpha3
