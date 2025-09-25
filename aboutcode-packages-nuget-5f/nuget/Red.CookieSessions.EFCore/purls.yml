@@ -1,0 +1,11 @@
+- pkg:nuget/Red.CookieSessions.EFCore@1.0.0
+- pkg:nuget/Red.CookieSessions.EFCore@1.1.0
+- pkg:nuget/Red.CookieSessions.EFCore@1.1.1
+- pkg:nuget/Red.CookieSessions.EFCore@1.1.2
+- pkg:nuget/Red.CookieSessions.EFCore@1.2.0
+- pkg:nuget/Red.CookieSessions.EFCore@1.2.1
+- pkg:nuget/Red.CookieSessions.EFCore@3.0.0
+- pkg:nuget/Red.CookieSessions.EFCore@3.1.0
+- pkg:nuget/Red.CookieSessions.EFCore@3.2.0
+- pkg:nuget/Red.CookieSessions.EFCore@3.3.0
+- pkg:nuget/Red.CookieSessions.EFCore@4.0.0

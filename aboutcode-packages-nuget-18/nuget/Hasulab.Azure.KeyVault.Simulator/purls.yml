@@ -1,0 +1,4 @@
+- pkg:nuget/Hasulab.Azure.KeyVault.Simulator@0.0.1
+- pkg:nuget/Hasulab.Azure.KeyVault.Simulator@0.0.2
+- pkg:nuget/Hasulab.Azure.KeyVault.Simulator@0.0.3
+- pkg:nuget/Hasulab.Azure.KeyVault.Simulator@0.8.0

@@ -1,0 +1,4 @@
+- pkg:nuget/FoodAppModels@1.0.0
+- pkg:nuget/FoodAppModels@2.0.0
+- pkg:nuget/FoodAppModels@3.0.0
+- pkg:nuget/FoodAppModels@4.0.0

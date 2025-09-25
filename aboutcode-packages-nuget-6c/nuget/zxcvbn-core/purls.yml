@@ -1,0 +1,17 @@
+- pkg:nuget/zxcvbn-core@1.0.5
+- pkg:nuget/zxcvbn-core@1.0.6
+- pkg:nuget/zxcvbn-core@1.0.8
+- pkg:nuget/zxcvbn-core@1.0.9
+- pkg:nuget/zxcvbn-core@1.1.10
+- pkg:nuget/zxcvbn-core@1.1.16
+- pkg:nuget/zxcvbn-core@1.1.17
+- pkg:nuget/zxcvbn-core@2.0.28
+- pkg:nuget/zxcvbn-core@2.0.36
+- pkg:nuget/zxcvbn-core@2.1.44
+- pkg:nuget/zxcvbn-core@5.0.81
+- pkg:nuget/zxcvbn-core@5.0.82
+- pkg:nuget/zxcvbn-core@6.0.83
+- pkg:nuget/zxcvbn-core@6.0.84
+- pkg:nuget/zxcvbn-core@7.0.92
+- pkg:nuget/zxcvbn-core@8.0.0-beta0001
+- pkg:nuget/zxcvbn-core@8.0.0-beta0002

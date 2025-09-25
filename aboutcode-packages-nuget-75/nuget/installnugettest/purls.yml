@@ -1,0 +1,4 @@
+- pkg:nuget/installnugettest@1.0.0
+- pkg:nuget/installnugettest@2.0.0
+- pkg:nuget/installnugettest@3.0.0
+- pkg:nuget/installnugettest@4.1.0

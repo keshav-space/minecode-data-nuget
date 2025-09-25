@@ -1,0 +1,6 @@
+- pkg:nuget/NServiceBus.Extensions.DispatchRetries@0.0.1
+- pkg:nuget/NServiceBus.Extensions.DispatchRetries@0.0.2
+- pkg:nuget/NServiceBus.Extensions.DispatchRetries@1.0.0
+- pkg:nuget/NServiceBus.Extensions.DispatchRetries@2.0.0
+- pkg:nuget/NServiceBus.Extensions.DispatchRetries@3.0.1
+- pkg:nuget/NServiceBus.Extensions.DispatchRetries@3.1.0

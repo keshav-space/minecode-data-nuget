@@ -1,0 +1,3 @@
+- pkg:nuget/Falcon.Service.NotificationSystemBroker.SmsProviderClient@1.0.0
+- pkg:nuget/Falcon.Service.NotificationSystemBroker.SmsProviderClient@1.0.1
+- pkg:nuget/Falcon.Service.NotificationSystemBroker.SmsProviderClient@2.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/NMoneys.Serialization.Json_NET@1.0.0
+- pkg:nuget/NMoneys.Serialization.Json_NET@1.1.0
+- pkg:nuget/NMoneys.Serialization.Json_NET@2.0.0
+- pkg:nuget/NMoneys.Serialization.Json_NET@3.0.0
+- pkg:nuget/NMoneys.Serialization.Json_NET@4.0.0
+- pkg:nuget/NMoneys.Serialization.Json_NET@4.0.0.1

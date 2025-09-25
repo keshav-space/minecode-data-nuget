@@ -1,0 +1,4 @@
+- pkg:nuget/FSharp.Interop.Compose@1.14.0
+- pkg:nuget/FSharp.Interop.Compose@2.0.1-alpha34
+- pkg:nuget/FSharp.Interop.Compose@2.0.1-alpha36
+- pkg:nuget/FSharp.Interop.Compose@2.0.1.43

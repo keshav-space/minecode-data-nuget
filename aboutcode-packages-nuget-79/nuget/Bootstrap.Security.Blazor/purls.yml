@@ -1,0 +1,11 @@
+- pkg:nuget/Bootstrap.Security.Blazor@6.0.0
+- pkg:nuget/Bootstrap.Security.Blazor@6.0.0-beta01
+- pkg:nuget/Bootstrap.Security.Blazor@6.0.0-beta02
+- pkg:nuget/Bootstrap.Security.Blazor@6.0.1
+- pkg:nuget/Bootstrap.Security.Blazor@6.0.1-beta01
+- pkg:nuget/Bootstrap.Security.Blazor@6.1.0
+- pkg:nuget/Bootstrap.Security.Blazor@7.0.0
+- pkg:nuget/Bootstrap.Security.Blazor@7.1.0
+- pkg:nuget/Bootstrap.Security.Blazor@7.1.1
+- pkg:nuget/Bootstrap.Security.Blazor@7.2.0
+- pkg:nuget/Bootstrap.Security.Blazor@8.0.0

@@ -1,0 +1,10 @@
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.10.0
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.3.1
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.3.1.1
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.4.0
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.5.1
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.6.1
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.7.0
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.8.0
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.9.0
+- pkg:nuget/NREL.OpenStudio.linux-x64@3.9.0.1

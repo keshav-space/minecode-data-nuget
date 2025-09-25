@@ -1,0 +1,15 @@
+- pkg:nuget/Microsoft.Build.Localization@15.3.0-preview-000388-01
+- pkg:nuget/Microsoft.Build.Localization@15.3.409
+- pkg:nuget/Microsoft.Build.Localization@15.4.8
+- pkg:nuget/Microsoft.Build.Localization@15.5.179
+- pkg:nuget/Microsoft.Build.Localization@15.5.180
+- pkg:nuget/Microsoft.Build.Localization@15.6.82
+- pkg:nuget/Microsoft.Build.Localization@15.6.84
+- pkg:nuget/Microsoft.Build.Localization@15.6.85
+- pkg:nuget/Microsoft.Build.Localization@15.7.0-preview-000011-1378327
+- pkg:nuget/Microsoft.Build.Localization@15.7.0-preview-000145
+- pkg:nuget/Microsoft.Build.Localization@15.7.179
+- pkg:nuget/Microsoft.Build.Localization@15.8.166
+- pkg:nuget/Microsoft.Build.Localization@15.9.20
+- pkg:nuget/Microsoft.Build.Localization@17.1.0-preview-22076-09
+- pkg:nuget/Microsoft.Build.Localization@17.12.6-preview-24518-05

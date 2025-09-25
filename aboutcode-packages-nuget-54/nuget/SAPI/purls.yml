@@ -1,0 +1,17 @@
+- pkg:nuget/SAPI@1.0.0
+- pkg:nuget/SAPI@1.1.0
+- pkg:nuget/SAPI@1.2.0
+- pkg:nuget/SAPI@10.0.0
+- pkg:nuget/SAPI@2.0.0
+- pkg:nuget/SAPI@2.1.0
+- pkg:nuget/SAPI@2.2.0
+- pkg:nuget/SAPI@3.0.0
+- pkg:nuget/SAPI@4.0.0
+- pkg:nuget/SAPI@5.0.0
+- pkg:nuget/SAPI@5.0.1
+- pkg:nuget/SAPI@6.0.0
+- pkg:nuget/SAPI@6.0.0-experimental
+- pkg:nuget/SAPI@7.0.0
+- pkg:nuget/SAPI@8.0.0
+- pkg:nuget/SAPI@9.0.0
+- pkg:nuget/SAPI@9.1.0

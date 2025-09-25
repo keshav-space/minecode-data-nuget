@@ -1,0 +1,16 @@
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.0
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.1
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181221.11
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181221.12
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181221.13
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181222.1
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181222.2
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181222.6
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181222.7
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181222.8
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20181222.9
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.20200702.2
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.0.30.1
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.72.20200707.1
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.73.20200707.1
+- pkg:nuget/Cataurus.SshNet.Security.Cryptography@1.74.20200707.1

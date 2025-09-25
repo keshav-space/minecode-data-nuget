@@ -1,0 +1,9 @@
+- pkg:nuget/xunit.extensions@1.7.0.1540
+- pkg:nuget/xunit.extensions@1.8.0.1545
+- pkg:nuget/xunit.extensions@1.8.0.1549
+- pkg:nuget/xunit.extensions@1.9.0.1566
+- pkg:nuget/xunit.extensions@1.9.1
+- pkg:nuget/xunit.extensions@1.9.2
+- pkg:nuget/xunit.extensions@2.0.0
+- pkg:nuget/xunit.extensions@2.0.0-alpha-build1611
+- pkg:nuget/xunit.extensions@2.0.0-rc4-build2924

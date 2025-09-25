@@ -1,0 +1,11 @@
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@5.6.2
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@5.6.5
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@6.0.0
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@6.0.1
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@7.0.0
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@7.0.1
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@8.0.0
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@8.0.1
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@8.0.2
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@9.0.0
+- pkg:nuget/Octopus.Client.Extensibility.Authentication.OctopusID@9.0.1

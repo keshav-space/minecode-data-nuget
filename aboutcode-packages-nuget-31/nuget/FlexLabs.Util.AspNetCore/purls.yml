@@ -1,0 +1,3 @@
+- pkg:nuget/FlexLabs.Util.AspNetCore@2.1.0
+- pkg:nuget/FlexLabs.Util.AspNetCore@2.2.0
+- pkg:nuget/FlexLabs.Util.AspNetCore@2.2.1

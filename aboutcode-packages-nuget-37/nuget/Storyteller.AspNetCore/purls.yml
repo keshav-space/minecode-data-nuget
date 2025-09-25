@@ -1,0 +1,17 @@
+- pkg:nuget/Storyteller.AspNetCore@1.0.0
+- pkg:nuget/Storyteller.AspNetCore@1.0.0-alpha-506
+- pkg:nuget/Storyteller.AspNetCore@1.0.0-alpha-517
+- pkg:nuget/Storyteller.AspNetCore@1.0.0-alpha-528
+- pkg:nuget/Storyteller.AspNetCore@1.0.0-alpha-545
+- pkg:nuget/Storyteller.AspNetCore@1.0.0-alpha-571
+- pkg:nuget/Storyteller.AspNetCore@1.1.0
+- pkg:nuget/Storyteller.AspNetCore@1.2.0
+- pkg:nuget/Storyteller.AspNetCore@1.2.1
+- pkg:nuget/Storyteller.AspNetCore@2.0.0
+- pkg:nuget/Storyteller.AspNetCore@3.0.0
+- pkg:nuget/Storyteller.AspNetCore@5.3.0
+- pkg:nuget/Storyteller.AspNetCore@5.3.1
+- pkg:nuget/Storyteller.AspNetCore@5.3.2
+- pkg:nuget/Storyteller.AspNetCore@5.3.3
+- pkg:nuget/Storyteller.AspNetCore@5.3.5
+- pkg:nuget/Storyteller.AspNetCore@5.4.0

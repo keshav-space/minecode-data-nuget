@@ -1,0 +1,7 @@
+- pkg:nuget/Acumatica.RESTClient.MaintenanceApi@3.0.0-alpha
+- pkg:nuget/Acumatica.RESTClient.MaintenanceApi@3.0.1-alpha
+- pkg:nuget/Acumatica.RESTClient.MaintenanceApi@3.5.0-alpha
+- pkg:nuget/Acumatica.RESTClient.MaintenanceApi@4.4.0-alpha
+- pkg:nuget/Acumatica.RESTClient.MaintenanceApi@5.1.0-beta
+- pkg:nuget/Acumatica.RESTClient.MaintenanceApi@5.6.0-beta
+- pkg:nuget/Acumatica.RESTClient.MaintenanceApi@5.6.2-beta

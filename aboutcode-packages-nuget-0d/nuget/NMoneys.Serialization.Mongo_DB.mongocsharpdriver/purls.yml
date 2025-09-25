@@ -1,0 +1,5 @@
+- pkg:nuget/NMoneys.Serialization.Mongo_DB.mongocsharpdriver@1.0.0
+- pkg:nuget/NMoneys.Serialization.Mongo_DB.mongocsharpdriver@1.0.1
+- pkg:nuget/NMoneys.Serialization.Mongo_DB.mongocsharpdriver@2.0.0
+- pkg:nuget/NMoneys.Serialization.Mongo_DB.mongocsharpdriver@2.0.1
+- pkg:nuget/NMoneys.Serialization.Mongo_DB.mongocsharpdriver@2.0.1.1

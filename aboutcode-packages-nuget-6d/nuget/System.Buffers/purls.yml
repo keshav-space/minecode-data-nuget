@@ -1,0 +1,15 @@
+- pkg:nuget/System.Buffers@4.0.0
+- pkg:nuget/System.Buffers@4.0.0-rc2-24027
+- pkg:nuget/System.Buffers@4.3.0
+- pkg:nuget/System.Buffers@4.3.0-preview1-24530-04
+- pkg:nuget/System.Buffers@4.4.0
+- pkg:nuget/System.Buffers@4.4.0-preview1-25305-02
+- pkg:nuget/System.Buffers@4.4.0-preview2-25405-01
+- pkg:nuget/System.Buffers@4.5.0
+- pkg:nuget/System.Buffers@4.5.0-preview1-25914-04
+- pkg:nuget/System.Buffers@4.5.0-preview1-26216-02
+- pkg:nuget/System.Buffers@4.5.0-preview2-26406-04
+- pkg:nuget/System.Buffers@4.5.0-rc1
+- pkg:nuget/System.Buffers@4.5.1
+- pkg:nuget/System.Buffers@4.6.0
+- pkg:nuget/System.Buffers@4.6.1

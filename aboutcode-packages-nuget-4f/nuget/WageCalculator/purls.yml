@@ -1,0 +1,11 @@
+- pkg:nuget/WageCalculator@0.0.0-preview.0%2Bbuild.31
+- pkg:nuget/WageCalculator@1.0.0
+- pkg:nuget/WageCalculator@2.0.0
+- pkg:nuget/WageCalculator@2.1.0
+- pkg:nuget/WageCalculator@2.2.0
+- pkg:nuget/WageCalculator@2.3.0
+- pkg:nuget/WageCalculator@2.4.0
+- pkg:nuget/WageCalculator@2.5.0
+- pkg:nuget/WageCalculator@2.6.0
+- pkg:nuget/WageCalculator@2.7.0
+- pkg:nuget/WageCalculator@3.1.0

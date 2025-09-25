@@ -1,0 +1,5 @@
+- pkg:nuget/Ofl.Data.DependencyInjection.Autofac@1.0.3
+- pkg:nuget/Ofl.Data.DependencyInjection.Autofac@1.0.6
+- pkg:nuget/Ofl.Data.DependencyInjection.Autofac@1.0.9
+- pkg:nuget/Ofl.Data.DependencyInjection.Autofac@2.0.10
+- pkg:nuget/Ofl.Data.DependencyInjection.Autofac@2.0.11

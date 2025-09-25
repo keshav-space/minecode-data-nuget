@@ -1,0 +1,12 @@
+- pkg:nuget/RecastCSharp@1.0.4
+- pkg:nuget/RecastCSharp@2.0.0
+- pkg:nuget/RecastCSharp@2.1.0
+- pkg:nuget/RecastCSharp@3.0.0
+- pkg:nuget/RecastCSharp@3.1.0
+- pkg:nuget/RecastCSharp@3.2.0
+- pkg:nuget/RecastCSharp@3.3.0
+- pkg:nuget/RecastCSharp@3.3.1
+- pkg:nuget/RecastCSharp@3.3.2
+- pkg:nuget/RecastCSharp@3.3.3
+- pkg:nuget/RecastCSharp@3.4.0
+- pkg:nuget/RecastCSharp@3.5.0

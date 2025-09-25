@@ -1,0 +1,11 @@
+- pkg:nuget/Orleans.Multitenant@1.0.0
+- pkg:nuget/Orleans.Multitenant@1.0.0-preview.1
+- pkg:nuget/Orleans.Multitenant@1.0.0-preview.2
+- pkg:nuget/Orleans.Multitenant@1.0.0-rc2
+- pkg:nuget/Orleans.Multitenant@1.1.4
+- pkg:nuget/Orleans.Multitenant@2.0.0
+- pkg:nuget/Orleans.Multitenant@2.0.0-preview.1
+- pkg:nuget/Orleans.Multitenant@2.1.0
+- pkg:nuget/Orleans.Multitenant@2.2.12
+- pkg:nuget/Orleans.Multitenant@2.2.8
+- pkg:nuget/Orleans.Multitenant@3.0.0

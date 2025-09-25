@@ -1,0 +1,5 @@
+- pkg:nuget/MyStack.SnowflakeIdGenerator@0.0.1-beta1
+- pkg:nuget/MyStack.SnowflakeIdGenerator@0.0.1-beta2
+- pkg:nuget/MyStack.SnowflakeIdGenerator@1.0.0
+- pkg:nuget/MyStack.SnowflakeIdGenerator@1.0.1
+- pkg:nuget/MyStack.SnowflakeIdGenerator@1.0.2

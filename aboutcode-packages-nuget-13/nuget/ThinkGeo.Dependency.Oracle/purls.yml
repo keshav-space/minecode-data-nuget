@@ -1,0 +1,13 @@
+- pkg:nuget/ThinkGeo.Dependency.Oracle@12.2.1
+- pkg:nuget/ThinkGeo.Dependency.Oracle@12.2.2
+- pkg:nuget/ThinkGeo.Dependency.Oracle@12.3.0
+- pkg:nuget/ThinkGeo.Dependency.Oracle@12.3.1
+- pkg:nuget/ThinkGeo.Dependency.Oracle@12.4.0
+- pkg:nuget/ThinkGeo.Dependency.Oracle@12.4.0-beta1
+- pkg:nuget/ThinkGeo.Dependency.Oracle@13.0.0
+- pkg:nuget/ThinkGeo.Dependency.Oracle@13.0.0-beta1
+- pkg:nuget/ThinkGeo.Dependency.Oracle@13.0.0-beta2
+- pkg:nuget/ThinkGeo.Dependency.Oracle@13.1.0
+- pkg:nuget/ThinkGeo.Dependency.Oracle@14.0.0
+- pkg:nuget/ThinkGeo.Dependency.Oracle@14.0.0-beta001
+- pkg:nuget/ThinkGeo.Dependency.Oracle@14.0.0-beta002

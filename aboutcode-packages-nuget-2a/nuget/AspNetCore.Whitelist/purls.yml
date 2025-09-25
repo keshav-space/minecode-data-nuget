@@ -1,0 +1,6 @@
+- pkg:nuget/AspNetCore.Whitelist@1.0.0
+- pkg:nuget/AspNetCore.Whitelist@1.0.10
+- pkg:nuget/AspNetCore.Whitelist@1.0.11
+- pkg:nuget/AspNetCore.Whitelist@1.0.7
+- pkg:nuget/AspNetCore.Whitelist@1.0.8
+- pkg:nuget/AspNetCore.Whitelist@1.0.9

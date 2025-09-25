@@ -1,0 +1,9 @@
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@1.0.0-tc-20
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@1.0.0-tc-22
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@1.0.0-tc-23
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@1.0.0-tc-24
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@1.0.0-tc-28
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@1.0.0-tc-29
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@2.0.0
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@3.1.0
+- pkg:nuget/AspNetCore.ClassicBundles.TagHelpers@5.0.0

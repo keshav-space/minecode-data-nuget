@@ -1,0 +1,4 @@
+- pkg:nuget/cryptopp.v140.windesktop.dyn.rt-static@5.6.5.1
+- pkg:nuget/cryptopp.v140.windesktop.dyn.rt-static@5.6.5.2
+- pkg:nuget/cryptopp.v140.windesktop.dyn.rt-static@5.6.5.3
+- pkg:nuget/cryptopp.v140.windesktop.dyn.rt-static@5.6.5.4

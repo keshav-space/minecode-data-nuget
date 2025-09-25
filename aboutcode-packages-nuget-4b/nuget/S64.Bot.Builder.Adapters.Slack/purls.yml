@@ -1,0 +1,5 @@
+- pkg:nuget/S64.Bot.Builder.Adapters.Slack@0.0.0.1
+- pkg:nuget/S64.Bot.Builder.Adapters.Slack@1.0.0
+- pkg:nuget/S64.Bot.Builder.Adapters.Slack@1.1.0
+- pkg:nuget/S64.Bot.Builder.Adapters.Slack@1.2.0
+- pkg:nuget/S64.Bot.Builder.Adapters.Slack@1.3.0

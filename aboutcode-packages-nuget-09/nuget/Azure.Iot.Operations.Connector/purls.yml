@@ -1,0 +1,7 @@
+- pkg:nuget/Azure.Iot.Operations.Connector@0.10.5-akri
+- pkg:nuget/Azure.Iot.Operations.Connector@0.10.6-akri
+- pkg:nuget/Azure.Iot.Operations.Connector@0.10.7-akri
+- pkg:nuget/Azure.Iot.Operations.Connector@0.10.8-akri
+- pkg:nuget/Azure.Iot.Operations.Connector@0.10.9-akri
+- pkg:nuget/Azure.Iot.Operations.Connector@0.11.0
+- pkg:nuget/Azure.Iot.Operations.Connector@0.12.0

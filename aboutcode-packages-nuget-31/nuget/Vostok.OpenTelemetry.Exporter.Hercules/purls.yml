@@ -1,0 +1,12 @@
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@0.1.0
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@0.1.1-pre000018
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@0.1.1-pre000019
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.0
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.1
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.1-pre000026
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.2
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.2-pre000029
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.3
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.4
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.5
+- pkg:nuget/Vostok.OpenTelemetry.Exporter.Hercules@1.0.6

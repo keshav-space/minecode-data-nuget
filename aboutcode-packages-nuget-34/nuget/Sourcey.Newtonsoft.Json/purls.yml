@@ -1,0 +1,10 @@
+- pkg:nuget/Sourcey.Newtonsoft.Json@3.2.0
+- pkg:nuget/Sourcey.Newtonsoft.Json@3.2.1
+- pkg:nuget/Sourcey.Newtonsoft.Json@4.0.0
+- pkg:nuget/Sourcey.Newtonsoft.Json@5.0.0
+- pkg:nuget/Sourcey.Newtonsoft.Json@6.0.0
+- pkg:nuget/Sourcey.Newtonsoft.Json@7.0.0
+- pkg:nuget/Sourcey.Newtonsoft.Json@8.0.0
+- pkg:nuget/Sourcey.Newtonsoft.Json@8.1.0
+- pkg:nuget/Sourcey.Newtonsoft.Json@9.0.0
+- pkg:nuget/Sourcey.Newtonsoft.Json@9.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Misaka.DependencyInject.Autofac@0.0.1-Preview
+- pkg:nuget/Misaka.DependencyInject.Autofac@0.0.2-preview
+- pkg:nuget/Misaka.DependencyInject.Autofac@0.0.3-preview
+- pkg:nuget/Misaka.DependencyInject.Autofac@0.0.4-preview
+- pkg:nuget/Misaka.DependencyInject.Autofac@0.0.5-preview

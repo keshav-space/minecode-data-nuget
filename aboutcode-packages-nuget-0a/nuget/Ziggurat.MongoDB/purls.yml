@@ -1,0 +1,13 @@
+- pkg:nuget/Ziggurat.MongoDB@1.0.1-alfha
+- pkg:nuget/Ziggurat.MongoDB@1.0.1-alpha
+- pkg:nuget/Ziggurat.MongoDB@1.1.0
+- pkg:nuget/Ziggurat.MongoDB@7.0.0
+- pkg:nuget/Ziggurat.MongoDB@7.0.0-beta
+- pkg:nuget/Ziggurat.MongoDB@7.0.1
+- pkg:nuget/Ziggurat.MongoDB@8.0.0
+- pkg:nuget/Ziggurat.MongoDB@8.0.0-preview202405091
+- pkg:nuget/Ziggurat.MongoDB@8.0.1
+- pkg:nuget/Ziggurat.MongoDB@8.1.0
+- pkg:nuget/Ziggurat.MongoDB@8.1.1
+- pkg:nuget/Ziggurat.MongoDB@8.2.0
+- pkg:nuget/Ziggurat.MongoDB@8.2.1

@@ -1,0 +1,11 @@
+- pkg:nuget/PixelLab.Core@2.0.0
+- pkg:nuget/PixelLab.Core@3.0.0
+- pkg:nuget/PixelLab.Core@4.0.0
+- pkg:nuget/PixelLab.Core@4.0.0.1
+- pkg:nuget/PixelLab.Core@4.1.0
+- pkg:nuget/PixelLab.Core@5.0.0
+- pkg:nuget/PixelLab.Core@5.1.0
+- pkg:nuget/PixelLab.Core@5.2.0
+- pkg:nuget/PixelLab.Core@6.0.0
+- pkg:nuget/PixelLab.Core@6.0.1
+- pkg:nuget/PixelLab.Core@6.0.2

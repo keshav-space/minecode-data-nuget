@@ -1,0 +1,3 @@
+- pkg:nuget/SangAdv.Validation.AspNetCore@8.4.0.1
+- pkg:nuget/SangAdv.Validation.AspNetCore@8.5.0
+- pkg:nuget/SangAdv.Validation.AspNetCore@8.5.0.1

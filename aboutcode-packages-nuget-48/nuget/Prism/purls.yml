@@ -1,0 +1,5 @@
+- pkg:nuget/Prism@4.0.0
+- pkg:nuget/Prism@4.1.0
+- pkg:nuget/Prism@4.2.0-beta
+- pkg:nuget/Prism@5.0.0
+- pkg:nuget/Prism@5.7.0-pre3

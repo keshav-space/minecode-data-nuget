@@ -1,0 +1,8 @@
+- pkg:nuget/System.Runtime.Intrinsics.Experimental@4.5.0-preview2-26406-04
+- pkg:nuget/System.Runtime.Intrinsics.Experimental@4.5.0-rc1
+- pkg:nuget/System.Runtime.Intrinsics.Experimental@5.0.0-preview.1.20120.5
+- pkg:nuget/System.Runtime.Intrinsics.Experimental@5.0.0-preview.2.20160.6
+- pkg:nuget/System.Runtime.Intrinsics.Experimental@5.0.0-preview.3.20214.6
+- pkg:nuget/System.Runtime.Intrinsics.Experimental@5.0.0-preview.4.20251.6
+- pkg:nuget/System.Runtime.Intrinsics.Experimental@5.0.0-preview.5.20278.1
+- pkg:nuget/System.Runtime.Intrinsics.Experimental@5.0.0-preview.6.20305.6

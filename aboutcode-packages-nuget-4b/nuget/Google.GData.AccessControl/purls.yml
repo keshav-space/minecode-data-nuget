@@ -1,0 +1,5 @@
+- pkg:nuget/Google.GData.AccessControl@1.6.0
+- pkg:nuget/Google.GData.AccessControl@1.8.0
+- pkg:nuget/Google.GData.AccessControl@1.9.0
+- pkg:nuget/Google.GData.AccessControl@2.1.0
+- pkg:nuget/Google.GData.AccessControl@2.2.0

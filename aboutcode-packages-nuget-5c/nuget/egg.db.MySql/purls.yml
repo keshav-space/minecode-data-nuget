@@ -1,0 +1,4 @@
+- pkg:nuget/egg.db.MySql@1.0.2011.1
+- pkg:nuget/egg.db.MySql@1.0.2011.2
+- pkg:nuget/egg.db.MySql@12.1.2206.4
+- pkg:nuget/egg.db.MySql@6.0.2112.3
