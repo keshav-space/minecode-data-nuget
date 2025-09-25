@@ -1,0 +1,4 @@
+- pkg:nuget/CorrelatorSharp.ApplicationInsights@1.0.0
+- pkg:nuget/CorrelatorSharp.ApplicationInsights@1.0.1
+- pkg:nuget/CorrelatorSharp.ApplicationInsights@1.0.2
+- pkg:nuget/CorrelatorSharp.ApplicationInsights@1.1.0

@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.39.240427.1%2B54956d4
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.40.240501.1%2B3d7d1fd
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.50.240504.7%2B3cfeb3e
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.51.240513.2%2B512c15a
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.60.240517.1%2B8cc78e6
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.61.240519.2%2B237f486
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.61.240524.1%2B87575c4
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.62.240604.1%2B89fe8ff
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.62.240605.1%2Bf6bfbc1
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.63.240618.1%2Bc652260
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.64.240619.1%2B2a75bca
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.65.240620.1%2B788f253
+- pkg:nuget/Microsoft.KernelMemory.AI.TikToken@0.66.240709.1%2Bdf05cdb

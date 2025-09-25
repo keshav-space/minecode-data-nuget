@@ -1,0 +1,13 @@
+- pkg:nuget/ServerSideAnalytics.SqLite@1.0.0
+- pkg:nuget/ServerSideAnalytics.SqLite@2.0.0
+- pkg:nuget/ServerSideAnalytics.SqLite@4.0.0
+- pkg:nuget/ServerSideAnalytics.SqLite@4.2.0
+- pkg:nuget/ServerSideAnalytics.SqLite@4.2.1
+- pkg:nuget/ServerSideAnalytics.SqLite@4.2.4
+- pkg:nuget/ServerSideAnalytics.SqLite@4.2.5
+- pkg:nuget/ServerSideAnalytics.SqLite@4.3.5
+- pkg:nuget/ServerSideAnalytics.SqLite@4.4.0
+- pkg:nuget/ServerSideAnalytics.SqLite@5.0.0
+- pkg:nuget/ServerSideAnalytics.SqLite@5.1.2
+- pkg:nuget/ServerSideAnalytics.SqLite@5.2.0
+- pkg:nuget/ServerSideAnalytics.SqLite@6.0.0

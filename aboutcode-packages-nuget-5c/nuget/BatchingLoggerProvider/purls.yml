@@ -1,0 +1,4 @@
+- pkg:nuget/BatchingLoggerProvider@1.0.0
+- pkg:nuget/BatchingLoggerProvider@2.0.0
+- pkg:nuget/BatchingLoggerProvider@3.0.0
+- pkg:nuget/BatchingLoggerProvider@4.0.0

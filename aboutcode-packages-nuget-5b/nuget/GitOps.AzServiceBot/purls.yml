@@ -1,0 +1,4 @@
+- pkg:nuget/GitOps.AzServiceBot@0.1.11
+- pkg:nuget/GitOps.AzServiceBot@0.1.14-g429a76b311
+- pkg:nuget/GitOps.AzServiceBot@0.1.19-gbc26dab9e3
+- pkg:nuget/GitOps.AzServiceBot@0.1.21

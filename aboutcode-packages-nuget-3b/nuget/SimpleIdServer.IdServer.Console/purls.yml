@@ -1,0 +1,13 @@
+- pkg:nuget/SimpleIdServer.IdServer.Console@4.0.6
+- pkg:nuget/SimpleIdServer.IdServer.Console@4.0.7
+- pkg:nuget/SimpleIdServer.IdServer.Console@4.0.7-ci-00161
+- pkg:nuget/SimpleIdServer.IdServer.Console@4.0.7-ci-00162
+- pkg:nuget/SimpleIdServer.IdServer.Console@4.0.7-ci-00163
+- pkg:nuget/SimpleIdServer.IdServer.Console@4.0.7-ci-00164
+- pkg:nuget/SimpleIdServer.IdServer.Console@4.0.8
+- pkg:nuget/SimpleIdServer.IdServer.Console@5.0.0
+- pkg:nuget/SimpleIdServer.IdServer.Console@5.0.1
+- pkg:nuget/SimpleIdServer.IdServer.Console@5.0.1-ci-00250
+- pkg:nuget/SimpleIdServer.IdServer.Console@5.0.2
+- pkg:nuget/SimpleIdServer.IdServer.Console@5.0.3
+- pkg:nuget/SimpleIdServer.IdServer.Console@5.0.4-rc1

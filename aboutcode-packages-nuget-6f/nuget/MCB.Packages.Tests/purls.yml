@@ -1,0 +1,17 @@
+- pkg:nuget/MCB.Packages.Tests@1.0.0
+- pkg:nuget/MCB.Packages.Tests@1.0.1
+- pkg:nuget/MCB.Packages.Tests@1.0.2
+- pkg:nuget/MCB.Packages.Tests@1.0.3
+- pkg:nuget/MCB.Packages.Tests@2.0.0
+- pkg:nuget/MCB.Packages.Tests@2.1.0
+- pkg:nuget/MCB.Packages.Tests@2.2.0
+- pkg:nuget/MCB.Packages.Tests@2.2.1
+- pkg:nuget/MCB.Packages.Tests@3.0.0
+- pkg:nuget/MCB.Packages.Tests@3.0.1
+- pkg:nuget/MCB.Packages.Tests@3.1.0
+- pkg:nuget/MCB.Packages.Tests@3.2.0
+- pkg:nuget/MCB.Packages.Tests@4.0.0
+- pkg:nuget/MCB.Packages.Tests@5.0.0
+- pkg:nuget/MCB.Packages.Tests@5.0.1
+- pkg:nuget/MCB.Packages.Tests@5.3.0
+- pkg:nuget/MCB.Packages.Tests@5.4.0

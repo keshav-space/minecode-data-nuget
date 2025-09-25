@@ -1,0 +1,14 @@
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.1.0%2Bsha.90f434c
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.1.2%2Bsha.d3b650c
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.2.0%2Bsha.fc11d42
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.5.0%2Bsha.4d3cc15
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.5.1%2Bsha.f1fc053
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.6.0%2Bsha.06d35b5
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.7.0%2Bsha.54e1b5c
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.8.1%2Bsha.05c4ef1
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.9.0%2Bsha.c113578
+- pkg:nuget/PSPDFKit.dotnet.Android@2024.9.0.1%2Bsha.e6057e3
+- pkg:nuget/PSPDFKit.dotnet.Android@8.10.0%2Bsha.931726d
+- pkg:nuget/PSPDFKit.dotnet.Android@8.9.0%2Bsha.d33191d
+- pkg:nuget/PSPDFKit.dotnet.Android@8.9.1%2Bsha.278699c
+- pkg:nuget/PSPDFKit.dotnet.Android@8.9.1.1%2Bsha.cdc067c

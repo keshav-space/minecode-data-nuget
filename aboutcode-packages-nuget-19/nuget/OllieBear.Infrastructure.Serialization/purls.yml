@@ -1,0 +1,4 @@
+- pkg:nuget/OllieBear.Infrastructure.Serialization@1.0.0
+- pkg:nuget/OllieBear.Infrastructure.Serialization@1.0.1
+- pkg:nuget/OllieBear.Infrastructure.Serialization@1.0.2
+- pkg:nuget/OllieBear.Infrastructure.Serialization@2.0.0.2

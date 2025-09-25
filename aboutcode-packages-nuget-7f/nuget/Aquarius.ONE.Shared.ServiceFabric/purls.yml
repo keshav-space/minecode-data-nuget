@@ -1,0 +1,15 @@
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@0.1.0
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.0.0
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.0.0-AQI-5491
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.0.0-AQI-5491-8
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.0.0-AQI-5491-9
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.0.1
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.0.1-AQI-6639-1
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.1.0
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.1.1
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@1.1.1-AQI-8239-01
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@8.0.0
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@8.1.0-AQI-8682-1
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@8.2.0-AQI-8757-2
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@8.3.0
+- pkg:nuget/Aquarius.ONE.Shared.ServiceFabric@8.3.0-AQI-8688-1

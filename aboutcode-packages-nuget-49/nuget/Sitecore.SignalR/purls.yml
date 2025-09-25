@@ -1,0 +1,3 @@
+- pkg:nuget/Sitecore.SignalR@1.0.0
+- pkg:nuget/Sitecore.SignalR@2.0.0
+- pkg:nuget/Sitecore.SignalR@3.0.0

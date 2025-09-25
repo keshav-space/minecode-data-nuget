@@ -1,0 +1,4 @@
+- pkg:nuget/Lykke.Service.TradesAdapter.Contract@0.0.2-beta
+- pkg:nuget/Lykke.Service.TradesAdapter.Contract@0.0.3-beta
+- pkg:nuget/Lykke.Service.TradesAdapter.Contract@1.0.0
+- pkg:nuget/Lykke.Service.TradesAdapter.Contract@1.0.1

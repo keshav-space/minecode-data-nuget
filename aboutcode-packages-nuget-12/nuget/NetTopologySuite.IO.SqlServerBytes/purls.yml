@@ -1,0 +1,6 @@
+- pkg:nuget/NetTopologySuite.IO.SqlServerBytes@1.15.0
+- pkg:nuget/NetTopologySuite.IO.SqlServerBytes@1.15.0-pre001
+- pkg:nuget/NetTopologySuite.IO.SqlServerBytes@1.15.1
+- pkg:nuget/NetTopologySuite.IO.SqlServerBytes@2.0.0
+- pkg:nuget/NetTopologySuite.IO.SqlServerBytes@2.0.0-pre001
+- pkg:nuget/NetTopologySuite.IO.SqlServerBytes@2.1.0

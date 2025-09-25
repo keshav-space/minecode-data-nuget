@@ -1,0 +1,5 @@
+- pkg:nuget/Mvp24Hours.Infrastructure.Data.EFCore.SQLServer@2.11.241
+- pkg:nuget/Mvp24Hours.Infrastructure.Data.EFCore.SQLServer@2.12.101
+- pkg:nuget/Mvp24Hours.Infrastructure.Data.EFCore.SQLServer@2.12.102
+- pkg:nuget/Mvp24Hours.Infrastructure.Data.EFCore.SQLServer@2.12.291
+- pkg:nuget/Mvp24Hours.Infrastructure.Data.EFCore.SQLServer@2.12.71

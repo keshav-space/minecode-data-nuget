@@ -1,0 +1,4 @@
+- pkg:nuget/MixedBox.Extractor.Swagger.Core@0.0.1
+- pkg:nuget/MixedBox.Extractor.Swagger.Core@0.0.2
+- pkg:nuget/MixedBox.Extractor.Swagger.Core@0.0.3-alpha
+- pkg:nuget/MixedBox.Extractor.Swagger.Core@0.0.3.3-alpha

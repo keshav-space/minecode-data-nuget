@@ -1,0 +1,5 @@
+- pkg:nuget/Sonya.AspNetFramework.Episerver@1.0.0
+- pkg:nuget/Sonya.AspNetFramework.Episerver@2.0.0
+- pkg:nuget/Sonya.AspNetFramework.Episerver@3.0.0
+- pkg:nuget/Sonya.AspNetFramework.Episerver@4.0.0
+- pkg:nuget/Sonya.AspNetFramework.Episerver@5.0.0

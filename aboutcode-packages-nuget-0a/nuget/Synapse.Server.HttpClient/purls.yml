@@ -1,0 +1,14 @@
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17039-alpha
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17066-alpha
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17071-alpha
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17078-alpha
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17092-alpha
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17130-beta
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17137-beta
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17143-beta
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17155-beta
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17166-beta
+- pkg:nuget/Synapse.Server.HttpClient@0.1.17218-beta
+- pkg:nuget/Synapse.Server.HttpClient@1.0.18048
+- pkg:nuget/Synapse.Server.HttpClient@1.0.18154-pre
+- pkg:nuget/Synapse.Server.HttpClient@1.0.18291

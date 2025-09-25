@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Band.WindowsRuntime@1.0.0
+- pkg:nuget/Microsoft.Band.WindowsRuntime@1.1.0
+- pkg:nuget/Microsoft.Band.WindowsRuntime@1.2.0
+- pkg:nuget/Microsoft.Band.WindowsRuntime@1.3.0

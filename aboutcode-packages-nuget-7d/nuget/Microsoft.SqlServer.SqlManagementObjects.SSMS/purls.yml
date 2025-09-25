@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.40241.8-preview
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.41011.9
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.41981.14-preview
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.42121.15-preview
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.44091.28
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.45071.34
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.46041.41
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.46367.54
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.46437.65
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.46521.71
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.47008.0
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.47021.0
+- pkg:nuget/Microsoft.SqlServer.SqlManagementObjects.SSMS@161.47027.0

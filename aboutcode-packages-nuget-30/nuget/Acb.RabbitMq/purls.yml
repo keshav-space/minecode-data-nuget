@@ -1,0 +1,4 @@
+- pkg:nuget/Acb.RabbitMq@1.6.7
+- pkg:nuget/Acb.RabbitMq@1.6.8
+- pkg:nuget/Acb.RabbitMq@1.8.0
+- pkg:nuget/Acb.RabbitMq@1.8.1

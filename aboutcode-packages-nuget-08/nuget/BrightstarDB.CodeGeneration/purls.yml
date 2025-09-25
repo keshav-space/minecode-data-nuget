@@ -1,0 +1,9 @@
+- pkg:nuget/BrightstarDB.CodeGeneration@1.11.1
+- pkg:nuget/BrightstarDB.CodeGeneration@1.12.0
+- pkg:nuget/BrightstarDB.CodeGeneration@1.13.0
+- pkg:nuget/BrightstarDB.CodeGeneration@1.13.1
+- pkg:nuget/BrightstarDB.CodeGeneration@1.13.2
+- pkg:nuget/BrightstarDB.CodeGeneration@1.13.3
+- pkg:nuget/BrightstarDB.CodeGeneration@1.14.0-alpha0001
+- pkg:nuget/BrightstarDB.CodeGeneration@1.14.0-alpha0002
+- pkg:nuget/BrightstarDB.CodeGeneration@1.14.0-alpha0003

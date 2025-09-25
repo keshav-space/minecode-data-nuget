@@ -1,0 +1,4 @@
+- pkg:nuget/Configgy.Microsoft.Extensions.Configuration@1.0.1-beta03
+- pkg:nuget/Configgy.Microsoft.Extensions.Configuration@1.0.1-beta1
+- pkg:nuget/Configgy.Microsoft.Extensions.Configuration@1.0.1-beta2
+- pkg:nuget/Configgy.Microsoft.Extensions.Configuration@1.0.3

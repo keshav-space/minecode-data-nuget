@@ -1,0 +1,12 @@
+- pkg:nuget/ServerSideAnalytics.Mongo@1.0.0
+- pkg:nuget/ServerSideAnalytics.Mongo@2.0.0
+- pkg:nuget/ServerSideAnalytics.Mongo@4.0.0
+- pkg:nuget/ServerSideAnalytics.Mongo@4.2.0
+- pkg:nuget/ServerSideAnalytics.Mongo@4.2.1
+- pkg:nuget/ServerSideAnalytics.Mongo@4.2.4
+- pkg:nuget/ServerSideAnalytics.Mongo@4.3.4
+- pkg:nuget/ServerSideAnalytics.Mongo@4.4.0
+- pkg:nuget/ServerSideAnalytics.Mongo@5.0.0
+- pkg:nuget/ServerSideAnalytics.Mongo@5.1.2
+- pkg:nuget/ServerSideAnalytics.Mongo@5.2.0
+- pkg:nuget/ServerSideAnalytics.Mongo@6.0.0

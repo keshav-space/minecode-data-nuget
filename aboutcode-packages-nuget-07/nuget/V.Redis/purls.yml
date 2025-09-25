@@ -1,0 +1,6 @@
+- pkg:nuget/V.Redis@1.0.0
+- pkg:nuget/V.Redis@2.0.0
+- pkg:nuget/V.Redis@20.0.0
+- pkg:nuget/V.Redis@2019.10.18.1
+- pkg:nuget/V.Redis@21.0.6
+- pkg:nuget/V.Redis@3.0.0

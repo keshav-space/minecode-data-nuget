@@ -1,0 +1,14 @@
+- pkg:nuget/MACRIM.Identity@2.10.22
+- pkg:nuget/MACRIM.Identity@2.10.23
+- pkg:nuget/MACRIM.Identity@2.11.5-alpha
+- pkg:nuget/MACRIM.Identity@2.11.5-alpha-2
+- pkg:nuget/MACRIM.Identity@2.11.5-alpha-3
+- pkg:nuget/MACRIM.Identity@2.11.5-alpha-4
+- pkg:nuget/MACRIM.Identity@2.11.5-alpha-5
+- pkg:nuget/MACRIM.Identity@4.10.1-alpha-1
+- pkg:nuget/MACRIM.Identity@4.10.1-alpha-2
+- pkg:nuget/MACRIM.Identity@4.10.1-alpha-3
+- pkg:nuget/MACRIM.Identity@4.10.15
+- pkg:nuget/MACRIM.Identity@4.11.1
+- pkg:nuget/MACRIM.Identity@4.12.15
+- pkg:nuget/MACRIM.Identity@5.1.1

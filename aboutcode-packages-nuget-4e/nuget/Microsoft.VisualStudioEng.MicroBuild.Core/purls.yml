@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.VisualStudioEng.MicroBuild.Core@0.4.0
+- pkg:nuget/Microsoft.VisualStudioEng.MicroBuild.Core@0.4.1
+- pkg:nuget/Microsoft.VisualStudioEng.MicroBuild.Core@1.0.0

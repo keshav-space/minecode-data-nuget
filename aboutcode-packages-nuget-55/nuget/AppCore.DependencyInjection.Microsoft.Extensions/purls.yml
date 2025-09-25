@@ -1,0 +1,2 @@
+- pkg:nuget/AppCore.DependencyInjection.Microsoft.Extensions@0.1.1
+- pkg:nuget/AppCore.DependencyInjection.Microsoft.Extensions@0.2.0

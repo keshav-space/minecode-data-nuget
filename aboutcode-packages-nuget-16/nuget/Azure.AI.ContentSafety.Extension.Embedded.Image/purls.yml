@@ -1,0 +1,10 @@
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@0.0.2-dev-20240908.2
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@0.0.2-dev-20240909.1
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@0.0.2-dev-20240909.2
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@0.0.2-dev-20240910.1
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@0.0.2-preview
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@0.0.3-dev-20240910-1
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@1.0.1-beta.1
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@1.0.1-beta.2
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@1.0.1-beta.3
+- pkg:nuget/Azure.AI.ContentSafety.Extension.Embedded.Image@1.0.1-beta.4

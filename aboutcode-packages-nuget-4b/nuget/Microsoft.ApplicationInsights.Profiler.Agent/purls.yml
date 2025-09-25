@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent@1.0.41012-alpha
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent@1.0.41025-alpha
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent@1.0.41109-alpha
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent@1.0.41115-alpha
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent@1.0.50120-alpha
+- pkg:nuget/Microsoft.ApplicationInsights.Profiler.Agent@1.0.50214-alpha

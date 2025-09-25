@@ -1,0 +1,10 @@
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@1.0.0
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@1.0.1
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@1.1.0
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@2.0.0
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@2.0.1
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@2.0.2
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@3.0.0
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@5.0.0
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@6.0.0
+- pkg:nuget/Collector.Serilog.Sinks.AzureEventHub@6.0.1

@@ -1,0 +1,10 @@
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@1.4.2
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@2.0.0
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@2.0.1
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@2.0.2
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@2.1.0
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@2.1.1
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@2.1.2
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@2.1.3
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@2.1.4
+- pkg:nuget/jjm.one.Serilog.Sinks.SlackWebHook@3.0.0-alpha.1

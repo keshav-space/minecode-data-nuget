@@ -1,0 +1,17 @@
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.10-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.11-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.12-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.13-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.14-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.15-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.16-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.17-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.22
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.6-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.7-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.8-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.0.9-dotnetcore
+- pkg:nuget/Mojio.Platform.SDK.Live@1.1.0
+- pkg:nuget/Mojio.Platform.SDK.Live@1.2.0
+- pkg:nuget/Mojio.Platform.SDK.Live@1.2.1
+- pkg:nuget/Mojio.Platform.SDK.Live@1.3.0

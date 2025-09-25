@@ -1,0 +1,10 @@
+- pkg:nuget/PostgreHelper.NetCore@0.0.0.10
+- pkg:nuget/PostgreHelper.NetCore@0.0.0.6
+- pkg:nuget/PostgreHelper.NetCore@0.0.0.7
+- pkg:nuget/PostgreHelper.NetCore@0.0.0.8
+- pkg:nuget/PostgreHelper.NetCore@0.0.0.9
+- pkg:nuget/PostgreHelper.NetCore@0.1.1
+- pkg:nuget/PostgreHelper.NetCore@0.1.1.1
+- pkg:nuget/PostgreHelper.NetCore@0.2.0
+- pkg:nuget/PostgreHelper.NetCore@0.3.0
+- pkg:nuget/PostgreHelper.NetCore@0.4.0

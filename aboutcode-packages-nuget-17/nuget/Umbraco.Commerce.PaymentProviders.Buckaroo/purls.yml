@@ -1,0 +1,8 @@
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Buckaroo@13.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Buckaroo@13.1.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Buckaroo@14.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Buckaroo@14.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Buckaroo@15.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Buckaroo@15.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Buckaroo@16.0.0
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Buckaroo@16.0.0-rc1

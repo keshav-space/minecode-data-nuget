@@ -1,0 +1,5 @@
+- pkg:nuget/Command@2.0.3
+- pkg:nuget/Command@3.0.3
+- pkg:nuget/Command@4.0.0
+- pkg:nuget/Command@4.0.1
+- pkg:nuget/Command@4.0.2

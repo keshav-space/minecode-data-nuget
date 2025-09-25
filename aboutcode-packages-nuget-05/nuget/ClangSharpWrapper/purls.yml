@@ -1,0 +1,7 @@
+- pkg:nuget/ClangSharpWrapper@0.20.0
+- pkg:nuget/ClangSharpWrapper@0.20.2
+- pkg:nuget/ClangSharpWrapper@0.21.0
+- pkg:nuget/ClangSharpWrapper@0.22.0
+- pkg:nuget/ClangSharpWrapper@0.23.0
+- pkg:nuget/ClangSharpWrapper@0.24.0
+- pkg:nuget/ClangSharpWrapper@0.25.1

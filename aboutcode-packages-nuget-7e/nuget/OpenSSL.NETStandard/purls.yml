@@ -1,0 +1,2 @@
+- pkg:nuget/OpenSSL.NETStandard@0.6.1
+- pkg:nuget/OpenSSL.NETStandard@0.61.0

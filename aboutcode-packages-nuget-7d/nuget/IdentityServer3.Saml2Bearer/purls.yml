@@ -1,0 +1,3 @@
+- pkg:nuget/IdentityServer3.Saml2Bearer@0.0.1
+- pkg:nuget/IdentityServer3.Saml2Bearer@0.0.2
+- pkg:nuget/IdentityServer3.Saml2Bearer@0.0.3

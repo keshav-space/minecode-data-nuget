@@ -1,0 +1,17 @@
+- pkg:nuget/FireSharp@1.0.0
+- pkg:nuget/FireSharp@1.0.1
+- pkg:nuget/FireSharp@1.1.0
+- pkg:nuget/FireSharp@2.0.0
+- pkg:nuget/FireSharp@2.0.0-alpha
+- pkg:nuget/FireSharp@2.0.0-beta1
+- pkg:nuget/FireSharp@2.0.0-beta2
+- pkg:nuget/FireSharp@2.0.0-beta3
+- pkg:nuget/FireSharp@2.0.1
+- pkg:nuget/FireSharp@2.0.1-beta1
+- pkg:nuget/FireSharp@2.0.1-beta2
+- pkg:nuget/FireSharp@2.0.1-beta3
+- pkg:nuget/FireSharp@2.0.1-beta4
+- pkg:nuget/FireSharp@2.0.1-beta5
+- pkg:nuget/FireSharp@2.0.2
+- pkg:nuget/FireSharp@2.0.3
+- pkg:nuget/FireSharp@2.0.4

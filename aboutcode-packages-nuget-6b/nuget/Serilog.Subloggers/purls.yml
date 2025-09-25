@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Subloggers@1.0.0
+- pkg:nuget/Serilog.Subloggers@1.1.0
+- pkg:nuget/Serilog.Subloggers@1.2.0
+- pkg:nuget/Serilog.Subloggers@1.3.0-alpha1

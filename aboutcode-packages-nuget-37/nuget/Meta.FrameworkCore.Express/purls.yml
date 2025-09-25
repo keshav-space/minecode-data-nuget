@@ -1,0 +1,5 @@
+- pkg:nuget/Meta.FrameworkCore.Express@1.0.0
+- pkg:nuget/Meta.FrameworkCore.Express@1.1.0
+- pkg:nuget/Meta.FrameworkCore.Express@3.0.0
+- pkg:nuget/Meta.FrameworkCore.Express@3.0.1
+- pkg:nuget/Meta.FrameworkCore.Express@6.0.0

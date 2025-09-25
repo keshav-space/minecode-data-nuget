@@ -1,0 +1,9 @@
+- pkg:nuget/MongoDB.Messaging@1.0.0.2
+- pkg:nuget/MongoDB.Messaging@1.1.0.7
+- pkg:nuget/MongoDB.Messaging@1.1.0.8
+- pkg:nuget/MongoDB.Messaging@1.2.0.10
+- pkg:nuget/MongoDB.Messaging@1.2.0.9
+- pkg:nuget/MongoDB.Messaging@1.5.0.17
+- pkg:nuget/MongoDB.Messaging@1.6.0.23
+- pkg:nuget/MongoDB.Messaging@2.0.0.27
+- pkg:nuget/MongoDB.Messaging@2.0.0.28

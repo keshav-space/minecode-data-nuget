@@ -1,0 +1,12 @@
+- pkg:nuget/Cake.Mage@0.1.0-ci0005
+- pkg:nuget/Cake.Mage@0.1.0-ci0007
+- pkg:nuget/Cake.Mage@0.2.0
+- pkg:nuget/Cake.Mage@0.2.0-ci0009
+- pkg:nuget/Cake.Mage@0.3.0
+- pkg:nuget/Cake.Mage@0.4.0
+- pkg:nuget/Cake.Mage@0.5.0
+- pkg:nuget/Cake.Mage@0.6.0
+- pkg:nuget/Cake.Mage@0.6.1
+- pkg:nuget/Cake.Mage@1.0.0
+- pkg:nuget/Cake.Mage@1.1.0
+- pkg:nuget/Cake.Mage@2.0.0

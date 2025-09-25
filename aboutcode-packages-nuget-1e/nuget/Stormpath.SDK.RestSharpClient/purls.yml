@@ -1,0 +1,16 @@
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.1.0
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.1.0-rc
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.2.0
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.3.0
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.4.0
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.5.0
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.5.1
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.6.0-beta1
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.6.2
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.7.0
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.9.0
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.9.1
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.91.0
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.91.1
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.91.2-beta1
+- pkg:nuget/Stormpath.SDK.RestSharpClient@0.94.0

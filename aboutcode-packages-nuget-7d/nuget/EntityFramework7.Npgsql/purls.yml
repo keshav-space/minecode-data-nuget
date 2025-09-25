@@ -1,0 +1,7 @@
+- pkg:nuget/EntityFramework7.Npgsql@0.0.1
+- pkg:nuget/EntityFramework7.Npgsql@3.1.0-beta7-1
+- pkg:nuget/EntityFramework7.Npgsql@3.1.0-beta8-1
+- pkg:nuget/EntityFramework7.Npgsql@3.1.0-beta8-2
+- pkg:nuget/EntityFramework7.Npgsql@3.1.0-rc1-1
+- pkg:nuget/EntityFramework7.Npgsql@3.1.0-rc1-2
+- pkg:nuget/EntityFramework7.Npgsql@3.1.0-rc1-3

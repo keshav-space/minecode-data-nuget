@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.DotNet.Interactive.PostgreSql@1.0.0-beta.25070.1
+- pkg:nuget/Microsoft.DotNet.Interactive.PostgreSql@1.0.0-beta.25110.2
+- pkg:nuget/Microsoft.DotNet.Interactive.PostgreSql@1.0.0-beta.25160.1
+- pkg:nuget/Microsoft.DotNet.Interactive.PostgreSql@1.0.0-beta.25177.1
+- pkg:nuget/Microsoft.DotNet.Interactive.PostgreSql@1.0.0-beta.25323.1

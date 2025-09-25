@@ -1,0 +1,4 @@
+- pkg:nuget/FluentNHibernate.Net35@1.5.1
+- pkg:nuget/FluentNHibernate.Net35@1.5.1-alpha
+- pkg:nuget/FluentNHibernate.Net35@1.5.2
+- pkg:nuget/FluentNHibernate.Net35@1.5.3
