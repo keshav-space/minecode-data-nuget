@@ -1,0 +1,5 @@
+- pkg:nuget/BuildWebCompiler-none-elevated@2021.8.23
+- pkg:nuget/BuildWebCompiler-none-elevated@2021.8.24
+- pkg:nuget/BuildWebCompiler-none-elevated@2022.3.17
+- pkg:nuget/BuildWebCompiler-none-elevated@2022.3.18
+- pkg:nuget/BuildWebCompiler-none-elevated@21.8.23

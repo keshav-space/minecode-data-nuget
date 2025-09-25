@@ -1,0 +1,6 @@
+- pkg:nuget/TomlConfig@0.8.0
+- pkg:nuget/TomlConfig@1.0.0-ci0038
+- pkg:nuget/TomlConfig@1.0.1
+- pkg:nuget/TomlConfig@1.0.3
+- pkg:nuget/TomlConfig@1.1.0
+- pkg:nuget/TomlConfig@1.2.0

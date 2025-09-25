@@ -1,0 +1,15 @@
+- pkg:nuget/NullGC.Linq@0.1.0-gha-test0001
+- pkg:nuget/NullGC.Linq@0.1.1
+- pkg:nuget/NullGC.Linq@0.1.1-alpha0022
+- pkg:nuget/NullGC.Linq@0.1.1-gha-test0001
+- pkg:nuget/NullGC.Linq@0.2.0
+- pkg:nuget/NullGC.Linq@0.3.0
+- pkg:nuget/NullGC.Linq@0.3.1
+- pkg:nuget/NullGC.Linq@0.4.0
+- pkg:nuget/NullGC.Linq@0.5.1
+- pkg:nuget/NullGC.Linq@0.6.1
+- pkg:nuget/NullGC.Linq@0.6.3
+- pkg:nuget/NullGC.Linq@0.6.4
+- pkg:nuget/NullGC.Linq@0.6.5
+- pkg:nuget/NullGC.Linq@0.6.6
+- pkg:nuget/NullGC.Linq@0.6.7

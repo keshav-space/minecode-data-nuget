@@ -1,0 +1,7 @@
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Background@0.1.0
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Background@0.1.1
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Background@0.2.2
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Background@0.3.2
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Background@1.0.1
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Background@2.0.0
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Background@2.0.1

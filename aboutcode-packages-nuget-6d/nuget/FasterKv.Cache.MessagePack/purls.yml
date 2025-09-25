@@ -1,0 +1,8 @@
+- pkg:nuget/FasterKv.Cache.MessagePack@1.0.0
+- pkg:nuget/FasterKv.Cache.MessagePack@1.0.0-rc1
+- pkg:nuget/FasterKv.Cache.MessagePack@1.0.0-rc2
+- pkg:nuget/FasterKv.Cache.MessagePack@1.0.1
+- pkg:nuget/FasterKv.Cache.MessagePack@1.0.1-rc1
+- pkg:nuget/FasterKv.Cache.MessagePack@1.0.2
+- pkg:nuget/FasterKv.Cache.MessagePack@1.0.2-rc1
+- pkg:nuget/FasterKv.Cache.MessagePack@1.0.2-rc2

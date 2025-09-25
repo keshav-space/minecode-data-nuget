@@ -1,0 +1,5 @@
+- pkg:nuget/Lussatite.FeatureManagement.SessionManagers.SqlClient@1.5.0
+- pkg:nuget/Lussatite.FeatureManagement.SessionManagers.SqlClient@1.6.0
+- pkg:nuget/Lussatite.FeatureManagement.SessionManagers.SqlClient@1.6.1
+- pkg:nuget/Lussatite.FeatureManagement.SessionManagers.SqlClient@1.6.2
+- pkg:nuget/Lussatite.FeatureManagement.SessionManagers.SqlClient@1.6.3

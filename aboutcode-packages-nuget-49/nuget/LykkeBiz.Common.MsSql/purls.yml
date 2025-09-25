@@ -1,0 +1,14 @@
+- pkg:nuget/LykkeBiz.Common.MsSql@3.0.0
+- pkg:nuget/LykkeBiz.Common.MsSql@3.0.1
+- pkg:nuget/LykkeBiz.Common.MsSql@4.0.1
+- pkg:nuget/LykkeBiz.Common.MsSql@4.0.2
+- pkg:nuget/LykkeBiz.Common.MsSql@4.0.3
+- pkg:nuget/LykkeBiz.Common.MsSql@4.0.5
+- pkg:nuget/LykkeBiz.Common.MsSql@4.0.6
+- pkg:nuget/LykkeBiz.Common.MsSql@4.0.7
+- pkg:nuget/LykkeBiz.Common.MsSql@4.0.9
+- pkg:nuget/LykkeBiz.Common.MsSql@4.1.0
+- pkg:nuget/LykkeBiz.Common.MsSql@4.2.1
+- pkg:nuget/LykkeBiz.Common.MsSql@4.2.2
+- pkg:nuget/LykkeBiz.Common.MsSql@4.3.0
+- pkg:nuget/LykkeBiz.Common.MsSql@5.0.2

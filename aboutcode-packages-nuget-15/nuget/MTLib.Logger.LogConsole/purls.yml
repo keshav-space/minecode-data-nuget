@@ -1,0 +1,6 @@
+- pkg:nuget/MTLib.Logger.LogConsole@3.0.0
+- pkg:nuget/MTLib.Logger.LogConsole@3.0.1
+- pkg:nuget/MTLib.Logger.LogConsole@5.0.0
+- pkg:nuget/MTLib.Logger.LogConsole@5.0.1
+- pkg:nuget/MTLib.Logger.LogConsole@6.0.0
+- pkg:nuget/MTLib.Logger.LogConsole@6.0.2

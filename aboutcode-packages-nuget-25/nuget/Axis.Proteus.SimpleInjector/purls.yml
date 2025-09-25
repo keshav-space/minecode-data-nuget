@@ -1,0 +1,14 @@
+- pkg:nuget/Axis.Proteus.SimpleInjector@1.0.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@1.0.0-pre-20180115-47621894
+- pkg:nuget/Axis.Proteus.SimpleInjector@1.0.2
+- pkg:nuget/Axis.Proteus.SimpleInjector@4.0.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@4.1.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@5.0.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@6.0.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@6.1.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@6.1.1
+- pkg:nuget/Axis.Proteus.SimpleInjector@6.2.1
+- pkg:nuget/Axis.Proteus.SimpleInjector@7.0.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@7.1.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@8.0.0
+- pkg:nuget/Axis.Proteus.SimpleInjector@8.0.1

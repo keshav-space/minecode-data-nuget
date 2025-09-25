@@ -1,0 +1,4 @@
+- pkg:nuget/NScribe.RaaS.Client.Microsoft.Extensions.DependencyInjection@1.0.740.771-beta
+- pkg:nuget/NScribe.RaaS.Client.Microsoft.Extensions.DependencyInjection@1.0.752.783-beta
+- pkg:nuget/NScribe.RaaS.Client.Microsoft.Extensions.DependencyInjection@1.0.759.790-beta
+- pkg:nuget/NScribe.RaaS.Client.Microsoft.Extensions.DependencyInjection@1.0.769.800-beta

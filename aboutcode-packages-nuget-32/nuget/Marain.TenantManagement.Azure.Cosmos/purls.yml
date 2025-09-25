@@ -1,0 +1,10 @@
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@2.3.7-297-modern.27
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@3.0.0
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@3.0.0-297-modern.29
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@3.0.0-297-modern.42
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@3.0.0-PullRequest0322.100
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@3.1.0
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@3.1.1
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@3.1.1-restore-v2-configuration-key-prefix-behaviour.13
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@3.1.2
+- pkg:nuget/Marain.TenantManagement.Azure.Cosmos@4.0.0-system-text-json.7

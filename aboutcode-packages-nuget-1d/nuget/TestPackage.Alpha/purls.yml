@@ -1,0 +1,2 @@
+- pkg:nuget/TestPackage.Alpha@1.0.0-alpha-2
+- pkg:nuget/TestPackage.Alpha@2.0.1-alpha

@@ -1,0 +1,5 @@
+- pkg:nuget/OpenTKAnalyzer@0.0.15
+- pkg:nuget/OpenTKAnalyzer@0.0.16
+- pkg:nuget/OpenTKAnalyzer@0.1.0-alpha
+- pkg:nuget/OpenTKAnalyzer@0.1.1-alpha
+- pkg:nuget/OpenTKAnalyzer@0.2.0-alpha

@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Deployment.Common@1.0.0
+- pkg:nuget/Microsoft.Deployment.Common@1.0.1-dev
+- pkg:nuget/Microsoft.Deployment.Common@1.0.2-dev
+- pkg:nuget/Microsoft.Deployment.Common@1.1.1.31-dev
+- pkg:nuget/Microsoft.Deployment.Common@1.1.1.32-dev
+- pkg:nuget/Microsoft.Deployment.Common@1.1.1.33-dev
+- pkg:nuget/Microsoft.Deployment.Common@1.1.1.43-dev
+- pkg:nuget/Microsoft.Deployment.Common@1.1.1.44-dev
+- pkg:nuget/Microsoft.Deployment.Common@1.1.45-dev
+- pkg:nuget/Microsoft.Deployment.Common@1.1.46-dev

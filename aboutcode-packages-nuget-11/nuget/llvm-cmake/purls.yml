@@ -1,0 +1,3 @@
+- pkg:nuget/llvm-cmake@3.9.0
+- pkg:nuget/llvm-cmake@3.9.0.1
+- pkg:nuget/llvm-cmake@6.0.0.1

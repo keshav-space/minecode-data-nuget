@@ -1,0 +1,4 @@
+- pkg:nuget/Muflone.Transport.RabbitMQ.Saga@6.2.0
+- pkg:nuget/Muflone.Transport.RabbitMQ.Saga@6.2.1
+- pkg:nuget/Muflone.Transport.RabbitMQ.Saga@8.0.0
+- pkg:nuget/Muflone.Transport.RabbitMQ.Saga@8.0.1

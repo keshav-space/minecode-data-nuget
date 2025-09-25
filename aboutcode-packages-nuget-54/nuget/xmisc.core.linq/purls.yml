@@ -1,0 +1,11 @@
+- pkg:nuget/xmisc.core.linq@2.0.13-alpha
+- pkg:nuget/xmisc.core.linq@2.0.28-alpha
+- pkg:nuget/xmisc.core.linq@4.0.25-alpha
+- pkg:nuget/xmisc.core.linq@4.0.29-alpha
+- pkg:nuget/xmisc.core.linq@4.0.30-alpha
+- pkg:nuget/xmisc.core.linq@4.0.55-alpha
+- pkg:nuget/xmisc.core.linq@4.0.70-alpha
+- pkg:nuget/xmisc.core.linq@4.1.17-beta
+- pkg:nuget/xmisc.core.linq@6.0.2
+- pkg:nuget/xmisc.core.linq@8.2.5
+- pkg:nuget/xmisc.core.linq@9.0.6

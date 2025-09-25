@@ -1,0 +1,15 @@
+- pkg:nuget/ComputeSharp.D2D1.WinUI@2.1.0%2B36155e12707b959c15b0e11089aa44eae24ad006
+- pkg:nuget/ComputeSharp.D2D1.WinUI@2.1.0-preview1%2Bd58430e73f69d01a33e6ba660f6ad3f2f64f3ad2
+- pkg:nuget/ComputeSharp.D2D1.WinUI@2.1.0-preview2%2B62c34b369a4b8a94113cf3de6c4ebf9a56eda0e3
+- pkg:nuget/ComputeSharp.D2D1.WinUI@2.1.0-preview3%2B1d6fdb1f86600674da6a6e77b40df0a5ee80e4e3
+- pkg:nuget/ComputeSharp.D2D1.WinUI@2.2.0-preview1%2Be188ef3ae0ca91f35d8e2c7b57ccbd4e3802c58e
+- pkg:nuget/ComputeSharp.D2D1.WinUI@2.2.0-preview2%2B6b272ca2c2ddc4080d46a5bdbb6491e97ad7899a
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.0.0%2Bce70b9db1c7d4f2053e9be5a3eb7b295afdc3ff9
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.0.0-preview1%2B87e7b01f7ca90761e7d32872eda7c155a93524bd
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.0.0-preview2%2B2f6ab50b9ef0bd2d24c4370165d4144793a68c62
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.0.1%2B98961f8cdcf9c8b11b4b08019c105a6996c2cc9e
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.1.0%2B120aff270539996ef9fc52fe46561d12da0b89d4
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.1.0-preview1%2B57f0a9b583f64f2a22978aab5afac4482fa0f94b
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.1.0-preview2%2B0eb658325c450871aee2e06cb076fa6a5e0d5a46
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.1.1%2B2e62cc358c3babdc50257e23c60569e148166e31
+- pkg:nuget/ComputeSharp.D2D1.WinUI@3.2.0%2B9a7c9e0c755bf68447f7293e5729547750fe6be3

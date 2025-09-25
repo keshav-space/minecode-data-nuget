@@ -1,0 +1,4 @@
+- pkg:nuget/BuknSS.AspNet.Security.OAuth.Alipay@1.0.0
+- pkg:nuget/BuknSS.AspNet.Security.OAuth.Alipay@8.0.0
+- pkg:nuget/BuknSS.AspNet.Security.OAuth.Alipay@8.2.1-dev
+- pkg:nuget/BuknSS.AspNet.Security.OAuth.Alipay@8.2.2-dev

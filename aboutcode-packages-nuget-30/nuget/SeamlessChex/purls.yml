@@ -1,0 +1,8 @@
+- pkg:nuget/SeamlessChex@1.0.0%2Bbuild.3
+- pkg:nuget/SeamlessChex@1.0.1%2Bbuild.5
+- pkg:nuget/SeamlessChex@1.0.2%2Bbuild.7
+- pkg:nuget/SeamlessChex@1.0.3%2Bbuild.9
+- pkg:nuget/SeamlessChex@1.0.4%2Bbuild.11
+- pkg:nuget/SeamlessChex@1.0.5%2Bbuild.13
+- pkg:nuget/SeamlessChex@1.0.6%2Bbuild.15
+- pkg:nuget/SeamlessChex@1.0.8%2Bbuild.21

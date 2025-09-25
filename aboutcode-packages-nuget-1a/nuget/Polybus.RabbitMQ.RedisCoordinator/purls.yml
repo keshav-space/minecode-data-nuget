@@ -1,0 +1,3 @@
+- pkg:nuget/Polybus.RabbitMQ.RedisCoordinator@1.0.0
+- pkg:nuget/Polybus.RabbitMQ.RedisCoordinator@1.0.1
+- pkg:nuget/Polybus.RabbitMQ.RedisCoordinator@2.0.0

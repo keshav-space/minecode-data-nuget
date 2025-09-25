@@ -1,0 +1,17 @@
+- pkg:nuget/CExtensions.EntityFramework@1.0.0
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00000
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00007
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00017
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00021
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00022
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00023
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00024
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00030
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00032
+- pkg:nuget/CExtensions.EntityFramework@1.1.0-CI00033
+- pkg:nuget/CExtensions.EntityFramework@1.1.1
+- pkg:nuget/CExtensions.EntityFramework@1.1.2
+- pkg:nuget/CExtensions.EntityFramework@1.1.3
+- pkg:nuget/CExtensions.EntityFramework@1.1.5
+- pkg:nuget/CExtensions.EntityFramework@1.1.8
+- pkg:nuget/CExtensions.EntityFramework@1.1.9

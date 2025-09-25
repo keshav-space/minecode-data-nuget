@@ -1,0 +1,5 @@
+- pkg:nuget/WeChatSDK@1.8.0
+- pkg:nuget/WeChatSDK@1.9.0
+- pkg:nuget/WeChatSDK@2.0.0
+- pkg:nuget/WeChatSDK@2.0.1
+- pkg:nuget/WeChatSDK@2.0.2

@@ -1,0 +1,8 @@
+- pkg:nuget/Synnotech.Linq2Db.MsSqlServer@1.0.0
+- pkg:nuget/Synnotech.Linq2Db.MsSqlServer@2.0.0
+- pkg:nuget/Synnotech.Linq2Db.MsSqlServer@3.0.0
+- pkg:nuget/Synnotech.Linq2Db.MsSqlServer@4.0.0
+- pkg:nuget/Synnotech.Linq2Db.MsSqlServer@4.1.0
+- pkg:nuget/Synnotech.Linq2Db.MsSqlServer@5.0.0
+- pkg:nuget/Synnotech.Linq2Db.MsSqlServer@6.0.0
+- pkg:nuget/Synnotech.Linq2Db.MsSqlServer@7.0.0

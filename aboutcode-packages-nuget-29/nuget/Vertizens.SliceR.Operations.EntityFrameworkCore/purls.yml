@@ -1,0 +1,14 @@
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.0.0-alpha.0.1
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.2.0-rc.1
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.3.0-rc.1
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.3.0-rc.1.1
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.4.0-rc.1
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.4.0-rc.1.1
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.4.0-rc.1.2
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.4.0-rc.1.3
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.5.0-rc.1
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.5.0-rc.1.1
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.5.0-rc.1.2
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.5.0-rc.1.4
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@0.5.0-rc.1.5
+- pkg:nuget/Vertizens.SliceR.Operations.EntityFrameworkCore@1.0.0

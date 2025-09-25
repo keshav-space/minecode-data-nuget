@@ -1,0 +1,11 @@
+- pkg:nuget/Rebus.TransactionScopes@4.0.0
+- pkg:nuget/Rebus.TransactionScopes@4.0.0-b01
+- pkg:nuget/Rebus.TransactionScopes@4.0.0-b02
+- pkg:nuget/Rebus.TransactionScopes@4.0.1
+- pkg:nuget/Rebus.TransactionScopes@4.1.0
+- pkg:nuget/Rebus.TransactionScopes@4.1.1
+- pkg:nuget/Rebus.TransactionScopes@5.0.0-b1
+- pkg:nuget/Rebus.TransactionScopes@5.0.0-b2
+- pkg:nuget/Rebus.TransactionScopes@6.0.0
+- pkg:nuget/Rebus.TransactionScopes@7.0.0
+- pkg:nuget/Rebus.TransactionScopes@7.0.1

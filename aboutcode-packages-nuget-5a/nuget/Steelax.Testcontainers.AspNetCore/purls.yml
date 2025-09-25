@@ -1,0 +1,8 @@
+- pkg:nuget/Steelax.Testcontainers.AspNetCore@0.1.1
+- pkg:nuget/Steelax.Testcontainers.AspNetCore@0.2.0
+- pkg:nuget/Steelax.Testcontainers.AspNetCore@0.2.1
+- pkg:nuget/Steelax.Testcontainers.AspNetCore@1.0.1
+- pkg:nuget/Steelax.Testcontainers.AspNetCore@1.1.0
+- pkg:nuget/Steelax.Testcontainers.AspNetCore@4.0.0
+- pkg:nuget/Steelax.Testcontainers.AspNetCore@4.1.0
+- pkg:nuget/Steelax.Testcontainers.AspNetCore@4.3.0

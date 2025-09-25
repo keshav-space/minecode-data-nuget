@@ -1,0 +1,4 @@
+- pkg:nuget/Azrng.Core.NewtonsoftJson@1.0.0
+- pkg:nuget/Azrng.Core.NewtonsoftJson@1.1.0
+- pkg:nuget/Azrng.Core.NewtonsoftJson@1.1.1
+- pkg:nuget/Azrng.Core.NewtonsoftJson@1.2.0

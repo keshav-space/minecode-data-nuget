@@ -1,0 +1,6 @@
+- pkg:nuget/MTLib.Logger.Log4net@3.0.0
+- pkg:nuget/MTLib.Logger.Log4net@3.0.1
+- pkg:nuget/MTLib.Logger.Log4net@5.0.0
+- pkg:nuget/MTLib.Logger.Log4net@5.0.1
+- pkg:nuget/MTLib.Logger.Log4net@6.0.0
+- pkg:nuget/MTLib.Logger.Log4net@6.0.2

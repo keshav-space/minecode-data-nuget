@@ -1,0 +1,6 @@
+- pkg:nuget/JS.Abp.AddressBook.Domain.Shared@5.3.4
+- pkg:nuget/JS.Abp.AddressBook.Domain.Shared@6.0.1
+- pkg:nuget/JS.Abp.AddressBook.Domain.Shared@6.0.2
+- pkg:nuget/JS.Abp.AddressBook.Domain.Shared@7.0.0
+- pkg:nuget/JS.Abp.AddressBook.Domain.Shared@7.2.1
+- pkg:nuget/JS.Abp.AddressBook.Domain.Shared@7.3.0

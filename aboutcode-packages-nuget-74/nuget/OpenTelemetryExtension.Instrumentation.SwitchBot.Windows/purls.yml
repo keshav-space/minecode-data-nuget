@@ -1,0 +1,3 @@
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.SwitchBot.Windows@1.2.0
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.SwitchBot.Windows@1.3.0
+- pkg:nuget/OpenTelemetryExtension.Instrumentation.SwitchBot.Windows@1.4.0

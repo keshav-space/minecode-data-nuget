@@ -1,0 +1,13 @@
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@1.14.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@1.14.1
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@1.15.1
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.10.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.10.1
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.10.2
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.10.3
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.3.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.3.1
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.4.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.5.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.6.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Windows-GPU@2.7.0

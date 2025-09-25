@@ -1,0 +1,7 @@
+- pkg:nuget/JBlam.MavPipe@0.10.0-testing
+- pkg:nuget/JBlam.MavPipe@0.10.1-testing
+- pkg:nuget/JBlam.MavPipe@0.10.2-testing
+- pkg:nuget/JBlam.MavPipe@0.10.3-testing
+- pkg:nuget/JBlam.MavPipe@0.10.4-debug-bad-version
+- pkg:nuget/JBlam.MavPipe@0.10.4-debug-unexpected-extensions
+- pkg:nuget/JBlam.MavPipe@0.9.0-testing

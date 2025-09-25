@@ -1,0 +1,17 @@
+- pkg:nuget/Mustache.MSBuild@0.1.0
+- pkg:nuget/Mustache.MSBuild@0.1.0-preview4
+- pkg:nuget/Mustache.MSBuild@0.1.0-preview5
+- pkg:nuget/Mustache.MSBuild@0.1.0-preview6
+- pkg:nuget/Mustache.MSBuild@0.2.0
+- pkg:nuget/Mustache.MSBuild@0.2.0-preview-1
+- pkg:nuget/Mustache.MSBuild@0.2.0-preview-2
+- pkg:nuget/Mustache.MSBuild@0.2.0-preview-3
+- pkg:nuget/Mustache.MSBuild@0.2.0-preview-4
+- pkg:nuget/Mustache.MSBuild@0.3.1
+- pkg:nuget/Mustache.MSBuild@0.3.2
+- pkg:nuget/Mustache.MSBuild@0.3.2-preview1
+- pkg:nuget/Mustache.MSBuild@0.3.2-preview2
+- pkg:nuget/Mustache.MSBuild@0.3.2-preview3
+- pkg:nuget/Mustache.MSBuild@0.3.2-preview4
+- pkg:nuget/Mustache.MSBuild@0.3.3
+- pkg:nuget/Mustache.MSBuild@0.4.0

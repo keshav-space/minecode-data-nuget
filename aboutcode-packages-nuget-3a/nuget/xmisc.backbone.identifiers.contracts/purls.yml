@@ -1,0 +1,14 @@
+- pkg:nuget/xmisc.backbone.identifiers.contracts@10.0.1
+- pkg:nuget/xmisc.backbone.identifiers.contracts@2.0.15-alpha
+- pkg:nuget/xmisc.backbone.identifiers.contracts@2.0.18-alpha
+- pkg:nuget/xmisc.backbone.identifiers.contracts@2.0.32-alpha
+- pkg:nuget/xmisc.backbone.identifiers.contracts@4.0.4-alpha
+- pkg:nuget/xmisc.backbone.identifiers.contracts@4.1.0-beta
+- pkg:nuget/xmisc.backbone.identifiers.contracts@4.1.1-beta
+- pkg:nuget/xmisc.backbone.identifiers.contracts@4.1.10-beta
+- pkg:nuget/xmisc.backbone.identifiers.contracts@4.1.11-beta
+- pkg:nuget/xmisc.backbone.identifiers.contracts@4.1.2-beta
+- pkg:nuget/xmisc.backbone.identifiers.contracts@6.0.22
+- pkg:nuget/xmisc.backbone.identifiers.contracts@6.0.7
+- pkg:nuget/xmisc.backbone.identifiers.contracts@8.2.9
+- pkg:nuget/xmisc.backbone.identifiers.contracts@9.0.11

@@ -1,0 +1,6 @@
+- pkg:nuget/Redis.Net.Serializer.MsgPack@1.0.5
+- pkg:nuget/Redis.Net.Serializer.MsgPack@1.0.5-ci-20210201-0502
+- pkg:nuget/Redis.Net.Serializer.MsgPack@1.0.5-ci-20210201-0602
+- pkg:nuget/Redis.Net.Serializer.MsgPack@1.0.5-ci-20210201-0802
+- pkg:nuget/Redis.Net.Serializer.MsgPack@1.0.5-ci-20210203-0402
+- pkg:nuget/Redis.Net.Serializer.MsgPack@1.0.6

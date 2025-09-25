@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.Targets.Kinesis@1.0.0
+- pkg:nuget/NLog.Targets.Kinesis@1.0.0-CI00002

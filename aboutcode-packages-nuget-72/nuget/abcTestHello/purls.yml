@@ -1,0 +1,4 @@
+- pkg:nuget/abcTestHello@0.2.2-beta.0
+- pkg:nuget/abcTestHello@0.2.2-rc.0
+- pkg:nuget/abcTestHello@1.0.0
+- pkg:nuget/abcTestHello@2.0.1

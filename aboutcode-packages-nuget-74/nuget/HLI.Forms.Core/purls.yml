@@ -1,0 +1,4 @@
+- pkg:nuget/HLI.Forms.Core@1.0.0
+- pkg:nuget/HLI.Forms.Core@1.0.0-beta
+- pkg:nuget/HLI.Forms.Core@1.0.0-rc
+- pkg:nuget/HLI.Forms.Core@1.0.1

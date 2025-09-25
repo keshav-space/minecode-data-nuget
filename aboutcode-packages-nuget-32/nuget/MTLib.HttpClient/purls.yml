@@ -1,0 +1,7 @@
+- pkg:nuget/MTLib.HttpClient@3.0.0
+- pkg:nuget/MTLib.HttpClient@3.0.1
+- pkg:nuget/MTLib.HttpClient@3.0.2
+- pkg:nuget/MTLib.HttpClient@5.0.0
+- pkg:nuget/MTLib.HttpClient@5.0.1
+- pkg:nuget/MTLib.HttpClient@6.0.0
+- pkg:nuget/MTLib.HttpClient@6.0.2

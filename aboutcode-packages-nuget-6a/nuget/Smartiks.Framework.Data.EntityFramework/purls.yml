@@ -1,0 +1,4 @@
+- pkg:nuget/Smartiks.Framework.Data.EntityFramework@1.0.0
+- pkg:nuget/Smartiks.Framework.Data.EntityFramework@1.0.1
+- pkg:nuget/Smartiks.Framework.Data.EntityFramework@1.1.0
+- pkg:nuget/Smartiks.Framework.Data.EntityFramework@3.0.0

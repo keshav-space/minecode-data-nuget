@@ -1,0 +1,3 @@
+- pkg:nuget/ZBit.Aws.Sqs.Core@1.0.0
+- pkg:nuget/ZBit.Aws.Sqs.Core@1.0.1
+- pkg:nuget/ZBit.Aws.Sqs.Core@1.2.0

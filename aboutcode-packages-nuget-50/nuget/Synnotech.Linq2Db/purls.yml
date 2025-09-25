@@ -1,0 +1,6 @@
+- pkg:nuget/Synnotech.Linq2Db@3.0.0
+- pkg:nuget/Synnotech.Linq2Db@4.0.0
+- pkg:nuget/Synnotech.Linq2Db@4.1.0
+- pkg:nuget/Synnotech.Linq2Db@5.0.0
+- pkg:nuget/Synnotech.Linq2Db@6.0.0
+- pkg:nuget/Synnotech.Linq2Db@7.0.0

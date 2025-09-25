@@ -1,0 +1,5 @@
+- pkg:nuget/Disposable@0.0.0
+- pkg:nuget/Disposable@0.1.0-a
+- pkg:nuget/Disposable@0.1.0-b
+- pkg:nuget/Disposable@0.1.0-c
+- pkg:nuget/Disposable@0.1.0-d

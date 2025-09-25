@@ -1,0 +1,6 @@
+- pkg:nuget/MTLib.Tcp@3.0.0
+- pkg:nuget/MTLib.Tcp@3.0.1
+- pkg:nuget/MTLib.Tcp@5.0.0
+- pkg:nuget/MTLib.Tcp@5.0.1
+- pkg:nuget/MTLib.Tcp@6.0.0
+- pkg:nuget/MTLib.Tcp@6.0.2

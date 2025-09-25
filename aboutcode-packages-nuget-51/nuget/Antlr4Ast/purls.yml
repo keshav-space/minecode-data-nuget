@@ -1,0 +1,3 @@
+- pkg:nuget/Antlr4Ast@1.0.0
+- pkg:nuget/Antlr4Ast@2.0.0
+- pkg:nuget/Antlr4Ast@3.0.0

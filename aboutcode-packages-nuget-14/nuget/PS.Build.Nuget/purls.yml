@@ -1,0 +1,10 @@
+- pkg:nuget/PS.Build.Nuget@1.1.0
+- pkg:nuget/PS.Build.Nuget@1.10.0
+- pkg:nuget/PS.Build.Nuget@1.11.0
+- pkg:nuget/PS.Build.Nuget@1.2.0
+- pkg:nuget/PS.Build.Nuget@1.4.0
+- pkg:nuget/PS.Build.Nuget@1.5.0
+- pkg:nuget/PS.Build.Nuget@1.6.0
+- pkg:nuget/PS.Build.Nuget@1.7.0
+- pkg:nuget/PS.Build.Nuget@1.8.0
+- pkg:nuget/PS.Build.Nuget@1.9.0

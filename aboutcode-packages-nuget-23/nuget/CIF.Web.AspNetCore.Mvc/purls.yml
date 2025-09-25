@@ -1,0 +1,7 @@
+- pkg:nuget/CIF.Web.AspNetCore.Mvc@1.0.0
+- pkg:nuget/CIF.Web.AspNetCore.Mvc@1.0.0-beta
+- pkg:nuget/CIF.Web.AspNetCore.Mvc@1.0.0-beta-180923
+- pkg:nuget/CIF.Web.AspNetCore.Mvc@1.0.0-preview
+- pkg:nuget/CIF.Web.AspNetCore.Mvc@1.0.0-preview-1001
+- pkg:nuget/CIF.Web.AspNetCore.Mvc@1.1.0
+- pkg:nuget/CIF.Web.AspNetCore.Mvc@1.2.0

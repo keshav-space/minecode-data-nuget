@@ -1,0 +1,11 @@
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@2020.0.4
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@2020.1.19
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.0
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.2
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.4.4
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.4.8
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.5
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.5.4
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.5.7
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.5.7-beta001
+- pkg:nuget/NetSword.Plugins.Payment.Wechat@8.1.6.5

@@ -1,0 +1,15 @@
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@0.0.0-alpha.0.10
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@0.0.0-alpha.0.8
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@0.0.0-alpha.0.9
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@0.1.0
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@0.1.1
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@1.0.0
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@1.0.0-rc.1
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@1.0.0-rc.3
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@1.1.0
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@1.2.0
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@1.3.0
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@1.4.0
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@1.5.0
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@2.0.0
+- pkg:nuget/MongoDB.Driver.Core.Extensions.DiagnosticSources@2.1.0

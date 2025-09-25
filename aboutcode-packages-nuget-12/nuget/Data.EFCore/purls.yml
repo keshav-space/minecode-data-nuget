@@ -1,0 +1,5 @@
+- pkg:nuget/Data.EFCore@1.12.31
+- pkg:nuget/Data.EFCore@1.12.32
+- pkg:nuget/Data.EFCore@2020.1.2.6
+- pkg:nuget/Data.EFCore@2020.1.8.1
+- pkg:nuget/Data.EFCore@2020.1.9.108
