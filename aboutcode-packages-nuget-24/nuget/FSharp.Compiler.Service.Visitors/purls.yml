@@ -1,0 +1,8 @@
+- pkg:nuget/FSharp.Compiler.Service.Visitors@0.5.1
+- pkg:nuget/FSharp.Compiler.Service.Visitors@0.6.1
+- pkg:nuget/FSharp.Compiler.Service.Visitors@0.6.2
+- pkg:nuget/FSharp.Compiler.Service.Visitors@0.6.3
+- pkg:nuget/FSharp.Compiler.Service.Visitors@0.7.1
+- pkg:nuget/FSharp.Compiler.Service.Visitors@0.7.2
+- pkg:nuget/FSharp.Compiler.Service.Visitors@0.7.3
+- pkg:nuget/FSharp.Compiler.Service.Visitors@0.9.1

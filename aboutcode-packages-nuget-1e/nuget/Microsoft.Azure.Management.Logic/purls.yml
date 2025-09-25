@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Azure.Management.Logic@0.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Logic@0.2.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Logic@0.2.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Logic@0.2.2-preview
+- pkg:nuget/Microsoft.Azure.Management.Logic@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.Logic@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.Logic@2.1.0
+- pkg:nuget/Microsoft.Azure.Management.Logic@3.0.0
+- pkg:nuget/Microsoft.Azure.Management.Logic@3.0.1
+- pkg:nuget/Microsoft.Azure.Management.Logic@4.0.0
+- pkg:nuget/Microsoft.Azure.Management.Logic@4.1.0

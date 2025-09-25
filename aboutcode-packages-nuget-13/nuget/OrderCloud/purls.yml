@@ -1,0 +1,10 @@
+- pkg:nuget/OrderCloud@0.0.1
+- pkg:nuget/OrderCloud@0.0.2
+- pkg:nuget/OrderCloud@0.0.4
+- pkg:nuget/OrderCloud@0.0.5
+- pkg:nuget/OrderCloud@0.0.6
+- pkg:nuget/OrderCloud@0.0.7
+- pkg:nuget/OrderCloud@0.0.8
+- pkg:nuget/OrderCloud@0.0.9
+- pkg:nuget/OrderCloud@1.0.42-preview
+- pkg:nuget/OrderCloud@1.0.43-staging-prerelease

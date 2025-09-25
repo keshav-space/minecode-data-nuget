@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker@1.0.0
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker@1.1.0
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker@2.0.0
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker@2.0.0-preview.1
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker@2.0.1
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker@2.1.0-preview.1
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Knowledge.QnAMaker@3.0.0-preview.1

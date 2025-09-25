@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Azure.Management.IotCentral@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.IotCentral@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.IotCentral@2.1.0
+- pkg:nuget/Microsoft.Azure.Management.IotCentral@2.2.0
+- pkg:nuget/Microsoft.Azure.Management.IotCentral@2.3.0
+- pkg:nuget/Microsoft.Azure.Management.IotCentral@3.1.0
+- pkg:nuget/Microsoft.Azure.Management.IotCentral@4.0.0

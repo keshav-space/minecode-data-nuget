@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Alm.Authentication@2.1.0
+- pkg:nuget/Microsoft.Alm.Authentication@3.0.0
+- pkg:nuget/Microsoft.Alm.Authentication@3.0.1
+- pkg:nuget/Microsoft.Alm.Authentication@3.1.0
+- pkg:nuget/Microsoft.Alm.Authentication@3.2.0
+- pkg:nuget/Microsoft.Alm.Authentication@4.0.0
+- pkg:nuget/Microsoft.Alm.Authentication@4.0.0.1
+- pkg:nuget/Microsoft.Alm.Authentication@4.0.1
+- pkg:nuget/Microsoft.Alm.Authentication@4.1.0
+- pkg:nuget/Microsoft.Alm.Authentication@4.2.0
+- pkg:nuget/Microsoft.Alm.Authentication@4.2.0-symbols
+- pkg:nuget/Microsoft.Alm.Authentication@4.3.0

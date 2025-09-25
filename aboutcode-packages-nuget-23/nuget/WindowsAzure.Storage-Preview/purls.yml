@@ -1,0 +1,11 @@
+- pkg:nuget/WindowsAzure.Storage-Preview@2.1.0-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@2.1.0.2-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@2.1.0.3-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@2.1.0.4-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@3.0.0-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@3.0.1-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@3.0.2-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@3.0.3-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@3.1.0-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@3.1.0.1-preview
+- pkg:nuget/WindowsAzure.Storage-Preview@3.2.0-preview

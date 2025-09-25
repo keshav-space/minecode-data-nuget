@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Azure.Management.Analysis@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Analysis@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Analysis@1.0.2-preview
+- pkg:nuget/Microsoft.Azure.Management.Analysis@1.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Analysis@1.1.1
+- pkg:nuget/Microsoft.Azure.Management.Analysis@1.1.2
+- pkg:nuget/Microsoft.Azure.Management.Analysis@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.Analysis@2.0.2
+- pkg:nuget/Microsoft.Azure.Management.Analysis@2.0.3
+- pkg:nuget/Microsoft.Azure.Management.Analysis@2.0.4

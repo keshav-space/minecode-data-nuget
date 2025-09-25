@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.Management.BotService@0.9.1-preview
+- pkg:nuget/Microsoft.Azure.Management.BotService@0.9.3-preview

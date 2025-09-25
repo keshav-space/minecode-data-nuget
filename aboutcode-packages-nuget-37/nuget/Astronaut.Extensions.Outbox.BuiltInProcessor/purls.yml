@@ -1,0 +1,4 @@
+- pkg:nuget/Astronaut.Extensions.Outbox.BuiltInProcessor@1.0.0
+- pkg:nuget/Astronaut.Extensions.Outbox.BuiltInProcessor@2.0.0
+- pkg:nuget/Astronaut.Extensions.Outbox.BuiltInProcessor@3.0.0
+- pkg:nuget/Astronaut.Extensions.Outbox.BuiltInProcessor@4.0.0

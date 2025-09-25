@@ -1,0 +1,4 @@
+- pkg:nuget/SimpleNet.Core.Data.SqlServer@0.0.1
+- pkg:nuget/SimpleNet.Core.Data.SqlServer@0.0.2
+- pkg:nuget/SimpleNet.Core.Data.SqlServer@0.0.3
+- pkg:nuget/SimpleNet.Core.Data.SqlServer@2.0.0

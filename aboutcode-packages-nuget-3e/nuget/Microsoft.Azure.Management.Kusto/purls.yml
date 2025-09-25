@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Azure.Management.Kusto@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Kusto@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@10.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@3.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@4.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@5.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@6.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@7.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@8.0.0
+- pkg:nuget/Microsoft.Azure.Management.Kusto@9.0.0

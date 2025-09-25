@@ -1,0 +1,13 @@
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150304.20115-EAP5
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150313.100185-EAP6
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150320.84706-EAP7
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150326.161752-EAP8
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150401.134330-RC
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150403.164603-RC2
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150408.170258
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150721.144036
+- pkg:nuget/JetBrains.DotMemoryUnit@1.0.20150724.171057
+- pkg:nuget/JetBrains.DotMemoryUnit@1.2.20150628.203217-EAP1
+- pkg:nuget/JetBrains.DotMemoryUnit@1.2.20150702.154616-EAP2
+- pkg:nuget/JetBrains.DotMemoryUnit@1.2.20150708.212708-EAP3
+- pkg:nuget/JetBrains.DotMemoryUnit@2.0.20150721.131603-EAP4

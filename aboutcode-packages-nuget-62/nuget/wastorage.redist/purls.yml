@@ -1,0 +1,7 @@
+- pkg:nuget/wastorage.redist@0.2.0-preview
+- pkg:nuget/wastorage.redist@0.3.0-preview
+- pkg:nuget/wastorage.redist@0.4.0-preview
+- pkg:nuget/wastorage.redist@0.5.0-preview
+- pkg:nuget/wastorage.redist@0.6.0-preview
+- pkg:nuget/wastorage.redist@1.0.0
+- pkg:nuget/wastorage.redist@2.0.0

@@ -1,0 +1,9 @@
+- pkg:nuget/Pinch.Sdk.Core.Android@0.3.0-kettle
+- pkg:nuget/Pinch.Sdk.Core.Android@2.7.8
+- pkg:nuget/Pinch.Sdk.Core.Android@2.7.8-depless.1
+- pkg:nuget/Pinch.Sdk.Core.Android@2.7.8-depless.2
+- pkg:nuget/Pinch.Sdk.Core.Android@2.7.8.1
+- pkg:nuget/Pinch.Sdk.Core.Android@2.7.8.4
+- pkg:nuget/Pinch.Sdk.Core.Android@3.0.0-kettle
+- pkg:nuget/Pinch.Sdk.Core.Android@3.0.0-kettle.depless
+- pkg:nuget/Pinch.Sdk.Core.Android@3.0.0-kettle.depless2

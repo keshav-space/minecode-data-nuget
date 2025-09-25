@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Management.AppPlatform@0.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.AppPlatform@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.AppPlatform@1.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.AppPlatform@1.2.0-preview

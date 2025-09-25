@@ -1,0 +1,6 @@
+- pkg:nuget/log4net.SocketAppender@1.0.0
+- pkg:nuget/log4net.SocketAppender@1.0.0-beta-12
+- pkg:nuget/log4net.SocketAppender@1.0.0.1
+- pkg:nuget/log4net.SocketAppender@1.0.0.14
+- pkg:nuget/log4net.SocketAppender@1.0.0.15
+- pkg:nuget/log4net.SocketAppender@1.0.0.2

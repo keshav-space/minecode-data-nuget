@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@1.0.2-preview
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@1.0.3-preview
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@1.1.0
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@3.0.0
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@4.0.0
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@5.0.0
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@6.0.0
+- pkg:nuget/Microsoft.Azure.Management.ContainerInstance@7.0.0

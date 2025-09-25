@@ -1,0 +1,14 @@
+- pkg:nuget/Couchbase.Lite.Listener@1.1.0
+- pkg:nuget/Couchbase.Lite.Listener@1.1.0-pre
+- pkg:nuget/Couchbase.Lite.Listener@1.1.1
+- pkg:nuget/Couchbase.Lite.Listener@1.1.2
+- pkg:nuget/Couchbase.Lite.Listener@1.2.0
+- pkg:nuget/Couchbase.Lite.Listener@1.2.0.2
+- pkg:nuget/Couchbase.Lite.Listener@1.2.0.3
+- pkg:nuget/Couchbase.Lite.Listener@1.2.1
+- pkg:nuget/Couchbase.Lite.Listener@1.2.1.1
+- pkg:nuget/Couchbase.Lite.Listener@1.3.0
+- pkg:nuget/Couchbase.Lite.Listener@1.3.1
+- pkg:nuget/Couchbase.Lite.Listener@1.4.0
+- pkg:nuget/Couchbase.Lite.Listener@1.4.1
+- pkg:nuget/Couchbase.Lite.Listener@1.4.4

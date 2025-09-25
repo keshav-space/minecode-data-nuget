@@ -1,0 +1,7 @@
+- pkg:nuget/CYarp.Client.AspNetCore@2.0.0
+- pkg:nuget/CYarp.Client.AspNetCore@2.0.0-beta1
+- pkg:nuget/CYarp.Client.AspNetCore@2.0.0-beta2
+- pkg:nuget/CYarp.Client.AspNetCore@2.0.0-beta3
+- pkg:nuget/CYarp.Client.AspNetCore@2.0.1
+- pkg:nuget/CYarp.Client.AspNetCore@2.0.2
+- pkg:nuget/CYarp.Client.AspNetCore@2.0.3

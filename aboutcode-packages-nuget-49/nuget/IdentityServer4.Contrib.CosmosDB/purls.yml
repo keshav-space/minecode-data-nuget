@@ -1,0 +1,11 @@
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.0-beta04
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.0-beta10
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.0-beta13
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.0-beta15
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.0-beta20
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.0-beta21
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.0-beta23
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.0-beta25
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.1-beta02
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.1-beta03
+- pkg:nuget/IdentityServer4.Contrib.CosmosDB@0.2.1-beta27

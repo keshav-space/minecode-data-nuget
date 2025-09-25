@@ -1,0 +1,3 @@
+- pkg:nuget/ASiNet.Data.Serialization.Common@1.0.0
+- pkg:nuget/ASiNet.Data.Serialization.Common@4.0.5
+- pkg:nuget/ASiNet.Data.Serialization.Common@4.0.6

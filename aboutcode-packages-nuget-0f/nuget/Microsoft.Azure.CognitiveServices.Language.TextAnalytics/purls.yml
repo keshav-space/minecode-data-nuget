@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Language.TextAnalytics@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Language.TextAnalytics@1.1.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Language.TextAnalytics@2.0.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Language.TextAnalytics@2.1.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Language.TextAnalytics@2.8.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Language.TextAnalytics@3.0.0
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Language.TextAnalytics@4.0.0
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Language.TextAnalytics@4.1.0-preview.2

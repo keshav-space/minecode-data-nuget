@@ -1,0 +1,2 @@
+- pkg:nuget/WindowsAzure.Storage-PremiumTable@0.0.1-preview
+- pkg:nuget/WindowsAzure.Storage-PremiumTable@0.1.0-preview

@@ -1,0 +1,8 @@
+- pkg:nuget/Raccoon.DevKits.DistributedConfiguration.ConsulProvider@1.0.0
+- pkg:nuget/Raccoon.DevKits.DistributedConfiguration.ConsulProvider@2.0.0
+- pkg:nuget/Raccoon.DevKits.DistributedConfiguration.ConsulProvider@2.1.0
+- pkg:nuget/Raccoon.DevKits.DistributedConfiguration.ConsulProvider@3.0.0
+- pkg:nuget/Raccoon.DevKits.DistributedConfiguration.ConsulProvider@3.1.0
+- pkg:nuget/Raccoon.DevKits.DistributedConfiguration.ConsulProvider@4.0.0
+- pkg:nuget/Raccoon.DevKits.DistributedConfiguration.ConsulProvider@5.0.0
+- pkg:nuget/Raccoon.DevKits.DistributedConfiguration.ConsulProvider@6.0.0

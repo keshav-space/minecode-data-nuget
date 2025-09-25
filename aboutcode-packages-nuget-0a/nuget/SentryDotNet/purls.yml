@@ -1,0 +1,11 @@
+- pkg:nuget/SentryDotNet@1.0.0
+- pkg:nuget/SentryDotNet@1.1.0
+- pkg:nuget/SentryDotNet@1.2.0
+- pkg:nuget/SentryDotNet@1.2.1
+- pkg:nuget/SentryDotNet@1.2.2
+- pkg:nuget/SentryDotNet@1.3.0
+- pkg:nuget/SentryDotNet@1.3.1
+- pkg:nuget/SentryDotNet@1.4.0
+- pkg:nuget/SentryDotNet@1.4.2
+- pkg:nuget/SentryDotNet@1.4.3
+- pkg:nuget/SentryDotNet@1.4.4

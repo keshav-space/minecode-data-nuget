@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@1.1.0
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@1.2.0
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@1.3.0
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@1.4.0
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@1.5.0
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.GuestConfiguration@3.0.0

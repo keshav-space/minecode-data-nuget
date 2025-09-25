@@ -1,0 +1,5 @@
+- pkg:nuget/Net.IBM.EntityFrameworkCore-ppc@8.0.0.200
+- pkg:nuget/Net.IBM.EntityFrameworkCore-ppc@8.0.0.300
+- pkg:nuget/Net.IBM.EntityFrameworkCore-ppc@8.0.0.400
+- pkg:nuget/Net.IBM.EntityFrameworkCore-ppc@9.0.0.100
+- pkg:nuget/Net.IBM.EntityFrameworkCore-ppc@9.0.0.300

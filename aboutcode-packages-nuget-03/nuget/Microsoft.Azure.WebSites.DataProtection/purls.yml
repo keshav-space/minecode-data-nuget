@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.WebSites.DataProtection@0.1.6-alpha45
+- pkg:nuget/Microsoft.Azure.WebSites.DataProtection@0.1.6-alpha47
+- pkg:nuget/Microsoft.Azure.WebSites.DataProtection@0.1.77-alpha
+- pkg:nuget/Microsoft.Azure.WebSites.DataProtection@0.1.78-alpha

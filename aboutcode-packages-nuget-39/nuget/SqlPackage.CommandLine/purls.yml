@@ -1,0 +1,6 @@
+- pkg:nuget/SqlPackage.CommandLine@1.0.0
+- pkg:nuget/SqlPackage.CommandLine@11.0.0
+- pkg:nuget/SqlPackage.CommandLine@11.0.0-pre01
+- pkg:nuget/SqlPackage.CommandLine@11.0.2902
+- pkg:nuget/SqlPackage.CommandLine@13.0.3485.2
+- pkg:nuget/SqlPackage.CommandLine@14.0.3953.4

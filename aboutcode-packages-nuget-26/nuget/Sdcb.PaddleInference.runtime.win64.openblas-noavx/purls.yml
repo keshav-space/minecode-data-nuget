@@ -1,0 +1,9 @@
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@2.5.0
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@2.5.0-preview.1
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@2.5.0-preview.3
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@2.5.1
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@2.5.1-preview.1
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@2.6.1
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@3.0.0.36
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@3.0.0.51
+- pkg:nuget/Sdcb.PaddleInference.runtime.win64.openblas-noavx@3.1.0.54

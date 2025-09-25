@@ -1,0 +1,4 @@
+- pkg:nuget/Ninject.AzureFunctions.NUnit@0.1.0-alpha0043-48
+- pkg:nuget/Ninject.AzureFunctions.NUnit@0.1.0-unstable0039-45
+- pkg:nuget/Ninject.AzureFunctions.NUnit@0.1.0-unstable0040-46
+- pkg:nuget/Ninject.AzureFunctions.NUnit@0.1.0-unstable0041-47

@@ -1,0 +1,5 @@
+- pkg:nuget/Acr.Connect.Owin.Security.Oidc@1.1.0.71
+- pkg:nuget/Acr.Connect.Owin.Security.Oidc@1.1.1.1
+- pkg:nuget/Acr.Connect.Owin.Security.Oidc@1.2.3
+- pkg:nuget/Acr.Connect.Owin.Security.Oidc@1.2.4
+- pkg:nuget/Acr.Connect.Owin.Security.Oidc@1.2.5

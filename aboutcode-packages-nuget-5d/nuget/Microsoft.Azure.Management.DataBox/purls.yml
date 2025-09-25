@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Azure.Management.DataBox@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.DataBox@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.DataBox@1.0.1
+- pkg:nuget/Microsoft.Azure.Management.DataBox@1.1.0
+- pkg:nuget/Microsoft.Azure.Management.DataBox@1.2.0
+- pkg:nuget/Microsoft.Azure.Management.DataBox@1.3.0
+- pkg:nuget/Microsoft.Azure.Management.DataBox@1.3.1
+- pkg:nuget/Microsoft.Azure.Management.DataBox@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.DataBox@2.0.1

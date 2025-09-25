@@ -1,0 +1,16 @@
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta-1
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta-2
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta-3
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta-32
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta-4
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta-43
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta6-10048
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta7-10051
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta7-10052
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta8-10056
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta8-10064
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-beta8-10065
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-rc1-final-10071
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-rc1-final-10075
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-rc1-final-10078
+- pkg:nuget/Serilog.Framework.Logging@1.0.0-rc1-final-10083

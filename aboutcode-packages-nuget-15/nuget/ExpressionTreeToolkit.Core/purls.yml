@@ -1,0 +1,14 @@
+- pkg:nuget/ExpressionTreeToolkit.Core@0.1.0
+- pkg:nuget/ExpressionTreeToolkit.Core@0.1.1
+- pkg:nuget/ExpressionTreeToolkit.Core@0.1.2
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.0
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.1
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.1-beta.1%2B2
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.1-beta.2%2B3
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.1-beta.3%2B4
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.1-beta.4%2B5
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.1-beta.5%2B6
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.1-beta.6%2B7
+- pkg:nuget/ExpressionTreeToolkit.Core@0.2.1-beta.7%2B9
+- pkg:nuget/ExpressionTreeToolkit.Core@0.3.0
+- pkg:nuget/ExpressionTreeToolkit.Core@0.4.0

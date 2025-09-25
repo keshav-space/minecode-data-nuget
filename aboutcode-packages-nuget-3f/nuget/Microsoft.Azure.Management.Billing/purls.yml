@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Azure.Management.Billing@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Billing@1.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Billing@2.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Billing@2.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Billing@2.1.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Billing@3.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Billing@4.0.0
+- pkg:nuget/Microsoft.Azure.Management.Billing@4.1.0

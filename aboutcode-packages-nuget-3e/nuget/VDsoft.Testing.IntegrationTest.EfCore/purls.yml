@@ -1,0 +1,3 @@
+- pkg:nuget/VDsoft.Testing.IntegrationTest.EfCore@0.0.1
+- pkg:nuget/VDsoft.Testing.IntegrationTest.EfCore@0.0.2
+- pkg:nuget/VDsoft.Testing.IntegrationTest.EfCore@0.0.3

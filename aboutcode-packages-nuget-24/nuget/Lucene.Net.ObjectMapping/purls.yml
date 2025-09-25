@@ -1,0 +1,10 @@
+- pkg:nuget/Lucene.Net.ObjectMapping@1.0.0
+- pkg:nuget/Lucene.Net.ObjectMapping@1.0.1
+- pkg:nuget/Lucene.Net.ObjectMapping@1.0.2
+- pkg:nuget/Lucene.Net.ObjectMapping@1.0.3
+- pkg:nuget/Lucene.Net.ObjectMapping@1.1.0-alpha
+- pkg:nuget/Lucene.Net.ObjectMapping@1.1.0-rc1
+- pkg:nuget/Lucene.Net.ObjectMapping@1.1.0-rc2
+- pkg:nuget/Lucene.Net.ObjectMapping@1.1.0-rc3
+- pkg:nuget/Lucene.Net.ObjectMapping@1.1.1-beta
+- pkg:nuget/Lucene.Net.ObjectMapping@1.1.2-beta

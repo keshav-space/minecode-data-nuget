@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.Management.Attestation@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Attestation@0.11.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Attestation@0.12.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Attestation@0.9.5-preview
+- pkg:nuget/Microsoft.Azure.Management.Attestation@0.9.6-preview

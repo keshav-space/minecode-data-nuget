@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@1.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@1.1.0
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@1.1.1
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@1.1.2
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@1.2.0
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@2.0.0
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@2.0.1
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@2.0.2
+- pkg:nuget/Microsoft.Azure.Management.DevTestLabs@3.0.0

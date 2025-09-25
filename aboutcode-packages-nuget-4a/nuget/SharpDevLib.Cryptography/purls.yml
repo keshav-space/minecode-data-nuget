@@ -1,0 +1,12 @@
+- pkg:nuget/SharpDevLib.Cryptography@1.0.0-alpha
+- pkg:nuget/SharpDevLib.Cryptography@1.0.0.2-alpha
+- pkg:nuget/SharpDevLib.Cryptography@2.0.0
+- pkg:nuget/SharpDevLib.Cryptography@2.0.0.1-alpha
+- pkg:nuget/SharpDevLib.Cryptography@2.0.0.2-alpha
+- pkg:nuget/SharpDevLib.Cryptography@2.0.0.4-alpha
+- pkg:nuget/SharpDevLib.Cryptography@2.0.0.5-alpha
+- pkg:nuget/SharpDevLib.Cryptography@2.0.1
+- pkg:nuget/SharpDevLib.Cryptography@2.0.1-alpha
+- pkg:nuget/SharpDevLib.Cryptography@2.0.2
+- pkg:nuget/SharpDevLib.Cryptography@2.0.3
+- pkg:nuget/SharpDevLib.Cryptography@2.0.4

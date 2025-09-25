@@ -1,0 +1,5 @@
+- pkg:nuget/Dynamsoft.NetCoreApp.Barcode@7.4.0
+- pkg:nuget/Dynamsoft.NetCoreApp.Barcode@7.6.0
+- pkg:nuget/Dynamsoft.NetCoreApp.Barcode@8.1.2
+- pkg:nuget/Dynamsoft.NetCoreApp.Barcode@8.4.0
+- pkg:nuget/Dynamsoft.NetCoreApp.Barcode@9.2.0

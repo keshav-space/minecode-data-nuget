@@ -1,0 +1,8 @@
+- pkg:nuget/Cube.Private.Tests@8.0.0
+- pkg:nuget/Cube.Private.Tests@8.1.0
+- pkg:nuget/Cube.Private.Tests@8.2.0
+- pkg:nuget/Cube.Private.Tests@8.5.0
+- pkg:nuget/Cube.Private.Tests@8.5.1
+- pkg:nuget/Cube.Private.Tests@8.6.0
+- pkg:nuget/Cube.Private.Tests@8.6.1
+- pkg:nuget/Cube.Private.Tests@9.0.0
