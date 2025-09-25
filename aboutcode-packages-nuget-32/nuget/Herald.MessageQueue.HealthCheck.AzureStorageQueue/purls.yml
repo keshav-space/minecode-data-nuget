@@ -1,0 +1,9 @@
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@2.0.0
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@2.0.1
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@3.0.0
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@3.1.0
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@4.0.0
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@4.0.1
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@4.0.2
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@4.0.3
+- pkg:nuget/Herald.MessageQueue.HealthCheck.AzureStorageQueue@5.0.0

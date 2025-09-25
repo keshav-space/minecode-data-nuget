@@ -1,0 +1,11 @@
+- pkg:nuget/NuSpec@1.0.0
+- pkg:nuget/NuSpec@1.1.0
+- pkg:nuget/NuSpec@1.2.0
+- pkg:nuget/NuSpec@1.2.1
+- pkg:nuget/NuSpec@1.2.2
+- pkg:nuget/NuSpec@1.2.3
+- pkg:nuget/NuSpec@2.0.0
+- pkg:nuget/NuSpec@2.1.0
+- pkg:nuget/NuSpec@2.1.0-alpha
+- pkg:nuget/NuSpec@3.0.0
+- pkg:nuget/NuSpec@3.3.0-alpha20160215

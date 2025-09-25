@@ -1,0 +1,15 @@
+- pkg:nuget/LambdaSharp.App@0.8.1
+- pkg:nuget/LambdaSharp.App@0.8.1-rc1
+- pkg:nuget/LambdaSharp.App@0.8.1.2
+- pkg:nuget/LambdaSharp.App@0.8.1.3
+- pkg:nuget/LambdaSharp.App@0.8.2
+- pkg:nuget/LambdaSharp.App@0.8.2.2
+- pkg:nuget/LambdaSharp.App@0.8.2.3
+- pkg:nuget/LambdaSharp.App@0.8.2.4
+- pkg:nuget/LambdaSharp.App@0.8.3
+- pkg:nuget/LambdaSharp.App@0.8.3.2
+- pkg:nuget/LambdaSharp.App@0.8.3.3
+- pkg:nuget/LambdaSharp.App@0.8.3.4
+- pkg:nuget/LambdaSharp.App@0.8.3.5
+- pkg:nuget/LambdaSharp.App@0.8.4
+- pkg:nuget/LambdaSharp.App@0.8.4.1

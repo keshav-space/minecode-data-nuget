@@ -1,0 +1,16 @@
+- pkg:nuget/Octopus.Configuration@1.0.10
+- pkg:nuget/Octopus.Configuration@1.0.11
+- pkg:nuget/Octopus.Configuration@1.0.9
+- pkg:nuget/Octopus.Configuration@1.2.0
+- pkg:nuget/Octopus.Configuration@2.0.0
+- pkg:nuget/Octopus.Configuration@2.0.1
+- pkg:nuget/Octopus.Configuration@2.1.0
+- pkg:nuget/Octopus.Configuration@3.0.0
+- pkg:nuget/Octopus.Configuration@4.0.0
+- pkg:nuget/Octopus.Configuration@4.1.0
+- pkg:nuget/Octopus.Configuration@4.1.166
+- pkg:nuget/Octopus.Configuration@4.1.205
+- pkg:nuget/Octopus.Configuration@4.1.214
+- pkg:nuget/Octopus.Configuration@4.1.61
+- pkg:nuget/Octopus.Configuration@4.1.67
+- pkg:nuget/Octopus.Configuration@4.1.97

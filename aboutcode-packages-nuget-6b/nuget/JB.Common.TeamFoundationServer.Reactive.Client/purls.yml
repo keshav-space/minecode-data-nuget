@@ -1,0 +1,4 @@
+- pkg:nuget/JB.Common.TeamFoundationServer.Reactive.Client@0.8.107-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Reactive.Client@0.8.108-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Reactive.Client@0.8.113-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Reactive.Client@0.8.114

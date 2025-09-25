@@ -1,0 +1,16 @@
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.0.1
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.0.2
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.0.25
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.0.26
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.0.3
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.1.27
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.2.26
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.2.28
+- pkg:nuget/Dex.MassTransit.ActivityTrace@1.2.29
+- pkg:nuget/Dex.MassTransit.ActivityTrace@2.1.27
+- pkg:nuget/Dex.MassTransit.ActivityTrace@2.1.28
+- pkg:nuget/Dex.MassTransit.ActivityTrace@6.0.0
+- pkg:nuget/Dex.MassTransit.ActivityTrace@8.0.0
+- pkg:nuget/Dex.MassTransit.ActivityTrace@8.0.1
+- pkg:nuget/Dex.MassTransit.ActivityTrace@8.0.2
+- pkg:nuget/Dex.MassTransit.ActivityTrace@8.0.3

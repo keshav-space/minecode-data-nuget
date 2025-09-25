@@ -1,0 +1,14 @@
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.1
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.10
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.12
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.13
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.14
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.16
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.17
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.3
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.4
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.5
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.6
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.7
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.8
+- pkg:nuget/Rocket.Surgery.LaunchPad.AspNetCore.AppMetrics@0.1.0-beta.9

@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.DotNet.Mage@5.0.0
+- pkg:nuget/Microsoft.DotNet.Mage@5.0.0-rc.2.20513.1
+- pkg:nuget/Microsoft.DotNet.Mage@5.0.0-rc.2.20527.1
+- pkg:nuget/Microsoft.DotNet.Mage@6.0.0
+- pkg:nuget/Microsoft.DotNet.Mage@6.0.1
+- pkg:nuget/Microsoft.DotNet.Mage@7.0.0
+- pkg:nuget/Microsoft.DotNet.Mage@7.0.0-preview.2.22317.2
+- pkg:nuget/Microsoft.DotNet.Mage@8.0.0
+- pkg:nuget/Microsoft.DotNet.Mage@8.0.0-preview.1.23115.1
+- pkg:nuget/Microsoft.DotNet.Mage@9.0.0

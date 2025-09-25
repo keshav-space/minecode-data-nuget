@@ -1,0 +1,4 @@
+- pkg:nuget/DHI.MikeCore.Linux.rhel7@18.1.0
+- pkg:nuget/DHI.MikeCore.Linux.rhel7@19.0.0
+- pkg:nuget/DHI.MikeCore.Linux.rhel7@19.1.0
+- pkg:nuget/DHI.MikeCore.Linux.rhel7@20.0.0

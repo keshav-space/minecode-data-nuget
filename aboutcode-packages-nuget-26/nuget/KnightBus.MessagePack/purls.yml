@@ -1,0 +1,9 @@
+- pkg:nuget/KnightBus.MessagePack@1.0.0
+- pkg:nuget/KnightBus.MessagePack@1.0.1
+- pkg:nuget/KnightBus.MessagePack@2.0.0
+- pkg:nuget/KnightBus.MessagePack@2.1.0
+- pkg:nuget/KnightBus.MessagePack@2.2.0
+- pkg:nuget/KnightBus.MessagePack@3.0.0
+- pkg:nuget/KnightBus.MessagePack@3.1.0
+- pkg:nuget/KnightBus.MessagePack@4.0.0
+- pkg:nuget/KnightBus.MessagePack@4.0.1

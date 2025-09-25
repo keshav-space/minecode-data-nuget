@@ -1,0 +1,15 @@
+- pkg:nuget/Grynwald.MarkdownGenerator@0.1.22-prerelease
+- pkg:nuget/Grynwald.MarkdownGenerator@1.0.1-prerelease
+- pkg:nuget/Grynwald.MarkdownGenerator@1.0.3-g3e67b95699
+- pkg:nuget/Grynwald.MarkdownGenerator@1.0.4
+- pkg:nuget/Grynwald.MarkdownGenerator@1.1.8
+- pkg:nuget/Grynwald.MarkdownGenerator@2.0.78
+- pkg:nuget/Grynwald.MarkdownGenerator@2.1.79-rc
+- pkg:nuget/Grynwald.MarkdownGenerator@2.1.80-rc
+- pkg:nuget/Grynwald.MarkdownGenerator@2.1.81
+- pkg:nuget/Grynwald.MarkdownGenerator@2.2.16
+- pkg:nuget/Grynwald.MarkdownGenerator@2.3.11
+- pkg:nuget/Grynwald.MarkdownGenerator@2.3.12
+- pkg:nuget/Grynwald.MarkdownGenerator@2.4.30
+- pkg:nuget/Grynwald.MarkdownGenerator@2.5.34
+- pkg:nuget/Grynwald.MarkdownGenerator@3.0.106

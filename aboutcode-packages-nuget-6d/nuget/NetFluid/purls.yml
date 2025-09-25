@@ -1,0 +1,5 @@
+- pkg:nuget/NetFluid@3.0.0
+- pkg:nuget/NetFluid@3.2.3.5
+- pkg:nuget/NetFluid@3.5.7.12
+- pkg:nuget/NetFluid@7.1.1
+- pkg:nuget/NetFluid@8.0.0

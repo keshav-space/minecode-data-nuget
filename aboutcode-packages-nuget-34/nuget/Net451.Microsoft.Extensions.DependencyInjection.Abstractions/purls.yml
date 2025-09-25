@@ -1,0 +1,4 @@
+- pkg:nuget/Net451.Microsoft.Extensions.DependencyInjection.Abstractions@1.1.0
+- pkg:nuget/Net451.Microsoft.Extensions.DependencyInjection.Abstractions@2.0.0
+- pkg:nuget/Net451.Microsoft.Extensions.DependencyInjection.Abstractions@2.0.1
+- pkg:nuget/Net451.Microsoft.Extensions.DependencyInjection.Abstractions@2.0.2

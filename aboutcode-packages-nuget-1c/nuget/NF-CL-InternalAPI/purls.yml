@@ -1,0 +1,5 @@
+- pkg:nuget/NF-CL-InternalAPI@1.0.0
+- pkg:nuget/NF-CL-InternalAPI@1.0.0-CI-20190309-203419
+- pkg:nuget/NF-CL-InternalAPI@2.0.0-CI-20190309-205925
+- pkg:nuget/NF-CL-InternalAPI@2.0.0-CI-20200131-114319
+- pkg:nuget/NF-CL-InternalAPI@2.0.0-CI-20201116-125109

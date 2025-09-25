@@ -1,0 +1,11 @@
+- pkg:nuget/AutoUpdate.Net.Core@0.0.47
+- pkg:nuget/AutoUpdate.Net.Core@0.0.48
+- pkg:nuget/AutoUpdate.Net.Core@0.0.49
+- pkg:nuget/AutoUpdate.Net.Core@0.0.61
+- pkg:nuget/AutoUpdate.Net.Core@0.0.63
+- pkg:nuget/AutoUpdate.Net.Core@0.0.64-beta
+- pkg:nuget/AutoUpdate.Net.Core@0.0.65-beta
+- pkg:nuget/AutoUpdate.Net.Core@0.0.66-beta
+- pkg:nuget/AutoUpdate.Net.Core@0.0.67-beta
+- pkg:nuget/AutoUpdate.Net.Core@0.0.71-beta
+- pkg:nuget/AutoUpdate.Net.Core@0.0.75-beta

@@ -1,0 +1,5 @@
+- pkg:nuget/BBM.Library.Repository.EntityFramework.SqlServer@1.0.0
+- pkg:nuget/BBM.Library.Repository.EntityFramework.SqlServer@1.0.1
+- pkg:nuget/BBM.Library.Repository.EntityFramework.SqlServer@1.0.2
+- pkg:nuget/BBM.Library.Repository.EntityFramework.SqlServer@1.0.3
+- pkg:nuget/BBM.Library.Repository.EntityFramework.SqlServer@1.0.4

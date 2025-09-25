@@ -1,0 +1,6 @@
+- pkg:nuget/Developist.Core.Persistence.InMemory@3.0.0
+- pkg:nuget/Developist.Core.Persistence.InMemory@3.0.3
+- pkg:nuget/Developist.Core.Persistence.InMemory@4.1.0
+- pkg:nuget/Developist.Core.Persistence.InMemory@4.1.1
+- pkg:nuget/Developist.Core.Persistence.InMemory@4.2.0
+- pkg:nuget/Developist.Core.Persistence.InMemory@5.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.DotNet.FrameworkCompatibilityDiagnostics@0.4.2
+- pkg:nuget/Microsoft.DotNet.FrameworkCompatibilityDiagnostics@0.5.0

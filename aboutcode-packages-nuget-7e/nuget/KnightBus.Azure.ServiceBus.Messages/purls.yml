@@ -1,0 +1,12 @@
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@1.0.1
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@2.0.0
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@2.1.0
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@2.1.1
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@2.2.0
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@3.0.0
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@3.1.0
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@3.1.1
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@4.0.0
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@4.1.0
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@5.0.0
+- pkg:nuget/KnightBus.Azure.ServiceBus.Messages@6.0.0

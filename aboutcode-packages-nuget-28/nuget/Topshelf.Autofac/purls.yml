@@ -1,0 +1,13 @@
+- pkg:nuget/Topshelf.Autofac@0.1.0
+- pkg:nuget/Topshelf.Autofac@0.1.1
+- pkg:nuget/Topshelf.Autofac@1.0.0
+- pkg:nuget/Topshelf.Autofac@1.1.0
+- pkg:nuget/Topshelf.Autofac@2.0.0
+- pkg:nuget/Topshelf.Autofac@2.0.1
+- pkg:nuget/Topshelf.Autofac@2.0.1-beta
+- pkg:nuget/Topshelf.Autofac@3.0.0
+- pkg:nuget/Topshelf.Autofac@3.1.0
+- pkg:nuget/Topshelf.Autofac@3.1.1
+- pkg:nuget/Topshelf.Autofac@4.0.0
+- pkg:nuget/Topshelf.Autofac@4.0.0-develop
+- pkg:nuget/Topshelf.Autofac@4.0.1

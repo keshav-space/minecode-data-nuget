@@ -1,0 +1,4 @@
+- pkg:nuget/NetCoreHttpClient@1.0.0
+- pkg:nuget/NetCoreHttpClient@1.1.0
+- pkg:nuget/NetCoreHttpClient@2.0.0
+- pkg:nuget/NetCoreHttpClient@3.0.0

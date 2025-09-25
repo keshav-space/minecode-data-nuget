@@ -1,0 +1,6 @@
+- pkg:nuget/Respawn.Postgres@1.0.0
+- pkg:nuget/Respawn.Postgres@1.0.0-ci-local
+- pkg:nuget/Respawn.Postgres@1.0.12
+- pkg:nuget/Respawn.Postgres@1.0.14
+- pkg:nuget/Respawn.Postgres@1.0.15
+- pkg:nuget/Respawn.Postgres@10.0.0

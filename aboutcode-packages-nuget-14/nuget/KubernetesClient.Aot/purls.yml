@@ -1,0 +1,12 @@
+- pkg:nuget/KubernetesClient.Aot@13.0.12
+- pkg:nuget/KubernetesClient.Aot@13.0.26
+- pkg:nuget/KubernetesClient.Aot@13.0.37
+- pkg:nuget/KubernetesClient.Aot@14.0.12
+- pkg:nuget/KubernetesClient.Aot@14.0.2
+- pkg:nuget/KubernetesClient.Aot@14.0.9
+- pkg:nuget/KubernetesClient.Aot@15.0.1
+- pkg:nuget/KubernetesClient.Aot@16.0.1
+- pkg:nuget/KubernetesClient.Aot@16.0.2
+- pkg:nuget/KubernetesClient.Aot@16.0.7
+- pkg:nuget/KubernetesClient.Aot@17.0.14
+- pkg:nuget/KubernetesClient.Aot@17.0.4

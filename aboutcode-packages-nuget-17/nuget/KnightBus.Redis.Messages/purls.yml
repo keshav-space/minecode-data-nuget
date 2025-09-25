@@ -1,0 +1,12 @@
+- pkg:nuget/KnightBus.Redis.Messages@1.0.0
+- pkg:nuget/KnightBus.Redis.Messages@1.0.0-preview1
+- pkg:nuget/KnightBus.Redis.Messages@2.0.0
+- pkg:nuget/KnightBus.Redis.Messages@2.0.1
+- pkg:nuget/KnightBus.Redis.Messages@2.1.0
+- pkg:nuget/KnightBus.Redis.Messages@3.0.0
+- pkg:nuget/KnightBus.Redis.Messages@3.1.0
+- pkg:nuget/KnightBus.Redis.Messages@3.1.1
+- pkg:nuget/KnightBus.Redis.Messages@4.0.0
+- pkg:nuget/KnightBus.Redis.Messages@4.1.0
+- pkg:nuget/KnightBus.Redis.Messages@5.0.0
+- pkg:nuget/KnightBus.Redis.Messages@6.0.0

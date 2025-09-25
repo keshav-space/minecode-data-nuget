@@ -1,0 +1,14 @@
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@14.0.11
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@14.0.12
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@14.0.14
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@14.0.9
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@15.0.3
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@15.0.6
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@15.0.8
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@16.1.2
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@16.2.2
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@16.2.3
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@17.4.10
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@17.4.5
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@17.4.6
+- pkg:nuget/Reusable.OmniLog.SemanticExtensions.AspNetCore@17.4.8

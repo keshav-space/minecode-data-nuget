@@ -1,0 +1,10 @@
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.100-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.101-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.102-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.103-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.105-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.106-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.107-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.108-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.113-pre
+- pkg:nuget/JB.Common.TeamFoundationServer.Client@0.8.114

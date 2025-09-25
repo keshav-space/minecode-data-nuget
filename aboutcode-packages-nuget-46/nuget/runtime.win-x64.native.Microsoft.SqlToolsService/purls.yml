@@ -1,0 +1,4 @@
+- pkg:nuget/runtime.win-x64.native.Microsoft.SqlToolsService@3.0.0-release.157
+- pkg:nuget/runtime.win-x64.native.Microsoft.SqlToolsService@3.0.0-release.163
+- pkg:nuget/runtime.win-x64.native.Microsoft.SqlToolsService@3.0.0-release.200
+- pkg:nuget/runtime.win-x64.native.Microsoft.SqlToolsService@3.0.0-release.53

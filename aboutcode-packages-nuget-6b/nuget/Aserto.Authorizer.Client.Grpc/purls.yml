@@ -1,0 +1,6 @@
+- pkg:nuget/Aserto.Authorizer.Client.Grpc@0.0.2
+- pkg:nuget/Aserto.Authorizer.Client.Grpc@0.1.0
+- pkg:nuget/Aserto.Authorizer.Client.Grpc@0.1.1
+- pkg:nuget/Aserto.Authorizer.Client.Grpc@0.7.0
+- pkg:nuget/Aserto.Authorizer.Client.Grpc@0.8.0
+- pkg:nuget/Aserto.Authorizer.Client.Grpc@0.8.1

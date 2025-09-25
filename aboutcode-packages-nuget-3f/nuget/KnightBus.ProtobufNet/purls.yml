@@ -1,0 +1,9 @@
+- pkg:nuget/KnightBus.ProtobufNet@1.0.0
+- pkg:nuget/KnightBus.ProtobufNet@2.0.0
+- pkg:nuget/KnightBus.ProtobufNet@2.1.0
+- pkg:nuget/KnightBus.ProtobufNet@2.1.1
+- pkg:nuget/KnightBus.ProtobufNet@3.0.0
+- pkg:nuget/KnightBus.ProtobufNet@3.1.0
+- pkg:nuget/KnightBus.ProtobufNet@4.0.0
+- pkg:nuget/KnightBus.ProtobufNet@4.1.0
+- pkg:nuget/KnightBus.ProtobufNet@5.0.0

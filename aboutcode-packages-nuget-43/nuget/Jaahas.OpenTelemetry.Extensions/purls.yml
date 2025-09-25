@@ -1,0 +1,13 @@
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@1.0.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.0.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.0.1
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.0.2
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.1.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.2.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.3.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.4.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.5.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.6.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.7.0
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@2.7.1
+- pkg:nuget/Jaahas.OpenTelemetry.Extensions@3.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/NuGetTest123456@1.0.0
+- pkg:nuget/NuGetTest123456@1.0.1
+- pkg:nuget/NuGetTest123456@1.0.2-DEV-1234
+- pkg:nuget/NuGetTest123456@1.0.2-beta
+- pkg:nuget/NuGetTest123456@1.0.3-DEV-1234

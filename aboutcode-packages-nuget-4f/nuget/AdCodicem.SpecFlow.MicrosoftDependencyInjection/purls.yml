@@ -1,0 +1,13 @@
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@0.1.5
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@0.1.6
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@0.1.9
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.0.1
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.0.2
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.1.0
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.1.1
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.1.3
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.1.5
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.1.6
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.1.6-cmarty-fix-by-ref-type-registration.1
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.1.6-cmarty-fix-by-ref-type-registration.2
+- pkg:nuget/AdCodicem.SpecFlow.MicrosoftDependencyInjection@1.1.8

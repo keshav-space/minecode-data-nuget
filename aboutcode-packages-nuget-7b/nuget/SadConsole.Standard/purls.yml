@@ -1,0 +1,14 @@
+- pkg:nuget/SadConsole.Standard@7.0.3
+- pkg:nuget/SadConsole.Standard@7.0.3-pre3
+- pkg:nuget/SadConsole.Standard@7.0.4
+- pkg:nuget/SadConsole.Standard@7.1.0
+- pkg:nuget/SadConsole.Standard@7.2.0
+- pkg:nuget/SadConsole.Standard@7.3.0
+- pkg:nuget/SadConsole.Standard@8.0.0
+- pkg:nuget/SadConsole.Standard@8.0.0-pre3
+- pkg:nuget/SadConsole.Standard@8.0.0-pre4
+- pkg:nuget/SadConsole.Standard@8.0.0-pre5
+- pkg:nuget/SadConsole.Standard@8.1.0
+- pkg:nuget/SadConsole.Standard@8.1.0-debug
+- pkg:nuget/SadConsole.Standard@8.2.0
+- pkg:nuget/SadConsole.Standard@8.2.0-debug

@@ -1,0 +1,17 @@
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.1-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.10-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.10-beta2
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.11-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.12-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.13-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.2-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.3-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.3-beta2
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.4-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.5-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.6-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.7-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.8-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.8-beta2
+- pkg:nuget/Filer.EntityFrameworkCore@0.0.9-beta
+- pkg:nuget/Filer.EntityFrameworkCore@0.1.0-beta

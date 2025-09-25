@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.AspNetCore.Grpc.HttpApi@0.1.0-alpha.20179.2
+- pkg:nuget/Microsoft.AspNetCore.Grpc.HttpApi@0.1.0-alpha.20305.2
+- pkg:nuget/Microsoft.AspNetCore.Grpc.HttpApi@0.1.0-alpha.20580.2
+- pkg:nuget/Microsoft.AspNetCore.Grpc.HttpApi@0.1.0-alpha.21317.5

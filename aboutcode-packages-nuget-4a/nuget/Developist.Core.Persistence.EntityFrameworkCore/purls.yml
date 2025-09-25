@@ -1,0 +1,6 @@
+- pkg:nuget/Developist.Core.Persistence.EntityFrameworkCore@3.0.0
+- pkg:nuget/Developist.Core.Persistence.EntityFrameworkCore@3.0.3
+- pkg:nuget/Developist.Core.Persistence.EntityFrameworkCore@4.1.0
+- pkg:nuget/Developist.Core.Persistence.EntityFrameworkCore@4.1.1
+- pkg:nuget/Developist.Core.Persistence.EntityFrameworkCore@4.2.0
+- pkg:nuget/Developist.Core.Persistence.EntityFrameworkCore@5.0.0

@@ -1,0 +1,11 @@
+- pkg:nuget/ByteDev.Testing@1.0.0
+- pkg:nuget/ByteDev.Testing@1.1.0
+- pkg:nuget/ByteDev.Testing@2.0.0
+- pkg:nuget/ByteDev.Testing@2.0.1
+- pkg:nuget/ByteDev.Testing@3.0.0
+- pkg:nuget/ByteDev.Testing@3.1.0
+- pkg:nuget/ByteDev.Testing@4.0.0
+- pkg:nuget/ByteDev.Testing@5.0.0
+- pkg:nuget/ByteDev.Testing@5.0.1
+- pkg:nuget/ByteDev.Testing@5.0.2
+- pkg:nuget/ByteDev.Testing@5.1.0

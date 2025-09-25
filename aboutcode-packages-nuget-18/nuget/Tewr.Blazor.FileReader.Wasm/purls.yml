@@ -1,0 +1,4 @@
+- pkg:nuget/Tewr.Blazor.FileReader.Wasm@0.10.19114
+- pkg:nuget/Tewr.Blazor.FileReader.Wasm@0.10.19116
+- pkg:nuget/Tewr.Blazor.FileReader.Wasm@0.11.19128
+- pkg:nuget/Tewr.Blazor.FileReader.Wasm@0.9.0-preview-13032019

@@ -1,0 +1,4 @@
+- pkg:nuget/NanoMessageBus.Serializers.MessagePack@2020.11.1
+- pkg:nuget/NanoMessageBus.Serializers.MessagePack@2020.8.10
+- pkg:nuget/NanoMessageBus.Serializers.MessagePack@2020.8.8
+- pkg:nuget/NanoMessageBus.Serializers.MessagePack@2020.8.9

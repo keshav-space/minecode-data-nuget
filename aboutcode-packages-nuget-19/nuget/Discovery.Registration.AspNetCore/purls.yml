@@ -1,0 +1,5 @@
+- pkg:nuget/Discovery.Registration.AspNetCore@1.0.0
+- pkg:nuget/Discovery.Registration.AspNetCore@1.0.1
+- pkg:nuget/Discovery.Registration.AspNetCore@1.0.2
+- pkg:nuget/Discovery.Registration.AspNetCore@1.0.3
+- pkg:nuget/Discovery.Registration.AspNetCore@1.0.4

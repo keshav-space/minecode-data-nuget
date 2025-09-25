@@ -1,0 +1,5 @@
+- pkg:nuget/OneInc.PortalOne.Epay.RestApi.Client.Net@3.0.64
+- pkg:nuget/OneInc.PortalOne.Epay.RestApi.Client.Net@3.0.92-beta
+- pkg:nuget/OneInc.PortalOne.Epay.RestApi.Client.Net@3.0.94
+- pkg:nuget/OneInc.PortalOne.Epay.RestApi.Client.Net@3.0.94-beta
+- pkg:nuget/OneInc.PortalOne.Epay.RestApi.Client.Net@3.2.1

@@ -1,0 +1,13 @@
+- pkg:nuget/IT.Locking.Redis@2.0.0
+- pkg:nuget/IT.Locking.Redis@2.0.1
+- pkg:nuget/IT.Locking.Redis@2.0.2
+- pkg:nuget/IT.Locking.Redis@2.0.3
+- pkg:nuget/IT.Locking.Redis@2.0.4
+- pkg:nuget/IT.Locking.Redis@2.0.5
+- pkg:nuget/IT.Locking.Redis@2.0.6
+- pkg:nuget/IT.Locking.Redis@2.0.6-pre1
+- pkg:nuget/IT.Locking.Redis@2.0.6-pre2
+- pkg:nuget/IT.Locking.Redis@2.0.6-pre3
+- pkg:nuget/IT.Locking.Redis@2.0.6-pre4
+- pkg:nuget/IT.Locking.Redis@2.0.7
+- pkg:nuget/IT.Locking.Redis@2.0.8

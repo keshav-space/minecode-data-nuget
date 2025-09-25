@@ -1,0 +1,6 @@
+- pkg:nuget/Blazor.Runtime@0.0.1-alpha
+- pkg:nuget/Blazor.Runtime@0.1.0
+- pkg:nuget/Blazor.Runtime@0.2.0
+- pkg:nuget/Blazor.Runtime@0.2.1
+- pkg:nuget/Blazor.Runtime@0.2.3
+- pkg:nuget/Blazor.Runtime@0.3.0

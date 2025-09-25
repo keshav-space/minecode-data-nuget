@@ -1,0 +1,5 @@
+- pkg:nuget/Logitar.Portal.EntityFrameworkCore.SqlServer@4.0.0
+- pkg:nuget/Logitar.Portal.EntityFrameworkCore.SqlServer@4.0.1
+- pkg:nuget/Logitar.Portal.EntityFrameworkCore.SqlServer@4.1.0
+- pkg:nuget/Logitar.Portal.EntityFrameworkCore.SqlServer@4.1.3
+- pkg:nuget/Logitar.Portal.EntityFrameworkCore.SqlServer@5.0.0

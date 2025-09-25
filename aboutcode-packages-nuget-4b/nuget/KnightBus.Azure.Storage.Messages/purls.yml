@@ -1,0 +1,12 @@
+- pkg:nuget/KnightBus.Azure.Storage.Messages@1.0.1
+- pkg:nuget/KnightBus.Azure.Storage.Messages@2.0.0
+- pkg:nuget/KnightBus.Azure.Storage.Messages@2.1.0
+- pkg:nuget/KnightBus.Azure.Storage.Messages@2.1.1
+- pkg:nuget/KnightBus.Azure.Storage.Messages@2.2.0
+- pkg:nuget/KnightBus.Azure.Storage.Messages@3.0.0
+- pkg:nuget/KnightBus.Azure.Storage.Messages@3.1.0
+- pkg:nuget/KnightBus.Azure.Storage.Messages@3.1.1
+- pkg:nuget/KnightBus.Azure.Storage.Messages@4.0.0
+- pkg:nuget/KnightBus.Azure.Storage.Messages@4.1.0
+- pkg:nuget/KnightBus.Azure.Storage.Messages@5.0.0
+- pkg:nuget/KnightBus.Azure.Storage.Messages@6.0.0

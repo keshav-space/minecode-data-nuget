@@ -1,0 +1,4 @@
+- pkg:nuget/Net451.Microsoft.Extensions.DependencyInjection.ConsoleApp@1.1.0
+- pkg:nuget/Net451.Microsoft.Extensions.DependencyInjection.ConsoleApp@2.0.1
+- pkg:nuget/Net451.Microsoft.Extensions.DependencyInjection.ConsoleApp@2.0.2
+- pkg:nuget/Net451.Microsoft.Extensions.DependencyInjection.ConsoleApp@2.0.3
