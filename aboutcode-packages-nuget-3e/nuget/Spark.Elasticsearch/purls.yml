@@ -1,0 +1,4 @@
+- pkg:nuget/Spark.Elasticsearch@1.0.0
+- pkg:nuget/Spark.Elasticsearch@1.0.1-rc
+- pkg:nuget/Spark.Elasticsearch@1.0.3
+- pkg:nuget/Spark.Elasticsearch@1.0.4-rc1

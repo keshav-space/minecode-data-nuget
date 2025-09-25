@@ -1,0 +1,14 @@
+- pkg:nuget/AzureTablesLifecycleManager@1.0.0
+- pkg:nuget/AzureTablesLifecycleManager@1.0.0-beta
+- pkg:nuget/AzureTablesLifecycleManager@1.0.1
+- pkg:nuget/AzureTablesLifecycleManager@1.0.1-beta
+- pkg:nuget/AzureTablesLifecycleManager@1.1.0
+- pkg:nuget/AzureTablesLifecycleManager@1.1.0-beta
+- pkg:nuget/AzureTablesLifecycleManager@1.2.0
+- pkg:nuget/AzureTablesLifecycleManager@1.2.0-beta
+- pkg:nuget/AzureTablesLifecycleManager@2.0.0
+- pkg:nuget/AzureTablesLifecycleManager@2.0.0-beta
+- pkg:nuget/AzureTablesLifecycleManager@2.1.0
+- pkg:nuget/AzureTablesLifecycleManager@2.1.0-beta
+- pkg:nuget/AzureTablesLifecycleManager@2.2.0
+- pkg:nuget/AzureTablesLifecycleManager@2.2.0-beta

@@ -1,0 +1,4 @@
+- pkg:nuget/InMemoryDbSet@1.0.0
+- pkg:nuget/InMemoryDbSet@1.0.5
+- pkg:nuget/InMemoryDbSet@2.0.10
+- pkg:nuget/InMemoryDbSet@2.0.7

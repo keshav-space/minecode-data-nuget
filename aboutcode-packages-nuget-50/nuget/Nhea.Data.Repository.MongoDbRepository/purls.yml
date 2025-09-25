@@ -1,0 +1,10 @@
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@1.0.0
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@1.1.0
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@1.1.1
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@1.1.2
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@1.1.3
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@1.1.4
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@2.0.0
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@2.0.0.1
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@3.0.0
+- pkg:nuget/Nhea.Data.Repository.MongoDbRepository@4.0.1

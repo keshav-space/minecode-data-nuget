@@ -1,0 +1,4 @@
+- pkg:nuget/ElasticCache@1.0.12
+- pkg:nuget/ElasticCache@1.0.14
+- pkg:nuget/ElasticCache@1.0.7
+- pkg:nuget/ElasticCache@1.0.8

@@ -1,0 +1,5 @@
+- pkg:nuget/ShotStack@1.0.0-alpha
+- pkg:nuget/ShotStack@1.0.0-beta
+- pkg:nuget/ShotStack@1.1.0
+- pkg:nuget/ShotStack@1.1.0-alpha
+- pkg:nuget/ShotStack@1.1.0-beta

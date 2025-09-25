@@ -1,0 +1,5 @@
+- pkg:nuget/TestDataDefinitionFramework.MongoDB@1.0.0
+- pkg:nuget/TestDataDefinitionFramework.MongoDB@1.1.0
+- pkg:nuget/TestDataDefinitionFramework.MongoDB@2.0.0
+- pkg:nuget/TestDataDefinitionFramework.MongoDB@2.0.1
+- pkg:nuget/TestDataDefinitionFramework.MongoDB@3.0.0

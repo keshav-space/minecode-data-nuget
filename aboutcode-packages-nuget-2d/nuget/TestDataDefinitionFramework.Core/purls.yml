@@ -1,0 +1,6 @@
+- pkg:nuget/TestDataDefinitionFramework.Core@1.0.0
+- pkg:nuget/TestDataDefinitionFramework.Core@1.1.0
+- pkg:nuget/TestDataDefinitionFramework.Core@2.0.0
+- pkg:nuget/TestDataDefinitionFramework.Core@2.0.1
+- pkg:nuget/TestDataDefinitionFramework.Core@2.0.2
+- pkg:nuget/TestDataDefinitionFramework.Core@3.0.0

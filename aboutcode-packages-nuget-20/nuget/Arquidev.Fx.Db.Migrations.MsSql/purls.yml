@@ -1,0 +1,9 @@
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@0.1.1
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@0.1.1-alpha
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@1.0.0
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@1.1.0
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@1.1.0-alpha
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@1.2.0
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@2.0.0
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@2.0.0-alpha
+- pkg:nuget/Arquidev.Fx.Db.Migrations.MsSql@2.1.0

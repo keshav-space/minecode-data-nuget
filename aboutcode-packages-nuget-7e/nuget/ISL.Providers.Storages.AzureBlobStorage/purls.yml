@@ -1,0 +1,3 @@
+- pkg:nuget/ISL.Providers.Storages.AzureBlobStorage@1.0.0.1
+- pkg:nuget/ISL.Providers.Storages.AzureBlobStorage@1.0.0.2
+- pkg:nuget/ISL.Providers.Storages.AzureBlobStorage@1.0.0.3

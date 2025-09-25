@@ -1,0 +1,5 @@
+- pkg:nuget/EventBus.Domain.Core@0.0.1
+- pkg:nuget/EventBus.Domain.Core@1.0.0
+- pkg:nuget/EventBus.Domain.Core@1.0.1
+- pkg:nuget/EventBus.Domain.Core@1.1.2
+- pkg:nuget/EventBus.Domain.Core@1.1.3

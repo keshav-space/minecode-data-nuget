@@ -1,0 +1,5 @@
+- pkg:nuget/ObjectPort@0.9.0
+- pkg:nuget/ObjectPort@0.9.1
+- pkg:nuget/ObjectPort@0.9.1-alpha
+- pkg:nuget/ObjectPort@0.9.1-beta
+- pkg:nuget/ObjectPort@0.9.1-rc1

@@ -1,0 +1,3 @@
+- pkg:nuget/NodeAssets.Compilers.Node@0.0.9
+- pkg:nuget/NodeAssets.Compilers.Node@2.0.0
+- pkg:nuget/NodeAssets.Compilers.Node@3.0.0

@@ -1,0 +1,10 @@
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@1.0.0
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@2.0.0
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@3.0.0
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@3.0.1
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@3.0.2
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@4.0.0
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@5.0.0
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@6.0.0
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@6.0.1
+- pkg:nuget/ZNetCS.AspNetCore.Authentication.Basic@9.0.0

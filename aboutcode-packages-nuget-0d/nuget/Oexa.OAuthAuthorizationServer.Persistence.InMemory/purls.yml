@@ -1,0 +1,5 @@
+- pkg:nuget/Oexa.OAuthAuthorizationServer.Persistence.InMemory@1.0.5
+- pkg:nuget/Oexa.OAuthAuthorizationServer.Persistence.InMemory@1.0.6
+- pkg:nuget/Oexa.OAuthAuthorizationServer.Persistence.InMemory@1.0.7
+- pkg:nuget/Oexa.OAuthAuthorizationServer.Persistence.InMemory@1.0.8
+- pkg:nuget/Oexa.OAuthAuthorizationServer.Persistence.InMemory@1.0.9

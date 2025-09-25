@@ -1,0 +1,4 @@
+- pkg:nuget/AzureAdvocates.WebJobs.Extensions.SignalRService@0.1.0-alpha
+- pkg:nuget/AzureAdvocates.WebJobs.Extensions.SignalRService@0.2.0-alpha
+- pkg:nuget/AzureAdvocates.WebJobs.Extensions.SignalRService@0.3.0-alpha
+- pkg:nuget/AzureAdvocates.WebJobs.Extensions.SignalRService@0.3.0-alpha-hotfix1

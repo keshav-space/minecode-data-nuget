@@ -1,0 +1,8 @@
+- pkg:nuget/Elmah.AzureTableStorage@0.5.0
+- pkg:nuget/Elmah.AzureTableStorage@0.5.1
+- pkg:nuget/Elmah.AzureTableStorage@0.5.2
+- pkg:nuget/Elmah.AzureTableStorage@0.5.3
+- pkg:nuget/Elmah.AzureTableStorage@0.6.0
+- pkg:nuget/Elmah.AzureTableStorage@0.6.1
+- pkg:nuget/Elmah.AzureTableStorage@0.6.2
+- pkg:nuget/Elmah.AzureTableStorage@1.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Phaeton.Hangfire.Redis.EventDispatcher@1.0.0
+- pkg:nuget/Phaeton.Hangfire.Redis.EventDispatcher@1.0.1

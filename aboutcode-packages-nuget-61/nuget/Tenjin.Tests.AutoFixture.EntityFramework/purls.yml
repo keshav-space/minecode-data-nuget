@@ -1,0 +1,7 @@
+- pkg:nuget/Tenjin.Tests.AutoFixture.EntityFramework@1.0.1.10
+- pkg:nuget/Tenjin.Tests.AutoFixture.EntityFramework@1.0.1.8
+- pkg:nuget/Tenjin.Tests.AutoFixture.EntityFramework@1.0.2
+- pkg:nuget/Tenjin.Tests.AutoFixture.EntityFramework@1.0.5
+- pkg:nuget/Tenjin.Tests.AutoFixture.EntityFramework@1.1.0.13
+- pkg:nuget/Tenjin.Tests.AutoFixture.EntityFramework@1.2.0
+- pkg:nuget/Tenjin.Tests.AutoFixture.EntityFramework@3.0.0

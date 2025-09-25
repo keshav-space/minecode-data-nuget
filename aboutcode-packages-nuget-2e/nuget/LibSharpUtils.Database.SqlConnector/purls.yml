@@ -1,0 +1,5 @@
+- pkg:nuget/LibSharpUtils.Database.SqlConnector@2.1.0
+- pkg:nuget/LibSharpUtils.Database.SqlConnector@2.2.0
+- pkg:nuget/LibSharpUtils.Database.SqlConnector@2.2.1
+- pkg:nuget/LibSharpUtils.Database.SqlConnector@2.2.1-debug
+- pkg:nuget/LibSharpUtils.Database.SqlConnector@2.2.2

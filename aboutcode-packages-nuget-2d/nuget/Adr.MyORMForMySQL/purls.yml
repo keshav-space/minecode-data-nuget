@@ -1,0 +1,4 @@
+- pkg:nuget/Adr.MyORMForMySQL@1.0.0
+- pkg:nuget/Adr.MyORMForMySQL@2.0.0
+- pkg:nuget/Adr.MyORMForMySQL@2.0.1
+- pkg:nuget/Adr.MyORMForMySQL@3.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/JamesQMurphy.Entities.DynamoDB@0.0.10
+- pkg:nuget/JamesQMurphy.Entities.DynamoDB@0.0.11
+- pkg:nuget/JamesQMurphy.Entities.DynamoDB@0.0.8
+- pkg:nuget/JamesQMurphy.Entities.DynamoDB@0.0.9

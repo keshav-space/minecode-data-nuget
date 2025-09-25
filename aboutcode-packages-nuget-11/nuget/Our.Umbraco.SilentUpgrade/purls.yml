@@ -1,0 +1,5 @@
+- pkg:nuget/Our.Umbraco.SilentUpgrade@8.0.0-beta
+- pkg:nuget/Our.Umbraco.SilentUpgrade@8.1.0
+- pkg:nuget/Our.Umbraco.SilentUpgrade@8.1.0-alpha-08
+- pkg:nuget/Our.Umbraco.SilentUpgrade@8.1.0-alpha-09
+- pkg:nuget/Our.Umbraco.SilentUpgrade@8.1.0-alpha-10

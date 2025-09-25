@@ -1,0 +1,5 @@
+- pkg:nuget/PrometheusMetrics.Netstandard@1.0.0
+- pkg:nuget/PrometheusMetrics.Netstandard@1.0.1
+- pkg:nuget/PrometheusMetrics.Netstandard@2.0.0
+- pkg:nuget/PrometheusMetrics.Netstandard@2.0.3
+- pkg:nuget/PrometheusMetrics.Netstandard@3.0.0

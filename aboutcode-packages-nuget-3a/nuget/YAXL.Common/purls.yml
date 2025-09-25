@@ -1,0 +1,6 @@
+- pkg:nuget/YAXL.Common@0.1.10-ci
+- pkg:nuget/YAXL.Common@0.1.11-ci
+- pkg:nuget/YAXL.Common@0.1.12-ci
+- pkg:nuget/YAXL.Common@0.1.5-ci
+- pkg:nuget/YAXL.Common@0.1.7-ci
+- pkg:nuget/YAXL.Common@0.1.9-ci

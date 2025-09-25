@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.0.0
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.0.0-preview1-10723
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.0.0-preview1-10756
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.0.0-preview1-10767
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.0.0-preview1-10785
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.0.0-preview1-10809
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.1.0
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.3.0
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.4.0
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.6.0
+- pkg:nuget/Microsoft.Azure.SignalR.Emulator@1.6.1

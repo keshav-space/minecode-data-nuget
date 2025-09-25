@@ -1,0 +1,3 @@
+- pkg:nuget/Ninject.CoreContext@1.1.0-alpha
+- pkg:nuget/Ninject.CoreContext@1.1.1
+- pkg:nuget/Ninject.CoreContext@1.1.1-alpha

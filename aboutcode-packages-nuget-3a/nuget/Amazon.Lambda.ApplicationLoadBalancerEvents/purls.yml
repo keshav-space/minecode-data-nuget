@@ -1,0 +1,4 @@
+- pkg:nuget/Amazon.Lambda.ApplicationLoadBalancerEvents@1.0.0
+- pkg:nuget/Amazon.Lambda.ApplicationLoadBalancerEvents@2.0.0
+- pkg:nuget/Amazon.Lambda.ApplicationLoadBalancerEvents@2.1.0
+- pkg:nuget/Amazon.Lambda.ApplicationLoadBalancerEvents@2.2.0

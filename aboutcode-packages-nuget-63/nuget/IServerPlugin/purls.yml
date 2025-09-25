@@ -1,0 +1,4 @@
+- pkg:nuget/IServerPlugin@1.0.0
+- pkg:nuget/IServerPlugin@1.0.1
+- pkg:nuget/IServerPlugin@1.0.2-alpha1
+- pkg:nuget/IServerPlugin@2.0.2

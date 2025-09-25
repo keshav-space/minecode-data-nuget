@@ -1,0 +1,11 @@
+- pkg:nuget/Bitbound.SimpleMessenger@1.0.0
+- pkg:nuget/Bitbound.SimpleMessenger@1.1.0
+- pkg:nuget/Bitbound.SimpleMessenger@2.0.0
+- pkg:nuget/Bitbound.SimpleMessenger@2.1.0
+- pkg:nuget/Bitbound.SimpleMessenger@2.2.0
+- pkg:nuget/Bitbound.SimpleMessenger@2.2.1
+- pkg:nuget/Bitbound.SimpleMessenger@2.3.10-dev
+- pkg:nuget/Bitbound.SimpleMessenger@2.3.11-dev
+- pkg:nuget/Bitbound.SimpleMessenger@2.3.12
+- pkg:nuget/Bitbound.SimpleMessenger@2.3.13-dev
+- pkg:nuget/Bitbound.SimpleMessenger@2.3.14

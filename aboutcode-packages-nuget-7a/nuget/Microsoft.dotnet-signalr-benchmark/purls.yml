@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.dotnet-signalr-benchmark@1.0.0-preview1-10422
+- pkg:nuget/Microsoft.dotnet-signalr-benchmark@1.0.0-preview2.19516.1
+- pkg:nuget/Microsoft.dotnet-signalr-benchmark@1.0.0-preview2.19521.1
+- pkg:nuget/Microsoft.dotnet-signalr-benchmark@1.0.56301

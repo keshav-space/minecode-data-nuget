@@ -1,0 +1,5 @@
+- pkg:nuget/Amazon.Lambda.CloudWatchLogsEvents@1.0.0
+- pkg:nuget/Amazon.Lambda.CloudWatchLogsEvents@1.1.0
+- pkg:nuget/Amazon.Lambda.CloudWatchLogsEvents@2.0.0
+- pkg:nuget/Amazon.Lambda.CloudWatchLogsEvents@2.1.0
+- pkg:nuget/Amazon.Lambda.CloudWatchLogsEvents@2.2.0

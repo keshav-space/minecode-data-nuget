@@ -1,0 +1,3 @@
+- pkg:nuget/NauckIT.PostgreSQLProvider@1.3.5
+- pkg:nuget/NauckIT.PostgreSQLProvider@2.0.0
+- pkg:nuget/NauckIT.PostgreSQLProvider@2.1.0-dev

@@ -1,0 +1,5 @@
+- pkg:nuget/LegacyCore@1.0.0
+- pkg:nuget/LegacyCore@1.0.1
+- pkg:nuget/LegacyCore@1.0.1-READMEFIX
+- pkg:nuget/LegacyCore@1.0.1-READMEFIX2
+- pkg:nuget/LegacyCore@1.0.1-patch1

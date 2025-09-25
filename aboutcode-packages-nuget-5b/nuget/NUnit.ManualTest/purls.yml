@@ -1,0 +1,3 @@
+- pkg:nuget/NUnit.ManualTest@0.0.1-beta
+- pkg:nuget/NUnit.ManualTest@1.0.0
+- pkg:nuget/NUnit.ManualTest@1.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Timers.Storage@1.0.0
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Timers.Storage@1.0.0-beta.1

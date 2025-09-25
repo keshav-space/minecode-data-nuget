@@ -1,0 +1,6 @@
+- pkg:nuget/QPdf.RuntimeLibraries@11.6.3
+- pkg:nuget/QPdf.RuntimeLibraries@11.6.4
+- pkg:nuget/QPdf.RuntimeLibraries@11.7.0
+- pkg:nuget/QPdf.RuntimeLibraries@11.8.0
+- pkg:nuget/QPdf.RuntimeLibraries@11.9.0
+- pkg:nuget/QPdf.RuntimeLibraries@11.9.1

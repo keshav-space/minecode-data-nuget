@@ -1,0 +1,16 @@
+- pkg:nuget/LightApi.EFCore@0.1.0
+- pkg:nuget/LightApi.EFCore@0.1.1
+- pkg:nuget/LightApi.EFCore@0.1.2
+- pkg:nuget/LightApi.EFCore@0.2.0
+- pkg:nuget/LightApi.EFCore@0.3.0
+- pkg:nuget/LightApi.EFCore@0.4.0
+- pkg:nuget/LightApi.EFCore@1.0.0
+- pkg:nuget/LightApi.EFCore@1.0.1
+- pkg:nuget/LightApi.EFCore@1.1.0-preview
+- pkg:nuget/LightApi.EFCore@1.2.0
+- pkg:nuget/LightApi.EFCore@1.2.1
+- pkg:nuget/LightApi.EFCore@1.2.2
+- pkg:nuget/LightApi.EFCore@1.2.3
+- pkg:nuget/LightApi.EFCore@1.2.3-preview1
+- pkg:nuget/LightApi.EFCore@2.0.0
+- pkg:nuget/LightApi.EFCore@3.0.0

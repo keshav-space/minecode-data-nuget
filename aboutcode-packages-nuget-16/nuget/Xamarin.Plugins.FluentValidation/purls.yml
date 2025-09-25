@@ -1,0 +1,6 @@
+- pkg:nuget/Xamarin.Plugins.FluentValidation@1.0.23
+- pkg:nuget/Xamarin.Plugins.FluentValidation@1.0.25
+- pkg:nuget/Xamarin.Plugins.FluentValidation@2.0.33
+- pkg:nuget/Xamarin.Plugins.FluentValidation@2.0.47
+- pkg:nuget/Xamarin.Plugins.FluentValidation@3.0.61
+- pkg:nuget/Xamarin.Plugins.FluentValidation@3.0.64

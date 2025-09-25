@@ -1,0 +1,5 @@
+- pkg:nuget/EventBus.Infra.Bus@0.0.1
+- pkg:nuget/EventBus.Infra.Bus@1.0.0
+- pkg:nuget/EventBus.Infra.Bus@1.0.1
+- pkg:nuget/EventBus.Infra.Bus@1.1.2
+- pkg:nuget/EventBus.Infra.Bus@1.1.3

@@ -1,0 +1,9 @@
+- pkg:nuget/Schtick.Redis@0.9.1-unstable1
+- pkg:nuget/Schtick.Redis@1.0.0
+- pkg:nuget/Schtick.Redis@1.0.1
+- pkg:nuget/Schtick.Redis@1.0.2
+- pkg:nuget/Schtick.Redis@1.0.3
+- pkg:nuget/Schtick.Redis@1.0.3-unstable7
+- pkg:nuget/Schtick.Redis@2.0.0
+- pkg:nuget/Schtick.Redis@2.0.0-alpha-12
+- pkg:nuget/Schtick.Redis@2.0.2

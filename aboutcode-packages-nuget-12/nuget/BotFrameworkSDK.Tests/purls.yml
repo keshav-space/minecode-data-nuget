@@ -1,0 +1,5 @@
+- pkg:nuget/BotFrameworkSDK.Tests@2.0.81
+- pkg:nuget/BotFrameworkSDK.Tests@2.0.82
+- pkg:nuget/BotFrameworkSDK.Tests@2.0.83
+- pkg:nuget/BotFrameworkSDK.Tests@2.0.84
+- pkg:nuget/BotFrameworkSDK.Tests@2.0.85

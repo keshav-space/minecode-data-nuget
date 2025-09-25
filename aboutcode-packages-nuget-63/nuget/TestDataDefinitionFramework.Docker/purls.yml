@@ -1,0 +1,5 @@
+- pkg:nuget/TestDataDefinitionFramework.Docker@1.0.0
+- pkg:nuget/TestDataDefinitionFramework.Docker@1.0.1
+- pkg:nuget/TestDataDefinitionFramework.Docker@2.0.0
+- pkg:nuget/TestDataDefinitionFramework.Docker@2.0.1
+- pkg:nuget/TestDataDefinitionFramework.Docker@3.0.0

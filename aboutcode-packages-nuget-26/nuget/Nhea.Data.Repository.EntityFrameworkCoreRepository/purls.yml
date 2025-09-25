@@ -1,0 +1,9 @@
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@1.0.0
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@2.0.0
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@2.0.0.1
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@2.0.0.2
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@2.0.0.3
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@3.0.0
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@3.0.1
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@4.0.0
+- pkg:nuget/Nhea.Data.Repository.EntityFrameworkCoreRepository@5.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/Tinify-netstandard20@2.0.1
+- pkg:nuget/Tinify-netstandard20@2.0.1-prerelease
+- pkg:nuget/Tinify-netstandard20@2.0.2-prerelease
+- pkg:nuget/Tinify-netstandard20@2.0.6-prerelease

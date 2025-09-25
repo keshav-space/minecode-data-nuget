@@ -1,0 +1,5 @@
+- pkg:nuget/GraniteCore@1.0.0
+- pkg:nuget/GraniteCore@2.0.0-alpha
+- pkg:nuget/GraniteCore@2.1.0-alpha
+- pkg:nuget/GraniteCore@2.2.0-alpha
+- pkg:nuget/GraniteCore@2.2.1-alpha

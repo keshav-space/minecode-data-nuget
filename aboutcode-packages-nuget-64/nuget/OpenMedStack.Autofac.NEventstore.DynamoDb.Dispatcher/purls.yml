@@ -1,0 +1,2 @@
+- pkg:nuget/OpenMedStack.Autofac.NEventstore.DynamoDb.Dispatcher@2.2.0
+- pkg:nuget/OpenMedStack.Autofac.NEventstore.DynamoDb.Dispatcher@2.3.0

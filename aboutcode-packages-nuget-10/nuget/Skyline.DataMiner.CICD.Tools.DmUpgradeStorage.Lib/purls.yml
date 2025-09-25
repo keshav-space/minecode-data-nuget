@@ -1,0 +1,8 @@
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.DmUpgradeStorage.Lib@1.0.0
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.DmUpgradeStorage.Lib@1.0.0-alpha
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.DmUpgradeStorage.Lib@1.0.0-bravo
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.DmUpgradeStorage.Lib@1.0.0-charlie
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.DmUpgradeStorage.Lib@2.0.0
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.DmUpgradeStorage.Lib@2.0.0-alpha
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.DmUpgradeStorage.Lib@2.0.0-bravo
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.DmUpgradeStorage.Lib@2.0.0-charlie

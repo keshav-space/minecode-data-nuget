@@ -1,0 +1,10 @@
+- pkg:nuget/NsqClient@0.1.0
+- pkg:nuget/NsqClient@0.1.0-beta
+- pkg:nuget/NsqClient@0.2.0-beta
+- pkg:nuget/NsqClient@0.2.1-beta
+- pkg:nuget/NsqClient@0.2.2-beta
+- pkg:nuget/NsqClient@0.2.3-beta
+- pkg:nuget/NsqClient@1.0.0
+- pkg:nuget/NsqClient@1.0.1
+- pkg:nuget/NsqClient@1.0.2
+- pkg:nuget/NsqClient@1.0.3

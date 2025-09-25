@@ -1,0 +1,14 @@
+- pkg:nuget/BHoM.Interop.XML@3.3.0
+- pkg:nuget/BHoM.Interop.XML@4.0.0-alpha
+- pkg:nuget/BHoM.Interop.XML@4.0.0-beta
+- pkg:nuget/BHoM.Interop.XML@4.0.1-alpha
+- pkg:nuget/BHoM.Interop.XML@4.0.2-alpha
+- pkg:nuget/BHoM.Interop.XML@4.0.3-alpha
+- pkg:nuget/BHoM.Interop.XML@4.0.4-alpha
+- pkg:nuget/BHoM.Interop.XML@4.1.0-alpha
+- pkg:nuget/BHoM.Interop.XML@4.1.0-beta
+- pkg:nuget/BHoM.Interop.XML@4.2.0-beta
+- pkg:nuget/BHoM.Interop.XML@4.3.0-beta
+- pkg:nuget/BHoM.Interop.XML@5.0.0-alpha
+- pkg:nuget/BHoM.Interop.XML@5.0.1-alpha
+- pkg:nuget/BHoM.Interop.XML@5.0.2-alpha

@@ -1,0 +1,5 @@
+- pkg:nuget/Tenjin.Tests.EntityFramework.Sqlite@1.0.1
+- pkg:nuget/Tenjin.Tests.EntityFramework.Sqlite@1.0.1.4
+- pkg:nuget/Tenjin.Tests.EntityFramework.Sqlite@1.1.0.7
+- pkg:nuget/Tenjin.Tests.EntityFramework.Sqlite@1.2.0
+- pkg:nuget/Tenjin.Tests.EntityFramework.Sqlite@3.0.0

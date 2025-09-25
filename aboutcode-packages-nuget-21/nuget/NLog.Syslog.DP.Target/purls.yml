@@ -1,0 +1,6 @@
+- pkg:nuget/NLog.Syslog.DP.Target@1.0.0
+- pkg:nuget/NLog.Syslog.DP.Target@1.0.0.1
+- pkg:nuget/NLog.Syslog.DP.Target@1.0.0.2
+- pkg:nuget/NLog.Syslog.DP.Target@1.2.0
+- pkg:nuget/NLog.Syslog.DP.Target@1.3.0
+- pkg:nuget/NLog.Syslog.DP.Target@1.4.0

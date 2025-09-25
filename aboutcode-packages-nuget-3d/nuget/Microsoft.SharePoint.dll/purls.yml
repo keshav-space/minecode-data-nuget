@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.SharePoint.dll@1.0.0
+- pkg:nuget/Microsoft.SharePoint.dll@14.0.0
+- pkg:nuget/Microsoft.SharePoint.dll@15.0.0
+- pkg:nuget/Microsoft.SharePoint.dll@15.0.4867.1000

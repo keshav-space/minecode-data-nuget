@@ -1,0 +1,2 @@
+- pkg:nuget/SingularFrameworkCore.Serialization.Newtonsoft.Bson@0.1.0-alpha
+- pkg:nuget/SingularFrameworkCore.Serialization.Newtonsoft.Bson@0.2.0-beta

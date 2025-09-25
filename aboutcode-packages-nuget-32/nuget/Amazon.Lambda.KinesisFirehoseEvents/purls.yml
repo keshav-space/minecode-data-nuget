@@ -1,0 +1,6 @@
+- pkg:nuget/Amazon.Lambda.KinesisFirehoseEvents@1.0.0
+- pkg:nuget/Amazon.Lambda.KinesisFirehoseEvents@1.1.0
+- pkg:nuget/Amazon.Lambda.KinesisFirehoseEvents@2.0.0
+- pkg:nuget/Amazon.Lambda.KinesisFirehoseEvents@2.1.0
+- pkg:nuget/Amazon.Lambda.KinesisFirehoseEvents@2.2.0
+- pkg:nuget/Amazon.Lambda.KinesisFirehoseEvents@2.3.0
