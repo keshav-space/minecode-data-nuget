@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.0.5
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.0.7
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.0.8
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.1.0
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.2.0
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.4.250728003-experimental
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.4.250729003-experimental
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.4.250808002-experimental
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.4.250811006-experimental
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.4.250820003-experimental
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.4.250822005-experimental
+- pkg:nuget/Microsoft.CommandPalette.Extensions@0.5.250829002

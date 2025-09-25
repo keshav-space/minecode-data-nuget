@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.0.0
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.0.0-rc
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.1.0
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.1.0-preview0
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.1.0-preview1
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.2.0
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.2.0-msbuild-preview4-000000
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.2.0-msbuild-preview4-004233
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@1.2.0-msbuild-preview4-004234
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@2.0.0
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@2.0.0-preview1
+- pkg:nuget/Microsoft.DotNet.Xdt.Tools@2.0.0-preview2

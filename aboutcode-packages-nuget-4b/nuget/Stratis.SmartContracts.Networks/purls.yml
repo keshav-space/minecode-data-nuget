@@ -1,0 +1,11 @@
+- pkg:nuget/Stratis.SmartContracts.Networks@0.0.1-beta
+- pkg:nuget/Stratis.SmartContracts.Networks@1.0.1
+- pkg:nuget/Stratis.SmartContracts.Networks@1.0.2
+- pkg:nuget/Stratis.SmartContracts.Networks@1.0.2.1
+- pkg:nuget/Stratis.SmartContracts.Networks@1.0.3.1
+- pkg:nuget/Stratis.SmartContracts.Networks@1.0.6.3
+- pkg:nuget/Stratis.SmartContracts.Networks@2.0.0
+- pkg:nuget/Stratis.SmartContracts.Networks@2.0.1
+- pkg:nuget/Stratis.SmartContracts.Networks@2.0.2
+- pkg:nuget/Stratis.SmartContracts.Networks@2.0.3
+- pkg:nuget/Stratis.SmartContracts.Networks@2.1.0-beta

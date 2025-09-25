@@ -1,0 +1,14 @@
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.0.499
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.0.517
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.0.518
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.0.520
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.0.563
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.1.131
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.1.132
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.1.133
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.1.135
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.1.143
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.1.144
+- pkg:nuget/Ruya.Bus.RabbitMQ@1.2.9
+- pkg:nuget/Ruya.Bus.RabbitMQ@7.0.2
+- pkg:nuget/Ruya.Bus.RabbitMQ@8.0.4

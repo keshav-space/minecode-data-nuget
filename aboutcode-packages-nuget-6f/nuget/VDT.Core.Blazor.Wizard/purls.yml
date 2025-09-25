@@ -1,0 +1,9 @@
+- pkg:nuget/VDT.Core.Blazor.Wizard@1.0.0
+- pkg:nuget/VDT.Core.Blazor.Wizard@1.0.1
+- pkg:nuget/VDT.Core.Blazor.Wizard@2.0.0
+- pkg:nuget/VDT.Core.Blazor.Wizard@2.0.1
+- pkg:nuget/VDT.Core.Blazor.Wizard@2.0.2
+- pkg:nuget/VDT.Core.Blazor.Wizard@2.1.0
+- pkg:nuget/VDT.Core.Blazor.Wizard@3.0.0
+- pkg:nuget/VDT.Core.Blazor.Wizard@4.0.0
+- pkg:nuget/VDT.Core.Blazor.Wizard@5.0.0

@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.0.22823-RC
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.0.23019-MVP
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.0.23020-MVP
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.0.23107
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.0.23205
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.1.24627-RCUpdate1
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.1.24720
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.2.25123
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost.14.0@14.3.25407

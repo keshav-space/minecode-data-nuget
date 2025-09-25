@@ -1,0 +1,5 @@
+- pkg:nuget/Redbridge.WebApi@2.2.1
+- pkg:nuget/Redbridge.WebApi@6.0.0
+- pkg:nuget/Redbridge.WebApi@6.0.1
+- pkg:nuget/Redbridge.WebApi@7.0.1
+- pkg:nuget/Redbridge.WebApi@7.0.2

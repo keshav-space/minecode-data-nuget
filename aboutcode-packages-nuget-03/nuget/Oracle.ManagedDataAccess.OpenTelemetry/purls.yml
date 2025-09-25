@@ -1,0 +1,9 @@
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.2.0-dev
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.3.0-dev
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.3.2-dev
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.4.0
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.5.0
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.6.0
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.7.0
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.8.0
+- pkg:nuget/Oracle.ManagedDataAccess.OpenTelemetry@23.9.0

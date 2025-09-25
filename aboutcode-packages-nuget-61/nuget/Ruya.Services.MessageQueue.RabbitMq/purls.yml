@@ -1,0 +1,9 @@
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.0.526
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.0.557
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.1.129
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.1.132
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.1.133
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.1.135
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.1.143
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.1.144
+- pkg:nuget/Ruya.Services.MessageQueue.RabbitMq@1.2.9

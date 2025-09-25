@@ -1,0 +1,4 @@
+- pkg:nuget/NLog.Web.ASPNET5@4.2.0
+- pkg:nuget/NLog.Web.ASPNET5@4.2.1
+- pkg:nuget/NLog.Web.ASPNET5@4.2.2
+- pkg:nuget/NLog.Web.ASPNET5@4.2.2-RC

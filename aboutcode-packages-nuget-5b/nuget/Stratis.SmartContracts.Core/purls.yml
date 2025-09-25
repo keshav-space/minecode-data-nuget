@@ -1,0 +1,13 @@
+- pkg:nuget/Stratis.SmartContracts.Core@0.0.1-beta
+- pkg:nuget/Stratis.SmartContracts.Core@0.0.2-beta
+- pkg:nuget/Stratis.SmartContracts.Core@1.0.0
+- pkg:nuget/Stratis.SmartContracts.Core@1.0.1
+- pkg:nuget/Stratis.SmartContracts.Core@1.0.2
+- pkg:nuget/Stratis.SmartContracts.Core@1.0.2.1
+- pkg:nuget/Stratis.SmartContracts.Core@1.0.3.1
+- pkg:nuget/Stratis.SmartContracts.Core@1.0.6.3
+- pkg:nuget/Stratis.SmartContracts.Core@2.0.0
+- pkg:nuget/Stratis.SmartContracts.Core@2.0.1
+- pkg:nuget/Stratis.SmartContracts.Core@2.0.2
+- pkg:nuget/Stratis.SmartContracts.Core@2.0.3
+- pkg:nuget/Stratis.SmartContracts.Core@2.1.0-beta

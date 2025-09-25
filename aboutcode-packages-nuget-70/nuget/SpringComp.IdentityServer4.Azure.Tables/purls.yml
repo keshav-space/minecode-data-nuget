@@ -1,0 +1,6 @@
+- pkg:nuget/SpringComp.IdentityServer4.Azure.Tables@3.0.0
+- pkg:nuget/SpringComp.IdentityServer4.Azure.Tables@3.0.20-rc1
+- pkg:nuget/SpringComp.IdentityServer4.Azure.Tables@3.0.21
+- pkg:nuget/SpringComp.IdentityServer4.Azure.Tables@3.0.22
+- pkg:nuget/SpringComp.IdentityServer4.Azure.Tables@3.0.23
+- pkg:nuget/SpringComp.IdentityServer4.Azure.Tables@3.0.24

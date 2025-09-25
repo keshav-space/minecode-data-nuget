@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.VisualStudio.Services.NuGet.Bootstrap@0.1.0
+- pkg:nuget/Microsoft.VisualStudio.Services.NuGet.Bootstrap@0.1.1
+- pkg:nuget/Microsoft.VisualStudio.Services.NuGet.Bootstrap@0.1.2
+- pkg:nuget/Microsoft.VisualStudio.Services.NuGet.Bootstrap@0.1.3

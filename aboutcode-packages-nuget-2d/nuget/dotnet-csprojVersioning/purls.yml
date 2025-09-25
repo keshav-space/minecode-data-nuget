@@ -1,0 +1,4 @@
+- pkg:nuget/dotnet-csprojVersioning@1.0.0.11
+- pkg:nuget/dotnet-csprojVersioning@1.0.0.12
+- pkg:nuget/dotnet-csprojVersioning@1.0.0.14
+- pkg:nuget/dotnet-csprojVersioning@1.0.0.4

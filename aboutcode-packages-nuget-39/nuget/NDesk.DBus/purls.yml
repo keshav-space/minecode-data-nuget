@@ -1,0 +1,6 @@
+- pkg:nuget/NDesk.DBus@0.12.0
+- pkg:nuget/NDesk.DBus@0.12.1
+- pkg:nuget/NDesk.DBus@0.13.0
+- pkg:nuget/NDesk.DBus@0.13.1
+- pkg:nuget/NDesk.DBus@0.14.0
+- pkg:nuget/NDesk.DBus@0.15.0

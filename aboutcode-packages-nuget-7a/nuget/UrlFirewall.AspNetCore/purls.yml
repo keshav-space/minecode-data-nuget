@@ -1,0 +1,4 @@
+- pkg:nuget/UrlFirewall.AspNetCore@0.1.0
+- pkg:nuget/UrlFirewall.AspNetCore@0.1.1
+- pkg:nuget/UrlFirewall.AspNetCore@0.1.2
+- pkg:nuget/UrlFirewall.AspNetCore@1.0.0

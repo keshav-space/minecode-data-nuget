@@ -1,0 +1,15 @@
+- pkg:nuget/AnthropicClient@0.0.0
+- pkg:nuget/AnthropicClient@0.0.1
+- pkg:nuget/AnthropicClient@0.0.2
+- pkg:nuget/AnthropicClient@0.0.3
+- pkg:nuget/AnthropicClient@0.0.4
+- pkg:nuget/AnthropicClient@0.1.0
+- pkg:nuget/AnthropicClient@0.1.1
+- pkg:nuget/AnthropicClient@0.2.0
+- pkg:nuget/AnthropicClient@0.3.0
+- pkg:nuget/AnthropicClient@0.4.0
+- pkg:nuget/AnthropicClient@0.5.0
+- pkg:nuget/AnthropicClient@0.6.0
+- pkg:nuget/AnthropicClient@0.6.1
+- pkg:nuget/AnthropicClient@1.0.0
+- pkg:nuget/AnthropicClient@1.1.0

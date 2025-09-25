@@ -1,0 +1,4 @@
+- pkg:nuget/Oracle.ManagedDataAccess.Kerberos@23.6.0
+- pkg:nuget/Oracle.ManagedDataAccess.Kerberos@23.7.0
+- pkg:nuget/Oracle.ManagedDataAccess.Kerberos@23.8.0
+- pkg:nuget/Oracle.ManagedDataAccess.Kerberos@23.9.0

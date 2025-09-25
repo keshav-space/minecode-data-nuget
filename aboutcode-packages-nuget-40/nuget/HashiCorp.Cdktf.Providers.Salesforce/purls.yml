@@ -1,0 +1,17 @@
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@0.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@0.0.1
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@0.0.2
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@0.0.3
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@0.0.4
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@1.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@1.0.1
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@1.0.2
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@2.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@3.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@4.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@4.0.1
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@5.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@6.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@7.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@8.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Salesforce@8.0.1

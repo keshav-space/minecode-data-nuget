@@ -1,0 +1,7 @@
+- pkg:nuget/v8.Full.redist.v142_clang-x64@7.6.303.31
+- pkg:nuget/v8.Full.redist.v142_clang-x64@7.7.299.10
+- pkg:nuget/v8.Full.redist.v142_clang-x64@7.7.299.11
+- pkg:nuget/v8.Full.redist.v142_clang-x64@7.8.279.12
+- pkg:nuget/v8.Full.redist.v142_clang-x64@7.8.279.9
+- pkg:nuget/v8.Full.redist.v142_clang-x64@7.8.282
+- pkg:nuget/v8.Full.redist.v142_clang-x64@7.9.317.23

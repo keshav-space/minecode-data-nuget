@@ -1,0 +1,8 @@
+- pkg:nuget/AspNetCoreTemplate@1.0.0
+- pkg:nuget/AspNetCoreTemplate@1.0.1
+- pkg:nuget/AspNetCoreTemplate@5.0.0
+- pkg:nuget/AspNetCoreTemplate@5.0.1
+- pkg:nuget/AspNetCoreTemplate@5.0.6
+- pkg:nuget/AspNetCoreTemplate@6.0.3
+- pkg:nuget/AspNetCoreTemplate@6.0.5
+- pkg:nuget/AspNetCoreTemplate@7.0.3

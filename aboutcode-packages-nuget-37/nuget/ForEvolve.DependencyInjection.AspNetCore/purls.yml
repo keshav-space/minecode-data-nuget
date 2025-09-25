@@ -1,0 +1,4 @@
+- pkg:nuget/ForEvolve.DependencyInjection.AspNetCore@1.0.10
+- pkg:nuget/ForEvolve.DependencyInjection.AspNetCore@1.0.12
+- pkg:nuget/ForEvolve.DependencyInjection.AspNetCore@1.0.8
+- pkg:nuget/ForEvolve.DependencyInjection.AspNetCore@2.0.5

@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.0
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.0-RC1
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.0-RC1-10701-1147
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.0-RC2
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.0-alpha
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.0-beta1
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.1
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.2.202250711
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.2.205111437
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.2.206221351
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.3.308261200
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.4.402070948
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@1.0.4.403061554
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@2.0.0-beta1-02111522
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@2.0.0-beta4-204171524
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@2.0.0-beta5-206011020
+- pkg:nuget/Microsoft.IdentityModel.Protocol.Extensions@2.0.0-beta6-207211625

@@ -1,0 +1,5 @@
+- pkg:nuget/ForEvolve.DependencyInjection.ContextualBindings@0.0.0-github.3
+- pkg:nuget/ForEvolve.DependencyInjection.ContextualBindings@1.0.10
+- pkg:nuget/ForEvolve.DependencyInjection.ContextualBindings@1.0.12
+- pkg:nuget/ForEvolve.DependencyInjection.ContextualBindings@1.0.8
+- pkg:nuget/ForEvolve.DependencyInjection.ContextualBindings@2.0.5

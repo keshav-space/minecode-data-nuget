@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@10.0.0-rc.1.25458.5
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@9.0.0
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@9.0.0-preview.5.24306.1
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@9.0.0-preview.5.24311.5
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@9.0.0-preview.6.24358.4
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@9.0.0-preview.7.24413.1
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@9.0.0-preview.8.24467.5
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@9.0.0-preview.9.24509.5
+- pkg:nuget/Microsoft.dotnet-scaffold-aspire@9.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/EventSourceClient@1.0.0
+- pkg:nuget/EventSourceClient@2.0.0

@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@14.0.23311-prerelease
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@14.1.24627-RCUpdate1
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@14.1.24720
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@14.2.25123
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@14.3.25407
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@15.0.25123-Dev15Preview
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@15.0.25604-Preview4
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@15.0.25824-RC
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@15.0.26105-RC3
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@15.0.26201
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@15.0.26228
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@15.0.26606
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@15.4.27004
+- pkg:nuget/Microsoft.VSSDK.Vsixsigntool@6.3.9600-pre

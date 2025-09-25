@@ -1,0 +1,7 @@
+- pkg:nuget/OpenRiaServices.M2M@1.0.1-beta
+- pkg:nuget/OpenRiaServices.M2M@2.0.0
+- pkg:nuget/OpenRiaServices.M2M@2.0.0-preview.1
+- pkg:nuget/OpenRiaServices.M2M@5.0.0
+- pkg:nuget/OpenRiaServices.M2M@5.0.0-rc.1
+- pkg:nuget/OpenRiaServices.M2M@5.0.1-ci.1
+- pkg:nuget/OpenRiaServices.M2M@5.1.2

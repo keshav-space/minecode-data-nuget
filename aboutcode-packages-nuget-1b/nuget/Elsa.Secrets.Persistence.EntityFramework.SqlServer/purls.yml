@@ -1,0 +1,6 @@
+- pkg:nuget/Elsa.Secrets.Persistence.EntityFramework.SqlServer@2.13.0
+- pkg:nuget/Elsa.Secrets.Persistence.EntityFramework.SqlServer@2.14.0
+- pkg:nuget/Elsa.Secrets.Persistence.EntityFramework.SqlServer@2.14.1
+- pkg:nuget/Elsa.Secrets.Persistence.EntityFramework.SqlServer@2.15.0
+- pkg:nuget/Elsa.Secrets.Persistence.EntityFramework.SqlServer@2.15.1
+- pkg:nuget/Elsa.Secrets.Persistence.EntityFramework.SqlServer@2.15.2

@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.HealthCheckPublisher.DataDogApi@1.1.0
+- pkg:nuget/AspNetCore.HealthCheckPublisher.DataDogApi@1.1.1
+- pkg:nuget/AspNetCore.HealthCheckPublisher.DataDogApi@2.0.0
+- pkg:nuget/AspNetCore.HealthCheckPublisher.DataDogApi@3.0.0

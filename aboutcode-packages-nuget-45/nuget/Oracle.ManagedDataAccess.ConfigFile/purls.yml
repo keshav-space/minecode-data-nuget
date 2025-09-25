@@ -1,0 +1,7 @@
+- pkg:nuget/Oracle.ManagedDataAccess.ConfigFile@23.3.0-dev
+- pkg:nuget/Oracle.ManagedDataAccess.ConfigFile@23.3.2-dev
+- pkg:nuget/Oracle.ManagedDataAccess.ConfigFile@23.4.0
+- pkg:nuget/Oracle.ManagedDataAccess.ConfigFile@23.6.0
+- pkg:nuget/Oracle.ManagedDataAccess.ConfigFile@23.7.0
+- pkg:nuget/Oracle.ManagedDataAccess.ConfigFile@23.8.0
+- pkg:nuget/Oracle.ManagedDataAccess.ConfigFile@23.9.0

@@ -1,0 +1,17 @@
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@0.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@0.0.1
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@0.0.2
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@0.0.3
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@0.0.4
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@1.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@1.0.1
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@1.0.2
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@2.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@3.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@4.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@4.0.1
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@5.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@6.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@7.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@8.0.0
+- pkg:nuget/HashiCorp.Cdktf.Providers.Opc@8.0.1

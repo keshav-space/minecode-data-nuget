@@ -1,0 +1,6 @@
+- pkg:nuget/MSBeta.EntityFrameworkCore.Engine@3.0.5-preview
+- pkg:nuget/MSBeta.EntityFrameworkCore.Engine@4.0.3-preview
+- pkg:nuget/MSBeta.EntityFrameworkCore.Engine@4.0.4-preview
+- pkg:nuget/MSBeta.EntityFrameworkCore.Engine@4.0.5-preview
+- pkg:nuget/MSBeta.EntityFrameworkCore.Engine@4.0.6-preview
+- pkg:nuget/MSBeta.EntityFrameworkCore.Engine@5.0.0-preview

@@ -1,0 +1,4 @@
+- pkg:nuget/NCaptcha.Targets.Sms@0.0.1-CI-20190916-074001
+- pkg:nuget/NCaptcha.Targets.Sms@0.0.1-CI-20190916-101034
+- pkg:nuget/NCaptcha.Targets.Sms@0.1.0
+- pkg:nuget/NCaptcha.Targets.Sms@0.1.0-preview-20190917.3

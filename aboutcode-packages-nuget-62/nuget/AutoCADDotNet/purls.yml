@@ -1,0 +1,9 @@
+- pkg:nuget/AutoCADDotNet@0.7.0
+- pkg:nuget/AutoCADDotNet@0.7.1
+- pkg:nuget/AutoCADDotNet@0.8.0
+- pkg:nuget/AutoCADDotNet@0.8.1
+- pkg:nuget/AutoCADDotNet@0.9.0
+- pkg:nuget/AutoCADDotNet@0.9.0-code
+- pkg:nuget/AutoCADDotNet@18.0.0
+- pkg:nuget/AutoCADDotNet@19.0.0
+- pkg:nuget/AutoCADDotNet@19.0.1

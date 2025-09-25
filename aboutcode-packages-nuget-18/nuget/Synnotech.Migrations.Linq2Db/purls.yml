@@ -1,0 +1,5 @@
+- pkg:nuget/Synnotech.Migrations.Linq2Db@0.10.1
+- pkg:nuget/Synnotech.Migrations.Linq2Db@0.10.2
+- pkg:nuget/Synnotech.Migrations.Linq2Db@0.7.0
+- pkg:nuget/Synnotech.Migrations.Linq2Db@0.8.0
+- pkg:nuget/Synnotech.Migrations.Linq2Db@0.9.0

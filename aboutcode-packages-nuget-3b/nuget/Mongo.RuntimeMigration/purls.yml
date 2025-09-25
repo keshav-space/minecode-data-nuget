@@ -1,0 +1,5 @@
+- pkg:nuget/Mongo.RuntimeMigration@5.0.0
+- pkg:nuget/Mongo.RuntimeMigration@5.0.0-preview1
+- pkg:nuget/Mongo.RuntimeMigration@5.0.0-preview2
+- pkg:nuget/Mongo.RuntimeMigration@5.0.0-preview3
+- pkg:nuget/Mongo.RuntimeMigration@5.0.1

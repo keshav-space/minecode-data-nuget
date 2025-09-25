@@ -1,0 +1,9 @@
+- pkg:nuget/MinimalSqsClient@1.0.0
+- pkg:nuget/MinimalSqsClient@1.0.0-rc1
+- pkg:nuget/MinimalSqsClient@1.0.0-rc2
+- pkg:nuget/MinimalSqsClient@1.0.0-rc3
+- pkg:nuget/MinimalSqsClient@1.0.0-rc4
+- pkg:nuget/MinimalSqsClient@1.0.1
+- pkg:nuget/MinimalSqsClient@1.0.2
+- pkg:nuget/MinimalSqsClient@1.0.3
+- pkg:nuget/MinimalSqsClient@1.0.4

@@ -1,0 +1,8 @@
+- pkg:nuget/Twilio.Auth@1.0.0
+- pkg:nuget/Twilio.Auth@1.0.0-edge
+- pkg:nuget/Twilio.Auth@1.0.1-edge
+- pkg:nuget/Twilio.Auth@1.1.0
+- pkg:nuget/Twilio.Auth@1.1.0-edge
+- pkg:nuget/Twilio.Auth@1.2.0
+- pkg:nuget/Twilio.Auth@1.3.0
+- pkg:nuget/Twilio.Auth@1.4.0

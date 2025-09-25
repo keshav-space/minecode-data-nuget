@@ -1,0 +1,3 @@
+- pkg:nuget/Tada.Platform.Connector.Sql.NetStandard@1.0.0
+- pkg:nuget/Tada.Platform.Connector.Sql.NetStandard@1.0.1
+- pkg:nuget/Tada.Platform.Connector.Sql.NetStandard@1.0.3

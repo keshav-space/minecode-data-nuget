@@ -1,0 +1,7 @@
+- pkg:nuget/redis.windows.redist.x64@7.0.4
+- pkg:nuget/redis.windows.redist.x64@7.0.4.1
+- pkg:nuget/redis.windows.redist.x64@7.0.4.2
+- pkg:nuget/redis.windows.redist.x64@7.0.4.3
+- pkg:nuget/redis.windows.redist.x64@7.0.4.4
+- pkg:nuget/redis.windows.redist.x64@7.0.9
+- pkg:nuget/redis.windows.redist.x64@7.2.4

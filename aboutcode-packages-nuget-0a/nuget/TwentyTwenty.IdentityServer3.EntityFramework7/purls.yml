@@ -1,0 +1,9 @@
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.3-pre-31
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.3-pre-32
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.3-pre-35
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.3-pre-36
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.3-pre-37
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.4
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.5
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.6
+- pkg:nuget/TwentyTwenty.IdentityServer3.EntityFramework7@0.9.7

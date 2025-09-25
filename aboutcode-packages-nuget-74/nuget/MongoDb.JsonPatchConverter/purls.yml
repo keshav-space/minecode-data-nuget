@@ -1,0 +1,5 @@
+- pkg:nuget/MongoDb.JsonPatchConverter@1.0.0
+- pkg:nuget/MongoDb.JsonPatchConverter@1.0.0-beta0
+- pkg:nuget/MongoDb.JsonPatchConverter@1.0.0-beta1
+- pkg:nuget/MongoDb.JsonPatchConverter@1.0.0-beta2
+- pkg:nuget/MongoDb.JsonPatchConverter@1.0.0-beta3

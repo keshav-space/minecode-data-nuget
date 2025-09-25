@@ -1,0 +1,15 @@
+- pkg:nuget/VSSDK_Reference_Assemblies@12.0.21005
+- pkg:nuget/VSSDK_Reference_Assemblies@14.0.22823-RC
+- pkg:nuget/VSSDK_Reference_Assemblies@14.0.23019-MVP
+- pkg:nuget/VSSDK_Reference_Assemblies@14.0.23020-MVP
+- pkg:nuget/VSSDK_Reference_Assemblies@14.0.23107
+- pkg:nuget/VSSDK_Reference_Assemblies@14.0.23205
+- pkg:nuget/VSSDK_Reference_Assemblies@14.1.24627-RCUpdate1
+- pkg:nuget/VSSDK_Reference_Assemblies@14.1.24720
+- pkg:nuget/VSSDK_Reference_Assemblies@14.2.25123
+- pkg:nuget/VSSDK_Reference_Assemblies@14.3.25407
+- pkg:nuget/VSSDK_Reference_Assemblies@15.0.25123-Dev15Preview
+- pkg:nuget/VSSDK_Reference_Assemblies@15.0.25726-Preview5
+- pkg:nuget/VSSDK_Reference_Assemblies@15.0.26606
+- pkg:nuget/VSSDK_Reference_Assemblies@15.0.26607
+- pkg:nuget/VSSDK_Reference_Assemblies@15.0.26608

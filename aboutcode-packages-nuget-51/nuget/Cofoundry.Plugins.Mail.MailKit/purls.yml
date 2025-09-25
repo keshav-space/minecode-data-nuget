@@ -1,0 +1,14 @@
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.10.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.11.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.12.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.12.2
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.2.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.3.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.3.1
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.4.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.5.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.6.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.7.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.8.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.9.0
+- pkg:nuget/Cofoundry.Plugins.Mail.MailKit@0.9.1

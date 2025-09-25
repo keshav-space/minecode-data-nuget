@@ -1,0 +1,3 @@
+- pkg:nuget/log4mongo-netcore@3.0.0-pre
+- pkg:nuget/log4mongo-netcore@3.1.0
+- pkg:nuget/log4mongo-netcore@3.2.0

@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@14.102.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@14.95.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@14.95.1-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@14.95.2-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@14.95.3-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@14.95.4-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.101.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.103.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.104.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.106.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.107.1-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.107.2-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.109.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.112.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.112.1-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.DistributedTask.Client@15.98.0-preview

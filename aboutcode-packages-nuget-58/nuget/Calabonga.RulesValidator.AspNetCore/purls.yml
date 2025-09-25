@@ -1,0 +1,13 @@
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.0.0
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.0.1
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.0.2
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.0.5
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.1.0
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.1.1
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.2.0
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.2.3
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@1.2.4
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@2.0.0
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@2.0.1
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@2.0.2
+- pkg:nuget/Calabonga.RulesValidator.AspNetCore@3.0.0

@@ -1,0 +1,14 @@
+- pkg:nuget/PipelineFramework.LightInject@1.0.0
+- pkg:nuget/PipelineFramework.LightInject@1.0.0-prerelease
+- pkg:nuget/PipelineFramework.LightInject@1.0.1
+- pkg:nuget/PipelineFramework.LightInject@2.0.0
+- pkg:nuget/PipelineFramework.LightInject@2.1.0
+- pkg:nuget/PipelineFramework.LightInject@3.0.0
+- pkg:nuget/PipelineFramework.LightInject@3.0.1
+- pkg:nuget/PipelineFramework.LightInject@3.1.0
+- pkg:nuget/PipelineFramework.LightInject@3.2.0
+- pkg:nuget/PipelineFramework.LightInject@3.2.1
+- pkg:nuget/PipelineFramework.LightInject@3.2.2
+- pkg:nuget/PipelineFramework.LightInject@4.0.0
+- pkg:nuget/PipelineFramework.LightInject@4.1.0
+- pkg:nuget/PipelineFramework.LightInject@4.1.1

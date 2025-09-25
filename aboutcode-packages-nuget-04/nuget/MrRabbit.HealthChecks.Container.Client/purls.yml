@@ -1,0 +1,7 @@
+- pkg:nuget/MrRabbit.HealthChecks.Container.Client@8.0.0
+- pkg:nuget/MrRabbit.HealthChecks.Container.Client@8.0.0-preview.1
+- pkg:nuget/MrRabbit.HealthChecks.Container.Client@8.0.0-preview.2
+- pkg:nuget/MrRabbit.HealthChecks.Container.Client@8.0.0-preview.3
+- pkg:nuget/MrRabbit.HealthChecks.Container.Client@9.0.0
+- pkg:nuget/MrRabbit.HealthChecks.Container.Client@9.0.0-preview.1
+- pkg:nuget/MrRabbit.HealthChecks.Container.Client@9.0.1

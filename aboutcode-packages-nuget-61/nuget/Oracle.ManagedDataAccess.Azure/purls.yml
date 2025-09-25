@@ -1,0 +1,8 @@
+- pkg:nuget/Oracle.ManagedDataAccess.Azure@23.3.0-dev
+- pkg:nuget/Oracle.ManagedDataAccess.Azure@23.3.2-dev
+- pkg:nuget/Oracle.ManagedDataAccess.Azure@23.4.0
+- pkg:nuget/Oracle.ManagedDataAccess.Azure@23.5.0
+- pkg:nuget/Oracle.ManagedDataAccess.Azure@23.6.0
+- pkg:nuget/Oracle.ManagedDataAccess.Azure@23.7.0
+- pkg:nuget/Oracle.ManagedDataAccess.Azure@23.8.0
+- pkg:nuget/Oracle.ManagedDataAccess.Azure@23.9.0

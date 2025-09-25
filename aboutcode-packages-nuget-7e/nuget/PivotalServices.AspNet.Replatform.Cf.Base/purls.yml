@@ -1,0 +1,8 @@
+- pkg:nuget/PivotalServices.AspNet.Replatform.Cf.Base@2.0.0
+- pkg:nuget/PivotalServices.AspNet.Replatform.Cf.Base@2.0.0-rc1
+- pkg:nuget/PivotalServices.AspNet.Replatform.Cf.Base@2.0.0-rc2
+- pkg:nuget/PivotalServices.AspNet.Replatform.Cf.Base@2.0.0-rc3
+- pkg:nuget/PivotalServices.AspNet.Replatform.Cf.Base@2.0.1
+- pkg:nuget/PivotalServices.AspNet.Replatform.Cf.Base@2.1.0
+- pkg:nuget/PivotalServices.AspNet.Replatform.Cf.Base@2.1.1
+- pkg:nuget/PivotalServices.AspNet.Replatform.Cf.Base@2.2.0

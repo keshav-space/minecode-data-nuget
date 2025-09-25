@@ -1,0 +1,4 @@
+- pkg:nuget/MR.AspNetCore.Jobs.EFCore@0.10.0
+- pkg:nuget/MR.AspNetCore.Jobs.EFCore@0.11.1
+- pkg:nuget/MR.AspNetCore.Jobs.EFCore@0.11.2
+- pkg:nuget/MR.AspNetCore.Jobs.EFCore@0.9.0

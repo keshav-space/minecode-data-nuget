@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Azure.IoTHub.Common@0.0.1-preview-000
+- pkg:nuget/Microsoft.Azure.IoTHub.Common@1.0.0-preview-003
+- pkg:nuget/Microsoft.Azure.IoTHub.Common@1.0.0-preview-004
+- pkg:nuget/Microsoft.Azure.IoTHub.Common@1.0.0-preview-005
+- pkg:nuget/Microsoft.Azure.IoTHub.Common@1.0.0-preview-006
+- pkg:nuget/Microsoft.Azure.IoTHub.Common@1.0.0-preview-007

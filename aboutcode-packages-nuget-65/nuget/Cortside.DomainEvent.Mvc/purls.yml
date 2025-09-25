@@ -1,0 +1,14 @@
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.380-SVC-3406
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.381-SVC-3406
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.382-SVC-3406
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.383-SVC-3406
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.384-SVC-3406
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.385-SVC-3406
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.386-SVC-3406
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.387-SVC-3406
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.389
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.391-monitoredhostedservice
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.392-monitoredhostedservice
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.393
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.0.395
+- pkg:nuget/Cortside.DomainEvent.Mvc@8.1.396-develop

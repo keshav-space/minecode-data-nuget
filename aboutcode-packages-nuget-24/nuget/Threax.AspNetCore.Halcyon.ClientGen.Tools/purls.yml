@@ -1,0 +1,13 @@
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@18.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@2.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@2.0.1
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@2.1.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@3.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@4.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@5.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@5.1.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@6.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@6.0.0-pre01
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@6.0.1
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@7.0.0
+- pkg:nuget/Threax.AspNetCore.Halcyon.ClientGen.Tools@8.0.0

@@ -1,0 +1,15 @@
+- pkg:nuget/Ledger.Stores.Postgres@1.0.0
+- pkg:nuget/Ledger.Stores.Postgres@1.0.1
+- pkg:nuget/Ledger.Stores.Postgres@10.0.0
+- pkg:nuget/Ledger.Stores.Postgres@3.0.0
+- pkg:nuget/Ledger.Stores.Postgres@4.0.0
+- pkg:nuget/Ledger.Stores.Postgres@5.0.0
+- pkg:nuget/Ledger.Stores.Postgres@6.0.0
+- pkg:nuget/Ledger.Stores.Postgres@7.0.0
+- pkg:nuget/Ledger.Stores.Postgres@8.0.0
+- pkg:nuget/Ledger.Stores.Postgres@8.1.0
+- pkg:nuget/Ledger.Stores.Postgres@8.1.1
+- pkg:nuget/Ledger.Stores.Postgres@8.2.0
+- pkg:nuget/Ledger.Stores.Postgres@8.3.0
+- pkg:nuget/Ledger.Stores.Postgres@9.0.0
+- pkg:nuget/Ledger.Stores.Postgres@9.0.1

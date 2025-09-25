@@ -1,0 +1,5 @@
+- pkg:nuget/CorshamScience.AggregateRepository.EventStore@2.0.1-company-change-u0001
+- pkg:nuget/CorshamScience.AggregateRepository.EventStore@3.0.0
+- pkg:nuget/CorshamScience.AggregateRepository.EventStore@4.0.0
+- pkg:nuget/CorshamScience.AggregateRepository.EventStore@5.0.0
+- pkg:nuget/CorshamScience.AggregateRepository.EventStore@6.0.0

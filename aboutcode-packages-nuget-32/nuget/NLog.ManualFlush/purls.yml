@@ -1,0 +1,5 @@
+- pkg:nuget/NLog.ManualFlush@1.0.0
+- pkg:nuget/NLog.ManualFlush@2.0.0
+- pkg:nuget/NLog.ManualFlush@2.0.0.1
+- pkg:nuget/NLog.ManualFlush@4.0.0
+- pkg:nuget/NLog.ManualFlush@4.0.1

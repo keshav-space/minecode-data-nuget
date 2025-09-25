@@ -1,0 +1,17 @@
+- pkg:nuget/PipelineFramework.Core@1.0.0
+- pkg:nuget/PipelineFramework.Core@1.0.0-prerelease
+- pkg:nuget/PipelineFramework.Core@1.0.2
+- pkg:nuget/PipelineFramework.Core@2.0.0
+- pkg:nuget/PipelineFramework.Core@2.0.1
+- pkg:nuget/PipelineFramework.Core@3.0.0
+- pkg:nuget/PipelineFramework.Core@3.0.1
+- pkg:nuget/PipelineFramework.Core@3.1.0
+- pkg:nuget/PipelineFramework.Core@4.0.0
+- pkg:nuget/PipelineFramework.Core@5.0.0
+- pkg:nuget/PipelineFramework.Core@5.0.0-preview1
+- pkg:nuget/PipelineFramework.Core@5.0.0-preview2
+- pkg:nuget/PipelineFramework.Core@5.0.1
+- pkg:nuget/PipelineFramework.Core@5.0.2
+- pkg:nuget/PipelineFramework.Core@5.0.3
+- pkg:nuget/PipelineFramework.Core@5.1.0
+- pkg:nuget/PipelineFramework.Core@5.1.1

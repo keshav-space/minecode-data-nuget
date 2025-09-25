@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@1.0.113
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@1.0.163
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@1.0.172
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@1.0.20
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@1.0.75
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.0.48
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.0.76
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.0.96
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.1.113
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.1.161
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.1.174
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.1.175
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.1.50
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@2.1.76
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@3.0.67
+- pkg:nuget/Microsoft.Web.LibraryManager.Build@3.0.71

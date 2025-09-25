@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@12.0.21005
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.0.22823-RC
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.0.23019-MVP
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.0.23020-MVP
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.0.23107
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.0.23205
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.1.24627-RCUpdate1
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.1.24720
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.2.25123
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@14.3.25407
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@15.0.25123-Dev15Preview
+- pkg:nuget/Microsoft.VSSDK.UnitTestLibrary@15.0.25726-Preview5

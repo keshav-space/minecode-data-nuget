@@ -1,0 +1,8 @@
+- pkg:nuget/Vezel.Zig.Toolsets.linux-ppc64le@0.11.0.1
+- pkg:nuget/Vezel.Zig.Toolsets.linux-ppc64le@0.12.0.1
+- pkg:nuget/Vezel.Zig.Toolsets.linux-ppc64le@0.12.1.1
+- pkg:nuget/Vezel.Zig.Toolsets.linux-ppc64le@0.13.0.1
+- pkg:nuget/Vezel.Zig.Toolsets.linux-ppc64le@0.14.0.1
+- pkg:nuget/Vezel.Zig.Toolsets.linux-ppc64le@0.14.1.1
+- pkg:nuget/Vezel.Zig.Toolsets.linux-ppc64le@0.15.0.1
+- pkg:nuget/Vezel.Zig.Toolsets.linux-ppc64le@0.15.1.1

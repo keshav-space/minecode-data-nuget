@@ -1,0 +1,5 @@
+- pkg:nuget/DDataRepository.EFCore.DependencyInjection@1.0.0
+- pkg:nuget/DDataRepository.EFCore.DependencyInjection@1.0.1
+- pkg:nuget/DDataRepository.EFCore.DependencyInjection@1.0.2
+- pkg:nuget/DDataRepository.EFCore.DependencyInjection@1.0.3
+- pkg:nuget/DDataRepository.EFCore.DependencyInjection@1.0.4-preview.1

@@ -1,0 +1,8 @@
+- pkg:nuget/EntityFramework.SqlServerCompact40.Design@7.0.0-beta6
+- pkg:nuget/EntityFramework.SqlServerCompact40.Design@7.0.0-beta7
+- pkg:nuget/EntityFramework.SqlServerCompact40.Design@7.0.0-beta7a
+- pkg:nuget/EntityFramework.SqlServerCompact40.Design@7.0.0-beta8
+- pkg:nuget/EntityFramework.SqlServerCompact40.Design@7.0.0-rc1-final
+- pkg:nuget/EntityFramework.SqlServerCompact40.Design@7.0.0-rc1-finala
+- pkg:nuget/EntityFramework.SqlServerCompact40.Design@7.0.0-rc1-finalb
+- pkg:nuget/EntityFramework.SqlServerCompact40.Design@7.0.0-rc1-finalc

@@ -1,0 +1,9 @@
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@0.0.1
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@0.0.2
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@1.0.0
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@1.1.0
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@1.2.0
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@1.3.0
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@2.0.0
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@2.1.0
+- pkg:nuget/ServiceComposer.AspNetCore.Testing@2.2.0
