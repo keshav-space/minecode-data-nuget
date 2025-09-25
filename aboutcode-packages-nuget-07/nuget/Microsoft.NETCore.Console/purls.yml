@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.NETCore.Console@1.0.0-beta-23019
+- pkg:nuget/Microsoft.NETCore.Console@1.0.0-beta-23109
+- pkg:nuget/Microsoft.NETCore.Console@1.0.0-beta-23123
+- pkg:nuget/Microsoft.NETCore.Console@1.0.0-beta-23225
+- pkg:nuget/Microsoft.NETCore.Console@1.0.0-beta-23409
+- pkg:nuget/Microsoft.NETCore.Console@1.0.0-beta-23516
+- pkg:nuget/Microsoft.NETCore.Console@1.0.0-rc2-24027

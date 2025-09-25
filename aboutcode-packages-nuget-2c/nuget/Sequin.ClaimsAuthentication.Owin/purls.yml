@@ -1,0 +1,4 @@
+- pkg:nuget/Sequin.ClaimsAuthentication.Owin@0.5.133-sequin-owin
+- pkg:nuget/Sequin.ClaimsAuthentication.Owin@0.5.134-sequin-owin
+- pkg:nuget/Sequin.ClaimsAuthentication.Owin@0.5.136-sequin-owin
+- pkg:nuget/Sequin.ClaimsAuthentication.Owin@0.5.137

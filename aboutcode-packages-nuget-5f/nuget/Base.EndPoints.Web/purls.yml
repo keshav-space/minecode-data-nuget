@@ -1,0 +1,5 @@
+- pkg:nuget/Base.EndPoints.Web@8.0.0
+- pkg:nuget/Base.EndPoints.Web@8.0.1
+- pkg:nuget/Base.EndPoints.Web@8.0.2
+- pkg:nuget/Base.EndPoints.Web@8.3.2
+- pkg:nuget/Base.EndPoints.Web@9.0.0

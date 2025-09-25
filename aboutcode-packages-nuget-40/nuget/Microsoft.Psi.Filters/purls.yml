@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Psi.Filters@0.16.92.1-beta
+- pkg:nuget/Microsoft.Psi.Filters@0.17.52.1-beta
+- pkg:nuget/Microsoft.Psi.Filters@0.18.72.1-beta
+- pkg:nuget/Microsoft.Psi.Filters@0.19.100.1-beta

@@ -1,0 +1,2 @@
+- pkg:nuget/Base.Extensions.Caching.InMemory@8.0.0
+- pkg:nuget/Base.Extensions.Caching.InMemory@9.0.0

@@ -1,0 +1,14 @@
+- pkg:nuget/openssl@1.0.1.10
+- pkg:nuget/openssl@1.0.1.11
+- pkg:nuget/openssl@1.0.1.12
+- pkg:nuget/openssl@1.0.1.14
+- pkg:nuget/openssl@1.0.1.15
+- pkg:nuget/openssl@1.0.1.18
+- pkg:nuget/openssl@1.0.1.20
+- pkg:nuget/openssl@1.0.1.21
+- pkg:nuget/openssl@1.0.1.23
+- pkg:nuget/openssl@1.0.1.24
+- pkg:nuget/openssl@1.0.1.25
+- pkg:nuget/openssl@1.0.1.9
+- pkg:nuget/openssl@1.0.2
+- pkg:nuget/openssl@1.0.2.1

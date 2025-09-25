@@ -1,0 +1,11 @@
+- pkg:nuget/MSS.Tools.AzureBlob@1.0.0
+- pkg:nuget/MSS.Tools.AzureBlob@1.0.0-preview-17
+- pkg:nuget/MSS.Tools.AzureBlob@1.0.1
+- pkg:nuget/MSS.Tools.AzureBlob@1.0.1-preview-21
+- pkg:nuget/MSS.Tools.AzureBlob@1.0.2
+- pkg:nuget/MSS.Tools.AzureBlob@1.0.2-preview-25
+- pkg:nuget/MSS.Tools.AzureBlob@1.1.0
+- pkg:nuget/MSS.Tools.AzureBlob@1.1.0-preview-26
+- pkg:nuget/MSS.Tools.AzureBlob@3.1.0
+- pkg:nuget/MSS.Tools.AzureBlob@3.1.0-preview-29
+- pkg:nuget/MSS.Tools.AzureBlob@3.1.0-preview-30

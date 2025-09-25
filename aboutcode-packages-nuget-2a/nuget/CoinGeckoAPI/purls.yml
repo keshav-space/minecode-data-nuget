@@ -1,0 +1,9 @@
+- pkg:nuget/CoinGeckoAPI@3.0.0.1
+- pkg:nuget/CoinGeckoAPI@3.0.0.1-alpha
+- pkg:nuget/CoinGeckoAPI@3.0.0.1-beta
+- pkg:nuget/CoinGeckoAPI@3.0.0.2
+- pkg:nuget/CoinGeckoAPI@3.0.1.1
+- pkg:nuget/CoinGeckoAPI@3.0.1.2
+- pkg:nuget/CoinGeckoAPI@3.0.2.1
+- pkg:nuget/CoinGeckoAPI@3.0.2.2
+- pkg:nuget/CoinGeckoAPI@3.0.2.3

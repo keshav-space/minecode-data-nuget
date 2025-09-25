@@ -1,0 +1,11 @@
+- pkg:nuget/FlatValidator.DependencyInjection@1.0.0
+- pkg:nuget/FlatValidator.DependencyInjection@1.0.0-rc
+- pkg:nuget/FlatValidator.DependencyInjection@2.0.0
+- pkg:nuget/FlatValidator.DependencyInjection@2.1.0
+- pkg:nuget/FlatValidator.DependencyInjection@2.1.1
+- pkg:nuget/FlatValidator.DependencyInjection@2.2.0
+- pkg:nuget/FlatValidator.DependencyInjection@2.3.0
+- pkg:nuget/FlatValidator.DependencyInjection@2.4.0
+- pkg:nuget/FlatValidator.DependencyInjection@2.5.0
+- pkg:nuget/FlatValidator.DependencyInjection@2.6.0
+- pkg:nuget/FlatValidator.DependencyInjection@2.6.2

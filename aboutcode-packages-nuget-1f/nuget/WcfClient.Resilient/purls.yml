@@ -1,0 +1,4 @@
+- pkg:nuget/WcfClient.Resilient@5.0.0
+- pkg:nuget/WcfClient.Resilient@6.0.0
+- pkg:nuget/WcfClient.Resilient@8.0.0
+- pkg:nuget/WcfClient.Resilient@8.0.1

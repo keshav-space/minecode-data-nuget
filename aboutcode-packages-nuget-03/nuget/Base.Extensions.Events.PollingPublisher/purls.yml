@@ -1,0 +1,3 @@
+- pkg:nuget/Base.Extensions.Events.PollingPublisher@8.0.0
+- pkg:nuget/Base.Extensions.Events.PollingPublisher@8.0.1
+- pkg:nuget/Base.Extensions.Events.PollingPublisher@9.0.0

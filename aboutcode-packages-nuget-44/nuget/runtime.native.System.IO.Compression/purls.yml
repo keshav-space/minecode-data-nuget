@@ -1,0 +1,6 @@
+- pkg:nuget/runtime.native.System.IO.Compression@4.1.0
+- pkg:nuget/runtime.native.System.IO.Compression@4.1.0-rc2-24027
+- pkg:nuget/runtime.native.System.IO.Compression@4.3.0
+- pkg:nuget/runtime.native.System.IO.Compression@4.3.0-preview1-24530-04
+- pkg:nuget/runtime.native.System.IO.Compression@4.3.1
+- pkg:nuget/runtime.native.System.IO.Compression@4.3.2

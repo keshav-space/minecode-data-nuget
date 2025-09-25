@@ -1,0 +1,9 @@
+- pkg:nuget/TG.Common@1.1.22
+- pkg:nuget/TG.Common@1.2.0
+- pkg:nuget/TG.Common@1.2.1
+- pkg:nuget/TG.Common@1.2.2
+- pkg:nuget/TG.Common@2.0.0
+- pkg:nuget/TG.Common@2.0.1-preview.0.23
+- pkg:nuget/TG.Common@2.0.1-preview.0.24
+- pkg:nuget/TG.Common@2.0.1-preview.0.27
+- pkg:nuget/TG.Common@3.0.0-preview.0.33

@@ -1,0 +1,7 @@
+- pkg:nuget/LibLLVM@4.0.0
+- pkg:nuget/LibLLVM@5.0.0
+- pkg:nuget/LibLLVM@5.0.0-pre1
+- pkg:nuget/LibLLVM@5.0.1
+- pkg:nuget/LibLLVM@6.0.0-beta1
+- pkg:nuget/LibLLVM@6.0.1
+- pkg:nuget/LibLLVM@7.0.1

@@ -1,0 +1,12 @@
+- pkg:nuget/Autofac.Mvc5.Owin@3.0.0
+- pkg:nuget/Autofac.Mvc5.Owin@3.0.0-alpha
+- pkg:nuget/Autofac.Mvc5.Owin@3.0.0-alpha2
+- pkg:nuget/Autofac.Mvc5.Owin@3.0.0-alpha3
+- pkg:nuget/Autofac.Mvc5.Owin@3.0.1
+- pkg:nuget/Autofac.Mvc5.Owin@3.1.0
+- pkg:nuget/Autofac.Mvc5.Owin@4.0.0
+- pkg:nuget/Autofac.Mvc5.Owin@4.0.0-rc3-217
+- pkg:nuget/Autofac.Mvc5.Owin@4.0.1
+- pkg:nuget/Autofac.Mvc5.Owin@5.0.0
+- pkg:nuget/Autofac.Mvc5.Owin@6.0.0
+- pkg:nuget/Autofac.Mvc5.Owin@6.1.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Cobweb.Data.FluentMigrator@1.0.0
+- pkg:nuget/Cobweb.Data.FluentMigrator@1.1.1
+- pkg:nuget/Cobweb.Data.FluentMigrator@2.0.0
+- pkg:nuget/Cobweb.Data.FluentMigrator@3.0.0

@@ -1,0 +1,7 @@
+- pkg:nuget/CoreCompat.Selenium.WebDriver@2.54.0-beta001
+- pkg:nuget/CoreCompat.Selenium.WebDriver@2.54.0-beta002
+- pkg:nuget/CoreCompat.Selenium.WebDriver@3.2.0-beta001
+- pkg:nuget/CoreCompat.Selenium.WebDriver@3.2.0-beta002
+- pkg:nuget/CoreCompat.Selenium.WebDriver@3.2.0-beta003
+- pkg:nuget/CoreCompat.Selenium.WebDriver@3.4.0-beta001
+- pkg:nuget/CoreCompat.Selenium.WebDriver@3.5.3-beta001

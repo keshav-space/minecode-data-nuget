@@ -1,0 +1,3 @@
+- pkg:nuget/IdentityServer4.Contrib.Postgresql@2.0.6
+- pkg:nuget/IdentityServer4.Contrib.Postgresql@2.0.7
+- pkg:nuget/IdentityServer4.Contrib.Postgresql@3.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/M.EventBrokerSlim@1.0.0
+- pkg:nuget/M.EventBrokerSlim@1.0.0-preview1
+- pkg:nuget/M.EventBrokerSlim@1.0.0-preview2
+- pkg:nuget/M.EventBrokerSlim@1.0.0-preview3
+- pkg:nuget/M.EventBrokerSlim@2.0.0
+- pkg:nuget/M.EventBrokerSlim@3.0.0
+- pkg:nuget/M.EventBrokerSlim@3.1.0
+- pkg:nuget/M.EventBrokerSlim@3.2.0
+- pkg:nuget/M.EventBrokerSlim@3.3.0
+- pkg:nuget/M.EventBrokerSlim@4.0.0
+- pkg:nuget/M.EventBrokerSlim@4.1.0
+- pkg:nuget/M.EventBrokerSlim@4.1.1

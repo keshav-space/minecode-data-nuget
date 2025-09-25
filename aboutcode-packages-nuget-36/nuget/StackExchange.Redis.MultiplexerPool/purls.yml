@@ -1,0 +1,7 @@
+- pkg:nuget/StackExchange.Redis.MultiplexerPool@1.0.0
+- pkg:nuget/StackExchange.Redis.MultiplexerPool@1.0.1
+- pkg:nuget/StackExchange.Redis.MultiplexerPool@1.0.2
+- pkg:nuget/StackExchange.Redis.MultiplexerPool@2.0.0
+- pkg:nuget/StackExchange.Redis.MultiplexerPool@2.0.1
+- pkg:nuget/StackExchange.Redis.MultiplexerPool@2.1.0
+- pkg:nuget/StackExchange.Redis.MultiplexerPool@2.2.0

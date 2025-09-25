@@ -1,0 +1,5 @@
+- pkg:nuget/TestAktivIdentityLibrary@1.0.0
+- pkg:nuget/TestAktivIdentityLibrary@1.0.1
+- pkg:nuget/TestAktivIdentityLibrary@1.0.2
+- pkg:nuget/TestAktivIdentityLibrary@2.0.0
+- pkg:nuget/TestAktivIdentityLibrary@2.0.0-alpha

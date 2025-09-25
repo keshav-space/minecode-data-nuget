@@ -1,0 +1,2 @@
+- pkg:nuget/Base.Extensions.Caching.Distributed.Redis@8.0.0
+- pkg:nuget/Base.Extensions.Caching.Distributed.Redis@9.0.0

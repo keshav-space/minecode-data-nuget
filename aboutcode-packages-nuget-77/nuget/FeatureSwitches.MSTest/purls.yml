@@ -1,0 +1,9 @@
+- pkg:nuget/FeatureSwitches.MSTest@1.0.0
+- pkg:nuget/FeatureSwitches.MSTest@1.1.0
+- pkg:nuget/FeatureSwitches.MSTest@1.2.0
+- pkg:nuget/FeatureSwitches.MSTest@2.0.0
+- pkg:nuget/FeatureSwitches.MSTest@2.1.0
+- pkg:nuget/FeatureSwitches.MSTest@2.1.1
+- pkg:nuget/FeatureSwitches.MSTest@3.0.0
+- pkg:nuget/FeatureSwitches.MSTest@8.0.0
+- pkg:nuget/FeatureSwitches.MSTest@9.0.0

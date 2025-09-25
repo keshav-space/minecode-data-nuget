@@ -1,0 +1,13 @@
+- pkg:nuget/EasilyNET.EntityFrameworkCore@1.9.0
+- pkg:nuget/EasilyNET.EntityFrameworkCore@1.9.1
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.0.0
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.0.1
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.0.11
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.1.0
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.1.1
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.1.1.1
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.1.1.2
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.1.2
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.1.3
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.1.4
+- pkg:nuget/EasilyNET.EntityFrameworkCore@2.1.6

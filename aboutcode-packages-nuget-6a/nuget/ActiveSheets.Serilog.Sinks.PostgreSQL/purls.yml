@@ -1,0 +1,2 @@
+- pkg:nuget/ActiveSheets.Serilog.Sinks.PostgreSQL@2.2.0-npgsql503-upgrade
+- pkg:nuget/ActiveSheets.Serilog.Sinks.PostgreSQL@2.2.1-upgrade

@@ -1,0 +1,12 @@
+- pkg:nuget/ErpNet.Api.Client@1.0.0-beta
+- pkg:nuget/ErpNet.Api.Client@1.0.1
+- pkg:nuget/ErpNet.Api.Client@1.0.1-beta
+- pkg:nuget/ErpNet.Api.Client@1.0.2
+- pkg:nuget/ErpNet.Api.Client@22.1.0
+- pkg:nuget/ErpNet.Api.Client@22.1.1
+- pkg:nuget/ErpNet.Api.Client@23.1.0
+- pkg:nuget/ErpNet.Api.Client@23.1.0-beta
+- pkg:nuget/ErpNet.Api.Client@23.1.1
+- pkg:nuget/ErpNet.Api.Client@24.1.0
+- pkg:nuget/ErpNet.Api.Client@25.1.0-beta
+- pkg:nuget/ErpNet.Api.Client@26.1.0-beta

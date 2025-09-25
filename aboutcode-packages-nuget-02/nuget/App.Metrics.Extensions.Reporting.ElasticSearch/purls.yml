@@ -1,0 +1,5 @@
+- pkg:nuget/App.Metrics.Extensions.Reporting.ElasticSearch@1.0.0
+- pkg:nuget/App.Metrics.Extensions.Reporting.ElasticSearch@1.0.0-alpha
+- pkg:nuget/App.Metrics.Extensions.Reporting.ElasticSearch@1.1.0
+- pkg:nuget/App.Metrics.Extensions.Reporting.ElasticSearch@1.1.0-alpha-0040
+- pkg:nuget/App.Metrics.Extensions.Reporting.ElasticSearch@1.1.1

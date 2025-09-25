@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Psi.Onnx.Gpu@0.13.38.2-beta
+- pkg:nuget/Microsoft.Psi.Onnx.Gpu@0.14.35.3-beta
+- pkg:nuget/Microsoft.Psi.Onnx.Gpu@0.15.49.1-beta
+- pkg:nuget/Microsoft.Psi.Onnx.Gpu@0.16.92.1-beta
+- pkg:nuget/Microsoft.Psi.Onnx.Gpu@0.17.52.1-beta
+- pkg:nuget/Microsoft.Psi.Onnx.Gpu@0.18.72.1-beta
+- pkg:nuget/Microsoft.Psi.Onnx.Gpu@0.19.100.1-beta

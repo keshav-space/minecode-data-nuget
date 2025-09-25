@@ -1,0 +1,4 @@
+- pkg:nuget/Codeblaze.SemanticKernel.Connectors.AI.Ollama@1.0.2-alpha.0.3
+- pkg:nuget/Codeblaze.SemanticKernel.Connectors.AI.Ollama@1.0.5
+- pkg:nuget/Codeblaze.SemanticKernel.Connectors.AI.Ollama@1.0.6
+- pkg:nuget/Codeblaze.SemanticKernel.Connectors.AI.Ollama@1.0.7

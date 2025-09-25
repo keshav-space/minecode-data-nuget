@@ -1,0 +1,5 @@
+- pkg:nuget/JDash.NetCore.Provider.MsSQL@1.0.0
+- pkg:nuget/JDash.NetCore.Provider.MsSQL@1.0.1
+- pkg:nuget/JDash.NetCore.Provider.MsSQL@1.0.2
+- pkg:nuget/JDash.NetCore.Provider.MsSQL@2.1.0
+- pkg:nuget/JDash.NetCore.Provider.MsSQL@2.1.1

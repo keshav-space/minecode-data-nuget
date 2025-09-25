@@ -1,0 +1,4 @@
+- pkg:nuget/NServiceBus.Template.WindowsService@1.0.0
+- pkg:nuget/NServiceBus.Template.WindowsService@1.0.1-alpha0008
+- pkg:nuget/NServiceBus.Template.WindowsService@1.0.1-alpha0009
+- pkg:nuget/NServiceBus.Template.WindowsService@1.0.1-beta0002

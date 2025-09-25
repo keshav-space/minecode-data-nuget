@@ -1,0 +1,5 @@
+- pkg:nuget/Fable.Browser.IndexedDB@1.0.0
+- pkg:nuget/Fable.Browser.IndexedDB@1.0.0-beta-001
+- pkg:nuget/Fable.Browser.IndexedDB@2.0.0
+- pkg:nuget/Fable.Browser.IndexedDB@2.1.0
+- pkg:nuget/Fable.Browser.IndexedDB@2.2.0

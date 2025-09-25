@@ -1,0 +1,3 @@
+- pkg:nuget/Base.Infra.Data.Sql@8.0.0
+- pkg:nuget/Base.Infra.Data.Sql@8.0.1
+- pkg:nuget/Base.Infra.Data.Sql@9.0.0

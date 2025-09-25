@@ -1,0 +1,9 @@
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.24.0-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.25.0-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.26.0-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.26.1-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.26.1-beta-dev
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.27.0-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.27.1-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.28.0-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.Instrumentation.AspNetCore@0.29.0-beta

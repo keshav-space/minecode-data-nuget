@@ -1,0 +1,14 @@
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@1.0.0
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@1.1.0
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@2.0.0
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@3.0.0
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@3.1.0
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@3.2.0
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@3.2.0-beta-0000
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@4.0.0
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@4.0.1-preview.0.59%2Bbuild.1127
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@5.0.0%2Bbuild.190
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@5.0.1%2Bbuild.227
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@5.1.0%2Bbuild.273
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@6.0.0%2Bbuild.459
+- pkg:nuget/Boxed.AspNetCore.TagHelpers@9.0.1%2Bbuild.1063

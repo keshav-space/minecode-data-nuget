@@ -1,0 +1,5 @@
+- pkg:nuget/Base.Extensions.Caching.Distributed.Sql@8.0.0
+- pkg:nuget/Base.Extensions.Caching.Distributed.Sql@8.0.7
+- pkg:nuget/Base.Extensions.Caching.Distributed.Sql@8.0.7.1
+- pkg:nuget/Base.Extensions.Caching.Distributed.Sql@8.0.8
+- pkg:nuget/Base.Extensions.Caching.Distributed.Sql@9.0.0

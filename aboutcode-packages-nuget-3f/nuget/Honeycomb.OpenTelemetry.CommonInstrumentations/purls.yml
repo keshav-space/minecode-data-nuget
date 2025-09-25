@@ -1,0 +1,5 @@
+- pkg:nuget/Honeycomb.OpenTelemetry.CommonInstrumentations@0.26.1-beta-dev
+- pkg:nuget/Honeycomb.OpenTelemetry.CommonInstrumentations@0.27.0-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.CommonInstrumentations@0.27.1-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.CommonInstrumentations@0.28.0-beta
+- pkg:nuget/Honeycomb.OpenTelemetry.CommonInstrumentations@0.29.0-beta

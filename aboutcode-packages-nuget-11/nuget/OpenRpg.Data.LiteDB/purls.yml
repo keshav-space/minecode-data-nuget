@@ -1,0 +1,14 @@
+- pkg:nuget/OpenRpg.Data.LiteDB@0.40.34
+- pkg:nuget/OpenRpg.Data.LiteDB@0.40.36
+- pkg:nuget/OpenRpg.Data.LiteDB@0.40.38
+- pkg:nuget/OpenRpg.Data.LiteDB@0.41.44
+- pkg:nuget/OpenRpg.Data.LiteDB@0.42.47
+- pkg:nuget/OpenRpg.Data.LiteDB@0.42.49
+- pkg:nuget/OpenRpg.Data.LiteDB@0.42.51
+- pkg:nuget/OpenRpg.Data.LiteDB@0.42.53
+- pkg:nuget/OpenRpg.Data.LiteDB@0.43.56
+- pkg:nuget/OpenRpg.Data.LiteDB@0.43.63
+- pkg:nuget/OpenRpg.Data.LiteDB@0.43.66
+- pkg:nuget/OpenRpg.Data.LiteDB@0.43.68
+- pkg:nuget/OpenRpg.Data.LiteDB@0.43.72
+- pkg:nuget/OpenRpg.Data.LiteDB@0.43.75

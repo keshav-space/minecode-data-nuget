@@ -1,0 +1,3 @@
+- pkg:nuget/Poco.Sql.NetCore@1.0.0
+- pkg:nuget/Poco.Sql.NetCore@1.0.1
+- pkg:nuget/Poco.Sql.NetCore@2.0.0

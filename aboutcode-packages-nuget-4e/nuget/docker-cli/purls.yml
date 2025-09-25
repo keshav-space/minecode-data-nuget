@@ -1,0 +1,12 @@
+- pkg:nuget/docker-cli@19.3.12
+- pkg:nuget/docker-cli@19.3.14
+- pkg:nuget/docker-cli@19.3.3
+- pkg:nuget/docker-cli@20.10.24
+- pkg:nuget/docker-cli@20.10.5
+- pkg:nuget/docker-cli@20.10.9
+- pkg:nuget/docker-cli@23.0.5
+- pkg:nuget/docker-cli@24.0.6
+- pkg:nuget/docker-cli@24.0.7
+- pkg:nuget/docker-cli@27.1.1
+- pkg:nuget/docker-cli@27.5.1
+- pkg:nuget/docker-cli@28.0.0

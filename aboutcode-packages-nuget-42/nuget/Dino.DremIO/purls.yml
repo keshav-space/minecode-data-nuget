@@ -1,0 +1,7 @@
+- pkg:nuget/Dino.DremIO@1.0.0%2Brelease
+- pkg:nuget/Dino.DremIO@1.0.1%2Bupdate-home-repo-url
+- pkg:nuget/Dino.DremIO@1.0.2%2Badd-planning-status
+- pkg:nuget/Dino.DremIO@1.0.3%2Bfix-job-status
+- pkg:nuget/Dino.DremIO@1.0.4%2Bfix-job-status
+- pkg:nuget/Dino.DremIO@1.0.5%2Bfix-query-wait
+- pkg:nuget/Dino.DremIO@1.0.6%2Bfix-json-text

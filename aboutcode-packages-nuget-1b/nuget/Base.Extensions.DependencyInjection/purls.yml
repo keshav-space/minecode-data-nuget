@@ -1,0 +1,2 @@
+- pkg:nuget/Base.Extensions.DependencyInjection@8.0.0
+- pkg:nuget/Base.Extensions.DependencyInjection@9.0.0

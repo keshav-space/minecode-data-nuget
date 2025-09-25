@@ -1,0 +1,15 @@
+- pkg:nuget/Kralizek.Lambda.Templates@1.0.0
+- pkg:nuget/Kralizek.Lambda.Templates@1.0.0-alpha
+- pkg:nuget/Kralizek.Lambda.Templates@1.1.0
+- pkg:nuget/Kralizek.Lambda.Templates@1.1.1
+- pkg:nuget/Kralizek.Lambda.Templates@2.0.0
+- pkg:nuget/Kralizek.Lambda.Templates@2.0.1
+- pkg:nuget/Kralizek.Lambda.Templates@2.0.2
+- pkg:nuget/Kralizek.Lambda.Templates@2.0.3
+- pkg:nuget/Kralizek.Lambda.Templates@2.1.0
+- pkg:nuget/Kralizek.Lambda.Templates@2.1.1
+- pkg:nuget/Kralizek.Lambda.Templates@3.0.0
+- pkg:nuget/Kralizek.Lambda.Templates@4.0.0
+- pkg:nuget/Kralizek.Lambda.Templates@4.0.1
+- pkg:nuget/Kralizek.Lambda.Templates@4.1.0
+- pkg:nuget/Kralizek.Lambda.Templates@5.0.0

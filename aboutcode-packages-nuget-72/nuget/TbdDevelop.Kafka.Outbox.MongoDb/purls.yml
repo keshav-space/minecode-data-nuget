@@ -1,0 +1,5 @@
+- pkg:nuget/TbdDevelop.Kafka.Outbox.MongoDb@0.0.11
+- pkg:nuget/TbdDevelop.Kafka.Outbox.MongoDb@0.0.12
+- pkg:nuget/TbdDevelop.Kafka.Outbox.MongoDb@0.0.13
+- pkg:nuget/TbdDevelop.Kafka.Outbox.MongoDb@0.1.1
+- pkg:nuget/TbdDevelop.Kafka.Outbox.MongoDb@0.1.2

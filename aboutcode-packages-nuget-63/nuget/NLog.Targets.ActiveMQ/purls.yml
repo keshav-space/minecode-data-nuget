@@ -1,0 +1,6 @@
+- pkg:nuget/NLog.Targets.ActiveMQ@1.0.0
+- pkg:nuget/NLog.Targets.ActiveMQ@1.0.1
+- pkg:nuget/NLog.Targets.ActiveMQ@2.0.0
+- pkg:nuget/NLog.Targets.ActiveMQ@2.1.0
+- pkg:nuget/NLog.Targets.ActiveMQ@2.1.1
+- pkg:nuget/NLog.Targets.ActiveMQ@2.1.2

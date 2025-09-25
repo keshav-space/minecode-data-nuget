@@ -1,0 +1,4 @@
+- pkg:nuget/DotNetAppBase.Std.Exceptions@1.0.0
+- pkg:nuget/DotNetAppBase.Std.Exceptions@1.2.27
+- pkg:nuget/DotNetAppBase.Std.Exceptions@1.3.0
+- pkg:nuget/DotNetAppBase.Std.Exceptions@1.3.1

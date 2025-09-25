@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview001
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview002
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview003
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview004
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview005
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview006
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview007
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview008
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.0-preview009
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@1.0.1
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@2.0.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@2.0.0-prerelease-20190328
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@2.0.1
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@2.5.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa@2.5.1

@@ -1,0 +1,9 @@
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.10.0
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.11.0-rc1
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.11.0-rc2
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.7.0
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.7.0.1
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.7.1
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.7.1.1
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.8.0
+- pkg:nuget/Silverback.EventSourcing.EntityFrameworkCore@0.9.0

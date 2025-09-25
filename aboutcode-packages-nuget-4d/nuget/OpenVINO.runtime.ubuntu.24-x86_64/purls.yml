@@ -1,0 +1,2 @@
+- pkg:nuget/OpenVINO.runtime.ubuntu.24-x86_64@2024.3.0.1
+- pkg:nuget/OpenVINO.runtime.ubuntu.24-x86_64@2024.4.0.1

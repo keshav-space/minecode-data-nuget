@@ -1,0 +1,11 @@
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@1.0.1
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@1.0.1-rc2-24027
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@1.0.2
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@1.0.3
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@1.0.4
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@4.3.0
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@4.3.0-preview1-24530-04
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@4.3.1
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@4.3.2
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@4.3.3
+- pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography@4.3.4

@@ -1,0 +1,5 @@
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.Progression@14.2.25123
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.Progression@14.3.25407
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.Progression@15.0.25604-Preview4
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.Progression@15.0.25726-Preview5
+- pkg:nuget/RoslynDependencies.Microsoft.VisualStudio.Progression@15.0.25920-RC

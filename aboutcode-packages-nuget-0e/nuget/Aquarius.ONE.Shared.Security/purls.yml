@@ -1,0 +1,12 @@
+- pkg:nuget/Aquarius.ONE.Shared.Security@1.0.0
+- pkg:nuget/Aquarius.ONE.Shared.Security@1.0.1
+- pkg:nuget/Aquarius.ONE.Shared.Security@1.0.1-pre-1
+- pkg:nuget/Aquarius.ONE.Shared.Security@1.0.1-pre-2
+- pkg:nuget/Aquarius.ONE.Shared.Security@6.0.0
+- pkg:nuget/Aquarius.ONE.Shared.Security@6.0.0-AQI-4874-1
+- pkg:nuget/Aquarius.ONE.Shared.Security@6.0.0-AQI-4874-3
+- pkg:nuget/Aquarius.ONE.Shared.Security@6.0.1
+- pkg:nuget/Aquarius.ONE.Shared.Security@6.1.0
+- pkg:nuget/Aquarius.ONE.Shared.Security@6.1.0-AQI-6246-02
+- pkg:nuget/Aquarius.ONE.Shared.Security@6.2.0
+- pkg:nuget/Aquarius.ONE.Shared.Security@8.0.0

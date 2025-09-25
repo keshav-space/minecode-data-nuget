@@ -1,0 +1,8 @@
+- pkg:nuget/Autofac.SignalR2@3.0.0
+- pkg:nuget/Autofac.SignalR2@3.0.2
+- pkg:nuget/Autofac.SignalR2@3.1.0
+- pkg:nuget/Autofac.SignalR2@4.0.0
+- pkg:nuget/Autofac.SignalR2@4.0.0-beta8-222
+- pkg:nuget/Autofac.SignalR2@5.0.0
+- pkg:nuget/Autofac.SignalR2@6.0.0
+- pkg:nuget/Autofac.SignalR2@6.1.0

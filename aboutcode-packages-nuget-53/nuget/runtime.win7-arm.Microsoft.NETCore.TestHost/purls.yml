@@ -1,0 +1,4 @@
+- pkg:nuget/runtime.win7-arm.Microsoft.NETCore.TestHost@1.0.0
+- pkg:nuget/runtime.win7-arm.Microsoft.NETCore.TestHost@1.0.0-beta-23409
+- pkg:nuget/runtime.win7-arm.Microsoft.NETCore.TestHost@1.0.0-beta-23516
+- pkg:nuget/runtime.win7-arm.Microsoft.NETCore.TestHost@1.0.0-rc2-24027

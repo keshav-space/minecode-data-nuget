@@ -1,0 +1,15 @@
+- pkg:nuget/AIWolfServer@1.1.0
+- pkg:nuget/AIWolfServer@1.1.0-alpha
+- pkg:nuget/AIWolfServer@1.1.0-alpha2
+- pkg:nuget/AIWolfServer@1.1.1
+- pkg:nuget/AIWolfServer@1.1.2
+- pkg:nuget/AIWolfServer@2.0.0
+- pkg:nuget/AIWolfServer@2.0.0-alpha
+- pkg:nuget/AIWolfServer@2.0.0-beta
+- pkg:nuget/AIWolfServer@2.0.1
+- pkg:nuget/AIWolfServer@2.1.0
+- pkg:nuget/AIWolfServer@2.2.0
+- pkg:nuget/AIWolfServer@2.2.0-beta
+- pkg:nuget/AIWolfServer@2.2.1
+- pkg:nuget/AIWolfServer@2.2.2
+- pkg:nuget/AIWolfServer@3.0.0-alpha

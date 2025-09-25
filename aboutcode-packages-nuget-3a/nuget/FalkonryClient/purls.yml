@@ -1,0 +1,5 @@
+- pkg:nuget/FalkonryClient@1.1.5
+- pkg:nuget/FalkonryClient@2.0.0
+- pkg:nuget/FalkonryClient@2.1.0
+- pkg:nuget/FalkonryClient@2.1.1
+- pkg:nuget/FalkonryClient@2.2.0

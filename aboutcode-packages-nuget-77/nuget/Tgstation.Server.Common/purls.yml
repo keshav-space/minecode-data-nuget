@@ -1,0 +1,5 @@
+- pkg:nuget/Tgstation.Server.Common@5.12.1
+- pkg:nuget/Tgstation.Server.Common@5.12.3
+- pkg:nuget/Tgstation.Server.Common@6.0.0
+- pkg:nuget/Tgstation.Server.Common@6.0.1
+- pkg:nuget/Tgstation.Server.Common@7.0.0

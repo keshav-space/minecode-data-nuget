@@ -1,0 +1,2 @@
+- pkg:nuget/Akka.Contrib.AsyncActors@0.8.0
+- pkg:nuget/Akka.Contrib.AsyncActors@1.0.0

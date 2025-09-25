@@ -1,0 +1,11 @@
+- pkg:nuget/Cledev.Core.Domain.Store.EF@3.0.0
+- pkg:nuget/Cledev.Core.Domain.Store.EF@3.1.0
+- pkg:nuget/Cledev.Core.Domain.Store.EF@3.2.0
+- pkg:nuget/Cledev.Core.Domain.Store.EF@3.2.1
+- pkg:nuget/Cledev.Core.Domain.Store.EF@4.0.0
+- pkg:nuget/Cledev.Core.Domain.Store.EF@4.0.1
+- pkg:nuget/Cledev.Core.Domain.Store.EF@4.0.2
+- pkg:nuget/Cledev.Core.Domain.Store.EF@4.0.3
+- pkg:nuget/Cledev.Core.Domain.Store.EF@4.1.0
+- pkg:nuget/Cledev.Core.Domain.Store.EF@4.1.1
+- pkg:nuget/Cledev.Core.Domain.Store.EF@4.1.2

@@ -1,0 +1,2 @@
+- pkg:nuget/Base.Extensions.MessageBus.MessageInbox@8.0.0
+- pkg:nuget/Base.Extensions.MessageBus.MessageInbox@9.0.0

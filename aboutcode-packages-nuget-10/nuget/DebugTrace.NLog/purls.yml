@@ -1,0 +1,12 @@
+- pkg:nuget/DebugTrace.NLog@0.6.0-beta
+- pkg:nuget/DebugTrace.NLog@0.6.1-beta
+- pkg:nuget/DebugTrace.NLog@0.6.2-beta
+- pkg:nuget/DebugTrace.NLog@1.0.0
+- pkg:nuget/DebugTrace.NLog@1.0.1
+- pkg:nuget/DebugTrace.NLog@1.1.0
+- pkg:nuget/DebugTrace.NLog@1.5.0
+- pkg:nuget/DebugTrace.NLog@1.6.0
+- pkg:nuget/DebugTrace.NLog@2.0.0
+- pkg:nuget/DebugTrace.NLog@2.1.0
+- pkg:nuget/DebugTrace.NLog@3.0.0
+- pkg:nuget/DebugTrace.NLog@4.0.0

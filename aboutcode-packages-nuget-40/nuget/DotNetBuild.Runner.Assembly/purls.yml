@@ -1,0 +1,5 @@
+- pkg:nuget/DotNetBuild.Runner.Assembly@1.0.0
+- pkg:nuget/DotNetBuild.Runner.Assembly@1.0.0-alpha
+- pkg:nuget/DotNetBuild.Runner.Assembly@1.0.0-alpha2
+- pkg:nuget/DotNetBuild.Runner.Assembly@1.0.0-alpha3
+- pkg:nuget/DotNetBuild.Runner.Assembly@1.1.0

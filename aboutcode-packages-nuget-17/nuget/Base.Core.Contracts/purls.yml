@@ -1,0 +1,4 @@
+- pkg:nuget/Base.Core.Contracts@8.0.0
+- pkg:nuget/Base.Core.Contracts@8.0.1
+- pkg:nuget/Base.Core.Contracts@8.3.2
+- pkg:nuget/Base.Core.Contracts@9.0.0

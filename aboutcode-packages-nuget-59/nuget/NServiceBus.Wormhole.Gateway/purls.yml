@@ -1,0 +1,3 @@
+- pkg:nuget/NServiceBus.Wormhole.Gateway@1.0.0
+- pkg:nuget/NServiceBus.Wormhole.Gateway@2.0.0
+- pkg:nuget/NServiceBus.Wormhole.Gateway@2.0.0-beta0001

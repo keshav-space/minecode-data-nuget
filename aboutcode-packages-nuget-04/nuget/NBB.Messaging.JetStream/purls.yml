@@ -1,0 +1,13 @@
+- pkg:nuget/NBB.Messaging.JetStream@7.0.12
+- pkg:nuget/NBB.Messaging.JetStream@7.0.13
+- pkg:nuget/NBB.Messaging.JetStream@7.0.14
+- pkg:nuget/NBB.Messaging.JetStream@7.0.15
+- pkg:nuget/NBB.Messaging.JetStream@8.0.0
+- pkg:nuget/NBB.Messaging.JetStream@8.0.1
+- pkg:nuget/NBB.Messaging.JetStream@8.0.2
+- pkg:nuget/NBB.Messaging.JetStream@8.0.3
+- pkg:nuget/NBB.Messaging.JetStream@8.0.4
+- pkg:nuget/NBB.Messaging.JetStream@9.0.0
+- pkg:nuget/NBB.Messaging.JetStream@9.0.1
+- pkg:nuget/NBB.Messaging.JetStream@9.0.2
+- pkg:nuget/NBB.Messaging.JetStream@9.0.3

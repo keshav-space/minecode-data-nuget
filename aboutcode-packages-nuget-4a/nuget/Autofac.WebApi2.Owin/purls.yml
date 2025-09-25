@@ -1,0 +1,15 @@
+- pkg:nuget/Autofac.WebApi2.Owin@3.0.0
+- pkg:nuget/Autofac.WebApi2.Owin@3.0.0-alpha
+- pkg:nuget/Autofac.WebApi2.Owin@3.0.0-alpha2
+- pkg:nuget/Autofac.WebApi2.Owin@3.0.0-alpha3
+- pkg:nuget/Autofac.WebApi2.Owin@3.0.1
+- pkg:nuget/Autofac.WebApi2.Owin@3.1.0
+- pkg:nuget/Autofac.WebApi2.Owin@3.2.0
+- pkg:nuget/Autofac.WebApi2.Owin@3.3.0
+- pkg:nuget/Autofac.WebApi2.Owin@4.0.0
+- pkg:nuget/Autofac.WebApi2.Owin@4.0.0-beta7-221
+- pkg:nuget/Autofac.WebApi2.Owin@5.0.0
+- pkg:nuget/Autofac.WebApi2.Owin@6.0.0
+- pkg:nuget/Autofac.WebApi2.Owin@6.1.0
+- pkg:nuget/Autofac.WebApi2.Owin@6.2.0
+- pkg:nuget/Autofac.WebApi2.Owin@6.2.1

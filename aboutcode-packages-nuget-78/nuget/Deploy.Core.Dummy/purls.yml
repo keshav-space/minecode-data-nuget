@@ -1,0 +1,14 @@
+- pkg:nuget/Deploy.Core.Dummy@0.3.0
+- pkg:nuget/Deploy.Core.Dummy@0.3.0-ci-1
+- pkg:nuget/Deploy.Core.Dummy@0.3.1
+- pkg:nuget/Deploy.Core.Dummy@0.3.1-ci-1
+- pkg:nuget/Deploy.Core.Dummy@0.3.2-ci-1
+- pkg:nuget/Deploy.Core.Dummy@0.4.0
+- pkg:nuget/Deploy.Core.Dummy@0.4.1-ci-1
+- pkg:nuget/Deploy.Core.Dummy@0.5.0
+- pkg:nuget/Deploy.Core.Dummy@0.5.1-ci-1
+- pkg:nuget/Deploy.Core.Dummy@0.6.0
+- pkg:nuget/Deploy.Core.Dummy@0.6.1-ci-1
+- pkg:nuget/Deploy.Core.Dummy@0.7.0
+- pkg:nuget/Deploy.Core.Dummy@0.7.0-ci-1
+- pkg:nuget/Deploy.Core.Dummy@0.7.1-ci-1

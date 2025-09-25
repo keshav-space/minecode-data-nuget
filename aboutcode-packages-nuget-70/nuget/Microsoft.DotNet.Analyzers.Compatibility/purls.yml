@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.DotNet.Analyzers.Compatibility@0.1.2-alpha
+- pkg:nuget/Microsoft.DotNet.Analyzers.Compatibility@0.1.3-alpha
+- pkg:nuget/Microsoft.DotNet.Analyzers.Compatibility@0.2.12-alpha

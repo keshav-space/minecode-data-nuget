@@ -1,0 +1,6 @@
+- pkg:nuget/RKSoftware.DAL.InMemory@1.0.5
+- pkg:nuget/RKSoftware.DAL.InMemory@1.0.6
+- pkg:nuget/RKSoftware.DAL.InMemory@1.0.7
+- pkg:nuget/RKSoftware.DAL.InMemory@2.0.1
+- pkg:nuget/RKSoftware.DAL.InMemory@8.0.1
+- pkg:nuget/RKSoftware.DAL.InMemory@9.0.1
