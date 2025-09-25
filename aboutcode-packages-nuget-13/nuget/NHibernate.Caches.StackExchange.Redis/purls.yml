@@ -1,0 +1,2 @@
+- pkg:nuget/NHibernate.Caches.StackExchange.Redis@0.0.1
+- pkg:nuget/NHibernate.Caches.StackExchange.Redis@0.0.2

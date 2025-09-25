@@ -1,0 +1,4 @@
+- pkg:nuget/FBase.Api.EntityFramework@1.6.0
+- pkg:nuget/FBase.Api.EntityFramework@1.6.1
+- pkg:nuget/FBase.Api.EntityFramework@1.6.3
+- pkg:nuget/FBase.Api.EntityFramework@1.6.5

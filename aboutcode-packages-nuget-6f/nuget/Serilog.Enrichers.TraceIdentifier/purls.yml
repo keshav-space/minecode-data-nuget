@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Enrichers.TraceIdentifier@1.0.1
+- pkg:nuget/Serilog.Enrichers.TraceIdentifier@1.0.2

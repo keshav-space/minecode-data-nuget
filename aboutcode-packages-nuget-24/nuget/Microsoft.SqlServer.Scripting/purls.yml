@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.SqlServer.Scripting@11.0.2100.60
+- pkg:nuget/Microsoft.SqlServer.Scripting@11.0.2100.61

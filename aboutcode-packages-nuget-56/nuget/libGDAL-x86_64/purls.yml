@@ -1,0 +1,5 @@
+- pkg:nuget/libGDAL-x86_64@3.1.2
+- pkg:nuget/libGDAL-x86_64@3.1.2.1
+- pkg:nuget/libGDAL-x86_64@3.1.2.2
+- pkg:nuget/libGDAL-x86_64@3.1.2.3
+- pkg:nuget/libGDAL-x86_64@3.1.2.4

@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.HttpJob.Ext.Storage.All@1.0.0
+- pkg:nuget/Hangfire.HttpJob.Ext.Storage.All@1.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/Serilog.Enrichers.AspNetCore.RequestHeader@1.0.2
+- pkg:nuget/Serilog.Enrichers.AspNetCore.RequestHeader@1.0.3

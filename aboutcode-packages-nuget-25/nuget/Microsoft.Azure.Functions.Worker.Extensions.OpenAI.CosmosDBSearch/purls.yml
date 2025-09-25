@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.OpenAI.CosmosDBSearch@0.1.0-alpha
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.OpenAI.CosmosDBSearch@0.2.0-alpha
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.OpenAI.CosmosDBSearch@0.3.0-alpha
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.OpenAI.CosmosDBSearch@0.4.0-alpha

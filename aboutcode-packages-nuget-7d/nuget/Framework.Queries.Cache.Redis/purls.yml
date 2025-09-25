@@ -1,0 +1,2 @@
+- pkg:nuget/Framework.Queries.Cache.Redis@11.0.16
+- pkg:nuget/Framework.Queries.Cache.Redis@11.0.18

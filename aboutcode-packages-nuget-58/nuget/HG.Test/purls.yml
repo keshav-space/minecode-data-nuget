@@ -1,0 +1,5 @@
+- pkg:nuget/HG.Test@0.0.1-alpha
+- pkg:nuget/HG.Test@0.0.1-beta
+- pkg:nuget/HG.Test@0.0.1-gamma
+- pkg:nuget/HG.Test@0.0.1-ultra
+- pkg:nuget/HG.Test@0.0.2
