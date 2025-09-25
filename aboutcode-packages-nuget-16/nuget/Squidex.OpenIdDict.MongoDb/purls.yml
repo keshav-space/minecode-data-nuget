@@ -1,0 +1,5 @@
+- pkg:nuget/Squidex.OpenIdDict.MongoDb@5.8.0
+- pkg:nuget/Squidex.OpenIdDict.MongoDb@5.8.1
+- pkg:nuget/Squidex.OpenIdDict.MongoDb@5.8.2
+- pkg:nuget/Squidex.OpenIdDict.MongoDb@5.8.3
+- pkg:nuget/Squidex.OpenIdDict.MongoDb@5.8.4

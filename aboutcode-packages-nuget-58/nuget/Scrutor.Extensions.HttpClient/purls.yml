@@ -1,0 +1,7 @@
+- pkg:nuget/Scrutor.Extensions.HttpClient@1.0.0
+- pkg:nuget/Scrutor.Extensions.HttpClient@5.0.0
+- pkg:nuget/Scrutor.Extensions.HttpClient@5.0.1
+- pkg:nuget/Scrutor.Extensions.HttpClient@5.1.2-alpha
+- pkg:nuget/Scrutor.Extensions.HttpClient@5.1.2-alpha.2
+- pkg:nuget/Scrutor.Extensions.HttpClient@5.1.2-alpha.3
+- pkg:nuget/Scrutor.Extensions.HttpClient@5.1.2-rc-0001-g687aa97e2f

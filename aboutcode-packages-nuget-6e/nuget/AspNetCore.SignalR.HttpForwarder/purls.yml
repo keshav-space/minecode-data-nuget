@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.SignalR.HttpForwarder@0.9.0
+- pkg:nuget/AspNetCore.SignalR.HttpForwarder@0.9.1
+- pkg:nuget/AspNetCore.SignalR.HttpForwarder@0.9.2
+- pkg:nuget/AspNetCore.SignalR.HttpForwarder@0.9.3

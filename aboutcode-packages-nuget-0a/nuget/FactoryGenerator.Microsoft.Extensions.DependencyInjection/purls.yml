@@ -1,0 +1,4 @@
+- pkg:nuget/FactoryGenerator.Microsoft.Extensions.DependencyInjection@0.0.1
+- pkg:nuget/FactoryGenerator.Microsoft.Extensions.DependencyInjection@0.0.2
+- pkg:nuget/FactoryGenerator.Microsoft.Extensions.DependencyInjection@0.0.21
+- pkg:nuget/FactoryGenerator.Microsoft.Extensions.DependencyInjection@0.0.22

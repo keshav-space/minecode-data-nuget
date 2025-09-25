@@ -1,0 +1,2 @@
+- pkg:nuget/MassTransit.Extras.MessageData.DocumentDb@0.0.1-alpha
+- pkg:nuget/MassTransit.Extras.MessageData.DocumentDb@1.0.0

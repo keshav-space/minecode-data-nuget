@@ -1,0 +1,4 @@
+- pkg:nuget/BigBeer.Core.Extensions.DateTime@1.0.0
+- pkg:nuget/BigBeer.Core.Extensions.DateTime@2.0.0
+- pkg:nuget/BigBeer.Core.Extensions.DateTime@3.0.0
+- pkg:nuget/BigBeer.Core.Extensions.DateTime@3.0.1

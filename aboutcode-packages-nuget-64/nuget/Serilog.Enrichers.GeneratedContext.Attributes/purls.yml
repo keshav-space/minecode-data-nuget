@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Enrichers.GeneratedContext.Attributes@1.0.0
+- pkg:nuget/Serilog.Enrichers.GeneratedContext.Attributes@1.0.0-beta
+- pkg:nuget/Serilog.Enrichers.GeneratedContext.Attributes@1.0.0.1
+- pkg:nuget/Serilog.Enrichers.GeneratedContext.Attributes@1.0.0.2

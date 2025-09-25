@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_17.2.Msi.x64@17.2.9433-net9-p3
+- pkg:nuget/Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_17.2.Msi.x64@17.2.9523-net9-p4
+- pkg:nuget/Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_17.2.Msi.x64@17.2.9639-net9-p5
+- pkg:nuget/Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_17.2.Msi.x64@17.2.9714-net9-p6

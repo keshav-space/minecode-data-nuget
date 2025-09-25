@@ -1,0 +1,5 @@
+- pkg:nuget/openssl_no-asm_vc120@1.0.1.700
+- pkg:nuget/openssl_no-asm_vc120@1.0.1.701
+- pkg:nuget/openssl_no-asm_vc120@1.0.1.702
+- pkg:nuget/openssl_no-asm_vc120@1.0.1.703
+- pkg:nuget/openssl_no-asm_vc120@1.0.1.800
