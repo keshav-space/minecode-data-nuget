@@ -1,0 +1,4 @@
+- pkg:nuget/WebHDFS.Client@1.0.0
+- pkg:nuget/WebHDFS.Client@1.1.0
+- pkg:nuget/WebHDFS.Client@1.1.0-beta
+- pkg:nuget/WebHDFS.Client@2.0.0

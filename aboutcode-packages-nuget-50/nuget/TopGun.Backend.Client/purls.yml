@@ -1,0 +1,6 @@
+- pkg:nuget/TopGun.Backend.Client@0.1.0-topgun
+- pkg:nuget/TopGun.Backend.Client@0.1.1-topgun
+- pkg:nuget/TopGun.Backend.Client@0.2.0-topgun
+- pkg:nuget/TopGun.Backend.Client@0.3.0-topgun
+- pkg:nuget/TopGun.Backend.Client@0.4.0-topgun
+- pkg:nuget/TopGun.Backend.Client@0.5.0-topgun

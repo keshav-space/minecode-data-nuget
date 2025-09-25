@@ -1,0 +1,2 @@
+- pkg:nuget/InfluxDB.Client.Buffered@1.4.0
+- pkg:nuget/InfluxDB.Client.Buffered@1.4.0-rc1

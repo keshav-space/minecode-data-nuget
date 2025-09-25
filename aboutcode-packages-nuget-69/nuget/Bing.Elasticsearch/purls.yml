@@ -1,0 +1,14 @@
+- pkg:nuget/Bing.Elasticsearch@0.0.1
+- pkg:nuget/Bing.Elasticsearch@0.0.1-preview-20190314-1
+- pkg:nuget/Bing.Elasticsearch@0.0.2
+- pkg:nuget/Bing.Elasticsearch@0.0.3
+- pkg:nuget/Bing.Elasticsearch@0.0.4
+- pkg:nuget/Bing.Elasticsearch@1.0.0
+- pkg:nuget/Bing.Elasticsearch@1.0.0-preview-20230222-1
+- pkg:nuget/Bing.Elasticsearch@1.0.0-preview-20230223-1
+- pkg:nuget/Bing.Elasticsearch@1.0.0-preview-20230223-2
+- pkg:nuget/Bing.Elasticsearch@1.0.0-preview-20230223-3
+- pkg:nuget/Bing.Elasticsearch@1.0.0-preview-20230308-1
+- pkg:nuget/Bing.Elasticsearch@1.0.0-preview-20230313-1
+- pkg:nuget/Bing.Elasticsearch@1.0.0-preview-20230613-1
+- pkg:nuget/Bing.Elasticsearch@1.0.0-preview-20240415-1

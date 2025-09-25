@@ -1,0 +1,8 @@
+- pkg:nuget/intelipp.static.osx-x64@2019.3.230
+- pkg:nuget/intelipp.static.osx-x64@2019.4.233
+- pkg:nuget/intelipp.static.osx-x64@2019.5.281
+- pkg:nuget/intelipp.static.osx-x64@2020.0.166
+- pkg:nuget/intelipp.static.osx-x64@2020.1.216
+- pkg:nuget/intelipp.static.osx-x64@2020.3.301
+- pkg:nuget/intelipp.static.osx-x64@2021.1.1.45
+- pkg:nuget/intelipp.static.osx-x64@2021.2.0.192

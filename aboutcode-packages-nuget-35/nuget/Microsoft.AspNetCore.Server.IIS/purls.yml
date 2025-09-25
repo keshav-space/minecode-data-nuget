@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.AspNetCore.Server.IIS@2.1.0-preview1-final
+- pkg:nuget/Microsoft.AspNetCore.Server.IIS@2.2.0
+- pkg:nuget/Microsoft.AspNetCore.Server.IIS@2.2.0-preview1-35029
+- pkg:nuget/Microsoft.AspNetCore.Server.IIS@2.2.0-preview2-35157
+- pkg:nuget/Microsoft.AspNetCore.Server.IIS@2.2.0-preview3-35497
+- pkg:nuget/Microsoft.AspNetCore.Server.IIS@2.2.1
+- pkg:nuget/Microsoft.AspNetCore.Server.IIS@2.2.2
+- pkg:nuget/Microsoft.AspNetCore.Server.IIS@2.2.6

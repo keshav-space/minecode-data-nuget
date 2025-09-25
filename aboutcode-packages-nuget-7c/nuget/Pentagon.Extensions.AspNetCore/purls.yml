@@ -1,0 +1,5 @@
+- pkg:nuget/Pentagon.Extensions.AspNetCore@1.0.0
+- pkg:nuget/Pentagon.Extensions.AspNetCore@1.5.0
+- pkg:nuget/Pentagon.Extensions.AspNetCore@1.5.1
+- pkg:nuget/Pentagon.Extensions.AspNetCore@2.0.0
+- pkg:nuget/Pentagon.Extensions.AspNetCore@2.1.0

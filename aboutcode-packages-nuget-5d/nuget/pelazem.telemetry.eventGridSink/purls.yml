@@ -1,0 +1,6 @@
+- pkg:nuget/pelazem.telemetry.eventGridSink@1.0.0
+- pkg:nuget/pelazem.telemetry.eventGridSink@2.0.0-preview
+- pkg:nuget/pelazem.telemetry.eventGridSink@2.0.1
+- pkg:nuget/pelazem.telemetry.eventGridSink@2.1.0
+- pkg:nuget/pelazem.telemetry.eventGridSink@2.2.0
+- pkg:nuget/pelazem.telemetry.eventGridSink@2.2.1

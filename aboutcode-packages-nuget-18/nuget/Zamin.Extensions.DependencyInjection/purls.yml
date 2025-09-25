@@ -1,0 +1,5 @@
+- pkg:nuget/Zamin.Extensions.DependencyInjection@6.3.0-beta.1
+- pkg:nuget/Zamin.Extensions.DependencyInjection@7.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.DependencyInjection@8.0.0
+- pkg:nuget/Zamin.Extensions.DependencyInjection@8.0.0-beta.1
+- pkg:nuget/Zamin.Extensions.DependencyInjection@9.0.0

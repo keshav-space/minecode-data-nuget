@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Bcl.Compression@3.9.65-beta
+- pkg:nuget/Microsoft.Bcl.Compression@3.9.66-rc
+- pkg:nuget/Microsoft.Bcl.Compression@3.9.69
+- pkg:nuget/Microsoft.Bcl.Compression@3.9.73
+- pkg:nuget/Microsoft.Bcl.Compression@3.9.83
+- pkg:nuget/Microsoft.Bcl.Compression@3.9.84-beta
+- pkg:nuget/Microsoft.Bcl.Compression@3.9.85

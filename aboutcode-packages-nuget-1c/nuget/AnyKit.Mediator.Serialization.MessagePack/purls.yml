@@ -1,0 +1,9 @@
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@6.0.0
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@6.0.2
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@6.1.0
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@7.0.0-preview1-374d34
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@7.0.0-preview2-687ad0f
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@7.0.0-preview3-203be4
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@7.0.0-preview4-bd888c
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@7.0.0-preview5-2fd02f
+- pkg:nuget/AnyKit.Mediator.Serialization.MessagePack@7.0.0-preview6-c18be7

@@ -1,0 +1,10 @@
+- pkg:nuget/Ecwid.OAuth@1.0.0-alpha-158
+- pkg:nuget/Ecwid.OAuth@1.0.0-alpha-170
+- pkg:nuget/Ecwid.OAuth@1.0.0-beta
+- pkg:nuget/Ecwid.OAuth@1.0.0-beta2
+- pkg:nuget/Ecwid.OAuth@1.0.0-beta2-update1
+- pkg:nuget/Ecwid.OAuth@1.0.0-beta2-update2
+- pkg:nuget/Ecwid.OAuth@1.0.0-beta2-update3
+- pkg:nuget/Ecwid.OAuth@1.0.0-pre
+- pkg:nuget/Ecwid.OAuth@1.0.0-rc
+- pkg:nuget/Ecwid.OAuth@1.0.0-rc2

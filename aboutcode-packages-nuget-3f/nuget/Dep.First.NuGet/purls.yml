@@ -1,0 +1,7 @@
+- pkg:nuget/Dep.First.NuGet@1.0.0
+- pkg:nuget/Dep.First.NuGet@2.0.0-alpha
+- pkg:nuget/Dep.First.NuGet@2.0.1-alpha
+- pkg:nuget/Dep.First.NuGet@2.0.2-alpha
+- pkg:nuget/Dep.First.NuGet@2.0.3-alpha
+- pkg:nuget/Dep.First.NuGet@2.0.4-alpha
+- pkg:nuget/Dep.First.NuGet@2.0.5-alpha

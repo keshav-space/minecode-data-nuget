@@ -1,0 +1,5 @@
+- pkg:nuget/DotNetRtfWriter@1.0.0-CI00000
+- pkg:nuget/DotNetRtfWriter@2.0.0
+- pkg:nuget/DotNetRtfWriter@2.0.0.1
+- pkg:nuget/DotNetRtfWriter@2.0.0.2
+- pkg:nuget/DotNetRtfWriter@2.0.0.3

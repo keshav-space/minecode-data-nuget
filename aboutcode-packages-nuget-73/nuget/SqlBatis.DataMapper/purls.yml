@@ -1,0 +1,8 @@
+- pkg:nuget/SqlBatis.DataMapper@3.0.0
+- pkg:nuget/SqlBatis.DataMapper@3.0.1
+- pkg:nuget/SqlBatis.DataMapper@3.1.0
+- pkg:nuget/SqlBatis.DataMapper@4.0.0
+- pkg:nuget/SqlBatis.DataMapper@4.0.0-CI-20191224-045351
+- pkg:nuget/SqlBatis.DataMapper@4.0.1
+- pkg:nuget/SqlBatis.DataMapper@5.0.0
+- pkg:nuget/SqlBatis.DataMapper@5.1.0

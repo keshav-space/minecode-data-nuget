@@ -1,0 +1,15 @@
+- pkg:nuget/PayStackSDK@1.0.0
+- pkg:nuget/PayStackSDK@1.0.0.1-alpha
+- pkg:nuget/PayStackSDK@1.0.0.2-alpha
+- pkg:nuget/PayStackSDK@1.0.0.3-alpha
+- pkg:nuget/PayStackSDK@1.0.0.4-alpha
+- pkg:nuget/PayStackSDK@1.0.0.5-alpha
+- pkg:nuget/PayStackSDK@1.0.0.6-alpha
+- pkg:nuget/PayStackSDK@1.0.0.7-alpha
+- pkg:nuget/PayStackSDK@1.0.0.8-alpha
+- pkg:nuget/PayStackSDK@1.0.9
+- pkg:nuget/PayStackSDK@2.0.0
+- pkg:nuget/PayStackSDK@2.0.1
+- pkg:nuget/PayStackSDK@2.0.2
+- pkg:nuget/PayStackSDK@2.0.3
+- pkg:nuget/PayStackSDK@2.0.4

@@ -1,0 +1,14 @@
+- pkg:nuget/IO.Milvus@2.0.0-alpha
+- pkg:nuget/IO.Milvus@2.0.0-alpha.2
+- pkg:nuget/IO.Milvus@2.0.0-alpha.3
+- pkg:nuget/IO.Milvus@2.1.0-alpha.1
+- pkg:nuget/IO.Milvus@2.2.0-alpha.1
+- pkg:nuget/IO.Milvus@2.2.0-alpha.2
+- pkg:nuget/IO.Milvus@2.2.0-alpha.3
+- pkg:nuget/IO.Milvus@2.2.1-alpha.1
+- pkg:nuget/IO.Milvus@2.2.1-alpha.4
+- pkg:nuget/IO.Milvus@2.2.1-alpha.5
+- pkg:nuget/IO.Milvus@2.2.1-alpha.7
+- pkg:nuget/IO.Milvus@2.2.1-alpha.8
+- pkg:nuget/IO.Milvus@2.2.1-beta.9
+- pkg:nuget/IO.Milvus@2.2.2-preview.1

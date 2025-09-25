@@ -1,0 +1,6 @@
+- pkg:nuget/Jimlicat.Extensions.EFCoreRelational@1.0.0-preview.1
+- pkg:nuget/Jimlicat.Extensions.EFCoreRelational@3.0.0
+- pkg:nuget/Jimlicat.Extensions.EFCoreRelational@3.1.0
+- pkg:nuget/Jimlicat.Extensions.EFCoreRelational@3.1.1
+- pkg:nuget/Jimlicat.Extensions.EFCoreRelational@3.3.1
+- pkg:nuget/Jimlicat.Extensions.EFCoreRelational@3.3.2

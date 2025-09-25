@@ -1,0 +1,5 @@
+- pkg:nuget/SqlBatis.DynamicProxy@3.0.0
+- pkg:nuget/SqlBatis.DynamicProxy@4.0.0
+- pkg:nuget/SqlBatis.DynamicProxy@4.0.0-CI-20191224-045351
+- pkg:nuget/SqlBatis.DynamicProxy@5.0.0
+- pkg:nuget/SqlBatis.DynamicProxy@5.1.0

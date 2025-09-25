@@ -1,0 +1,11 @@
+- pkg:nuget/Prism.Windows@6.0.0
+- pkg:nuget/Prism.Windows@6.0.1
+- pkg:nuget/Prism.Windows@6.0.2
+- pkg:nuget/Prism.Windows@6.0.2-pre1
+- pkg:nuget/Prism.Windows@6.3.0
+- pkg:nuget/Prism.Windows@6.3.0-pre1
+- pkg:nuget/Prism.Windows@6.3.0-pre2
+- pkg:nuget/Prism.Windows@7.0.0.269-ci
+- pkg:nuget/Prism.Windows@7.0.0.269-pre
+- pkg:nuget/Prism.Windows@7.0.0.336-pre
+- pkg:nuget/Prism.Windows@7.2.0.1038-pre

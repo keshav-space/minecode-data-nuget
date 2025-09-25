@@ -1,0 +1,14 @@
+- pkg:nuget/fm.Mvvm.Messaging@1.0.0
+- pkg:nuget/fm.Mvvm.Messaging@1.0.0-preview.1
+- pkg:nuget/fm.Mvvm.Messaging@1.1.0
+- pkg:nuget/fm.Mvvm.Messaging@1.2.0
+- pkg:nuget/fm.Mvvm.Messaging@1.2.0-preview.1
+- pkg:nuget/fm.Mvvm.Messaging@2.0.0
+- pkg:nuget/fm.Mvvm.Messaging@2.0.0-preview.1
+- pkg:nuget/fm.Mvvm.Messaging@2.1.0
+- pkg:nuget/fm.Mvvm.Messaging@2.1.1
+- pkg:nuget/fm.Mvvm.Messaging@2.1.1-preview.1
+- pkg:nuget/fm.Mvvm.Messaging@3.0.0
+- pkg:nuget/fm.Mvvm.Messaging@3.0.0-preview.1
+- pkg:nuget/fm.Mvvm.Messaging@3.0.1
+- pkg:nuget/fm.Mvvm.Messaging@4.0.0

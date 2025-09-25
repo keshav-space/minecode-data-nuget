@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.ResponseCache.NCache@5.2.0
+- pkg:nuget/AspNetCore.ResponseCache.NCache@5.2.1
+- pkg:nuget/AspNetCore.ResponseCache.NCache@5.3.0
+- pkg:nuget/AspNetCore.ResponseCache.NCache@5.3.5
+- pkg:nuget/AspNetCore.ResponseCache.NCache@5.3.6

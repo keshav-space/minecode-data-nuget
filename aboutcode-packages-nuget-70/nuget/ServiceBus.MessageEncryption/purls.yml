@@ -1,0 +1,9 @@
+- pkg:nuget/ServiceBus.MessageEncryption@1.0.0
+- pkg:nuget/ServiceBus.MessageEncryption@1.14.0
+- pkg:nuget/ServiceBus.MessageEncryption@1.15.0
+- pkg:nuget/ServiceBus.MessageEncryption@1.16.0
+- pkg:nuget/ServiceBus.MessageEncryption@1.17.0
+- pkg:nuget/ServiceBus.MessageEncryption@1.18.0
+- pkg:nuget/ServiceBus.MessageEncryption@1.21.0
+- pkg:nuget/ServiceBus.MessageEncryption@1.24.0
+- pkg:nuget/ServiceBus.MessageEncryption@1.25.0

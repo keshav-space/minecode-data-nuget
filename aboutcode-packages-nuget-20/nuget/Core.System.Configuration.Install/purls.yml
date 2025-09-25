@@ -1,0 +1,7 @@
+- pkg:nuget/Core.System.Configuration.Install@0.0.1-alpha
+- pkg:nuget/Core.System.Configuration.Install@0.1.2-prerelease
+- pkg:nuget/Core.System.Configuration.Install@0.2.0-prerelease
+- pkg:nuget/Core.System.Configuration.Install@0.3.0-prerelease
+- pkg:nuget/Core.System.Configuration.Install@1.0.0
+- pkg:nuget/Core.System.Configuration.Install@1.0.1
+- pkg:nuget/Core.System.Configuration.Install@1.1.0

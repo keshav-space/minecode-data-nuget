@@ -1,0 +1,4 @@
+- pkg:nuget/InstallUtil@0.1.0-beta
+- pkg:nuget/InstallUtil@1.0.0
+- pkg:nuget/InstallUtil@1.1.0
+- pkg:nuget/InstallUtil@1.2.0

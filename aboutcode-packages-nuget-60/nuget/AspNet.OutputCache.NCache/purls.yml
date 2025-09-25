@@ -1,0 +1,7 @@
+- pkg:nuget/AspNet.OutputCache.NCache@5.2.0
+- pkg:nuget/AspNet.OutputCache.NCache@5.2.1
+- pkg:nuget/AspNet.OutputCache.NCache@5.3.0
+- pkg:nuget/AspNet.OutputCache.NCache@5.3.5
+- pkg:nuget/AspNet.OutputCache.NCache@5.3.5.1
+- pkg:nuget/AspNet.OutputCache.NCache@5.3.5.2
+- pkg:nuget/AspNet.OutputCache.NCache@5.3.6

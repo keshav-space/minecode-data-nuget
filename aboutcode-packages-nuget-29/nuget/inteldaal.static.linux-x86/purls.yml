@@ -1,0 +1,7 @@
+- pkg:nuget/inteldaal.static.linux-x86@2019.3.231
+- pkg:nuget/inteldaal.static.linux-x86@2019.4.243
+- pkg:nuget/inteldaal.static.linux-x86@2019.5.281
+- pkg:nuget/inteldaal.static.linux-x86@2020.0.166
+- pkg:nuget/inteldaal.static.linux-x86@2020.1.217
+- pkg:nuget/inteldaal.static.linux-x86@2020.2.254
+- pkg:nuget/inteldaal.static.linux-x86@2020.3.304

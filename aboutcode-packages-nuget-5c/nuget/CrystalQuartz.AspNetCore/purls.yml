@@ -1,0 +1,16 @@
+- pkg:nuget/CrystalQuartz.AspNetCore@6.10.0-alpha
+- pkg:nuget/CrystalQuartz.AspNetCore@6.10.0.3-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@6.11.0.3-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@6.4.0-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@6.5.0-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@6.5.1-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@6.7.0-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@6.8.1
+- pkg:nuget/CrystalQuartz.AspNetCore@6.9.0-alpha
+- pkg:nuget/CrystalQuartz.AspNetCore@6.9.1-alpha
+- pkg:nuget/CrystalQuartz.AspNetCore@6.9.3-alpha
+- pkg:nuget/CrystalQuartz.AspNetCore@7.0.0.19-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@7.0.0.20-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@7.1.0
+- pkg:nuget/CrystalQuartz.AspNetCore@7.2.0-beta
+- pkg:nuget/CrystalQuartz.AspNetCore@7.3.0

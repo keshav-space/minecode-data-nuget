@@ -1,0 +1,13 @@
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20171219-201039
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20171219-201155
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20171219-201327
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180101-173434
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180101-175234
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180101-175552
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180101-200607
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180103-142705
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180103-143949
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180103-150245
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180103-155806
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180104-084856
+- pkg:nuget/TCore.Mapper@1.0.0-CI-20180109-121841

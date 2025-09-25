@@ -1,0 +1,10 @@
+- pkg:nuget/fm.Windows.HttpServer@1.0.0
+- pkg:nuget/fm.Windows.HttpServer@1.0.0-preview.1
+- pkg:nuget/fm.Windows.HttpServer@1.1.0
+- pkg:nuget/fm.Windows.HttpServer@1.2.0
+- pkg:nuget/fm.Windows.HttpServer@1.2.0-preview.1
+- pkg:nuget/fm.Windows.HttpServer@2.0.0
+- pkg:nuget/fm.Windows.HttpServer@2.0.0-preview.1
+- pkg:nuget/fm.Windows.HttpServer@3.0.0
+- pkg:nuget/fm.Windows.HttpServer@3.0.0-preview.1
+- pkg:nuget/fm.Windows.HttpServer@4.0.0

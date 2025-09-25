@@ -1,0 +1,5 @@
+- pkg:nuget/PhoneCli@0.0.1
+- pkg:nuget/PhoneCli@0.0.1-alpha
+- pkg:nuget/PhoneCli@0.0.1-beta
+- pkg:nuget/PhoneCli@0.0.2
+- pkg:nuget/PhoneCli@0.0.3

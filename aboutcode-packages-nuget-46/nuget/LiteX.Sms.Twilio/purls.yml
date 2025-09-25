@@ -1,0 +1,10 @@
+- pkg:nuget/LiteX.Sms.Twilio@1.0.0
+- pkg:nuget/LiteX.Sms.Twilio@2.0.0
+- pkg:nuget/LiteX.Sms.Twilio@2.1.0
+- pkg:nuget/LiteX.Sms.Twilio@2.2.0
+- pkg:nuget/LiteX.Sms.Twilio@3.0.0
+- pkg:nuget/LiteX.Sms.Twilio@4.0.0
+- pkg:nuget/LiteX.Sms.Twilio@5.0.0-beta
+- pkg:nuget/LiteX.Sms.Twilio@6.0.0
+- pkg:nuget/LiteX.Sms.Twilio@6.1.0
+- pkg:nuget/LiteX.Sms.Twilio@7.0.0

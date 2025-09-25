@@ -1,0 +1,17 @@
+- pkg:nuget/Prism.Autofac@5.7.0-pre3
+- pkg:nuget/Prism.Autofac@5.7.0-pre4
+- pkg:nuget/Prism.Autofac@6.0.0
+- pkg:nuget/Prism.Autofac@6.0.1
+- pkg:nuget/Prism.Autofac@6.1.0
+- pkg:nuget/Prism.Autofac@6.1.1
+- pkg:nuget/Prism.Autofac@6.2.0
+- pkg:nuget/Prism.Autofac@6.3.0
+- pkg:nuget/Prism.Autofac@6.3.0-pre1
+- pkg:nuget/Prism.Autofac@6.3.0-pre2
+- pkg:nuget/Prism.Autofac@7.0.0.269-ci
+- pkg:nuget/Prism.Autofac@7.0.0.269-pre
+- pkg:nuget/Prism.Autofac@7.0.0.336-pre
+- pkg:nuget/Prism.Autofac@7.1.0.123-pre
+- pkg:nuget/Prism.Autofac@7.1.0.172-pre
+- pkg:nuget/Prism.Autofac@7.1.0.279-pre
+- pkg:nuget/Prism.Autofac@7.1.0.431

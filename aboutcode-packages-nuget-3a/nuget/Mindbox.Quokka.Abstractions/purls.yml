@@ -1,0 +1,14 @@
+- pkg:nuget/Mindbox.Quokka.Abstractions@4.10.0
+- pkg:nuget/Mindbox.Quokka.Abstractions@5.0.0
+- pkg:nuget/Mindbox.Quokka.Abstractions@5.1.0
+- pkg:nuget/Mindbox.Quokka.Abstractions@6.0.0
+- pkg:nuget/Mindbox.Quokka.Abstractions@6.0.1
+- pkg:nuget/Mindbox.Quokka.Abstractions@6.1.0
+- pkg:nuget/Mindbox.Quokka.Abstractions@6.1.1
+- pkg:nuget/Mindbox.Quokka.Abstractions@6.1.2
+- pkg:nuget/Mindbox.Quokka.Abstractions@7.0.0
+- pkg:nuget/Mindbox.Quokka.Abstractions@7.0.1
+- pkg:nuget/Mindbox.Quokka.Abstractions@7.0.2
+- pkg:nuget/Mindbox.Quokka.Abstractions@8.0.0
+- pkg:nuget/Mindbox.Quokka.Abstractions@8.1.0
+- pkg:nuget/Mindbox.Quokka.Abstractions@8.2.0

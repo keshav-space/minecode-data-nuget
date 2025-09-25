@@ -1,0 +1,16 @@
+- pkg:nuget/CompileTimeWeaver.Fody@1.0.0
+- pkg:nuget/CompileTimeWeaver.Fody@1.1.0
+- pkg:nuget/CompileTimeWeaver.Fody@1.3.0
+- pkg:nuget/CompileTimeWeaver.Fody@1.4.1
+- pkg:nuget/CompileTimeWeaver.Fody@1.4.2
+- pkg:nuget/CompileTimeWeaver.Fody@1.4.3
+- pkg:nuget/CompileTimeWeaver.Fody@2.0.0
+- pkg:nuget/CompileTimeWeaver.Fody@2.0.1
+- pkg:nuget/CompileTimeWeaver.Fody@2.1.0
+- pkg:nuget/CompileTimeWeaver.Fody@2.1.1
+- pkg:nuget/CompileTimeWeaver.Fody@2.2.1
+- pkg:nuget/CompileTimeWeaver.Fody@2.3.0
+- pkg:nuget/CompileTimeWeaver.Fody@3.1.7
+- pkg:nuget/CompileTimeWeaver.Fody@3.3.3
+- pkg:nuget/CompileTimeWeaver.Fody@3.3.4
+- pkg:nuget/CompileTimeWeaver.Fody@3.3.5

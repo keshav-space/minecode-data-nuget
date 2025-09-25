@@ -1,0 +1,9 @@
+- pkg:nuget/mixpanel-csharp@1.0.0
+- pkg:nuget/mixpanel-csharp@2.0.0
+- pkg:nuget/mixpanel-csharp@2.1.0
+- pkg:nuget/mixpanel-csharp@3.0.0
+- pkg:nuget/mixpanel-csharp@4.0.0
+- pkg:nuget/mixpanel-csharp@4.0.1
+- pkg:nuget/mixpanel-csharp@5.0.0
+- pkg:nuget/mixpanel-csharp@5.1.0
+- pkg:nuget/mixpanel-csharp@6.0.0

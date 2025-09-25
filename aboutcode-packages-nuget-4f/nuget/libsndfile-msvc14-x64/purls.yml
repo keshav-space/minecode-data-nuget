@@ -1,0 +1,4 @@
+- pkg:nuget/libsndfile-msvc14-x64@1.0.27.7787
+- pkg:nuget/libsndfile-msvc14-x64@1.0.27.7788
+- pkg:nuget/libsndfile-msvc14-x64@1.0.28.7789
+- pkg:nuget/libsndfile-msvc14-x64@1.3.2.7787

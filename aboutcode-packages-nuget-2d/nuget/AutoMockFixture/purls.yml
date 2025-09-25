@@ -1,0 +1,17 @@
+- pkg:nuget/AutoMockFixture@1.2.0
+- pkg:nuget/AutoMockFixture@2.0.0
+- pkg:nuget/AutoMockFixture@2.0.1
+- pkg:nuget/AutoMockFixture@3.0.0
+- pkg:nuget/AutoMockFixture@4.0.0
+- pkg:nuget/AutoMockFixture@5.0.0
+- pkg:nuget/AutoMockFixture@5.0.1
+- pkg:nuget/AutoMockFixture@5.0.2
+- pkg:nuget/AutoMockFixture@5.0.3
+- pkg:nuget/AutoMockFixture@5.0.4
+- pkg:nuget/AutoMockFixture@5.0.5
+- pkg:nuget/AutoMockFixture@6.0.0
+- pkg:nuget/AutoMockFixture@7.0.0
+- pkg:nuget/AutoMockFixture@7.0.1
+- pkg:nuget/AutoMockFixture@8.0.0-beta.1
+- pkg:nuget/AutoMockFixture@8.0.0-beta.2
+- pkg:nuget/AutoMockFixture@8.0.0-beta.3

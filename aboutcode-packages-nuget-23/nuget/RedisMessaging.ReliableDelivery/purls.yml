@@ -1,0 +1,4 @@
+- pkg:nuget/RedisMessaging.ReliableDelivery@1.0.0
+- pkg:nuget/RedisMessaging.ReliableDelivery@1.0.0-prerelease-184157
+- pkg:nuget/RedisMessaging.ReliableDelivery@1.0.0-prerelease-184158
+- pkg:nuget/RedisMessaging.ReliableDelivery@1.0.0-prerelease-184304
