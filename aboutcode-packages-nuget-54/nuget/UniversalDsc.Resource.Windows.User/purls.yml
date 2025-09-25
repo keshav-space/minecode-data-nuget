@@ -1,0 +1,4 @@
+- pkg:nuget/UniversalDsc.Resource.Windows.User@0.1.0
+- pkg:nuget/UniversalDsc.Resource.Windows.User@0.1.1
+- pkg:nuget/UniversalDsc.Resource.Windows.User@0.1.2
+- pkg:nuget/UniversalDsc.Resource.Windows.User@0.1.3

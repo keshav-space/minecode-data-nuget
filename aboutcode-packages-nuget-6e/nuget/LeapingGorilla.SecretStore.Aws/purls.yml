@@ -1,0 +1,2 @@
+- pkg:nuget/LeapingGorilla.SecretStore.Aws@4.0.0
+- pkg:nuget/LeapingGorilla.SecretStore.Aws@5.0.0

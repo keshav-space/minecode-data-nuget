@@ -1,0 +1,3 @@
+- pkg:nuget/log4net.Ext.JsonStandard@1.0.0
+- pkg:nuget/log4net.Ext.JsonStandard@1.1.5
+- pkg:nuget/log4net.Ext.JsonStandard@1.1.8

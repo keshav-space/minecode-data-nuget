@@ -1,0 +1,5 @@
+- pkg:nuget/prometheus-net.SystemMetrics@1.0.0
+- pkg:nuget/prometheus-net.SystemMetrics@1.0.1
+- pkg:nuget/prometheus-net.SystemMetrics@2.0.0
+- pkg:nuget/prometheus-net.SystemMetrics@3.0.0
+- pkg:nuget/prometheus-net.SystemMetrics@3.1.0

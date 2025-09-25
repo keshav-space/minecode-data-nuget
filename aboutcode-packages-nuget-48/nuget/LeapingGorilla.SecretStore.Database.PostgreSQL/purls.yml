@@ -1,0 +1,2 @@
+- pkg:nuget/LeapingGorilla.SecretStore.Database.PostgreSQL@4.0.0
+- pkg:nuget/LeapingGorilla.SecretStore.Database.PostgreSQL@5.0.0

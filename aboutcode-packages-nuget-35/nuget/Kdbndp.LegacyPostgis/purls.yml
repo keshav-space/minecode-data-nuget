@@ -1,0 +1,3 @@
+- pkg:nuget/Kdbndp.LegacyPostgis@2.1.1
+- pkg:nuget/Kdbndp.LegacyPostgis@4.5.0.1
+- pkg:nuget/Kdbndp.LegacyPostgis@5.0.0

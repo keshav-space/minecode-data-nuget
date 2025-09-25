@@ -1,0 +1,3 @@
+- pkg:nuget/CAMEL.FileStorage.Application.Contracts@1.0.0
+- pkg:nuget/CAMEL.FileStorage.Application.Contracts@1.0.1
+- pkg:nuget/CAMEL.FileStorage.Application.Contracts@1.0.2

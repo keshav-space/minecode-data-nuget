@@ -1,0 +1,8 @@
+- pkg:nuget/Mirolim.EventBus.RabbitMQ@1.0.0
+- pkg:nuget/Mirolim.EventBus.RabbitMQ@1.0.1
+- pkg:nuget/Mirolim.EventBus.RabbitMQ@1.5.0
+- pkg:nuget/Mirolim.EventBus.RabbitMQ@1.5.1
+- pkg:nuget/Mirolim.EventBus.RabbitMQ@1.5.2
+- pkg:nuget/Mirolim.EventBus.RabbitMQ@9.0.16
+- pkg:nuget/Mirolim.EventBus.RabbitMQ@9.0.17
+- pkg:nuget/Mirolim.EventBus.RabbitMQ@9.0.5

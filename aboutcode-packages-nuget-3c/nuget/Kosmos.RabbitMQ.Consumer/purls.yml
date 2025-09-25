@@ -1,0 +1,4 @@
+- pkg:nuget/Kosmos.RabbitMQ.Consumer@1.0.0
+- pkg:nuget/Kosmos.RabbitMQ.Consumer@1.0.0.1
+- pkg:nuget/Kosmos.RabbitMQ.Consumer@1.0.1.1
+- pkg:nuget/Kosmos.RabbitMQ.Consumer@1.1.0

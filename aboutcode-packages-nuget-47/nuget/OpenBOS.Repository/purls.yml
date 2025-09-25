@@ -1,0 +1,4 @@
+- pkg:nuget/OpenBOS.Repository@1.0.0
+- pkg:nuget/OpenBOS.Repository@1.1.0
+- pkg:nuget/OpenBOS.Repository@1.2.0
+- pkg:nuget/OpenBOS.Repository@3.0.0

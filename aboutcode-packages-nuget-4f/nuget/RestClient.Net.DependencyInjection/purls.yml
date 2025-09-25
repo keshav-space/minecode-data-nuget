@@ -1,0 +1,7 @@
+- pkg:nuget/RestClient.Net.DependencyInjection@5.0.3-beta
+- pkg:nuget/RestClient.Net.DependencyInjection@5.0.4-beta
+- pkg:nuget/RestClient.Net.DependencyInjection@5.0.5-beta
+- pkg:nuget/RestClient.Net.DependencyInjection@5.0.6
+- pkg:nuget/RestClient.Net.DependencyInjection@5.0.7
+- pkg:nuget/RestClient.Net.DependencyInjection@5.1.0
+- pkg:nuget/RestClient.Net.DependencyInjection@6.0.0

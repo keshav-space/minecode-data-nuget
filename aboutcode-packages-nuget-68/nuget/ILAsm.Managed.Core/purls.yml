@@ -1,0 +1,5 @@
+- pkg:nuget/ILAsm.Managed.Core@0.1.0
+- pkg:nuget/ILAsm.Managed.Core@1.0.0
+- pkg:nuget/ILAsm.Managed.Core@1.1.0
+- pkg:nuget/ILAsm.Managed.Core@1.1.9
+- pkg:nuget/ILAsm.Managed.Core@1.2.0

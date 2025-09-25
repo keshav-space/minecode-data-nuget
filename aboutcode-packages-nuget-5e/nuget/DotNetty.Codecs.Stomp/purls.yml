@@ -1,0 +1,2 @@
+- pkg:nuget/DotNetty.Codecs.Stomp@0.6.0
+- pkg:nuget/DotNetty.Codecs.Stomp@0.6.1

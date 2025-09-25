@@ -1,0 +1,2 @@
+- pkg:nuget/runtime.fedora.24-x64.runtime.native.System.Net.Http@4.3.0
+- pkg:nuget/runtime.fedora.24-x64.runtime.native.System.Net.Http@4.3.1

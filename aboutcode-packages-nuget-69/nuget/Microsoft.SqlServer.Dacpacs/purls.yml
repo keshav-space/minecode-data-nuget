@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.SqlServer.Dacpacs@100.0.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs@110.0.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs@120.0.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs@130.0.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs@140.0.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs@150.0.0
+- pkg:nuget/Microsoft.SqlServer.Dacpacs@160.0.0

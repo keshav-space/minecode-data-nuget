@@ -1,0 +1,8 @@
+- pkg:nuget/Albatross.Repository.SqlServer@1.6.0
+- pkg:nuget/Albatross.Repository.SqlServer@1.6.1
+- pkg:nuget/Albatross.Repository.SqlServer@1.6.2
+- pkg:nuget/Albatross.Repository.SqlServer@1.6.4
+- pkg:nuget/Albatross.Repository.SqlServer@1.6.5
+- pkg:nuget/Albatross.Repository.SqlServer@2.3.6
+- pkg:nuget/Albatross.Repository.SqlServer@2.8.0
+- pkg:nuget/Albatross.Repository.SqlServer@4.0.2

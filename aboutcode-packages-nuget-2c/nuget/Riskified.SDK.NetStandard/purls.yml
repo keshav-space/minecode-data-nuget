@@ -1,0 +1,5 @@
+- pkg:nuget/Riskified.SDK.NetStandard@2.1.2.9
+- pkg:nuget/Riskified.SDK.NetStandard@2.1.2.9-a
+- pkg:nuget/Riskified.SDK.NetStandard@3.9.0
+- pkg:nuget/Riskified.SDK.NetStandard@3.9.0-upstreammerge20
+- pkg:nuget/Riskified.SDK.NetStandard@3.9.0-upstreammerge21

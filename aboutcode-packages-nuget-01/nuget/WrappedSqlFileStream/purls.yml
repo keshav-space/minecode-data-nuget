@@ -1,0 +1,4 @@
+- pkg:nuget/WrappedSqlFileStream@1.0.0
+- pkg:nuget/WrappedSqlFileStream@1.2.0
+- pkg:nuget/WrappedSqlFileStream@2.0.0
+- pkg:nuget/WrappedSqlFileStream@2.0.1

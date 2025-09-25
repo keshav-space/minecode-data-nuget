@@ -1,0 +1,3 @@
+- pkg:nuget/SD.Infrastructure.EventStoreProvider.RabbitMQ@1.0.0
+- pkg:nuget/SD.Infrastructure.EventStoreProvider.RabbitMQ@1.0.1
+- pkg:nuget/SD.Infrastructure.EventStoreProvider.RabbitMQ@2.0.0

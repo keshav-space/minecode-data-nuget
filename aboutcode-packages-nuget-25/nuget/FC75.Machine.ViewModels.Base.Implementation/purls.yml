@@ -1,0 +1,4 @@
+- pkg:nuget/FC75.Machine.ViewModels.Base.Implementation@2.6.0
+- pkg:nuget/FC75.Machine.ViewModels.Base.Implementation@2.7.0
+- pkg:nuget/FC75.Machine.ViewModels.Base.Implementation@2.8.0
+- pkg:nuget/FC75.Machine.ViewModels.Base.Implementation@3.0.0

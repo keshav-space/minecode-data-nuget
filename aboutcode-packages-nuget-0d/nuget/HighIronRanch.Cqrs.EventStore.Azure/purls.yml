@@ -1,0 +1,7 @@
+- pkg:nuget/HighIronRanch.Cqrs.EventStore.Azure@1.0.0
+- pkg:nuget/HighIronRanch.Cqrs.EventStore.Azure@1.0.0.1
+- pkg:nuget/HighIronRanch.Cqrs.EventStore.Azure@1.0.0.2
+- pkg:nuget/HighIronRanch.Cqrs.EventStore.Azure@1.0.0.3
+- pkg:nuget/HighIronRanch.Cqrs.EventStore.Azure@1.0.0.5
+- pkg:nuget/HighIronRanch.Cqrs.EventStore.Azure@1.2.0
+- pkg:nuget/HighIronRanch.Cqrs.EventStore.Azure@2.0.0

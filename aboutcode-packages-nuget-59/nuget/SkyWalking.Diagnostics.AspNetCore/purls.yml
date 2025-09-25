@@ -1,0 +1,2 @@
+- pkg:nuget/SkyWalking.Diagnostics.AspNetCore@0.6.0
+- pkg:nuget/SkyWalking.Diagnostics.AspNetCore@0.7.0

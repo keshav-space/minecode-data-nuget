@@ -1,0 +1,3 @@
+- pkg:nuget/ova.Common.Net.EntityFrameworkCore.Data@6.22.1
+- pkg:nuget/ova.Common.Net.EntityFrameworkCore.Data@6.23.2
+- pkg:nuget/ova.Common.Net.EntityFrameworkCore.Data@6.23.4

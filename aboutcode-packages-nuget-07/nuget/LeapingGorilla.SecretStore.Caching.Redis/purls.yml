@@ -1,0 +1,2 @@
+- pkg:nuget/LeapingGorilla.SecretStore.Caching.Redis@4.0.0
+- pkg:nuget/LeapingGorilla.SecretStore.Caching.Redis@5.0.0

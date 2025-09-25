@@ -1,0 +1,5 @@
+- pkg:nuget/Handlebars.NetStandard@1.0.0
+- pkg:nuget/Handlebars.NetStandard@1.0.0-dotnet-core-rc2-0001
+- pkg:nuget/Handlebars.NetStandard@1.0.0-dotnet-core-rtm1
+- pkg:nuget/Handlebars.NetStandard@1.0.1
+- pkg:nuget/Handlebars.NetStandard@1.8.1
