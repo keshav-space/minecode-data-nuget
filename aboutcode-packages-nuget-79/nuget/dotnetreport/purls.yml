@@ -1,0 +1,14 @@
+- pkg:nuget/dotnetreport@6.0.0
+- pkg:nuget/dotnetreport@6.0.0-beta
+- pkg:nuget/dotnetreport@6.0.1
+- pkg:nuget/dotnetreport@6.0.2
+- pkg:nuget/dotnetreport@6.0.3
+- pkg:nuget/dotnetreport@6.0.3-beta
+- pkg:nuget/dotnetreport@6.0.4
+- pkg:nuget/dotnetreport@6.0.5
+- pkg:nuget/dotnetreport@6.0.5-beta
+- pkg:nuget/dotnetreport@6.0.6
+- pkg:nuget/dotnetreport@6.0.6-beta
+- pkg:nuget/dotnetreport@6.0.7
+- pkg:nuget/dotnetreport@6.0.8-beta
+- pkg:nuget/dotnetreport@6.1.0-beta

@@ -1,0 +1,14 @@
+- pkg:nuget/Telegram.Bot.Framework@1.1.0-alpha
+- pkg:nuget/Telegram.Bot.Framework@1.1.1-alpha
+- pkg:nuget/Telegram.Bot.Framework@1.1.1-beta
+- pkg:nuget/Telegram.Bot.Framework@1.1.2
+- pkg:nuget/Telegram.Bot.Framework@1.1.3
+- pkg:nuget/Telegram.Bot.Framework@1.1.4
+- pkg:nuget/Telegram.Bot.Framework@2.0.0-RC-1
+- pkg:nuget/Telegram.Bot.Framework@2.0.0-alpha1
+- pkg:nuget/Telegram.Bot.Framework@2.0.0-alpha2
+- pkg:nuget/Telegram.Bot.Framework@2.0.0-alpha3
+- pkg:nuget/Telegram.Bot.Framework@2.0.0-alpha4
+- pkg:nuget/Telegram.Bot.Framework@2.0.0-alpha5
+- pkg:nuget/Telegram.Bot.Framework@2.0.0-rc3
+- pkg:nuget/Telegram.Bot.Framework@2.0.0-rc4

@@ -1,0 +1,12 @@
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.0.0
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.0.0-alpha.2
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.0.0-alpha.3
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.0.0-alpha.4
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.1.0
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.2.0
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.3.0
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.3.1
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.4.0
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.4.1
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@1.4.2
+- pkg:nuget/Carcass.Data.EntityFrameworkCore@2.0.0

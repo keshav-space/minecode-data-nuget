@@ -1,0 +1,3 @@
+- pkg:nuget/AutoWrapper.Server@1.0.0
+- pkg:nuget/AutoWrapper.Server@1.0.0-rc
+- pkg:nuget/AutoWrapper.Server@2.0.0

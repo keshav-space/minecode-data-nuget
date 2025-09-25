@@ -1,0 +1,13 @@
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.10.0
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.10.2
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.11.2
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.11.5
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.11.6
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.7.5
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.7.5-beta1
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.7.6
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.7.6-beta1
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.7.6-beta2
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.7.6-beta3
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.8.1
+- pkg:nuget/BaristaLabs.BaristaCore.ChakraCore.osx-x64@1.8.5

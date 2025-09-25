@@ -1,0 +1,16 @@
+- pkg:nuget/WolfCurses@1.0.0
+- pkg:nuget/WolfCurses@1.0.0-ci-
+- pkg:nuget/WolfCurses@1.0.0-ci-9
+- pkg:nuget/WolfCurses@2.0.0-ci-10
+- pkg:nuget/WolfCurses@2.1.0.10
+- pkg:nuget/WolfCurses@2.1.0.11
+- pkg:nuget/WolfCurses@2.1.0.12
+- pkg:nuget/WolfCurses@2.1.0.15
+- pkg:nuget/WolfCurses@2.1.0.16
+- pkg:nuget/WolfCurses@2.1.0.8
+- pkg:nuget/WolfCurses@2.1.0.9
+- pkg:nuget/WolfCurses@2018.5.7.1
+- pkg:nuget/WolfCurses@2018.5.7.2
+- pkg:nuget/WolfCurses@2018.5.8.1
+- pkg:nuget/WolfCurses@2018.9.12.1
+- pkg:nuget/WolfCurses@3.0.0

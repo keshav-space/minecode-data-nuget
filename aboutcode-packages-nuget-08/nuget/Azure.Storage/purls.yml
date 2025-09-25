@@ -1,0 +1,4 @@
+- pkg:nuget/Azure.Storage@0.1.0
+- pkg:nuget/Azure.Storage@0.1.1
+- pkg:nuget/Azure.Storage@0.1.2
+- pkg:nuget/Azure.Storage@0.1.3

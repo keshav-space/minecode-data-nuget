@@ -1,0 +1,4 @@
+- pkg:nuget/Moca.NETWebMvc@2.0.0
+- pkg:nuget/Moca.NETWebMvc@2.1.0-beta
+- pkg:nuget/Moca.NETWebMvc@3.0.0-beta01
+- pkg:nuget/Moca.NETWebMvc@3.0.0-beta02

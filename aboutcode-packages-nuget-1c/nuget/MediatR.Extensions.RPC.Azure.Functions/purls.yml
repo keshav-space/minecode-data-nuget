@@ -1,0 +1,2 @@
+- pkg:nuget/MediatR.Extensions.RPC.Azure.Functions@2.0.6
+- pkg:nuget/MediatR.Extensions.RPC.Azure.Functions@2.1.1

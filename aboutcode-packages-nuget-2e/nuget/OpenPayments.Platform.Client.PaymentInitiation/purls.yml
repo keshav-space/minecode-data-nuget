@@ -1,0 +1,2 @@
+- pkg:nuget/OpenPayments.Platform.Client.PaymentInitiation@1.0.0
+- pkg:nuget/OpenPayments.Platform.Client.PaymentInitiation@1.0.2

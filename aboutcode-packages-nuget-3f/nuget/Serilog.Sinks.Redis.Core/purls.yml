@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Sinks.Redis.Core@1.0.0
+- pkg:nuget/Serilog.Sinks.Redis.Core@1.0.2
+- pkg:nuget/Serilog.Sinks.Redis.Core@1.1.0
+- pkg:nuget/Serilog.Sinks.Redis.Core@2.0.0-beta-0036

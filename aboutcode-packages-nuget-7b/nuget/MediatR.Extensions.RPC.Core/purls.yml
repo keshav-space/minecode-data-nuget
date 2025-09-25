@@ -1,0 +1,3 @@
+- pkg:nuget/MediatR.Extensions.RPC.Core@1.0.0
+- pkg:nuget/MediatR.Extensions.RPC.Core@2.0.6
+- pkg:nuget/MediatR.Extensions.RPC.Core@2.1.1

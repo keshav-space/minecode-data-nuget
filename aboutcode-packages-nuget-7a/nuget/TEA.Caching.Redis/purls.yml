@@ -1,0 +1,4 @@
+- pkg:nuget/TEA.Caching.Redis@1.0.0
+- pkg:nuget/TEA.Caching.Redis@1.0.1
+- pkg:nuget/TEA.Caching.Redis@1.0.2
+- pkg:nuget/TEA.Caching.Redis@1.0.3

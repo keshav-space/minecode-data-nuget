@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@15.0.17.43318-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@15.0.17.63223-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@15.0.18.19684-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@15.0.20.29733-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@15.0.20.8354-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@15.0.23.21838-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@15.0.24.31795-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@16.0.21.53261-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@16.0.22.35424-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@16.0.22.52049-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@16.0.23.21839-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@16.0.23.34358-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@16.0.24.41895-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools.Linux@16.0.27.23631-beta

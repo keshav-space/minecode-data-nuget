@@ -1,0 +1,10 @@
+- pkg:nuget/Liquid.Cache.Memory@2.0.0-alpha
+- pkg:nuget/Liquid.Cache.Memory@2.0.0-preview-2022090901-01
+- pkg:nuget/Liquid.Cache.Memory@2.0.1-alpha
+- pkg:nuget/Liquid.Cache.Memory@2.0.2-alpha
+- pkg:nuget/Liquid.Cache.Memory@2.0.3-alpha
+- pkg:nuget/Liquid.Cache.Memory@6.0.0
+- pkg:nuget/Liquid.Cache.Memory@6.0.0-preview-20231130-01
+- pkg:nuget/Liquid.Cache.Memory@8.0.0
+- pkg:nuget/Liquid.Cache.Memory@8.0.0-alpha-01
+- pkg:nuget/Liquid.Cache.Memory@8.0.0-beta-02

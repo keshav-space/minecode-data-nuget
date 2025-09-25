@@ -1,0 +1,12 @@
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@1.0.0-RC-20190708
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@1.0.0-alpha-20190701
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@3.0.0-beta20191012
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@3.0.0-beta20191013
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@3.1.0
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@5.0.0
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@6.0.0
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@8.0.0
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@8.1.0
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@8.2.0
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@8.3.0
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.SQLite@8.4.0

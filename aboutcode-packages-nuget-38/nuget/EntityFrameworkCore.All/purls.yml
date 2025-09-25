@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFrameworkCore.All@2.1.0-preview2-final
+- pkg:nuget/EntityFrameworkCore.All@2.1.0-rc1-final

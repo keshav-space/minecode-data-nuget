@@ -1,0 +1,4 @@
+- pkg:nuget/Bridge.SignalR@2.0.0-beta
+- pkg:nuget/Bridge.SignalR@2.0.1
+- pkg:nuget/Bridge.SignalR@2.0.2
+- pkg:nuget/Bridge.SignalR@2.0.2-beta

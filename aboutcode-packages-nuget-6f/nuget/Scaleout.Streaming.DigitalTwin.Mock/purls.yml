@@ -1,0 +1,17 @@
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.6.0
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.6.1
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.6.2
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.6.3
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.6.4
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.7.0
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.8.0
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.8.5
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.9.0
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.9.4
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.9.5
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@1.9.6
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@2.0.0
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@2.0.1
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@2.0.2
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@3.0.0
+- pkg:nuget/Scaleout.Streaming.DigitalTwin.Mock@3.9.0

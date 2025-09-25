@@ -1,0 +1,13 @@
+- pkg:nuget/AskDev.Tools@3.0.0-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.104-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.23-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.24-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.25-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.26-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.30-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.34-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.35-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.38-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.40-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.43-InternalTesting
+- pkg:nuget/AskDev.Tools@3.0.98-InternalTesting

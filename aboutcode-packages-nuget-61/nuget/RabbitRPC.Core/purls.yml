@@ -1,0 +1,12 @@
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-10
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-2
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-20220114.1
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-20220328.1
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-20220328.2
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-20220329.1
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-3
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-5
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-6
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-7
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-8
+- pkg:nuget/RabbitRPC.Core@1.0.0-preview-9

@@ -1,0 +1,9 @@
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@1.0.0
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@1.1.0
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@1.1.1
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@2.0.0
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@5.0.0
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@6.0.0
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@7.0.0
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@8.0.0
+- pkg:nuget/SignalR.UnitTestingSupport.xUnit@9.0.0

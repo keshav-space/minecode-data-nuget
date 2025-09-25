@@ -1,0 +1,4 @@
+- pkg:nuget/Gdal4CS@1.10.0
+- pkg:nuget/Gdal4CS@1.11.0
+- pkg:nuget/Gdal4CS@1.12.0
+- pkg:nuget/Gdal4CS@1.12.1

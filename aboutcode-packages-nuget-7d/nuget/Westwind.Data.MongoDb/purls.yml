@@ -1,0 +1,5 @@
+- pkg:nuget/Westwind.Data.MongoDb@2.68.0
+- pkg:nuget/Westwind.Data.MongoDb@2.69.0
+- pkg:nuget/Westwind.Data.MongoDb@2.75.0
+- pkg:nuget/Westwind.Data.MongoDb@2.76.0
+- pkg:nuget/Westwind.Data.MongoDb@2.85.0

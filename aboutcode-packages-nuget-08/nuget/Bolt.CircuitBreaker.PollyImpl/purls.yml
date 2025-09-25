@@ -1,0 +1,5 @@
+- pkg:nuget/Bolt.CircuitBreaker.PollyImpl@1.0.0
+- pkg:nuget/Bolt.CircuitBreaker.PollyImpl@1.1.0
+- pkg:nuget/Bolt.CircuitBreaker.PollyImpl@1.1.1
+- pkg:nuget/Bolt.CircuitBreaker.PollyImpl@1.1.2
+- pkg:nuget/Bolt.CircuitBreaker.PollyImpl@1.2.0

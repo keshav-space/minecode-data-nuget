@@ -1,0 +1,6 @@
+- pkg:nuget/SpatialLite.Core@2.0.0
+- pkg:nuget/SpatialLite.Core@2.0.0-beta
+- pkg:nuget/SpatialLite.Core@2.0.0-debug
+- pkg:nuget/SpatialLite.Core@2.0.0-debug2
+- pkg:nuget/SpatialLite.Core@2.0.0-debug3
+- pkg:nuget/SpatialLite.Core@2.0.0-rc

@@ -1,0 +1,17 @@
+- pkg:nuget/InfluxDB.Net-Main@1.0.0
+- pkg:nuget/InfluxDB.Net-Main@1.0.0-alpha
+- pkg:nuget/InfluxDB.Net-Main@1.0.1
+- pkg:nuget/InfluxDB.Net-Main@1.0.18
+- pkg:nuget/InfluxDB.Net-Main@1.0.2-develop
+- pkg:nuget/InfluxDB.Net-Main@1.0.20
+- pkg:nuget/InfluxDB.Net-Main@1.0.34
+- pkg:nuget/InfluxDB.Net-Main@1.0.35
+- pkg:nuget/InfluxDB.Net-Main@1.0.37
+- pkg:nuget/InfluxDB.Net-Main@1.0.39
+- pkg:nuget/InfluxDB.Net-Main@1.0.40
+- pkg:nuget/InfluxDB.Net-Main@1.0.41
+- pkg:nuget/InfluxDB.Net-Main@1.0.42
+- pkg:nuget/InfluxDB.Net-Main@1.0.45
+- pkg:nuget/InfluxDB.Net-Main@1.0.46
+- pkg:nuget/InfluxDB.Net-Main@1.0.47
+- pkg:nuget/InfluxDB.Net-Main@1.0.47-beta

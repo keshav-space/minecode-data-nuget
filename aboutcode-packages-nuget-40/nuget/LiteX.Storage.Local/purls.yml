@@ -1,0 +1,15 @@
+- pkg:nuget/LiteX.Storage.Local@1.0.0
+- pkg:nuget/LiteX.Storage.Local@2.0.0
+- pkg:nuget/LiteX.Storage.Local@3.0.0
+- pkg:nuget/LiteX.Storage.Local@4.0.0
+- pkg:nuget/LiteX.Storage.Local@4.1.0
+- pkg:nuget/LiteX.Storage.Local@5.0.0
+- pkg:nuget/LiteX.Storage.Local@6.0.0
+- pkg:nuget/LiteX.Storage.Local@6.1.0
+- pkg:nuget/LiteX.Storage.Local@6.2.0
+- pkg:nuget/LiteX.Storage.Local@6.3.0
+- pkg:nuget/LiteX.Storage.Local@6.4.0
+- pkg:nuget/LiteX.Storage.Local@7.0.0
+- pkg:nuget/LiteX.Storage.Local@7.1.0
+- pkg:nuget/LiteX.Storage.Local@8.0.0
+- pkg:nuget/LiteX.Storage.Local@9.0.0

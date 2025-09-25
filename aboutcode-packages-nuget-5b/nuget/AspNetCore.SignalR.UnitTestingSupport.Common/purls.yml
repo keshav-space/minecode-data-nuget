@@ -1,0 +1,8 @@
+- pkg:nuget/AspNetCore.SignalR.UnitTestingSupport.Common@1.1.0
+- pkg:nuget/AspNetCore.SignalR.UnitTestingSupport.Common@1.2.0
+- pkg:nuget/AspNetCore.SignalR.UnitTestingSupport.Common@2.0.0
+- pkg:nuget/AspNetCore.SignalR.UnitTestingSupport.Common@5.0.0
+- pkg:nuget/AspNetCore.SignalR.UnitTestingSupport.Common@6.0.0
+- pkg:nuget/AspNetCore.SignalR.UnitTestingSupport.Common@7.0.0
+- pkg:nuget/AspNetCore.SignalR.UnitTestingSupport.Common@8.0.0
+- pkg:nuget/AspNetCore.SignalR.UnitTestingSupport.Common@9.0.0

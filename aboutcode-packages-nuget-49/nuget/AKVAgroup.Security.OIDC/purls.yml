@@ -1,0 +1,8 @@
+- pkg:nuget/AKVAgroup.Security.OIDC@0.0.2-CI-20211108-084806
+- pkg:nuget/AKVAgroup.Security.OIDC@0.0.20-CI-20211111-153545
+- pkg:nuget/AKVAgroup.Security.OIDC@0.0.21-CI-20220223-122022
+- pkg:nuget/AKVAgroup.Security.OIDC@0.0.22-CI-20220228-121831
+- pkg:nuget/AKVAgroup.Security.OIDC@0.0.23-CI-20220405-081025
+- pkg:nuget/AKVAgroup.Security.OIDC@0.0.24-CI-20220419-105037
+- pkg:nuget/AKVAgroup.Security.OIDC@0.0.3-CI-20211108-091504
+- pkg:nuget/AKVAgroup.Security.OIDC@0.0.4-CI-20220405-074004

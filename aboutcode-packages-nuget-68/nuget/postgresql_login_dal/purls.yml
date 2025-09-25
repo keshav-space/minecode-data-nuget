@@ -1,0 +1,11 @@
+- pkg:nuget/postgresql_login_dal@1.0.0
+- pkg:nuget/postgresql_login_dal@10.0.0
+- pkg:nuget/postgresql_login_dal@11.0.0
+- pkg:nuget/postgresql_login_dal@2.0.0
+- pkg:nuget/postgresql_login_dal@3.0.0
+- pkg:nuget/postgresql_login_dal@4.0.0
+- pkg:nuget/postgresql_login_dal@5.0.0
+- pkg:nuget/postgresql_login_dal@6.0.0
+- pkg:nuget/postgresql_login_dal@7.0.0
+- pkg:nuget/postgresql_login_dal@8.0.0
+- pkg:nuget/postgresql_login_dal@9.0.0

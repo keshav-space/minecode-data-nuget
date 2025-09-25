@@ -1,0 +1,6 @@
+- pkg:nuget/Inicio.AspNetCore.Versioning.Swagger@1.0.0
+- pkg:nuget/Inicio.AspNetCore.Versioning.Swagger@1.1.0
+- pkg:nuget/Inicio.AspNetCore.Versioning.Swagger@3.0.0-rc1
+- pkg:nuget/Inicio.AspNetCore.Versioning.Swagger@3.1.0
+- pkg:nuget/Inicio.AspNetCore.Versioning.Swagger@3.1.1
+- pkg:nuget/Inicio.AspNetCore.Versioning.Swagger@5.0.0

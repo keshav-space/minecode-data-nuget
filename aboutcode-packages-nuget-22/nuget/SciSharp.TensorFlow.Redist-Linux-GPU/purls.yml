@@ -1,0 +1,9 @@
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@1.14.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@1.14.1
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@1.15.1
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@2.11.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@2.11.1
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@2.2.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@2.3.0
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@2.3.1
+- pkg:nuget/SciSharp.TensorFlow.Redist-Linux-GPU@2.5.0

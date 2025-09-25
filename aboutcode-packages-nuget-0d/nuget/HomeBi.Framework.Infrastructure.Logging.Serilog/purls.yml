@@ -1,0 +1,5 @@
+- pkg:nuget/HomeBi.Framework.Infrastructure.Logging.Serilog@0.0.1
+- pkg:nuget/HomeBi.Framework.Infrastructure.Logging.Serilog@0.0.2
+- pkg:nuget/HomeBi.Framework.Infrastructure.Logging.Serilog@0.0.3
+- pkg:nuget/HomeBi.Framework.Infrastructure.Logging.Serilog@0.0.4
+- pkg:nuget/HomeBi.Framework.Infrastructure.Logging.Serilog@0.1.0

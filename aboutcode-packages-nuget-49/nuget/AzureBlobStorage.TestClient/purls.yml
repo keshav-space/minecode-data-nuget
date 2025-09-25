@@ -1,0 +1,4 @@
+- pkg:nuget/AzureBlobStorage.TestClient@0.8.10
+- pkg:nuget/AzureBlobStorage.TestClient@0.8.11
+- pkg:nuget/AzureBlobStorage.TestClient@0.8.8
+- pkg:nuget/AzureBlobStorage.TestClient@0.8.9

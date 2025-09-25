@@ -1,0 +1,2 @@
+- pkg:nuget/Extism.runtime.wasm-threads.win-x64@0.4.1
+- pkg:nuget/Extism.runtime.wasm-threads.win-x64@0.6.0-threads01

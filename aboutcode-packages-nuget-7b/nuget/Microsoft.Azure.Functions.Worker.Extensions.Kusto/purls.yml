@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.10-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.11-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.12-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.13-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.2-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.3-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.4-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.5-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.7-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.8-Preview
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Kusto@1.0.9-Preview

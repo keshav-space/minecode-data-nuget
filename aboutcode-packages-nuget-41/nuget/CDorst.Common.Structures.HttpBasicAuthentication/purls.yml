@@ -1,0 +1,5 @@
+- pkg:nuget/CDorst.Common.Structures.HttpBasicAuthentication@1.0.0
+- pkg:nuget/CDorst.Common.Structures.HttpBasicAuthentication@1.1.0
+- pkg:nuget/CDorst.Common.Structures.HttpBasicAuthentication@2.0.0
+- pkg:nuget/CDorst.Common.Structures.HttpBasicAuthentication@2.1.0
+- pkg:nuget/CDorst.Common.Structures.HttpBasicAuthentication@3.0.0

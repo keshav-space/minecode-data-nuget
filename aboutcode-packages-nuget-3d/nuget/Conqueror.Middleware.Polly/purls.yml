@@ -1,0 +1,5 @@
+- pkg:nuget/Conqueror.Middleware.Polly@0.8.1-experimental.1
+- pkg:nuget/Conqueror.Middleware.Polly@0.8.1-experimental.2
+- pkg:nuget/Conqueror.Middleware.Polly@0.8.2-experimental.1
+- pkg:nuget/Conqueror.Middleware.Polly@0.8.2-experimental.2
+- pkg:nuget/Conqueror.Middleware.Polly@0.8.2-experimental.3
