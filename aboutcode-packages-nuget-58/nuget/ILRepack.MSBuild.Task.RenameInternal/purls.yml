@@ -1,0 +1,3 @@
+- pkg:nuget/ILRepack.MSBuild.Task.RenameInternal@2.0.14
+- pkg:nuget/ILRepack.MSBuild.Task.RenameInternal@2.0.15
+- pkg:nuget/ILRepack.MSBuild.Task.RenameInternal@2.0.16

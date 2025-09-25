@@ -1,0 +1,5 @@
+- pkg:nuget/ConfigurationValidator@0.1.0-alpha.0.build-0
+- pkg:nuget/ConfigurationValidator@0.1.1-alpha.0.2.build-0
+- pkg:nuget/ConfigurationValidator@0.1.1-alpha.0.9
+- pkg:nuget/ConfigurationValidator@0.2.1-alpha.0.1
+- pkg:nuget/ConfigurationValidator@0.2.3

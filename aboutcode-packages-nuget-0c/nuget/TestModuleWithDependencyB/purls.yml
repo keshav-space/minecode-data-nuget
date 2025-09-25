@@ -1,0 +1,2 @@
+- pkg:nuget/TestModuleWithDependencyB@2.0.0
+- pkg:nuget/TestModuleWithDependencyB@3.0.0

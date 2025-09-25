@@ -1,0 +1,9 @@
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.0-prerelease
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.1-prerelease
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.2-prerelease
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.3-prerelease
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.4-prerelease
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.5-prerelease
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.6-prerelease
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.7-prerelease
+- pkg:nuget/Qumulus.OpenStack.Octavia@1.0.8-prerelease

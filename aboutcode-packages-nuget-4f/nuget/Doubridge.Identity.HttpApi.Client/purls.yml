@@ -1,0 +1,3 @@
+- pkg:nuget/Doubridge.Identity.HttpApi.Client@2.0.0
+- pkg:nuget/Doubridge.Identity.HttpApi.Client@2.1.0
+- pkg:nuget/Doubridge.Identity.HttpApi.Client@2.1.1

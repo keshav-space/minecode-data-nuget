@@ -1,0 +1,3 @@
+- pkg:nuget/RabbitMQ.Client.Simple@1.0.0
+- pkg:nuget/RabbitMQ.Client.Simple@1.0.1
+- pkg:nuget/RabbitMQ.Client.Simple@1.0.2

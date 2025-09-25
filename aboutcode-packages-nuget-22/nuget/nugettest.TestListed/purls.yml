@@ -1,0 +1,3 @@
+- pkg:nuget/nugettest.TestListed@1.0.0
+- pkg:nuget/nugettest.TestListed@2.0.0
+- pkg:nuget/nugettest.TestListed@3.0.0

@@ -1,0 +1,1 @@
+- pkg:nuget/AppDynamics.OpenTelemetry.Instrumentation.AWSLambda@24.3.0
