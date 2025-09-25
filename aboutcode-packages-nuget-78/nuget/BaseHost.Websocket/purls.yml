@@ -1,0 +1,3 @@
+- pkg:nuget/BaseHost.Websocket@0.0.0
+- pkg:nuget/BaseHost.Websocket@0.0.2.64
+- pkg:nuget/BaseHost.Websocket@0.0.3.68

@@ -1,0 +1,2 @@
+- pkg:nuget/DurableTask.Client.AzureStorage@2.0.29
+- pkg:nuget/DurableTask.Client.AzureStorage@2.0.30

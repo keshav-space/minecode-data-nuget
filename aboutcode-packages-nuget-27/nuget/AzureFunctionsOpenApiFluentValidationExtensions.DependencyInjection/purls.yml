@@ -1,0 +1,3 @@
+- pkg:nuget/AzureFunctionsOpenApiFluentValidationExtensions.DependencyInjection@0.2.0-preview.1
+- pkg:nuget/AzureFunctionsOpenApiFluentValidationExtensions.DependencyInjection@0.2.0-preview.2
+- pkg:nuget/AzureFunctionsOpenApiFluentValidationExtensions.DependencyInjection@1.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/dudimMyPackage@1.0.0
+- pkg:nuget/dudimMyPackage@1.0.0-prerelease
+- pkg:nuget/dudimMyPackage@2.0.0-prerelease

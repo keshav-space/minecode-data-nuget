@@ -1,0 +1,5 @@
+- pkg:nuget/Impatient.EntityFrameworkCore.SqlServer@2.0.0
+- pkg:nuget/Impatient.EntityFrameworkCore.SqlServer@2.1.0
+- pkg:nuget/Impatient.EntityFrameworkCore.SqlServer@2.1.0-rc1-final
+- pkg:nuget/Impatient.EntityFrameworkCore.SqlServer@2.1.1
+- pkg:nuget/Impatient.EntityFrameworkCore.SqlServer@2.1.2

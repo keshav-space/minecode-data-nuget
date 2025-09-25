@@ -1,0 +1,2 @@
+- pkg:nuget/SimpLog.Databases.PostgreSQL@0.0.1-alpha1
+- pkg:nuget/SimpLog.Databases.PostgreSQL@1.0.0

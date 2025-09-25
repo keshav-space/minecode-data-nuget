@@ -1,0 +1,3 @@
+- pkg:nuget/System.Data.SQLite.Core.Duplicati.linux.arm64@1.0.115
+- pkg:nuget/System.Data.SQLite.Core.Duplicati.linux.arm64@1.0.115.5
+- pkg:nuget/System.Data.SQLite.Core.Duplicati.linux.arm64@1.0.116

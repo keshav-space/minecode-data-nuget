@@ -1,0 +1,2 @@
+- pkg:nuget/AspNetCoreHealthChecker.RabbitMQ@0.0.1
+- pkg:nuget/AspNetCoreHealthChecker.RabbitMQ@1.0.0

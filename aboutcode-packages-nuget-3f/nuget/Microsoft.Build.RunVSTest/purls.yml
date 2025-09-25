@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Build.RunVSTest@1.0.312-gef8f11a7a1
+- pkg:nuget/Microsoft.Build.RunVSTest@1.0.314-g363532de5b
+- pkg:nuget/Microsoft.Build.RunVSTest@1.0.319
+- pkg:nuget/Microsoft.Build.RunVSTest@1.0.319-gfb0a2ba7be
+- pkg:nuget/Microsoft.Build.RunVSTest@1.0.342
+- pkg:nuget/Microsoft.Build.RunVSTest@1.0.360

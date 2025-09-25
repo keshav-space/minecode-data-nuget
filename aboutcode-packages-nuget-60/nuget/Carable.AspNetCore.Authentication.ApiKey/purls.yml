@@ -1,0 +1,2 @@
+- pkg:nuget/Carable.AspNetCore.Authentication.ApiKey@1.0.0
+- pkg:nuget/Carable.AspNetCore.Authentication.ApiKey@2.0.0

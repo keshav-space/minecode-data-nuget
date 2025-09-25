@@ -1,0 +1,5 @@
+- pkg:nuget/TensorSharp.CUDA@2.5.0
+- pkg:nuget/TensorSharp.CUDA@2.8.0
+- pkg:nuget/TensorSharp.CUDA@2.8.2
+- pkg:nuget/TensorSharp.CUDA@2.8.3
+- pkg:nuget/TensorSharp.CUDA@2.8.6

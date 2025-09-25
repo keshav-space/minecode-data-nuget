@@ -1,0 +1,2 @@
+- pkg:nuget/OIC.Database.SqlServer.Core@1.0.0.1
+- pkg:nuget/OIC.Database.SqlServer.Core@2.0.0.1

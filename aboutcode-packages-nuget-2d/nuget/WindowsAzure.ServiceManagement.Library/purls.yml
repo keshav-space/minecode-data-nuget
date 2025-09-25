@@ -1,0 +1,4 @@
+- pkg:nuget/WindowsAzure.ServiceManagement.Library@1.0.0
+- pkg:nuget/WindowsAzure.ServiceManagement.Library@2.0.0
+- pkg:nuget/WindowsAzure.ServiceManagement.Library@3.0.0
+- pkg:nuget/WindowsAzure.ServiceManagement.Library@3.0.1

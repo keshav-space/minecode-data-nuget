@@ -1,0 +1,2 @@
+- pkg:nuget/Blauhaus.Email.Server.SendGrid@0.0.1
+- pkg:nuget/Blauhaus.Email.Server.SendGrid@0.0.2
