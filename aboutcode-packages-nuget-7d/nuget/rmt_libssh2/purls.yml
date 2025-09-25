@@ -1,0 +1,4 @@
+- pkg:nuget/rmt_libssh2@1.6.0
+- pkg:nuget/rmt_libssh2@1.6.0.1
+- pkg:nuget/rmt_libssh2@1.6.0.2
+- pkg:nuget/rmt_libssh2@1.8.0

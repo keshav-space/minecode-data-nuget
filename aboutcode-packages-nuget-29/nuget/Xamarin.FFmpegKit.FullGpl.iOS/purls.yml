@@ -1,0 +1,4 @@
+- pkg:nuget/Xamarin.FFmpegKit.FullGpl.iOS@4.5.1
+- pkg:nuget/Xamarin.FFmpegKit.FullGpl.iOS@4.5.1-beta1
+- pkg:nuget/Xamarin.FFmpegKit.FullGpl.iOS@4.5.1-beta2
+- pkg:nuget/Xamarin.FFmpegKit.FullGpl.iOS@5.1.0-beta1

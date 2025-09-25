@@ -1,0 +1,6 @@
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.MySql@4.3.10
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.MySql@4.3.7
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.MySql@8.0.0
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.MySql@8.0.1
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.MySql@9.0.0
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.MySql@9.0.1

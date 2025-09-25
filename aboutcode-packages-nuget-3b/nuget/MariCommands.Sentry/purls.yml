@@ -1,0 +1,4 @@
+- pkg:nuget/MariCommands.Sentry@2.1.5-alpha
+- pkg:nuget/MariCommands.Sentry@2.1.5-beta
+- pkg:nuget/MariCommands.Sentry@2.1.6-beta
+- pkg:nuget/MariCommands.Sentry@2.1.6.1-beta

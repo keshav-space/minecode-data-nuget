@@ -1,0 +1,4 @@
+- pkg:nuget/csharp-mongodb-migrations-core@1.0.0%2Bbuild.55
+- pkg:nuget/csharp-mongodb-migrations-core@1.1.0%2Bbuild.63
+- pkg:nuget/csharp-mongodb-migrations-core@1.1.1%2Bbuild.65
+- pkg:nuget/csharp-mongodb-migrations-core@1.2.0%2Bbuild.89

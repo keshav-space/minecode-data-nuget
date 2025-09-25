@@ -1,0 +1,7 @@
+- pkg:nuget/Infrastructure.Serialization.Newtonsoft@1.0.0
+- pkg:nuget/Infrastructure.Serialization.Newtonsoft@1.0.1
+- pkg:nuget/Infrastructure.Serialization.Newtonsoft@2019.5.23.6
+- pkg:nuget/Infrastructure.Serialization.Newtonsoft@3.0.0
+- pkg:nuget/Infrastructure.Serialization.Newtonsoft@3.0.0.1
+- pkg:nuget/Infrastructure.Serialization.Newtonsoft@3.0.1
+- pkg:nuget/Infrastructure.Serialization.Newtonsoft@3.3.0

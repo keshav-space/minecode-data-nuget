@@ -1,0 +1,3 @@
+- pkg:nuget/UtilsSharp.Grpc.AspNetCore@1.0.0
+- pkg:nuget/UtilsSharp.Grpc.AspNetCore@2.0.0
+- pkg:nuget/UtilsSharp.Grpc.AspNetCore@3.4.0

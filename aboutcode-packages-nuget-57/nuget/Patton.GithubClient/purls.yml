@@ -1,0 +1,5 @@
+- pkg:nuget/Patton.GithubClient@1.0.0
+- pkg:nuget/Patton.GithubClient@1.1.0
+- pkg:nuget/Patton.GithubClient@1.1.1
+- pkg:nuget/Patton.GithubClient@2.0.0
+- pkg:nuget/Patton.GithubClient@2.3.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Ave.Extensions.Functional.FluentAssertions@0.0.2-beta
+- pkg:nuget/Ave.Extensions.Functional.FluentAssertions@0.0.3-beta
+- pkg:nuget/Ave.Extensions.Functional.FluentAssertions@0.0.4-beta
+- pkg:nuget/Ave.Extensions.Functional.FluentAssertions@0.0.5-preview.1

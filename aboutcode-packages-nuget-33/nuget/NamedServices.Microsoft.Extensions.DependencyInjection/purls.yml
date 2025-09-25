@@ -1,0 +1,5 @@
+- pkg:nuget/NamedServices.Microsoft.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/NamedServices.Microsoft.Extensions.DependencyInjection@1.1.0
+- pkg:nuget/NamedServices.Microsoft.Extensions.DependencyInjection@2.0.0
+- pkg:nuget/NamedServices.Microsoft.Extensions.DependencyInjection@2.1.0
+- pkg:nuget/NamedServices.Microsoft.Extensions.DependencyInjection@2.2.0

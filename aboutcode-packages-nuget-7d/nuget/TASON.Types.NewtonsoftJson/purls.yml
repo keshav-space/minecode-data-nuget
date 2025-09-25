@@ -1,0 +1,4 @@
+- pkg:nuget/TASON.Types.NewtonsoftJson@0.11.2
+- pkg:nuget/TASON.Types.NewtonsoftJson@0.11.3
+- pkg:nuget/TASON.Types.NewtonsoftJson@1.0.0
+- pkg:nuget/TASON.Types.NewtonsoftJson@1.0.0-preview.1

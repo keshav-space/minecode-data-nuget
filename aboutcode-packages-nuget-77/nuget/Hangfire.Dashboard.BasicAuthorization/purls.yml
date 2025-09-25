@@ -1,0 +1,3 @@
+- pkg:nuget/Hangfire.Dashboard.BasicAuthorization@1.0.0
+- pkg:nuget/Hangfire.Dashboard.BasicAuthorization@1.0.1
+- pkg:nuget/Hangfire.Dashboard.BasicAuthorization@1.0.2

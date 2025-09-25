@@ -1,0 +1,9 @@
+- pkg:nuget/dbup-redshift@4.3.0
+- pkg:nuget/dbup-redshift@4.4.0
+- pkg:nuget/dbup-redshift@4.5.0
+- pkg:nuget/dbup-redshift@4.6.0
+- pkg:nuget/dbup-redshift@4.6.10
+- pkg:nuget/dbup-redshift@4.6.6
+- pkg:nuget/dbup-redshift@6.0.0
+- pkg:nuget/dbup-redshift@6.0.0-beta.4
+- pkg:nuget/dbup-redshift@6.0.0-beta.5

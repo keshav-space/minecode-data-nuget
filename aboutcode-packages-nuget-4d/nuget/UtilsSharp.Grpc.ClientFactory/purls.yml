@@ -1,0 +1,3 @@
+- pkg:nuget/UtilsSharp.Grpc.ClientFactory@1.0.0
+- pkg:nuget/UtilsSharp.Grpc.ClientFactory@2.0.0
+- pkg:nuget/UtilsSharp.Grpc.ClientFactory@3.4.0

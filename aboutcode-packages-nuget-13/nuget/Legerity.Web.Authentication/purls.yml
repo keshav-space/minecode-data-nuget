@@ -1,0 +1,5 @@
+- pkg:nuget/Legerity.Web.Authentication@0.12.0
+- pkg:nuget/Legerity.Web.Authentication@0.13.0
+- pkg:nuget/Legerity.Web.Authentication@0.13.1
+- pkg:nuget/Legerity.Web.Authentication@0.14.0
+- pkg:nuget/Legerity.Web.Authentication@1.0.0-alpha1

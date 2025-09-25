@@ -1,0 +1,4 @@
+- pkg:nuget/URLinq.AspNetCore.IntegrationTesting@1.0.0
+- pkg:nuget/URLinq.AspNetCore.IntegrationTesting@1.0.1
+- pkg:nuget/URLinq.AspNetCore.IntegrationTesting@1.0.2
+- pkg:nuget/URLinq.AspNetCore.IntegrationTesting@2.2.3

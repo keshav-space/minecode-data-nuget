@@ -1,0 +1,5 @@
+- pkg:nuget/HostedServiceExtension.KestrelTcpServer@0.0.1
+- pkg:nuget/HostedServiceExtension.KestrelTcpServer@0.9.0
+- pkg:nuget/HostedServiceExtension.KestrelTcpServer@1.0.0
+- pkg:nuget/HostedServiceExtension.KestrelTcpServer@1.0.1
+- pkg:nuget/HostedServiceExtension.KestrelTcpServer@1.1.0

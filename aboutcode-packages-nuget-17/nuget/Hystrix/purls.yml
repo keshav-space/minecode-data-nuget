@@ -1,0 +1,5 @@
+- pkg:nuget/Hystrix@1.0.0-alpha001
+- pkg:nuget/Hystrix@1.0.0-beta0002
+- pkg:nuget/Hystrix@1.0.0-beta0003
+- pkg:nuget/Hystrix@1.0.0-beta0004
+- pkg:nuget/Hystrix@1.0.0-beta0005

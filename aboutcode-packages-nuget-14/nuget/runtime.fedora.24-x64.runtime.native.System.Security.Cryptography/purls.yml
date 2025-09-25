@@ -1,0 +1,5 @@
+- pkg:nuget/runtime.fedora.24-x64.runtime.native.System.Security.Cryptography@4.3.0
+- pkg:nuget/runtime.fedora.24-x64.runtime.native.System.Security.Cryptography@4.3.1
+- pkg:nuget/runtime.fedora.24-x64.runtime.native.System.Security.Cryptography@4.3.2
+- pkg:nuget/runtime.fedora.24-x64.runtime.native.System.Security.Cryptography@4.3.3
+- pkg:nuget/runtime.fedora.24-x64.runtime.native.System.Security.Cryptography@4.3.4

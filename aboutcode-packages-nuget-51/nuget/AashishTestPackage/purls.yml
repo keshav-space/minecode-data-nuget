@@ -1,0 +1,4 @@
+- pkg:nuget/AashishTestPackage@1.0.0
+- pkg:nuget/AashishTestPackage@2.0.0
+- pkg:nuget/AashishTestPackage@3.0.0
+- pkg:nuget/AashishTestPackage@4.0.0

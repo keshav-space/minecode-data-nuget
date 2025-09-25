@@ -1,0 +1,5 @@
+- pkg:nuget/VolcanicArts.Libs.OpenVR@1.23.7
+- pkg:nuget/VolcanicArts.Libs.OpenVR@1.26.7
+- pkg:nuget/VolcanicArts.Libs.OpenVR@2.0.10
+- pkg:nuget/VolcanicArts.Libs.OpenVR@2.2.3
+- pkg:nuget/VolcanicArts.Libs.OpenVR@2.5.1

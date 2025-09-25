@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.Redis.StackExchange.Efang@1.8.0
+- pkg:nuget/Hangfire.Redis.StackExchange.Efang@2.1.0

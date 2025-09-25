@@ -1,0 +1,14 @@
+- pkg:nuget/Synthesis.Bethesda.CLI@0.33.1
+- pkg:nuget/Synthesis.Bethesda.CLI@0.33.2
+- pkg:nuget/Synthesis.Bethesda.CLI@0.33.3
+- pkg:nuget/Synthesis.Bethesda.CLI@0.34.0
+- pkg:nuget/Synthesis.Bethesda.CLI@0.34.0-alpha.12
+- pkg:nuget/Synthesis.Bethesda.CLI@0.34.0-alpha.13
+- pkg:nuget/Synthesis.Bethesda.CLI@0.34.0-alpha.14
+- pkg:nuget/Synthesis.Bethesda.CLI@0.34.0-alpha.17
+- pkg:nuget/Synthesis.Bethesda.CLI@0.34.0-alpha.19
+- pkg:nuget/Synthesis.Bethesda.CLI@0.34.0-alpha.24
+- pkg:nuget/Synthesis.Bethesda.CLI@0.34.0-pre-release.2
+- pkg:nuget/Synthesis.Bethesda.CLI@0.35.0
+- pkg:nuget/Synthesis.Bethesda.CLI@0.35.0-alpha.2
+- pkg:nuget/Synthesis.Bethesda.CLI@1.0.0

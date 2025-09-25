@@ -1,0 +1,2 @@
+- pkg:nuget/BatchProcessor.AWS.SQS.WorkQueue@1.0.0
+- pkg:nuget/BatchProcessor.AWS.SQS.WorkQueue@1.1.0

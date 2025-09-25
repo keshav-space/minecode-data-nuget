@@ -1,0 +1,5 @@
+- pkg:nuget/HostedServiceExtension.CronosJobScheduler@0.0.1
+- pkg:nuget/HostedServiceExtension.CronosJobScheduler@0.9.0
+- pkg:nuget/HostedServiceExtension.CronosJobScheduler@1.0.0
+- pkg:nuget/HostedServiceExtension.CronosJobScheduler@1.0.1
+- pkg:nuget/HostedServiceExtension.CronosJobScheduler@1.1.0

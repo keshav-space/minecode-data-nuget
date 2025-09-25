@@ -1,0 +1,5 @@
+- pkg:nuget/Ubiquity.NET.Llvm.Interop.Handles@20.1.3-alpha
+- pkg:nuget/Ubiquity.NET.Llvm.Interop.Handles@20.1.4-beta
+- pkg:nuget/Ubiquity.NET.Llvm.Interop.Handles@20.1.6-alpha
+- pkg:nuget/Ubiquity.NET.Llvm.Interop.Handles@20.1.8-alpha
+- pkg:nuget/Ubiquity.NET.Llvm.Interop.Handles@20.1.8-beta

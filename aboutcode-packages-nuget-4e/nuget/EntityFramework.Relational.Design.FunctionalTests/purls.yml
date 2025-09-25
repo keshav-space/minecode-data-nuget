@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFramework.Relational.Design.FunctionalTests@7.0.0-beta8
+- pkg:nuget/EntityFramework.Relational.Design.FunctionalTests@7.0.0-rc1-final

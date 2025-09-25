@@ -1,0 +1,9 @@
+- pkg:nuget/csharp-mongodb-migrations@0.0.0-preview.0.16%2Bbuild.39
+- pkg:nuget/csharp-mongodb-migrations@0.0.0-preview.0.28%2Bbuild.40
+- pkg:nuget/csharp-mongodb-migrations@0.0.0-preview.0.32%2Bbuild.42
+- pkg:nuget/csharp-mongodb-migrations@0.1.3-preview.0.8%2Bbuild.49
+- pkg:nuget/csharp-mongodb-migrations@0.1.4%2Bbuild.53
+- pkg:nuget/csharp-mongodb-migrations@1.0.0%2Bbuild.55
+- pkg:nuget/csharp-mongodb-migrations@1.1.0%2Bbuild.63
+- pkg:nuget/csharp-mongodb-migrations@1.1.1%2Bbuild.65
+- pkg:nuget/csharp-mongodb-migrations@1.2.0%2Bbuild.89

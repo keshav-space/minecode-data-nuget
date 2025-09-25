@@ -1,0 +1,4 @@
+- pkg:nuget/SD.Infrastructure.MVC.Server@1.0.0
+- pkg:nuget/SD.Infrastructure.MVC.Server@1.0.1
+- pkg:nuget/SD.Infrastructure.MVC.Server@2.0.0
+- pkg:nuget/SD.Infrastructure.MVC.Server@2.0.1

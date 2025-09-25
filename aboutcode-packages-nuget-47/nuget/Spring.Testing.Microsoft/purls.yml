@@ -1,0 +1,11 @@
+- pkg:nuget/Spring.Testing.Microsoft@1.3.2
+- pkg:nuget/Spring.Testing.Microsoft@2.0.0
+- pkg:nuget/Spring.Testing.Microsoft@2.0.0-M1
+- pkg:nuget/Spring.Testing.Microsoft@2.0.0-M2
+- pkg:nuget/Spring.Testing.Microsoft@2.0.0-RC1
+- pkg:nuget/Spring.Testing.Microsoft@2.0.0-RC2
+- pkg:nuget/Spring.Testing.Microsoft@2.0.1
+- pkg:nuget/Spring.Testing.Microsoft@3.0.0
+- pkg:nuget/Spring.Testing.Microsoft@3.0.1
+- pkg:nuget/Spring.Testing.Microsoft@3.0.2
+- pkg:nuget/Spring.Testing.Microsoft@3.0.3

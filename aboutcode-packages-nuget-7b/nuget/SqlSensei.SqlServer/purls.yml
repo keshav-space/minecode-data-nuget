@@ -1,0 +1,4 @@
+- pkg:nuget/SqlSensei.SqlServer@1.0.0
+- pkg:nuget/SqlSensei.SqlServer@1.0.0-1.0.7
+- pkg:nuget/SqlSensei.SqlServer@1.0.1
+- pkg:nuget/SqlSensei.SqlServer@1.0.12

@@ -1,0 +1,4 @@
+- pkg:nuget/PI.ApplicationInsights.Hangfire@0.1.0
+- pkg:nuget/PI.ApplicationInsights.Hangfire@0.2.0
+- pkg:nuget/PI.ApplicationInsights.Hangfire@0.2.1
+- pkg:nuget/PI.ApplicationInsights.Hangfire@0.3.0

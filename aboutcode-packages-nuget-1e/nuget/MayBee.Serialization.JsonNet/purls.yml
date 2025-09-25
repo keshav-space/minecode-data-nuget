@@ -1,0 +1,6 @@
+- pkg:nuget/MayBee.Serialization.JsonNet@0.9.0
+- pkg:nuget/MayBee.Serialization.JsonNet@1.0.0
+- pkg:nuget/MayBee.Serialization.JsonNet@1.1.0
+- pkg:nuget/MayBee.Serialization.JsonNet@2.0.0
+- pkg:nuget/MayBee.Serialization.JsonNet@3.0.0
+- pkg:nuget/MayBee.Serialization.JsonNet@3.0.1

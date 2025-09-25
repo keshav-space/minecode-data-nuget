@@ -1,0 +1,5 @@
+- pkg:nuget/DynaMiX.DeviceConfig.Services.DataProcessing.TDI.API.Client@17.10.0
+- pkg:nuget/DynaMiX.DeviceConfig.Services.DataProcessing.TDI.API.Client@17.11.0
+- pkg:nuget/DynaMiX.DeviceConfig.Services.DataProcessing.TDI.API.Client@17.13.0
+- pkg:nuget/DynaMiX.DeviceConfig.Services.DataProcessing.TDI.API.Client@17.5.0
+- pkg:nuget/DynaMiX.DeviceConfig.Services.DataProcessing.TDI.API.Client@17.7.0

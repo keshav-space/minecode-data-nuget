@@ -1,0 +1,9 @@
+- pkg:nuget/OAuthJwtAssertionTokenClient@0.1.0-alpha
+- pkg:nuget/OAuthJwtAssertionTokenClient@0.2.0-alpha
+- pkg:nuget/OAuthJwtAssertionTokenClient@1.0.0
+- pkg:nuget/OAuthJwtAssertionTokenClient@2.0.0
+- pkg:nuget/OAuthJwtAssertionTokenClient@2.0.1
+- pkg:nuget/OAuthJwtAssertionTokenClient@2.0.2
+- pkg:nuget/OAuthJwtAssertionTokenClient@2.0.3
+- pkg:nuget/OAuthJwtAssertionTokenClient@2.1.0
+- pkg:nuget/OAuthJwtAssertionTokenClient@2.1.1

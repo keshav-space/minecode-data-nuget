@@ -1,0 +1,5 @@
+- pkg:nuget/Tenogy.Logging.Serilog@3.0.0
+- pkg:nuget/Tenogy.Logging.Serilog@4.0.0
+- pkg:nuget/Tenogy.Logging.Serilog@4.0.1
+- pkg:nuget/Tenogy.Logging.Serilog@5.0.0
+- pkg:nuget/Tenogy.Logging.Serilog@6.0.0

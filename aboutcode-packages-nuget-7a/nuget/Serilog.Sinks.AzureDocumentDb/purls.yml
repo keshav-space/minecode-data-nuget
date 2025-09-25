@@ -1,0 +1,15 @@
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@1.0.0
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.1.0
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.1.0-dev-00072
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.1.0-dev-00074
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.1.1
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.1.1-dev-00076
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.1.1-dev-00077
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.1.5
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.2.1
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.2.5
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.3.2
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.5.17
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.5.18
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.5.18-dev-00119
+- pkg:nuget/Serilog.Sinks.AzureDocumentDb@3.5.18-dev-00123

@@ -1,0 +1,4 @@
+- pkg:nuget/SlackNetBlockBuilder@0.0.1-alpha
+- pkg:nuget/SlackNetBlockBuilder@0.0.2-alpha
+- pkg:nuget/SlackNetBlockBuilder@0.5.1-beta
+- pkg:nuget/SlackNetBlockBuilder@0.6.2-beta

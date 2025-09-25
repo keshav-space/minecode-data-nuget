@@ -1,0 +1,15 @@
+- pkg:nuget/Xomega.Framework.Wpf@2.0.0
+- pkg:nuget/Xomega.Framework.Wpf@2.0.1
+- pkg:nuget/Xomega.Framework.Wpf@2.1.0
+- pkg:nuget/Xomega.Framework.Wpf@3.0.0
+- pkg:nuget/Xomega.Framework.Wpf@3.0.1
+- pkg:nuget/Xomega.Framework.Wpf@3.1.0
+- pkg:nuget/Xomega.Framework.Wpf@3.2.0
+- pkg:nuget/Xomega.Framework.Wpf@4.0.0
+- pkg:nuget/Xomega.Framework.Wpf@4.1.0
+- pkg:nuget/Xomega.Framework.Wpf@4.2.0
+- pkg:nuget/Xomega.Framework.Wpf@4.2.1
+- pkg:nuget/Xomega.Framework.Wpf@4.3.0
+- pkg:nuget/Xomega.Framework.Wpf@4.3.1
+- pkg:nuget/Xomega.Framework.Wpf@4.4.0
+- pkg:nuget/Xomega.Framework.Wpf@4.4.1

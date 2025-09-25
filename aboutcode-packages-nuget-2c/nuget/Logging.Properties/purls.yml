@@ -1,0 +1,4 @@
+- pkg:nuget/Logging.Properties@0.0.0
+- pkg:nuget/Logging.Properties@0.0.0-test
+- pkg:nuget/Logging.Properties@0.0.0-test2
+- pkg:nuget/Logging.Properties@1.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/dotnet-test-mstest@1.0.0-preview
+- pkg:nuget/dotnet-test-mstest@1.0.1-preview
+- pkg:nuget/dotnet-test-mstest@1.1.1-preview
+- pkg:nuget/dotnet-test-mstest@1.1.2-preview

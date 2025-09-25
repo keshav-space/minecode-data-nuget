@@ -1,0 +1,9 @@
+- pkg:nuget/NanoCore.TestTools@0.1.0-alpha
+- pkg:nuget/NanoCore.TestTools@0.5.250-beta
+- pkg:nuget/NanoCore.TestTools@0.6.0-beta
+- pkg:nuget/NanoCore.TestTools@1.0.42
+- pkg:nuget/NanoCore.TestTools@1.0.45
+- pkg:nuget/NanoCore.TestTools@1.0.59
+- pkg:nuget/NanoCore.TestTools@1.0.72
+- pkg:nuget/NanoCore.TestTools@1.0.84
+- pkg:nuget/NanoCore.TestTools@3.0.0

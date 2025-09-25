@@ -1,0 +1,5 @@
+- pkg:nuget/Flat@1.0.0
+- pkg:nuget/Flat@1.0.0-CI00005
+- pkg:nuget/Flat@1.0.0-Prerelease
+- pkg:nuget/Flat@1.4.0
+- pkg:nuget/Flat@1.5.0

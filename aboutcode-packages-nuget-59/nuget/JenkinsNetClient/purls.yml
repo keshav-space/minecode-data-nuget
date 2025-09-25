@@ -1,0 +1,5 @@
+- pkg:nuget/JenkinsNetClient@1.0.0
+- pkg:nuget/JenkinsNetClient@1.0.10
+- pkg:nuget/JenkinsNetClient@1.0.18
+- pkg:nuget/JenkinsNetClient@1.0.2
+- pkg:nuget/JenkinsNetClient@1.0.2.1

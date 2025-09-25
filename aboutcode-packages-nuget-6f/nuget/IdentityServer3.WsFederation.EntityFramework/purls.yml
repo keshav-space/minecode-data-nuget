@@ -1,0 +1,4 @@
+- pkg:nuget/IdentityServer3.WsFederation.EntityFramework@1.0.0
+- pkg:nuget/IdentityServer3.WsFederation.EntityFramework@2.0.0
+- pkg:nuget/IdentityServer3.WsFederation.EntityFramework@2.1.0
+- pkg:nuget/IdentityServer3.WsFederation.EntityFramework@2.2.0

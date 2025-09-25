@@ -1,0 +1,10 @@
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@1.0.0
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@1.0.1
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@1.0.3
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@1.1.1
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@1.1.2
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@1.2.0
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@1.2.1
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@1.2.2
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@2.0.0
+- pkg:nuget/SImpl.SearchModule.ElasticSearch@2.0.1-Beta.45

@@ -1,0 +1,15 @@
+- pkg:nuget/SharpWebview@0.10.0
+- pkg:nuget/SharpWebview@0.11.0
+- pkg:nuget/SharpWebview@0.11.1
+- pkg:nuget/SharpWebview@0.11.2
+- pkg:nuget/SharpWebview@0.11.3
+- pkg:nuget/SharpWebview@0.5.0
+- pkg:nuget/SharpWebview@0.5.2
+- pkg:nuget/SharpWebview@0.5.3
+- pkg:nuget/SharpWebview@0.5.4
+- pkg:nuget/SharpWebview@0.5.5
+- pkg:nuget/SharpWebview@0.6.0
+- pkg:nuget/SharpWebview@0.6.1
+- pkg:nuget/SharpWebview@0.7.0
+- pkg:nuget/SharpWebview@0.8.0
+- pkg:nuget/SharpWebview@0.9.0

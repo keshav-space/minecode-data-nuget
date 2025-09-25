@@ -1,0 +1,2 @@
+- pkg:nuget/EInfrastructure.EntityFrameworkCore.Shared@0.21.0
+- pkg:nuget/EInfrastructure.EntityFrameworkCore.Shared@0.21.1

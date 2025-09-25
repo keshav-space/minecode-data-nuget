@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.Runtime@3.2.0
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.Runtime@3.2.0-preview2.20159.2
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.Runtime@3.2.0-preview3.20168.1
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.Runtime@3.2.0-preview5.20210.1
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.Runtime@3.2.0-preview5.20216.1
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly.Runtime@3.2.0-rc1.20222.2

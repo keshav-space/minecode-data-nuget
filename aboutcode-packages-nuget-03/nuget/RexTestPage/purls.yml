@@ -1,0 +1,11 @@
+- pkg:nuget/RexTestPage@1.0.0
+- pkg:nuget/RexTestPage@1.0.0-stable
+- pkg:nuget/RexTestPage@1.0.2
+- pkg:nuget/RexTestPage@1.0.2-sn
+- pkg:nuget/RexTestPage@1.0.2-sn-and-stable
+- pkg:nuget/RexTestPage@1.0.2-stable
+- pkg:nuget/RexTestPage@1.0.3
+- pkg:nuget/RexTestPage@1.0.4
+- pkg:nuget/RexTestPage@1.0.4.1
+- pkg:nuget/RexTestPage@1.0.6
+- pkg:nuget/RexTestPage@1.0.8

@@ -1,0 +1,10 @@
+- pkg:nuget/GorillaDotNet@1.0.0-CI-20191216-234307
+- pkg:nuget/GorillaDotNet@1.0.0-CI-20191216-234430
+- pkg:nuget/GorillaDotNet@1.0.0-CI-20191216-235642
+- pkg:nuget/GorillaDotNet@1.0.0-CI-20191217-000805
+- pkg:nuget/GorillaDotNet@1.0.0-CI-20200213-194347
+- pkg:nuget/GorillaDotNet@1.0.0-CI-20200216-235031
+- pkg:nuget/GorillaDotNet@1.0.0-CI-20200216-235212
+- pkg:nuget/GorillaDotNet@20200216.3.0
+- pkg:nuget/GorillaDotNet@20200216.4.0
+- pkg:nuget/GorillaDotNet@20200722.1.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Infrastructure.Tests@1.0.0
+- pkg:nuget/Infrastructure.Tests@3.0.0
+- pkg:nuget/Infrastructure.Tests@3.0.0.1
+- pkg:nuget/Infrastructure.Tests@3.0.1
+- pkg:nuget/Infrastructure.Tests@3.3.0

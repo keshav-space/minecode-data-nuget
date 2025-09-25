@@ -1,0 +1,12 @@
+- pkg:nuget/AdoNet.Specification.Tests@1.0.0
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha1
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha2
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha3
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha4
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha5
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha6
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha7
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha8
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-alpha9
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-beta.1
+- pkg:nuget/AdoNet.Specification.Tests@2.0.0-beta.2
