@@ -1,0 +1,12 @@
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@4.0.7
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@4.0.8
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@5.0.0
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@5.0.1
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@5.0.2
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@5.0.3
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@5.0.4-rc1
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@6.0.1
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@6.0.2
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@6.0.3
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@6.0.4
+- pkg:nuget/SimpleIdServer.IdServer.SqliteMigrations@6.0.5

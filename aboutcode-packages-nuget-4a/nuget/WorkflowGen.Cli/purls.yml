@@ -1,0 +1,11 @@
+- pkg:nuget/WorkflowGen.Cli@1.0.0
+- pkg:nuget/WorkflowGen.Cli@1.0.0-beta.1
+- pkg:nuget/WorkflowGen.Cli@1.0.0-beta.2
+- pkg:nuget/WorkflowGen.Cli@1.0.0-beta.3
+- pkg:nuget/WorkflowGen.Cli@1.1.0
+- pkg:nuget/WorkflowGen.Cli@1.1.0-beta.1
+- pkg:nuget/WorkflowGen.Cli@1.1.0-beta.2
+- pkg:nuget/WorkflowGen.Cli@1.1.0-beta.3
+- pkg:nuget/WorkflowGen.Cli@1.1.0-beta.4
+- pkg:nuget/WorkflowGen.Cli@1.2.0
+- pkg:nuget/WorkflowGen.Cli@1.2.0-beta.1

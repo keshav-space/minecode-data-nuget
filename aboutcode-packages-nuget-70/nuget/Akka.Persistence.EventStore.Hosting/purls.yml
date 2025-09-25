@@ -1,0 +1,9 @@
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.18
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.20
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.25
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.26
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.30
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.37
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.40
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.42
+- pkg:nuget/Akka.Persistence.EventStore.Hosting@1.5.46

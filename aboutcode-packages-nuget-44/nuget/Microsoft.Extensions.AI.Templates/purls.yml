@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.3.0-preview.1.25154.18
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.3.0-preview.1.25164.6
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.4.0-preview.1.25207.5
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.4.0-preview.2.25216.9
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.4.3-preview.2.25230.7
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.4.4-preview.2.25259.16
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.5.0-preview.2.25262.9
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.5.0-preview.2.25265.7
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.5.0-preview.2.25266.3
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.5.0-preview.2.25270.5
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.6.0-preview.2.25310.2
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.7.0-preview.2.25356.2
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.7.1-preview.3.25365.4
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.7.2-preview.3.25366.2
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.8.0-preview.3.25412.6
+- pkg:nuget/Microsoft.Extensions.AI.Templates@9.9.0-preview.3.25458.4

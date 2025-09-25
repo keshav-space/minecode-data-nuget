@@ -1,0 +1,10 @@
+- pkg:nuget/Unic.Bob.Rubble@2.0.1
+- pkg:nuget/Unic.Bob.Rubble@3.0.0
+- pkg:nuget/Unic.Bob.Rubble@3.0.1
+- pkg:nuget/Unic.Bob.Rubble@3.0.2-ci0001
+- pkg:nuget/Unic.Bob.Rubble@3.0.2-ci0004
+- pkg:nuget/Unic.Bob.Rubble@3.1.0
+- pkg:nuget/Unic.Bob.Rubble@3.1.1-ci0002
+- pkg:nuget/Unic.Bob.Rubble@3.1.1-ci0004
+- pkg:nuget/Unic.Bob.Rubble@3.1.1-testappveyor0003
+- pkg:nuget/Unic.Bob.Rubble@3.2.0

@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.10.0
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.11.0
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.12.0
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.12.0-preview
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.12.1
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.12.2
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.13.0
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.13.0-preview
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.13.0-preview2
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.13.1
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.13.2
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.13.3
+- pkg:nuget/Microsoft.Identity.Lab.Api@0.9.0
+- pkg:nuget/Microsoft.Identity.Lab.Api@1.0.0
+- pkg:nuget/Microsoft.Identity.Lab.Api@1.0.0-preview
+- pkg:nuget/Microsoft.Identity.Lab.Api@1.0.1
+- pkg:nuget/Microsoft.Identity.Lab.Api@1.0.2

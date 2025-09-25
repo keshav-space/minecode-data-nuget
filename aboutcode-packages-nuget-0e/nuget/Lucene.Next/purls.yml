@@ -1,0 +1,6 @@
+- pkg:nuget/Lucene.Next@10.2.0-preview
+- pkg:nuget/Lucene.Next@10.2.0-preview2
+- pkg:nuget/Lucene.Next@10.2.0-preview3
+- pkg:nuget/Lucene.Next@10.2.0-preview4
+- pkg:nuget/Lucene.Next@11.0.0-alpha.1
+- pkg:nuget/Lucene.Next@11.0.0-alpha.2

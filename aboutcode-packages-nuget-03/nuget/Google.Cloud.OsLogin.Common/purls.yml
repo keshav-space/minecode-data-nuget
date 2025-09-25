@@ -1,0 +1,12 @@
+- pkg:nuget/Google.Cloud.OsLogin.Common@1.0.0
+- pkg:nuget/Google.Cloud.OsLogin.Common@1.0.0-beta01
+- pkg:nuget/Google.Cloud.OsLogin.Common@1.0.0-beta02
+- pkg:nuget/Google.Cloud.OsLogin.Common@2.0.0
+- pkg:nuget/Google.Cloud.OsLogin.Common@2.0.0-beta01
+- pkg:nuget/Google.Cloud.OsLogin.Common@2.1.0
+- pkg:nuget/Google.Cloud.OsLogin.Common@2.2.0
+- pkg:nuget/Google.Cloud.OsLogin.Common@2.3.0
+- pkg:nuget/Google.Cloud.OsLogin.Common@3.0.0
+- pkg:nuget/Google.Cloud.OsLogin.Common@3.1.0
+- pkg:nuget/Google.Cloud.OsLogin.Common@3.2.0
+- pkg:nuget/Google.Cloud.OsLogin.Common@3.3.0

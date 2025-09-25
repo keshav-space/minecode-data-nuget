@@ -1,0 +1,11 @@
+- pkg:nuget/ClientGrpc@2.2.0
+- pkg:nuget/ClientGrpc@2.2.1
+- pkg:nuget/ClientGrpc@3.0.0
+- pkg:nuget/ClientGrpc@3.0.1
+- pkg:nuget/ClientGrpc@3.0.2
+- pkg:nuget/ClientGrpc@3.0.3
+- pkg:nuget/ClientGrpc@3.1.0
+- pkg:nuget/ClientGrpc@3.1.1
+- pkg:nuget/ClientGrpc@3.2.0
+- pkg:nuget/ClientGrpc@4.0.0
+- pkg:nuget/ClientGrpc@5.0.0

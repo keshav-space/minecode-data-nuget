@@ -1,0 +1,11 @@
+- pkg:nuget/HiQPdf.Chromium.Linux@16.0.0
+- pkg:nuget/HiQPdf.Chromium.Linux@16.0.2
+- pkg:nuget/HiQPdf.Chromium.Linux@16.0.4
+- pkg:nuget/HiQPdf.Chromium.Linux@16.1.0
+- pkg:nuget/HiQPdf.Chromium.Linux@16.1.5
+- pkg:nuget/HiQPdf.Chromium.Linux@16.1.6
+- pkg:nuget/HiQPdf.Chromium.Linux@16.4.0
+- pkg:nuget/HiQPdf.Chromium.Linux@16.4.1
+- pkg:nuget/HiQPdf.Chromium.Linux@17.0.0
+- pkg:nuget/HiQPdf.Chromium.Linux@17.0.2
+- pkg:nuget/HiQPdf.Chromium.Linux@17.5.0

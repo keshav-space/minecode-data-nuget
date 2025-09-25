@@ -1,0 +1,4 @@
+- pkg:nuget/RDC23.EventBus.RabbitMQ@1.0.0
+- pkg:nuget/RDC23.EventBus.RabbitMQ@2.0.0
+- pkg:nuget/RDC23.EventBus.RabbitMQ@3.0.0
+- pkg:nuget/RDC23.EventBus.RabbitMQ@3.0.1

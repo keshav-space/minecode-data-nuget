@@ -1,0 +1,5 @@
+- pkg:nuget/NuvTools.Security.Identity.EntityFrameworkCore@9.1.0
+- pkg:nuget/NuvTools.Security.Identity.EntityFrameworkCore@9.1.1
+- pkg:nuget/NuvTools.Security.Identity.EntityFrameworkCore@9.2.0
+- pkg:nuget/NuvTools.Security.Identity.EntityFrameworkCore@9.2.1
+- pkg:nuget/NuvTools.Security.Identity.EntityFrameworkCore@9.2.2

@@ -1,0 +1,12 @@
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.13.10
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.13.11
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.13.12
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.13.6
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.13.7
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.13.8
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.13.9
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.14.0
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.15.0
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.15.1
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.15.2
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.15.4

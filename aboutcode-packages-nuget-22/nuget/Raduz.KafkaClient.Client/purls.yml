@@ -1,0 +1,10 @@
+- pkg:nuget/Raduz.KafkaClient.Client@1.0.0
+- pkg:nuget/Raduz.KafkaClient.Client@2.0.0
+- pkg:nuget/Raduz.KafkaClient.Client@2.0.1
+- pkg:nuget/Raduz.KafkaClient.Client@2.0.2
+- pkg:nuget/Raduz.KafkaClient.Client@2.0.3
+- pkg:nuget/Raduz.KafkaClient.Client@3.0.0
+- pkg:nuget/Raduz.KafkaClient.Client@4.0.0
+- pkg:nuget/Raduz.KafkaClient.Client@4.0.1
+- pkg:nuget/Raduz.KafkaClient.Client@4.0.2
+- pkg:nuget/Raduz.KafkaClient.Client@4.0.3

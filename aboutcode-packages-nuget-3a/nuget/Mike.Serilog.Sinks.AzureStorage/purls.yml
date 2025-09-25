@@ -1,0 +1,4 @@
+- pkg:nuget/Mike.Serilog.Sinks.AzureStorage@0.0.1
+- pkg:nuget/Mike.Serilog.Sinks.AzureStorage@0.0.2
+- pkg:nuget/Mike.Serilog.Sinks.AzureStorage@0.0.3
+- pkg:nuget/Mike.Serilog.Sinks.AzureStorage@0.0.4

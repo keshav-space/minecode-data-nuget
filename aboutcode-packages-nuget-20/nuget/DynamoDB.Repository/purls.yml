@@ -1,0 +1,4 @@
+- pkg:nuget/DynamoDB.Repository@0.1.0
+- pkg:nuget/DynamoDB.Repository@0.1.1
+- pkg:nuget/DynamoDB.Repository@0.1.4
+- pkg:nuget/DynamoDB.Repository@0.1.5

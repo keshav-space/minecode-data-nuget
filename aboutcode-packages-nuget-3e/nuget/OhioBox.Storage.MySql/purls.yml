@@ -1,0 +1,10 @@
+- pkg:nuget/OhioBox.Storage.MySql@2.2.1-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.11-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.12-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.2-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.3-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.4-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.5-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.6-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.7-rc
+- pkg:nuget/OhioBox.Storage.MySql@2.2.9-rc

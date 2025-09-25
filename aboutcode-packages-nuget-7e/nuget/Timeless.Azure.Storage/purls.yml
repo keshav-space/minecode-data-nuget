@@ -1,0 +1,8 @@
+- pkg:nuget/Timeless.Azure.Storage@1.0.1-CI-20210321-094005
+- pkg:nuget/Timeless.Azure.Storage@1.0.1-CI-20210529-080634
+- pkg:nuget/Timeless.Azure.Storage@2.0.0
+- pkg:nuget/Timeless.Azure.Storage@2.0.0-CI-20210531-154539
+- pkg:nuget/Timeless.Azure.Storage@2.0.0-CI-20210601-075554
+- pkg:nuget/Timeless.Azure.Storage@2.0.0-CI-20210605-062625
+- pkg:nuget/Timeless.Azure.Storage@2.0.0-CI-20210612-055254
+- pkg:nuget/Timeless.Azure.Storage@2.0.0-CI-20210613-090921

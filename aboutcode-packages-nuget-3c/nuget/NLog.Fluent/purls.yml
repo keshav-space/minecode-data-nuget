@@ -1,0 +1,14 @@
+- pkg:nuget/NLog.Fluent@1.0.0
+- pkg:nuget/NLog.Fluent@1.0.0.2
+- pkg:nuget/NLog.Fluent@2.0.1.17
+- pkg:nuget/NLog.Fluent@2.0.1.18
+- pkg:nuget/NLog.Fluent@2.1.0.24
+- pkg:nuget/NLog.Fluent@3.0.0.28
+- pkg:nuget/NLog.Fluent@3.0.0.29
+- pkg:nuget/NLog.Fluent@3.1.0.30
+- pkg:nuget/NLog.Fluent@3.2.0.31
+- pkg:nuget/NLog.Fluent@4.0.0.33
+- pkg:nuget/NLog.Fluent@4.0.0.37
+- pkg:nuget/NLog.Fluent@4.0.0.41
+- pkg:nuget/NLog.Fluent@4.0.0.44
+- pkg:nuget/NLog.Fluent@4.0.0.46

@@ -1,0 +1,9 @@
+- pkg:nuget/BananaCakePop.Services.Azure@13.9.0
+- pkg:nuget/BananaCakePop.Services.Azure@14.0.0-preview.5
+- pkg:nuget/BananaCakePop.Services.Azure@14.0.0-preview.6
+- pkg:nuget/BananaCakePop.Services.Azure@14.0.0-preview.7
+- pkg:nuget/BananaCakePop.Services.Azure@14.0.0-preview.8
+- pkg:nuget/BananaCakePop.Services.Azure@3.0.3
+- pkg:nuget/BananaCakePop.Services.Azure@3.0.5
+- pkg:nuget/BananaCakePop.Services.Azure@3.0.6
+- pkg:nuget/BananaCakePop.Services.Azure@3.2.0

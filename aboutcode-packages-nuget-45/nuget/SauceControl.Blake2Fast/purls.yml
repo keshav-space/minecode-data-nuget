@@ -1,0 +1,4 @@
+- pkg:nuget/SauceControl.Blake2Fast@0.1.0
+- pkg:nuget/SauceControl.Blake2Fast@0.2.0
+- pkg:nuget/SauceControl.Blake2Fast@1.0.0
+- pkg:nuget/SauceControl.Blake2Fast@2.0.0

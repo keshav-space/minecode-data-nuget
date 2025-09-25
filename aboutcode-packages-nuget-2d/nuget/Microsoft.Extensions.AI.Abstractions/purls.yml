@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.0.0-preview.9.24507.7
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.0.0-preview.9.24525.1
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.0.0-preview.9.24556.5
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.0.1-preview.1.24570.5
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.1.0-preview.1.25064.3
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.3.0-preview.1.25114.11
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.3.0-preview.1.25161.3
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.4.0-preview.1.25207.5
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.4.3-preview.1.25230.7
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.4.4-preview.1.25259.16
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.5.0
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.5.0-preview.1.25262.9
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.6.0
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.7.0
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.7.1
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.8.0
+- pkg:nuget/Microsoft.Extensions.AI.Abstractions@9.9.0

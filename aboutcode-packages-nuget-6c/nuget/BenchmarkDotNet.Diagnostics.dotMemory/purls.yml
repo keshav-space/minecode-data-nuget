@@ -1,0 +1,5 @@
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotMemory@0.14.0
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotMemory@0.15.0
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotMemory@0.15.1
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotMemory@0.15.2
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotMemory@0.15.4

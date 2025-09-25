@@ -1,0 +1,12 @@
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.10.1
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.3.3
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.3.4
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.5.1
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.5.2
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.6.1
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.7.1
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.8.1
+- pkg:nuget/LlamachantFramework.Workflow.EF@24.2.9.1
+- pkg:nuget/LlamachantFramework.Workflow.EF@25.1.3.1
+- pkg:nuget/LlamachantFramework.Workflow.EF@25.1.4.1
+- pkg:nuget/LlamachantFramework.Workflow.EF@25.1.5.1

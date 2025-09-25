@@ -1,0 +1,13 @@
+- pkg:nuget/HiQPdf.Chromium.Windows@16.0.0
+- pkg:nuget/HiQPdf.Chromium.Windows@16.0.2
+- pkg:nuget/HiQPdf.Chromium.Windows@16.0.4
+- pkg:nuget/HiQPdf.Chromium.Windows@16.1.0
+- pkg:nuget/HiQPdf.Chromium.Windows@16.1.5
+- pkg:nuget/HiQPdf.Chromium.Windows@16.1.6
+- pkg:nuget/HiQPdf.Chromium.Windows@16.4.0
+- pkg:nuget/HiQPdf.Chromium.Windows@16.4.1
+- pkg:nuget/HiQPdf.Chromium.Windows@16.4.2
+- pkg:nuget/HiQPdf.Chromium.Windows@16.4.5
+- pkg:nuget/HiQPdf.Chromium.Windows@17.0.0
+- pkg:nuget/HiQPdf.Chromium.Windows@17.0.2
+- pkg:nuget/HiQPdf.Chromium.Windows@17.5.0

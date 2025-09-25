@@ -1,0 +1,15 @@
+- pkg:nuget/Archon.Data@1.0.0
+- pkg:nuget/Archon.Data@2.0.0
+- pkg:nuget/Archon.Data@2.1.0
+- pkg:nuget/Archon.Data@3.0.0
+- pkg:nuget/Archon.Data@3.0.0-tokens0001
+- pkg:nuget/Archon.Data@3.0.0-tokens0002
+- pkg:nuget/Archon.Data@4.0.0
+- pkg:nuget/Archon.Data@4.0.1
+- pkg:nuget/Archon.Data@4.1.0
+- pkg:nuget/Archon.Data@4.1.1
+- pkg:nuget/Archon.Data@4.1.2
+- pkg:nuget/Archon.Data@4.2.0
+- pkg:nuget/Archon.Data@4.2.1-azure.1
+- pkg:nuget/Archon.Data@4.2.1-azure.2
+- pkg:nuget/Archon.Data@4.3.0

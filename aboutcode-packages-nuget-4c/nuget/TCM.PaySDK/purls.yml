@@ -1,0 +1,9 @@
+- pkg:nuget/TCM.PaySDK@2.0.0
+- pkg:nuget/TCM.PaySDK@4.0.0
+- pkg:nuget/TCM.PaySDK@5.0.0
+- pkg:nuget/TCM.PaySDK@6.0.0
+- pkg:nuget/TCM.PaySDK@7.0.0
+- pkg:nuget/TCM.PaySDK@8.0.0
+- pkg:nuget/TCM.PaySDK@9.0.0
+- pkg:nuget/TCM.PaySDK@9.0.0.1
+- pkg:nuget/TCM.PaySDK@9.0.0.2

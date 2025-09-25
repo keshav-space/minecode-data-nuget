@@ -1,0 +1,6 @@
+- pkg:nuget/Akka.Persistence.Redis.Hosting@1.5.13
+- pkg:nuget/Akka.Persistence.Redis.Hosting@1.5.24
+- pkg:nuget/Akka.Persistence.Redis.Hosting@1.5.29
+- pkg:nuget/Akka.Persistence.Redis.Hosting@1.5.30
+- pkg:nuget/Akka.Persistence.Redis.Hosting@1.5.37
+- pkg:nuget/Akka.Persistence.Redis.Hosting@1.5.42

@@ -1,0 +1,3 @@
+- pkg:nuget/SharpCairo@0.0.0
+- pkg:nuget/SharpCairo@1.15.12-alpha
+- pkg:nuget/SharpCairo@1.15.6-alpha

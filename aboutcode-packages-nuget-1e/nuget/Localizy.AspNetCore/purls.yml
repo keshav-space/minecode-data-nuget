@@ -1,0 +1,5 @@
+- pkg:nuget/Localizy.AspNetCore@1.0.0
+- pkg:nuget/Localizy.AspNetCore@1.0.23
+- pkg:nuget/Localizy.AspNetCore@1.0.25
+- pkg:nuget/Localizy.AspNetCore@1.0.28
+- pkg:nuget/Localizy.AspNetCore@1.0.31

@@ -1,0 +1,3 @@
+- pkg:nuget/Aescr.Redis@3.1.0
+- pkg:nuget/Aescr.Redis@3.1.1
+- pkg:nuget/Aescr.Redis@5.0.0

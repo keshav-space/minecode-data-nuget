@@ -1,0 +1,5 @@
+- pkg:nuget/BenchmarkDotNet.Exporters.Plotting@0.14.0
+- pkg:nuget/BenchmarkDotNet.Exporters.Plotting@0.15.0
+- pkg:nuget/BenchmarkDotNet.Exporters.Plotting@0.15.1
+- pkg:nuget/BenchmarkDotNet.Exporters.Plotting@0.15.2
+- pkg:nuget/BenchmarkDotNet.Exporters.Plotting@0.15.4

@@ -1,0 +1,14 @@
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@1.0.0
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@1.1.0
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@1.2.7050-alpha-900
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@1.2.7050.900
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@1.3.0
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.0.0
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.0.1
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.1.0
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.2.0
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.2.1
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.2.1-Beta-20190724.6
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.2.1-CI-20190723.1
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.3.0
+- pkg:nuget/Rezolver.Microsoft.AspNetCore.Hosting@2.3.0-Beta-20191025.3

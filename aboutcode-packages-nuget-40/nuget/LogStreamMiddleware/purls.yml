@@ -1,0 +1,12 @@
+- pkg:nuget/LogStreamMiddleware@1.0.0
+- pkg:nuget/LogStreamMiddleware@1.1.0
+- pkg:nuget/LogStreamMiddleware@2.1.0-Testing
+- pkg:nuget/LogStreamMiddleware@2.1.1
+- pkg:nuget/LogStreamMiddleware@2.1.1-Testing
+- pkg:nuget/LogStreamMiddleware@3.0.0
+- pkg:nuget/LogStreamMiddleware@3.0.1
+- pkg:nuget/LogStreamMiddleware@3.0.2
+- pkg:nuget/LogStreamMiddleware@3.0.3
+- pkg:nuget/LogStreamMiddleware@3.0.4
+- pkg:nuget/LogStreamMiddleware@4.0.0
+- pkg:nuget/LogStreamMiddleware@5.0.0

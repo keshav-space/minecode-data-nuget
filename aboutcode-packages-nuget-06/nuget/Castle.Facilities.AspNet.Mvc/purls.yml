@@ -1,0 +1,8 @@
+- pkg:nuget/Castle.Facilities.AspNet.Mvc@5.0.0
+- pkg:nuget/Castle.Facilities.AspNet.Mvc@5.0.0-beta001
+- pkg:nuget/Castle.Facilities.AspNet.Mvc@5.0.1
+- pkg:nuget/Castle.Facilities.AspNet.Mvc@5.1.0
+- pkg:nuget/Castle.Facilities.AspNet.Mvc@5.1.0-beta001
+- pkg:nuget/Castle.Facilities.AspNet.Mvc@5.1.1
+- pkg:nuget/Castle.Facilities.AspNet.Mvc@5.1.2
+- pkg:nuget/Castle.Facilities.AspNet.Mvc@6.0.0

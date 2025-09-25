@@ -1,0 +1,13 @@
+- pkg:nuget/PerfIt.Zipkin.EventHub@3.8.0-alpha
+- pkg:nuget/PerfIt.Zipkin.EventHub@3.8.0-alpha2
+- pkg:nuget/PerfIt.Zipkin.EventHub@3.9.0-alpha
+- pkg:nuget/PerfIt.Zipkin.EventHub@3.9.1-alpha
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.0.0
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.0.0-beta7
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.0.0-beta8
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.0.0-preview1
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.0.0-preview2
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.0.1
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.0.2
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.1.0
+- pkg:nuget/PerfIt.Zipkin.EventHub@5.1.1

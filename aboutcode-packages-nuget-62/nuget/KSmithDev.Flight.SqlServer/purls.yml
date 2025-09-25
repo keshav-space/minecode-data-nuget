@@ -1,0 +1,17 @@
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.0.0-preview.0.26
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.1.0-alpha1
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.1.18-pullrequest0003-0006
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.1.22
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.1.23
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.1.24
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.2.0
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.2.0-preview.0.3
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.2.0-preview.0.4
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.2.0-preview.0.5
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.3.0
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.3.0-preview.0.3
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.5.0
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.5.0-preview.0.6
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.5.0-preview.0.7
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.6.0
+- pkg:nuget/KSmithDev.Flight.SqlServer@0.6.0-preview.0.2

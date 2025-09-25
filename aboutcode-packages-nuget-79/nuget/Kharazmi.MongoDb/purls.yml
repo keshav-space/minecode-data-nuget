@@ -1,0 +1,5 @@
+- pkg:nuget/Kharazmi.MongoDb@1.0.0
+- pkg:nuget/Kharazmi.MongoDb@2.0.0
+- pkg:nuget/Kharazmi.MongoDb@3.0.0
+- pkg:nuget/Kharazmi.MongoDb@3.0.1
+- pkg:nuget/Kharazmi.MongoDb@3.1.0

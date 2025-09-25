@@ -1,0 +1,12 @@
+- pkg:nuget/Mono.Unix@7.0.0-alpha.21275.4
+- pkg:nuget/Mono.Unix@7.0.0-alpha.21276.2
+- pkg:nuget/Mono.Unix@7.0.0-alpha2.21278.1
+- pkg:nuget/Mono.Unix@7.0.0-alpha3.21281.2
+- pkg:nuget/Mono.Unix@7.0.0-alpha4.21302.2
+- pkg:nuget/Mono.Unix@7.0.0-alpha5.21302.3
+- pkg:nuget/Mono.Unix@7.0.0-alpha6.21302.4
+- pkg:nuget/Mono.Unix@7.0.0-alpha7.21302.5
+- pkg:nuget/Mono.Unix@7.0.0-alpha8.21302.6
+- pkg:nuget/Mono.Unix@7.0.0-beta1.21310.1
+- pkg:nuget/Mono.Unix@7.0.0-final.1.21369.2
+- pkg:nuget/Mono.Unix@7.1.0-final.1.21458.1

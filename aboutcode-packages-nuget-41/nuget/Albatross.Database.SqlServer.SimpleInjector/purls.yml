@@ -1,0 +1,4 @@
+- pkg:nuget/Albatross.Database.SqlServer.SimpleInjector@1.1.4.13
+- pkg:nuget/Albatross.Database.SqlServer.SimpleInjector@1.1.5
+- pkg:nuget/Albatross.Database.SqlServer.SimpleInjector@1.1.6
+- pkg:nuget/Albatross.Database.SqlServer.SimpleInjector@1.1.7

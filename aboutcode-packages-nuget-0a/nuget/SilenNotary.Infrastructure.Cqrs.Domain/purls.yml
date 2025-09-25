@@ -1,0 +1,5 @@
+- pkg:nuget/SilenNotary.Infrastructure.Cqrs.Domain@0.0.1
+- pkg:nuget/SilenNotary.Infrastructure.Cqrs.Domain@0.0.3
+- pkg:nuget/SilenNotary.Infrastructure.Cqrs.Domain@0.0.4
+- pkg:nuget/SilenNotary.Infrastructure.Cqrs.Domain@0.0.5
+- pkg:nuget/SilenNotary.Infrastructure.Cqrs.Domain@0.0.6

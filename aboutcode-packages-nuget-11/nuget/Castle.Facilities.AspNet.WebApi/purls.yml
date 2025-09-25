@@ -1,0 +1,8 @@
+- pkg:nuget/Castle.Facilities.AspNet.WebApi@5.0.0
+- pkg:nuget/Castle.Facilities.AspNet.WebApi@5.0.0-beta001
+- pkg:nuget/Castle.Facilities.AspNet.WebApi@5.0.1
+- pkg:nuget/Castle.Facilities.AspNet.WebApi@5.1.0
+- pkg:nuget/Castle.Facilities.AspNet.WebApi@5.1.0-beta001
+- pkg:nuget/Castle.Facilities.AspNet.WebApi@5.1.1
+- pkg:nuget/Castle.Facilities.AspNet.WebApi@5.1.2
+- pkg:nuget/Castle.Facilities.AspNet.WebApi@6.0.0

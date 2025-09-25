@@ -1,0 +1,16 @@
+- pkg:nuget/JuniorData.PostgreSql@1.0.0
+- pkg:nuget/JuniorData.PostgreSql@1.0.2
+- pkg:nuget/JuniorData.PostgreSql@1.0.3
+- pkg:nuget/JuniorData.PostgreSql@1.0.4
+- pkg:nuget/JuniorData.PostgreSql@2.0.1
+- pkg:nuget/JuniorData.PostgreSql@2.0.2
+- pkg:nuget/JuniorData.PostgreSql@2.0.3
+- pkg:nuget/JuniorData.PostgreSql@2.0.4
+- pkg:nuget/JuniorData.PostgreSql@3.0.0
+- pkg:nuget/JuniorData.PostgreSql@4.0.0
+- pkg:nuget/JuniorData.PostgreSql@4.1.0
+- pkg:nuget/JuniorData.PostgreSql@4.2.0
+- pkg:nuget/JuniorData.PostgreSql@5.0.0
+- pkg:nuget/JuniorData.PostgreSql@6.0.0
+- pkg:nuget/JuniorData.PostgreSql@6.1.0
+- pkg:nuget/JuniorData.PostgreSql@6.1.1

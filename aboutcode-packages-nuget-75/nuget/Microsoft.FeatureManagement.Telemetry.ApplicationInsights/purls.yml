@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.0.0
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.0.0-preview
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.0.0-preview2
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.0.0-preview3
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.0.0-preview4
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.0.0-preview5
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.1.0
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.2.0
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.2.1
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights@4.3.0

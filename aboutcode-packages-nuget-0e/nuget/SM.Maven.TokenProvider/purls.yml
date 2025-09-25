@@ -1,0 +1,3 @@
+- pkg:nuget/SM.Maven.TokenProvider@1.0.0-CI-20190729-171705
+- pkg:nuget/SM.Maven.TokenProvider@1.0.1.3
+- pkg:nuget/SM.Maven.TokenProvider@1.0.1.4

@@ -1,0 +1,5 @@
+- pkg:nuget/Flash.Extensions.Job.Hangfire.AspNetCore@10.0.0.1
+- pkg:nuget/Flash.Extensions.Job.Hangfire.AspNetCore@11.0.0
+- pkg:nuget/Flash.Extensions.Job.Hangfire.AspNetCore@11.0.2
+- pkg:nuget/Flash.Extensions.Job.Hangfire.AspNetCore@11.0.6
+- pkg:nuget/Flash.Extensions.Job.Hangfire.AspNetCore@11.0.7
