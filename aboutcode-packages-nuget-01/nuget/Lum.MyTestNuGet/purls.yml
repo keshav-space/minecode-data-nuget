@@ -1,0 +1,3 @@
+- pkg:nuget/Lum.MyTestNuGet@1.0.0
+- pkg:nuget/Lum.MyTestNuGet@1.1.0
+- pkg:nuget/Lum.MyTestNuGet@1.1.1

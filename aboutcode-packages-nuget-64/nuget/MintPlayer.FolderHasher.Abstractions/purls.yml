@@ -1,0 +1,4 @@
+- pkg:nuget/MintPlayer.FolderHasher.Abstractions@10.0.0-rc.1
+- pkg:nuget/MintPlayer.FolderHasher.Abstractions@8.0.0
+- pkg:nuget/MintPlayer.FolderHasher.Abstractions@8.0.1
+- pkg:nuget/MintPlayer.FolderHasher.Abstractions@9.0.0

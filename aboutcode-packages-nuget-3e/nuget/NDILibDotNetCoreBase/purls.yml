@@ -1,0 +1,6 @@
+- pkg:nuget/NDILibDotNetCoreBase@2023.11.7.1
+- pkg:nuget/NDILibDotNetCoreBase@2023.11.7.2
+- pkg:nuget/NDILibDotNetCoreBase@2023.11.7.3
+- pkg:nuget/NDILibDotNetCoreBase@2023.12.20.1
+- pkg:nuget/NDILibDotNetCoreBase@2023.12.20.2
+- pkg:nuget/NDILibDotNetCoreBase@2024.7.22.1

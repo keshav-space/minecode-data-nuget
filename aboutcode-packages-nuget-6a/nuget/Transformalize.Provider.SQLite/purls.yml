@@ -1,0 +1,5 @@
+- pkg:nuget/Transformalize.Provider.SQLite@0.2.10-beta
+- pkg:nuget/Transformalize.Provider.SQLite@0.2.2-beta
+- pkg:nuget/Transformalize.Provider.SQLite@0.2.3-beta
+- pkg:nuget/Transformalize.Provider.SQLite@0.2.6-beta
+- pkg:nuget/Transformalize.Provider.SQLite@0.2.7-beta

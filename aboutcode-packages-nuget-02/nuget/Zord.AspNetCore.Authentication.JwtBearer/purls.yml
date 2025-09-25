@@ -1,0 +1,2 @@
+- pkg:nuget/Zord.AspNetCore.Authentication.JwtBearer@1.1.0
+- pkg:nuget/Zord.AspNetCore.Authentication.JwtBearer@1.1.1

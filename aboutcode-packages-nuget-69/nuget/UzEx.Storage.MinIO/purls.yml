@@ -1,0 +1,3 @@
+- pkg:nuget/UzEx.Storage.MinIO@1.0.0
+- pkg:nuget/UzEx.Storage.MinIO@2.0.0
+- pkg:nuget/UzEx.Storage.MinIO@3.0.0

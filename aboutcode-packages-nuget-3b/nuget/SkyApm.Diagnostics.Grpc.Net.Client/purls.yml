@@ -1,0 +1,5 @@
+- pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@1.0.0
+- pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@1.0.0-preview-128523807
+- pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@2.0.1
+- pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@2.1.0
+- pkg:nuget/SkyApm.Diagnostics.Grpc.Net.Client@2.2.0

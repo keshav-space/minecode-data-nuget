@@ -1,0 +1,7 @@
+- pkg:nuget/Roslyn.System.IO.Abstractions.Analyzers@12.2.19
+- pkg:nuget/Roslyn.System.IO.Abstractions.Analyzers@12.2.7
+- pkg:nuget/Roslyn.System.IO.Abstractions.Analyzers@4.0.0
+- pkg:nuget/Roslyn.System.IO.Abstractions.Analyzers@4.0.1
+- pkg:nuget/Roslyn.System.IO.Abstractions.Analyzers@4.0.2
+- pkg:nuget/Roslyn.System.IO.Abstractions.Analyzers@4.0.3
+- pkg:nuget/Roslyn.System.IO.Abstractions.Analyzers@6.0.32

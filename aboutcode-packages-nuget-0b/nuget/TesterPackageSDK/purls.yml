@@ -1,0 +1,5 @@
+- pkg:nuget/TesterPackageSDK@1.0.8
+- pkg:nuget/TesterPackageSDK@1.2.7
+- pkg:nuget/TesterPackageSDK@2.0.0
+- pkg:nuget/TesterPackageSDK@2.0.9
+- pkg:nuget/TesterPackageSDK@2.6.8

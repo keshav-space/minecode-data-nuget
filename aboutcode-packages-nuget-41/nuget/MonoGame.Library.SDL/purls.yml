@@ -1,0 +1,4 @@
+- pkg:nuget/MonoGame.Library.SDL@2.26.5.5
+- pkg:nuget/MonoGame.Library.SDL@2.30.7.1
+- pkg:nuget/MonoGame.Library.SDL@2.32.10.1
+- pkg:nuget/MonoGame.Library.SDL@2.32.2.1

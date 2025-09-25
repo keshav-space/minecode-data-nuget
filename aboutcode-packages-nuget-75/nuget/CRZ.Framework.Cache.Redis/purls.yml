@@ -1,0 +1,4 @@
+- pkg:nuget/CRZ.Framework.Cache.Redis@1.0.0
+- pkg:nuget/CRZ.Framework.Cache.Redis@1.0.1
+- pkg:nuget/CRZ.Framework.Cache.Redis@1.1.0
+- pkg:nuget/CRZ.Framework.Cache.Redis@2.0.0

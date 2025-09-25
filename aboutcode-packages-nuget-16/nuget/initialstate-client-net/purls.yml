@@ -1,0 +1,4 @@
+- pkg:nuget/initialstate-client-net@1.0.0%2BBranch.master.Sha.0c21f4ddaf425887fc00f27fc875104f69d677fd
+- pkg:nuget/initialstate-client-net@1.0.19
+- pkg:nuget/initialstate-client-net@1.0.20
+- pkg:nuget/initialstate-client-net@1.0.21

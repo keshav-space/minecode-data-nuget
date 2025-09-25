@@ -1,0 +1,4 @@
+- pkg:nuget/D3K.Diagnostics.Serilog@4.0.0
+- pkg:nuget/D3K.Diagnostics.Serilog@5.0.0
+- pkg:nuget/D3K.Diagnostics.Serilog@6.0.0
+- pkg:nuget/D3K.Diagnostics.Serilog@6.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/Fastchannel.HttpClient.OAuth2Handler@1.0.6
+- pkg:nuget/Fastchannel.HttpClient.OAuth2Handler@2.0.0

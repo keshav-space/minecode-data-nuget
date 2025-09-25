@@ -1,0 +1,3 @@
+- pkg:nuget/DBGang.AspNetCore.DataProtection.PostgreSQL@1.0.0
+- pkg:nuget/DBGang.AspNetCore.DataProtection.PostgreSQL@1.0.1
+- pkg:nuget/DBGang.AspNetCore.DataProtection.PostgreSQL@1.0.2

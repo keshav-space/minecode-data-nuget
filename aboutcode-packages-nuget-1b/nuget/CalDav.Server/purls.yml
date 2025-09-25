@@ -1,0 +1,4 @@
+- pkg:nuget/CalDav.Server@0.0.1
+- pkg:nuget/CalDav.Server@0.0.1-beta1
+- pkg:nuget/CalDav.Server@0.0.1-beta2
+- pkg:nuget/CalDav.Server@0.0.1-beta3

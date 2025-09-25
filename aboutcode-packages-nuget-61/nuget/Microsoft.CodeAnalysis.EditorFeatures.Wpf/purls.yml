@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.CodeAnalysis.EditorFeatures.Wpf@2.7.0
+- pkg:nuget/Microsoft.CodeAnalysis.EditorFeatures.Wpf@2.8.0
+- pkg:nuget/Microsoft.CodeAnalysis.EditorFeatures.Wpf@2.8.0-beta3
+- pkg:nuget/Microsoft.CodeAnalysis.EditorFeatures.Wpf@2.8.0-beta4
+- pkg:nuget/Microsoft.CodeAnalysis.EditorFeatures.Wpf@2.8.2

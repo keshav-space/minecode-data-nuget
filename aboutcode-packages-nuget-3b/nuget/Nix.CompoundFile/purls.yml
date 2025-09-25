@@ -1,0 +1,3 @@
+- pkg:nuget/Nix.CompoundFile@0.0.3
+- pkg:nuget/Nix.CompoundFile@0.0.5
+- pkg:nuget/Nix.CompoundFile@0.1.0

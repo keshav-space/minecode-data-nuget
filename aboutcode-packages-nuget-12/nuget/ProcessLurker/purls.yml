@@ -1,0 +1,4 @@
+- pkg:nuget/ProcessLurker@1.0.1
+- pkg:nuget/ProcessLurker@1.1.0
+- pkg:nuget/ProcessLurker@8.0.0
+- pkg:nuget/ProcessLurker@8.0.1

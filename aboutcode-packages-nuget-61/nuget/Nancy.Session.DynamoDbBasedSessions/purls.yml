@@ -1,0 +1,1 @@
+- pkg:nuget/Nancy.Session.DynamoDbBasedSessions@0.0.1

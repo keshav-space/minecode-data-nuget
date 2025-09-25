@@ -1,0 +1,4 @@
+- pkg:nuget/SomeDemoLib@0.0.0
+- pkg:nuget/SomeDemoLib@0.0.1
+- pkg:nuget/SomeDemoLib@0.0.2
+- pkg:nuget/SomeDemoLib@0.0.3

@@ -1,0 +1,6 @@
+- pkg:nuget/PraxiCloud-Core-Kubernetes@1.1.1
+- pkg:nuget/PraxiCloud-Core-Kubernetes@1.5.1
+- pkg:nuget/PraxiCloud-Core-Kubernetes@2.3.0
+- pkg:nuget/PraxiCloud-Core-Kubernetes@2.3.1
+- pkg:nuget/PraxiCloud-Core-Kubernetes@5.0.0
+- pkg:nuget/PraxiCloud-Core-Kubernetes@5.0.1

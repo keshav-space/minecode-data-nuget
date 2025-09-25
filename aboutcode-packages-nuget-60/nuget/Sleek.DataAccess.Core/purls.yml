@@ -1,0 +1,5 @@
+- pkg:nuget/Sleek.DataAccess.Core@1.0.4-g0b40c8b5a2
+- pkg:nuget/Sleek.DataAccess.Core@1.0.5
+- pkg:nuget/Sleek.DataAccess.Core@1.1.0
+- pkg:nuget/Sleek.DataAccess.Core@1.2.0
+- pkg:nuget/Sleek.DataAccess.Core@1.3.0

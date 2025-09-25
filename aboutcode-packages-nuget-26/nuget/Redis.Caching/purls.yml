@@ -1,0 +1,2 @@
+- pkg:nuget/Redis.Caching@1.0.0
+- pkg:nuget/Redis.Caching@1.0.1

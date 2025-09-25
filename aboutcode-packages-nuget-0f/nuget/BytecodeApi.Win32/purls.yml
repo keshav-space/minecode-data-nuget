@@ -1,0 +1,4 @@
+- pkg:nuget/BytecodeApi.Win32@3.0.0
+- pkg:nuget/BytecodeApi.Win32@3.0.1
+- pkg:nuget/BytecodeApi.Win32@3.0.2
+- pkg:nuget/BytecodeApi.Win32@4.0.0

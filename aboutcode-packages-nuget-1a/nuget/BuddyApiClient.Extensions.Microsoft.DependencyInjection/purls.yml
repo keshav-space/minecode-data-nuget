@@ -1,0 +1,2 @@
+- pkg:nuget/BuddyApiClient.Extensions.Microsoft.DependencyInjection@0.0.4-alpha
+- pkg:nuget/BuddyApiClient.Extensions.Microsoft.DependencyInjection@0.0.5-alpha

@@ -1,0 +1,6 @@
+- pkg:nuget/CastIron.Postgres@0.0.1
+- pkg:nuget/CastIron.Postgres@1.0.0
+- pkg:nuget/CastIron.Postgres@2.0.0
+- pkg:nuget/CastIron.Postgres@2.0.0-alpha3
+- pkg:nuget/CastIron.Postgres@2.0.0-alpha4
+- pkg:nuget/CastIron.Postgres@2.1.0

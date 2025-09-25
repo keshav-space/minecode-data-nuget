@@ -1,0 +1,8 @@
+- pkg:nuget/Transformalize.Logging.NLog@0.2.10-beta
+- pkg:nuget/Transformalize.Logging.NLog@0.2.2-beta
+- pkg:nuget/Transformalize.Logging.NLog@0.2.6-beta
+- pkg:nuget/Transformalize.Logging.NLog@0.2.7-beta
+- pkg:nuget/Transformalize.Logging.NLog@0.3.1-beta
+- pkg:nuget/Transformalize.Logging.NLog@0.3.13-beta
+- pkg:nuget/Transformalize.Logging.NLog@0.3.24-beta
+- pkg:nuget/Transformalize.Logging.NLog@0.5.0-beta

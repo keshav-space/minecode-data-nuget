@@ -1,0 +1,2 @@
+- pkg:nuget/Win32.Interop.Advapi32@0.2.0
+- pkg:nuget/Win32.Interop.Advapi32@0.3.0

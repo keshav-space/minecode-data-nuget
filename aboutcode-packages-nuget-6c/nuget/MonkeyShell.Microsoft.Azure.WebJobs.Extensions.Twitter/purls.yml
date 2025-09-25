@@ -1,0 +1,5 @@
+- pkg:nuget/MonkeyShell.Microsoft.Azure.WebJobs.Extensions.Twitter@1.0.0
+- pkg:nuget/MonkeyShell.Microsoft.Azure.WebJobs.Extensions.Twitter@1.1.0
+- pkg:nuget/MonkeyShell.Microsoft.Azure.WebJobs.Extensions.Twitter@1.1.0-Alpha
+- pkg:nuget/MonkeyShell.Microsoft.Azure.WebJobs.Extensions.Twitter@1.1.0-Alpha-2
+- pkg:nuget/MonkeyShell.Microsoft.Azure.WebJobs.Extensions.Twitter@1.1.0-Alpha-3

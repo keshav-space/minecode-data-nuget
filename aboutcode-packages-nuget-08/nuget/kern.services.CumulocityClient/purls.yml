@@ -1,0 +1,2 @@
+- pkg:nuget/kern.services.CumulocityClient@10.15.0
+- pkg:nuget/kern.services.CumulocityClient@10.15.1

@@ -1,0 +1,4 @@
+- pkg:nuget/NexumNovus.AppSettings.Sqlite@0.1.0%2Bbuild.5
+- pkg:nuget/NexumNovus.AppSettings.Sqlite@0.1.1%2Bbuild.7
+- pkg:nuget/NexumNovus.AppSettings.Sqlite@0.1.2%2Bbuild.31
+- pkg:nuget/NexumNovus.AppSettings.Sqlite@0.1.4%2Bbuild.64

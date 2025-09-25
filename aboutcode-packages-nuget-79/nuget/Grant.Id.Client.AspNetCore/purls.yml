@@ -1,0 +1,3 @@
+- pkg:nuget/Grant.Id.Client.AspNetCore@2.3.1
+- pkg:nuget/Grant.Id.Client.AspNetCore@2.5.0
+- pkg:nuget/Grant.Id.Client.AspNetCore@2.6.0

@@ -1,0 +1,5 @@
+- pkg:nuget/emkah.AspNetCore.DependencyInjection.AutoReg@1.0.0
+- pkg:nuget/emkah.AspNetCore.DependencyInjection.AutoReg@5.0.0
+- pkg:nuget/emkah.AspNetCore.DependencyInjection.AutoReg@5.0.1
+- pkg:nuget/emkah.AspNetCore.DependencyInjection.AutoReg@5.1.0
+- pkg:nuget/emkah.AspNetCore.DependencyInjection.AutoReg@5.2.0

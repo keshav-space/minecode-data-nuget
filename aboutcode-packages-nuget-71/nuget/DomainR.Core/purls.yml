@@ -1,0 +1,3 @@
+- pkg:nuget/DomainR.Core@0.1.0%2B0
+- pkg:nuget/DomainR.Core@0.1.1-alpha
+- pkg:nuget/DomainR.Core@0.1.2-alpha

@@ -1,0 +1,5 @@
+- pkg:nuget/EntityFrameworkCore.ConcurrentEntity@5.0.0
+- pkg:nuget/EntityFrameworkCore.ConcurrentEntity@5.0.1
+- pkg:nuget/EntityFrameworkCore.ConcurrentEntity@5.0.3
+- pkg:nuget/EntityFrameworkCore.ConcurrentEntity@5.1.0
+- pkg:nuget/EntityFrameworkCore.ConcurrentEntity@6.0.0

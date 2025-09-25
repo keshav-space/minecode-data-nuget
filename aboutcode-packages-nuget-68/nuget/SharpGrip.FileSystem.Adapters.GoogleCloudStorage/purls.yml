@@ -1,0 +1,2 @@
+- pkg:nuget/SharpGrip.FileSystem.Adapters.GoogleCloudStorage@1.2.0
+- pkg:nuget/SharpGrip.FileSystem.Adapters.GoogleCloudStorage@1.2.1

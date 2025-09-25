@@ -1,0 +1,3 @@
+- pkg:nuget/RoyalCode.DomainEvents@0.8.0
+- pkg:nuget/RoyalCode.DomainEvents@1.0.0-preview-7.0
+- pkg:nuget/RoyalCode.DomainEvents@1.0.0-preview-8.0

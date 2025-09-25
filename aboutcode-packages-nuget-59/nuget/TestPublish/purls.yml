@@ -1,0 +1,7 @@
+- pkg:nuget/TestPublish@1.0.10
+- pkg:nuget/TestPublish@1.0.10-unstable
+- pkg:nuget/TestPublish@1.0.2
+- pkg:nuget/TestPublish@1.0.6
+- pkg:nuget/TestPublish@1.0.7-unstable
+- pkg:nuget/TestPublish@1.0.8
+- pkg:nuget/TestPublish@1.0.9
