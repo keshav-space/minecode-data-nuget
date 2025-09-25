@@ -1,0 +1,5 @@
+- pkg:nuget/Extention.Microsoft.EntityFrameworkCore.DistributedCache@1.0.0
+- pkg:nuget/Extention.Microsoft.EntityFrameworkCore.DistributedCache@1.0.1
+- pkg:nuget/Extention.Microsoft.EntityFrameworkCore.DistributedCache@1.0.2
+- pkg:nuget/Extention.Microsoft.EntityFrameworkCore.DistributedCache@1.0.3
+- pkg:nuget/Extention.Microsoft.EntityFrameworkCore.DistributedCache@1.0.4

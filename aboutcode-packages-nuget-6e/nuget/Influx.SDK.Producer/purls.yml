@@ -1,0 +1,2 @@
+- pkg:nuget/Influx.SDK.Producer@0.3.2
+- pkg:nuget/Influx.SDK.Producer@0.4.0

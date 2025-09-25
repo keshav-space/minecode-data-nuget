@@ -1,0 +1,4 @@
+- pkg:nuget/HttpClientRedirectHandler@1.0.0
+- pkg:nuget/HttpClientRedirectHandler@1.0.0-beta.1
+- pkg:nuget/HttpClientRedirectHandler@1.0.0-beta.2
+- pkg:nuget/HttpClientRedirectHandler@1.0.0-beta.4

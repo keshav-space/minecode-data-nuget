@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.Prometheus.Core@1.0.49
+- pkg:nuget/Hangfire.Prometheus.Core@1.0.50

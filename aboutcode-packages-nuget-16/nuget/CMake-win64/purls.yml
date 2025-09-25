@@ -1,0 +1,2 @@
+- pkg:nuget/CMake-win64@3.12.1
+- pkg:nuget/CMake-win64@3.15.5

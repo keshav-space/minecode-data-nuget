@@ -1,0 +1,6 @@
+- pkg:nuget/RabbitSharp.ExceptionMapper.AspNetCore@1.0.0
+- pkg:nuget/RabbitSharp.ExceptionMapper.AspNetCore@1.0.0-preview.0.0
+- pkg:nuget/RabbitSharp.ExceptionMapper.AspNetCore@1.0.0-preview.1.1
+- pkg:nuget/RabbitSharp.ExceptionMapper.AspNetCore@1.0.1
+- pkg:nuget/RabbitSharp.ExceptionMapper.AspNetCore@2.0.0-preview.1.2
+- pkg:nuget/RabbitSharp.ExceptionMapper.AspNetCore@2.0.0-preview.1.3

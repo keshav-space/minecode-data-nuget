@@ -1,0 +1,4 @@
+- pkg:nuget/MayneTechnologies.Serialization.Json.Newtonsoft.Extensions.DependencyInjection@1.0.10
+- pkg:nuget/MayneTechnologies.Serialization.Json.Newtonsoft.Extensions.DependencyInjection@1.0.11
+- pkg:nuget/MayneTechnologies.Serialization.Json.Newtonsoft.Extensions.DependencyInjection@1.0.9
+- pkg:nuget/MayneTechnologies.Serialization.Json.Newtonsoft.Extensions.DependencyInjection@2023.1.0

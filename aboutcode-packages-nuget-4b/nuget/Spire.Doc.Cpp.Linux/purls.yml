@@ -1,0 +1,4 @@
+- pkg:nuget/Spire.Doc.Cpp.Linux@11.9.0
+- pkg:nuget/Spire.Doc.Cpp.Linux@12.2.1
+- pkg:nuget/Spire.Doc.Cpp.Linux@13.4.5
+- pkg:nuget/Spire.Doc.Cpp.Linux@13.8.2
