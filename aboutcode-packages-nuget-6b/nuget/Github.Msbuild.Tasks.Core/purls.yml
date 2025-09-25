@@ -1,0 +1,13 @@
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.107-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.110-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.51-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.52-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.53-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.54-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.62-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.64-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.65-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.66-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.67-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.68-prerelease
+- pkg:nuget/Github.Msbuild.Tasks.Core@1.0.91-prerelease

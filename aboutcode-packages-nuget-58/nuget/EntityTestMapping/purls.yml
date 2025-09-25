@@ -1,0 +1,10 @@
+- pkg:nuget/EntityTestMapping@1.0.0
+- pkg:nuget/EntityTestMapping@1.0.0.1
+- pkg:nuget/EntityTestMapping@1.0.0.2
+- pkg:nuget/EntityTestMapping@1.0.0.2-A
+- pkg:nuget/EntityTestMapping@1.0.0.2-B
+- pkg:nuget/EntityTestMapping@1.0.0.2-C
+- pkg:nuget/EntityTestMapping@1.0.0.2-D
+- pkg:nuget/EntityTestMapping@1.0.0.2-E
+- pkg:nuget/EntityTestMapping@1.0.0.2-F
+- pkg:nuget/EntityTestMapping@1.0.0.3

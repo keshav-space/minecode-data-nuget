@@ -1,0 +1,8 @@
+- pkg:nuget/SingleExe.Tool@1.0.0.1
+- pkg:nuget/SingleExe.Tool@1.0.0.1-alpha
+- pkg:nuget/SingleExe.Tool@1.0.0.2-alpha
+- pkg:nuget/SingleExe.Tool@1.0.1
+- pkg:nuget/SingleExe.Tool@1.0.2
+- pkg:nuget/SingleExe.Tool@1.0.3
+- pkg:nuget/SingleExe.Tool@1.0.4
+- pkg:nuget/SingleExe.Tool@1.0.5

@@ -1,0 +1,10 @@
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180414-084229
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180414-091135
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180414-121122
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180415-171925
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180415-175457
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180415-183637
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180415-185617
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180415-191349
+- pkg:nuget/UmbracoIdentity.IdentityServer@1.0.0-CI-20180415-194947

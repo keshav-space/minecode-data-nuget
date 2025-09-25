@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.AspNetCore.Identity.Service.IntegratedWebClient@0.0.1-alpha
+- pkg:nuget/Microsoft.AspNetCore.Identity.Service.IntegratedWebClient@1.0.0-preview1-final

@@ -1,0 +1,5 @@
+- pkg:nuget/NaturalStringExtensions@0.0.1-preview
+- pkg:nuget/NaturalStringExtensions@1.0.0
+- pkg:nuget/NaturalStringExtensions@2.0.0
+- pkg:nuget/NaturalStringExtensions@2.1.0
+- pkg:nuget/NaturalStringExtensions@3.0.0

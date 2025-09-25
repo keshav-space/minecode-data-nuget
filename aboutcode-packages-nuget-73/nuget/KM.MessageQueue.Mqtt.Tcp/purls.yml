@@ -1,0 +1,2 @@
+- pkg:nuget/KM.MessageQueue.Mqtt.Tcp@1.0.0
+- pkg:nuget/KM.MessageQueue.Mqtt.Tcp@2.0.0

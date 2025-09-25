@@ -1,0 +1,2 @@
+- pkg:nuget/RedisRateLimiting.AspNetCore.NS@1.1.0-ns1
+- pkg:nuget/RedisRateLimiting.AspNetCore.NS@1.1.0-ns2

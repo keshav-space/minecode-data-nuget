@@ -1,0 +1,5 @@
+- pkg:nuget/ScaleUp.MongoDB.EntityFrameworkCore@1.0.0
+- pkg:nuget/ScaleUp.MongoDB.EntityFrameworkCore@8.0.0
+- pkg:nuget/ScaleUp.MongoDB.EntityFrameworkCore@8.0.1
+- pkg:nuget/ScaleUp.MongoDB.EntityFrameworkCore@8.0.2
+- pkg:nuget/ScaleUp.MongoDB.EntityFrameworkCore@8.0.2-preview.1.240516

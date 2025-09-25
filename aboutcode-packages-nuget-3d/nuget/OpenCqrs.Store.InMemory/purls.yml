@@ -1,0 +1,2 @@
+- pkg:nuget/OpenCqrs.Store.InMemory@1.0.7
+- pkg:nuget/OpenCqrs.Store.InMemory@1.0.8

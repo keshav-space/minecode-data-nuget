@@ -1,0 +1,3 @@
+- pkg:nuget/Loby.AspNetCore@0.1.0
+- pkg:nuget/Loby.AspNetCore@1.0.0
+- pkg:nuget/Loby.AspNetCore@1.1.0

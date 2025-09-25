@@ -1,0 +1,5 @@
+- pkg:nuget/Invedia.Queue.AzureServiceBus@2021.6.23.1
+- pkg:nuget/Invedia.Queue.AzureServiceBus@2021.6.23.2
+- pkg:nuget/Invedia.Queue.AzureServiceBus@2021.7.22.1
+- pkg:nuget/Invedia.Queue.AzureServiceBus@2021.9.15.1
+- pkg:nuget/Invedia.Queue.AzureServiceBus@2021.9.15.2

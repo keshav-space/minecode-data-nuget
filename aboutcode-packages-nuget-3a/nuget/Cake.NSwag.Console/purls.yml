@@ -1,0 +1,5 @@
+- pkg:nuget/Cake.NSwag.Console@0.1.0
+- pkg:nuget/Cake.NSwag.Console@0.1.0-unstable0001
+- pkg:nuget/Cake.NSwag.Console@0.1.0-unstable0002
+- pkg:nuget/Cake.NSwag.Console@0.1.1
+- pkg:nuget/Cake.NSwag.Console@0.2.0-unstable0000

@@ -1,0 +1,3 @@
+- pkg:nuget/Abplab.Redis@0.1.2
+- pkg:nuget/Abplab.Redis@0.1.3
+- pkg:nuget/Abplab.Redis@0.1.4

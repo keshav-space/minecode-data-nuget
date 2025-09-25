@@ -1,0 +1,5 @@
+- pkg:nuget/PKISharp.SimplePKI@1.0.0.49-beta1
+- pkg:nuget/PKISharp.SimplePKI@1.0.1.105
+- pkg:nuget/PKISharp.SimplePKI@2.0.1.136
+- pkg:nuget/PKISharp.SimplePKI@2.0.1.146
+- pkg:nuget/PKISharp.SimplePKI@2.0.1.148

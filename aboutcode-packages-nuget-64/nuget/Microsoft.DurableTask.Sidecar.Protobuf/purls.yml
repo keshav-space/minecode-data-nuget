@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.DurableTask.Sidecar.Protobuf@0.3.0
+- pkg:nuget/Microsoft.DurableTask.Sidecar.Protobuf@0.3.1
+- pkg:nuget/Microsoft.DurableTask.Sidecar.Protobuf@1.0.0
+- pkg:nuget/Microsoft.DurableTask.Sidecar.Protobuf@1.1.0
+- pkg:nuget/Microsoft.DurableTask.Sidecar.Protobuf@1.1.2

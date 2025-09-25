@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Rpc@3.0.37
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Rpc@3.0.39
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Rpc@3.0.41
+- pkg:nuget/Microsoft.Azure.WebJobs.Extensions.Rpc@3.0.42

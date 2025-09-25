@@ -1,0 +1,10 @@
+- pkg:nuget/NuGet.Services.Platform@3.0.25-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.26-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.27-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.28-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.29-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.30-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.31-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.32-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.33-r-master
+- pkg:nuget/NuGet.Services.Platform@3.0.34-r-master

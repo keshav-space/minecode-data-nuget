@@ -1,0 +1,4 @@
+- pkg:nuget/TreeNodes.Microsoft.Extensions.DependencyInjection@1.0.0-alpha-a1
+- pkg:nuget/TreeNodes.Microsoft.Extensions.DependencyInjection@1.0.0-alpha-a2
+- pkg:nuget/TreeNodes.Microsoft.Extensions.DependencyInjection@7.0.0
+- pkg:nuget/TreeNodes.Microsoft.Extensions.DependencyInjection@7.0.1

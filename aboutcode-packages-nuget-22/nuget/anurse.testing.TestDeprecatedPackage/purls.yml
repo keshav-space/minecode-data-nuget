@@ -1,0 +1,2 @@
+- pkg:nuget/anurse.testing.TestDeprecatedPackage@1.0.0
+- pkg:nuget/anurse.testing.TestDeprecatedPackage@2.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.ServerExtension@1.3.2-beta7
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.ServerExtension@1.4.0
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.ServerExtension@1.4.1-beta6
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.ServerExtension@1.5.0

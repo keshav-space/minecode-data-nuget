@@ -1,0 +1,5 @@
+- pkg:nuget/DBUtility.TDengine.GenericHost@7.0.0
+- pkg:nuget/DBUtility.TDengine.GenericHost@7.0.1
+- pkg:nuget/DBUtility.TDengine.GenericHost@7.3.0
+- pkg:nuget/DBUtility.TDengine.GenericHost@8.0.0
+- pkg:nuget/DBUtility.TDengine.GenericHost@9.0.0

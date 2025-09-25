@@ -1,0 +1,4 @@
+- pkg:nuget/Xamarin.GooglePlayServicesKitKat@16.0.0
+- pkg:nuget/Xamarin.GooglePlayServicesKitKat@18.0.0
+- pkg:nuget/Xamarin.GooglePlayServicesKitKat@18.0.0.1
+- pkg:nuget/Xamarin.GooglePlayServicesKitKat@19.0.0

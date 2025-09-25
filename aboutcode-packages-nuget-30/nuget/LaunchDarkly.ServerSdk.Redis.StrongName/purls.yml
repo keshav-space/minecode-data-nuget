@@ -1,0 +1,4 @@
+- pkg:nuget/LaunchDarkly.ServerSdk.Redis.StrongName@1.1.1
+- pkg:nuget/LaunchDarkly.ServerSdk.Redis.StrongName@1.2.0
+- pkg:nuget/LaunchDarkly.ServerSdk.Redis.StrongName@1.2.0-alpha.1
+- pkg:nuget/LaunchDarkly.ServerSdk.Redis.StrongName@1.2.1

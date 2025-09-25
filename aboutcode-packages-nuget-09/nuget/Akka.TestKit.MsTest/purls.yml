@@ -1,0 +1,2 @@
+- pkg:nuget/Akka.TestKit.MsTest@1.4.48
+- pkg:nuget/Akka.TestKit.MsTest@1.5.0

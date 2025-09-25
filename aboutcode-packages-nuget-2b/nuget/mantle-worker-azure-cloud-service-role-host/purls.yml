@@ -1,0 +1,4 @@
+- pkg:nuget/mantle-worker-azure-cloud-service-role-host@1.0.0-beta
+- pkg:nuget/mantle-worker-azure-cloud-service-role-host@1.0.1-beta
+- pkg:nuget/mantle-worker-azure-cloud-service-role-host@1.0.2-beta
+- pkg:nuget/mantle-worker-azure-cloud-service-role-host@1.0.3-beta

@@ -1,0 +1,5 @@
+- pkg:nuget/SenseNet.Notification@7.0.0
+- pkg:nuget/SenseNet.Notification@7.0.0-beta1
+- pkg:nuget/SenseNet.Notification@7.1.0
+- pkg:nuget/SenseNet.Notification@7.2.0
+- pkg:nuget/SenseNet.Notification@7.2.1

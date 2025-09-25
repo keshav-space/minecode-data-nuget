@@ -1,0 +1,5 @@
+- pkg:nuget/Arcaim.Exception@1.0.0
+- pkg:nuget/Arcaim.Exception@6.0.0
+- pkg:nuget/Arcaim.Exception@7.0.0-preview7
+- pkg:nuget/Arcaim.Exception@7.0.8
+- pkg:nuget/Arcaim.Exception@8.0.0

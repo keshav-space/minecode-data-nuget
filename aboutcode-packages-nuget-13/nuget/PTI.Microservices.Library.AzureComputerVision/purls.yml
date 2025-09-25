@@ -1,0 +1,6 @@
+- pkg:nuget/PTI.Microservices.Library.AzureComputerVision@2.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.AzureComputerVision@6.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.AzureComputerVision@7.0.0
+- pkg:nuget/PTI.Microservices.Library.AzureComputerVision@7.0.0.1
+- pkg:nuget/PTI.Microservices.Library.AzureComputerVision@7.0.0.2
+- pkg:nuget/PTI.Microservices.Library.AzureComputerVision@7.0.0.3

@@ -1,0 +1,4 @@
+- pkg:nuget/PaddleSharpLocal.RuntimeTools@1.0.0
+- pkg:nuget/PaddleSharpLocal.RuntimeTools@1.0.1
+- pkg:nuget/PaddleSharpLocal.RuntimeTools@1.0.1-alpha1
+- pkg:nuget/PaddleSharpLocal.RuntimeTools@1.2.0
