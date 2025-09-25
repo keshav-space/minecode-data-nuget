@@ -1,0 +1,3 @@
+- pkg:nuget/Xbc.Data.DbAccess.OleDb@1.1.0
+- pkg:nuget/Xbc.Data.DbAccess.OleDb@1.2.1
+- pkg:nuget/Xbc.Data.DbAccess.OleDb@1.2.2

@@ -1,0 +1,2 @@
+- pkg:nuget/Redpanda.Extensions.OpenFaaS.Configuration@0.3.0
+- pkg:nuget/Redpanda.Extensions.OpenFaaS.Configuration@0.3.1

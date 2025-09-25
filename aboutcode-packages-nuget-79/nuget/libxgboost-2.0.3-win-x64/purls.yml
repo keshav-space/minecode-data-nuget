@@ -1,0 +1,3 @@
+- pkg:nuget/libxgboost-2.0.3-win-x64@1.0.0
+- pkg:nuget/libxgboost-2.0.3-win-x64@1.0.0-preview.1
+- pkg:nuget/libxgboost-2.0.3-win-x64@1.0.0-preview.2

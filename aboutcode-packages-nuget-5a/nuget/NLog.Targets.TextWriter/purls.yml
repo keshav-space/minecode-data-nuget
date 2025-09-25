@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.Targets.TextWriter@1.0.2
+- pkg:nuget/NLog.Targets.TextWriter@1.2.0

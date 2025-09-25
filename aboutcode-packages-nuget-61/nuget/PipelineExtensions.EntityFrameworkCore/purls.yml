@@ -1,0 +1,7 @@
+- pkg:nuget/PipelineExtensions.EntityFrameworkCore@0.1.0
+- pkg:nuget/PipelineExtensions.EntityFrameworkCore@3.1.0
+- pkg:nuget/PipelineExtensions.EntityFrameworkCore@5.0.0
+- pkg:nuget/PipelineExtensions.EntityFrameworkCore@6.0.0
+- pkg:nuget/PipelineExtensions.EntityFrameworkCore@7.0.0
+- pkg:nuget/PipelineExtensions.EntityFrameworkCore@7.0.1
+- pkg:nuget/PipelineExtensions.EntityFrameworkCore@8.0.0

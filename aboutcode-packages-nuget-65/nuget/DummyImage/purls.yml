@@ -1,0 +1,3 @@
+- pkg:nuget/DummyImage@1.0.0
+- pkg:nuget/DummyImage@1.1.0
+- pkg:nuget/DummyImage@1.2.0

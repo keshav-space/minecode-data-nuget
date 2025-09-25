@@ -1,0 +1,9 @@
+- pkg:nuget/ConsoleInputReader@1.0.0
+- pkg:nuget/ConsoleInputReader@1.1.0
+- pkg:nuget/ConsoleInputReader@2.1.0-preview
+- pkg:nuget/ConsoleInputReader@2.2.0-preview
+- pkg:nuget/ConsoleInputReader@2.2.1-preview
+- pkg:nuget/ConsoleInputReader@2.2.2-preview
+- pkg:nuget/ConsoleInputReader@2.3.3-preview
+- pkg:nuget/ConsoleInputReader@2.4.3-preview
+- pkg:nuget/ConsoleInputReader@2.4.4

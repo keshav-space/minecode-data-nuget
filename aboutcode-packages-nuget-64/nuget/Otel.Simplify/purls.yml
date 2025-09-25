@@ -1,0 +1,4 @@
+- pkg:nuget/Otel.Simplify@1.0.0
+- pkg:nuget/Otel.Simplify@1.0.0-beta.1
+- pkg:nuget/Otel.Simplify@1.0.0-rc.1
+- pkg:nuget/Otel.Simplify@1.0.0-rc.2

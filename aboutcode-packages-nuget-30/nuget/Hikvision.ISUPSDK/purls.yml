@@ -1,0 +1,4 @@
+- pkg:nuget/Hikvision.ISUPSDK@1.0.0
+- pkg:nuget/Hikvision.ISUPSDK@2.5.0.35-preview2
+- pkg:nuget/Hikvision.ISUPSDK@2.5.0.35-preview4
+- pkg:nuget/Hikvision.ISUPSDK@2.5.0.35-preview6

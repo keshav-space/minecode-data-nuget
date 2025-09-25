@@ -1,0 +1,10 @@
+- pkg:nuget/Lockbox.Client@1.0.0
+- pkg:nuget/Lockbox.Client@1.0.0-alpha-1
+- pkg:nuget/Lockbox.Client@1.0.0-alpha-2
+- pkg:nuget/Lockbox.Client@1.0.0-alpha-3
+- pkg:nuget/Lockbox.Client@1.0.0-alpha-4
+- pkg:nuget/Lockbox.Client@1.0.0-beta-1
+- pkg:nuget/Lockbox.Client@1.0.0-beta-2
+- pkg:nuget/Lockbox.Client@2.0.0
+- pkg:nuget/Lockbox.Client@2.0.1
+- pkg:nuget/Lockbox.Client@2.0.2

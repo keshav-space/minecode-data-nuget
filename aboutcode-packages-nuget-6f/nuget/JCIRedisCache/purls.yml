@@ -1,0 +1,4 @@
+- pkg:nuget/JCIRedisCache@1.0.0
+- pkg:nuget/JCIRedisCache@2.0.0
+- pkg:nuget/JCIRedisCache@3.0.0
+- pkg:nuget/JCIRedisCache@4.0.0

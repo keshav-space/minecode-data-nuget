@@ -1,0 +1,4 @@
+- pkg:nuget/Pulumi.Statuspage@0.1.10
+- pkg:nuget/Pulumi.Statuspage@0.1.13
+- pkg:nuget/Pulumi.Statuspage@0.1.14
+- pkg:nuget/Pulumi.Statuspage@0.2.0

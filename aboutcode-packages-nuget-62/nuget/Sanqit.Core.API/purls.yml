@@ -1,0 +1,15 @@
+- pkg:nuget/Sanqit.Core.API@1.0.0-dev
+- pkg:nuget/Sanqit.Core.API@1.0.1-dev
+- pkg:nuget/Sanqit.Core.API@1.0.10-dev
+- pkg:nuget/Sanqit.Core.API@1.0.2-dev
+- pkg:nuget/Sanqit.Core.API@1.0.3-dev
+- pkg:nuget/Sanqit.Core.API@1.0.4-dev
+- pkg:nuget/Sanqit.Core.API@1.0.5-dev
+- pkg:nuget/Sanqit.Core.API@1.0.6-dev
+- pkg:nuget/Sanqit.Core.API@1.0.7-dev
+- pkg:nuget/Sanqit.Core.API@1.0.8-dev
+- pkg:nuget/Sanqit.Core.API@1.0.9-dev
+- pkg:nuget/Sanqit.Core.API@7.0.0
+- pkg:nuget/Sanqit.Core.API@7.0.1
+- pkg:nuget/Sanqit.Core.API@8.0.0
+- pkg:nuget/Sanqit.Core.API@8.0.1

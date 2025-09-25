@@ -1,0 +1,6 @@
+- pkg:nuget/AutoRefreshTokenHttpMessageHandler@1.0.0
+- pkg:nuget/AutoRefreshTokenHttpMessageHandler@1.0.0-beta
+- pkg:nuget/AutoRefreshTokenHttpMessageHandler@1.1.0
+- pkg:nuget/AutoRefreshTokenHttpMessageHandler@1.1.1
+- pkg:nuget/AutoRefreshTokenHttpMessageHandler@1.1.2
+- pkg:nuget/AutoRefreshTokenHttpMessageHandler@1.1.3

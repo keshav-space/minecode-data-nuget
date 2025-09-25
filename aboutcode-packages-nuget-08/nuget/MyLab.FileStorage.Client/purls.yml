@@ -1,0 +1,6 @@
+- pkg:nuget/MyLab.FileStorage.Client@1.0.0
+- pkg:nuget/MyLab.FileStorage.Client@1.0.1
+- pkg:nuget/MyLab.FileStorage.Client@1.1.2
+- pkg:nuget/MyLab.FileStorage.Client@1.2.2
+- pkg:nuget/MyLab.FileStorage.Client@1.4.3
+- pkg:nuget/MyLab.FileStorage.Client@1.4.4

@@ -1,0 +1,4 @@
+- pkg:nuget/Xbc.Data.DbAccess.Oracle@1.0.0
+- pkg:nuget/Xbc.Data.DbAccess.Oracle@1.1.0
+- pkg:nuget/Xbc.Data.DbAccess.Oracle@1.2.1
+- pkg:nuget/Xbc.Data.DbAccess.Oracle@1.2.2

@@ -1,0 +1,5 @@
+- pkg:nuget/SangAdv.API.Cloud@2.6.1
+- pkg:nuget/SangAdv.API.Cloud@2.7.0
+- pkg:nuget/SangAdv.API.Cloud@3.0.0
+- pkg:nuget/SangAdv.API.Cloud@3.1.0-beta
+- pkg:nuget/SangAdv.API.Cloud@3.1.1-beta

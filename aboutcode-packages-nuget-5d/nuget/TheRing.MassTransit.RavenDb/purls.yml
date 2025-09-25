@@ -1,0 +1,4 @@
+- pkg:nuget/TheRing.MassTransit.RavenDb@1.0.0
+- pkg:nuget/TheRing.MassTransit.RavenDb@1.1.1
+- pkg:nuget/TheRing.MassTransit.RavenDb@1.1.2
+- pkg:nuget/TheRing.MassTransit.RavenDb@1.2.0

@@ -1,0 +1,8 @@
+- pkg:nuget/dekoeky.hello-world@1.0.0
+- pkg:nuget/dekoeky.hello-world@1.0.1-alpha
+- pkg:nuget/dekoeky.hello-world@1.0.2-alpha
+- pkg:nuget/dekoeky.hello-world@1.0.3-dev-001
+- pkg:nuget/dekoeky.hello-world@1.0.3-dev-002
+- pkg:nuget/dekoeky.hello-world@1.0.4-dev-002
+- pkg:nuget/dekoeky.hello-world@1.0.5
+- pkg:nuget/dekoeky.hello-world@1.0.5-dev-002

@@ -1,0 +1,7 @@
+- pkg:nuget/libxgboost-2.0.3-osx-x64@1.0.0
+- pkg:nuget/libxgboost-2.0.3-osx-x64@1.0.0-preview.11
+- pkg:nuget/libxgboost-2.0.3-osx-x64@1.0.0-preview.2
+- pkg:nuget/libxgboost-2.0.3-osx-x64@1.0.0-preview.3
+- pkg:nuget/libxgboost-2.0.3-osx-x64@1.0.0-preview.4
+- pkg:nuget/libxgboost-2.0.3-osx-x64@1.0.0-preview.9
+- pkg:nuget/libxgboost-2.0.3-osx-x64@1.0.1

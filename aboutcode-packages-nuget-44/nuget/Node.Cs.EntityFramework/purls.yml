@@ -1,0 +1,7 @@
+- pkg:nuget/Node.Cs.EntityFramework@1.0.5-beta
+- pkg:nuget/Node.Cs.EntityFramework@1.0.6-beta
+- pkg:nuget/Node.Cs.EntityFramework@1.0.7-beta
+- pkg:nuget/Node.Cs.EntityFramework@1.1.0
+- pkg:nuget/Node.Cs.EntityFramework@1.2.0
+- pkg:nuget/Node.Cs.EntityFramework@1.2.1
+- pkg:nuget/Node.Cs.EntityFramework@1.2.2

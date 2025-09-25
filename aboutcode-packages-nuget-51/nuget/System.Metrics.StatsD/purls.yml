@@ -1,0 +1,5 @@
+- pkg:nuget/System.Metrics.StatsD@1.0.0-alpha
+- pkg:nuget/System.Metrics.StatsD@1.0.0-alpha1
+- pkg:nuget/System.Metrics.StatsD@1.0.0-alpha2
+- pkg:nuget/System.Metrics.StatsD@1.0.0-alpha3
+- pkg:nuget/System.Metrics.StatsD@1.0.0-alpha4

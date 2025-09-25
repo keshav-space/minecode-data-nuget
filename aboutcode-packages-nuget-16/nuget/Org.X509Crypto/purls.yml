@@ -1,0 +1,4 @@
+- pkg:nuget/Org.X509Crypto@1.0.0
+- pkg:nuget/Org.X509Crypto@1.1.0
+- pkg:nuget/Org.X509Crypto@1.1.0-beta
+- pkg:nuget/Org.X509Crypto@1.3.0

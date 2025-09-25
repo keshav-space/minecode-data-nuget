@@ -1,0 +1,4 @@
+- pkg:nuget/GroupDocs.Assembly-Cloud@19.3.0
+- pkg:nuget/GroupDocs.Assembly-Cloud@20.6.0
+- pkg:nuget/GroupDocs.Assembly-Cloud@20.8.0
+- pkg:nuget/GroupDocs.Assembly-Cloud@21.1.0

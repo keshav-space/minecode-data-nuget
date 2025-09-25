@@ -1,0 +1,2 @@
+- pkg:nuget/NLog.Targets.AzureEventHub.EMP@1.0.0.401
+- pkg:nuget/NLog.Targets.AzureEventHub.EMP@1.0.0.402

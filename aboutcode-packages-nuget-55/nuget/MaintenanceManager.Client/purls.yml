@@ -1,0 +1,4 @@
+- pkg:nuget/MaintenanceManager.Client@14.0.0
+- pkg:nuget/MaintenanceManager.Client@14.0.0-beta001
+- pkg:nuget/MaintenanceManager.Client@14.0.0-rc2
+- pkg:nuget/MaintenanceManager.Client@15.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/DotNetStatic@1.0.0-CI-20200501-140345
+- pkg:nuget/DotNetStatic@1.0.0-CI-20200501-144058
+- pkg:nuget/DotNetStatic@1.0.0-CI-20200501-150223
+- pkg:nuget/DotNetStatic@1.0.0-CI-20200501-151459
+- pkg:nuget/DotNetStatic@1.0.0-CI-20200501-163032
+- pkg:nuget/DotNetStatic@1.0.1

@@ -1,0 +1,4 @@
+- pkg:nuget/ChatbotProject.Common.Infrastructure.Mongo@0.2.2
+- pkg:nuget/ChatbotProject.Common.Infrastructure.Mongo@0.2.3
+- pkg:nuget/ChatbotProject.Common.Infrastructure.Mongo@0.3.1
+- pkg:nuget/ChatbotProject.Common.Infrastructure.Mongo@0.4.1

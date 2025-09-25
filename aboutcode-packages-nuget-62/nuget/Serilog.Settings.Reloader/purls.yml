@@ -1,0 +1,5 @@
+- pkg:nuget/Serilog.Settings.Reloader@2.0.9
+- pkg:nuget/Serilog.Settings.Reloader@2.0.9.1
+- pkg:nuget/Serilog.Settings.Reloader@2.0.9.2
+- pkg:nuget/Serilog.Settings.Reloader@2.0.9.3
+- pkg:nuget/Serilog.Settings.Reloader@2.10.0

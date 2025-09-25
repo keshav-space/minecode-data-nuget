@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.HostIntegration.LogicApps.DrdaClient@1.0.1569.3-preview
+- pkg:nuget/Microsoft.HostIntegration.LogicApps.DrdaClient@1.0.1605.8
+- pkg:nuget/Microsoft.HostIntegration.LogicApps.DrdaClient@1.0.1717.11

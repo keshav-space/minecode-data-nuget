@@ -1,0 +1,4 @@
+- pkg:nuget/7-Zip.NativeAssets.Win32@21.7.0-preview.1
+- pkg:nuget/7-Zip.NativeAssets.Win32@22.1.0
+- pkg:nuget/7-Zip.NativeAssets.Win32@23.1.0
+- pkg:nuget/7-Zip.NativeAssets.Win32@24.5.0

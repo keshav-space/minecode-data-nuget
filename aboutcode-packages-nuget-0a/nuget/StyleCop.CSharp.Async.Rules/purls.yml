@@ -1,0 +1,7 @@
+- pkg:nuget/StyleCop.CSharp.Async.Rules@0.0.1
+- pkg:nuget/StyleCop.CSharp.Async.Rules@0.5.14
+- pkg:nuget/StyleCop.CSharp.Async.Rules@0.5.16
+- pkg:nuget/StyleCop.CSharp.Async.Rules@1.0.31-beta
+- pkg:nuget/StyleCop.CSharp.Async.Rules@1.0.32
+- pkg:nuget/StyleCop.CSharp.Async.Rules@6.1.40-pre
+- pkg:nuget/StyleCop.CSharp.Async.Rules@6.1.41

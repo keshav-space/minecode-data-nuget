@@ -1,0 +1,5 @@
+- pkg:nuget/Satori.RTM.SDK@1.0.0-alpha
+- pkg:nuget/Satori.RTM.SDK@1.0.0-beta
+- pkg:nuget/Satori.RTM.SDK@1.0.1-beta
+- pkg:nuget/Satori.RTM.SDK@1.0.2-beta
+- pkg:nuget/Satori.RTM.SDK@1.0.3

@@ -1,0 +1,3 @@
+- pkg:nuget/7-Zip.NativeAssets.Linux@21.7.0-preview.1
+- pkg:nuget/7-Zip.NativeAssets.Linux@22.1.0
+- pkg:nuget/7-Zip.NativeAssets.Linux@24.5.0

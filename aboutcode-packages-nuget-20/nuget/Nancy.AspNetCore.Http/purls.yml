@@ -1,0 +1,4 @@
+- pkg:nuget/Nancy.AspNetCore.Http@0.1.0
+- pkg:nuget/Nancy.AspNetCore.Http@1.0.0
+- pkg:nuget/Nancy.AspNetCore.Http@1.0.1
+- pkg:nuget/Nancy.AspNetCore.Http@2.0.0

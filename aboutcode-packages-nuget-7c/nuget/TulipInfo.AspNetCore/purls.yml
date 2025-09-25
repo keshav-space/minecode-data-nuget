@@ -1,0 +1,4 @@
+- pkg:nuget/TulipInfo.AspNetCore@6.0.0
+- pkg:nuget/TulipInfo.AspNetCore@7.0.0
+- pkg:nuget/TulipInfo.AspNetCore@8.0.0
+- pkg:nuget/TulipInfo.AspNetCore@8.1.0

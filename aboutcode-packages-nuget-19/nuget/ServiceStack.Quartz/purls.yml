@@ -1,0 +1,5 @@
+- pkg:nuget/ServiceStack.Quartz@0.1.0
+- pkg:nuget/ServiceStack.Quartz@5.2.0
+- pkg:nuget/ServiceStack.Quartz@5.3.0
+- pkg:nuget/ServiceStack.Quartz@5.6.0
+- pkg:nuget/ServiceStack.Quartz@5.8.0

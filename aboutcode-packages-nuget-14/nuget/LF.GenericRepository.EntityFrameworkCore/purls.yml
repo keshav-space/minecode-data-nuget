@@ -1,0 +1,6 @@
+- pkg:nuget/LF.GenericRepository.EntityFrameworkCore@1.0.0
+- pkg:nuget/LF.GenericRepository.EntityFrameworkCore@2.0.0
+- pkg:nuget/LF.GenericRepository.EntityFrameworkCore@2.1.0
+- pkg:nuget/LF.GenericRepository.EntityFrameworkCore@2.2.0
+- pkg:nuget/LF.GenericRepository.EntityFrameworkCore@2.2.1
+- pkg:nuget/LF.GenericRepository.EntityFrameworkCore@2.2.2

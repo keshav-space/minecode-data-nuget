@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.1.0
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.1.0-CI-20231125-225528
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.1.0-rc.2.20231126.0
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.1.0-rc.2.20231126.1
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.1.0-rc.2.20231127.0
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.1.1
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.1.1-CI-20240706-232326
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.1.1-rc.1.20240710.0
+- pkg:nuget/Microsoft.Restier.AspNetCore.Swagger@1.2.0-CI-20241128-062359

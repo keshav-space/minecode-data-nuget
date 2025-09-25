@@ -1,0 +1,2 @@
+- pkg:nuget/AgentHub.Abp.Account.Web.IdentityServer@4.3.3
+- pkg:nuget/AgentHub.Abp.Account.Web.IdentityServer@5.0.0
