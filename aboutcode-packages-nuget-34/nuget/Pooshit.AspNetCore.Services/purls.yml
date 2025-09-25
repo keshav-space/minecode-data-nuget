@@ -1,0 +1,5 @@
+- pkg:nuget/Pooshit.AspNetCore.Services@0.6.5-preview
+- pkg:nuget/Pooshit.AspNetCore.Services@0.6.6-preview
+- pkg:nuget/Pooshit.AspNetCore.Services@0.6.7-preview
+- pkg:nuget/Pooshit.AspNetCore.Services@0.6.8-preview
+- pkg:nuget/Pooshit.AspNetCore.Services@0.6.9-preview

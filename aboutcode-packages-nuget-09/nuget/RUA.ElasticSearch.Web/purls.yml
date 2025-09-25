@@ -1,0 +1,4 @@
+- pkg:nuget/RUA.ElasticSearch.Web@1.1.1
+- pkg:nuget/RUA.ElasticSearch.Web@3.3.13
+- pkg:nuget/RUA.ElasticSearch.Web@3.3.2
+- pkg:nuget/RUA.ElasticSearch.Web@3.3.8

@@ -1,0 +1,5 @@
+- pkg:nuget/Renci.TrelloNet.Client@0.0.1
+- pkg:nuget/Renci.TrelloNet.Client@0.0.2
+- pkg:nuget/Renci.TrelloNet.Client@0.0.5
+- pkg:nuget/Renci.TrelloNet.Client@0.0.8
+- pkg:nuget/Renci.TrelloNet.Client@1.0.0

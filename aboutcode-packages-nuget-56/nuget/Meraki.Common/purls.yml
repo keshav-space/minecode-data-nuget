@@ -1,0 +1,4 @@
+- pkg:nuget/Meraki.Common@1.0.0
+- pkg:nuget/Meraki.Common@1.0.1-alpha
+- pkg:nuget/Meraki.Common@1.0.1-beta.69
+- pkg:nuget/Meraki.Common@2.0.0

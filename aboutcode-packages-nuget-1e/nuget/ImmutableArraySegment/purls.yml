@@ -1,0 +1,7 @@
+- pkg:nuget/ImmutableArraySegment@0.1.0%2B10
+- pkg:nuget/ImmutableArraySegment@0.2.0
+- pkg:nuget/ImmutableArraySegment@0.3.3
+- pkg:nuget/ImmutableArraySegment@0.4.0
+- pkg:nuget/ImmutableArraySegment@0.4.1
+- pkg:nuget/ImmutableArraySegment@0.5.0
+- pkg:nuget/ImmutableArraySegment@0.5.1

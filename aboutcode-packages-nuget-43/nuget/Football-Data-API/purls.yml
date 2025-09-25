@@ -1,0 +1,13 @@
+- pkg:nuget/Football-Data-API@0.1.0-CI00002
+- pkg:nuget/Football-Data-API@0.1.0-CI00003
+- pkg:nuget/Football-Data-API@1.0.0
+- pkg:nuget/Football-Data-API@1.1.0
+- pkg:nuget/Football-Data-API@2.0.0
+- pkg:nuget/Football-Data-API@2.0.0-CI.2
+- pkg:nuget/Football-Data-API@2.0.0-CI.3
+- pkg:nuget/Football-Data-API@2.0.0-CI.4
+- pkg:nuget/Football-Data-API@2.1.4-ci
+- pkg:nuget/Football-Data-API@2.1.5-ci
+- pkg:nuget/Football-Data-API@2.1.6-ci
+- pkg:nuget/Football-Data-API@2.1.9-ci
+- pkg:nuget/Football-Data-API@2018.11.11.4

@@ -1,0 +1,13 @@
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@5.0.0
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@5.0.1
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@5.0.2
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@5.1.0
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@6.0.0
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@7.0.0
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@7.0.0-rc.2
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@8.0.0
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@8.0.1
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@9.0.0
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@9.1.0
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@9.2.0
+- pkg:nuget/EntityFrameworkCore.Sqlite.NodaTime@9.2.1

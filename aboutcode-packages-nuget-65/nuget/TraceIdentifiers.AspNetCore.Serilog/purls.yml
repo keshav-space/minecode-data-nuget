@@ -1,0 +1,2 @@
+- pkg:nuget/TraceIdentifiers.AspNetCore.Serilog@1.0.0
+- pkg:nuget/TraceIdentifiers.AspNetCore.Serilog@1.0.1

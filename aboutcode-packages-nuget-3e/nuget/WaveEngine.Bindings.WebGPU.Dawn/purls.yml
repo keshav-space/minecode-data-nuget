@@ -1,0 +1,5 @@
+- pkg:nuget/WaveEngine.Bindings.WebGPU.Dawn@3.1003.967
+- pkg:nuget/WaveEngine.Bindings.WebGPU.Dawn@3.1005.592-beta
+- pkg:nuget/WaveEngine.Bindings.WebGPU.Dawn@3.1005.714-beta
+- pkg:nuget/WaveEngine.Bindings.WebGPU.Dawn@3.1005.718-beta
+- pkg:nuget/WaveEngine.Bindings.WebGPU.Dawn@3.1030.777-beta

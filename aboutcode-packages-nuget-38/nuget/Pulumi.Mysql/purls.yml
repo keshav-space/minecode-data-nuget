@@ -1,0 +1,7 @@
+- pkg:nuget/Pulumi.Mysql@1.1.0-preview-
+- pkg:nuget/Pulumi.Mysql@1.1.0-preview-alpha.1572726904%2Bgbc7bfb2
+- pkg:nuget/Pulumi.Mysql@1.1.0-preview-alpha.1573579215%2Bg1a1537d
+- pkg:nuget/Pulumi.Mysql@1.2.0-preview
+- pkg:nuget/Pulumi.Mysql@1.2.0-preview-alpha.1574006313%2Bga2c65fd
+- pkg:nuget/Pulumi.Mysql@1.2.0-preview-alpha.1574692994%2Bg1410eb8
+- pkg:nuget/Pulumi.Mysql@1.2.0-preview-alpha.1575303778%2Bg48288ad

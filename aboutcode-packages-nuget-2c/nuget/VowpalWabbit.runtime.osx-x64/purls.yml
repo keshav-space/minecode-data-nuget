@@ -1,0 +1,5 @@
+- pkg:nuget/VowpalWabbit.runtime.osx-x64@9.4.0%2Bebf709fa2
+- pkg:nuget/VowpalWabbit.runtime.osx-x64@9.5.0%2B9496a6dd5
+- pkg:nuget/VowpalWabbit.runtime.osx-x64@9.6.0%2B16e9114f4
+- pkg:nuget/VowpalWabbit.runtime.osx-x64@9.8.0%2B258731cd1
+- pkg:nuget/VowpalWabbit.runtime.osx-x64@9.9.0%2B9db1f5ffd

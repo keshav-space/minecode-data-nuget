@@ -1,0 +1,12 @@
+- pkg:nuget/NLog.Targets.Splunk@0.0.1
+- pkg:nuget/NLog.Targets.Splunk@1.0.0
+- pkg:nuget/NLog.Targets.Splunk@2.0.0
+- pkg:nuget/NLog.Targets.Splunk@2.0.0-rc
+- pkg:nuget/NLog.Targets.Splunk@2.1.0
+- pkg:nuget/NLog.Targets.Splunk@2.1.0-rc01
+- pkg:nuget/NLog.Targets.Splunk@2.1.0-rc02
+- pkg:nuget/NLog.Targets.Splunk@2.1.0-rc03
+- pkg:nuget/NLog.Targets.Splunk@2.2.0
+- pkg:nuget/NLog.Targets.Splunk@2.2.0-rc01
+- pkg:nuget/NLog.Targets.Splunk@2.2.1
+- pkg:nuget/NLog.Targets.Splunk@3.0.0

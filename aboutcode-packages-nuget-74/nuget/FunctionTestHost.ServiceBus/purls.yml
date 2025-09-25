@@ -1,0 +1,4 @@
+- pkg:nuget/FunctionTestHost.ServiceBus@0.2.30%2B1
+- pkg:nuget/FunctionTestHost.ServiceBus@0.2.31%2B1
+- pkg:nuget/FunctionTestHost.ServiceBus@0.2.32%2B14
+- pkg:nuget/FunctionTestHost.ServiceBus@0.2.33%2B4

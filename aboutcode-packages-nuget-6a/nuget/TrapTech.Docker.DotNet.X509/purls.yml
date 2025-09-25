@@ -1,0 +1,4 @@
+- pkg:nuget/TrapTech.Docker.DotNet.X509@3.125.11
+- pkg:nuget/TrapTech.Docker.DotNet.X509@3.125.12
+- pkg:nuget/TrapTech.Docker.DotNet.X509@3.125.13
+- pkg:nuget/TrapTech.Docker.DotNet.X509@3.125.14

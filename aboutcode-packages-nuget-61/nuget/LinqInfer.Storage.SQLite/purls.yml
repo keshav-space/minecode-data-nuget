@@ -1,0 +1,2 @@
+- pkg:nuget/LinqInfer.Storage.SQLite@3.0.1-beta
+- pkg:nuget/LinqInfer.Storage.SQLite@3.0.2

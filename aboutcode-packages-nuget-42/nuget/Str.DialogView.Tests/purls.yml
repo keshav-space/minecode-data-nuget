@@ -1,0 +1,4 @@
+- pkg:nuget/Str.DialogView.Tests@1.0.0
+- pkg:nuget/Str.DialogView.Tests@2.1.1-beta.20002.2330%2B153c489
+- pkg:nuget/Str.DialogView.Tests@3.0.0-hostbuilder.200191656%2B7bbdcbb
+- pkg:nuget/Str.DialogView.Tests@3.0.0-hostbuilder.200192111%2B4071218

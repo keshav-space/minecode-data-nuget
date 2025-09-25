@@ -1,0 +1,4 @@
+- pkg:nuget/Embargoed.AspNetCore@0.1.5
+- pkg:nuget/Embargoed.AspNetCore@1.0.0
+- pkg:nuget/Embargoed.AspNetCore@1.0.1
+- pkg:nuget/Embargoed.AspNetCore@1.0.2

@@ -1,0 +1,13 @@
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.2.0
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.2.0-PullRequest0034.3
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.2.1
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.3.0
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.4.0
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.5.0
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.5.1
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.5.2
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.6.0
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@1.6.1
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@2.0.1
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@2.0.2
+- pkg:nuget/Corvus.Storage.Azure.TableStorage@2.0.3

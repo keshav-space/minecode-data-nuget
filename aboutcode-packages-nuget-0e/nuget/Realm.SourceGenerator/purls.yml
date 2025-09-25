@@ -1,0 +1,6 @@
+- pkg:nuget/Realm.SourceGenerator@10.18.0
+- pkg:nuget/Realm.SourceGenerator@10.19.0
+- pkg:nuget/Realm.SourceGenerator@10.20.0
+- pkg:nuget/Realm.SourceGenerator@10.21.0
+- pkg:nuget/Realm.SourceGenerator@10.21.1
+- pkg:nuget/Realm.SourceGenerator@11.0.0

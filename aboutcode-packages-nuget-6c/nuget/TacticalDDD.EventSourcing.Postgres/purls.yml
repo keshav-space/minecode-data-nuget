@@ -1,0 +1,8 @@
+- pkg:nuget/TacticalDDD.EventSourcing.Postgres@5.0.12
+- pkg:nuget/TacticalDDD.EventSourcing.Postgres@5.0.14
+- pkg:nuget/TacticalDDD.EventSourcing.Postgres@7.0.16
+- pkg:nuget/TacticalDDD.EventSourcing.Postgres@7.0.17
+- pkg:nuget/TacticalDDD.EventSourcing.Postgres@7.0.18
+- pkg:nuget/TacticalDDD.EventSourcing.Postgres@7.0.19
+- pkg:nuget/TacticalDDD.EventSourcing.Postgres@7.0.20
+- pkg:nuget/TacticalDDD.EventSourcing.Postgres@7.0.21

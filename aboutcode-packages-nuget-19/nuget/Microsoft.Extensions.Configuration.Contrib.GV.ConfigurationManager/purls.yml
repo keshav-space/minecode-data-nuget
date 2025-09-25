@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Extensions.Configuration.Contrib.GV.ConfigurationManager@0.2.0-b0025
+- pkg:nuget/Microsoft.Extensions.Configuration.Contrib.GV.ConfigurationManager@0.2.0-b0029
+- pkg:nuget/Microsoft.Extensions.Configuration.Contrib.GV.ConfigurationManager@0.2.0-rc1-final
+- pkg:nuget/Microsoft.Extensions.Configuration.Contrib.GV.ConfigurationManager@0.2.1-rc1-final

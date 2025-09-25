@@ -1,0 +1,4 @@
+- pkg:nuget/DataJuggler.DataTier.Net7.ItemTemplates.BlazorDataServices@7.0.0
+- pkg:nuget/DataJuggler.DataTier.Net7.ItemTemplates.BlazorDataServices@7.0.1
+- pkg:nuget/DataJuggler.DataTier.Net7.ItemTemplates.BlazorDataServices@7.1.0-rc1
+- pkg:nuget/DataJuggler.DataTier.Net7.ItemTemplates.BlazorDataServices@7.1.0-rc2

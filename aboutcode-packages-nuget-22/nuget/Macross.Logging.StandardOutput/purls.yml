@@ -1,0 +1,4 @@
+- pkg:nuget/Macross.Logging.StandardOutput@1.0.0-beta1
+- pkg:nuget/Macross.Logging.StandardOutput@2.0.0
+- pkg:nuget/Macross.Logging.StandardOutput@2.0.0-beta2
+- pkg:nuget/Macross.Logging.StandardOutput@2.0.0-beta3

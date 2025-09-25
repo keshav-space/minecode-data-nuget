@@ -1,0 +1,7 @@
+- pkg:nuget/NLog.Extensions.RabbitMQ@2.7.1
+- pkg:nuget/NLog.Extensions.RabbitMQ@2.7.2
+- pkg:nuget/NLog.Extensions.RabbitMQ@2.7.3
+- pkg:nuget/NLog.Extensions.RabbitMQ@2.7.4
+- pkg:nuget/NLog.Extensions.RabbitMQ@2.7.5
+- pkg:nuget/NLog.Extensions.RabbitMQ@2.7.6
+- pkg:nuget/NLog.Extensions.RabbitMQ@2.7.7

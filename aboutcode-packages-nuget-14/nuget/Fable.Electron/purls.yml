@@ -1,0 +1,14 @@
+- pkg:nuget/Fable.Electron@1.0.0
+- pkg:nuget/Fable.Electron@2.0.0
+- pkg:nuget/Fable.Electron@3.0.0
+- pkg:nuget/Fable.Electron@4.0.0
+- pkg:nuget/Fable.Electron@4.1.0
+- pkg:nuget/Fable.Electron@4.2.0
+- pkg:nuget/Fable.Electron@4.3.0
+- pkg:nuget/Fable.Electron@5.0.0
+- pkg:nuget/Fable.Electron@5.1.0
+- pkg:nuget/Fable.Electron@5.2.0
+- pkg:nuget/Fable.Electron@5.3.0
+- pkg:nuget/Fable.Electron@5.4.0
+- pkg:nuget/Fable.Electron@5.5.0
+- pkg:nuget/Fable.Electron@6.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Izumi.Runtime.CS@0.0.1-SNAPSHOT
+- pkg:nuget/Izumi.Runtime.CS@0.0.1-UNSET
+- pkg:nuget/Izumi.Runtime.CS@0.0.1-build.1
+- pkg:nuget/Izumi.Runtime.CS@0.0.1-build.2
+- pkg:nuget/Izumi.Runtime.CS@0.1.1-SNAPSHOT

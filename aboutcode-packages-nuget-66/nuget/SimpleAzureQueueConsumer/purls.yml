@@ -1,0 +1,3 @@
+- pkg:nuget/SimpleAzureQueueConsumer@0.3.0
+- pkg:nuget/SimpleAzureQueueConsumer@0.3.1
+- pkg:nuget/SimpleAzureQueueConsumer@0.4.0

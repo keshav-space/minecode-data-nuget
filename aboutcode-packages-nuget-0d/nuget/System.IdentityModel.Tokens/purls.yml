@@ -1,0 +1,7 @@
+- pkg:nuget/System.IdentityModel.Tokens@5.0.0-beta1-02111522
+- pkg:nuget/System.IdentityModel.Tokens@5.0.0-beta4-204171524
+- pkg:nuget/System.IdentityModel.Tokens@5.0.0-beta5-206011020
+- pkg:nuget/System.IdentityModel.Tokens@5.0.0-beta6-207211625
+- pkg:nuget/System.IdentityModel.Tokens@5.0.0-beta7-208241120
+- pkg:nuget/System.IdentityModel.Tokens@5.0.0-beta8-210131116
+- pkg:nuget/System.IdentityModel.Tokens@5.0.0-rc1-211161024

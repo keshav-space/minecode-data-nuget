@@ -1,0 +1,4 @@
+- pkg:nuget/OFXnet.Core@1.0.0
+- pkg:nuget/OFXnet.Core@1.0.1
+- pkg:nuget/OFXnet.Core@6.0.2
+- pkg:nuget/OFXnet.Core@8.0.2

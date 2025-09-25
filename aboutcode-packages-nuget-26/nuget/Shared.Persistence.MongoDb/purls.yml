@@ -1,0 +1,3 @@
+- pkg:nuget/Shared.Persistence.MongoDb@1.0.5
+- pkg:nuget/Shared.Persistence.MongoDb@3.0.3
+- pkg:nuget/Shared.Persistence.MongoDb@3.0.4

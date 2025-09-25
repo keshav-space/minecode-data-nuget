@@ -1,0 +1,4 @@
+- pkg:nuget/LinqInfer.Owin@1.0.1-beta
+- pkg:nuget/LinqInfer.Owin@1.0.10
+- pkg:nuget/LinqInfer.Owin@1.0.3
+- pkg:nuget/LinqInfer.Owin@1.0.8

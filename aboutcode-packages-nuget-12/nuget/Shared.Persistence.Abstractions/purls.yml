@@ -1,0 +1,4 @@
+- pkg:nuget/Shared.Persistence.Abstractions@1.0.0
+- pkg:nuget/Shared.Persistence.Abstractions@1.0.5
+- pkg:nuget/Shared.Persistence.Abstractions@3.0.3
+- pkg:nuget/Shared.Persistence.Abstractions@3.0.4

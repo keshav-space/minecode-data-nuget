@@ -1,0 +1,4 @@
+- pkg:nuget/RootBlocks.Serialization.Newtonsoft.Json@0.2.0
+- pkg:nuget/RootBlocks.Serialization.Newtonsoft.Json@0.3.0
+- pkg:nuget/RootBlocks.Serialization.Newtonsoft.Json@0.3.1
+- pkg:nuget/RootBlocks.Serialization.Newtonsoft.Json@0.4.0

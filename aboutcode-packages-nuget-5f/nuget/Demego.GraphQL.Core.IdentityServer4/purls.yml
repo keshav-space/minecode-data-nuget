@@ -1,0 +1,6 @@
+- pkg:nuget/Demego.GraphQL.Core.IdentityServer4@1.0.3
+- pkg:nuget/Demego.GraphQL.Core.IdentityServer4@1.0.4
+- pkg:nuget/Demego.GraphQL.Core.IdentityServer4@1.0.5
+- pkg:nuget/Demego.GraphQL.Core.IdentityServer4@1.2.0
+- pkg:nuget/Demego.GraphQL.Core.IdentityServer4@1.3.0
+- pkg:nuget/Demego.GraphQL.Core.IdentityServer4@2.0.0

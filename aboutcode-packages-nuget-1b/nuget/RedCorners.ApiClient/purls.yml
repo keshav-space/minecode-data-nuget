@@ -1,0 +1,4 @@
+- pkg:nuget/RedCorners.ApiClient@10.0.0
+- pkg:nuget/RedCorners.ApiClient@11.0.0
+- pkg:nuget/RedCorners.ApiClient@8.0.1
+- pkg:nuget/RedCorners.ApiClient@9.0.0

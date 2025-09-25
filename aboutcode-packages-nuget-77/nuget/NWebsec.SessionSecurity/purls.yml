@@ -1,0 +1,6 @@
+- pkg:nuget/NWebsec.SessionSecurity@0.0.9-rc01
+- pkg:nuget/NWebsec.SessionSecurity@0.0.9-rc02
+- pkg:nuget/NWebsec.SessionSecurity@0.0.9-rc03
+- pkg:nuget/NWebsec.SessionSecurity@1.0.0
+- pkg:nuget/NWebsec.SessionSecurity@1.1.0
+- pkg:nuget/NWebsec.SessionSecurity@1.1.0-ctp02

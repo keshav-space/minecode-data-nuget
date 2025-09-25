@@ -1,0 +1,4 @@
+- pkg:nuget/ForumCore.WebAssembly@7.0.0
+- pkg:nuget/ForumCore.WebAssembly@8.0.0
+- pkg:nuget/ForumCore.WebAssembly@8.1.0
+- pkg:nuget/ForumCore.WebAssembly@8.2.0

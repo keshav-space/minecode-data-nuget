@@ -1,0 +1,5 @@
+- pkg:nuget/Meziantou.Xunit.ParallelTestFramework@1.0.0
+- pkg:nuget/Meziantou.Xunit.ParallelTestFramework@2.0.0
+- pkg:nuget/Meziantou.Xunit.ParallelTestFramework@2.1.0
+- pkg:nuget/Meziantou.Xunit.ParallelTestFramework@2.2.0
+- pkg:nuget/Meziantou.Xunit.ParallelTestFramework@2.3.0

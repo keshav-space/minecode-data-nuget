@@ -1,0 +1,10 @@
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@1.0.0
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@1.1.1
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@2.1.2
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@2.1.4
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@3.0.0
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@4.0.0
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@4.0.1
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@4.1.0
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@4.1.1
+- pkg:nuget/Oldmansoft.ApplicationLibrary.FileStore.Mongo@4.2.0

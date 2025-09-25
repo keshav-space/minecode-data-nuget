@@ -1,0 +1,8 @@
+- pkg:nuget/PureBlazor.Components.AspNetCore@0.3.0
+- pkg:nuget/PureBlazor.Components.AspNetCore@0.30.0
+- pkg:nuget/PureBlazor.Components.AspNetCore@0.31.0
+- pkg:nuget/PureBlazor.Components.AspNetCore@0.32.0
+- pkg:nuget/PureBlazor.Components.AspNetCore@0.40.0-rc2
+- pkg:nuget/PureBlazor.Components.AspNetCore@0.41.0
+- pkg:nuget/PureBlazor.Components.AspNetCore@0.50.0
+- pkg:nuget/PureBlazor.Components.AspNetCore@0.8.0

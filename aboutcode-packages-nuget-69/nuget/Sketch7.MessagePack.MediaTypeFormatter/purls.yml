@@ -1,0 +1,5 @@
+- pkg:nuget/Sketch7.MessagePack.MediaTypeFormatter@1.0.0
+- pkg:nuget/Sketch7.MessagePack.MediaTypeFormatter@1.1.0-dev
+- pkg:nuget/Sketch7.MessagePack.MediaTypeFormatter@2.0.0
+- pkg:nuget/Sketch7.MessagePack.MediaTypeFormatter@2.0.1
+- pkg:nuget/Sketch7.MessagePack.MediaTypeFormatter@3.0.0-dev20
