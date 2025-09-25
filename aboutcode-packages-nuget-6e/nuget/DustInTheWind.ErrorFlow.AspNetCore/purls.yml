@@ -1,0 +1,3 @@
+- pkg:nuget/DustInTheWind.ErrorFlow.AspNetCore@1.1.5
+- pkg:nuget/DustInTheWind.ErrorFlow.AspNetCore@1.1.6
+- pkg:nuget/DustInTheWind.ErrorFlow.AspNetCore@1.2.0

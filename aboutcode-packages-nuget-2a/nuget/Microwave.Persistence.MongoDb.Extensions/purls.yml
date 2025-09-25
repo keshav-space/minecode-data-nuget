@@ -1,0 +1,4 @@
+- pkg:nuget/Microwave.Persistence.MongoDb.Extensions@0.12.5
+- pkg:nuget/Microwave.Persistence.MongoDb.Extensions@0.12.6
+- pkg:nuget/Microwave.Persistence.MongoDb.Extensions@0.12.7
+- pkg:nuget/Microwave.Persistence.MongoDb.Extensions@0.12.9

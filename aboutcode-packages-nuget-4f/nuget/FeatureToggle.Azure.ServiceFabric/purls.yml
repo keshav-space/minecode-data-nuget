@@ -1,0 +1,3 @@
+- pkg:nuget/FeatureToggle.Azure.ServiceFabric@1.0.0
+- pkg:nuget/FeatureToggle.Azure.ServiceFabric@1.1.0
+- pkg:nuget/FeatureToggle.Azure.ServiceFabric@1.2.0

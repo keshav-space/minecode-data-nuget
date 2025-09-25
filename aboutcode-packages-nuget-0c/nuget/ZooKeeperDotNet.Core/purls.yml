@@ -1,0 +1,4 @@
+- pkg:nuget/ZooKeeperDotNet.Core@2.32.12
+- pkg:nuget/ZooKeeperDotNet.Core@2.32.12-alpha
+- pkg:nuget/ZooKeeperDotNet.Core@2.32.14
+- pkg:nuget/ZooKeeperDotNet.Core@2.32.15

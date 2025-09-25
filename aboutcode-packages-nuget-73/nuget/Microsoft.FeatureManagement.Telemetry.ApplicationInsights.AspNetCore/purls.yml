@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights.AspNetCore@4.0.0-preview2
+- pkg:nuget/Microsoft.FeatureManagement.Telemetry.ApplicationInsights.AspNetCore@4.0.0-preview3

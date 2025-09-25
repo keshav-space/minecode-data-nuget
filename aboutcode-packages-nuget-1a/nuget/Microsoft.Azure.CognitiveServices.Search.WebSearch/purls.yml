@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Search.WebSearch@1.1.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Search.WebSearch@1.2.0
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Search.WebSearch@2.0.0

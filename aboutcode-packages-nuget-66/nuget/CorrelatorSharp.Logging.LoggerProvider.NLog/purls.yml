@@ -1,0 +1,2 @@
+- pkg:nuget/CorrelatorSharp.Logging.LoggerProvider.NLog@1.0.0
+- pkg:nuget/CorrelatorSharp.Logging.LoggerProvider.NLog@1.0.1

@@ -1,0 +1,7 @@
+- pkg:nuget/ForEvolve.OperationResults.AspNetCore@1.1.0-CI-751
+- pkg:nuget/ForEvolve.OperationResults.AspNetCore@2.0.0-CI-857
+- pkg:nuget/ForEvolve.OperationResults.AspNetCore@2.0.0-CI-859
+- pkg:nuget/ForEvolve.OperationResults.AspNetCore@3.0.24-g5a2a8b21be
+- pkg:nuget/ForEvolve.OperationResults.AspNetCore@3.0.24-g90b145e9ce
+- pkg:nuget/ForEvolve.OperationResults.AspNetCore@3.0.27-ge40e782706
+- pkg:nuget/ForEvolve.OperationResults.AspNetCore@3.0.6-g6c0e6b96d4

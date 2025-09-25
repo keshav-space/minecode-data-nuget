@@ -1,0 +1,4 @@
+- pkg:nuget/eCorrespondence@2.1.0-net
+- pkg:nuget/eCorrespondence@2.1.0-net45
+- pkg:nuget/eCorrespondence@2.1.0-net7
+- pkg:nuget/eCorrespondence@2.1.1-net7

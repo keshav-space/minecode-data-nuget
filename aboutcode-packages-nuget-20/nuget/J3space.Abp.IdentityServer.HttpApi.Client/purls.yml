@@ -1,0 +1,4 @@
+- pkg:nuget/J3space.Abp.IdentityServer.HttpApi.Client@0.1.0
+- pkg:nuget/J3space.Abp.IdentityServer.HttpApi.Client@1.0.0
+- pkg:nuget/J3space.Abp.IdentityServer.HttpApi.Client@1.0.1
+- pkg:nuget/J3space.Abp.IdentityServer.HttpApi.Client@1.0.2

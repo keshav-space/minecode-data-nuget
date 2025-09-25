@@ -1,0 +1,4 @@
+- pkg:nuget/HomeBi.Framework.Infrastructure.Cache.Redis@0.0.1
+- pkg:nuget/HomeBi.Framework.Infrastructure.Cache.Redis@0.0.2
+- pkg:nuget/HomeBi.Framework.Infrastructure.Cache.Redis@0.0.3
+- pkg:nuget/HomeBi.Framework.Infrastructure.Cache.Redis@0.0.4

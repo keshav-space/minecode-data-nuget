@@ -1,0 +1,4 @@
+- pkg:nuget/UnitTests.HeadlessRunner@1.0.0
+- pkg:nuget/UnitTests.HeadlessRunner@1.1.0
+- pkg:nuget/UnitTests.HeadlessRunner@1.2.0
+- pkg:nuget/UnitTests.HeadlessRunner@2.0.0

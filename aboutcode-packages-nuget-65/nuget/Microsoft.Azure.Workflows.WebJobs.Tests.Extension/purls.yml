@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Tests.Extension@1.0.0
+- pkg:nuget/Microsoft.Azure.Workflows.WebJobs.Tests.Extension@1.0.0-preview

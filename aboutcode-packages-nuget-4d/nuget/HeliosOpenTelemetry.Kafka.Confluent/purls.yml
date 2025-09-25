@@ -1,0 +1,2 @@
+- pkg:nuget/HeliosOpenTelemetry.Kafka.Confluent@0.1.0-alpha.19
+- pkg:nuget/HeliosOpenTelemetry.Kafka.Confluent@0.1.0-alpha.22

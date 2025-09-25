@@ -1,0 +1,4 @@
+- pkg:nuget/Subur.Storage.MongoDbProvider@1.0.0
+- pkg:nuget/Subur.Storage.MongoDbProvider@1.1.0
+- pkg:nuget/Subur.Storage.MongoDbProvider@1.1.1
+- pkg:nuget/Subur.Storage.MongoDbProvider@1.1.3

@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Search.NewsSearch@1.1.0-preview
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Search.NewsSearch@1.2.0
+- pkg:nuget/Microsoft.Azure.CognitiveServices.Search.NewsSearch@2.0.0
