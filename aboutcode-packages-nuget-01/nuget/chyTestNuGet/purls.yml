@@ -1,0 +1,3 @@
+- pkg:nuget/chyTestNuGet@1.0.0-aaa
+- pkg:nuget/chyTestNuGet@1.0.1-aaa
+- pkg:nuget/chyTestNuGet@1.1.1-aaa

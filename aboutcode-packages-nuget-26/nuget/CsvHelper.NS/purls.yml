@@ -1,0 +1,4 @@
+- pkg:nuget/CsvHelper.NS@33.0.1
+- pkg:nuget/CsvHelper.NS@33.0.1-ns1
+- pkg:nuget/CsvHelper.NS@33.0.2-ns1
+- pkg:nuget/CsvHelper.NS@33.0.2-ns2

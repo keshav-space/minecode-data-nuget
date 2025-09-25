@@ -1,0 +1,2 @@
+- pkg:nuget/Swashbuckle.AspNetCore.Versioning@1.0.0
+- pkg:nuget/Swashbuckle.AspNetCore.Versioning@2.0.0

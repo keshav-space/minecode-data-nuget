@@ -1,0 +1,3 @@
+- pkg:nuget/VG.Infrastructure.RedisCache@1.0.0
+- pkg:nuget/VG.Infrastructure.RedisCache@1.0.1
+- pkg:nuget/VG.Infrastructure.RedisCache@1.0.2

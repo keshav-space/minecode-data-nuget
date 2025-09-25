@@ -1,0 +1,4 @@
+- pkg:nuget/My.Custom.Namespace.ClassLibrary1@1.0.0
+- pkg:nuget/My.Custom.Namespace.ClassLibrary1@2.0.0
+- pkg:nuget/My.Custom.Namespace.ClassLibrary1@3.0.0
+- pkg:nuget/My.Custom.Namespace.ClassLibrary1@4.0.0
