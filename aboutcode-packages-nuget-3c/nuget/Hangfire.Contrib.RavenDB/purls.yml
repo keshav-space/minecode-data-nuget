@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.Contrib.RavenDB@5.0.1
+- pkg:nuget/Hangfire.Contrib.RavenDB@5.0.2

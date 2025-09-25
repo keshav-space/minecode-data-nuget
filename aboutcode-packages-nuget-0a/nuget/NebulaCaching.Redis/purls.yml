@@ -1,0 +1,2 @@
+- pkg:nuget/NebulaCaching.Redis@0.1.0
+- pkg:nuget/NebulaCaching.Redis@1.0.0

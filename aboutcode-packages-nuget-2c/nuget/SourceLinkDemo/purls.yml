@@ -1,0 +1,6 @@
+- pkg:nuget/SourceLinkDemo@1.0.0
+- pkg:nuget/SourceLinkDemo@2.0.0
+- pkg:nuget/SourceLinkDemo@3.0.0
+- pkg:nuget/SourceLinkDemo@4.0.0-without-embedded
+- pkg:nuget/SourceLinkDemo@5.0.0-without-embedded
+- pkg:nuget/SourceLinkDemo@6.0.0

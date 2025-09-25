@@ -1,0 +1,2 @@
+- pkg:nuget/NebulaCaching.Memcached@0.1.0
+- pkg:nuget/NebulaCaching.Memcached@1.0.0
