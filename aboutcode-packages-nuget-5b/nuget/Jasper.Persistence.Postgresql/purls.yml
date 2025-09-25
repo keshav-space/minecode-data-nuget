@@ -1,0 +1,11 @@
+- pkg:nuget/Jasper.Persistence.Postgresql@0.8.0
+- pkg:nuget/Jasper.Persistence.Postgresql@1.1.0
+- pkg:nuget/Jasper.Persistence.Postgresql@1.1.1
+- pkg:nuget/Jasper.Persistence.Postgresql@1.1.2
+- pkg:nuget/Jasper.Persistence.Postgresql@1.1.3
+- pkg:nuget/Jasper.Persistence.Postgresql@1.1.4
+- pkg:nuget/Jasper.Persistence.Postgresql@2.0.0-alpha-1
+- pkg:nuget/Jasper.Persistence.Postgresql@2.0.0-alpha-2
+- pkg:nuget/Jasper.Persistence.Postgresql@2.0.0-alpha-3
+- pkg:nuget/Jasper.Persistence.Postgresql@2.0.0-alpha-4
+- pkg:nuget/Jasper.Persistence.Postgresql@2.0.0-alpha-5

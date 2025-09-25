@@ -1,0 +1,5 @@
+- pkg:nuget/WASM.Console@0.0.10
+- pkg:nuget/WASM.Console@0.0.11
+- pkg:nuget/WASM.Console@0.0.12
+- pkg:nuget/WASM.Console@0.0.2-alpha
+- pkg:nuget/WASM.Console@8.0.0.15

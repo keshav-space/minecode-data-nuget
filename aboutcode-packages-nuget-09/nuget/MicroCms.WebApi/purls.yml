@@ -1,0 +1,12 @@
+- pkg:nuget/MicroCms.WebApi@0.9.10-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.11-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.12-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.13-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.15-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.16-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.17-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.6-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.7-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.8-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.9-alpha
+- pkg:nuget/MicroCms.WebApi@0.9.99

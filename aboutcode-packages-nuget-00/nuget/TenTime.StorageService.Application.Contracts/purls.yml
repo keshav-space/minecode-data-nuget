@@ -1,0 +1,12 @@
+- pkg:nuget/TenTime.StorageService.Application.Contracts@1.0.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@1.1.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@2.0.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@3.0.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@3.1.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@4.0.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@4.1.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@4.1.1
+- pkg:nuget/TenTime.StorageService.Application.Contracts@4.2.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@5.0.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@6.0.0
+- pkg:nuget/TenTime.StorageService.Application.Contracts@6.0.1

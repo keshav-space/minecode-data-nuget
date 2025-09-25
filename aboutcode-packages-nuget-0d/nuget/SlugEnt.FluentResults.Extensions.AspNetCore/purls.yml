@@ -1,0 +1,5 @@
+- pkg:nuget/SlugEnt.FluentResults.Extensions.AspNetCore@3.16.1.3
+- pkg:nuget/SlugEnt.FluentResults.Extensions.AspNetCore@3.17.0
+- pkg:nuget/SlugEnt.FluentResults.Extensions.AspNetCore@3.17.3.4
+- pkg:nuget/SlugEnt.FluentResults.Extensions.AspNetCore@3.18.0.2
+- pkg:nuget/SlugEnt.FluentResults.Extensions.AspNetCore@3.18.0.3

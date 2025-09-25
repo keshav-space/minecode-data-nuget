@@ -1,0 +1,13 @@
+- pkg:nuget/NopCommerce.Core@3.20.0
+- pkg:nuget/NopCommerce.Core@3.30.0
+- pkg:nuget/NopCommerce.Core@3.30.1
+- pkg:nuget/NopCommerce.Core@3.40.0
+- pkg:nuget/NopCommerce.Core@3.40.1
+- pkg:nuget/NopCommerce.Core@3.50.0
+- pkg:nuget/NopCommerce.Core@3.50.1
+- pkg:nuget/NopCommerce.Core@3.60.0
+- pkg:nuget/NopCommerce.Core@3.60.1
+- pkg:nuget/NopCommerce.Core@3.70.0
+- pkg:nuget/NopCommerce.Core@3.70.1
+- pkg:nuget/NopCommerce.Core@3.80.0
+- pkg:nuget/NopCommerce.Core@3.90.0

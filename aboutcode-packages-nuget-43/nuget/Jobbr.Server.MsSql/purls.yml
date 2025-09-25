@@ -1,0 +1,5 @@
+- pkg:nuget/Jobbr.Server.MsSql@1.0.0-unstable15
+- pkg:nuget/Jobbr.Server.MsSql@1.0.0-unstable16
+- pkg:nuget/Jobbr.Server.MsSql@1.0.0-unstable17
+- pkg:nuget/Jobbr.Server.MsSql@1.0.0-unstable20
+- pkg:nuget/Jobbr.Server.MsSql@1.0.0-unstable23

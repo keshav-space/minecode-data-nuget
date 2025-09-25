@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFrameworkCore.MappingExtension@1.0.0
+- pkg:nuget/EntityFrameworkCore.MappingExtension@2.0.0

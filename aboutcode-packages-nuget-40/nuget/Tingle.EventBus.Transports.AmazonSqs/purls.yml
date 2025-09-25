@@ -1,0 +1,3 @@
+- pkg:nuget/Tingle.EventBus.Transports.AmazonSqs@0.1.0
+- pkg:nuget/Tingle.EventBus.Transports.AmazonSqs@0.2.0
+- pkg:nuget/Tingle.EventBus.Transports.AmazonSqs@0.2.1

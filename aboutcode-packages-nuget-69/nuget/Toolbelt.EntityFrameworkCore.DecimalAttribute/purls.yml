@@ -1,0 +1,9 @@
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@1.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@1.0.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@3.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@3.1.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@5.0.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@5.0.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@5.0.1-preview.1.0
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@5.0.1.1
+- pkg:nuget/Toolbelt.EntityFrameworkCore.DecimalAttribute@5.0.1.2

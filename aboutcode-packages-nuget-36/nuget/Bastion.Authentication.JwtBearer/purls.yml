@@ -1,0 +1,4 @@
+- pkg:nuget/Bastion.Authentication.JwtBearer@0.0.0-alfa
+- pkg:nuget/Bastion.Authentication.JwtBearer@0.0.0-beta
+- pkg:nuget/Bastion.Authentication.JwtBearer@1.0.0
+- pkg:nuget/Bastion.Authentication.JwtBearer@1.1.0

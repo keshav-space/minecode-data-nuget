@@ -1,0 +1,5 @@
+- pkg:nuget/VisionNet.Cognex.VisionPro.Core@53.2.0
+- pkg:nuget/VisionNet.Cognex.VisionPro.Core@59.0.0
+- pkg:nuget/VisionNet.Cognex.VisionPro.Core@73.0.0
+- pkg:nuget/VisionNet.Cognex.VisionPro.Core@81.0.0
+- pkg:nuget/VisionNet.Cognex.VisionPro.Core@89.0.0

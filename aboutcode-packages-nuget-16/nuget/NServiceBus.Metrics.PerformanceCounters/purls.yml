@@ -1,0 +1,15 @@
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@1.0.0
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@1.1.0
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@1.1.1
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@1.1.2
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@1.1.3
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@2.0.0
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@3.0.0
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@3.0.0-beta0005
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@3.0.0-rc0001
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@4.0.0
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@5.0.0
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@5.0.0-beta.2
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@5.0.0-rc.2
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@5.0.1
+- pkg:nuget/NServiceBus.Metrics.PerformanceCounters@6.0.0

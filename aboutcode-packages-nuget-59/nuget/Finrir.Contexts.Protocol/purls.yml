@@ -1,0 +1,15 @@
+- pkg:nuget/Finrir.Contexts.Protocol@1.1.0
+- pkg:nuget/Finrir.Contexts.Protocol@1.2.0
+- pkg:nuget/Finrir.Contexts.Protocol@1.3.0
+- pkg:nuget/Finrir.Contexts.Protocol@1.4.0
+- pkg:nuget/Finrir.Contexts.Protocol@2023.112.106
+- pkg:nuget/Finrir.Contexts.Protocol@2023.112.107
+- pkg:nuget/Finrir.Contexts.Protocol@2023.112.107.1
+- pkg:nuget/Finrir.Contexts.Protocol@2023.112.107.2
+- pkg:nuget/Finrir.Contexts.Protocol@2024.109.112.1-hidden-flag-mobile
+- pkg:nuget/Finrir.Contexts.Protocol@2024.109.112.2-hidden-flag-mobile
+- pkg:nuget/Finrir.Contexts.Protocol@2024.109.112.3
+- pkg:nuget/Finrir.Contexts.Protocol@2024.109.119.4-returning-hidden-flag-for-contexts
+- pkg:nuget/Finrir.Contexts.Protocol@2024.109.119.5
+- pkg:nuget/Finrir.Contexts.Protocol@2024.109.125.6-mobile-utilize-expenses-include-hidden
+- pkg:nuget/Finrir.Contexts.Protocol@2024.109.125.7

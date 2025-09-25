@@ -1,0 +1,14 @@
+- pkg:nuget/CodeArts.Db.MySql@5.1.0
+- pkg:nuget/CodeArts.Db.MySql@5.2.0
+- pkg:nuget/CodeArts.Db.MySql@5.2.0.1
+- pkg:nuget/CodeArts.Db.MySql@6.0.0
+- pkg:nuget/CodeArts.Db.MySql@6.1.2
+- pkg:nuget/CodeArts.Db.MySql@6.1.2.1
+- pkg:nuget/CodeArts.Db.MySql@6.1.5
+- pkg:nuget/CodeArts.Db.MySql@7.0.0
+- pkg:nuget/CodeArts.Db.MySql@7.1.0
+- pkg:nuget/CodeArts.Db.MySql@8.0.0
+- pkg:nuget/CodeArts.Db.MySql@8.1.0
+- pkg:nuget/CodeArts.Db.MySql@8.1.1
+- pkg:nuget/CodeArts.Db.MySql@8.1.2
+- pkg:nuget/CodeArts.Db.MySql@8.1.5

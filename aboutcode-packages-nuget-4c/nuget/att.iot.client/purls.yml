@@ -1,0 +1,14 @@
+- pkg:nuget/att.iot.client@1.0.0
+- pkg:nuget/att.iot.client@1.1.0
+- pkg:nuget/att.iot.client@1.1.1
+- pkg:nuget/att.iot.client@1.1.2
+- pkg:nuget/att.iot.client@1.2.0
+- pkg:nuget/att.iot.client@2.0.0
+- pkg:nuget/att.iot.client@2.0.2
+- pkg:nuget/att.iot.client@2.1.0
+- pkg:nuget/att.iot.client@3.0.0
+- pkg:nuget/att.iot.client@3.1.0
+- pkg:nuget/att.iot.client@4.0.0
+- pkg:nuget/att.iot.client@4.0.0.1
+- pkg:nuget/att.iot.client@4.0.0.2
+- pkg:nuget/att.iot.client@4.1.0

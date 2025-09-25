@@ -1,0 +1,16 @@
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.7.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.7.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.7.2
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.8.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.8.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.8.2
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.8.3
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.9.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@4.9.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@5.0.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@5.1.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@5.2.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@6.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@6.0.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@6.0.2
+- pkg:nuget/Be.Vlaanderen.Basisregisters.MessageHandling.Kafka.Consumer@6.0.3

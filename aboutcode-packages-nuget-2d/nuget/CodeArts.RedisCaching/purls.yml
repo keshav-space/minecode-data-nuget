@@ -1,0 +1,13 @@
+- pkg:nuget/CodeArts.RedisCaching@5.0.0
+- pkg:nuget/CodeArts.RedisCaching@5.1.0
+- pkg:nuget/CodeArts.RedisCaching@5.2.0
+- pkg:nuget/CodeArts.RedisCaching@5.2.0.1
+- pkg:nuget/CodeArts.RedisCaching@6.0.0
+- pkg:nuget/CodeArts.RedisCaching@6.1.5
+- pkg:nuget/CodeArts.RedisCaching@7.0.0
+- pkg:nuget/CodeArts.RedisCaching@7.0.1
+- pkg:nuget/CodeArts.RedisCaching@8.0.0
+- pkg:nuget/CodeArts.RedisCaching@8.1.0
+- pkg:nuget/CodeArts.RedisCaching@8.1.2
+- pkg:nuget/CodeArts.RedisCaching@8.1.2.7
+- pkg:nuget/CodeArts.RedisCaching@8.1.5

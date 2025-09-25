@@ -1,0 +1,8 @@
+- pkg:nuget/NServiceBus.Bootstrap.WindowsService@0.1.0
+- pkg:nuget/NServiceBus.Bootstrap.WindowsService@1.0.0
+- pkg:nuget/NServiceBus.Bootstrap.WindowsService@1.1.0
+- pkg:nuget/NServiceBus.Bootstrap.WindowsService@2.0.0
+- pkg:nuget/NServiceBus.Bootstrap.WindowsService@2.0.0-beta0001
+- pkg:nuget/NServiceBus.Bootstrap.WindowsService@2.0.0-rc0001
+- pkg:nuget/NServiceBus.Bootstrap.WindowsService@2.0.1
+- pkg:nuget/NServiceBus.Bootstrap.WindowsService@3.0.0-beta0001

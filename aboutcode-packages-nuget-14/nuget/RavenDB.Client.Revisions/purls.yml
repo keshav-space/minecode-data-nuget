@@ -1,0 +1,5 @@
+- pkg:nuget/RavenDB.Client.Revisions@1.0.888
+- pkg:nuget/RavenDB.Client.Revisions@1.0.888.1
+- pkg:nuget/RavenDB.Client.Revisions@1.0.960.3
+- pkg:nuget/RavenDB.Client.Revisions@1.1.0
+- pkg:nuget/RavenDB.Client.Revisions@2.0.0

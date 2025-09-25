@@ -1,0 +1,6 @@
+- pkg:nuget/AXtension.ContentGate.Client.ActiveDirectory@1.1910.1-preview
+- pkg:nuget/AXtension.ContentGate.Client.ActiveDirectory@1.1910.2-preview
+- pkg:nuget/AXtension.ContentGate.Client.ActiveDirectory@1.1911.3-preview
+- pkg:nuget/AXtension.ContentGate.Client.ActiveDirectory@1.2001.1
+- pkg:nuget/AXtension.ContentGate.Client.ActiveDirectory@1.2001.1.1
+- pkg:nuget/AXtension.ContentGate.Client.ActiveDirectory@1.2020.1

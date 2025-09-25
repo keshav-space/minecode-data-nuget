@@ -1,0 +1,11 @@
+- pkg:nuget/Amazon.Lambda.TestTool@0.0.1-preview
+- pkg:nuget/Amazon.Lambda.TestTool@0.0.2-preview
+- pkg:nuget/Amazon.Lambda.TestTool@0.0.3
+- pkg:nuget/Amazon.Lambda.TestTool@0.10.0
+- pkg:nuget/Amazon.Lambda.TestTool@0.10.1
+- pkg:nuget/Amazon.Lambda.TestTool@0.10.2
+- pkg:nuget/Amazon.Lambda.TestTool@0.10.3
+- pkg:nuget/Amazon.Lambda.TestTool@0.11.0
+- pkg:nuget/Amazon.Lambda.TestTool@0.9.0
+- pkg:nuget/Amazon.Lambda.TestTool@0.9.1
+- pkg:nuget/Amazon.Lambda.TestTool@1.0.0

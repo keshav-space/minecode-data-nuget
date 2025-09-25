@@ -1,0 +1,6 @@
+- pkg:nuget/YouToken.Services.AlertsService.Client@1.0.2.12-add-new-build
+- pkg:nuget/YouToken.Services.AlertsService.Client@1.0.2.13-master
+- pkg:nuget/YouToken.Services.AlertsService.Client@1.0.2.14
+- pkg:nuget/YouToken.Services.AlertsService.Client@1.0.2.15
+- pkg:nuget/YouToken.Services.AlertsService.Client@1.1.0.10-add-new-build
+- pkg:nuget/YouToken.Services.AlertsService.Client@1.1.0.11-add-new-build

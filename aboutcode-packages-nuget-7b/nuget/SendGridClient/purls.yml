@@ -1,0 +1,11 @@
+- pkg:nuget/SendGridClient@1.0.0-beta
+- pkg:nuget/SendGridClient@1.0.0-beta-186f7ed
+- pkg:nuget/SendGridClient@1.0.0-beta-2452a3a
+- pkg:nuget/SendGridClient@1.0.0-beta-61c34eb
+- pkg:nuget/SendGridClient@1.0.0-beta-ac01af7
+- pkg:nuget/SendGridClient@1.0.0-beta-cabad0a
+- pkg:nuget/SendGridClient@1.0.1
+- pkg:nuget/SendGridClient@1.1.0
+- pkg:nuget/SendGridClient@1.2.0
+- pkg:nuget/SendGridClient@2.0.0-preview1
+- pkg:nuget/SendGridClient@2.0.0-preview2

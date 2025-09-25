@@ -1,0 +1,9 @@
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@2.0.0
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@3.0.0
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@3.1.0
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@3.1.1
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@3.1.2
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@3.1.3
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@6.0.0
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@6.0.1
+- pkg:nuget/JxNet.Extensions.EFCore.MySql@9.0.0

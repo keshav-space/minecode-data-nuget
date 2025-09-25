@@ -1,0 +1,12 @@
+- pkg:nuget/SqlServer.TestDatabaseBuilder@1.0.0
+- pkg:nuget/SqlServer.TestDatabaseBuilder@1.1.0
+- pkg:nuget/SqlServer.TestDatabaseBuilder@1.2.0
+- pkg:nuget/SqlServer.TestDatabaseBuilder@1.2.1
+- pkg:nuget/SqlServer.TestDatabaseBuilder@1.2.2
+- pkg:nuget/SqlServer.TestDatabaseBuilder@1.2.3
+- pkg:nuget/SqlServer.TestDatabaseBuilder@11.2.3
+- pkg:nuget/SqlServer.TestDatabaseBuilder@12.2.3
+- pkg:nuget/SqlServer.TestDatabaseBuilder@13.0.0
+- pkg:nuget/SqlServer.TestDatabaseBuilder@13.0.1
+- pkg:nuget/SqlServer.TestDatabaseBuilder@14.0.1
+- pkg:nuget/SqlServer.TestDatabaseBuilder@14.1.1

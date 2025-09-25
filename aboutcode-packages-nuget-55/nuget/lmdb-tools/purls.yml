@@ -1,0 +1,4 @@
+- pkg:nuget/lmdb-tools@0.9.19
+- pkg:nuget/lmdb-tools@0.9.19.1
+- pkg:nuget/lmdb-tools@0.9.23
+- pkg:nuget/lmdb-tools@0.9.24

@@ -1,0 +1,14 @@
+- pkg:nuget/CommandLineParser.FSharp@2.2.1
+- pkg:nuget/CommandLineParser.FSharp@2.4.1
+- pkg:nuget/CommandLineParser.FSharp@2.4.2
+- pkg:nuget/CommandLineParser.FSharp@2.4.3
+- pkg:nuget/CommandLineParser.FSharp@2.5.0
+- pkg:nuget/CommandLineParser.FSharp@2.6.0
+- pkg:nuget/CommandLineParser.FSharp@2.7.0-preview1
+- pkg:nuget/CommandLineParser.FSharp@2.7.82
+- pkg:nuget/CommandLineParser.FSharp@2.8.0
+- pkg:nuget/CommandLineParser.FSharp@2.8.0-preview4
+- pkg:nuget/CommandLineParser.FSharp@2.9.0-preview1
+- pkg:nuget/CommandLineParser.FSharp@2.9.1
+- pkg:nuget/CommandLineParser.FSharp@2.9.1-preview1
+- pkg:nuget/CommandLineParser.FSharp@2.9.2-ci-210

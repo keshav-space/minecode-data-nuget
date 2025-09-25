@@ -1,0 +1,16 @@
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@1.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@2.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@2.2.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@3.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@3.0.0-preview
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@3.0.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@3.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@3.1.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@3.1.2
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@3.1.3
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@5.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@6.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@7.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@8.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@9.0.0

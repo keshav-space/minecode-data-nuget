@@ -1,0 +1,13 @@
+- pkg:nuget/NServiceBus.Heartbeat@1.0.0
+- pkg:nuget/NServiceBus.Heartbeat@2.0.0
+- pkg:nuget/NServiceBus.Heartbeat@2.0.1
+- pkg:nuget/NServiceBus.Heartbeat@3.0.0
+- pkg:nuget/NServiceBus.Heartbeat@3.0.0-beta0002
+- pkg:nuget/NServiceBus.Heartbeat@3.0.0-rc0001
+- pkg:nuget/NServiceBus.Heartbeat@3.0.1
+- pkg:nuget/NServiceBus.Heartbeat@4.0.0
+- pkg:nuget/NServiceBus.Heartbeat@4.0.0-beta.2
+- pkg:nuget/NServiceBus.Heartbeat@4.0.0-rc.2
+- pkg:nuget/NServiceBus.Heartbeat@4.0.1
+- pkg:nuget/NServiceBus.Heartbeat@5.0.0
+- pkg:nuget/NServiceBus.Heartbeat@5.0.1

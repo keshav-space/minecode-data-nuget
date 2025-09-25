@@ -1,0 +1,7 @@
+- pkg:nuget/Security.HMAC.NetCore@1.7.0.1
+- pkg:nuget/Security.HMAC.NetCore@2.0.1.77
+- pkg:nuget/Security.HMAC.NetCore@2.1.0.77
+- pkg:nuget/Security.HMAC.NetCore@2.1.0.78
+- pkg:nuget/Security.HMAC.NetCore@2.1.0.79
+- pkg:nuget/Security.HMAC.NetCore@2.1.0.82
+- pkg:nuget/Security.HMAC.NetCore@2.1.0.84

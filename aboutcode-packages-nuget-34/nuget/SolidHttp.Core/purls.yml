@@ -1,0 +1,5 @@
+- pkg:nuget/SolidHttp.Core@1.0.12-RC
+- pkg:nuget/SolidHttp.Core@1.0.16-RC
+- pkg:nuget/SolidHttp.Core@1.0.18-RC
+- pkg:nuget/SolidHttp.Core@1.0.19-RC
+- pkg:nuget/SolidHttp.Core@1.0.20-RC

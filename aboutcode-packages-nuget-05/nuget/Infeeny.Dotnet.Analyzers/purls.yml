@@ -1,0 +1,12 @@
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-beta008
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-beta009
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-beta010
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-beta011
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-rc.101
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-rc.102
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-rc.103
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-rc.105
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-rc.106
+- pkg:nuget/Infeeny.Dotnet.Analyzers@1.0.0-rc.107
+- pkg:nuget/Infeeny.Dotnet.Analyzers@2.0.0

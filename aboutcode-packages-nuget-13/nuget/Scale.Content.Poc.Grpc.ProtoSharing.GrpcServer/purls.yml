@@ -1,0 +1,4 @@
+- pkg:nuget/Scale.Content.Poc.Grpc.ProtoSharing.GrpcServer@1.0.0
+- pkg:nuget/Scale.Content.Poc.Grpc.ProtoSharing.GrpcServer@1.2.1
+- pkg:nuget/Scale.Content.Poc.Grpc.ProtoSharing.GrpcServer@1.2.2
+- pkg:nuget/Scale.Content.Poc.Grpc.ProtoSharing.GrpcServer@1.2.3

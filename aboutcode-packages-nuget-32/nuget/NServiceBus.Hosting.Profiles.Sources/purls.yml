@@ -1,0 +1,16 @@
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.1
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.10
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.11
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.4
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.5
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.6
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.7
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.8
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@5.0.9
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@6.0.0
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@6.0.1
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@7.0.0
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@7.0.0-beta0001
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@7.0.0-beta0002
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@7.0.0-beta0004
+- pkg:nuget/NServiceBus.Hosting.Profiles.Sources@7.0.1

@@ -1,0 +1,11 @@
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.12
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.14
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.16
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.18
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.20
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.22
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.24
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.26
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.30
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.32
+- pkg:nuget/ASP.NET-StatusBoard.AspNetCore@0.0.34

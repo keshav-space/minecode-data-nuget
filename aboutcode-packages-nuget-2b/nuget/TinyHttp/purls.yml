@@ -1,0 +1,5 @@
+- pkg:nuget/TinyHttp@0.1.0
+- pkg:nuget/TinyHttp@1.0.0
+- pkg:nuget/TinyHttp@1.0.0-rc1
+- pkg:nuget/TinyHttp@1.0.0-rc3
+- pkg:nuget/TinyHttp@1.0.0-rc4

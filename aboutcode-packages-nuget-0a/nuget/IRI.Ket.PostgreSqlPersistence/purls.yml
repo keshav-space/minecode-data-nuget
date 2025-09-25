@@ -1,0 +1,13 @@
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@0.0.0-alpha.0.555
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@1.2.0
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@1.2.0-dev.0.540%2Bci.20250804063634
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@1.2.0-dev.0.551%2Bci.20250804073420
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@1.2.0-dev.0.552%2Bci.20250804075709
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@1.3.0-dev.0.553%2Bci.20250804081007
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@1.3.0-dev.0.554%2Bci.20250804082005
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@2.0.0-alpha.0.556%2Bci.20250804083443
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@2.1.0
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@2.2.0
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@2.3.0
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@2.4.0
+- pkg:nuget/IRI.Ket.PostgreSqlPersistence@2.4.1

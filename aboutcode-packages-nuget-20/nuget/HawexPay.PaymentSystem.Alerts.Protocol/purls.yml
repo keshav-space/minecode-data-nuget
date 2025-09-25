@@ -1,0 +1,11 @@
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.103.127.664-alerts-protocol-nuget
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.103.127.666-alerts-protocol-nuget
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.103.127.667
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.103.127.669-corefy-telegram-message-send
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.104.107.739
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.104.111.794-AMZ-123-Added-alerts
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.104.111.796
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.104.117.824-exposing-http-clients
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.104.117.844
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.104.125.913-AMZ-123-add-new-alerts
+- pkg:nuget/HawexPay.PaymentSystem.Alerts.Protocol@2025.104.125.914

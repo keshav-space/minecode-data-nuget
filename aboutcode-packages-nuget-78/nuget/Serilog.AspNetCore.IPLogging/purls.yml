@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.AspNetCore.IPLogging@0.2.0-alpha
+- pkg:nuget/Serilog.AspNetCore.IPLogging@0.3.0-alpha
+- pkg:nuget/Serilog.AspNetCore.IPLogging@0.3.1
+- pkg:nuget/Serilog.AspNetCore.IPLogging@0.3.1-alpha

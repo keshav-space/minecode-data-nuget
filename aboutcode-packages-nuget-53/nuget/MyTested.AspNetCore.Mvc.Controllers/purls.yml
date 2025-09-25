@@ -1,0 +1,16 @@
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@1.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@2.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@2.2.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@3.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@3.0.0-preview
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@3.0.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@3.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@3.1.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@3.1.2
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@3.1.3
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@5.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@6.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@7.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@8.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Controllers@9.0.0

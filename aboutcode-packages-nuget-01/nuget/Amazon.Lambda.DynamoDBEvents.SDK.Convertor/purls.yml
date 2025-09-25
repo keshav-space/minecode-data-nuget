@@ -1,0 +1,2 @@
+- pkg:nuget/Amazon.Lambda.DynamoDBEvents.SDK.Convertor@1.0.0
+- pkg:nuget/Amazon.Lambda.DynamoDBEvents.SDK.Convertor@2.0.0

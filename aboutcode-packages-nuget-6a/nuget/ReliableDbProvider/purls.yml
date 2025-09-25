@@ -1,0 +1,4 @@
+- pkg:nuget/ReliableDbProvider@0.9.3
+- pkg:nuget/ReliableDbProvider@0.9.5
+- pkg:nuget/ReliableDbProvider@0.9.7
+- pkg:nuget/ReliableDbProvider@1.0.0

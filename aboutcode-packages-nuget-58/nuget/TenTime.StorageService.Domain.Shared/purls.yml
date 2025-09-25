@@ -1,0 +1,9 @@
+- pkg:nuget/TenTime.StorageService.Domain.Shared@1.0.0
+- pkg:nuget/TenTime.StorageService.Domain.Shared@2.0.0
+- pkg:nuget/TenTime.StorageService.Domain.Shared@3.0.0
+- pkg:nuget/TenTime.StorageService.Domain.Shared@4.0.0
+- pkg:nuget/TenTime.StorageService.Domain.Shared@4.1.0
+- pkg:nuget/TenTime.StorageService.Domain.Shared@4.1.1
+- pkg:nuget/TenTime.StorageService.Domain.Shared@5.0.0
+- pkg:nuget/TenTime.StorageService.Domain.Shared@6.0.0
+- pkg:nuget/TenTime.StorageService.Domain.Shared@6.0.1

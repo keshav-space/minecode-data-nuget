@@ -1,0 +1,3 @@
+- pkg:nuget/AWSSDK.DynamoDBv2.Converters@1.0.0
+- pkg:nuget/AWSSDK.DynamoDBv2.Converters@2.0.0
+- pkg:nuget/AWSSDK.DynamoDBv2.Converters@2.0.1

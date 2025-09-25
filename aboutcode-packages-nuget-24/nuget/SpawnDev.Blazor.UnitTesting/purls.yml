@@ -1,0 +1,5 @@
+- pkg:nuget/SpawnDev.Blazor.UnitTesting@1.9.3
+- pkg:nuget/SpawnDev.Blazor.UnitTesting@1.9.4
+- pkg:nuget/SpawnDev.Blazor.UnitTesting@2.0.0
+- pkg:nuget/SpawnDev.Blazor.UnitTesting@2.0.2
+- pkg:nuget/SpawnDev.Blazor.UnitTesting@2.0.3

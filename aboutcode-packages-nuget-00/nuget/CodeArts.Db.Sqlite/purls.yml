@@ -1,0 +1,14 @@
+- pkg:nuget/CodeArts.Db.Sqlite@5.1.0
+- pkg:nuget/CodeArts.Db.Sqlite@5.2.0
+- pkg:nuget/CodeArts.Db.Sqlite@5.2.0.1
+- pkg:nuget/CodeArts.Db.Sqlite@6.0.0
+- pkg:nuget/CodeArts.Db.Sqlite@6.1.2
+- pkg:nuget/CodeArts.Db.Sqlite@6.1.2.1
+- pkg:nuget/CodeArts.Db.Sqlite@6.1.5
+- pkg:nuget/CodeArts.Db.Sqlite@7.0.0
+- pkg:nuget/CodeArts.Db.Sqlite@7.1.0
+- pkg:nuget/CodeArts.Db.Sqlite@8.0.0
+- pkg:nuget/CodeArts.Db.Sqlite@8.1.0
+- pkg:nuget/CodeArts.Db.Sqlite@8.1.1
+- pkg:nuget/CodeArts.Db.Sqlite@8.1.2
+- pkg:nuget/CodeArts.Db.Sqlite@8.1.5

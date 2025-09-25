@@ -1,0 +1,13 @@
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@1.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@1.0.0-alpha
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@1.0.0-preview
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@1.0.0-preview-final
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@2.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@2.2.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@3.0.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@3.0.0-preview
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@3.0.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@3.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@3.1.1
+- pkg:nuget/MyTested.AspNetCore.Mvc.Licensing@3.1.2

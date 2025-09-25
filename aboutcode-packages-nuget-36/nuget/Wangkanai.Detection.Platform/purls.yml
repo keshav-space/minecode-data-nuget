@@ -1,0 +1,14 @@
+- pkg:nuget/Wangkanai.Detection.Platform@1.0.0-alpha1
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta1
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta10
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta11
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta12
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta13
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta14-build393
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta14-build395
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta4
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta6
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta7
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta8
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.0-beta9
+- pkg:nuget/Wangkanai.Detection.Platform@2.0.1

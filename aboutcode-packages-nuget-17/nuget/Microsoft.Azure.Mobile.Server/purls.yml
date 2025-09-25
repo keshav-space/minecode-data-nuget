@@ -1,0 +1,14 @@
+- pkg:nuget/Microsoft.Azure.Mobile.Server@0.1.503
+- pkg:nuget/Microsoft.Azure.Mobile.Server@0.1.507
+- pkg:nuget/Microsoft.Azure.Mobile.Server@0.1.508
+- pkg:nuget/Microsoft.Azure.Mobile.Server@0.1.539
+- pkg:nuget/Microsoft.Azure.Mobile.Server@0.2.549
+- pkg:nuget/Microsoft.Azure.Mobile.Server@0.2.553
+- pkg:nuget/Microsoft.Azure.Mobile.Server@0.2.575
+- pkg:nuget/Microsoft.Azure.Mobile.Server@0.3.36
+- pkg:nuget/Microsoft.Azure.Mobile.Server@1.0.119
+- pkg:nuget/Microsoft.Azure.Mobile.Server@1.1.157.1
+- pkg:nuget/Microsoft.Azure.Mobile.Server@2.0.0
+- pkg:nuget/Microsoft.Azure.Mobile.Server@2.0.1
+- pkg:nuget/Microsoft.Azure.Mobile.Server@2.0.2
+- pkg:nuget/Microsoft.Azure.Mobile.Server@2.0.3

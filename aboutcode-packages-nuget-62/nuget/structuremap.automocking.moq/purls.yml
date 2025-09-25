@@ -1,0 +1,6 @@
+- pkg:nuget/structuremap.automocking.moq@3.0.2.115
+- pkg:nuget/structuremap.automocking.moq@3.0.4.125
+- pkg:nuget/structuremap.automocking.moq@3.0.5.130
+- pkg:nuget/structuremap.automocking.moq@3.1.0.133
+- pkg:nuget/structuremap.automocking.moq@3.1.5.154
+- pkg:nuget/structuremap.automocking.moq@4.0.0.315

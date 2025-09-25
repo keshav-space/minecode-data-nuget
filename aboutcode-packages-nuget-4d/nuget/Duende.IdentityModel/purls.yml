@@ -1,0 +1,6 @@
+- pkg:nuget/Duende.IdentityModel@7.0.0
+- pkg:nuget/Duende.IdentityModel@7.0.0-preview.1
+- pkg:nuget/Duende.IdentityModel@7.0.0-preview.2
+- pkg:nuget/Duende.IdentityModel@7.1.0
+- pkg:nuget/Duende.IdentityModel@7.1.0-preview.1
+- pkg:nuget/Duende.IdentityModel@7.1.0-preview.2

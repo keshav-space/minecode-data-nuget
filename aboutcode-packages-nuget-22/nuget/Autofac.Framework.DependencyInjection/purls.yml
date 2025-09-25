@@ -1,0 +1,4 @@
+- pkg:nuget/Autofac.Framework.DependencyInjection@4.0.0-beta5-90
+- pkg:nuget/Autofac.Framework.DependencyInjection@4.0.0-beta6-110
+- pkg:nuget/Autofac.Framework.DependencyInjection@4.0.0-beta7-130
+- pkg:nuget/Autofac.Framework.DependencyInjection@4.0.0-beta8-157

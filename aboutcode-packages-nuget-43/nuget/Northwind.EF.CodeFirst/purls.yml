@@ -1,0 +1,5 @@
+- pkg:nuget/Northwind.EF.CodeFirst@1.0.0.2
+- pkg:nuget/Northwind.EF.CodeFirst@4.6.1.1
+- pkg:nuget/Northwind.EF.CodeFirst@4.6.1.2
+- pkg:nuget/Northwind.EF.CodeFirst@4.6.2.1
+- pkg:nuget/Northwind.EF.CodeFirst@4.6.2.2

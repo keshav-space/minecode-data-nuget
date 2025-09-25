@@ -1,0 +1,14 @@
+- pkg:nuget/ZXing.Net.Core@0.1.0
+- pkg:nuget/ZXing.Net.Core@0.1.1-beta
+- pkg:nuget/ZXing.Net.Core@0.1.2-beta
+- pkg:nuget/ZXing.Net.Core@0.1.3-beta
+- pkg:nuget/ZXing.Net.Core@0.1.4-beta
+- pkg:nuget/ZXing.Net.Core@0.1.5-beta
+- pkg:nuget/ZXing.Net.Core@0.2.0-beta
+- pkg:nuget/ZXing.Net.Core@0.2.1
+- pkg:nuget/ZXing.Net.Core@0.2.2
+- pkg:nuget/ZXing.Net.Core@0.2.3
+- pkg:nuget/ZXing.Net.Core@0.2.4
+- pkg:nuget/ZXing.Net.Core@0.2.5
+- pkg:nuget/ZXing.Net.Core@0.2.6
+- pkg:nuget/ZXing.Net.Core@0.2.7
