@@ -1,0 +1,4 @@
+- pkg:nuget/RabbitMQSimpleHosting@1.0.0
+- pkg:nuget/RabbitMQSimpleHosting@1.0.1
+- pkg:nuget/RabbitMQSimpleHosting@1.0.3
+- pkg:nuget/RabbitMQSimpleHosting@2.0.0

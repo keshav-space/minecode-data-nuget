@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Azure.Management.Dns@1.2.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@1.3.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@1.5.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@1.7.1-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@1.7.2-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@1.8.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@1.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@2.0.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@2.1.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@2.2.0-preview
+- pkg:nuget/Microsoft.Azure.Management.Dns@3.0.0
+- pkg:nuget/Microsoft.Azure.Management.Dns@3.0.1

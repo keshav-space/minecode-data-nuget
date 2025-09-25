@@ -1,0 +1,14 @@
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.0.0-alpha.7
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.0.0-beta.7
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.0.0-beta.8
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.0.0-beta.9
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.0.1
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.1.0
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.1.1
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.1.2
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.2.0
+- pkg:nuget/Facteur.Extensions.DependencyInjection@1.2.0-beta.1
+- pkg:nuget/Facteur.Extensions.DependencyInjection@2.0.0
+- pkg:nuget/Facteur.Extensions.DependencyInjection@2.1.0
+- pkg:nuget/Facteur.Extensions.DependencyInjection@3.0.0-alpha.1

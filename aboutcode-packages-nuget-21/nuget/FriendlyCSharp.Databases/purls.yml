@@ -1,0 +1,11 @@
+- pkg:nuget/FriendlyCSharp.Databases@1.0.0
+- pkg:nuget/FriendlyCSharp.Databases@1.0.1
+- pkg:nuget/FriendlyCSharp.Databases@1.0.2
+- pkg:nuget/FriendlyCSharp.Databases@1.0.3
+- pkg:nuget/FriendlyCSharp.Databases@2.0.0
+- pkg:nuget/FriendlyCSharp.Databases@2.0.0-preview
+- pkg:nuget/FriendlyCSharp.Databases@2.0.0-preview2
+- pkg:nuget/FriendlyCSharp.Databases@2.0.1
+- pkg:nuget/FriendlyCSharp.Databases@2.0.2
+- pkg:nuget/FriendlyCSharp.Databases@2.0.3
+- pkg:nuget/FriendlyCSharp.Databases@2.0.4

@@ -1,0 +1,4 @@
+- pkg:nuget/CyberCrypt.D1.EntityFramework@0.1.23
+- pkg:nuget/CyberCrypt.D1.EntityFramework@1.0.0
+- pkg:nuget/CyberCrypt.D1.EntityFramework@2.0.0
+- pkg:nuget/CyberCrypt.D1.EntityFramework@2.0.1-ci.7

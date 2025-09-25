@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.16
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.17
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.22
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.26
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.29
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.35
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.40
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.46
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.50
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.52
+- pkg:nuget/Microsoft.Azure.AppService.ApiApps.Service@0.9.64

@@ -1,0 +1,10 @@
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@7.0.0
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@7.0.0-beta01
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@8.0.0
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@8.0.1
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@8.1.0
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@8.2.0
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@9.0.0
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@9.0.0-beta01
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@9.0.0-beta02
+- pkg:nuget/BootstrapBlazor.AzureOpenAI@9.0.0-beta03

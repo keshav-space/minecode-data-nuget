@@ -1,0 +1,9 @@
+- pkg:nuget/sqlcon@1.7.10
+- pkg:nuget/sqlcon@1.7.9
+- pkg:nuget/sqlcon@1.8.3
+- pkg:nuget/sqlcon@2.1.0
+- pkg:nuget/sqlcon@2.2.3
+- pkg:nuget/sqlcon@2.3.0
+- pkg:nuget/sqlcon@2.4.0
+- pkg:nuget/sqlcon@2.4.3
+- pkg:nuget/sqlcon@2.6.1

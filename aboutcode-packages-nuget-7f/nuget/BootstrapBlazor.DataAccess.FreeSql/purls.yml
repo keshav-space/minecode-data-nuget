@@ -1,0 +1,12 @@
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@7.1.0
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@7.2.0
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@8.0.0
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@8.1.0
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@8.1.1
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@8.1.2
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@8.2.0
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@8.2.1
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@8.3.0
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@9.0.0
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@9.0.0-beta01
+- pkg:nuget/BootstrapBlazor.DataAccess.FreeSql@9.0.0-beta02

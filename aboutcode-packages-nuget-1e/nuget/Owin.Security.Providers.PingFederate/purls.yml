@@ -1,0 +1,7 @@
+- pkg:nuget/Owin.Security.Providers.PingFederate@1.0.0
+- pkg:nuget/Owin.Security.Providers.PingFederate@1.0.10
+- pkg:nuget/Owin.Security.Providers.PingFederate@1.0.12
+- pkg:nuget/Owin.Security.Providers.PingFederate@1.0.13
+- pkg:nuget/Owin.Security.Providers.PingFederate@1.0.15
+- pkg:nuget/Owin.Security.Providers.PingFederate@1.0.17
+- pkg:nuget/Owin.Security.Providers.PingFederate@1.0.8

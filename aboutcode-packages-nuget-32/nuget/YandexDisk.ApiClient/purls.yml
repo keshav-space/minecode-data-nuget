@@ -1,0 +1,10 @@
+- pkg:nuget/YandexDisk.ApiClient@0.1.0
+- pkg:nuget/YandexDisk.ApiClient@1.0.0
+- pkg:nuget/YandexDisk.ApiClient@1.0.0-alpha.1
+- pkg:nuget/YandexDisk.ApiClient@1.0.0-alpha.2
+- pkg:nuget/YandexDisk.ApiClient@1.0.1
+- pkg:nuget/YandexDisk.ApiClient@1.0.2
+- pkg:nuget/YandexDisk.ApiClient@1.0.2-alpha
+- pkg:nuget/YandexDisk.ApiClient@1.0.3-alpha
+- pkg:nuget/YandexDisk.ApiClient@1.0.3-beta
+- pkg:nuget/YandexDisk.ApiClient@1.0.4-beta

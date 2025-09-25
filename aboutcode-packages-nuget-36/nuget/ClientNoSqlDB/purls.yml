@@ -1,0 +1,4 @@
+- pkg:nuget/ClientNoSqlDB@0.2.0
+- pkg:nuget/ClientNoSqlDB@1.0.0
+- pkg:nuget/ClientNoSqlDB@2.0.0
+- pkg:nuget/ClientNoSqlDB@3.0.9

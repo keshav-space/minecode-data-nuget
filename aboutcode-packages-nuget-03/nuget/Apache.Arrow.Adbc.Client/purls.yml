@@ -1,0 +1,10 @@
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.11.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.12.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.13.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.14.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.15.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.16.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.17.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.18.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.19.0
+- pkg:nuget/Apache.Arrow.Adbc.Client@0.20.0

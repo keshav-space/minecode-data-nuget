@@ -1,0 +1,13 @@
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@15.0.0
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@15.1.0
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@15.1.1
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@15.2.0
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@15.2.1
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@15.2.2
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@16.0.0
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@16.1.0
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@16.2.0
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@16.3.0
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@16.3.1
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@16.3.2
+- pkg:nuget/Cnblogs.Architecture.Ddd.Cqrs.DependencyInjection.CacheProviders.InMemory@16.4.0

@@ -1,0 +1,13 @@
+- pkg:nuget/BootstrapBlazor.CodeEditor@7.0.0
+- pkg:nuget/BootstrapBlazor.CodeEditor@8.0.0
+- pkg:nuget/BootstrapBlazor.CodeEditor@8.0.1
+- pkg:nuget/BootstrapBlazor.CodeEditor@8.0.2
+- pkg:nuget/BootstrapBlazor.CodeEditor@8.1.0
+- pkg:nuget/BootstrapBlazor.CodeEditor@8.1.1
+- pkg:nuget/BootstrapBlazor.CodeEditor@8.2.0
+- pkg:nuget/BootstrapBlazor.CodeEditor@9.0.0
+- pkg:nuget/BootstrapBlazor.CodeEditor@9.0.0-beta01
+- pkg:nuget/BootstrapBlazor.CodeEditor@9.0.0-beta02
+- pkg:nuget/BootstrapBlazor.CodeEditor@9.0.1
+- pkg:nuget/BootstrapBlazor.CodeEditor@9.0.2
+- pkg:nuget/BootstrapBlazor.CodeEditor@9.0.3

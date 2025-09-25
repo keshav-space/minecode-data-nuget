@@ -1,0 +1,7 @@
+- pkg:nuget/BootstrapBlazor.DataAccess.SqlSugar@8.0.0
+- pkg:nuget/BootstrapBlazor.DataAccess.SqlSugar@8.1.0
+- pkg:nuget/BootstrapBlazor.DataAccess.SqlSugar@8.3.0
+- pkg:nuget/BootstrapBlazor.DataAccess.SqlSugar@8.3.1
+- pkg:nuget/BootstrapBlazor.DataAccess.SqlSugar@9.0.0
+- pkg:nuget/BootstrapBlazor.DataAccess.SqlSugar@9.0.0-beta01
+- pkg:nuget/BootstrapBlazor.DataAccess.SqlSugar@9.0.0-beta02

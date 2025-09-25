@@ -1,0 +1,15 @@
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@7.1.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@7.2.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@7.3.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.0.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.1.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.1.1
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.2.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.3.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.3.1
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.3.2
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.4.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@8.5.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@9.0.0
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@9.0.0-beta01
+- pkg:nuget/BootstrapBlazor.DataAccess.PetaPoco@9.0.0-beta02

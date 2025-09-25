@@ -1,0 +1,12 @@
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@0.8.1-alpha
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@0.8.2-alpha
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@0.9.4-alpha
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.0.0
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.1.0
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.2.0
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.2.1
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.3.0
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.4.0
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.5.0
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.5.1
+- pkg:nuget/CoherentSolutions.Extensions.Hosting.ServiceFabric@1.5.2

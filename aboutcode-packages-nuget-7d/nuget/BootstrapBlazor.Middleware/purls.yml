@@ -1,0 +1,6 @@
+- pkg:nuget/BootstrapBlazor.Middleware@1.0.0
+- pkg:nuget/BootstrapBlazor.Middleware@7.0.0
+- pkg:nuget/BootstrapBlazor.Middleware@8.0.0
+- pkg:nuget/BootstrapBlazor.Middleware@9.0.0
+- pkg:nuget/BootstrapBlazor.Middleware@9.0.0-beta01
+- pkg:nuget/BootstrapBlazor.Middleware@9.0.0-beta02

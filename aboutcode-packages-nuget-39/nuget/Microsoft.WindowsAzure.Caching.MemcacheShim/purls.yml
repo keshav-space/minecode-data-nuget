@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@1.7.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@1.8.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.0.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.1.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.2.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.3.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.3.1
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.4.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.5.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.5.1
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.6.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.6.0.1
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.7.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.8.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.9.0
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.9.1
+- pkg:nuget/Microsoft.WindowsAzure.Caching.MemcacheShim@2.9.5

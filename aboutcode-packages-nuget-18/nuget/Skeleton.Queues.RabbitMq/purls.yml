@@ -1,0 +1,5 @@
+- pkg:nuget/Skeleton.Queues.RabbitMq@1.0.1
+- pkg:nuget/Skeleton.Queues.RabbitMq@1.1.0
+- pkg:nuget/Skeleton.Queues.RabbitMq@2.0.0
+- pkg:nuget/Skeleton.Queues.RabbitMq@2.0.0-build00394
+- pkg:nuget/Skeleton.Queues.RabbitMq@2.0.1

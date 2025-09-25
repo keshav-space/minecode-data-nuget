@@ -1,0 +1,16 @@
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.10
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.10.1
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.3-preview
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.3-preview2
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.4
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.4.1
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.4.1-preview
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.4.1-preview2
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.5
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.6
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.7
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.8
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.8.1
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.8.2
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.8.3
+- pkg:nuget/Xamarin.Microsoft.Band@1.3.9

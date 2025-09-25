@@ -1,0 +1,15 @@
+- pkg:nuget/AspNetCore.Identity.LiteDB@1.0.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.0.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.1.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.2.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.3.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.4.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.4.1
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.4.2
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.5.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.6.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@2.7.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@3.1.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@3.1.1
+- pkg:nuget/AspNetCore.Identity.LiteDB@4.0.0
+- pkg:nuget/AspNetCore.Identity.LiteDB@4.1.0

@@ -1,0 +1,10 @@
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@7.1.0
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@7.2.0
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@8.0.0
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@8.1.0
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@8.2.0
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@8.3.0
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@9.0.0
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@9.0.0-beta01
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@9.0.0-beta02
+- pkg:nuget/BootstrapBlazor.DataAccess.EntityFrameworkCore@9.0.1

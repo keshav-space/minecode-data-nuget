@@ -1,0 +1,6 @@
+- pkg:nuget/Sdcb.Arithmetic.Mpfr.runtime.win64@1.1.0-preview.2
+- pkg:nuget/Sdcb.Arithmetic.Mpfr.runtime.win64@1.1.0-preview.3
+- pkg:nuget/Sdcb.Arithmetic.Mpfr.runtime.win64@4.2.0
+- pkg:nuget/Sdcb.Arithmetic.Mpfr.runtime.win64@4.2.0-preview.5
+- pkg:nuget/Sdcb.Arithmetic.Mpfr.runtime.win64@4.2.0.1
+- pkg:nuget/Sdcb.Arithmetic.Mpfr.runtime.win64@4.2.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/CyberCrypt.D1.Client@0.1.23
+- pkg:nuget/CyberCrypt.D1.Client@1.0.0
+- pkg:nuget/CyberCrypt.D1.Client@2.0.0
+- pkg:nuget/CyberCrypt.D1.Client@2.0.1-ci.9
