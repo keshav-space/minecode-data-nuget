@@ -1,0 +1,9 @@
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.2-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.2.1-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.3-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.3.1-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.3.2-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.3.3-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.3.4-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.3.5-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.VS2019@0.9.3.6-prerelease

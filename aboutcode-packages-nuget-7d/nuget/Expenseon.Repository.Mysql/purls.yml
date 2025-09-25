@@ -1,0 +1,8 @@
+- pkg:nuget/Expenseon.Repository.Mysql@1.0.0
+- pkg:nuget/Expenseon.Repository.Mysql@2.0.0
+- pkg:nuget/Expenseon.Repository.Mysql@2.1.0
+- pkg:nuget/Expenseon.Repository.Mysql@2.2.0
+- pkg:nuget/Expenseon.Repository.Mysql@2.2.1
+- pkg:nuget/Expenseon.Repository.Mysql@2.2.2
+- pkg:nuget/Expenseon.Repository.Mysql@2.3.0
+- pkg:nuget/Expenseon.Repository.Mysql@2.3.1

@@ -1,0 +1,13 @@
+- pkg:nuget/sqlite-net-base@1.10.196-beta
+- pkg:nuget/sqlite-net-base@1.5.147-beta
+- pkg:nuget/sqlite-net-base@1.5.151-beta
+- pkg:nuget/sqlite-net-base@1.5.166-beta
+- pkg:nuget/sqlite-net-base@1.5.231
+- pkg:nuget/sqlite-net-base@1.6.292
+- pkg:nuget/sqlite-net-base@1.7.302-beta
+- pkg:nuget/sqlite-net-base@1.7.335
+- pkg:nuget/sqlite-net-base@1.8.0-beta
+- pkg:nuget/sqlite-net-base@1.8.103-beta
+- pkg:nuget/sqlite-net-base@1.8.116
+- pkg:nuget/sqlite-net-base@1.9.141-beta
+- pkg:nuget/sqlite-net-base@1.9.172

@@ -1,0 +1,6 @@
+- pkg:nuget/SqlTransactionalOutbox.Common@0.0.1
+- pkg:nuget/SqlTransactionalOutbox.Common@0.0.3
+- pkg:nuget/SqlTransactionalOutbox.Common@1.0.0
+- pkg:nuget/SqlTransactionalOutbox.Common@1.0.1
+- pkg:nuget/SqlTransactionalOutbox.Common@1.0.2
+- pkg:nuget/SqlTransactionalOutbox.Common@1.0.3

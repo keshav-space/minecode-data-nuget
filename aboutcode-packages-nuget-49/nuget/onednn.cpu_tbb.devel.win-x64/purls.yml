@@ -1,0 +1,13 @@
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2021.1.1.44
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2021.2.0.181
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2021.3.0.345
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2021.4.0.418
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2022.0.0.19
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2022.0.2.30
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2022.0.3.68
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2022.2.0.8802
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2022.2.0.9560
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2022.2.1.19752
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2023.0.0.25927
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2023.1.0.46354
+- pkg:nuget/onednn.cpu_tbb.devel.win-x64@2023.2.0.49513

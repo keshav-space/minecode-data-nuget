@@ -1,0 +1,2 @@
+- pkg:nuget/Datadog.Trace.AspNetCore@0.1.2
+- pkg:nuget/Datadog.Trace.AspNetCore@0.1.3

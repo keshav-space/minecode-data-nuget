@@ -1,0 +1,4 @@
+- pkg:nuget/singleton-scoped-transient-dependency-registrar@1.0.0
+- pkg:nuget/singleton-scoped-transient-dependency-registrar@1.0.1
+- pkg:nuget/singleton-scoped-transient-dependency-registrar@2.0.0
+- pkg:nuget/singleton-scoped-transient-dependency-registrar@3.0.0

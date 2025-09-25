@@ -1,0 +1,14 @@
+- pkg:nuget/JsonSchema@9.1.0
+- pkg:nuget/JsonSchema@9.1.0-rc
+- pkg:nuget/JsonSchema@9.1.1
+- pkg:nuget/JsonSchema@9.1.2
+- pkg:nuget/JsonSchema@9.2.0
+- pkg:nuget/JsonSchema@9.2.0-rc
+- pkg:nuget/JsonSchema@9.3.0
+- pkg:nuget/JsonSchema@9.3.0-rc
+- pkg:nuget/JsonSchema@9.3.1
+- pkg:nuget/JsonSchema@9.4.0
+- pkg:nuget/JsonSchema@9.4.0-rc
+- pkg:nuget/JsonSchema@9.4.1
+- pkg:nuget/JsonSchema@9.4.2
+- pkg:nuget/JsonSchema@9.4.3

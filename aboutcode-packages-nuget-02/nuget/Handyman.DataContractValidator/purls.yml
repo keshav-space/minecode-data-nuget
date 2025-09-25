@@ -1,0 +1,15 @@
+- pkg:nuget/Handyman.DataContractValidator@1.0.0
+- pkg:nuget/Handyman.DataContractValidator@1.0.1
+- pkg:nuget/Handyman.DataContractValidator@2.0.0
+- pkg:nuget/Handyman.DataContractValidator@2.1.0
+- pkg:nuget/Handyman.DataContractValidator@2.2.0
+- pkg:nuget/Handyman.DataContractValidator@3.0.0
+- pkg:nuget/Handyman.DataContractValidator@3.0.0-beta.202110250735
+- pkg:nuget/Handyman.DataContractValidator@3.0.0-beta.202110251329
+- pkg:nuget/Handyman.DataContractValidator@3.0.0-beta.202110251358
+- pkg:nuget/Handyman.DataContractValidator@3.0.0-beta.202110251419
+- pkg:nuget/Handyman.DataContractValidator@3.0.0-beta.202110251631
+- pkg:nuget/Handyman.DataContractValidator@3.1.0
+- pkg:nuget/Handyman.DataContractValidator@3.1.1
+- pkg:nuget/Handyman.DataContractValidator@3.2.0
+- pkg:nuget/Handyman.DataContractValidator@4.0.0

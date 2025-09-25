@@ -1,0 +1,9 @@
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.0.0
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.0.0-beta
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.0.0-beta2
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.0.0-beta3
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.1.0
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.1.0-beta1
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.1.1
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.1.1-beta
+- pkg:nuget/Tailwind.Extensions.AspNetCore@1.1.1-beta-1

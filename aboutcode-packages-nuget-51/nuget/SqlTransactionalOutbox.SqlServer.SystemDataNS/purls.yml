@@ -1,0 +1,8 @@
+- pkg:nuget/SqlTransactionalOutbox.SqlServer.SystemDataNS@0.0.1
+- pkg:nuget/SqlTransactionalOutbox.SqlServer.SystemDataNS@0.0.2
+- pkg:nuget/SqlTransactionalOutbox.SqlServer.SystemDataNS@0.0.3
+- pkg:nuget/SqlTransactionalOutbox.SqlServer.SystemDataNS@1.0.0
+- pkg:nuget/SqlTransactionalOutbox.SqlServer.SystemDataNS@1.0.1
+- pkg:nuget/SqlTransactionalOutbox.SqlServer.SystemDataNS@1.0.2
+- pkg:nuget/SqlTransactionalOutbox.SqlServer.SystemDataNS@1.0.3
+- pkg:nuget/SqlTransactionalOutbox.SqlServer.SystemDataNS@1.0.4

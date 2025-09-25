@@ -1,0 +1,8 @@
+- pkg:nuget/Serilog.Sinks.OffLogs@1.0.233.8
+- pkg:nuget/Serilog.Sinks.OffLogs@1.0.233.9
+- pkg:nuget/Serilog.Sinks.OffLogs@1.233.3
+- pkg:nuget/Serilog.Sinks.OffLogs@1.244.233.1
+- pkg:nuget/Serilog.Sinks.OffLogs@1.244.233.3
+- pkg:nuget/Serilog.Sinks.OffLogs@1.3.235.5
+- pkg:nuget/Serilog.Sinks.OffLogs@1.300.236.2
+- pkg:nuget/Serilog.Sinks.OffLogs@1.300.236.3

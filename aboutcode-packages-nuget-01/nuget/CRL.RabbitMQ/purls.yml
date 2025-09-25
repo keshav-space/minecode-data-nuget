@@ -1,0 +1,4 @@
+- pkg:nuget/CRL.RabbitMQ@5.0.1
+- pkg:nuget/CRL.RabbitMQ@5.0.2
+- pkg:nuget/CRL.RabbitMQ@5.0.3
+- pkg:nuget/CRL.RabbitMQ@6.0.1

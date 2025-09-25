@@ -1,0 +1,14 @@
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@0.7.1
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@0.7.2
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@0.7.3
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@1.0.0
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@1.1.0
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@2.0.0
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@2.1.0
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@3.0.0
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@3.0.1
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@4.0.0
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@4.0.1
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@5.0.0
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@5.0.1
+- pkg:nuget/Dynamicweb.LoadBalancing.Providers@5.0.2

@@ -1,0 +1,16 @@
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@2.0.0
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@2.0.1
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@2.0.2
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@2.0.3
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@2.0.4
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@3.0.0
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@3.1.0
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@3.2.0
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@3.2.1
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@4.0.1
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@4.1.1
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@6.0.0
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@6.0.1
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@6.1.0
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@6.1.1
+- pkg:nuget/Tubumu.Mediasoup.AspNetCore@6.2.0

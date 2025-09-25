@@ -1,0 +1,2 @@
+- pkg:nuget/Llvm.Libs.core.x86-Release@5.0.0
+- pkg:nuget/Llvm.Libs.core.x86-Release@5.0.1

@@ -1,0 +1,14 @@
+- pkg:nuget/StratumClient@0.0.1-preview01
+- pkg:nuget/StratumClient@0.0.1-preview03
+- pkg:nuget/StratumClient@0.0.1-preview04
+- pkg:nuget/StratumClient@0.0.1-preview06
+- pkg:nuget/StratumClient@0.0.49-preview
+- pkg:nuget/StratumClient@0.0.53-preview
+- pkg:nuget/StratumClient@0.0.56
+- pkg:nuget/StratumClient@0.0.56-preview
+- pkg:nuget/StratumClient@0.1.56-preview
+- pkg:nuget/StratumClient@0.1.58
+- pkg:nuget/StratumClient@0.2.58-preview
+- pkg:nuget/StratumClient@0.2.61
+- pkg:nuget/StratumClient@1.3.61-preview
+- pkg:nuget/StratumClient@1.3.63-preview

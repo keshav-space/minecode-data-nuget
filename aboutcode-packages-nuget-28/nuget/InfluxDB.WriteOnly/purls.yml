@@ -1,0 +1,15 @@
+- pkg:nuget/InfluxDB.WriteOnly@1.1.0
+- pkg:nuget/InfluxDB.WriteOnly@1.1.1
+- pkg:nuget/InfluxDB.WriteOnly@1.1.2
+- pkg:nuget/InfluxDB.WriteOnly@1.1.3
+- pkg:nuget/InfluxDB.WriteOnly@1.1.4
+- pkg:nuget/InfluxDB.WriteOnly@1.2.0
+- pkg:nuget/InfluxDB.WriteOnly@1.2.1
+- pkg:nuget/InfluxDB.WriteOnly@1.2.2
+- pkg:nuget/InfluxDB.WriteOnly@1.2.3
+- pkg:nuget/InfluxDB.WriteOnly@2.0.0
+- pkg:nuget/InfluxDB.WriteOnly@2.1.0
+- pkg:nuget/InfluxDB.WriteOnly@3.0.0-beta
+- pkg:nuget/InfluxDB.WriteOnly@3.0.1-beta
+- pkg:nuget/InfluxDB.WriteOnly@3.1.0
+- pkg:nuget/InfluxDB.WriteOnly@3.2.0

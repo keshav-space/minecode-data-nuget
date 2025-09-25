@@ -1,0 +1,6 @@
+- pkg:nuget/SingleInstanceCore@1.0.0
+- pkg:nuget/SingleInstanceCore@2.0.0
+- pkg:nuget/SingleInstanceCore@2.1.0
+- pkg:nuget/SingleInstanceCore@2.2.0
+- pkg:nuget/SingleInstanceCore@2.2.1
+- pkg:nuget/SingleInstanceCore@2.2.2

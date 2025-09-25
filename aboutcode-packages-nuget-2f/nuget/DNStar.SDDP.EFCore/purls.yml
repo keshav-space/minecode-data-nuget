@@ -1,0 +1,3 @@
+- pkg:nuget/DNStar.SDDP.EFCore@1.0.0
+- pkg:nuget/DNStar.SDDP.EFCore@2.0.0
+- pkg:nuget/DNStar.SDDP.EFCore@2.0.1

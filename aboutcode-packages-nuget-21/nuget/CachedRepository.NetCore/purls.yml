@@ -1,0 +1,10 @@
+- pkg:nuget/CachedRepository.NetCore@1.0.0-pre
+- pkg:nuget/CachedRepository.NetCore@1.0.1-pre
+- pkg:nuget/CachedRepository.NetCore@1.0.2-pre
+- pkg:nuget/CachedRepository.NetCore@2.0.0-pre
+- pkg:nuget/CachedRepository.NetCore@2.0.1-pre
+- pkg:nuget/CachedRepository.NetCore@2.1.0
+- pkg:nuget/CachedRepository.NetCore@2.2.0
+- pkg:nuget/CachedRepository.NetCore@2.3.0
+- pkg:nuget/CachedRepository.NetCore@2.3.1
+- pkg:nuget/CachedRepository.NetCore@5.0.0

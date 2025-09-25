@@ -1,0 +1,10 @@
+- pkg:nuget/Aero.Cake.TestSupport@2.0.0%2B2
+- pkg:nuget/Aero.Cake.TestSupport@2.0.0-preview.13
+- pkg:nuget/Aero.Cake.TestSupport@2.0.0-preview.14
+- pkg:nuget/Aero.Cake.TestSupport@2.0.0-preview.15
+- pkg:nuget/Aero.Cake.TestSupport@2.0.0-preview.16
+- pkg:nuget/Aero.Cake.TestSupport@2.0.0-preview.6%2B6
+- pkg:nuget/Aero.Cake.TestSupport@2.0.0-preview.7%2B7
+- pkg:nuget/Aero.Cake.TestSupport@2.1.0.1
+- pkg:nuget/Aero.Cake.TestSupport@2.1.0.24-preview
+- pkg:nuget/Aero.Cake.TestSupport@2.1.0.25

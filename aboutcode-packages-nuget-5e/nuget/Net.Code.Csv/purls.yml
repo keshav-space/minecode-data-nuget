@@ -1,0 +1,15 @@
+- pkg:nuget/Net.Code.Csv@1.0.0
+- pkg:nuget/Net.Code.Csv@1.0.2
+- pkg:nuget/Net.Code.Csv@1.0.3
+- pkg:nuget/Net.Code.Csv@2.0.0
+- pkg:nuget/Net.Code.Csv@3.0.0
+- pkg:nuget/Net.Code.Csv@3.0.1
+- pkg:nuget/Net.Code.Csv@3.0.16
+- pkg:nuget/Net.Code.Csv@3.0.18
+- pkg:nuget/Net.Code.Csv@4.0.0
+- pkg:nuget/Net.Code.Csv@5.0.0
+- pkg:nuget/Net.Code.Csv@5.0.0-preview.1
+- pkg:nuget/Net.Code.Csv@5.0.1
+- pkg:nuget/Net.Code.Csv@5.0.1-preview.3
+- pkg:nuget/Net.Code.Csv@5.0.2
+- pkg:nuget/Net.Code.Csv@5.0.3

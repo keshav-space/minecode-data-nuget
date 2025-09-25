@@ -1,0 +1,5 @@
+- pkg:nuget/Eryph.CommonClient.Commands@0.1.1-ci.11
+- pkg:nuget/Eryph.CommonClient.Commands@0.2.0
+- pkg:nuget/Eryph.CommonClient.Commands@0.3.0
+- pkg:nuget/Eryph.CommonClient.Commands@0.3.1
+- pkg:nuget/Eryph.CommonClient.Commands@0.4.0

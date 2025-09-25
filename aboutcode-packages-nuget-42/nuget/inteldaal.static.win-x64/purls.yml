@@ -1,0 +1,13 @@
+- pkg:nuget/inteldaal.static.win-x64@2019.3.235
+- pkg:nuget/inteldaal.static.win-x64@2019.4.245
+- pkg:nuget/inteldaal.static.win-x64@2019.5.281
+- pkg:nuget/inteldaal.static.win-x64@2020.0.166
+- pkg:nuget/inteldaal.static.win-x64@2020.1.216
+- pkg:nuget/inteldaal.static.win-x64@2020.2.254
+- pkg:nuget/inteldaal.static.win-x64@2020.3.311
+- pkg:nuget/inteldaal.static.win-x64@2021.1.1.71
+- pkg:nuget/inteldaal.static.win-x64@2021.2.0.366
+- pkg:nuget/inteldaal.static.win-x64@2021.4.0.729
+- pkg:nuget/inteldaal.static.win-x64@2021.5.0.796
+- pkg:nuget/inteldaal.static.win-x64@2021.5.3.815
+- pkg:nuget/inteldaal.static.win-x64@2021.5.4.854

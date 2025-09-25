@@ -1,0 +1,2 @@
+- pkg:nuget/MediatR.Contrib.Http.AspNetCore@1.0.0%2B4859
+- pkg:nuget/MediatR.Contrib.Http.AspNetCore@2.0.0%2B4943

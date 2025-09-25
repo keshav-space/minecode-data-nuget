@@ -1,0 +1,17 @@
+- pkg:nuget/SocketIOClient.Windows7@2.2.0
+- pkg:nuget/SocketIOClient.Windows7@2.2.1
+- pkg:nuget/SocketIOClient.Windows7@2.2.2
+- pkg:nuget/SocketIOClient.Windows7@2.2.3
+- pkg:nuget/SocketIOClient.Windows7@2.2.4
+- pkg:nuget/SocketIOClient.Windows7@2.2.4.1
+- pkg:nuget/SocketIOClient.Windows7@2.2.4.2-alpha.1
+- pkg:nuget/SocketIOClient.Windows7@2.3.0
+- pkg:nuget/SocketIOClient.Windows7@2.3.1
+- pkg:nuget/SocketIOClient.Windows7@3.0.0
+- pkg:nuget/SocketIOClient.Windows7@3.0.2
+- pkg:nuget/SocketIOClient.Windows7@3.0.3
+- pkg:nuget/SocketIOClient.Windows7@3.0.6
+- pkg:nuget/SocketIOClient.Windows7@3.0.7
+- pkg:nuget/SocketIOClient.Windows7@3.1.0
+- pkg:nuget/SocketIOClient.Windows7@3.1.1
+- pkg:nuget/SocketIOClient.Windows7@3.1.2

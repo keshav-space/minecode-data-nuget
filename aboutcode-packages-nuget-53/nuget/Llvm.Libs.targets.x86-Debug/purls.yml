@@ -1,0 +1,2 @@
+- pkg:nuget/Llvm.Libs.targets.x86-Debug@5.0.0
+- pkg:nuget/Llvm.Libs.targets.x86-Debug@5.0.1

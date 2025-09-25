@@ -1,0 +1,5 @@
+- pkg:nuget/CRL.RedisProvider@5.0.0
+- pkg:nuget/CRL.RedisProvider@5.0.1
+- pkg:nuget/CRL.RedisProvider@5.0.2
+- pkg:nuget/CRL.RedisProvider@5.0.3
+- pkg:nuget/CRL.RedisProvider@6.0.1

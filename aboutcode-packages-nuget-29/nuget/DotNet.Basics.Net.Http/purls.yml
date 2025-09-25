@@ -1,0 +1,13 @@
+- pkg:nuget/DotNet.Basics.Net.Http@10.0.0%2B54ce8c4
+- pkg:nuget/DotNet.Basics.Net.Http@10.0.0-beta.1.0%2B40f0dcf
+- pkg:nuget/DotNet.Basics.Net.Http@10.0.1%2B16ae9d7
+- pkg:nuget/DotNet.Basics.Net.Http@10.0.2%2Bf434a2d
+- pkg:nuget/DotNet.Basics.Net.Http@10.0.3%2B7fd06ae
+- pkg:nuget/DotNet.Basics.Net.Http@4.3.4%2B2c8f56d
+- pkg:nuget/DotNet.Basics.Net.Http@4.3.4-rc.1%2B0988151
+- pkg:nuget/DotNet.Basics.Net.Http@4.3.4-rc.2%2B60b92a9
+- pkg:nuget/DotNet.Basics.Net.Http@4.3.4-rc.3%2Ba60ce0e
+- pkg:nuget/DotNet.Basics.Net.Http@4.3.4-rc.4%2B5103c21
+- pkg:nuget/DotNet.Basics.Net.Http@4.3.4-rc.5%2B0e5bf7c
+- pkg:nuget/DotNet.Basics.Net.Http@4.3.4-rc.6%2B5f0770b
+- pkg:nuget/DotNet.Basics.Net.Http@4.4.0%2Bbd77b48

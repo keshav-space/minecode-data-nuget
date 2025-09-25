@@ -1,0 +1,3 @@
+- pkg:nuget/Sif.Framework.EntityFramework@1.0.0
+- pkg:nuget/Sif.Framework.EntityFramework@2.0.0
+- pkg:nuget/Sif.Framework.EntityFramework@2.0.1

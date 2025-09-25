@@ -1,0 +1,5 @@
+- pkg:nuget/SocketIOClient.Newtonsoft.Json@2.2.0
+- pkg:nuget/SocketIOClient.Newtonsoft.Json@2.2.1
+- pkg:nuget/SocketIOClient.Newtonsoft.Json@2.3.1
+- pkg:nuget/SocketIOClient.Newtonsoft.Json@3.0.0
+- pkg:nuget/SocketIOClient.Newtonsoft.Json@3.0.7

@@ -1,0 +1,4 @@
+- pkg:nuget/NuGet.Core.Ultimate@3.3.0
+- pkg:nuget/NuGet.Core.Ultimate@3.3.2
+- pkg:nuget/NuGet.Core.Ultimate@3.5.0-rc1-final
+- pkg:nuget/NuGet.Core.Ultimate@3.5.0-rc1-final-jb1

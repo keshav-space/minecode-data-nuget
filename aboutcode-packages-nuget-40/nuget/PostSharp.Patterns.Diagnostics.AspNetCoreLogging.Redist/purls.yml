@@ -1,0 +1,11 @@
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.11-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.12-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.13-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.14-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.15-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.16-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.17-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.18-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.19-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.20-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCoreLogging.Redist@5.0.21-preview

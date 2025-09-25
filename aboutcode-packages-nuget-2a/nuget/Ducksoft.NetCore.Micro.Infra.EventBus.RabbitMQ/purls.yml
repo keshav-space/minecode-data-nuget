@@ -1,0 +1,4 @@
+- pkg:nuget/Ducksoft.NetCore.Micro.Infra.EventBus.RabbitMQ@1.0.100
+- pkg:nuget/Ducksoft.NetCore.Micro.Infra.EventBus.RabbitMQ@1.0.101
+- pkg:nuget/Ducksoft.NetCore.Micro.Infra.EventBus.RabbitMQ@1.0.102
+- pkg:nuget/Ducksoft.NetCore.Micro.Infra.EventBus.RabbitMQ@1.0.103

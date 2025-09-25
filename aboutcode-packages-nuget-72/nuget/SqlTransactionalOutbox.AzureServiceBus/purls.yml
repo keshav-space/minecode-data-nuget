@@ -1,0 +1,6 @@
+- pkg:nuget/SqlTransactionalOutbox.AzureServiceBus@0.0.1
+- pkg:nuget/SqlTransactionalOutbox.AzureServiceBus@0.0.3
+- pkg:nuget/SqlTransactionalOutbox.AzureServiceBus@1.0.0
+- pkg:nuget/SqlTransactionalOutbox.AzureServiceBus@1.0.1
+- pkg:nuget/SqlTransactionalOutbox.AzureServiceBus@1.0.2
+- pkg:nuget/SqlTransactionalOutbox.AzureServiceBus@1.0.3

@@ -1,0 +1,5 @@
+- pkg:nuget/Purview.Logging.SourceGenerator.CSharp9@0.9.4-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.CSharp9@0.9.4.1-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.CSharp9@0.9.5-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.CSharp9@0.9.5.1-prerelease
+- pkg:nuget/Purview.Logging.SourceGenerator.CSharp9@0.9.5.2-prerelease

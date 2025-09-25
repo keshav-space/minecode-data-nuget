@@ -1,0 +1,5 @@
+- pkg:nuget/sqlite-net-static@1.10.196-beta
+- pkg:nuget/sqlite-net-static@1.8.103-beta
+- pkg:nuget/sqlite-net-static@1.8.116
+- pkg:nuget/sqlite-net-static@1.9.141-beta
+- pkg:nuget/sqlite-net-static@1.9.172

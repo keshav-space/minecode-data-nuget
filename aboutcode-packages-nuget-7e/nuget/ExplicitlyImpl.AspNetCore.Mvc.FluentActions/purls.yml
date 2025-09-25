@@ -1,0 +1,10 @@
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@1.0.0
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@1.0.1
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@1.0.2
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@1.0.3
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@1.1.0
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@1.2.0
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@2.0.0
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@2.1.0
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@2.2.0
+- pkg:nuget/ExplicitlyImpl.AspNetCore.Mvc.FluentActions@3.0.0
