@@ -1,0 +1,12 @@
+- pkg:nuget/FRC.CameraServer@0.9.1-beta2
+- pkg:nuget/FRC.CameraServer@0.9.1-beta3
+- pkg:nuget/FRC.CameraServer@0.9.1-beta4
+- pkg:nuget/FRC.CameraServer@0.9.2-beta1
+- pkg:nuget/FRC.CameraServer@0.9.3-beta1
+- pkg:nuget/FRC.CameraServer@0.9.4-rc1
+- pkg:nuget/FRC.CameraServer@0.9.4-rc2
+- pkg:nuget/FRC.CameraServer@1.0.0
+- pkg:nuget/FRC.CameraServer@1.0.1
+- pkg:nuget/FRC.CameraServer@1.0.2
+- pkg:nuget/FRC.CameraServer@2.0.0
+- pkg:nuget/FRC.CameraServer@2017.0.1-beta-0003

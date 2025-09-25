@@ -1,0 +1,3 @@
+- pkg:nuget/JsonRpc.CoreCLR.Client@0.0.1
+- pkg:nuget/JsonRpc.CoreCLR.Client@1.0.0
+- pkg:nuget/JsonRpc.CoreCLR.Client@1.0.1

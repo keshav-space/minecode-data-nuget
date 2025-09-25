@@ -1,0 +1,14 @@
+- pkg:nuget/PowerCLI67CoreDLL@1.0.0
+- pkg:nuget/PowerCLI67CoreDLL@1.0.1
+- pkg:nuget/PowerCLI67CoreDLL@1.1.0
+- pkg:nuget/PowerCLI67CoreDLL@2.1.0
+- pkg:nuget/PowerCLI67CoreDLL@2.2.1
+- pkg:nuget/PowerCLI67CoreDLL@2.2.2
+- pkg:nuget/PowerCLI67CoreDLL@2.2.3
+- pkg:nuget/PowerCLI67CoreDLL@2.2.4
+- pkg:nuget/PowerCLI67CoreDLL@2.2.5
+- pkg:nuget/PowerCLI67CoreDLL@2.2.6
+- pkg:nuget/PowerCLI67CoreDLL@2.2.7
+- pkg:nuget/PowerCLI67CoreDLL@3.0.0
+- pkg:nuget/PowerCLI67CoreDLL@3.0.1
+- pkg:nuget/PowerCLI67CoreDLL@3.1.0

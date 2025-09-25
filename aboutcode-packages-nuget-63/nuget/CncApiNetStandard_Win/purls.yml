@@ -1,0 +1,6 @@
+- pkg:nuget/CncApiNetStandard_Win@2.4.4.8-beta
+- pkg:nuget/CncApiNetStandard_Win@3.4.3.58
+- pkg:nuget/CncApiNetStandard_Win@3.4.3.59
+- pkg:nuget/CncApiNetStandard_Win@3.4.4.11
+- pkg:nuget/CncApiNetStandard_Win@3.4.4.8-beta
+- pkg:nuget/CncApiNetStandard_Win@3.4.4.9-beta

@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.AdMediator.Core@4.0.0
+- pkg:nuget/Microsoft.AdMediator.Core@4.0.1
+- pkg:nuget/Microsoft.AdMediator.Core@4.1.1

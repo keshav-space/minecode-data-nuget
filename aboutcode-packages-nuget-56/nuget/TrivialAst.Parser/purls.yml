@@ -1,0 +1,3 @@
+- pkg:nuget/TrivialAst.Parser@1.0.0.10
+- pkg:nuget/TrivialAst.Parser@1.0.1-alphaA3
+- pkg:nuget/TrivialAst.Parser@1.0.1-alphaA4

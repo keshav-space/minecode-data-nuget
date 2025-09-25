@@ -1,0 +1,11 @@
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.2.0.203
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.2.1.206
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.2.2.205
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.3.1.215
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.4.0.213-ci-20200109-153106
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.4.0.216-ci-20200310-164831
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.4.0.221-ci-20200130-132531
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.5.0.217-ci-20200310-171216
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.5.0.219-ci-20200310-174230
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.5.0.221
+- pkg:nuget/Bluehands.Diagnostics.LogExtensions.Web@2.5.0.221-ci-20200311-174552

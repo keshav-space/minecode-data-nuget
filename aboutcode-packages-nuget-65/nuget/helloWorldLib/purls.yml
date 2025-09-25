@@ -1,0 +1,11 @@
+- pkg:nuget/helloWorldLib@0.1.13
+- pkg:nuget/helloWorldLib@0.1.17
+- pkg:nuget/helloWorldLib@0.1.18-prealpha
+- pkg:nuget/helloWorldLib@0.1.19-prealpha
+- pkg:nuget/helloWorldLib@0.1.2
+- pkg:nuget/helloWorldLib@0.1.20-prealpha
+- pkg:nuget/helloWorldLib@0.1.21-prealpha
+- pkg:nuget/helloWorldLib@0.1.4
+- pkg:nuget/helloWorldLib@0.1.5
+- pkg:nuget/helloWorldLib@0.1.6
+- pkg:nuget/helloWorldLib@1.0.0

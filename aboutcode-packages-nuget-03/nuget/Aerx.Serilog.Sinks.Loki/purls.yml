@@ -1,0 +1,5 @@
+- pkg:nuget/Aerx.Serilog.Sinks.Loki@1.0.0
+- pkg:nuget/Aerx.Serilog.Sinks.Loki@1.0.1
+- pkg:nuget/Aerx.Serilog.Sinks.Loki@1.1.0
+- pkg:nuget/Aerx.Serilog.Sinks.Loki@1.1.1
+- pkg:nuget/Aerx.Serilog.Sinks.Loki@1.1.2

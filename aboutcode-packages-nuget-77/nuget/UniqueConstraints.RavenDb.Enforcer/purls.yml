@@ -1,0 +1,2 @@
+- pkg:nuget/UniqueConstraints.RavenDb.Enforcer@1.0.0-Unstable
+- pkg:nuget/UniqueConstraints.RavenDb.Enforcer@1.0.5

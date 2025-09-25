@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@6.1.0
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@6.1.0-preview1.2
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@6.1.0-rc1
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@6.1.1
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.0.0
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.0.0-preview2
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.0.0-preview3
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.0.0-preview4
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.0.0-preview5
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.0.1
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.0.2
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.1.0
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.1.0-preview1
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.1.0-rc1
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.1.0-rc2
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.1.1
+- pkg:nuget/Microsoft.Toolkit.HighPerformance@7.1.2

@@ -1,0 +1,15 @@
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.0.0-alfa
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.0.0-beta
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.0.0-preview
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.0.0-rc
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.0.0-rc-1
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.0.0-rc-2
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.0.2
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.0.3
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.1.0
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.1.1
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.1.5
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.1.6
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.1.7
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.1.8
+- pkg:nuget/Bastion.Blocks.EntityFrameworkCore@3.1.9

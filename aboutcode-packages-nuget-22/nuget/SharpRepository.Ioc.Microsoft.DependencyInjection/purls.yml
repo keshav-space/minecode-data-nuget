@@ -1,0 +1,6 @@
+- pkg:nuget/SharpRepository.Ioc.Microsoft.DependencyInjection@2.0.1-beta1
+- pkg:nuget/SharpRepository.Ioc.Microsoft.DependencyInjection@2.0.2
+- pkg:nuget/SharpRepository.Ioc.Microsoft.DependencyInjection@2.0.2.2
+- pkg:nuget/SharpRepository.Ioc.Microsoft.DependencyInjection@2.1.0-prerelease
+- pkg:nuget/SharpRepository.Ioc.Microsoft.DependencyInjection@2.1.1
+- pkg:nuget/SharpRepository.Ioc.Microsoft.DependencyInjection@2.1.2

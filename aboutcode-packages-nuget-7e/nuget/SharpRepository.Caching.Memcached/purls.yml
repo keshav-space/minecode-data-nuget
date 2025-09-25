@@ -1,0 +1,8 @@
+- pkg:nuget/SharpRepository.Caching.Memcached@1.0.0
+- pkg:nuget/SharpRepository.Caching.Memcached@1.0.0.1
+- pkg:nuget/SharpRepository.Caching.Memcached@1.1.0
+- pkg:nuget/SharpRepository.Caching.Memcached@1.2.0
+- pkg:nuget/SharpRepository.Caching.Memcached@1.3.49-unstable
+- pkg:nuget/SharpRepository.Caching.Memcached@1.4.7
+- pkg:nuget/SharpRepository.Caching.Memcached@1.5.0.2
+- pkg:nuget/SharpRepository.Caching.Memcached@2.0.1-alpha3

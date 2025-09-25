@@ -1,0 +1,4 @@
+- pkg:nuget/GoC.EWS.WSEDProxy@2.5.1
+- pkg:nuget/GoC.EWS.WSEDProxy@2.7.0-rc
+- pkg:nuget/GoC.EWS.WSEDProxy@2.7.1
+- pkg:nuget/GoC.EWS.WSEDProxy@2.7.1-rc

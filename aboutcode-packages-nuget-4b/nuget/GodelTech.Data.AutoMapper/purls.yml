@@ -1,0 +1,15 @@
+- pkg:nuget/GodelTech.Data.AutoMapper@1.0.0-rc.1
+- pkg:nuget/GodelTech.Data.AutoMapper@1.0.0-rc.2
+- pkg:nuget/GodelTech.Data.AutoMapper@3.0.0
+- pkg:nuget/GodelTech.Data.AutoMapper@3.1.1
+- pkg:nuget/GodelTech.Data.AutoMapper@5.0.0
+- pkg:nuget/GodelTech.Data.AutoMapper@6.0.0
+- pkg:nuget/GodelTech.Data.AutoMapper@6.1.0
+- pkg:nuget/GodelTech.Data.AutoMapper@6.2.0
+- pkg:nuget/GodelTech.Data.AutoMapper@6.3.0
+- pkg:nuget/GodelTech.Data.AutoMapper@6.4.0
+- pkg:nuget/GodelTech.Data.AutoMapper@6.5.0
+- pkg:nuget/GodelTech.Data.AutoMapper@7.0.0
+- pkg:nuget/GodelTech.Data.AutoMapper@8.0.0
+- pkg:nuget/GodelTech.Data.AutoMapper@8.1.0
+- pkg:nuget/GodelTech.Data.AutoMapper@9.0.0

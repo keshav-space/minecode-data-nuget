@@ -1,0 +1,3 @@
+- pkg:nuget/AspNetCore.Adb@3.0.0-alpha3
+- pkg:nuget/AspNetCore.Adb@3.0.0-dev6
+- pkg:nuget/AspNetCore.Adb@3.0.0.200103

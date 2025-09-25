@@ -1,0 +1,5 @@
+- pkg:nuget/Bartender@1.0.0
+- pkg:nuget/Bartender@1.0.0-alpha-1
+- pkg:nuget/Bartender@1.0.0-alpha-3
+- pkg:nuget/Bartender@1.0.0-beta
+- pkg:nuget/Bartender@1.0.0-rc

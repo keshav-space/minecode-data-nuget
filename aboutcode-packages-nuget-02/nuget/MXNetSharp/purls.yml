@@ -1,0 +1,4 @@
+- pkg:nuget/MXNetSharp@0.0.1
+- pkg:nuget/MXNetSharp@0.0.1-alpha
+- pkg:nuget/MXNetSharp@0.0.2
+- pkg:nuget/MXNetSharp@0.0.3

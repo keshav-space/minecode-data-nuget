@@ -1,0 +1,16 @@
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@2.2.0
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@2.2.1
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@2.2.1.2
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.0-rc1
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.0-rc2
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.0-rc3
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.0.6
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-0
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-1
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-2
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-3
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-9006
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-9007
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-9008
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-9012
+- pkg:nuget/Ninject.Extensions.bbvEventBroker@3.0.2-unstable-9013

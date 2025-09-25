@@ -1,0 +1,9 @@
+- pkg:nuget/GitPackage@0.1.0
+- pkg:nuget/GitPackage@0.2.0
+- pkg:nuget/GitPackage@0.3.0
+- pkg:nuget/GitPackage@0.4.0
+- pkg:nuget/GitPackage@0.5.0
+- pkg:nuget/GitPackage@0.6.0
+- pkg:nuget/GitPackage@0.6.0-preview1
+- pkg:nuget/GitPackage@0.6.0-preview2
+- pkg:nuget/GitPackage@0.6.0-preview3

@@ -1,0 +1,3 @@
+- pkg:nuget/SpecFlow.MSTest.TestContext@0.0.1
+- pkg:nuget/SpecFlow.MSTest.TestContext@1.0.0
+- pkg:nuget/SpecFlow.MSTest.TestContext@1.0.1

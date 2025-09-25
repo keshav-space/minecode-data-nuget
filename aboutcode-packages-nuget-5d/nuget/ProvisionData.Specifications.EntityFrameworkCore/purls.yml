@@ -1,0 +1,13 @@
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@2.3.2%2B11
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@3.0.0-alpha.14
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@3.0.0-alpha.16
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@3.0.0-beta.1%2B1
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@3.0.0-beta.11
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@3.0.0-beta.13
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@3.0.0-beta.16
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@3.0.0-beta.17
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@4.1.0
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@4.1.1
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@4.1.2
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@4.1.3
+- pkg:nuget/ProvisionData.Specifications.EntityFrameworkCore@4.2.0

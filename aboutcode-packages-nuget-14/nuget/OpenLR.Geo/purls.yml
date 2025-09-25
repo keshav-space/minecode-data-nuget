@@ -1,0 +1,16 @@
+- pkg:nuget/OpenLR.Geo@1.0.0
+- pkg:nuget/OpenLR.Geo@1.0.0-pre01
+- pkg:nuget/OpenLR.Geo@1.1.0-pre01
+- pkg:nuget/OpenLR.Geo@1.1.0-pre02
+- pkg:nuget/OpenLR.Geo@1.1.1-pre01
+- pkg:nuget/OpenLR.Geo@1.1.1-pre02
+- pkg:nuget/OpenLR.Geo@1.1.1-pre03
+- pkg:nuget/OpenLR.Geo@1.1.1-pre04
+- pkg:nuget/OpenLR.Geo@1.1.1-pre05
+- pkg:nuget/OpenLR.Geo@1.1.1-pre06
+- pkg:nuget/OpenLR.Geo@1.1.1-pre07
+- pkg:nuget/OpenLR.Geo@1.1.1-pre08
+- pkg:nuget/OpenLR.Geo@1.1.1-pre09
+- pkg:nuget/OpenLR.Geo@1.1.1-pre10
+- pkg:nuget/OpenLR.Geo@1.1.1-pre11
+- pkg:nuget/OpenLR.Geo@1.1.1-pre13

@@ -1,0 +1,12 @@
+- pkg:nuget/DynamicODataToSQL@1.0.0%2Bbuild.6
+- pkg:nuget/DynamicODataToSQL@1.0.1%2Bbuild.9
+- pkg:nuget/DynamicODataToSQL@1.0.2%2Bbuild.13
+- pkg:nuget/DynamicODataToSQL@1.0.3%2Bbuild.17
+- pkg:nuget/DynamicODataToSQL@1.0.4%2Bbuild.20
+- pkg:nuget/DynamicODataToSQL@1.0.5%2Bbuild.24
+- pkg:nuget/DynamicODataToSQL@1.0.6%2Bbuild.33
+- pkg:nuget/DynamicODataToSQL@1.0.7%2Bbuild.47
+- pkg:nuget/DynamicODataToSQL@1.0.8%2Bbuild.52
+- pkg:nuget/DynamicODataToSQL@2.0.0
+- pkg:nuget/DynamicODataToSQL@2.0.1
+- pkg:nuget/DynamicODataToSQL@2.1.0

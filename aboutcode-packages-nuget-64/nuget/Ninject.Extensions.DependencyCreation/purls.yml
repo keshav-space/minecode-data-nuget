@@ -1,0 +1,17 @@
+- pkg:nuget/Ninject.Extensions.DependencyCreation@2.2.0
+- pkg:nuget/Ninject.Extensions.DependencyCreation@2.2.0.6
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.0-rc1
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.0-rc2
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.0-rc3
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.0.5
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-0
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-1
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-4
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-5
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-9007
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-9008
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-9009
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-9013
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.0.2-unstable-9014
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.2.0
+- pkg:nuget/Ninject.Extensions.DependencyCreation@3.2.0-unstable-001

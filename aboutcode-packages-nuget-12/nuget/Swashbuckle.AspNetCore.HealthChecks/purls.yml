@@ -1,0 +1,3 @@
+- pkg:nuget/Swashbuckle.AspNetCore.HealthChecks@0.1.0
+- pkg:nuget/Swashbuckle.AspNetCore.HealthChecks@0.1.0-alpha.0
+- pkg:nuget/Swashbuckle.AspNetCore.HealthChecks@0.1.0-beta.0

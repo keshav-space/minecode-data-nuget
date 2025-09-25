@@ -1,0 +1,11 @@
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@1.0.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@1.0.0-beta
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@1.1.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@1.3.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@1.4.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@1.5.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@2.0.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@2.1.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@2.2.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@2.3.0
+- pkg:nuget/Lib.AspNetCore.Mvc.JqGrid.DataAnnotations@3.0.0

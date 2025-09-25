@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.280
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.280-preview
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.299-preview
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.302
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.303-preview
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.304
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.304-preview
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.305
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.0.305-preview
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.1.0
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.1.15-preview
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.1.17
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.1.2
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.1.4
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.1.5
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.1.9
+- pkg:nuget/Microsoft.SqlServer.Assessment@1.1.9-preview

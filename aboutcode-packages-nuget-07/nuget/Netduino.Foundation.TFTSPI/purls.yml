@@ -1,0 +1,3 @@
+- pkg:nuget/Netduino.Foundation.TFTSPI@0.14.719
+- pkg:nuget/Netduino.Foundation.TFTSPI@0.15.722
+- pkg:nuget/Netduino.Foundation.TFTSPI@0.16.743

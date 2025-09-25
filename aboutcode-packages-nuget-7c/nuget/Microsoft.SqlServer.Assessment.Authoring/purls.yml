@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.SqlServer.Assessment.Authoring@1.0.280
+- pkg:nuget/Microsoft.SqlServer.Assessment.Authoring@1.0.280-preview
+- pkg:nuget/Microsoft.SqlServer.Assessment.Authoring@1.0.282
+- pkg:nuget/Microsoft.SqlServer.Assessment.Authoring@1.0.282-preview
+- pkg:nuget/Microsoft.SqlServer.Assessment.Authoring@1.1.0

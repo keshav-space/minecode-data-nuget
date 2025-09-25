@@ -1,0 +1,4 @@
+- pkg:nuget/OpenStockApi.Core@2.2.0
+- pkg:nuget/OpenStockApi.Core@2.3.0
+- pkg:nuget/OpenStockApi.Core@2.4.0
+- pkg:nuget/OpenStockApi.Core@2.5.0

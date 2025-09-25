@@ -1,0 +1,14 @@
+- pkg:nuget/RestClient.Net.Abstractions@3.0.0
+- pkg:nuget/RestClient.Net.Abstractions@3.1.1
+- pkg:nuget/RestClient.Net.Abstractions@3.2.0
+- pkg:nuget/RestClient.Net.Abstractions@4.0.0
+- pkg:nuget/RestClient.Net.Abstractions@4.1.0
+- pkg:nuget/RestClient.Net.Abstractions@5.0.0-alpha
+- pkg:nuget/RestClient.Net.Abstractions@5.0.2-alpha
+- pkg:nuget/RestClient.Net.Abstractions@5.0.3-beta
+- pkg:nuget/RestClient.Net.Abstractions@5.0.4-beta
+- pkg:nuget/RestClient.Net.Abstractions@5.0.5-beta
+- pkg:nuget/RestClient.Net.Abstractions@5.0.6
+- pkg:nuget/RestClient.Net.Abstractions@5.0.7
+- pkg:nuget/RestClient.Net.Abstractions@5.1.0
+- pkg:nuget/RestClient.Net.Abstractions@6.0.0

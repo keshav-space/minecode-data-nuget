@@ -1,0 +1,4 @@
+- pkg:nuget/Dapper.DBContext@0.1.0
+- pkg:nuget/Dapper.DBContext@0.2.0
+- pkg:nuget/Dapper.DBContext@1.0.0
+- pkg:nuget/Dapper.DBContext@2.1.0

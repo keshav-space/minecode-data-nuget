@@ -1,0 +1,7 @@
+- pkg:nuget/NLog.Targets.Logcat@2.3.1.215
+- pkg:nuget/NLog.Targets.Logcat@2.4.0.213
+- pkg:nuget/NLog.Targets.Logcat@2.4.0.216
+- pkg:nuget/NLog.Targets.Logcat@2.4.0.221
+- pkg:nuget/NLog.Targets.Logcat@2.5.0.217
+- pkg:nuget/NLog.Targets.Logcat@2.5.0.219
+- pkg:nuget/NLog.Targets.Logcat@2.5.0.221

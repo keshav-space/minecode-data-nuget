@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Devices.Gateway.Native.Windows.x64@1.1.0
+- pkg:nuget/Microsoft.Azure.Devices.Gateway.Native.Windows.x64@1.1.1
+- pkg:nuget/Microsoft.Azure.Devices.Gateway.Native.Windows.x64@1.1.2
+- pkg:nuget/Microsoft.Azure.Devices.Gateway.Native.Windows.x64@1.1.3

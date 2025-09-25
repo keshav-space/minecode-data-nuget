@@ -1,0 +1,3 @@
+- pkg:nuget/WopiHost.Discovery@3.0.0
+- pkg:nuget/WopiHost.Discovery@3.0.0-beta1
+- pkg:nuget/WopiHost.Discovery@4.0.1

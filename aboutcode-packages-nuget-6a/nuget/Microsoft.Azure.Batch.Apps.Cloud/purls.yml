@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Batch.Apps.Cloud@1.0.0
+- pkg:nuget/Microsoft.Azure.Batch.Apps.Cloud@1.0.1-preview
+- pkg:nuget/Microsoft.Azure.Batch.Apps.Cloud@1.1.0-preview
+- pkg:nuget/Microsoft.Azure.Batch.Apps.Cloud@1.1.1-preview

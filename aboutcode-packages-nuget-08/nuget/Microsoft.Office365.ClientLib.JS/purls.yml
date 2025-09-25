@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Office365.ClientLib.JS@0.1.0-alpha
+- pkg:nuget/Microsoft.Office365.ClientLib.JS@0.1.1-alpha
+- pkg:nuget/Microsoft.Office365.ClientLib.JS@1.0.21
+- pkg:nuget/Microsoft.Office365.ClientLib.JS@1.0.22

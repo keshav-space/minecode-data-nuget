@@ -1,0 +1,3 @@
+- pkg:nuget/fm.Extensions.Logging.Testing.xUnit@1.0.0
+- pkg:nuget/fm.Extensions.Logging.Testing.xUnit@1.0.0-beta1
+- pkg:nuget/fm.Extensions.Logging.Testing.xUnit@2.0.0-preview1

@@ -1,0 +1,15 @@
+- pkg:nuget/FCDSN.Win32@6.0.18.196
+- pkg:nuget/FCDSN.Win32@6.0.18.223
+- pkg:nuget/FCDSN.Win32@6.0.18.25-beta
+- pkg:nuget/FCDSN.Win32@6.0.18.250
+- pkg:nuget/FCDSN.Win32@6.0.18.277
+- pkg:nuget/FCDSN.Win32@6.0.18.283-beta
+- pkg:nuget/FCDSN.Win32@6.0.18.284-beta
+- pkg:nuget/FCDSN.Win32@6.0.18.285-beta
+- pkg:nuget/FCDSN.Win32@6.0.18.286-beta
+- pkg:nuget/FCDSN.Win32@6.0.18.29-beta
+- pkg:nuget/FCDSN.Win32@6.0.18.33-beta
+- pkg:nuget/FCDSN.Win32@6.1.4.11676
+- pkg:nuget/FCDSN.Win32@6.1.4.11746
+- pkg:nuget/FCDSN.Win32@6.1.4.1178
+- pkg:nuget/FCDSN.Win32@6.1.4.9999

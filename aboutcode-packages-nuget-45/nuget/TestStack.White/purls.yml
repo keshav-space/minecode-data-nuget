@@ -1,0 +1,15 @@
+- pkg:nuget/TestStack.White@0.10.0.102
+- pkg:nuget/TestStack.White@0.10.1.111
+- pkg:nuget/TestStack.White@0.10.2.112
+- pkg:nuget/TestStack.White@0.10.3.118
+- pkg:nuget/TestStack.White@0.11.0.207
+- pkg:nuget/TestStack.White@0.11.0.262
+- pkg:nuget/TestStack.White@0.12.0
+- pkg:nuget/TestStack.White@0.13.0
+- pkg:nuget/TestStack.White@0.13.2
+- pkg:nuget/TestStack.White@0.13.3
+- pkg:nuget/TestStack.White@0.9.0.1
+- pkg:nuget/TestStack.White@0.9.0.2
+- pkg:nuget/TestStack.White@0.9.1.1
+- pkg:nuget/TestStack.White@0.9.3.27
+- pkg:nuget/TestStack.White@9.2.0.11

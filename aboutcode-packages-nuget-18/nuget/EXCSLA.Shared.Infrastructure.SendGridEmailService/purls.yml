@@ -1,0 +1,5 @@
+- pkg:nuget/EXCSLA.Shared.Infrastructure.SendGridEmailService@1.0.1
+- pkg:nuget/EXCSLA.Shared.Infrastructure.SendGridEmailService@1.0.2
+- pkg:nuget/EXCSLA.Shared.Infrastructure.SendGridEmailService@3.0.0
+- pkg:nuget/EXCSLA.Shared.Infrastructure.SendGridEmailService@4.0.1
+- pkg:nuget/EXCSLA.Shared.Infrastructure.SendGridEmailService@8.0.1

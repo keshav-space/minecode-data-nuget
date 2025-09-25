@@ -1,0 +1,4 @@
+- pkg:nuget/BobDust.Rpc.Sockets.Abstractions@0.9.1
+- pkg:nuget/BobDust.Rpc.Sockets.Abstractions@0.9.2
+- pkg:nuget/BobDust.Rpc.Sockets.Abstractions@0.9.2-alpha
+- pkg:nuget/BobDust.Rpc.Sockets.Abstractions@0.9.3

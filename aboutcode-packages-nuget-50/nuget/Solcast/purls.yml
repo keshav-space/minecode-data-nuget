@@ -1,0 +1,15 @@
+- pkg:nuget/Solcast@0.0.1
+- pkg:nuget/Solcast@0.0.2
+- pkg:nuget/Solcast@0.0.2.1
+- pkg:nuget/Solcast@0.1.0
+- pkg:nuget/Solcast@0.1.1
+- pkg:nuget/Solcast@0.1.2
+- pkg:nuget/Solcast@0.1.2-alpha1
+- pkg:nuget/Solcast@0.1.3
+- pkg:nuget/Solcast@1.0.0
+- pkg:nuget/Solcast@1.0.0-alpha1
+- pkg:nuget/Solcast@1.0.0-beta2
+- pkg:nuget/Solcast@1.0.0-beta3
+- pkg:nuget/Solcast@1.0.1
+- pkg:nuget/Solcast@1.0.2
+- pkg:nuget/Solcast@2.0.0

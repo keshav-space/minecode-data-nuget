@@ -1,0 +1,4 @@
+- pkg:nuget/Shelly.Net@0.0.1-build-20200522075943
+- pkg:nuget/Shelly.Net@1.0.7
+- pkg:nuget/Shelly.Net@2.0.0
+- pkg:nuget/Shelly.Net@2.1.0

@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.ApiDoc@2.1.0.10
+- pkg:nuget/AspNetCore.ApiDoc@2.1.0.11
+- pkg:nuget/AspNetCore.ApiDoc@2.1.0.12
+- pkg:nuget/AspNetCore.ApiDoc@2.1.0.9
+- pkg:nuget/AspNetCore.ApiDoc@2.2.0.3

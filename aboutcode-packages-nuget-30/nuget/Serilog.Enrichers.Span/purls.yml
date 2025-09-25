@@ -1,0 +1,13 @@
+- pkg:nuget/Serilog.Enrichers.Span@1.0.0%2Bbuild.5
+- pkg:nuget/Serilog.Enrichers.Span@1.0.1%2Bbuild.11
+- pkg:nuget/Serilog.Enrichers.Span@1.1.0%2Bbuild.29
+- pkg:nuget/Serilog.Enrichers.Span@1.2.0%2Bbuild.77
+- pkg:nuget/Serilog.Enrichers.Span@1.3.0%2Bbuild.139
+- pkg:nuget/Serilog.Enrichers.Span@1.4.0%2Bbuild.153
+- pkg:nuget/Serilog.Enrichers.Span@2.0.0%2Bbuild.206
+- pkg:nuget/Serilog.Enrichers.Span@2.0.1%2Bbuild.213
+- pkg:nuget/Serilog.Enrichers.Span@2.1.0%2Bbuild.263
+- pkg:nuget/Serilog.Enrichers.Span@2.2.0%2Bbuild.276
+- pkg:nuget/Serilog.Enrichers.Span@2.3.0%2Bbuild.305
+- pkg:nuget/Serilog.Enrichers.Span@3.0.0%2Bbuild.482
+- pkg:nuget/Serilog.Enrichers.Span@3.1.0%2Bbuild.538

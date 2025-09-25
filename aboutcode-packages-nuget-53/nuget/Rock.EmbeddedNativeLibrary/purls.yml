@@ -1,0 +1,5 @@
+- pkg:nuget/Rock.EmbeddedNativeLibrary@1.1.0
+- pkg:nuget/Rock.EmbeddedNativeLibrary@1.1.2
+- pkg:nuget/Rock.EmbeddedNativeLibrary@1.2.0
+- pkg:nuget/Rock.EmbeddedNativeLibrary@1.2.1
+- pkg:nuget/Rock.EmbeddedNativeLibrary@1.2.2

@@ -1,0 +1,5 @@
+- pkg:nuget/TestOkur.Extensions.HealthChecks.Redis@1.0.0
+- pkg:nuget/TestOkur.Extensions.HealthChecks.Redis@1.0.1
+- pkg:nuget/TestOkur.Extensions.HealthChecks.Redis@1.1.0
+- pkg:nuget/TestOkur.Extensions.HealthChecks.Redis@1.1.1
+- pkg:nuget/TestOkur.Extensions.HealthChecks.Redis@1.1.3

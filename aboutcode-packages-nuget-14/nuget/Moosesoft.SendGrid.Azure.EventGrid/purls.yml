@@ -1,0 +1,10 @@
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@1.0.0
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@1.0.0-prelease1
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@2.0.0
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@2.0.0-prerelease1
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@2.0.1
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@3.0.0
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@3.0.1
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@3.0.2
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@4.0.0
+- pkg:nuget/Moosesoft.SendGrid.Azure.EventGrid@4.0.0-preview1

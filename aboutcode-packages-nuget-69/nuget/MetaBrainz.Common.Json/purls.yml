@@ -1,0 +1,15 @@
+- pkg:nuget/MetaBrainz.Common.Json@1.0.0%2B20200321.110927.597
+- pkg:nuget/MetaBrainz.Common.Json@1.1.0%2B20200416.001944.392
+- pkg:nuget/MetaBrainz.Common.Json@1.1.1%2B20200416.233707.581
+- pkg:nuget/MetaBrainz.Common.Json@2.0.0%2B20200424.232806.877
+- pkg:nuget/MetaBrainz.Common.Json@3.0.0%2B20200425.192245.325
+- pkg:nuget/MetaBrainz.Common.Json@3.0.1%2B20200510.143523.342
+- pkg:nuget/MetaBrainz.Common.Json@4.0.0
+- pkg:nuget/MetaBrainz.Common.Json@4.0.1
+- pkg:nuget/MetaBrainz.Common.Json@5.0.0
+- pkg:nuget/MetaBrainz.Common.Json@5.1.0
+- pkg:nuget/MetaBrainz.Common.Json@6.0.0%2Bgithub.20.1
+- pkg:nuget/MetaBrainz.Common.Json@6.0.1%2Bgithub.29.1
+- pkg:nuget/MetaBrainz.Common.Json@6.0.2%2Bgithub.32.1
+- pkg:nuget/MetaBrainz.Common.Json@7.0.0%2Bgithub.46.1
+- pkg:nuget/MetaBrainz.Common.Json@7.1.0%2Bgithub.60.1

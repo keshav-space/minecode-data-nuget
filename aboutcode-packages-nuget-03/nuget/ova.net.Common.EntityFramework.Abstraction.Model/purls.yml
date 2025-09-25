@@ -1,0 +1,5 @@
+- pkg:nuget/ova.net.Common.EntityFramework.Abstraction.Model@5.1.0.53
+- pkg:nuget/ova.net.Common.EntityFramework.Abstraction.Model@5.1.1.54
+- pkg:nuget/ova.net.Common.EntityFramework.Abstraction.Model@5.1.2.55
+- pkg:nuget/ova.net.Common.EntityFramework.Abstraction.Model@5.1.3.57
+- pkg:nuget/ova.net.Common.EntityFramework.Abstraction.Model@6.0.2.58

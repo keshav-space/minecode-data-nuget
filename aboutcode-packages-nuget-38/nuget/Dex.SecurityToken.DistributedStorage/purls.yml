@@ -1,0 +1,10 @@
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@1.0.1
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@1.2.1
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@1.2.5
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@1.2.6
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@2.2.2
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@6.0.0
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@6.0.1
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@8.0.0
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@8.0.1
+- pkg:nuget/Dex.SecurityToken.DistributedStorage@8.0.2

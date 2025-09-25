@@ -1,0 +1,5 @@
+- pkg:nuget/Learning.Cqrs@3.0.2
+- pkg:nuget/Learning.Cqrs@3.1.3
+- pkg:nuget/Learning.Cqrs@4.0.0
+- pkg:nuget/Learning.Cqrs@4.0.0-net8
+- pkg:nuget/Learning.Cqrs@4.1.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Pulumi.Rabbitmq@0.0.1-preview-alpha.1575637991%2Bg14ce5fd
+- pkg:nuget/Pulumi.Rabbitmq@1.0.0-preview
+- pkg:nuget/Pulumi.Rabbitmq@1.1.0-preview-alpha.1576354510%2Bgb168589
