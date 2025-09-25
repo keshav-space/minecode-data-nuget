@@ -1,0 +1,15 @@
+- pkg:nuget/FTDSN.Win32@6.0.18.190
+- pkg:nuget/FTDSN.Win32@6.0.18.244
+- pkg:nuget/FTDSN.Win32@6.0.18.271
+- pkg:nuget/FTDSN.Win32@6.0.18.28-beta
+- pkg:nuget/FTDSN.Win32@6.0.18.283-beta
+- pkg:nuget/FTDSN.Win32@6.0.18.284-beta
+- pkg:nuget/FTDSN.Win32@6.0.18.285-beta
+- pkg:nuget/FTDSN.Win32@6.0.18.286-beta
+- pkg:nuget/FTDSN.Win32@6.0.18.298
+- pkg:nuget/FTDSN.Win32@6.0.18.32-beta
+- pkg:nuget/FTDSN.Win32@6.0.18.36-beta
+- pkg:nuget/FTDSN.Win32@6.1.4.11679
+- pkg:nuget/FTDSN.Win32@6.1.4.11749
+- pkg:nuget/FTDSN.Win32@6.1.4.1199
+- pkg:nuget/FTDSN.Win32@6.1.4.9999

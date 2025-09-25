@@ -1,0 +1,3 @@
+- pkg:nuget/Kunlun.EntityFrameworkCore.RhSql@1.0.2
+- pkg:nuget/Kunlun.EntityFrameworkCore.RhSql@1.0.3
+- pkg:nuget/Kunlun.EntityFrameworkCore.RhSql@1.0.4

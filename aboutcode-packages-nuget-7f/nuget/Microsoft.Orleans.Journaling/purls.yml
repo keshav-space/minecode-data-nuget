@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Orleans.Journaling@9.2.0-alpha.1
+- pkg:nuget/Microsoft.Orleans.Journaling@9.2.0-preview2.alpha.1
+- pkg:nuget/Microsoft.Orleans.Journaling@9.2.0-preview3.alpha.1
+- pkg:nuget/Microsoft.Orleans.Journaling@9.2.1-alpha.1

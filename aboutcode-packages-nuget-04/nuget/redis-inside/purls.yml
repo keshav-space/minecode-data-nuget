@@ -1,0 +1,17 @@
+- pkg:nuget/redis-inside@0.0.0
+- pkg:nuget/redis-inside@2.8.2101
+- pkg:nuget/redis-inside@2.8.2101.1
+- pkg:nuget/redis-inside@2.8.2101.2
+- pkg:nuget/redis-inside@2.8.2101.3
+- pkg:nuget/redis-inside@2.8.2101.4
+- pkg:nuget/redis-inside@2.8.2101.5
+- pkg:nuget/redis-inside@2.8.2400
+- pkg:nuget/redis-inside@3.0.300-alpha3
+- pkg:nuget/redis-inside@3.0.300-beta1
+- pkg:nuget/redis-inside@3.0.500
+- pkg:nuget/redis-inside@3.0.501
+- pkg:nuget/redis-inside@3.0.502
+- pkg:nuget/redis-inside@3.0.503
+- pkg:nuget/redis-inside@3.0.504
+- pkg:nuget/redis-inside@3.2.100
+- pkg:nuget/redis-inside@3.3.0

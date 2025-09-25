@@ -1,0 +1,4 @@
+- pkg:nuget/wkhtmltopdf.msvc.64.exe@0.12.2.4
+- pkg:nuget/wkhtmltopdf.msvc.64.exe@0.12.2.5
+- pkg:nuget/wkhtmltopdf.msvc.64.exe@0.12.3-dev-76ff51e
+- pkg:nuget/wkhtmltopdf.msvc.64.exe@0.12.4

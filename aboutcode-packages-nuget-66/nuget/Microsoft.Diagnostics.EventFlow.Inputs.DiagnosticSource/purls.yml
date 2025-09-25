@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.DiagnosticSource@1.0.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.DiagnosticSource@1.0.1
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.DiagnosticSource@1.1.0
+- pkg:nuget/Microsoft.Diagnostics.EventFlow.Inputs.DiagnosticSource@1.2.0

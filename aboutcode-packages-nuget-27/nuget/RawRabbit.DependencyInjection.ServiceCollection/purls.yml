@@ -1,0 +1,7 @@
+- pkg:nuget/RawRabbit.DependencyInjection.ServiceCollection@2.0.0-beta8
+- pkg:nuget/RawRabbit.DependencyInjection.ServiceCollection@2.0.0-beta9
+- pkg:nuget/RawRabbit.DependencyInjection.ServiceCollection@2.0.0-rc1
+- pkg:nuget/RawRabbit.DependencyInjection.ServiceCollection@2.0.0-rc2
+- pkg:nuget/RawRabbit.DependencyInjection.ServiceCollection@2.0.0-rc3
+- pkg:nuget/RawRabbit.DependencyInjection.ServiceCollection@2.0.0-rc4
+- pkg:nuget/RawRabbit.DependencyInjection.ServiceCollection@2.0.0-rc5

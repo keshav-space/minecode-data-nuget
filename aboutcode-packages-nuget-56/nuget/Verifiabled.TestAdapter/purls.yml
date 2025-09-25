@@ -1,0 +1,4 @@
+- pkg:nuget/Verifiabled.TestAdapter@0.0.1-alpha
+- pkg:nuget/Verifiabled.TestAdapter@0.0.2-alpha
+- pkg:nuget/Verifiabled.TestAdapter@0.0.4-alpha
+- pkg:nuget/Verifiabled.TestAdapter@1.0.0-manual

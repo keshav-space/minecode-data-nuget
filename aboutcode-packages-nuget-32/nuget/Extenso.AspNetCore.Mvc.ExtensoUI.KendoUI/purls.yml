@@ -1,0 +1,16 @@
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@1.0.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@1.1.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@1.1.2
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@2.0.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@2.0.1
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@3.1.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@5.0.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@6.0.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@6.1.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@7.0.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@8.0.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@9.0.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@9.1.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@9.2.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@9.3.0
+- pkg:nuget/Extenso.AspNetCore.Mvc.ExtensoUI.KendoUI@9.4.0

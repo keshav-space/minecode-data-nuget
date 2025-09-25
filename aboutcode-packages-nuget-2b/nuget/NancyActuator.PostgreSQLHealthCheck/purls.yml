@@ -1,0 +1,2 @@
+- pkg:nuget/NancyActuator.PostgreSQLHealthCheck@0.1.0-alpha
+- pkg:nuget/NancyActuator.PostgreSQLHealthCheck@0.1.1-alpha

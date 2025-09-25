@@ -1,0 +1,6 @@
+- pkg:nuget/NodaTime.Bogus@0.1.0
+- pkg:nuget/NodaTime.Bogus@1.0.0
+- pkg:nuget/NodaTime.Bogus@2.0.0
+- pkg:nuget/NodaTime.Bogus@3.0.0
+- pkg:nuget/NodaTime.Bogus@3.0.1
+- pkg:nuget/NodaTime.Bogus@3.0.2

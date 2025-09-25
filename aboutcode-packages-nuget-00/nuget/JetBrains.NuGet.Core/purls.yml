@@ -1,0 +1,12 @@
+- pkg:nuget/JetBrains.NuGet.Core@2.13.0
+- pkg:nuget/JetBrains.NuGet.Core@2.14.0.1
+- pkg:nuget/JetBrains.NuGet.Core@2.14.1
+- pkg:nuget/JetBrains.NuGet.Core@2.14.1.20180215
+- pkg:nuget/JetBrains.NuGet.Core@2.14.1.20180704
+- pkg:nuget/JetBrains.NuGet.Core@2.14.1.20180822
+- pkg:nuget/JetBrains.NuGet.Core@2.14.1.20181128
+- pkg:nuget/JetBrains.NuGet.Core@2.14.1.20190726
+- pkg:nuget/JetBrains.NuGet.Core@2.14.1.20190806
+- pkg:nuget/JetBrains.NuGet.Core@2.14.1.20190827
+- pkg:nuget/JetBrains.NuGet.Core@2.14.2.20210602
+- pkg:nuget/JetBrains.NuGet.Core@2.14.2.20220408

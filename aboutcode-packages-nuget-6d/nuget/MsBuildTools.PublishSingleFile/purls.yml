@@ -1,0 +1,13 @@
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.0.0-dev
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.1.0-dev
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.1.101-dev
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.1.104-dev
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.1.106-dev
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.1.108-dev
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.1.110
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.1.99-dev
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.2.112-develop
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.2.114-develop
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.2.116-develop
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.2.118-develop
+- pkg:nuget/MsBuildTools.PublishSingleFile@0.2.120-dev

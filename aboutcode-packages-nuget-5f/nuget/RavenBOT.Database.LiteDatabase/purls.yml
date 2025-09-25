@@ -1,0 +1,2 @@
+- pkg:nuget/RavenBOT.Database.LiteDatabase@1.0.0
+- pkg:nuget/RavenBOT.Database.LiteDatabase@1.0.4

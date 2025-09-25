@@ -1,0 +1,3 @@
+- pkg:nuget/NetSharp.DynamicNullObject@1.0.0-preview
+- pkg:nuget/NetSharp.DynamicNullObject@1.0.1-preview
+- pkg:nuget/NetSharp.DynamicNullObject@2.0.0

@@ -1,0 +1,11 @@
+- pkg:nuget/Mcma.Aws.Serialization@0.13.0
+- pkg:nuget/Mcma.Aws.Serialization@0.13.11
+- pkg:nuget/Mcma.Aws.Serialization@0.13.12
+- pkg:nuget/Mcma.Aws.Serialization@0.13.14
+- pkg:nuget/Mcma.Aws.Serialization@0.13.17
+- pkg:nuget/Mcma.Aws.Serialization@0.13.18
+- pkg:nuget/Mcma.Aws.Serialization@0.13.19
+- pkg:nuget/Mcma.Aws.Serialization@0.13.19-beta1
+- pkg:nuget/Mcma.Aws.Serialization@0.13.19-beta2
+- pkg:nuget/Mcma.Aws.Serialization@0.14.0
+- pkg:nuget/Mcma.Aws.Serialization@0.14.0-rc1

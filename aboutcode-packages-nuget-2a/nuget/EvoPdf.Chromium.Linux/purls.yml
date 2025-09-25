@@ -1,0 +1,13 @@
+- pkg:nuget/EvoPdf.Chromium.Linux@1.0.0-alpha
+- pkg:nuget/EvoPdf.Chromium.Linux@1.0.1-alpha
+- pkg:nuget/EvoPdf.Chromium.Linux@10.0.0-alpha
+- pkg:nuget/EvoPdf.Chromium.Linux@11.0.0
+- pkg:nuget/EvoPdf.Chromium.Linux@11.0.1
+- pkg:nuget/EvoPdf.Chromium.Linux@11.1.0
+- pkg:nuget/EvoPdf.Chromium.Linux@11.1.5
+- pkg:nuget/EvoPdf.Chromium.Linux@11.1.6
+- pkg:nuget/EvoPdf.Chromium.Linux@11.4.0
+- pkg:nuget/EvoPdf.Chromium.Linux@11.4.1
+- pkg:nuget/EvoPdf.Chromium.Linux@12.0.0
+- pkg:nuget/EvoPdf.Chromium.Linux@12.0.2
+- pkg:nuget/EvoPdf.Chromium.Linux@12.5.0

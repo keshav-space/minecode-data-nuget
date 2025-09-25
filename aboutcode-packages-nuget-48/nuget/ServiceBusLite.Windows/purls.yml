@@ -1,0 +1,3 @@
+- pkg:nuget/ServiceBusLite.Windows@1.0.0
+- pkg:nuget/ServiceBusLite.Windows@1.0.1
+- pkg:nuget/ServiceBusLite.Windows@1.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/JetBrains.NUnit.ReSharperRunner3@3.0.12.1
+- pkg:nuget/JetBrains.NUnit.ReSharperRunner3@3.10.2
+- pkg:nuget/JetBrains.NUnit.ReSharperRunner3@3.10.3
+- pkg:nuget/JetBrains.NUnit.ReSharperRunner3@3.10.4
+- pkg:nuget/JetBrains.NUnit.ReSharperRunner3@3.6.3

@@ -1,0 +1,2 @@
+- pkg:nuget/NancyActuator.MongoDBHealthCheck@0.1.0-alpha
+- pkg:nuget/NancyActuator.MongoDBHealthCheck@0.1.1-alpha

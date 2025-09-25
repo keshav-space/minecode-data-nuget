@@ -1,0 +1,16 @@
+- pkg:nuget/Adeptik.NodeJs.Redistributable@1.0.0
+- pkg:nuget/Adeptik.NodeJs.Redistributable@1.0.1
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.0
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.0-Preview3
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.0-Preview4
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.0-Preview5
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.0-Preview6
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.1-preview1
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.1-preview2
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.2
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.0.3
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.2.0
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.2.0-jasminetest
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.2.0-jasminetestV2
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.2.1
+- pkg:nuget/Adeptik.NodeJs.Redistributable@2.3.0

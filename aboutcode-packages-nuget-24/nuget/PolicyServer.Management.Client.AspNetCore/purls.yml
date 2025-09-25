@@ -1,0 +1,10 @@
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@3.0.0
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@3.0.0-preview.2
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@3.0.1
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@4.0.0
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@4.0.0-preview.1
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@4.1.0
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@5.0.0
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@5.0.1
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@5.1.0
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@5.1.1

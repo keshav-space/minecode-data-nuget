@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.CodeAnalysis.Scripting.CSharp@1.0.0-rc2
+- pkg:nuget/Microsoft.CodeAnalysis.Scripting.CSharp@1.1.0-beta1
+- pkg:nuget/Microsoft.CodeAnalysis.Scripting.CSharp@1.1.0-beta1-20150928-02
+- pkg:nuget/Microsoft.CodeAnalysis.Scripting.CSharp@1.1.0-rc1

@@ -1,0 +1,5 @@
+- pkg:nuget/BlueGroup.ClsDBSupport.PostgreSQL@1.0.0
+- pkg:nuget/BlueGroup.ClsDBSupport.PostgreSQL@2.0.0
+- pkg:nuget/BlueGroup.ClsDBSupport.PostgreSQL@2.1.2
+- pkg:nuget/BlueGroup.ClsDBSupport.PostgreSQL@2.2.0
+- pkg:nuget/BlueGroup.ClsDBSupport.PostgreSQL@2.2.1

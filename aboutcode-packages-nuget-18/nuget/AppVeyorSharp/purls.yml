@@ -1,0 +1,9 @@
+- pkg:nuget/AppVeyorSharp@0.2.0-beta
+- pkg:nuget/AppVeyorSharp@0.2.1-beta
+- pkg:nuget/AppVeyorSharp@1.0.0
+- pkg:nuget/AppVeyorSharp@1.0.1
+- pkg:nuget/AppVeyorSharp@1.0.2
+- pkg:nuget/AppVeyorSharp@1.0.22
+- pkg:nuget/AppVeyorSharp@1.0.23
+- pkg:nuget/AppVeyorSharp@1.0.24
+- pkg:nuget/AppVeyorSharp@1.0.25

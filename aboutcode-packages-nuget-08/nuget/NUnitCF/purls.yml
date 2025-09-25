@@ -1,0 +1,13 @@
+- pkg:nuget/NUnitCF@3.0.0
+- pkg:nuget/NUnitCF@3.0.0-beta-2
+- pkg:nuget/NUnitCF@3.0.0-beta-3
+- pkg:nuget/NUnitCF@3.0.0-beta-4
+- pkg:nuget/NUnitCF@3.0.0-beta-5
+- pkg:nuget/NUnitCF@3.0.0-rc
+- pkg:nuget/NUnitCF@3.0.0-rc-2
+- pkg:nuget/NUnitCF@3.0.0-rc-3
+- pkg:nuget/NUnitCF@3.0.1
+- pkg:nuget/NUnitCF@3.2.0
+- pkg:nuget/NUnitCF@3.4.0
+- pkg:nuget/NUnitCF@3.4.1
+- pkg:nuget/NUnitCF@3.5.0

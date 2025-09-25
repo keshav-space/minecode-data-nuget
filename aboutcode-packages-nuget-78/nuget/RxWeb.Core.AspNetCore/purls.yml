@@ -1,0 +1,8 @@
+- pkg:nuget/RxWeb.Core.AspNetCore@3.0.0
+- pkg:nuget/RxWeb.Core.AspNetCore@3.0.1
+- pkg:nuget/RxWeb.Core.AspNetCore@3.0.1-beta1
+- pkg:nuget/RxWeb.Core.AspNetCore@3.0.2
+- pkg:nuget/RxWeb.Core.AspNetCore@3.0.3
+- pkg:nuget/RxWeb.Core.AspNetCore@3.0.4-preview1
+- pkg:nuget/RxWeb.Core.AspNetCore@3.0.4-preview2
+- pkg:nuget/RxWeb.Core.AspNetCore@8.0.0

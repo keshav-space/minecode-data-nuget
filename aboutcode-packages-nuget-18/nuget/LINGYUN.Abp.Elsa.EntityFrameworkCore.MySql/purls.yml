@@ -1,0 +1,14 @@
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@8.1.1
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@8.1.2
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@8.1.3
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@8.2.0
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@8.2.1
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@8.2.2
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@8.3.0
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@8.3.4
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@9.0.4
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@9.1.1
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@9.1.3
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@9.2.0
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@9.2.1
+- pkg:nuget/LINGYUN.Abp.Elsa.EntityFrameworkCore.MySql@9.2.3

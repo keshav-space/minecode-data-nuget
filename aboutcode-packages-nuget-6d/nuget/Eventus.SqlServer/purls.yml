@@ -1,0 +1,4 @@
+- pkg:nuget/Eventus.SqlServer@0.1.84-alpha
+- pkg:nuget/Eventus.SqlServer@0.1.86-alpha
+- pkg:nuget/Eventus.SqlServer@0.1.87-alpha
+- pkg:nuget/Eventus.SqlServer@0.1.89-alpha

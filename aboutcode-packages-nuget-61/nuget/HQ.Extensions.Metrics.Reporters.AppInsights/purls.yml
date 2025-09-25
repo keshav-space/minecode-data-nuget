@@ -1,0 +1,4 @@
+- pkg:nuget/HQ.Extensions.Metrics.Reporters.AppInsights@1.0.75
+- pkg:nuget/HQ.Extensions.Metrics.Reporters.AppInsights@1.0.76
+- pkg:nuget/HQ.Extensions.Metrics.Reporters.AppInsights@1.0.77
+- pkg:nuget/HQ.Extensions.Metrics.Reporters.AppInsights@1.0.85

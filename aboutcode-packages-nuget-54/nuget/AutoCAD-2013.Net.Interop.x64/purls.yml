@@ -1,0 +1,6 @@
+- pkg:nuget/AutoCAD-2013.Net.Interop.x64@0.1.0-alpha
+- pkg:nuget/AutoCAD-2013.Net.Interop.x64@0.1.0-beta
+- pkg:nuget/AutoCAD-2013.Net.Interop.x64@1.0.0
+- pkg:nuget/AutoCAD-2013.Net.Interop.x64@1.0.1
+- pkg:nuget/AutoCAD-2013.Net.Interop.x64@1.0.2
+- pkg:nuget/AutoCAD-2013.Net.Interop.x64@1.0.3

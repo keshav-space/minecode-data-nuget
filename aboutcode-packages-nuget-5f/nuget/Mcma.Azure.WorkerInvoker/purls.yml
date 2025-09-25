@@ -1,0 +1,3 @@
+- pkg:nuget/Mcma.Azure.WorkerInvoker@0.13.11
+- pkg:nuget/Mcma.Azure.WorkerInvoker@0.13.12
+- pkg:nuget/Mcma.Azure.WorkerInvoker@0.13.14

@@ -1,0 +1,11 @@
+- pkg:nuget/structuremap.automocking@2.6.2
+- pkg:nuget/structuremap.automocking@2.6.2.1
+- pkg:nuget/structuremap.automocking@2.6.3
+- pkg:nuget/structuremap.automocking@2.6.4.1
+- pkg:nuget/structuremap.automocking@3.0.0.108
+- pkg:nuget/structuremap.automocking@3.0.4.125
+- pkg:nuget/structuremap.automocking@3.0.5.130
+- pkg:nuget/structuremap.automocking@3.1.0.133
+- pkg:nuget/structuremap.automocking@3.1.5.154
+- pkg:nuget/structuremap.automocking@3.1.6.186
+- pkg:nuget/structuremap.automocking@4.0.0.315

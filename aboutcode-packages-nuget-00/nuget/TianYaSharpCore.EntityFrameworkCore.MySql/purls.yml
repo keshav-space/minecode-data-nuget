@@ -1,0 +1,5 @@
+- pkg:nuget/TianYaSharpCore.EntityFrameworkCore.MySql@1.0.0
+- pkg:nuget/TianYaSharpCore.EntityFrameworkCore.MySql@1.0.1
+- pkg:nuget/TianYaSharpCore.EntityFrameworkCore.MySql@1.0.2
+- pkg:nuget/TianYaSharpCore.EntityFrameworkCore.MySql@2.0.0
+- pkg:nuget/TianYaSharpCore.EntityFrameworkCore.MySql@3.1.0

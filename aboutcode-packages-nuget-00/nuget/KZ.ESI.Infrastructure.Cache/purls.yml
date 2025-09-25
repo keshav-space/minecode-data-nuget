@@ -1,0 +1,14 @@
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@1.0.0-cloud
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@1.0.0-standard
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@1.0.5
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@1.0.6
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@1.0.7
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@1.0.8
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@1.0.9
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@1.1.0
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@2.0.0
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@2.0.1
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@2.0.2
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@2.0.3
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@2.2.0
+- pkg:nuget/KZ.ESI.Infrastructure.Cache@2.5.0

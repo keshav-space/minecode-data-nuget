@@ -1,0 +1,13 @@
+- pkg:nuget/Moon.AspNetCore@2.2.1
+- pkg:nuget/Moon.AspNetCore@2.2.2
+- pkg:nuget/Moon.AspNetCore@2.3.1
+- pkg:nuget/Moon.AspNetCore@2.3.2
+- pkg:nuget/Moon.AspNetCore@2.3.6
+- pkg:nuget/Moon.AspNetCore@2.4.1
+- pkg:nuget/Moon.AspNetCore@3.0.1
+- pkg:nuget/Moon.AspNetCore@3.0.2
+- pkg:nuget/Moon.AspNetCore@3.0.3
+- pkg:nuget/Moon.AspNetCore@3.1.0
+- pkg:nuget/Moon.AspNetCore@3.1.1
+- pkg:nuget/Moon.AspNetCore@4.0.0
+- pkg:nuget/Moon.AspNetCore@4.0.1

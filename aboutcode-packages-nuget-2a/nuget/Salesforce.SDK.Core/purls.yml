@@ -1,0 +1,12 @@
+- pkg:nuget/Salesforce.SDK.Core@0.8.0-beta
+- pkg:nuget/Salesforce.SDK.Core@0.8.1-beta
+- pkg:nuget/Salesforce.SDK.Core@0.8.2-beta
+- pkg:nuget/Salesforce.SDK.Core@3.1.0-beta
+- pkg:nuget/Salesforce.SDK.Core@3.1.1-beta
+- pkg:nuget/Salesforce.SDK.Core@3.1.2-beta
+- pkg:nuget/Salesforce.SDK.Core@3.1.3-beta
+- pkg:nuget/Salesforce.SDK.Core@3.2.0
+- pkg:nuget/Salesforce.SDK.Core@3.2.1
+- pkg:nuget/Salesforce.SDK.Core@4.0.0
+- pkg:nuget/Salesforce.SDK.Core@4.2.0
+- pkg:nuget/Salesforce.SDK.Core@5.0.0

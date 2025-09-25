@@ -1,0 +1,12 @@
+- pkg:nuget/Fake.Deploy.Lib.x64@5.0.0
+- pkg:nuget/Fake.Deploy.Lib.x64@5.0.0-rc012.95%2Bvsts.617e5c3e3ac66e15fd822f03d531fe4dce04dd85
+- pkg:nuget/Fake.Deploy.Lib.x64@5.0.0-rc013.141%2Bvsts.0802e9840044febf0e63018b918a52180a6aab16
+- pkg:nuget/Fake.Deploy.Lib.x64@5.0.0-rc014.167%2Bvsts.de1f58f0f47e9924235c0c45d6cffdf629bc5401
+- pkg:nuget/Fake.Deploy.Lib.x64@5.0.0-rc015.196%2Bvsts.72cd05f0e45637aa9d9905754671a8bb155f2d0c
+- pkg:nuget/Fake.Deploy.Lib.x64@5.0.0-rc016.225%2Bvsts.87390ac410c41801c11c7cfa3970d81aa3d4366e
+- pkg:nuget/Fake.Deploy.Lib.x64@5.0.0-rc018.244%2Bvsts.2afe36531fd4769064e034f550cbd8ab07abf850
+- pkg:nuget/Fake.Deploy.Lib.x64@5.0.0-rc018.248%2Bvsts.4a341f21983b3d8e30503ecf9434e634efe4bf51
+- pkg:nuget/Fake.Deploy.Lib.x64@5.1.0
+- pkg:nuget/Fake.Deploy.Lib.x64@5.2.0
+- pkg:nuget/Fake.Deploy.Lib.x64@5.3.0
+- pkg:nuget/Fake.Deploy.Lib.x64@5.8.4

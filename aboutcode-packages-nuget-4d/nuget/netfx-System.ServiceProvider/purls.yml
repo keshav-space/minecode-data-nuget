@@ -1,0 +1,6 @@
+- pkg:nuget/netfx-System.ServiceProvider@1.0.0.14
+- pkg:nuget/netfx-System.ServiceProvider@1.0.0.6
+- pkg:nuget/netfx-System.ServiceProvider@1.0.0.9
+- pkg:nuget/netfx-System.ServiceProvider@1.1.0
+- pkg:nuget/netfx-System.ServiceProvider@1.2.0
+- pkg:nuget/netfx-System.ServiceProvider@1.2.1

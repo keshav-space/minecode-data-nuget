@@ -1,0 +1,4 @@
+- pkg:nuget/xunit.runner.utility.visualstudio.win8@2.0.0-beta4-build2738
+- pkg:nuget/xunit.runner.utility.visualstudio.win8@2.0.0-rc1-build2826
+- pkg:nuget/xunit.runner.utility.visualstudio.win8@2.0.0-rc3-build2880
+- pkg:nuget/xunit.runner.utility.visualstudio.win8@2.0.0-rc4-build2924

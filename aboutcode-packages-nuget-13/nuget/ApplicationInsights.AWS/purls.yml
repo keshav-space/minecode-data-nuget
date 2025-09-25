@@ -1,0 +1,4 @@
+- pkg:nuget/ApplicationInsights.AWS@1.0.0
+- pkg:nuget/ApplicationInsights.AWS@1.0.9
+- pkg:nuget/ApplicationInsights.AWS@1.1.1
+- pkg:nuget/ApplicationInsights.AWS@1.2.0

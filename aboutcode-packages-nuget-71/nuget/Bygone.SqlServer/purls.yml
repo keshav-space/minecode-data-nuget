@@ -1,0 +1,9 @@
+- pkg:nuget/Bygone.SqlServer@0.0.1-alpha-001
+- pkg:nuget/Bygone.SqlServer@0.0.1-alpha-002
+- pkg:nuget/Bygone.SqlServer@0.0.1-alpha-003
+- pkg:nuget/Bygone.SqlServer@0.0.1-alpha-004
+- pkg:nuget/Bygone.SqlServer@0.0.1-alpha-005
+- pkg:nuget/Bygone.SqlServer@0.0.1-alpha-006
+- pkg:nuget/Bygone.SqlServer@0.1.0-rc1
+- pkg:nuget/Bygone.SqlServer@0.2.0-beta01
+- pkg:nuget/Bygone.SqlServer@0.3.0-sqlbulkcopy-beta-01

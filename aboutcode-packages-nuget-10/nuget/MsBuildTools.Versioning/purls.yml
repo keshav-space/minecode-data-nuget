@@ -1,0 +1,5 @@
+- pkg:nuget/MsBuildTools.Versioning@0.2.112-develop
+- pkg:nuget/MsBuildTools.Versioning@0.2.114-develop
+- pkg:nuget/MsBuildTools.Versioning@0.2.116-develop
+- pkg:nuget/MsBuildTools.Versioning@0.2.118-develop
+- pkg:nuget/MsBuildTools.Versioning@0.2.120-dev

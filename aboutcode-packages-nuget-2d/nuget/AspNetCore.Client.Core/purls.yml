@@ -1,0 +1,9 @@
+- pkg:nuget/AspNetCore.Client.Core@0.1.20
+- pkg:nuget/AspNetCore.Client.Core@0.1.21
+- pkg:nuget/AspNetCore.Client.Core@0.2.22
+- pkg:nuget/AspNetCore.Client.Core@0.2.23
+- pkg:nuget/AspNetCore.Client.Core@0.2.24
+- pkg:nuget/AspNetCore.Client.Core@0.2.25
+- pkg:nuget/AspNetCore.Client.Core@0.3.0%2B36
+- pkg:nuget/AspNetCore.Client.Core@0.4.0%2B68
+- pkg:nuget/AspNetCore.Client.Core@0.4.1%2B76

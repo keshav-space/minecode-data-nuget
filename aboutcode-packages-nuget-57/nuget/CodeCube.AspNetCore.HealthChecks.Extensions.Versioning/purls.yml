@@ -1,0 +1,8 @@
+- pkg:nuget/CodeCube.AspNetCore.HealthChecks.Extensions.Versioning@2.0.203586-alpha
+- pkg:nuget/CodeCube.AspNetCore.HealthChecks.Extensions.Versioning@2.0.203587-alpha
+- pkg:nuget/CodeCube.AspNetCore.HealthChecks.Extensions.Versioning@3.1.1
+- pkg:nuget/CodeCube.AspNetCore.HealthChecks.Extensions.Versioning@3.1.2
+- pkg:nuget/CodeCube.AspNetCore.HealthChecks.Extensions.Versioning@3.1.4
+- pkg:nuget/CodeCube.AspNetCore.HealthChecks.Extensions.Versioning@3.1.5-alpha
+- pkg:nuget/CodeCube.AspNetCore.HealthChecks.Extensions.Versioning@7.0.1
+- pkg:nuget/CodeCube.AspNetCore.HealthChecks.Extensions.Versioning@8.0.2

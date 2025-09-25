@@ -1,0 +1,4 @@
+- pkg:nuget/DP.Eventing.EventStore.Core@0.0.1-alpha
+- pkg:nuget/DP.Eventing.EventStore.Core@0.0.1-alpha.2
+- pkg:nuget/DP.Eventing.EventStore.Core@0.0.1-alpha.3
+- pkg:nuget/DP.Eventing.EventStore.Core@0.0.1-dev

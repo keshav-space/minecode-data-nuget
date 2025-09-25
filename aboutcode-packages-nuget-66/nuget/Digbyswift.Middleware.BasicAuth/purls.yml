@@ -1,0 +1,12 @@
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.0.0
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.1.0-alpha
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.1.0-beta
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.1.1
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.1.2
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.1.3
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.2.0
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.3.0
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.4.0
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.4.1
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.5.0
+- pkg:nuget/Digbyswift.Middleware.BasicAuth@1.5.1-preview0

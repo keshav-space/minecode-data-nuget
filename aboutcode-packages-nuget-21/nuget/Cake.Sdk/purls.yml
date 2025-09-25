@@ -1,0 +1,17 @@
+- pkg:nuget/Cake.Sdk@0.0.1-preview.1
+- pkg:nuget/Cake.Sdk@5.0.25162.2-alpha
+- pkg:nuget/Cake.Sdk@5.0.25162.3-alpha
+- pkg:nuget/Cake.Sdk@5.0.25167.12-alpha
+- pkg:nuget/Cake.Sdk@5.0.25173.18-alpha
+- pkg:nuget/Cake.Sdk@5.0.25187.31-alpha
+- pkg:nuget/Cake.Sdk@5.0.25195.31-beta
+- pkg:nuget/Cake.Sdk@5.0.25196.35-beta
+- pkg:nuget/Cake.Sdk@5.0.25196.37-beta
+- pkg:nuget/Cake.Sdk@5.0.25196.39-beta
+- pkg:nuget/Cake.Sdk@5.0.25197.41-beta
+- pkg:nuget/Cake.Sdk@5.0.25197.46-beta
+- pkg:nuget/Cake.Sdk@5.0.25198.49-beta
+- pkg:nuget/Cake.Sdk@5.0.25225.51-beta
+- pkg:nuget/Cake.Sdk@5.0.25225.53-beta
+- pkg:nuget/Cake.Sdk@5.0.25253.70-beta
+- pkg:nuget/Cake.Sdk@5.0.25257.82-beta

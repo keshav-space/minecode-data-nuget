@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Framework.ApplicationHost@1.0.0-beta3
+- pkg:nuget/Microsoft.Framework.ApplicationHost@1.0.0-beta4
+- pkg:nuget/Microsoft.Framework.ApplicationHost@1.0.0-beta5
+- pkg:nuget/Microsoft.Framework.ApplicationHost@1.0.0-beta6

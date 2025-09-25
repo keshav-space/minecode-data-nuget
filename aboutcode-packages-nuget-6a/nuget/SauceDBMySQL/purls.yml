@@ -1,0 +1,11 @@
+- pkg:nuget/SauceDBMySQL@1.6.0
+- pkg:nuget/SauceDBMySQL@1.7.0
+- pkg:nuget/SauceDBMySQL@1.7.5
+- pkg:nuget/SauceDBMySQL@1.8.0.138
+- pkg:nuget/SauceDBMySQL@1.8.5.327
+- pkg:nuget/SauceDBMySQL@2.0.0.229
+- pkg:nuget/SauceDBMySQL@2.1.0.252
+- pkg:nuget/SauceDBMySQL@3.0.0.279
+- pkg:nuget/SauceDBMySQL@3.1.0.328
+- pkg:nuget/SauceDBMySQL@3.2.0.346
+- pkg:nuget/SauceDBMySQL@3.3.0

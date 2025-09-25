@@ -1,0 +1,4 @@
+- pkg:nuget/Mallow.WebJobs.Mongo@1.0.0
+- pkg:nuget/Mallow.WebJobs.Mongo@1.0.0-beta1
+- pkg:nuget/Mallow.WebJobs.Mongo@1.0.0-beta2
+- pkg:nuget/Mallow.WebJobs.Mongo@1.1.0

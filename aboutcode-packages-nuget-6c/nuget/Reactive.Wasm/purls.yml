@@ -1,0 +1,9 @@
+- pkg:nuget/Reactive.Wasm@1.0.1-preview.1
+- pkg:nuget/Reactive.Wasm@1.0.1-preview.12
+- pkg:nuget/Reactive.Wasm@1.0.1-preview.3
+- pkg:nuget/Reactive.Wasm@1.0.1-preview.8
+- pkg:nuget/Reactive.Wasm@1.2.1
+- pkg:nuget/Reactive.Wasm@1.2.2
+- pkg:nuget/Reactive.Wasm@2.1.1-ge9f08acb98
+- pkg:nuget/Reactive.Wasm@2.1.2
+- pkg:nuget/Reactive.Wasm@3.0.1

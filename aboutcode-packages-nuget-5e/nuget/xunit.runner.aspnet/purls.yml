@@ -1,0 +1,4 @@
+- pkg:nuget/xunit.runner.aspnet@2.0.0-rc1-build37
+- pkg:nuget/xunit.runner.aspnet@2.0.0-rc2-build50
+- pkg:nuget/xunit.runner.aspnet@2.0.0-rc3-build52
+- pkg:nuget/xunit.runner.aspnet@2.1.0-beta1-build60

@@ -1,0 +1,5 @@
+- pkg:nuget/RabbitMqConsumers@1.0.10
+- pkg:nuget/RabbitMqConsumers@1.0.14
+- pkg:nuget/RabbitMqConsumers@1.0.19
+- pkg:nuget/RabbitMqConsumers@1.0.20
+- pkg:nuget/RabbitMqConsumers@1.0.27
