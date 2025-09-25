@@ -1,0 +1,3 @@
+- pkg:nuget/libc.tcpsockets@1.0.0
+- pkg:nuget/libc.tcpsockets@1.0.1
+- pkg:nuget/libc.tcpsockets@1.0.2

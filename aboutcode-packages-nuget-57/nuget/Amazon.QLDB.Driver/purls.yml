@@ -1,0 +1,10 @@
+- pkg:nuget/Amazon.QLDB.Driver@0.1.0-beta
+- pkg:nuget/Amazon.QLDB.Driver@1.0.0
+- pkg:nuget/Amazon.QLDB.Driver@1.0.0-rc.1
+- pkg:nuget/Amazon.QLDB.Driver@1.0.1
+- pkg:nuget/Amazon.QLDB.Driver@1.1.0
+- pkg:nuget/Amazon.QLDB.Driver@1.1.1
+- pkg:nuget/Amazon.QLDB.Driver@1.2.0
+- pkg:nuget/Amazon.QLDB.Driver@1.3.0
+- pkg:nuget/Amazon.QLDB.Driver@1.4.0
+- pkg:nuget/Amazon.QLDB.Driver@1.4.1

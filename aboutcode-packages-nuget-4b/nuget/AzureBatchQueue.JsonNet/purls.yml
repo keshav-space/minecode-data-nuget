@@ -1,0 +1,6 @@
+- pkg:nuget/AzureBatchQueue.JsonNet@0.0.41-json
+- pkg:nuget/AzureBatchQueue.JsonNet@0.0.42-json-pavlo
+- pkg:nuget/AzureBatchQueue.JsonNet@0.0.43-vis-timeout
+- pkg:nuget/AzureBatchQueue.JsonNet@0.0.44-fail
+- pkg:nuget/AzureBatchQueue.JsonNet@1.0.0
+- pkg:nuget/AzureBatchQueue.JsonNet@1.0.1

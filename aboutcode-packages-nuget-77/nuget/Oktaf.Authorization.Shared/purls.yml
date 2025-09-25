@@ -1,0 +1,5 @@
+- pkg:nuget/Oktaf.Authorization.Shared@1.0.0
+- pkg:nuget/Oktaf.Authorization.Shared@5.0.0
+- pkg:nuget/Oktaf.Authorization.Shared@5.0.2
+- pkg:nuget/Oktaf.Authorization.Shared@7.0.0
+- pkg:nuget/Oktaf.Authorization.Shared@8.0.0

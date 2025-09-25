@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.10.16.1-beta
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.2.123.1
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.3.16.5-beta
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.4.216.2-beta
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.4.216.3-beta
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.5.48.2-beta
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.6.48.2-beta
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.7.57.2-beta
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.8.32.1-beta
+- pkg:nuget/Microsoft.Psi.CognitiveServices.Face.Windows@0.9.6.1-beta

@@ -1,0 +1,5 @@
+- pkg:nuget/SaasKit.Multitenancy.StructureMap@1.1.1-alpha
+- pkg:nuget/SaasKit.Multitenancy.StructureMap@1.1.2-rc2
+- pkg:nuget/SaasKit.Multitenancy.StructureMap@1.1.3
+- pkg:nuget/SaasKit.Multitenancy.StructureMap@1.1.3-rc2
+- pkg:nuget/SaasKit.Multitenancy.StructureMap@1.1.4

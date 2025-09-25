@@ -1,0 +1,5 @@
+- pkg:nuget/EntityFrameworkCore.Pluralize@1.0.0
+- pkg:nuget/EntityFrameworkCore.Pluralize@1.0.1
+- pkg:nuget/EntityFrameworkCore.Pluralize@2.1.1
+- pkg:nuget/EntityFrameworkCore.Pluralize@2.2.3
+- pkg:nuget/EntityFrameworkCore.Pluralize@2.2.3.1

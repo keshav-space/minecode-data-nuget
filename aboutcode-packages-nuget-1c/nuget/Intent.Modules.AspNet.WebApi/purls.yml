@@ -1,0 +1,8 @@
+- pkg:nuget/Intent.Modules.AspNet.WebApi@1.0.17-alpha
+- pkg:nuget/Intent.Modules.AspNet.WebApi@1.0.18-alpha
+- pkg:nuget/Intent.Modules.AspNet.WebApi@1.5.2
+- pkg:nuget/Intent.Modules.AspNet.WebApi@1.5.3
+- pkg:nuget/Intent.Modules.AspNet.WebApi@2.0.0
+- pkg:nuget/Intent.Modules.AspNet.WebApi@2.1.0
+- pkg:nuget/Intent.Modules.AspNet.WebApi@3.3.0
+- pkg:nuget/Intent.Modules.AspNet.WebApi@3.3.1

@@ -1,0 +1,14 @@
+- pkg:nuget/Cortside.Authorization.Client@1.0.13-ENG-4157-client
+- pkg:nuget/Cortside.Authorization.Client@1.0.14-ENG-4157-client
+- pkg:nuget/Cortside.Authorization.Client@1.0.15-ENG-4157-client
+- pkg:nuget/Cortside.Authorization.Client@1.0.27-ENG-4157-client
+- pkg:nuget/Cortside.Authorization.Client@1.0.29-ENG-4157-client
+- pkg:nuget/Cortside.Authorization.Client@1.0.30-ENG-4157-client
+- pkg:nuget/Cortside.Authorization.Client@1.0.31-ENG-4157-client
+- pkg:nuget/Cortside.Authorization.Client@1.0.33-ENG-4157-client
+- pkg:nuget/Cortside.Authorization.Client@1.0.34-develop
+- pkg:nuget/Cortside.Authorization.Client@1.0.35-ENG-0000-sonar
+- pkg:nuget/Cortside.Authorization.Client@1.0.36-develop
+- pkg:nuget/Cortside.Authorization.Client@1.0.37-ENG-0000-readme
+- pkg:nuget/Cortside.Authorization.Client@1.0.38-ENG-0000-readme
+- pkg:nuget/Cortside.Authorization.Client@1.0.39-develop

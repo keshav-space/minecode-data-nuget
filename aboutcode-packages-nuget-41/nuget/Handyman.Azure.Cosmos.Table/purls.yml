@@ -1,0 +1,15 @@
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.0.0
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.0.0-beta.20190714.1
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.0.0-beta.20190714.2
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.0.0-beta.20190716.1
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.0.0-beta.20190722.1
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.0.0-beta.20190722.2
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.0.0-beta.20190722.3
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.0.0-beta.20190806.1
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.1.0
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.2.0
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.2.1
+- pkg:nuget/Handyman.Azure.Cosmos.Table@1.2.2
+- pkg:nuget/Handyman.Azure.Cosmos.Table@2.0.0
+- pkg:nuget/Handyman.Azure.Cosmos.Table@3.0.0-preview.1
+- pkg:nuget/Handyman.Azure.Cosmos.Table@3.0.0-preview.2

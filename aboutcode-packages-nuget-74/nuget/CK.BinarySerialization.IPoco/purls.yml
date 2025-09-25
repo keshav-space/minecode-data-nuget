@@ -1,0 +1,17 @@
+- pkg:nuget/CK.BinarySerialization.IPoco@10.0.0
+- pkg:nuget/CK.BinarySerialization.IPoco@11.0.0
+- pkg:nuget/CK.BinarySerialization.IPoco@4.1.0
+- pkg:nuget/CK.BinarySerialization.IPoco@4.2.0
+- pkg:nuget/CK.BinarySerialization.IPoco@4.2.1
+- pkg:nuget/CK.BinarySerialization.IPoco@4.3.0
+- pkg:nuget/CK.BinarySerialization.IPoco@5.0.0
+- pkg:nuget/CK.BinarySerialization.IPoco@6.0.0
+- pkg:nuget/CK.BinarySerialization.IPoco@6.0.1
+- pkg:nuget/CK.BinarySerialization.IPoco@6.0.2
+- pkg:nuget/CK.BinarySerialization.IPoco@6.0.3
+- pkg:nuget/CK.BinarySerialization.IPoco@7.0.0
+- pkg:nuget/CK.BinarySerialization.IPoco@8.0.0
+- pkg:nuget/CK.BinarySerialization.IPoco@8.1.0
+- pkg:nuget/CK.BinarySerialization.IPoco@9.0.0
+- pkg:nuget/CK.BinarySerialization.IPoco@9.0.1
+- pkg:nuget/CK.BinarySerialization.IPoco@9.1.0

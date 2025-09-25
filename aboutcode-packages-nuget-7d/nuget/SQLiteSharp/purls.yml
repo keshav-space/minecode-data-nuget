@@ -1,0 +1,11 @@
+- pkg:nuget/SQLiteSharp@1.0.0
+- pkg:nuget/SQLiteSharp@1.1.0
+- pkg:nuget/SQLiteSharp@2.0.0
+- pkg:nuget/SQLiteSharp@3.0.0
+- pkg:nuget/SQLiteSharp@3.1.0
+- pkg:nuget/SQLiteSharp@3.2.0
+- pkg:nuget/SQLiteSharp@4.0.0
+- pkg:nuget/SQLiteSharp@5.0.0
+- pkg:nuget/SQLiteSharp@5.1.0
+- pkg:nuget/SQLiteSharp@5.2.0
+- pkg:nuget/SQLiteSharp@5.3.0

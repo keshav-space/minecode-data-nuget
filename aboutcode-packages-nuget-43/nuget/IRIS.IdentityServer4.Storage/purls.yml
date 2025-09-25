@@ -1,0 +1,4 @@
+- pkg:nuget/IRIS.IdentityServer4.Storage@0.0.0-alpha.0
+- pkg:nuget/IRIS.IdentityServer4.Storage@1.0.0
+- pkg:nuget/IRIS.IdentityServer4.Storage@1.0.1
+- pkg:nuget/IRIS.IdentityServer4.Storage@1.0.2

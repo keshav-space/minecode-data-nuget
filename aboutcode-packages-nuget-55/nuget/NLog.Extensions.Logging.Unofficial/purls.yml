@@ -1,0 +1,5 @@
+- pkg:nuget/NLog.Extensions.Logging.Unofficial@2.0.0-rtm-171102
+- pkg:nuget/NLog.Extensions.Logging.Unofficial@2.0.0-rtm-171105
+- pkg:nuget/NLog.Extensions.Logging.Unofficial@2.1.0-preview1-180101-01
+- pkg:nuget/NLog.Extensions.Logging.Unofficial@2.1.0-preview2-180302-01
+- pkg:nuget/NLog.Extensions.Logging.Unofficial@2.1.0-preview2-180326-01

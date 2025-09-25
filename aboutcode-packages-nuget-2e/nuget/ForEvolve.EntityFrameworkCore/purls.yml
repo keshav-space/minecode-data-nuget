@@ -1,0 +1,13 @@
+- pkg:nuget/ForEvolve.EntityFrameworkCore@1.1.0-CI-751
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.0.0-CI-857
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.0.0-CI-859
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.0.17
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.0.18
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.0.9
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.1.10
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.1.12-gbf428553ae
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.1.14
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.1.14-gca9291edaf
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.3.3
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.3.5
+- pkg:nuget/ForEvolve.EntityFrameworkCore@2.3.5-ga08e899ecc

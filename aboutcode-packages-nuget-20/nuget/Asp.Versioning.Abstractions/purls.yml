@@ -1,0 +1,14 @@
+- pkg:nuget/Asp.Versioning.Abstractions@6.0.0
+- pkg:nuget/Asp.Versioning.Abstractions@6.0.0-preview.1
+- pkg:nuget/Asp.Versioning.Abstractions@6.0.0-preview.2
+- pkg:nuget/Asp.Versioning.Abstractions@6.0.0-preview.3
+- pkg:nuget/Asp.Versioning.Abstractions@6.1.0
+- pkg:nuget/Asp.Versioning.Abstractions@6.2.0
+- pkg:nuget/Asp.Versioning.Abstractions@6.2.1
+- pkg:nuget/Asp.Versioning.Abstractions@7.0.0
+- pkg:nuget/Asp.Versioning.Abstractions@7.0.0-preview.1
+- pkg:nuget/Asp.Versioning.Abstractions@7.0.0-preview.2
+- pkg:nuget/Asp.Versioning.Abstractions@7.0.0-rc.1
+- pkg:nuget/Asp.Versioning.Abstractions@8.0.0
+- pkg:nuget/Asp.Versioning.Abstractions@8.0.1
+- pkg:nuget/Asp.Versioning.Abstractions@8.1.0

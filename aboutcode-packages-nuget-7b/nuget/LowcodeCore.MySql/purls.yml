@@ -1,0 +1,9 @@
+- pkg:nuget/LowcodeCore.MySql@6.0.0
+- pkg:nuget/LowcodeCore.MySql@6.0.1
+- pkg:nuget/LowcodeCore.MySql@7.0.0
+- pkg:nuget/LowcodeCore.MySql@8.0.0
+- pkg:nuget/LowcodeCore.MySql@9.0.0
+- pkg:nuget/LowcodeCore.MySql@9.0.1
+- pkg:nuget/LowcodeCore.MySql@9.0.2
+- pkg:nuget/LowcodeCore.MySql@9.1.0
+- pkg:nuget/LowcodeCore.MySql@9.1.1

@@ -1,0 +1,13 @@
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@1.0.0
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@1.0.1
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@1.0.2
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@1.0.3
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.0.0
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.1.0
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.1.1
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.2.0
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.2.1
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.3.0
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.3.0-main-20250317.1
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.3.0-main-20250318.1
+- pkg:nuget/Hangfire.Community.CarbonAwareExecution@2.3.1

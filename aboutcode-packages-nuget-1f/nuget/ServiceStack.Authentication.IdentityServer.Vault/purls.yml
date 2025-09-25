@@ -1,0 +1,6 @@
+- pkg:nuget/ServiceStack.Authentication.IdentityServer.Vault@4.0.11
+- pkg:nuget/ServiceStack.Authentication.IdentityServer.Vault@4.0.2
+- pkg:nuget/ServiceStack.Authentication.IdentityServer.Vault@4.0.5
+- pkg:nuget/ServiceStack.Authentication.IdentityServer.Vault@4.0.6
+- pkg:nuget/ServiceStack.Authentication.IdentityServer.Vault@4.0.7
+- pkg:nuget/ServiceStack.Authentication.IdentityServer.Vault@4.0.8

@@ -1,0 +1,14 @@
+- pkg:nuget/CK.Testing.AspNetServer@0.19.0
+- pkg:nuget/CK.Testing.AspNetServer@0.19.1
+- pkg:nuget/CK.Testing.AspNetServer@0.19.2
+- pkg:nuget/CK.Testing.AspNetServer@0.19.3
+- pkg:nuget/CK.Testing.AspNetServer@15.0.0
+- pkg:nuget/CK.Testing.AspNetServer@15.0.1
+- pkg:nuget/CK.Testing.AspNetServer@15.1.0
+- pkg:nuget/CK.Testing.AspNetServer@16.0.0
+- pkg:nuget/CK.Testing.AspNetServer@16.1.0
+- pkg:nuget/CK.Testing.AspNetServer@17.0.0
+- pkg:nuget/CK.Testing.AspNetServer@17.0.1
+- pkg:nuget/CK.Testing.AspNetServer@17.1.0
+- pkg:nuget/CK.Testing.AspNetServer@18.0.0
+- pkg:nuget/CK.Testing.AspNetServer@19.0.0

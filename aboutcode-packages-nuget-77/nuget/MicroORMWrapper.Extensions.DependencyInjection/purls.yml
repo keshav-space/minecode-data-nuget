@@ -1,0 +1,17 @@
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.1.0
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.2.1-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.3.1-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.3.2-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.3.3-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.3.4-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.4.1-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.6.1-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.6.2-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.6.3-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.7.1-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.8.1-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.8.2-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.8.3-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.8.4-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@0.9.1-beta
+- pkg:nuget/MicroORMWrapper.Extensions.DependencyInjection@1.0.0

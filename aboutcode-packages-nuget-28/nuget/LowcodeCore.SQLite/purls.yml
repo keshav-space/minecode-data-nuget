@@ -1,0 +1,8 @@
+- pkg:nuget/LowcodeCore.SQLite@6.0.0
+- pkg:nuget/LowcodeCore.SQLite@6.0.1
+- pkg:nuget/LowcodeCore.SQLite@7.0.0
+- pkg:nuget/LowcodeCore.SQLite@8.0.0
+- pkg:nuget/LowcodeCore.SQLite@9.0.0
+- pkg:nuget/LowcodeCore.SQLite@9.0.2
+- pkg:nuget/LowcodeCore.SQLite@9.1.0
+- pkg:nuget/LowcodeCore.SQLite@9.1.1

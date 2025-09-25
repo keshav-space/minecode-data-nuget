@@ -1,0 +1,14 @@
+- pkg:nuget/CK.DB.Workspace.Tests@10.0.0
+- pkg:nuget/CK.DB.Workspace.Tests@10.1.0
+- pkg:nuget/CK.DB.Workspace.Tests@11.0.0
+- pkg:nuget/CK.DB.Workspace.Tests@11.0.1
+- pkg:nuget/CK.DB.Workspace.Tests@11.1.0
+- pkg:nuget/CK.DB.Workspace.Tests@12.0.0
+- pkg:nuget/CK.DB.Workspace.Tests@13.0.0
+- pkg:nuget/CK.DB.Workspace.Tests@13.0.1
+- pkg:nuget/CK.DB.Workspace.Tests@7.0.2
+- pkg:nuget/CK.DB.Workspace.Tests@8.0.0
+- pkg:nuget/CK.DB.Workspace.Tests@8.0.1
+- pkg:nuget/CK.DB.Workspace.Tests@8.0.2
+- pkg:nuget/CK.DB.Workspace.Tests@8.0.3
+- pkg:nuget/CK.DB.Workspace.Tests@9.0.0

@@ -1,0 +1,11 @@
+- pkg:nuget/MCTestPackage@8.40.1000
+- pkg:nuget/MCTestPackage@8.40.1001
+- pkg:nuget/MCTestPackage@8.40.111
+- pkg:nuget/MCTestPackage@8.40.222
+- pkg:nuget/MCTestPackage@8.40.333
+- pkg:nuget/MCTestPackage@8.40.444
+- pkg:nuget/MCTestPackage@8.40.555
+- pkg:nuget/MCTestPackage@8.40.666
+- pkg:nuget/MCTestPackage@8.40.777
+- pkg:nuget/MCTestPackage@8.40.888
+- pkg:nuget/MCTestPackage@8.40.999

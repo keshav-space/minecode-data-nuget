@@ -1,0 +1,5 @@
+- pkg:nuget/ForEvolve.ExceptionMapper.HttpMiddleware@1.0.24-gff560b4837
+- pkg:nuget/ForEvolve.ExceptionMapper.HttpMiddleware@1.0.25-g3a7a25efb3
+- pkg:nuget/ForEvolve.ExceptionMapper.HttpMiddleware@1.1.9-g780e75793e
+- pkg:nuget/ForEvolve.ExceptionMapper.HttpMiddleware@2.0.13
+- pkg:nuget/ForEvolve.ExceptionMapper.HttpMiddleware@2.0.15

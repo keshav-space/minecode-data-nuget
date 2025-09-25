@@ -1,0 +1,11 @@
+- pkg:nuget/RedisCache.Store@1.0.0
+- pkg:nuget/RedisCache.Store@10.0.0
+- pkg:nuget/RedisCache.Store@11.0.0
+- pkg:nuget/RedisCache.Store@2.0.0
+- pkg:nuget/RedisCache.Store@3.0.0
+- pkg:nuget/RedisCache.Store@4.0.0
+- pkg:nuget/RedisCache.Store@5.0.0
+- pkg:nuget/RedisCache.Store@6.0.0
+- pkg:nuget/RedisCache.Store@7.0.0
+- pkg:nuget/RedisCache.Store@8.0.0
+- pkg:nuget/RedisCache.Store@9.0.0

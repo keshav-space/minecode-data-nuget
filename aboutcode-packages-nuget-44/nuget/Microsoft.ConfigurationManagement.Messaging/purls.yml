@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.ConfigurationManagement.Messaging@5.1706.1034.1000
+- pkg:nuget/Microsoft.ConfigurationManagement.Messaging@5.1710.1059.1000
+- pkg:nuget/Microsoft.ConfigurationManagement.Messaging@5.1806.1012.1000
+- pkg:nuget/Microsoft.ConfigurationManagement.Messaging@5.1902.1006.1000
+- pkg:nuget/Microsoft.ConfigurationManagement.Messaging@5.2006.1037.1000

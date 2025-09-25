@@ -1,0 +1,11 @@
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.0.12
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.0.16
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.0.19
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.0.21
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.0.26
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.0.31
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.0.34
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.0.36
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.1.12
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.1.16
+- pkg:nuget/IdentityServer3.Contrib.AccessTokenValidation@4.1.9

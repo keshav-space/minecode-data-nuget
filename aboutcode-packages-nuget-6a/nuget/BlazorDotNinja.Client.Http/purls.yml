@@ -1,0 +1,3 @@
+- pkg:nuget/BlazorDotNinja.Client.Http@1.9.0-preview.16
+- pkg:nuget/BlazorDotNinja.Client.Http@1.9.0-preview.18
+- pkg:nuget/BlazorDotNinja.Client.Http@1.9.0-preview.19

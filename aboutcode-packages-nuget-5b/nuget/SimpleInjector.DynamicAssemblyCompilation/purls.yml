@@ -1,0 +1,5 @@
+- pkg:nuget/SimpleInjector.DynamicAssemblyCompilation@5.0.0
+- pkg:nuget/SimpleInjector.DynamicAssemblyCompilation@5.0.0-beta1
+- pkg:nuget/SimpleInjector.DynamicAssemblyCompilation@5.0.0-beta2
+- pkg:nuget/SimpleInjector.DynamicAssemblyCompilation@5.4.6
+- pkg:nuget/SimpleInjector.DynamicAssemblyCompilation@5.5.0

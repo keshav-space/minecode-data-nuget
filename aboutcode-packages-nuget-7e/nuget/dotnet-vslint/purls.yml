@@ -1,0 +1,4 @@
+- pkg:nuget/dotnet-vslint@1.0.6
+- pkg:nuget/dotnet-vslint@1.1.0
+- pkg:nuget/dotnet-vslint@1.2.0
+- pkg:nuget/dotnet-vslint@1.2.1

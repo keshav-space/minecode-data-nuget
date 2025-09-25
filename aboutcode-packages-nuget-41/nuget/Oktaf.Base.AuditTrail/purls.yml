@@ -1,0 +1,16 @@
+- pkg:nuget/Oktaf.Base.AuditTrail@2.0.0
+- pkg:nuget/Oktaf.Base.AuditTrail@2.0.2
+- pkg:nuget/Oktaf.Base.AuditTrail@5.0.0
+- pkg:nuget/Oktaf.Base.AuditTrail@5.0.2
+- pkg:nuget/Oktaf.Base.AuditTrail@5.0.3
+- pkg:nuget/Oktaf.Base.AuditTrail@5.1.0
+- pkg:nuget/Oktaf.Base.AuditTrail@5.2.0
+- pkg:nuget/Oktaf.Base.AuditTrail@5.3.0
+- pkg:nuget/Oktaf.Base.AuditTrail@5.4.0
+- pkg:nuget/Oktaf.Base.AuditTrail@7.0.0
+- pkg:nuget/Oktaf.Base.AuditTrail@7.0.1
+- pkg:nuget/Oktaf.Base.AuditTrail@7.5.0
+- pkg:nuget/Oktaf.Base.AuditTrail@7.5.1
+- pkg:nuget/Oktaf.Base.AuditTrail@7.6.0
+- pkg:nuget/Oktaf.Base.AuditTrail@7.6.1
+- pkg:nuget/Oktaf.Base.AuditTrail@8.0.0

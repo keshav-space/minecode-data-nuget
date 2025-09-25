@@ -1,0 +1,7 @@
+- pkg:nuget/CK.Testing.NUnit@11.0.0
+- pkg:nuget/CK.Testing.NUnit@11.1.0
+- pkg:nuget/CK.Testing.NUnit@12.0.0
+- pkg:nuget/CK.Testing.NUnit@12.0.1
+- pkg:nuget/CK.Testing.NUnit@12.1.0
+- pkg:nuget/CK.Testing.NUnit@13.0.0
+- pkg:nuget/CK.Testing.NUnit@14.0.0

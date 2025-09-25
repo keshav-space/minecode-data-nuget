@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.Automata.SRM@1.0.0
+- pkg:nuget/Microsoft.Automata.SRM@1.0.1
+- pkg:nuget/Microsoft.Automata.SRM@1.1.0
+- pkg:nuget/Microsoft.Automata.SRM@1.2.0
+- pkg:nuget/Microsoft.Automata.SRM@1.2.1
+- pkg:nuget/Microsoft.Automata.SRM@1.2.2
+- pkg:nuget/Microsoft.Automata.SRM@2.0.0-alpha
+- pkg:nuget/Microsoft.Automata.SRM@2.0.0-alpha2
+- pkg:nuget/Microsoft.Automata.SRM@2.0.0-alpha3

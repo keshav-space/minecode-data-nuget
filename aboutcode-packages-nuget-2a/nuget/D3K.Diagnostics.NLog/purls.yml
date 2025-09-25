@@ -1,0 +1,5 @@
+- pkg:nuget/D3K.Diagnostics.NLog@3.0.0
+- pkg:nuget/D3K.Diagnostics.NLog@4.0.0
+- pkg:nuget/D3K.Diagnostics.NLog@5.0.0
+- pkg:nuget/D3K.Diagnostics.NLog@6.0.0
+- pkg:nuget/D3K.Diagnostics.NLog@6.0.1

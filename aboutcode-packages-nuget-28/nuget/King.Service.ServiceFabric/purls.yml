@@ -1,0 +1,8 @@
+- pkg:nuget/King.Service.ServiceFabric@0.0.0-alpha
+- pkg:nuget/King.Service.ServiceFabric@0.0.1-alpha
+- pkg:nuget/King.Service.ServiceFabric@0.0.2-beta
+- pkg:nuget/King.Service.ServiceFabric@1.0.0
+- pkg:nuget/King.Service.ServiceFabric@1.0.1-beta
+- pkg:nuget/King.Service.ServiceFabric@1.0.2-alpha
+- pkg:nuget/King.Service.ServiceFabric@1.0.2-beta
+- pkg:nuget/King.Service.ServiceFabric@1.0.3-beta

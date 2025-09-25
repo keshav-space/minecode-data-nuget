@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.10.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.11.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.12.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.13.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.14.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.5.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.6.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.7.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.8.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.8.1-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.9.0-preview.1
+- pkg:nuget/Microsoft.DurableTask.Client.AzureManaged@1.9.1-preview.1

@@ -1,0 +1,9 @@
+- pkg:nuget/Serilog.Sinks.TestCorrelator@3.0.0.64
+- pkg:nuget/Serilog.Sinks.TestCorrelator@3.0.0.65
+- pkg:nuget/Serilog.Sinks.TestCorrelator@3.0.0.68
+- pkg:nuget/Serilog.Sinks.TestCorrelator@3.0.1
+- pkg:nuget/Serilog.Sinks.TestCorrelator@3.0.2
+- pkg:nuget/Serilog.Sinks.TestCorrelator@3.0.3
+- pkg:nuget/Serilog.Sinks.TestCorrelator@3.1.0
+- pkg:nuget/Serilog.Sinks.TestCorrelator@3.2.0
+- pkg:nuget/Serilog.Sinks.TestCorrelator@4.0.0

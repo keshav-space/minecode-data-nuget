@@ -1,0 +1,8 @@
+- pkg:nuget/NexumNovus.AppSettings.Common@0.1.0%2Bbuild.11
+- pkg:nuget/NexumNovus.AppSettings.Common@0.2.0%2Bbuild.13
+- pkg:nuget/NexumNovus.AppSettings.Common@0.3.0%2Bbuild.17
+- pkg:nuget/NexumNovus.AppSettings.Common@0.3.1%2Bbuild.19
+- pkg:nuget/NexumNovus.AppSettings.Common@0.3.2%2Bbuild.21
+- pkg:nuget/NexumNovus.AppSettings.Common@0.4.0%2Bbuild.24
+- pkg:nuget/NexumNovus.AppSettings.Common@0.5.0%2Bbuild.33
+- pkg:nuget/NexumNovus.AppSettings.Common@0.6.0%2Bbuild.101

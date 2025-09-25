@@ -1,0 +1,13 @@
+- pkg:nuget/Ci.Mvc.Alert@1.0.0
+- pkg:nuget/Ci.Mvc.Alert@1.1.0
+- pkg:nuget/Ci.Mvc.Alert@2.0.0
+- pkg:nuget/Ci.Mvc.Alert@2.0.1
+- pkg:nuget/Ci.Mvc.Alert@2.1.0
+- pkg:nuget/Ci.Mvc.Alert@2.2.0
+- pkg:nuget/Ci.Mvc.Alert@5.0.0
+- pkg:nuget/Ci.Mvc.Alert@5.0.1
+- pkg:nuget/Ci.Mvc.Alert@5.0.2
+- pkg:nuget/Ci.Mvc.Alert@5.0.3
+- pkg:nuget/Ci.Mvc.Alert@6.0.0
+- pkg:nuget/Ci.Mvc.Alert@6.0.1
+- pkg:nuget/Ci.Mvc.Alert@6.0.2

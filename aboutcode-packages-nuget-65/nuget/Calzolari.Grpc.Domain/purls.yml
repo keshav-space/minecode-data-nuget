@@ -1,0 +1,14 @@
+- pkg:nuget/Calzolari.Grpc.Domain@1.0.0
+- pkg:nuget/Calzolari.Grpc.Domain@1.1.0
+- pkg:nuget/Calzolari.Grpc.Domain@1.1.1
+- pkg:nuget/Calzolari.Grpc.Domain@1.2.0
+- pkg:nuget/Calzolari.Grpc.Domain@5.0.0-rc
+- pkg:nuget/Calzolari.Grpc.Domain@5.0.1
+- pkg:nuget/Calzolari.Grpc.Domain@5.1.0
+- pkg:nuget/Calzolari.Grpc.Domain@5.2.0
+- pkg:nuget/Calzolari.Grpc.Domain@6.0.0
+- pkg:nuget/Calzolari.Grpc.Domain@6.1.1
+- pkg:nuget/Calzolari.Grpc.Domain@6.2.0
+- pkg:nuget/Calzolari.Grpc.Domain@8.0.0
+- pkg:nuget/Calzolari.Grpc.Domain@8.1.0
+- pkg:nuget/Calzolari.Grpc.Domain@9.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Emarkm.TestFramework.Data@1.0.0
+- pkg:nuget/Emarkm.TestFramework.Data@1.0.0-augustus
+- pkg:nuget/Emarkm.TestFramework.Data@1.0.0-caligula
+- pkg:nuget/Emarkm.TestFramework.Data@1.0.1

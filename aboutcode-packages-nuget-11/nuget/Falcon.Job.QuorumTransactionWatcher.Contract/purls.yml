@@ -1,0 +1,16 @@
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@1.0.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@2.0.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@3.0.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@3.0.1
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@3.1.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@3.2.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.0.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.1.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.2.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.3.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.3.1
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.4.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.5.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.6.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.7.0
+- pkg:nuget/Falcon.Job.QuorumTransactionWatcher.Contract@4.8.0

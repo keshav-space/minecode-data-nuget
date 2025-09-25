@@ -1,0 +1,4 @@
+- pkg:nuget/IdGen.DependencyInjection@3.0.0
+- pkg:nuget/IdGen.DependencyInjection@3.0.5
+- pkg:nuget/IdGen.DependencyInjection@3.0.6
+- pkg:nuget/IdGen.DependencyInjection@3.0.7

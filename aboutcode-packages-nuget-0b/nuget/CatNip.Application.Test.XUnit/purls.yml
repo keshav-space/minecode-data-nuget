@@ -1,0 +1,5 @@
+- pkg:nuget/CatNip.Application.Test.XUnit@2.2.1
+- pkg:nuget/CatNip.Application.Test.XUnit@2.3.1
+- pkg:nuget/CatNip.Application.Test.XUnit@3.0.0
+- pkg:nuget/CatNip.Application.Test.XUnit@3.0.1
+- pkg:nuget/CatNip.Application.Test.XUnit@3.0.2

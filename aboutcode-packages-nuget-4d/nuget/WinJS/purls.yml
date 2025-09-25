@@ -1,0 +1,13 @@
+- pkg:nuget/WinJS@3.0.0
+- pkg:nuget/WinJS@3.0.0.1
+- pkg:nuget/WinJS@3.0.1
+- pkg:nuget/WinJS@4.0.0
+- pkg:nuget/WinJS@4.0.0-preview
+- pkg:nuget/WinJS@4.0.1
+- pkg:nuget/WinJS@4.1.0
+- pkg:nuget/WinJS@4.2.0
+- pkg:nuget/WinJS@4.3.0
+- pkg:nuget/WinJS@4.3.1
+- pkg:nuget/WinJS@4.4.0
+- pkg:nuget/WinJS@4.4.2
+- pkg:nuget/WinJS@4.4.3

@@ -1,0 +1,5 @@
+- pkg:nuget/Scalider.Serialization.NewtonsoftJson@2020.12.0
+- pkg:nuget/Scalider.Serialization.NewtonsoftJson@2020.12.1
+- pkg:nuget/Scalider.Serialization.NewtonsoftJson@2021.1.0
+- pkg:nuget/Scalider.Serialization.NewtonsoftJson@2021.1.1
+- pkg:nuget/Scalider.Serialization.NewtonsoftJson@2021.1.2

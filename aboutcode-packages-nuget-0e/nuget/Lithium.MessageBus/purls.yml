@@ -1,0 +1,5 @@
+- pkg:nuget/Lithium.MessageBus@1.0.2%2B3
+- pkg:nuget/Lithium.MessageBus@1.0.3
+- pkg:nuget/Lithium.MessageBus@1.0.4
+- pkg:nuget/Lithium.MessageBus@1.0.5
+- pkg:nuget/Lithium.MessageBus@1.0.6%2B1

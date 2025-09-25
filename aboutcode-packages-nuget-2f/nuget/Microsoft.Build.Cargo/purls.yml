@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.Build.Cargo@1.0.337-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.338-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.340-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.341-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.346-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.347-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.350-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.361-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.364-preview
+- pkg:nuget/Microsoft.Build.Cargo@1.0.365-preview

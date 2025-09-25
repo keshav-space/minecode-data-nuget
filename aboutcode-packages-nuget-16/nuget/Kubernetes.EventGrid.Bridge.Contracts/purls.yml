@@ -1,0 +1,3 @@
+- pkg:nuget/Kubernetes.EventGrid.Bridge.Contracts@0.1.0
+- pkg:nuget/Kubernetes.EventGrid.Bridge.Contracts@0.1.0-dry-run
+- pkg:nuget/Kubernetes.EventGrid.Bridge.Contracts@0.2.0
