@@ -1,0 +1,4 @@
+- pkg:nuget/XPike.Drivers.Http.Declarative.AspNetCore@1.0.0
+- pkg:nuget/XPike.Drivers.Http.Declarative.AspNetCore@1.0.1
+- pkg:nuget/XPike.Drivers.Http.Declarative.AspNetCore@1.1.1
+- pkg:nuget/XPike.Drivers.Http.Declarative.AspNetCore@1.1.3

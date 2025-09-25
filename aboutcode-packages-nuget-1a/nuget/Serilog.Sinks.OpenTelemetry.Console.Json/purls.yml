@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Sinks.OpenTelemetry.Console.Json@1.9.0-rc7

@@ -1,0 +1,2 @@
+- pkg:nuget/AnotherDependentPackage1abc@3.0.0
+- pkg:nuget/AnotherDependentPackage1abc@4.0.0

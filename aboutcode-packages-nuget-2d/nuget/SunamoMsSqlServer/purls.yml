@@ -1,0 +1,4 @@
+- pkg:nuget/SunamoMsSqlServer@24.12.26.1
+- pkg:nuget/SunamoMsSqlServer@25.1.2.1
+- pkg:nuget/SunamoMsSqlServer@25.3.29.1
+- pkg:nuget/SunamoMsSqlServer@25.6.7.1

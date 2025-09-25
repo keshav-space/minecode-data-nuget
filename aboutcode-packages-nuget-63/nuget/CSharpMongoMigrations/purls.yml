@@ -1,0 +1,15 @@
+- pkg:nuget/CSharpMongoMigrations@1.0.0
+- pkg:nuget/CSharpMongoMigrations@1.0.1
+- pkg:nuget/CSharpMongoMigrations@1.0.2
+- pkg:nuget/CSharpMongoMigrations@1.0.3
+- pkg:nuget/CSharpMongoMigrations@1.1.0
+- pkg:nuget/CSharpMongoMigrations@2.0.0
+- pkg:nuget/CSharpMongoMigrations@2.1.0
+- pkg:nuget/CSharpMongoMigrations@2.1.1
+- pkg:nuget/CSharpMongoMigrations@2.1.2
+- pkg:nuget/CSharpMongoMigrations@2.2.0
+- pkg:nuget/CSharpMongoMigrations@2.3.0
+- pkg:nuget/CSharpMongoMigrations@2.4.0
+- pkg:nuget/CSharpMongoMigrations@2.5.0
+- pkg:nuget/CSharpMongoMigrations@2.5.1
+- pkg:nuget/CSharpMongoMigrations@2.5.2

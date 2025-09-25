@@ -1,0 +1,5 @@
+- pkg:nuget/PdfSharp.MigraDoc.Standard.DocumentObjectModel@1.51.12
+- pkg:nuget/PdfSharp.MigraDoc.Standard.DocumentObjectModel@1.51.14
+- pkg:nuget/PdfSharp.MigraDoc.Standard.DocumentObjectModel@1.51.15
+- pkg:nuget/PdfSharp.MigraDoc.Standard.DocumentObjectModel@1.51.8
+- pkg:nuget/PdfSharp.MigraDoc.Standard.DocumentObjectModel@1.51.9

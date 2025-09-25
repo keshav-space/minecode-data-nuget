@@ -1,0 +1,5 @@
+- pkg:nuget/Hangfire.Firebase@1.0.0
+- pkg:nuget/Hangfire.Firebase@1.0.0-beta
+- pkg:nuget/Hangfire.Firebase@1.0.1
+- pkg:nuget/Hangfire.Firebase@1.0.2
+- pkg:nuget/Hangfire.Firebase@1.0.3

@@ -1,0 +1,4 @@
+- pkg:nuget/SlackAPI.WebSocketSharp@1.0.5.1
+- pkg:nuget/SlackAPI.WebSocketSharp@1.0.5.2
+- pkg:nuget/SlackAPI.WebSocketSharp@1.0.5.3
+- pkg:nuget/SlackAPI.WebSocketSharp@1.0.5.4

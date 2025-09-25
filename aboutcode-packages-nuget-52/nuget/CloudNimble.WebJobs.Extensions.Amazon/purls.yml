@@ -1,0 +1,4 @@
+- pkg:nuget/CloudNimble.WebJobs.Extensions.Amazon@1.0.0-CI-20250606-232418
+- pkg:nuget/CloudNimble.WebJobs.Extensions.Amazon@1.0.0-CI-20250608-012213
+- pkg:nuget/CloudNimble.WebJobs.Extensions.Amazon@1.0.0-CI-20250608-013940
+- pkg:nuget/CloudNimble.WebJobs.Extensions.Amazon@1.0.0-CI-20250608-015954

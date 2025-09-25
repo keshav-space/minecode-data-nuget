@@ -1,0 +1,14 @@
+- pkg:nuget/BetterRead.Shared@1.5.1-manual-build17
+- pkg:nuget/BetterRead.Shared@1.5.1-manual-build18
+- pkg:nuget/BetterRead.Shared@1.5.1.20
+- pkg:nuget/BetterRead.Shared@1.5.2-ci-build21
+- pkg:nuget/BetterRead.Shared@1.5.2-ci-build23
+- pkg:nuget/BetterRead.Shared@1.5.2-ci-build25
+- pkg:nuget/BetterRead.Shared@1.5.2.22
+- pkg:nuget/BetterRead.Shared@1.5.2.24
+- pkg:nuget/BetterRead.Shared@1.6.0
+- pkg:nuget/BetterRead.Shared@1.6.0.43-beta
+- pkg:nuget/BetterRead.Shared@1.6.0.45-beta
+- pkg:nuget/BetterRead.Shared@1.6.0.49-beta
+- pkg:nuget/BetterRead.Shared@1.6.0.50-beta
+- pkg:nuget/BetterRead.Shared@1.6.0.51-beta

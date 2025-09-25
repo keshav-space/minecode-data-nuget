@@ -1,0 +1,15 @@
+- pkg:nuget/Dapr.WebStream.Client@0.1.0
+- pkg:nuget/Dapr.WebStream.Client@0.1.10
+- pkg:nuget/Dapr.WebStream.Client@0.1.11
+- pkg:nuget/Dapr.WebStream.Client@0.1.12
+- pkg:nuget/Dapr.WebStream.Client@0.1.13
+- pkg:nuget/Dapr.WebStream.Client@0.1.15
+- pkg:nuget/Dapr.WebStream.Client@0.1.16
+- pkg:nuget/Dapr.WebStream.Client@0.1.17
+- pkg:nuget/Dapr.WebStream.Client@0.1.22
+- pkg:nuget/Dapr.WebStream.Client@0.1.23
+- pkg:nuget/Dapr.WebStream.Client@0.1.24
+- pkg:nuget/Dapr.WebStream.Client@0.1.4
+- pkg:nuget/Dapr.WebStream.Client@0.1.5
+- pkg:nuget/Dapr.WebStream.Client@0.1.6
+- pkg:nuget/Dapr.WebStream.Client@0.1.7

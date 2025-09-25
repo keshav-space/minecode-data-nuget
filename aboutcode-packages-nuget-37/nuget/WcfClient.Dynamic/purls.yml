@@ -1,0 +1,9 @@
+- pkg:nuget/WcfClient.Dynamic@5.0.0
+- pkg:nuget/WcfClient.Dynamic@5.0.1
+- pkg:nuget/WcfClient.Dynamic@6.0.0
+- pkg:nuget/WcfClient.Dynamic@6.0.1
+- pkg:nuget/WcfClient.Dynamic@8.0.0
+- pkg:nuget/WcfClient.Dynamic@8.0.0-alpha
+- pkg:nuget/WcfClient.Dynamic@8.0.0-beta
+- pkg:nuget/WcfClient.Dynamic@8.0.1
+- pkg:nuget/WcfClient.Dynamic@8.0.2

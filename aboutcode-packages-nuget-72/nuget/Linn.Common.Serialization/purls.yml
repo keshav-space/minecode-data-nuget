@@ -1,0 +1,4 @@
+- pkg:nuget/Linn.Common.Serialization@1.0.0
+- pkg:nuget/Linn.Common.Serialization@2.0.0
+- pkg:nuget/Linn.Common.Serialization@2.1.0
+- pkg:nuget/Linn.Common.Serialization@3.0.0

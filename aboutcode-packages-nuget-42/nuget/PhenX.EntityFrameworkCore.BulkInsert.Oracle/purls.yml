@@ -1,0 +1,6 @@
+- pkg:nuget/PhenX.EntityFrameworkCore.BulkInsert.Oracle@0.3.0
+- pkg:nuget/PhenX.EntityFrameworkCore.BulkInsert.Oracle@0.3.1
+- pkg:nuget/PhenX.EntityFrameworkCore.BulkInsert.Oracle@0.3.2
+- pkg:nuget/PhenX.EntityFrameworkCore.BulkInsert.Oracle@0.4.0
+- pkg:nuget/PhenX.EntityFrameworkCore.BulkInsert.Oracle@0.4.1
+- pkg:nuget/PhenX.EntityFrameworkCore.BulkInsert.Oracle@0.4.2

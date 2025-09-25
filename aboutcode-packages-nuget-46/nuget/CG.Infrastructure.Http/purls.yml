@@ -1,0 +1,17 @@
+- pkg:nuget/CG.Infrastructure.Http@1.0.0
+- pkg:nuget/CG.Infrastructure.Http@1.0.1
+- pkg:nuget/CG.Infrastructure.Http@1.0.2
+- pkg:nuget/CG.Infrastructure.Http@2.0.0
+- pkg:nuget/CG.Infrastructure.Http@2.0.1
+- pkg:nuget/CG.Infrastructure.Http@3.0.0
+- pkg:nuget/CG.Infrastructure.Http@3.0.1
+- pkg:nuget/CG.Infrastructure.Http@3.0.2
+- pkg:nuget/CG.Infrastructure.Http@3.10.0
+- pkg:nuget/CG.Infrastructure.Http@3.10.1
+- pkg:nuget/CG.Infrastructure.Http@3.10.2
+- pkg:nuget/CG.Infrastructure.Http@3.10.3
+- pkg:nuget/CG.Infrastructure.Http@3.10.4
+- pkg:nuget/CG.Infrastructure.Http@3.10.5
+- pkg:nuget/CG.Infrastructure.Http@3.10.6
+- pkg:nuget/CG.Infrastructure.Http@3.10.7
+- pkg:nuget/CG.Infrastructure.Http@3.9.0

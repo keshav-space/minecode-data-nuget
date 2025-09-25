@@ -1,0 +1,4 @@
+- pkg:nuget/com.massivecreationlab.xceptodotnet.rabbitmq@1.0.0-alpha.80
+- pkg:nuget/com.massivecreationlab.xceptodotnet.rabbitmq@1.0.0-alpha.85
+- pkg:nuget/com.massivecreationlab.xceptodotnet.rabbitmq@1.0.0-alpha.87
+- pkg:nuget/com.massivecreationlab.xceptodotnet.rabbitmq@1.0.0-alpha.90

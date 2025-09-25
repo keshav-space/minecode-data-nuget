@@ -1,0 +1,7 @@
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ.Autofac@1.0.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ.Autofac@1.1.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ.Autofac@1.1.1
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ.Autofac@1.1.2
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ.Autofac@1.1.3
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ.Autofac@2.0.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ.Autofac@2.0.1

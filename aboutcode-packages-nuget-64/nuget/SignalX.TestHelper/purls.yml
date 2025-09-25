@@ -1,0 +1,13 @@
+- pkg:nuget/SignalX.TestHelper@0.0.1-pre
+- pkg:nuget/SignalX.TestHelper@0.0.2-pre
+- pkg:nuget/SignalX.TestHelper@0.1.0-pre
+- pkg:nuget/SignalX.TestHelper@0.1.1-pre
+- pkg:nuget/SignalX.TestHelper@1.0.0-pre
+- pkg:nuget/SignalX.TestHelper@1.0.1-pre
+- pkg:nuget/SignalX.TestHelper@1.1.0-pre
+- pkg:nuget/SignalX.TestHelper@1.2.0-pre
+- pkg:nuget/SignalX.TestHelper@2.0.0-pre
+- pkg:nuget/SignalX.TestHelper@3.0.0-pre
+- pkg:nuget/SignalX.TestHelper@4.0.0-pre
+- pkg:nuget/SignalX.TestHelper@5.0.0-pre
+- pkg:nuget/SignalX.TestHelper@6.0.0-pre

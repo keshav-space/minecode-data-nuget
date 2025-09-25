@@ -1,0 +1,2 @@
+- pkg:nuget/EFCore5.0.AutomaticMigrations@5.0.0
+- pkg:nuget/EFCore5.0.AutomaticMigrations@5.0.7

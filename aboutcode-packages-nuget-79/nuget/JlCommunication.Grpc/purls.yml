@@ -1,0 +1,4 @@
+- pkg:nuget/JlCommunication.Grpc@1.0.0
+- pkg:nuget/JlCommunication.Grpc@1.0.1
+- pkg:nuget/JlCommunication.Grpc@2.0.0
+- pkg:nuget/JlCommunication.Grpc@2.0.3

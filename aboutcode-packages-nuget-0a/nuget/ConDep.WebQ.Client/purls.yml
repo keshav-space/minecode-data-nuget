@@ -1,0 +1,3 @@
+- pkg:nuget/ConDep.WebQ.Client@1.0.0-rc
+- pkg:nuget/ConDep.WebQ.Client@2.0.0
+- pkg:nuget/ConDep.WebQ.Client@5.0.1

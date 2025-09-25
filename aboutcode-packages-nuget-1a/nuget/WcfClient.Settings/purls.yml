@@ -1,0 +1,5 @@
+- pkg:nuget/WcfClient.Settings@5.0.0
+- pkg:nuget/WcfClient.Settings@6.0.0
+- pkg:nuget/WcfClient.Settings@8.0.0
+- pkg:nuget/WcfClient.Settings@8.0.0-alpha
+- pkg:nuget/WcfClient.Settings@8.0.0-beta

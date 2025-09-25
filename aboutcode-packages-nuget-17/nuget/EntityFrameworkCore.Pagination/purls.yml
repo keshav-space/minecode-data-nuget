@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFrameworkCore.Pagination@7.0.5
+- pkg:nuget/EntityFrameworkCore.Pagination@8.0.0

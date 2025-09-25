@@ -1,0 +1,9 @@
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@3.0.30-beta
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@3.0.31-beta
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@3.0.32-beta
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@3.0.33-beta
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@3.0.34-beta
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@3.0.35
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@3.0.35-beta
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@5.0.2
+- pkg:nuget/ConDep.Dsl.LoadBalancer.AlohaHaProxy@5.0.3

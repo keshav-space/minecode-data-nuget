@@ -1,0 +1,17 @@
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.10.0
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.11.1
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.12.0
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.13.0
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.13.1
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.14.0
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.14.2
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.15.0
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.15.1
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.15.2
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.15.2-r0001-add9d9f
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.16.0
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.17.0
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.17.0-r0002-5c783ea
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.17.1
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.17.1-r0005-68a3a97
+- pkg:nuget/Microsoft.Azure.Mobile.Push@0.18.0

@@ -1,0 +1,13 @@
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@1.0.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@1.1.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@1.1.1
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@1.1.2
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@2.0.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@2.0.1
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@3.0.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@3.1.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@3.2.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@3.2.1
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@3.2.2
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@3.2.3
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@3.2.4

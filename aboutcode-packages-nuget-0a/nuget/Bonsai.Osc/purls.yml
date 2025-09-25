@@ -1,0 +1,16 @@
+- pkg:nuget/Bonsai.Osc@2.0.0
+- pkg:nuget/Bonsai.Osc@2.0.0-rc2
+- pkg:nuget/Bonsai.Osc@2.0.0-rc8
+- pkg:nuget/Bonsai.Osc@2.1.0
+- pkg:nuget/Bonsai.Osc@2.2.0
+- pkg:nuget/Bonsai.Osc@2.2.1
+- pkg:nuget/Bonsai.Osc@2.3.0
+- pkg:nuget/Bonsai.Osc@2.4.0
+- pkg:nuget/Bonsai.Osc@2.5.0
+- pkg:nuget/Bonsai.Osc@2.5.1
+- pkg:nuget/Bonsai.Osc@2.6.0
+- pkg:nuget/Bonsai.Osc@2.6.1
+- pkg:nuget/Bonsai.Osc@2.6.2
+- pkg:nuget/Bonsai.Osc@2.7.0
+- pkg:nuget/Bonsai.Osc@2.9.0
+- pkg:nuget/Bonsai.Osc@2.9.0-preview1

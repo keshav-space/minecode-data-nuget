@@ -1,0 +1,9 @@
+- pkg:nuget/Shipwreck.BlazorSignalR@0.0.1-pre
+- pkg:nuget/Shipwreck.BlazorSignalR@0.0.2-pre
+- pkg:nuget/Shipwreck.BlazorSignalR@0.0.3-pre
+- pkg:nuget/Shipwreck.BlazorSignalR@0.0.4-pre
+- pkg:nuget/Shipwreck.BlazorSignalR@0.0.5-pre
+- pkg:nuget/Shipwreck.BlazorSignalR@0.0.6-preview320-1
+- pkg:nuget/Shipwreck.BlazorSignalR@0.0.7-preview320-1
+- pkg:nuget/Shipwreck.BlazorSignalR@0.0.8-preview320-3
+- pkg:nuget/Shipwreck.BlazorSignalR@0.1.0

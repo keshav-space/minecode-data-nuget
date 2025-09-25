@@ -1,0 +1,4 @@
+- pkg:nuget/Divergic.Logging.Sentry.All@0.1.0-ci0001
+- pkg:nuget/Divergic.Logging.Sentry.All@0.1.0-pullrequest0002-0006
+- pkg:nuget/Divergic.Logging.Sentry.All@0.1.0-pullrequest0002-0009
+- pkg:nuget/Divergic.Logging.Sentry.All@1.0.0

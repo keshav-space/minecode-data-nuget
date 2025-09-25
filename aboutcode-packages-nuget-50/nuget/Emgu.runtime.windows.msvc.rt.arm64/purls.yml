@@ -1,0 +1,8 @@
+- pkg:nuget/Emgu.runtime.windows.msvc.rt.arm64@19.33.31630
+- pkg:nuget/Emgu.runtime.windows.msvc.rt.arm64@19.35.32217.1
+- pkg:nuget/Emgu.runtime.windows.msvc.rt.arm64@19.37.32822
+- pkg:nuget/Emgu.runtime.windows.msvc.rt.arm64@19.37.32825
+- pkg:nuget/Emgu.runtime.windows.msvc.rt.arm64@19.39.33523
+- pkg:nuget/Emgu.runtime.windows.msvc.rt.arm64@19.42.34435
+- pkg:nuget/Emgu.runtime.windows.msvc.rt.arm64@19.44.35207.1
+- pkg:nuget/Emgu.runtime.windows.msvc.rt.arm64@19.44.35214

@@ -1,0 +1,13 @@
+- pkg:nuget/Cake.MiniCover@0.26.5
+- pkg:nuget/Cake.MiniCover@0.26.6
+- pkg:nuget/Cake.MiniCover@0.26.7
+- pkg:nuget/Cake.MiniCover@0.26.8
+- pkg:nuget/Cake.MiniCover@0.28.0
+- pkg:nuget/Cake.MiniCover@0.28.0-next0016
+- pkg:nuget/Cake.MiniCover@0.28.0-next0017
+- pkg:nuget/Cake.MiniCover@0.28.0-next0018
+- pkg:nuget/Cake.MiniCover@0.28.0-next20180607072104
+- pkg:nuget/Cake.MiniCover@0.28.1
+- pkg:nuget/Cake.MiniCover@0.28.1-next20180721063200
+- pkg:nuget/Cake.MiniCover@0.29.0-next20180721070442
+- pkg:nuget/Cake.MiniCover@0.29.0-next20180721071547

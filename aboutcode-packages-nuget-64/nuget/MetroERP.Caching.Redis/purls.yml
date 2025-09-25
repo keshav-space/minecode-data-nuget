@@ -1,0 +1,12 @@
+- pkg:nuget/MetroERP.Caching.Redis@1.0.0
+- pkg:nuget/MetroERP.Caching.Redis@1.0.0.1
+- pkg:nuget/MetroERP.Caching.Redis@1.0.0.2
+- pkg:nuget/MetroERP.Caching.Redis@1.0.1.2
+- pkg:nuget/MetroERP.Caching.Redis@1.0.2.2
+- pkg:nuget/MetroERP.Caching.Redis@2.0.0.1-beta
+- pkg:nuget/MetroERP.Caching.Redis@2.0.0.2-beta
+- pkg:nuget/MetroERP.Caching.Redis@2.0.0.3-beta
+- pkg:nuget/MetroERP.Caching.Redis@2.0.0.4-beta
+- pkg:nuget/MetroERP.Caching.Redis@2.0.0.5-beta
+- pkg:nuget/MetroERP.Caching.Redis@2.0.0.6-beta
+- pkg:nuget/MetroERP.Caching.Redis@2.1.0

@@ -1,0 +1,8 @@
+- pkg:nuget/BetterRead.Shared.Common@1.5.1-manual-build17
+- pkg:nuget/BetterRead.Shared.Common@1.5.1-manual-build18
+- pkg:nuget/BetterRead.Shared.Common@1.5.1.20
+- pkg:nuget/BetterRead.Shared.Common@1.5.2-ci-build21
+- pkg:nuget/BetterRead.Shared.Common@1.5.2-ci-build23
+- pkg:nuget/BetterRead.Shared.Common@1.5.2-ci-build25
+- pkg:nuget/BetterRead.Shared.Common@1.5.2.22
+- pkg:nuget/BetterRead.Shared.Common@1.5.2.24

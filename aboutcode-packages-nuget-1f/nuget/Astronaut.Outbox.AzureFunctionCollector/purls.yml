@@ -1,0 +1,6 @@
+- pkg:nuget/Astronaut.Outbox.AzureFunctionCollector@3.0.0
+- pkg:nuget/Astronaut.Outbox.AzureFunctionCollector@4.0.0
+- pkg:nuget/Astronaut.Outbox.AzureFunctionCollector@4.1.0
+- pkg:nuget/Astronaut.Outbox.AzureFunctionCollector@4.2.0
+- pkg:nuget/Astronaut.Outbox.AzureFunctionCollector@4.3.0
+- pkg:nuget/Astronaut.Outbox.AzureFunctionCollector@4.4.0

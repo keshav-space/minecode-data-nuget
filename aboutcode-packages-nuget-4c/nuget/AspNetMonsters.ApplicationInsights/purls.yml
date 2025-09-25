@@ -1,0 +1,3 @@
+- pkg:nuget/AspNetMonsters.ApplicationInsights@1.0.0
+- pkg:nuget/AspNetMonsters.ApplicationInsights@1.1.23
+- pkg:nuget/AspNetMonsters.ApplicationInsights@1.1.24

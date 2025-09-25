@@ -1,0 +1,9 @@
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.10
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.11
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.12
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.13
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.14
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.15
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.15-rc1
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.8
+- pkg:nuget/PSWinCom.Gateway.Client@2.0.9

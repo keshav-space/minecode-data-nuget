@@ -1,0 +1,14 @@
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.0
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.0-CI-20240825-040029
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.0-CI-20240825-041953
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.0-CI-20241010-173543
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.0-CI-20241016-130751
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.0-CI-20241113-032129
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.1-CI-20250129-033359
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.1-CI-20250130-011027
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.1-CI-20250520-192653
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.1-CI-20250520-195555
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.1-CI-20250520-222034
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.1-CI-20250529-223102
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@5.0.2
+- pkg:nuget/SimpleMessageBus.Publish.IndexedDb@6.0.0-CI-20250713-223600

@@ -1,0 +1,14 @@
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@1.0.0
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@1.1.0
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@1.1.1
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@2.0.0
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@2.0.1
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@2.1.0
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@3.0.0
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@3.1.0
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@3.1.1
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@4.0.0
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@4.0.1
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@4.0.2
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@4.0.3
+- pkg:nuget/Linn.Common.Messaging.AmazonSqs@5.0.0

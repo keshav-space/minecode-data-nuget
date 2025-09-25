@@ -1,0 +1,15 @@
+- pkg:nuget/Gamanet.C4.DriverFramework@16.5.0
+- pkg:nuget/Gamanet.C4.DriverFramework@16.7.0
+- pkg:nuget/Gamanet.C4.DriverFramework@16.8.0
+- pkg:nuget/Gamanet.C4.DriverFramework@16.9.0
+- pkg:nuget/Gamanet.C4.DriverFramework@17.0.0
+- pkg:nuget/Gamanet.C4.DriverFramework@17.0.0-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework@18.0.0
+- pkg:nuget/Gamanet.C4.DriverFramework@18.0.0-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework@18.1.0
+- pkg:nuget/Gamanet.C4.DriverFramework@18.2.0-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework@18.2.1-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework@19.0.1
+- pkg:nuget/Gamanet.C4.DriverFramework@19.0.1-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework@19.1.1-prerelease
+- pkg:nuget/Gamanet.C4.DriverFramework@3.0.0

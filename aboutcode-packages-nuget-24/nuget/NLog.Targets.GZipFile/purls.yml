@@ -1,0 +1,10 @@
+- pkg:nuget/NLog.Targets.GZipFile@6.0.0
+- pkg:nuget/NLog.Targets.GZipFile@6.0.0-preview1
+- pkg:nuget/NLog.Targets.GZipFile@6.0.0-rc1
+- pkg:nuget/NLog.Targets.GZipFile@6.0.0-rc2
+- pkg:nuget/NLog.Targets.GZipFile@6.0.0-rc3
+- pkg:nuget/NLog.Targets.GZipFile@6.0.0-rc4
+- pkg:nuget/NLog.Targets.GZipFile@6.0.1
+- pkg:nuget/NLog.Targets.GZipFile@6.0.2
+- pkg:nuget/NLog.Targets.GZipFile@6.0.3
+- pkg:nuget/NLog.Targets.GZipFile@6.0.4

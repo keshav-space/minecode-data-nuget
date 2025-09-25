@@ -1,0 +1,6 @@
+- pkg:nuget/Repository.Data.EntityFrameworkCore@1.0.0-CI-20240518-182308
+- pkg:nuget/Repository.Data.EntityFrameworkCore@1.0.10
+- pkg:nuget/Repository.Data.EntityFrameworkCore@1.0.11
+- pkg:nuget/Repository.Data.EntityFrameworkCore@1.0.6
+- pkg:nuget/Repository.Data.EntityFrameworkCore@1.0.8
+- pkg:nuget/Repository.Data.EntityFrameworkCore@1.0.9

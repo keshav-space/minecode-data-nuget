@@ -1,0 +1,8 @@
+- pkg:nuget/ManticoreSearch@6.0.0
+- pkg:nuget/ManticoreSearch@7.0.0
+- pkg:nuget/ManticoreSearch@8.0.0
+- pkg:nuget/ManticoreSearch@9.0.0
+- pkg:nuget/ManticoreSearch@9.0.0-dev
+- pkg:nuget/ManticoreSearch@9.0.1
+- pkg:nuget/ManticoreSearch@9.0.1-dev
+- pkg:nuget/ManticoreSearch@9.1.0

@@ -1,0 +1,17 @@
+- pkg:nuget/CQELight.Buses.RabbitMQ@0.4.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@0.5.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@0.6.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@0.7.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@0.8.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@0.9.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.0.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.0.0-rc
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.0.1
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.0.3
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.1.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.1.1
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.1.2
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.1.3
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.1.4
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.2.0
+- pkg:nuget/CQELight.Buses.RabbitMQ@1.2.1

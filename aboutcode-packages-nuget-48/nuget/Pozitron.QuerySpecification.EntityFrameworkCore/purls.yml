@@ -1,0 +1,10 @@
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@10.0.0
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@10.1.0
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@10.2.0
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@10.2.1
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@11.0.0
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@11.0.0-beta1
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@11.1.0
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@11.2.0
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@11.3.0
+- pkg:nuget/Pozitron.QuerySpecification.EntityFrameworkCore@11.3.1

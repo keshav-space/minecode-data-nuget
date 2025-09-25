@@ -1,0 +1,3 @@
+- pkg:nuget/JlCommunication.Grpc.Consul@1.0.1
+- pkg:nuget/JlCommunication.Grpc.Consul@2.0.0
+- pkg:nuget/JlCommunication.Grpc.Consul@2.0.3

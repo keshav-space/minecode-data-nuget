@@ -1,0 +1,5 @@
+- pkg:nuget/CyberSource.Authentication.Core@0.0.0.11
+- pkg:nuget/CyberSource.Authentication.Core@0.0.0.15
+- pkg:nuget/CyberSource.Authentication.Core@0.0.0.7
+- pkg:nuget/CyberSource.Authentication.Core@0.0.0.8
+- pkg:nuget/CyberSource.Authentication.Core@0.0.0.9

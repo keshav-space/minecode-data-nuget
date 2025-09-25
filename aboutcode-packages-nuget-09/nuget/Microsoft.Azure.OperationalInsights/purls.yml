@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Azure.OperationalInsights@0.10.0-preview
+- pkg:nuget/Microsoft.Azure.OperationalInsights@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.OperationalInsights@0.9.0.1-preview
+- pkg:nuget/Microsoft.Azure.OperationalInsights@1.0.0
+- pkg:nuget/Microsoft.Azure.OperationalInsights@1.1.0

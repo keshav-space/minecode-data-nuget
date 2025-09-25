@@ -1,0 +1,5 @@
+- pkg:nuget/MuPDF@1.0.0-alpha
+- pkg:nuget/MuPDF@1.0.0-rc.3
+- pkg:nuget/MuPDF@1.0.0-rc.4
+- pkg:nuget/MuPDF@1.0.0-rc.5
+- pkg:nuget/MuPDF@1.0.0-rc.6

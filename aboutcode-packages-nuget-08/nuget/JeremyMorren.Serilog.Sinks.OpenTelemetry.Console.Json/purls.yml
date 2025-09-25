@@ -1,0 +1,7 @@
+- pkg:nuget/JeremyMorren.Serilog.Sinks.OpenTelemetry.Console.Json@1.0.1-rc1
+- pkg:nuget/JeremyMorren.Serilog.Sinks.OpenTelemetry.Console.Json@1.9.0
+- pkg:nuget/JeremyMorren.Serilog.Sinks.OpenTelemetry.Console.Json@1.9.0-rc10
+- pkg:nuget/JeremyMorren.Serilog.Sinks.OpenTelemetry.Console.Json@1.9.0-rc12
+- pkg:nuget/JeremyMorren.Serilog.Sinks.OpenTelemetry.Console.Json@1.9.0-rc8
+- pkg:nuget/JeremyMorren.Serilog.Sinks.OpenTelemetry.Console.Json@1.9.0-rc9
+- pkg:nuget/JeremyMorren.Serilog.Sinks.OpenTelemetry.Console.Json@1.9.0-rc901

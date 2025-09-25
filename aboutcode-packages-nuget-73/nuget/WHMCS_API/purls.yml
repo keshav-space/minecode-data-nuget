@@ -1,0 +1,8 @@
+- pkg:nuget/WHMCS_API@0.4.3
+- pkg:nuget/WHMCS_API@0.5.7
+- pkg:nuget/WHMCS_API@0.6.10
+- pkg:nuget/WHMCS_API@0.6.12
+- pkg:nuget/WHMCS_API@0.6.9
+- pkg:nuget/WHMCS_API@0.7.12
+- pkg:nuget/WHMCS_API@0.9.13
+- pkg:nuget/WHMCS_API@1.0.0
