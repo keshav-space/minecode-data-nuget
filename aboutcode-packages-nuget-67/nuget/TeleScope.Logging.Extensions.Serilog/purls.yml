@@ -1,0 +1,6 @@
+- pkg:nuget/TeleScope.Logging.Extensions.Serilog@0.1.0
+- pkg:nuget/TeleScope.Logging.Extensions.Serilog@0.1.1
+- pkg:nuget/TeleScope.Logging.Extensions.Serilog@0.1.2
+- pkg:nuget/TeleScope.Logging.Extensions.Serilog@0.2.1
+- pkg:nuget/TeleScope.Logging.Extensions.Serilog@1.0.0
+- pkg:nuget/TeleScope.Logging.Extensions.Serilog@2.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Eventfully.Extensions.Microsoft.DependencyInjection@0.4.0-beta
+- pkg:nuget/Eventfully.Extensions.Microsoft.DependencyInjection@0.4.1-beta
+- pkg:nuget/Eventfully.Extensions.Microsoft.DependencyInjection@0.4.2-beta
+- pkg:nuget/Eventfully.Extensions.Microsoft.DependencyInjection@0.5.0-beta

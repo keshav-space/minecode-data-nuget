@@ -1,0 +1,14 @@
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.100
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.52
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.53
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.54
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.58
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.69
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.71
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.79
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.80
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.94
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.96
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.97
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-alpha.0.99
+- pkg:nuget/Weikio.EventFramework.EventSource.Abstractions@1.0.0-beta.1.1

@@ -1,0 +1,15 @@
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@1.9.3
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.0.0
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.1.0
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.2.0
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.3.0
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.4.0
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.4.2
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.4.3
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.4.4
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.5.0
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.6.0
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.6.5
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.7.0
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.7.1
+- pkg:nuget/Bit.OwinCore.AspNetCore21Upgrade@2.8.0

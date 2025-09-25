@@ -1,0 +1,6 @@
+- pkg:nuget/MvcCodeRouting.Web.Http@0.10.0-beta
+- pkg:nuget/MvcCodeRouting.Web.Http@0.9.1-ctp
+- pkg:nuget/MvcCodeRouting.Web.Http@0.9.2-ctp
+- pkg:nuget/MvcCodeRouting.Web.Http@0.9.3-ctp
+- pkg:nuget/MvcCodeRouting.Web.Http@1.0.0
+- pkg:nuget/MvcCodeRouting.Web.Http@1.1.0

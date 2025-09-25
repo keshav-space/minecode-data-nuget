@@ -1,0 +1,6 @@
+- pkg:nuget/EPS.SharedKernel.Application@1.0.0
+- pkg:nuget/EPS.SharedKernel.Application@2.0.0
+- pkg:nuget/EPS.SharedKernel.Application@2.0.1
+- pkg:nuget/EPS.SharedKernel.Application@2.0.2
+- pkg:nuget/EPS.SharedKernel.Application@2.0.3
+- pkg:nuget/EPS.SharedKernel.Application@2.0.5

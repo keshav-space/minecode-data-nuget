@@ -1,0 +1,15 @@
+- pkg:nuget/Mancofi.SqlClient@1.0.0
+- pkg:nuget/Mancofi.SqlClient@1.0.1
+- pkg:nuget/Mancofi.SqlClient@1.0.2
+- pkg:nuget/Mancofi.SqlClient@1.0.2-alpha01
+- pkg:nuget/Mancofi.SqlClient@1.1.0
+- pkg:nuget/Mancofi.SqlClient@2.0.0
+- pkg:nuget/Mancofi.SqlClient@2.0.0-beta1
+- pkg:nuget/Mancofi.SqlClient@2.0.1
+- pkg:nuget/Mancofi.SqlClient@3.0.0-alpha01
+- pkg:nuget/Mancofi.SqlClient@3.0.0-alpha02
+- pkg:nuget/Mancofi.SqlClient@3.0.0-alpha05
+- pkg:nuget/Mancofi.SqlClient@3.0.1-alpha01
+- pkg:nuget/Mancofi.SqlClient@3.1.0-alpha03
+- pkg:nuget/Mancofi.SqlClient@3.1.1
+- pkg:nuget/Mancofi.SqlClient@3.1.1-alpha01

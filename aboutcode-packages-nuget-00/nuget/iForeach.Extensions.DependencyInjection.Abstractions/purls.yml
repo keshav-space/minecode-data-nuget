@@ -1,0 +1,4 @@
+- pkg:nuget/iForeach.Extensions.DependencyInjection.Abstractions@1.0.0-beta
+- pkg:nuget/iForeach.Extensions.DependencyInjection.Abstractions@1.0.0-prelease-201902.1
+- pkg:nuget/iForeach.Extensions.DependencyInjection.Abstractions@1.0.0-prelease-201902.2
+- pkg:nuget/iForeach.Extensions.DependencyInjection.Abstractions@1.0.0-rc

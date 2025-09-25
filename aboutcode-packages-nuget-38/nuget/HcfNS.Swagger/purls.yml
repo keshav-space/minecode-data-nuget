@@ -1,0 +1,12 @@
+- pkg:nuget/HcfNS.Swagger@3.0.0
+- pkg:nuget/HcfNS.Swagger@3.0.1
+- pkg:nuget/HcfNS.Swagger@5.0.0
+- pkg:nuget/HcfNS.Swagger@6.0.0
+- pkg:nuget/HcfNS.Swagger@6.0.0.1
+- pkg:nuget/HcfNS.Swagger@6.0.1
+- pkg:nuget/HcfNS.Swagger@6.0.1.1
+- pkg:nuget/HcfNS.Swagger@7.0.0
+- pkg:nuget/HcfNS.Swagger@7.0.1
+- pkg:nuget/HcfNS.Swagger@7.0.2
+- pkg:nuget/HcfNS.Swagger@7.0.2.1
+- pkg:nuget/HcfNS.Swagger@7.0.2.2

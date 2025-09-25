@@ -1,0 +1,14 @@
+- pkg:nuget/Python3Android@3.8.10-22-1.0
+- pkg:nuget/Python3Android@3.8.10-22-1.8
+- pkg:nuget/Python3Android@310.22.1.1
+- pkg:nuget/Python3Android@310.22.1.13
+- pkg:nuget/Python3Android@310.22.1.14
+- pkg:nuget/Python3Android@311.22.1.15
+- pkg:nuget/Python3Android@311.22.1.16
+- pkg:nuget/Python3Android@311.22.1.17
+- pkg:nuget/Python3Android@311.22.1.18
+- pkg:nuget/Python3Android@311.22.1.19
+- pkg:nuget/Python3Android@38.22.1.10
+- pkg:nuget/Python3Android@38.22.1.11
+- pkg:nuget/Python3Android@38.22.1.12
+- pkg:nuget/Python3Android@38.22.1.9-alpha

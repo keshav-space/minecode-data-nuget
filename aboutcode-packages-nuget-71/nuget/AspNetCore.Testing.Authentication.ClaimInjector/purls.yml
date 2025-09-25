@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.Testing.Authentication.ClaimInjector@0.2.17
+- pkg:nuget/AspNetCore.Testing.Authentication.ClaimInjector@0.2.22
+- pkg:nuget/AspNetCore.Testing.Authentication.ClaimInjector@0.2.52
+- pkg:nuget/AspNetCore.Testing.Authentication.ClaimInjector@0.2.64

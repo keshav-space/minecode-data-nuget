@@ -1,0 +1,5 @@
+- pkg:nuget/AzureADGraphClient@1.1.0
+- pkg:nuget/AzureADGraphClient@1.1.1
+- pkg:nuget/AzureADGraphClient@2.0.0
+- pkg:nuget/AzureADGraphClient@3.0.0
+- pkg:nuget/AzureADGraphClient@3.0.1

@@ -1,0 +1,2 @@
+- pkg:nuget/log4net.Appender.NLog@3.0.0-beta.1
+- pkg:nuget/log4net.Appender.NLog@3.0.0-beta.2

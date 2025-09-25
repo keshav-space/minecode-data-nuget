@@ -1,0 +1,13 @@
+- pkg:nuget/Plugin.FirebaseAuth@1.0.0
+- pkg:nuget/Plugin.FirebaseAuth@1.0.1
+- pkg:nuget/Plugin.FirebaseAuth@1.1.0
+- pkg:nuget/Plugin.FirebaseAuth@1.1.1
+- pkg:nuget/Plugin.FirebaseAuth@1.1.2
+- pkg:nuget/Plugin.FirebaseAuth@2.0.0
+- pkg:nuget/Plugin.FirebaseAuth@2.0.0-pre1
+- pkg:nuget/Plugin.FirebaseAuth@2.0.0-pre2
+- pkg:nuget/Plugin.FirebaseAuth@3.0.0
+- pkg:nuget/Plugin.FirebaseAuth@3.1.0
+- pkg:nuget/Plugin.FirebaseAuth@4.0.0
+- pkg:nuget/Plugin.FirebaseAuth@4.0.0-pre01
+- pkg:nuget/Plugin.FirebaseAuth@4.1.0

@@ -1,0 +1,8 @@
+- pkg:nuget/Ngrok.ApiClient@1.90.0-alpha1-04
+- pkg:nuget/Ngrok.ApiClient@1.90.0-alpha2
+- pkg:nuget/Ngrok.ApiClient@1.90.0-alpha3
+- pkg:nuget/Ngrok.ApiClient@1.90.0-alpha4
+- pkg:nuget/Ngrok.ApiClient@1.90.0-alpha5
+- pkg:nuget/Ngrok.ApiClient@1.90.0-alpha6
+- pkg:nuget/Ngrok.ApiClient@1.90.0-alpha7
+- pkg:nuget/Ngrok.ApiClient@2.0.0-alpha1

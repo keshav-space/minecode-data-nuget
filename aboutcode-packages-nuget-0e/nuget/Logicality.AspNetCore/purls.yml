@@ -1,0 +1,5 @@
+- pkg:nuget/Logicality.AspNetCore@0.1.0%2Bbuild.7
+- pkg:nuget/Logicality.AspNetCore@0.1.0-alpha.0%2Bbuild.204
+- pkg:nuget/Logicality.AspNetCore@0.1.1-alpha.0.2%2Bbuild.6
+- pkg:nuget/Logicality.AspNetCore@0.2.0%2Bbuild.159
+- pkg:nuget/Logicality.AspNetCore@0.6.0%2Bbuild.0

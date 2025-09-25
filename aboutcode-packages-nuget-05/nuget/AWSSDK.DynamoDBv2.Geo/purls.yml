@@ -1,0 +1,5 @@
+- pkg:nuget/AWSSDK.DynamoDBv2.Geo@1.0.0
+- pkg:nuget/AWSSDK.DynamoDBv2.Geo@1.0.1
+- pkg:nuget/AWSSDK.DynamoDBv2.Geo@1.0.2
+- pkg:nuget/AWSSDK.DynamoDBv2.Geo@1.0.2-alpha
+- pkg:nuget/AWSSDK.DynamoDBv2.Geo@1.0.3-alpha

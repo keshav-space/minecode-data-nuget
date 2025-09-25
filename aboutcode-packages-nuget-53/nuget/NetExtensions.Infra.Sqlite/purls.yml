@@ -1,0 +1,5 @@
+- pkg:nuget/NetExtensions.Infra.Sqlite@1.0.0
+- pkg:nuget/NetExtensions.Infra.Sqlite@1.0.1
+- pkg:nuget/NetExtensions.Infra.Sqlite@1.0.2
+- pkg:nuget/NetExtensions.Infra.Sqlite@1.0.3-alpha
+- pkg:nuget/NetExtensions.Infra.Sqlite@1.0.3-preview.3.20181.2

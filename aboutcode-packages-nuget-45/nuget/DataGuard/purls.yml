@@ -1,0 +1,5 @@
+- pkg:nuget/DataGuard@1.0.0
+- pkg:nuget/DataGuard@2.0.0
+- pkg:nuget/DataGuard@4.0.0
+- pkg:nuget/DataGuard@6.0.0
+- pkg:nuget/DataGuard@7.0.0

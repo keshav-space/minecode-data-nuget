@@ -1,0 +1,10 @@
+- pkg:nuget/Nuo.Data.SqlServer@1.3.2412.16
+- pkg:nuget/Nuo.Data.SqlServer@2.3.2504.33
+- pkg:nuget/Nuo.Data.SqlServer@2.4.2505.40
+- pkg:nuget/Nuo.Data.SqlServer@2.4.2505.44
+- pkg:nuget/Nuo.Data.SqlServer@2.4.2505.46
+- pkg:nuget/Nuo.Data.SqlServer@2.5.2505.49
+- pkg:nuget/Nuo.Data.SqlServer@2.8.72
+- pkg:nuget/Nuo.Data.SqlServer@2.8.76
+- pkg:nuget/Nuo.Data.SqlServer@2.9.78
+- pkg:nuget/Nuo.Data.SqlServer@2.9.82

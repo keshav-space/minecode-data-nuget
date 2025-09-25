@@ -1,0 +1,4 @@
+- pkg:nuget/LazyGuy.Samples.SampleNuGetLib@0.0.1
+- pkg:nuget/LazyGuy.Samples.SampleNuGetLib@0.0.1-beta
+- pkg:nuget/LazyGuy.Samples.SampleNuGetLib@0.0.2
+- pkg:nuget/LazyGuy.Samples.SampleNuGetLib@1.0.0

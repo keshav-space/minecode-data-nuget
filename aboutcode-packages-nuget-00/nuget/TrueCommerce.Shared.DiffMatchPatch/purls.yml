@@ -1,0 +1,8 @@
+- pkg:nuget/TrueCommerce.Shared.DiffMatchPatch@4.0.0%2B4746
+- pkg:nuget/TrueCommerce.Shared.DiffMatchPatch@5.0.0%2B4941
+- pkg:nuget/TrueCommerce.Shared.DiffMatchPatch@5.1.0%2B5719
+- pkg:nuget/TrueCommerce.Shared.DiffMatchPatch@5.2.0
+- pkg:nuget/TrueCommerce.Shared.DiffMatchPatch@5.2.0-preview.1
+- pkg:nuget/TrueCommerce.Shared.DiffMatchPatch@5.2.0-preview.3
+- pkg:nuget/TrueCommerce.Shared.DiffMatchPatch@5.2.1
+- pkg:nuget/TrueCommerce.Shared.DiffMatchPatch@6.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/SereneApi.Extensions.WindowsImpersonation@5.0.0.1
+- pkg:nuget/SereneApi.Extensions.WindowsImpersonation@6.0.0.1
+- pkg:nuget/SereneApi.Extensions.WindowsImpersonation@6.0.1.1
+- pkg:nuget/SereneApi.Extensions.WindowsImpersonation@6.0.1.2
+- pkg:nuget/SereneApi.Extensions.WindowsImpersonation@6.0.1.3

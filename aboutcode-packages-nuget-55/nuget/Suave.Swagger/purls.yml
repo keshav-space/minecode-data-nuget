@@ -1,0 +1,6 @@
+- pkg:nuget/Suave.Swagger@1.0.0
+- pkg:nuget/Suave.Swagger@2.0.0
+- pkg:nuget/Suave.Swagger@2.0.1-beta
+- pkg:nuget/Suave.Swagger@2.1.0
+- pkg:nuget/Suave.Swagger@2.2.0
+- pkg:nuget/Suave.Swagger@2.3.0

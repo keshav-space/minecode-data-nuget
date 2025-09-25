@@ -1,0 +1,5 @@
+- pkg:nuget/Cortex.Streams.CDC.MongoDb@1.4.0
+- pkg:nuget/Cortex.Streams.CDC.MongoDb@1.5.0
+- pkg:nuget/Cortex.Streams.CDC.MongoDb@1.6.0
+- pkg:nuget/Cortex.Streams.CDC.MongoDb@1.6.1
+- pkg:nuget/Cortex.Streams.CDC.MongoDb@1.7.0

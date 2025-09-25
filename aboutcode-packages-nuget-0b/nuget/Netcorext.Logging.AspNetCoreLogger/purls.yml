@@ -1,0 +1,5 @@
+- pkg:nuget/Netcorext.Logging.AspNetCoreLogger@1.0.0
+- pkg:nuget/Netcorext.Logging.AspNetCoreLogger@1.0.1-dev.1719993609%2B9174fa7
+- pkg:nuget/Netcorext.Logging.AspNetCoreLogger@1.0.1-dev.1719993736%2B3d0ce4f
+- pkg:nuget/Netcorext.Logging.AspNetCoreLogger@1.0.1-dev.1720147018%2B1d71d78
+- pkg:nuget/Netcorext.Logging.AspNetCoreLogger@1.0.1-dev.1720152452%2B6983b3e

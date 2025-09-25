@@ -1,0 +1,7 @@
+- pkg:nuget/Dataport.AppFrameDotNet.RequestResponsePattern@4.3.2
+- pkg:nuget/Dataport.AppFrameDotNet.RequestResponsePattern@4.4.0
+- pkg:nuget/Dataport.AppFrameDotNet.RequestResponsePattern@4.4.1
+- pkg:nuget/Dataport.AppFrameDotNet.RequestResponsePattern@4.5.0-handler-refactoring.1
+- pkg:nuget/Dataport.AppFrameDotNet.RequestResponsePattern@4.5.0-handler-refactoring.3
+- pkg:nuget/Dataport.AppFrameDotNet.RequestResponsePattern@4.5.0-handler-refactoring.4
+- pkg:nuget/Dataport.AppFrameDotNet.RequestResponsePattern@5.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/AspNet.Owin.Security.WeChat@1.0.0
+- pkg:nuget/AspNet.Owin.Security.WeChat@1.0.1
+- pkg:nuget/AspNet.Owin.Security.WeChat@1.1.0
+- pkg:nuget/AspNet.Owin.Security.WeChat@1.2.0

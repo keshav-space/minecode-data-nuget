@@ -1,0 +1,10 @@
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0-RTM
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0-RTM2
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0-RTM3
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0-preview
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0-preview2
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0-preview3
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0-preview4
+- pkg:nuget/BeeHive.Azure.Functions@3.0.0-preview5
+- pkg:nuget/BeeHive.Azure.Functions@3.0.1

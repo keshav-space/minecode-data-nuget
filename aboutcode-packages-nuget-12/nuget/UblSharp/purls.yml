@@ -1,0 +1,15 @@
+- pkg:nuget/UblSharp@1.0.0
+- pkg:nuget/UblSharp@1.0.0-ci00091
+- pkg:nuget/UblSharp@1.0.0-preview1
+- pkg:nuget/UblSharp@1.0.0-preview2
+- pkg:nuget/UblSharp@1.0.0-preview3
+- pkg:nuget/UblSharp@1.0.0-preview4
+- pkg:nuget/UblSharp@1.0.0-preview4-ci29
+- pkg:nuget/UblSharp@1.0.0-preview5
+- pkg:nuget/UblSharp@1.0.0-preview6
+- pkg:nuget/UblSharp@1.0.0-preview7---include-symbols
+- pkg:nuget/UblSharp@1.0.0-preview8---include-symbols
+- pkg:nuget/UblSharp@1.0.0-preview9
+- pkg:nuget/UblSharp@1.0.1
+- pkg:nuget/UblSharp@1.1.0
+- pkg:nuget/UblSharp@1.1.1

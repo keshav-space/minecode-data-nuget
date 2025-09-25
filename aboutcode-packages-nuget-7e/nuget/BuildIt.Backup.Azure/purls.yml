@@ -1,0 +1,4 @@
+- pkg:nuget/BuildIt.Backup.Azure@1.0.0.82-beta
+- pkg:nuget/BuildIt.Backup.Azure@1.0.0.83-beta
+- pkg:nuget/BuildIt.Backup.Azure@1.0.0.84-beta
+- pkg:nuget/BuildIt.Backup.Azure@1.0.0.88-beta

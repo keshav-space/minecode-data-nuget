@@ -1,0 +1,11 @@
+- pkg:nuget/CSharpNet@2.0.0
+- pkg:nuget/CSharpNet@3.0.0
+- pkg:nuget/CSharpNet@3.1.0
+- pkg:nuget/CSharpNet@3.2.0
+- pkg:nuget/CSharpNet@3.2.1
+- pkg:nuget/CSharpNet@3.2.2
+- pkg:nuget/CSharpNet@3.5.0
+- pkg:nuget/CSharpNet@3.6.0
+- pkg:nuget/CSharpNet@3.6.2
+- pkg:nuget/CSharpNet@3.6.3
+- pkg:nuget/CSharpNet@3.7.0

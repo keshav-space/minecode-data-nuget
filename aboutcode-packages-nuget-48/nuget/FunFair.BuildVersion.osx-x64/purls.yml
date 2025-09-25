@@ -1,0 +1,8 @@
+- pkg:nuget/FunFair.BuildVersion.osx-x64@6.2.18.1680-sdk-dotnet-10-p
+- pkg:nuget/FunFair.BuildVersion.osx-x64@6.2.18.1681-sdk-dotnet-10-p
+- pkg:nuget/FunFair.BuildVersion.osx-x64@6.2.18.1682-main
+- pkg:nuget/FunFair.BuildVersion.osx-x64@6.2.18.1684-main
+- pkg:nuget/FunFair.BuildVersion.osx-x64@6.2.18.1686-main
+- pkg:nuget/FunFair.BuildVersion.osx-x64@6.2.18.1687-main
+- pkg:nuget/FunFair.BuildVersion.osx-x64@6.2.18.1693-main
+- pkg:nuget/FunFair.BuildVersion.osx-x64@6.2.18.1698-main

@@ -1,0 +1,4 @@
+- pkg:nuget/Confifu.ConnectionString.Abstractions@1.0.0
+- pkg:nuget/Confifu.ConnectionString.Abstractions@1.0.0-preview001
+- pkg:nuget/Confifu.ConnectionString.Abstractions@2.0.0
+- pkg:nuget/Confifu.ConnectionString.Abstractions@2.0.1

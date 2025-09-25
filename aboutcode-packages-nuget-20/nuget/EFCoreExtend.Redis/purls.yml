@@ -1,0 +1,5 @@
+- pkg:nuget/EFCoreExtend.Redis@1.0.0
+- pkg:nuget/EFCoreExtend.Redis@1.0.0-rc
+- pkg:nuget/EFCoreExtend.Redis@1.0.0-rc2
+- pkg:nuget/EFCoreExtend.Redis@1.0.0-rc3
+- pkg:nuget/EFCoreExtend.Redis@1.1.0

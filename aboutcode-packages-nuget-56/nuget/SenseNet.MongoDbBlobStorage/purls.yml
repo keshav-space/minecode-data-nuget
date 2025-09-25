@@ -1,0 +1,2 @@
+- pkg:nuget/SenseNet.MongoDbBlobStorage@7.1.1
+- pkg:nuget/SenseNet.MongoDbBlobStorage@7.2.0

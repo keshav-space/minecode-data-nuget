@@ -1,0 +1,4 @@
+- pkg:nuget/AlipaySDKNet.Core@4.6.398
+- pkg:nuget/AlipaySDKNet.Core@4.9.401
+- pkg:nuget/AlipaySDKNet.Core@5.0.0
+- pkg:nuget/AlipaySDKNet.Core@5.0.1

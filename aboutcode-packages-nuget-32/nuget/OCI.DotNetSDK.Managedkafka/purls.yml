@@ -1,0 +1,6 @@
+- pkg:nuget/OCI.DotNetSDK.Managedkafka@1.119.0
+- pkg:nuget/OCI.DotNetSDK.Managedkafka@118.1.0
+- pkg:nuget/OCI.DotNetSDK.Managedkafka@118.2.0
+- pkg:nuget/OCI.DotNetSDK.Managedkafka@119.0.0
+- pkg:nuget/OCI.DotNetSDK.Managedkafka@119.1.0
+- pkg:nuget/OCI.DotNetSDK.Managedkafka@120.0.0

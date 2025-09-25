@@ -1,0 +1,4 @@
+- pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore.DataObject@1.0.10
+- pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore.DataObject@1.0.12
+- pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore.DataObject@1.0.7
+- pkg:nuget/IGETIS.KeyvaultSecret.AspNetCore.DataObject@1.0.9

@@ -1,0 +1,10 @@
+- pkg:nuget/Rixian.CloudEvents@1.0.0
+- pkg:nuget/Rixian.CloudEvents@1.0.1
+- pkg:nuget/Rixian.CloudEvents@2.0.0
+- pkg:nuget/Rixian.CloudEvents@2.0.1
+- pkg:nuget/Rixian.CloudEvents@2.0.2
+- pkg:nuget/Rixian.CloudEvents@2.1.7
+- pkg:nuget/Rixian.CloudEvents@2.2.4
+- pkg:nuget/Rixian.CloudEvents@2.2.5
+- pkg:nuget/Rixian.CloudEvents@2.2.7
+- pkg:nuget/Rixian.CloudEvents@3.0.3

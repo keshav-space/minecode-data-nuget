@@ -1,0 +1,15 @@
+- pkg:nuget/SSMenuSystem@2.0.2-EXILED
+- pkg:nuget/SSMenuSystem@2.0.2-NWAPI
+- pkg:nuget/SSMenuSystem@2.0.3-EXILED
+- pkg:nuget/SSMenuSystem@2.0.3-NWAPI
+- pkg:nuget/SSMenuSystem@2.0.4-EXILED
+- pkg:nuget/SSMenuSystem@2.0.4-NWAPI
+- pkg:nuget/SSMenuSystem@2.0.5-EXILED
+- pkg:nuget/SSMenuSystem@2.0.5-EXILED-Beta
+- pkg:nuget/SSMenuSystem@2.0.5-LABAPI-Beta
+- pkg:nuget/SSMenuSystem@2.0.7-EXILED
+- pkg:nuget/SSMenuSystem@2.0.7-EXILED-FIX
+- pkg:nuget/SSMenuSystem@2.0.7-LABAPI
+- pkg:nuget/SSMenuSystem@2.0.7-LABAPI-FIX
+- pkg:nuget/SSMenuSystem@2.1.0-EXILED
+- pkg:nuget/SSMenuSystem@2.1.0-LABAPI

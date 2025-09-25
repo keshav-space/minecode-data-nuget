@@ -1,0 +1,6 @@
+- pkg:nuget/DotNetBrightener.ActivityLog.DataStorage.SqlServer@2025.0.6-preview-400
+- pkg:nuget/DotNetBrightener.ActivityLog.DataStorage.SqlServer@2025.0.6-preview-401
+- pkg:nuget/DotNetBrightener.ActivityLog.DataStorage.SqlServer@2025.0.6-preview-406
+- pkg:nuget/DotNetBrightener.ActivityLog.DataStorage.SqlServer@2025.0.6-preview-440
+- pkg:nuget/DotNetBrightener.ActivityLog.DataStorage.SqlServer@2025.0.6-preview-441
+- pkg:nuget/DotNetBrightener.ActivityLog.DataStorage.SqlServer@2025.0.8

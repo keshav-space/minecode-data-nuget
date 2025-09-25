@@ -1,0 +1,8 @@
+- pkg:nuget/OpenTracing.Borkke.Mongo@0.1.0
+- pkg:nuget/OpenTracing.Borkke.Mongo@0.1.0-appveyor-trigger.2
+- pkg:nuget/OpenTracing.Borkke.Mongo@0.1.0-beta.1
+- pkg:nuget/OpenTracing.Borkke.Mongo@0.1.0-beta.3
+- pkg:nuget/OpenTracing.Borkke.Mongo@0.1.1-beta.2
+- pkg:nuget/OpenTracing.Borkke.Mongo@0.2.0
+- pkg:nuget/OpenTracing.Borkke.Mongo@0.3.0
+- pkg:nuget/OpenTracing.Borkke.Mongo@0.3.1-fix-cleaning-up-cake.1

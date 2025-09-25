@@ -1,0 +1,8 @@
+- pkg:nuget/SimpleConsoleAppLogger@1.0.0
+- pkg:nuget/SimpleConsoleAppLogger@1.0.1
+- pkg:nuget/SimpleConsoleAppLogger@2.0.0
+- pkg:nuget/SimpleConsoleAppLogger@6.0.0
+- pkg:nuget/SimpleConsoleAppLogger@6.0.0-CI-20190430-004259
+- pkg:nuget/SimpleConsoleAppLogger@6.0.0-CI-20190430-005022
+- pkg:nuget/SimpleConsoleAppLogger@7.0.0
+- pkg:nuget/SimpleConsoleAppLogger@8.0.0

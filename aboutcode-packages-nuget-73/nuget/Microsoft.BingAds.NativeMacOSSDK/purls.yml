@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.BingAds.NativeMacOSSDK@9.5.0
+- pkg:nuget/Microsoft.BingAds.NativeMacOSSDK@9.6.0
+- pkg:nuget/Microsoft.BingAds.NativeMacOSSDK@9.7.0
+- pkg:nuget/Microsoft.BingAds.NativeMacOSSDK@9.8.0
+- pkg:nuget/Microsoft.BingAds.NativeMacOSSDK@9.9.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.WinML@0.10.0
+- pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.WinML@0.8.0
+- pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.WinML@0.8.2
+- pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.WinML@0.8.3

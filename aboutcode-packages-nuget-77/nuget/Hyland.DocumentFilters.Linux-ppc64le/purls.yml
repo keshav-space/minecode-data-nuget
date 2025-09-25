@@ -1,0 +1,5 @@
+- pkg:nuget/Hyland.DocumentFilters.Linux-ppc64le@24.3.0
+- pkg:nuget/Hyland.DocumentFilters.Linux-ppc64le@24.4.0
+- pkg:nuget/Hyland.DocumentFilters.Linux-ppc64le@25.1.0
+- pkg:nuget/Hyland.DocumentFilters.Linux-ppc64le@25.2.0
+- pkg:nuget/Hyland.DocumentFilters.Linux-ppc64le@25.3.0

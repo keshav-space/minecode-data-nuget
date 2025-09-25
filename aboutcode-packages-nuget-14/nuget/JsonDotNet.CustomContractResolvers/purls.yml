@@ -1,0 +1,6 @@
+- pkg:nuget/JsonDotNet.CustomContractResolvers@1.0.0
+- pkg:nuget/JsonDotNet.CustomContractResolvers@1.1.0
+- pkg:nuget/JsonDotNet.CustomContractResolvers@1.1.1
+- pkg:nuget/JsonDotNet.CustomContractResolvers@1.1.2
+- pkg:nuget/JsonDotNet.CustomContractResolvers@2.0.0
+- pkg:nuget/JsonDotNet.CustomContractResolvers@2.0.1-beta1

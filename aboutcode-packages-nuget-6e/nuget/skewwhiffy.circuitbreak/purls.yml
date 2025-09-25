@@ -1,0 +1,17 @@
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.10-DotNet46
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.12
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.13-Policy
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.14-Policy
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.15-Policy
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.16-Policy
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.20-Policy
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.22-Policy
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.27-Policy
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.29
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.30-WebApi
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.31-WebApi
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.32-WebApi
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.35-TimingMadness
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.37-TimingMadness
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.6-Nuget
+- pkg:nuget/skewwhiffy.circuitbreak@1.0.0.8

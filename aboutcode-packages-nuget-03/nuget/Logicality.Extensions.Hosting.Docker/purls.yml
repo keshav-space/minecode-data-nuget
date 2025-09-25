@@ -1,0 +1,4 @@
+- pkg:nuget/Logicality.Extensions.Hosting.Docker@0.1.0-alpha.0%2Bbuild.193
+- pkg:nuget/Logicality.Extensions.Hosting.Docker@0.2.0%2Bbuild.11
+- pkg:nuget/Logicality.Extensions.Hosting.Docker@0.3.1%2Bbuild.137
+- pkg:nuget/Logicality.Extensions.Hosting.Docker@0.5.0%2Bbuild.0

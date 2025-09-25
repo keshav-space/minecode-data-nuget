@@ -1,0 +1,9 @@
+- pkg:nuget/Xamarin.Windows.Injector@1.0.0%2Bsha.f38b5f9-build.2634219
+- pkg:nuget/Xamarin.Windows.Injector@1.0.0-beta-build011%2Bgit.a49fd61
+- pkg:nuget/Xamarin.Windows.Injector@1.0.0-beta-build012%2Bgit.ce51b2f
+- pkg:nuget/Xamarin.Windows.Injector@1.0.0-beta-build013%2Bgit.99c36b7
+- pkg:nuget/Xamarin.Windows.Injector@1.0.0-beta-build10%2Bgit.f5294dc
+- pkg:nuget/Xamarin.Windows.Injector@1.0.0-beta-build6%2Bgit.235e8bc
+- pkg:nuget/Xamarin.Windows.Injector@1.0.0-beta-build9%2Bgit.f162b52
+- pkg:nuget/Xamarin.Windows.Injector@1.0.1%2Bsha.055e48c-azdo.3041490
+- pkg:nuget/Xamarin.Windows.Injector@1.0.1-alpha.6%2Bsha.586039d-azdo.3041449

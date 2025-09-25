@@ -1,0 +1,3 @@
+- pkg:nuget/ThinkGeo.Dependency.Gdal3@13.1.0
+- pkg:nuget/ThinkGeo.Dependency.Gdal3@13.1.0-beta1
+- pkg:nuget/ThinkGeo.Dependency.Gdal3@14.0.0

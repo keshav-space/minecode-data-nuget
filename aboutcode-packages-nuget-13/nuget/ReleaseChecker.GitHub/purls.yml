@@ -1,0 +1,3 @@
+- pkg:nuget/ReleaseChecker.GitHub@1.0.0
+- pkg:nuget/ReleaseChecker.GitHub@1.0.1
+- pkg:nuget/ReleaseChecker.GitHub@1.0.2

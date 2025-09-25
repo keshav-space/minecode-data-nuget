@@ -1,0 +1,11 @@
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@3.0.0
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@3.0.1
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@3.1.0
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@3.1.1
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@3.1.2
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@6.0.1
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@7.0.0
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@7.0.1
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@7.0.2
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@7.0.2.1
+- pkg:nuget/HcfNS.Mqtt.Server.AspNetCore@7.0.2.2

@@ -1,0 +1,5 @@
+- pkg:nuget/riot.dotnet.six@1.0.0-local
+- pkg:nuget/riot.dotnet.six@1.0.1
+- pkg:nuget/riot.dotnet.six@1.0.2
+- pkg:nuget/riot.dotnet.six@1.0.3
+- pkg:nuget/riot.dotnet.six@1.0.4

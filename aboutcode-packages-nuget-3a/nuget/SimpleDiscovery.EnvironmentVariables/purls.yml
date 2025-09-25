@@ -1,0 +1,4 @@
+- pkg:nuget/SimpleDiscovery.EnvironmentVariables@0.1.0-test
+- pkg:nuget/SimpleDiscovery.EnvironmentVariables@1.0.0-preview1
+- pkg:nuget/SimpleDiscovery.EnvironmentVariables@1.0.0-preview2
+- pkg:nuget/SimpleDiscovery.EnvironmentVariables@1.0.0-preview3

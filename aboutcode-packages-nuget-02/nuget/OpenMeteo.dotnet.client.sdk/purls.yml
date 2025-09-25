@@ -1,0 +1,5 @@
+- pkg:nuget/OpenMeteo.dotnet.client.sdk@3.0.0
+- pkg:nuget/OpenMeteo.dotnet.client.sdk@3.0.2
+- pkg:nuget/OpenMeteo.dotnet.client.sdk@3.0.5
+- pkg:nuget/OpenMeteo.dotnet.client.sdk@3.0.6
+- pkg:nuget/OpenMeteo.dotnet.client.sdk@3.1.1
