@@ -1,0 +1,5 @@
+- pkg:nuget/Proggmatic.SpaServices.Vite@6.0.0
+- pkg:nuget/Proggmatic.SpaServices.Vite@7.0.0
+- pkg:nuget/Proggmatic.SpaServices.Vite@8.0.0
+- pkg:nuget/Proggmatic.SpaServices.Vite@9.0.0
+- pkg:nuget/Proggmatic.SpaServices.Vite@9.0.1

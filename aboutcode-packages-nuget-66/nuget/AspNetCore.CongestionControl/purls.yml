@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.CongestionControl@1.0.1
+- pkg:nuget/AspNetCore.CongestionControl@1.1.0
+- pkg:nuget/AspNetCore.CongestionControl@2.0.1
+- pkg:nuget/AspNetCore.CongestionControl@2.0.2
+- pkg:nuget/AspNetCore.CongestionControl@2.0.6

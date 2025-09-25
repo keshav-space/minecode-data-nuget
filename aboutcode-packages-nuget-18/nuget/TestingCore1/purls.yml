@@ -1,0 +1,5 @@
+- pkg:nuget/TestingCore1@1.0.0
+- pkg:nuget/TestingCore1@1.0.1
+- pkg:nuget/TestingCore1@2.0.0
+- pkg:nuget/TestingCore1@2.0.0-rc
+- pkg:nuget/TestingCore1@2.0.0-rc1

@@ -1,0 +1,7 @@
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Gateway@1.0.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Gateway@1.0.1
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Gateway@2.0.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Gateway@2.0.0-prerelease-20190328
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Gateway@2.0.1
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Gateway@2.5.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Gateway@2.5.1

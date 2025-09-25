@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Azure.Kusto.Ingest.V2@0.0.1
+- pkg:nuget/Microsoft.Azure.Kusto.Ingest.V2@0.0.2

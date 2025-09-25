@@ -1,0 +1,2 @@
+- pkg:nuget/App.Metrics.Extensions.Reservoirs.HdrHistogram@1.0.0-beta5
+- pkg:nuget/App.Metrics.Extensions.Reservoirs.HdrHistogram@1.0.0-beta6

@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Protocol@1.0.1
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Protocol@2.0.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Protocol@2.0.0-prerelease-20190328
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Protocol@2.0.1
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Protocol@2.5.0
+- pkg:nuget/Microsoft.Azure.IIoT.OpcUa.Protocol@2.5.1

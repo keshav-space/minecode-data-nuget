@@ -1,0 +1,7 @@
+- pkg:nuget/Infrastructure.Data.CosmosDb@1.0.0
+- pkg:nuget/Infrastructure.Data.CosmosDb@1.0.1
+- pkg:nuget/Infrastructure.Data.CosmosDb@1.0.2
+- pkg:nuget/Infrastructure.Data.CosmosDb@1.0.3
+- pkg:nuget/Infrastructure.Data.CosmosDb@2.0.0
+- pkg:nuget/Infrastructure.Data.CosmosDb@6.0.0
+- pkg:nuget/Infrastructure.Data.CosmosDb@8.0.0

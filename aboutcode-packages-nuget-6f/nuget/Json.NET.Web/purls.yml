@@ -1,0 +1,10 @@
+- pkg:nuget/Json.NET.Web@1.0.0.12-beta1
+- pkg:nuget/Json.NET.Web@1.0.0.13-beta1
+- pkg:nuget/Json.NET.Web@1.0.0.14-beta1
+- pkg:nuget/Json.NET.Web@1.0.0.19-beta1
+- pkg:nuget/Json.NET.Web@1.0.0.6-beta1
+- pkg:nuget/Json.NET.Web@1.0.0.7-beta1
+- pkg:nuget/Json.NET.Web@1.0.0.8-beta1
+- pkg:nuget/Json.NET.Web@1.0.37
+- pkg:nuget/Json.NET.Web@1.0.44
+- pkg:nuget/Json.NET.Web@1.0.49

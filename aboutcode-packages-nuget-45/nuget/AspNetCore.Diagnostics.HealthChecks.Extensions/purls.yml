@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Extensions@1.0.0
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Extensions@1.0.6-beta
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Extensions@1.0.7-beta
+- pkg:nuget/AspNetCore.Diagnostics.HealthChecks.Extensions@1.0.8-beta

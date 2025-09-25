@@ -1,0 +1,4 @@
+- pkg:nuget/Restsharp.BleedingEdge@105.2.4
+- pkg:nuget/Restsharp.BleedingEdge@105.3.0
+- pkg:nuget/Restsharp.BleedingEdge@105.3.1
+- pkg:nuget/Restsharp.BleedingEdge@105.3.2

@@ -1,0 +1,5 @@
+- pkg:nuget/EXCSLA.Shared.Infrastructure.Data.EntityFrameworkCore.Standard@1.0.6
+- pkg:nuget/EXCSLA.Shared.Infrastructure.Data.EntityFrameworkCore.Standard@3.0.0
+- pkg:nuget/EXCSLA.Shared.Infrastructure.Data.EntityFrameworkCore.Standard@4.0.1
+- pkg:nuget/EXCSLA.Shared.Infrastructure.Data.EntityFrameworkCore.Standard@8.0.1
+- pkg:nuget/EXCSLA.Shared.Infrastructure.Data.EntityFrameworkCore.Standard@8.0.2

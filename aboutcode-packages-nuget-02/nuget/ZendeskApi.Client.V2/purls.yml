@@ -1,0 +1,5 @@
+- pkg:nuget/ZendeskApi.Client.V2@5.0.6
+- pkg:nuget/ZendeskApi.Client.V2@5.0.7
+- pkg:nuget/ZendeskApi.Client.V2@5.0.8
+- pkg:nuget/ZendeskApi.Client.V2@5.0.9
+- pkg:nuget/ZendeskApi.Client.V2@6.0.0

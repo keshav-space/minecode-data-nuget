@@ -1,0 +1,4 @@
+- pkg:nuget/EXCSLA.Shared.Core.Abstractions.DomainEventDispatcher@1.0.1
+- pkg:nuget/EXCSLA.Shared.Core.Abstractions.DomainEventDispatcher@3.0.0
+- pkg:nuget/EXCSLA.Shared.Core.Abstractions.DomainEventDispatcher@4.0.1
+- pkg:nuget/EXCSLA.Shared.Core.Abstractions.DomainEventDispatcher@4.0.2

@@ -1,0 +1,2 @@
+- pkg:nuget/ShSoft.Infrastructure.EventStoreProvider.RavenDB@1.0.0
+- pkg:nuget/ShSoft.Infrastructure.EventStoreProvider.RavenDB@1.0.1

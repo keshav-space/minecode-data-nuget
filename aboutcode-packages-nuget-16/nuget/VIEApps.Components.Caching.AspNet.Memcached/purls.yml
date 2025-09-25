@@ -1,0 +1,3 @@
+- pkg:nuget/VIEApps.Components.Caching.AspNet.Memcached@10.1.0.1
+- pkg:nuget/VIEApps.Components.Caching.AspNet.Memcached@10.1.0.3
+- pkg:nuget/VIEApps.Components.Caching.AspNet.Memcached@10.1.1.1711

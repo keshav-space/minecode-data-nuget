@@ -1,0 +1,2 @@
+- pkg:nuget/EXCSLA.Shared.Infrastructure.Data.EntityFrameworkCore.Identity@1.0.3
+- pkg:nuget/EXCSLA.Shared.Infrastructure.Data.EntityFrameworkCore.Identity@3.0.0

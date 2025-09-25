@@ -1,0 +1,4 @@
+- pkg:nuget/ChromiumFX.redist.x86@3.2171.18
+- pkg:nuget/ChromiumFX.redist.x86@3.3578.1
+- pkg:nuget/ChromiumFX.redist.x86@3.3578.1-beta
+- pkg:nuget/ChromiumFX.redist.x86@3.3578.1.1

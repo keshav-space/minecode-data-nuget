@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.TeamFoundation@1.0.0
+- pkg:nuget/Microsoft.TeamFoundation@11.0.0
+- pkg:nuget/Microsoft.TeamFoundation@11.0.50727.1
+- pkg:nuget/Microsoft.TeamFoundation@12.0.0

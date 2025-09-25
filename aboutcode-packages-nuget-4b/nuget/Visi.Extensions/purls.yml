@@ -1,0 +1,4 @@
+- pkg:nuget/Visi.Extensions@1.0.0
+- pkg:nuget/Visi.Extensions@1.0.0-debug
+- pkg:nuget/Visi.Extensions@1.0.0-epsilon
+- pkg:nuget/Visi.Extensions@1.0.0-iota

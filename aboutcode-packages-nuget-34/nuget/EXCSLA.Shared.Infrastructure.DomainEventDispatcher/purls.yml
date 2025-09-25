@@ -1,0 +1,5 @@
+- pkg:nuget/EXCSLA.Shared.Infrastructure.DomainEventDispatcher@1.0.3
+- pkg:nuget/EXCSLA.Shared.Infrastructure.DomainEventDispatcher@3.0.0
+- pkg:nuget/EXCSLA.Shared.Infrastructure.DomainEventDispatcher@4.0.1
+- pkg:nuget/EXCSLA.Shared.Infrastructure.DomainEventDispatcher@8.0.1
+- pkg:nuget/EXCSLA.Shared.Infrastructure.DomainEventDispatcher@8.0.2
