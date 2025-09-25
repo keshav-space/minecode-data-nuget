@@ -1,0 +1,14 @@
+- pkg:nuget/Ooui.Wasm@0.10.220
+- pkg:nuget/Ooui.Wasm@0.10.222
+- pkg:nuget/Ooui.Wasm@0.11.303
+- pkg:nuget/Ooui.Wasm@0.12.307
+- pkg:nuget/Ooui.Wasm@0.12.308
+- pkg:nuget/Ooui.Wasm@0.12.309
+- pkg:nuget/Ooui.Wasm@0.13.316-beta1
+- pkg:nuget/Ooui.Wasm@0.13.318-beta2
+- pkg:nuget/Ooui.Wasm@0.14.16
+- pkg:nuget/Ooui.Wasm@0.8.180
+- pkg:nuget/Ooui.Wasm@0.8.181
+- pkg:nuget/Ooui.Wasm@0.8.183
+- pkg:nuget/Ooui.Wasm@0.8.186
+- pkg:nuget/Ooui.Wasm@0.9.206

@@ -1,0 +1,10 @@
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.0.1
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.0.2
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.25.1
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.27.1
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.32.1
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.33.2
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.34.1
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.37.1
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.38.1
+- pkg:nuget/llama_cpp.runtime.osx.12.6.5-x64.runtime.native.llama.cpp.AppleClang@1.56.1

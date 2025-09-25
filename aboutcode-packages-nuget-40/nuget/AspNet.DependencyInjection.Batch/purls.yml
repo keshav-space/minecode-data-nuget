@@ -1,0 +1,9 @@
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.0
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.0-alpha1
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.0-alpha20
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.0-alpha22
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.0-alpha24
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.0-alpha26
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.0-alpha29
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.0-alpha34
+- pkg:nuget/AspNet.DependencyInjection.Batch@1.0.1

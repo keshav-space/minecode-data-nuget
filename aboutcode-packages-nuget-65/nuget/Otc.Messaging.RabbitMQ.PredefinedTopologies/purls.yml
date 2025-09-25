@@ -1,0 +1,14 @@
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha10%2Bb45
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha11%2Bb47
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha12%2Bb49
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha13%2Bb51
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha14%2Bb55
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha15%2Bb62
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha4%2Bb18
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha5%2Bb24
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha6%2Bb27
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha7%2Bb36
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha8%2Bb39
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@1.0.0-alpha9%2Bb42
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@2.0.1
+- pkg:nuget/Otc.Messaging.RabbitMQ.PredefinedTopologies@3.0.0

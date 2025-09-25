@@ -1,0 +1,4 @@
+- pkg:nuget/AppConnectSDKBinding@2.4.0.45
+- pkg:nuget/AppConnectSDKBinding@2.9.0.11
+- pkg:nuget/AppConnectSDKBinding@3.1.0.55
+- pkg:nuget/AppConnectSDKBinding@3.5.0.56

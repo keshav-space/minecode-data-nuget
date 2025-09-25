@@ -1,0 +1,6 @@
+- pkg:nuget/SoCreate.ServiceFabric.DependencyInjection.Services@1.0.0
+- pkg:nuget/SoCreate.ServiceFabric.DependencyInjection.Services@1.1.0
+- pkg:nuget/SoCreate.ServiceFabric.DependencyInjection.Services@1.1.1
+- pkg:nuget/SoCreate.ServiceFabric.DependencyInjection.Services@2.0.0
+- pkg:nuget/SoCreate.ServiceFabric.DependencyInjection.Services@3.0.0
+- pkg:nuget/SoCreate.ServiceFabric.DependencyInjection.Services@3.0.1

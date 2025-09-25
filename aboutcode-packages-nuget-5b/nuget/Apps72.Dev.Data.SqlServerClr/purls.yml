@@ -1,0 +1,11 @@
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@1.2.0
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@1.3.0
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@1.4.0
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@2.0.0
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@2.1.0
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@2.3.1
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@2.4.0
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@2.5.0
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@2.6.0
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@2.7.3
+- pkg:nuget/Apps72.Dev.Data.SqlServerClr@2.7.5

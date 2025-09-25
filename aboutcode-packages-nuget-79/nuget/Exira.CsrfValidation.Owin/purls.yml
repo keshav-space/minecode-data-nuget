@@ -1,0 +1,4 @@
+- pkg:nuget/Exira.CsrfValidation.Owin@0.1.4
+- pkg:nuget/Exira.CsrfValidation.Owin@0.2.5
+- pkg:nuget/Exira.CsrfValidation.Owin@0.2.7
+- pkg:nuget/Exira.CsrfValidation.Owin@0.3.8

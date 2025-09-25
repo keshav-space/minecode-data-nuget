@@ -1,0 +1,17 @@
+- pkg:nuget/NServiceMVC@1.0.1.20
+- pkg:nuget/NServiceMVC@1.0.1.22
+- pkg:nuget/NServiceMVC@1.0.1.29-beta
+- pkg:nuget/NServiceMVC@1.0.2.30-beta
+- pkg:nuget/NServiceMVC@1.0.2.33-beta
+- pkg:nuget/NServiceMVC@1.0.3.34-beta
+- pkg:nuget/NServiceMVC@1.0.3.35-beta
+- pkg:nuget/NServiceMVC@1.0.3.36-beta
+- pkg:nuget/NServiceMVC@1.0.3.37-beta
+- pkg:nuget/NServiceMVC@1.0.3.38-beta
+- pkg:nuget/NServiceMVC@1.0.3.39-beta
+- pkg:nuget/NServiceMVC@1.0.3.40-beta
+- pkg:nuget/NServiceMVC@1.0.3.41-beta
+- pkg:nuget/NServiceMVC@1.0.3.42-beta
+- pkg:nuget/NServiceMVC@1.0.3.43-beta
+- pkg:nuget/NServiceMVC@1.0.3.45-beta
+- pkg:nuget/NServiceMVC@1.0.3.47-beta

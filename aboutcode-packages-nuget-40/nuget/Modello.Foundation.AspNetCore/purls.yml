@@ -1,0 +1,5 @@
+- pkg:nuget/Modello.Foundation.AspNetCore@0.0.1
+- pkg:nuget/Modello.Foundation.AspNetCore@0.0.1-beta1
+- pkg:nuget/Modello.Foundation.AspNetCore@0.0.2
+- pkg:nuget/Modello.Foundation.AspNetCore@0.0.3
+- pkg:nuget/Modello.Foundation.AspNetCore@1.0.0

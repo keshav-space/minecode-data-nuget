@@ -1,0 +1,6 @@
+- pkg:nuget/Aleph1.Security.Implementation.RijndaelManaged@1.0.0
+- pkg:nuget/Aleph1.Security.Implementation.RijndaelManaged@1.0.1
+- pkg:nuget/Aleph1.Security.Implementation.RijndaelManaged@4.8.0
+- pkg:nuget/Aleph1.Security.Implementation.RijndaelManaged@5.0.0
+- pkg:nuget/Aleph1.Security.Implementation.RijndaelManaged@5.0.1
+- pkg:nuget/Aleph1.Security.Implementation.RijndaelManaged@5.0.2

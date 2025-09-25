@@ -1,0 +1,13 @@
+- pkg:nuget/NuGet.Protocol.Core.v2@3.2.0
+- pkg:nuget/NuGet.Protocol.Core.v2@3.3.0
+- pkg:nuget/NuGet.Protocol.Core.v2@3.4.3
+- pkg:nuget/NuGet.Protocol.Core.v2@3.4.4-rc
+- pkg:nuget/NuGet.Protocol.Core.v2@3.4.4-rtm-final
+- pkg:nuget/NuGet.Protocol.Core.v2@3.5.0
+- pkg:nuget/NuGet.Protocol.Core.v2@3.5.0-beta-final
+- pkg:nuget/NuGet.Protocol.Core.v2@3.5.0-beta2-1484
+- pkg:nuget/NuGet.Protocol.Core.v2@3.5.0-rc1-final
+- pkg:nuget/NuGet.Protocol.Core.v2@4.0.0-rc-2048
+- pkg:nuget/NuGet.Protocol.Core.v2@4.0.0-rc2
+- pkg:nuget/NuGet.Protocol.Core.v2@4.0.0-rc3
+- pkg:nuget/NuGet.Protocol.Core.v2@4.0.0-rtm-2265

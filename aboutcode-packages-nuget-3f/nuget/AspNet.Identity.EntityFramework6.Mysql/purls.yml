@@ -1,0 +1,5 @@
+- pkg:nuget/AspNet.Identity.EntityFramework6.Mysql@1.0.0
+- pkg:nuget/AspNet.Identity.EntityFramework6.Mysql@1.0.1
+- pkg:nuget/AspNet.Identity.EntityFramework6.Mysql@1.0.2
+- pkg:nuget/AspNet.Identity.EntityFramework6.Mysql@1.0.3
+- pkg:nuget/AspNet.Identity.EntityFramework6.Mysql@2.0.0

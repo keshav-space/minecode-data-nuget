@@ -1,0 +1,4 @@
+- pkg:nuget/NetworkVisor.Core.Abstractions@0.7.4-beta-g2cb7604bc0
+- pkg:nuget/NetworkVisor.Core.Abstractions@2.0.1-prerelease
+- pkg:nuget/NetworkVisor.Core.Abstractions@2.0.2-prerelease
+- pkg:nuget/NetworkVisor.Core.Abstractions@2.1.1-prerelease

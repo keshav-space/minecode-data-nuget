@@ -1,0 +1,4 @@
+- pkg:nuget/ICSharpCode.BamlDecompiler@10.0.0.8079-preview1
+- pkg:nuget/ICSharpCode.BamlDecompiler@9.0.0.7876-RC
+- pkg:nuget/ICSharpCode.BamlDecompiler@9.0.0.7889
+- pkg:nuget/ICSharpCode.BamlDecompiler@9.1.0.7988

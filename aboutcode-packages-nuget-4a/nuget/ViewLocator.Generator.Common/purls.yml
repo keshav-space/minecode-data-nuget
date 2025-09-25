@@ -1,0 +1,6 @@
+- pkg:nuget/ViewLocator.Generator.Common@2025.8.4.208-pr6
+- pkg:nuget/ViewLocator.Generator.Common@2025.8.4.234-pr7
+- pkg:nuget/ViewLocator.Generator.Common@2025.8.4.314-pr8
+- pkg:nuget/ViewLocator.Generator.Common@2025.8.4.334-manual
+- pkg:nuget/ViewLocator.Generator.Common@2025.8.4.531-manual
+- pkg:nuget/ViewLocator.Generator.Common@2025.8.4.737-manual

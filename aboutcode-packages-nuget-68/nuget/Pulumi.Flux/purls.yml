@@ -1,0 +1,8 @@
+- pkg:nuget/Pulumi.Flux@0.20.0
+- pkg:nuget/Pulumi.Flux@0.20.1
+- pkg:nuget/Pulumi.Flux@0.21.0
+- pkg:nuget/Pulumi.Flux@0.21.1
+- pkg:nuget/Pulumi.Flux@0.22.2
+- pkg:nuget/Pulumi.Flux@0.25.3
+- pkg:nuget/Pulumi.Flux@1.0.0
+- pkg:nuget/Pulumi.Flux@1.0.1

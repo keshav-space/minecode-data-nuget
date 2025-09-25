@@ -1,0 +1,10 @@
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.0.1
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.0.2
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.25.1
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.27.1
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.32.1
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.33.2
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.34.1
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.37.1
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.38.1
+- pkg:nuget/llama_cpp.runtime.win-x64.runtime.native.llama.cpp.Clang@1.56.1

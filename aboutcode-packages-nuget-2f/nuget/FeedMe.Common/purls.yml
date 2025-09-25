@@ -1,0 +1,15 @@
+- pkg:nuget/FeedMe.Common@1.0.0
+- pkg:nuget/FeedMe.Common@1.0.20190622.2
+- pkg:nuget/FeedMe.Common@1.0.20190623.1
+- pkg:nuget/FeedMe.Common@1.0.20190623.2-beta
+- pkg:nuget/FeedMe.Common@1.0.20190721.1-beta
+- pkg:nuget/FeedMe.Common@1.0.20190721.2-beta
+- pkg:nuget/FeedMe.Common@1.0.20190721.3-beta
+- pkg:nuget/FeedMe.Common@1.0.20190721.4-beta
+- pkg:nuget/FeedMe.Common@1.0.20190722.1-beta
+- pkg:nuget/FeedMe.Common@1.0.20190808.1-beta
+- pkg:nuget/FeedMe.Common@1.0.20190808.2-beta
+- pkg:nuget/FeedMe.Common@1.0.20190811.1-beta
+- pkg:nuget/FeedMe.Common@1.0.20190817.1-beta
+- pkg:nuget/FeedMe.Common@1.0.20190818.1-beta
+- pkg:nuget/FeedMe.Common@1.0.20190818.2

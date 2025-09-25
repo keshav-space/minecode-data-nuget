@@ -1,0 +1,5 @@
+- pkg:nuget/dotnet-make@1.0.0
+- pkg:nuget/dotnet-make@1.0.18
+- pkg:nuget/dotnet-make@1.0.27
+- pkg:nuget/dotnet-make@1.0.30
+- pkg:nuget/dotnet-make@42.43.44.45

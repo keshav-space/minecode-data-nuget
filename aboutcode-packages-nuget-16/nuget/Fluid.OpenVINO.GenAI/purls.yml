@@ -1,0 +1,4 @@
+- pkg:nuget/Fluid.OpenVINO.GenAI@2025.2.0
+- pkg:nuget/Fluid.OpenVINO.GenAI@2025.2.0.1
+- pkg:nuget/Fluid.OpenVINO.GenAI@2025.3.0-dev20250801
+- pkg:nuget/Fluid.OpenVINO.GenAI@2025.3.0.1

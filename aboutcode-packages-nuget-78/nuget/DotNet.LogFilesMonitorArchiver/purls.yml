@@ -1,0 +1,15 @@
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@1.0.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@1.1.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@1.2.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@2.0.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@2.0.1
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@2.1.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@2.2.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@2.3.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@2.3.1
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@2.4.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@3.0.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@3.1.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@5.0.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@6.0.0
+- pkg:nuget/DotNet.LogFilesMonitorArchiver@8.0.0

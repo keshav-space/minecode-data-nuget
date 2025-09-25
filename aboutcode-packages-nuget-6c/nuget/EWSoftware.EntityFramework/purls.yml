@@ -1,0 +1,12 @@
+- pkg:nuget/EWSoftware.EntityFramework@2024.12.29
+- pkg:nuget/EWSoftware.EntityFramework@2024.12.30
+- pkg:nuget/EWSoftware.EntityFramework@2025.1.16
+- pkg:nuget/EWSoftware.EntityFramework@2025.2.15
+- pkg:nuget/EWSoftware.EntityFramework@2025.3.14
+- pkg:nuget/EWSoftware.EntityFramework@2025.3.17
+- pkg:nuget/EWSoftware.EntityFramework@2025.6.14
+- pkg:nuget/EWSoftware.EntityFramework@2025.7.14
+- pkg:nuget/EWSoftware.EntityFramework@2025.7.19
+- pkg:nuget/EWSoftware.EntityFramework@2025.7.6
+- pkg:nuget/EWSoftware.EntityFramework@2025.8.22
+- pkg:nuget/EWSoftware.EntityFramework@2025.9.5

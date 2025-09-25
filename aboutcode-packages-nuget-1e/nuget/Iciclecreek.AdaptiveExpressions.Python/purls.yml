@@ -1,0 +1,12 @@
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.10.0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.10.3
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.11.0-rc0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.12.0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.12.1
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.13.0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.14.0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.16.0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.19.0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.20.0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.9.0
+- pkg:nuget/Iciclecreek.AdaptiveExpressions.Python@4.9.1

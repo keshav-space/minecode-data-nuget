@@ -1,0 +1,3 @@
+- pkg:nuget/Playground.TestNugetPublish.Abstractions@0.0.1
+- pkg:nuget/Playground.TestNugetPublish.Abstractions@0.0.2
+- pkg:nuget/Playground.TestNugetPublish.Abstractions@0.0.2-build-16

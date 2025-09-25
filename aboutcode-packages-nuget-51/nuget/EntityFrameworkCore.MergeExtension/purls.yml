@@ -1,0 +1,6 @@
+- pkg:nuget/EntityFrameworkCore.MergeExtension@0.0.1
+- pkg:nuget/EntityFrameworkCore.MergeExtension@0.0.2
+- pkg:nuget/EntityFrameworkCore.MergeExtension@0.1.5
+- pkg:nuget/EntityFrameworkCore.MergeExtension@0.1.6
+- pkg:nuget/EntityFrameworkCore.MergeExtension@0.1.7
+- pkg:nuget/EntityFrameworkCore.MergeExtension@1.0.8

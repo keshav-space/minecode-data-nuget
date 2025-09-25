@@ -1,0 +1,5 @@
+- pkg:nuget/Nancy.AspNetCore.Session@1.0.0
+- pkg:nuget/Nancy.AspNetCore.Session@1.0.1
+- pkg:nuget/Nancy.AspNetCore.Session@1.1.0
+- pkg:nuget/Nancy.AspNetCore.Session@1.1.1
+- pkg:nuget/Nancy.AspNetCore.Session@2.0.0

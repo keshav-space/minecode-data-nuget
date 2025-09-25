@@ -1,0 +1,10 @@
+- pkg:nuget/Quartz.NetCore.DependencyInjection@1.0.0
+- pkg:nuget/Quartz.NetCore.DependencyInjection@1.0.1
+- pkg:nuget/Quartz.NetCore.DependencyInjection@1.0.2
+- pkg:nuget/Quartz.NetCore.DependencyInjection@1.0.3
+- pkg:nuget/Quartz.NetCore.DependencyInjection@1.0.5
+- pkg:nuget/Quartz.NetCore.DependencyInjection@1.0.6
+- pkg:nuget/Quartz.NetCore.DependencyInjection@2.0.0
+- pkg:nuget/Quartz.NetCore.DependencyInjection@2.1.0
+- pkg:nuget/Quartz.NetCore.DependencyInjection@5.0.0
+- pkg:nuget/Quartz.NetCore.DependencyInjection@9.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/BgApiDriver@1.0.0-CI00000
+- pkg:nuget/BgApiDriver@1.0.0-CI00001
+- pkg:nuget/BgApiDriver@2.0.0
+- pkg:nuget/BgApiDriver@2.0.1

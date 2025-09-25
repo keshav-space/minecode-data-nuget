@@ -1,0 +1,16 @@
+- pkg:nuget/Rollbar.App.Config@4.0.0
+- pkg:nuget/Rollbar.App.Config@4.0.1
+- pkg:nuget/Rollbar.App.Config@4.0.2
+- pkg:nuget/Rollbar.App.Config@4.0.3
+- pkg:nuget/Rollbar.App.Config@5.0.0-beta
+- pkg:nuget/Rollbar.App.Config@5.0.1-beta
+- pkg:nuget/Rollbar.App.Config@5.0.2-beta
+- pkg:nuget/Rollbar.App.Config@5.0.3-beta
+- pkg:nuget/Rollbar.App.Config@5.0.4-beta
+- pkg:nuget/Rollbar.App.Config@5.0.5-beta
+- pkg:nuget/Rollbar.App.Config@5.1.0
+- pkg:nuget/Rollbar.App.Config@5.1.1
+- pkg:nuget/Rollbar.App.Config@5.1.2
+- pkg:nuget/Rollbar.App.Config@5.1.3
+- pkg:nuget/Rollbar.App.Config@5.2.0
+- pkg:nuget/Rollbar.App.Config@5.2.2

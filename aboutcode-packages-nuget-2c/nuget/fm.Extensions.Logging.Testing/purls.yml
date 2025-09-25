@@ -1,0 +1,16 @@
+- pkg:nuget/fm.Extensions.Logging.Testing@1.0.0-rtm-21431
+- pkg:nuget/fm.Extensions.Logging.Testing@2.0.0
+- pkg:nuget/fm.Extensions.Logging.Testing@2.0.0-preview1
+- pkg:nuget/fm.Extensions.Logging.Testing@2.1.0
+- pkg:nuget/fm.Extensions.Logging.Testing@2.2.0
+- pkg:nuget/fm.Extensions.Logging.Testing@2.4.0
+- pkg:nuget/fm.Extensions.Logging.Testing@2.5.0
+- pkg:nuget/fm.Extensions.Logging.Testing@3.0.0
+- pkg:nuget/fm.Extensions.Logging.Testing@3.1.0
+- pkg:nuget/fm.Extensions.Logging.Testing@3.2.0
+- pkg:nuget/fm.Extensions.Logging.Testing@4.0.0
+- pkg:nuget/fm.Extensions.Logging.Testing@4.1.0
+- pkg:nuget/fm.Extensions.Logging.Testing@4.2.0
+- pkg:nuget/fm.Extensions.Logging.Testing@5.0.0
+- pkg:nuget/fm.Extensions.Logging.Testing@5.0.0-preview.1
+- pkg:nuget/fm.Extensions.Logging.Testing@6.0.0-preview.1

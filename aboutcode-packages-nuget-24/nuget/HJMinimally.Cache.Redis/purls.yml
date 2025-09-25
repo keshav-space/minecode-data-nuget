@@ -1,0 +1,4 @@
+- pkg:nuget/HJMinimally.Cache.Redis@1.0.0
+- pkg:nuget/HJMinimally.Cache.Redis@1.0.1
+- pkg:nuget/HJMinimally.Cache.Redis@1.0.2
+- pkg:nuget/HJMinimally.Cache.Redis@1.1.0

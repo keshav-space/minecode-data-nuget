@@ -1,0 +1,4 @@
+- pkg:nuget/GoogleRecaptcha@1.0.0
+- pkg:nuget/GoogleRecaptcha@1.0.1
+- pkg:nuget/GoogleRecaptcha@1.1.1
+- pkg:nuget/GoogleRecaptcha@1.2.1

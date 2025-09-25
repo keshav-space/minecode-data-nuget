@@ -1,0 +1,11 @@
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@10.0.0
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@10.0.1
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@11.0.0
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@12.0.0
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@12.0.1
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@13.0.0
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@13.1.0
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@13.2.0
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@13.2.1
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@8.0.0
+- pkg:nuget/Shuttle.Esb.Module.MessageForwarding@9.0.0

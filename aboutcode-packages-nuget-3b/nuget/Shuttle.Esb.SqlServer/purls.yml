@@ -1,0 +1,13 @@
+- pkg:nuget/Shuttle.Esb.SqlServer@3.8.10
+- pkg:nuget/Shuttle.Esb.SqlServer@3.8.8
+- pkg:nuget/Shuttle.Esb.SqlServer@3.8.9
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.0
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.1
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.2
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.3
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.4
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.5
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.6
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.7
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.8
+- pkg:nuget/Shuttle.Esb.SqlServer@6.0.9

@@ -1,0 +1,13 @@
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.10
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.11-prerelease
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.12-prerelease
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.13-prerelease
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.14-prerelease
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.15
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.5
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.6
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.7
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.8
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.0.9
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.1.16
+- pkg:nuget/UnitsNet.Metadata.DynamicProxy@1.0.2.17

@@ -1,0 +1,10 @@
+- pkg:nuget/SdlSharp@0.1.0
+- pkg:nuget/SdlSharp@0.12.64-alpha
+- pkg:nuget/SdlSharp@0.2.0
+- pkg:nuget/SdlSharp@0.3.0-alpha
+- pkg:nuget/SdlSharp@0.4.1-alpha
+- pkg:nuget/SdlSharp@0.5.3-alpha
+- pkg:nuget/SdlSharp@0.6.3-alpha
+- pkg:nuget/SdlSharp@0.7.8-alpha
+- pkg:nuget/SdlSharp@0.8.1-alpha
+- pkg:nuget/SdlSharp@0.9.3-alpha

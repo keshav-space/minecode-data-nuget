@@ -1,0 +1,16 @@
+- pkg:nuget/DotImaging.Core.Platform@3.0.0
+- pkg:nuget/DotImaging.Core.Platform@3.0.1
+- pkg:nuget/DotImaging.Core.Platform@3.0.2
+- pkg:nuget/DotImaging.Core.Platform@4.0.1
+- pkg:nuget/DotImaging.Core.Platform@4.1.2
+- pkg:nuget/DotImaging.Core.Platform@4.1.3
+- pkg:nuget/DotImaging.Core.Platform@4.5.0
+- pkg:nuget/DotImaging.Core.Platform@4.6.0
+- pkg:nuget/DotImaging.Core.Platform@4.6.5
+- pkg:nuget/DotImaging.Core.Platform@4.7.0
+- pkg:nuget/DotImaging.Core.Platform@4.7.5
+- pkg:nuget/DotImaging.Core.Platform@4.7.6
+- pkg:nuget/DotImaging.Core.Platform@4.8.0
+- pkg:nuget/DotImaging.Core.Platform@4.8.1
+- pkg:nuget/DotImaging.Core.Platform@4.8.2
+- pkg:nuget/DotImaging.Core.Platform@4.8.3

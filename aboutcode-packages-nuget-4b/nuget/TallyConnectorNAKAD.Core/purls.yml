@@ -1,0 +1,6 @@
+- pkg:nuget/TallyConnectorNAKAD.Core@1.0.0
+- pkg:nuget/TallyConnectorNAKAD.Core@12.0.0
+- pkg:nuget/TallyConnectorNAKAD.Core@13.0.0
+- pkg:nuget/TallyConnectorNAKAD.Core@14.0.0
+- pkg:nuget/TallyConnectorNAKAD.Core@15.0.0
+- pkg:nuget/TallyConnectorNAKAD.Core@16.0.0

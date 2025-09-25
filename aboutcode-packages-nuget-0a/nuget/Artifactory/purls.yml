@@ -1,0 +1,9 @@
+- pkg:nuget/Artifactory@1.0.0
+- pkg:nuget/Artifactory@1.0.1
+- pkg:nuget/Artifactory@1.0.1.1
+- pkg:nuget/Artifactory@2.0.0
+- pkg:nuget/Artifactory@2.1.0
+- pkg:nuget/Artifactory@2.2.0
+- pkg:nuget/Artifactory@2.3.0
+- pkg:nuget/Artifactory@2.3.1
+- pkg:nuget/Artifactory@2.3.2

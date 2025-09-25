@@ -1,0 +1,17 @@
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.2.0
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.3.0
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.4.3
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.4.4-rc
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.4.4-rtm-final
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.5.0
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.5.0-beta-final
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.5.0-beta2-1484
+- pkg:nuget/NuGet.Protocol.VisualStudio@3.5.0-rc1-final
+- pkg:nuget/NuGet.Protocol.VisualStudio@4.0.0
+- pkg:nuget/NuGet.Protocol.VisualStudio@4.0.0-rc-2048
+- pkg:nuget/NuGet.Protocol.VisualStudio@4.0.0-rc2
+- pkg:nuget/NuGet.Protocol.VisualStudio@4.0.0-rc3
+- pkg:nuget/NuGet.Protocol.VisualStudio@4.0.0-rtm-2265
+- pkg:nuget/NuGet.Protocol.VisualStudio@4.1.0
+- pkg:nuget/NuGet.Protocol.VisualStudio@4.2.0
+- pkg:nuget/NuGet.Protocol.VisualStudio@4.3.0-beta1-2418

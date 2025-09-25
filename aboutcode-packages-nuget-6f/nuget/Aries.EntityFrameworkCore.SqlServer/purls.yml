@@ -1,0 +1,4 @@
+- pkg:nuget/Aries.EntityFrameworkCore.SqlServer@1.0.0
+- pkg:nuget/Aries.EntityFrameworkCore.SqlServer@1.0.5
+- pkg:nuget/Aries.EntityFrameworkCore.SqlServer@1.0.5.1
+- pkg:nuget/Aries.EntityFrameworkCore.SqlServer@1.0.5.2

@@ -1,0 +1,4 @@
+- pkg:nuget/EventSourcing.Queries@8.1.0
+- pkg:nuget/EventSourcing.Queries@8.2.0
+- pkg:nuget/EventSourcing.Queries@9.0.0
+- pkg:nuget/EventSourcing.Queries@9.1.0

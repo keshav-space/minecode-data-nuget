@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.SqlServer.NetCoreGlobalization@14.1.17265-xplat
+- pkg:nuget/Microsoft.SqlServer.NetCoreGlobalization@140.17267.0-xplat
+- pkg:nuget/Microsoft.SqlServer.NetCoreGlobalization@140.17279.0-xplat
+- pkg:nuget/Microsoft.SqlServer.NetCoreGlobalization@140.17282.0-xplat
+- pkg:nuget/Microsoft.SqlServer.NetCoreGlobalization@140.17283.0-xplat

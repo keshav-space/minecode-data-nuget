@@ -1,0 +1,3 @@
+- pkg:nuget/Nethermind.DotNetty.Codecs.ProtocolBuffers@1.0.0
+- pkg:nuget/Nethermind.DotNetty.Codecs.ProtocolBuffers@1.0.1
+- pkg:nuget/Nethermind.DotNetty.Codecs.ProtocolBuffers@1.0.2.76

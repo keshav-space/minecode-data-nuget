@@ -1,0 +1,7 @@
+- pkg:nuget/Functional.CQS.AOP.Caching.Infrastructure.DistributedCache.Redis@1.0.0
+- pkg:nuget/Functional.CQS.AOP.Caching.Infrastructure.DistributedCache.Redis@1.0.1
+- pkg:nuget/Functional.CQS.AOP.Caching.Infrastructure.DistributedCache.Redis@1.1.0
+- pkg:nuget/Functional.CQS.AOP.Caching.Infrastructure.DistributedCache.Redis@2.0.0
+- pkg:nuget/Functional.CQS.AOP.Caching.Infrastructure.DistributedCache.Redis@2.1.0
+- pkg:nuget/Functional.CQS.AOP.Caching.Infrastructure.DistributedCache.Redis@3.0.0
+- pkg:nuget/Functional.CQS.AOP.Caching.Infrastructure.DistributedCache.Redis@3.0.1

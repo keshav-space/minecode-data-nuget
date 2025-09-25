@@ -1,0 +1,12 @@
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.10.0
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.10.1
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.11.0
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.11.1
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.11.2
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.12.0
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.13.0
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.14.0
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.14.1
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.7.0
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.8.0
+- pkg:nuget/Tingle.AspNetCore.ApplicationInsights@4.9.0

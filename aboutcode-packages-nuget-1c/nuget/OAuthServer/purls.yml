@@ -1,0 +1,4 @@
+- pkg:nuget/OAuthServer@1.0.0
+- pkg:nuget/OAuthServer@1.0.0-rc2
+- pkg:nuget/OAuthServer@2.0.0
+- pkg:nuget/OAuthServer@2.0.1

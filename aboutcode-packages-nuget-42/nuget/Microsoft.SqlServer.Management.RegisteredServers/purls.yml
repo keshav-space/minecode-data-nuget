@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.SqlServer.Management.RegisteredServers@150.18085.0-xplat
+- pkg:nuget/Microsoft.SqlServer.Management.RegisteredServers@150.18092.0-xplat
+- pkg:nuget/Microsoft.SqlServer.Management.RegisteredServers@150.18096.0-xplat
+- pkg:nuget/Microsoft.SqlServer.Management.RegisteredServers@150.18097.0-xplat

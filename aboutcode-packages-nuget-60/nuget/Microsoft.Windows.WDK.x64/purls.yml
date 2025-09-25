@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26090.12-preview.ge-release
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26095.2-preview.ge-release
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.1
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.1591
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.1882
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.2161
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.2454
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.3323
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.4202
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.4204
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.26100.6584
+- pkg:nuget/Microsoft.Windows.WDK.x64@10.0.27626.1000-preview.rs-prerelease

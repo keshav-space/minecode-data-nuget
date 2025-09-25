@@ -1,0 +1,4 @@
+- pkg:nuget/Iciclecreek.Bot.Builder.Dialogs.AdaptiveCards@4.14.0-preview
+- pkg:nuget/Iciclecreek.Bot.Builder.Dialogs.AdaptiveCards@4.16.0-preview
+- pkg:nuget/Iciclecreek.Bot.Builder.Dialogs.AdaptiveCards@4.19.0
+- pkg:nuget/Iciclecreek.Bot.Builder.Dialogs.AdaptiveCards@4.20.0

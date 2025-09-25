@@ -1,0 +1,3 @@
+- pkg:nuget/Serilog.Sinks.DynamicSwitch@0.1.0
+- pkg:nuget/Serilog.Sinks.DynamicSwitch@1.0.0
+- pkg:nuget/Serilog.Sinks.DynamicSwitch@2.0.0

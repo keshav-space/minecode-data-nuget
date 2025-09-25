@@ -1,0 +1,2 @@
+- pkg:nuget/PingDong.Infrastructure.Relational.PostgreSql@9.0.0
+- pkg:nuget/PingDong.Infrastructure.Relational.PostgreSql@9.0.1

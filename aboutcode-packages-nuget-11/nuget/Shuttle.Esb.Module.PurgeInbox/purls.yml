@@ -1,0 +1,11 @@
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@10.0.0
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@11.0.0
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@12.0.0
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@12.0.1
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@13.0.0
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@13.1.0
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@13.2.0
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@13.2.1
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@8.0.0
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@8.0.1
+- pkg:nuget/Shuttle.Esb.Module.PurgeInbox@9.0.0

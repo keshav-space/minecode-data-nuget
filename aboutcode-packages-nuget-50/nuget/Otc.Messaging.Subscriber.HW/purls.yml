@@ -1,0 +1,11 @@
+- pkg:nuget/Otc.Messaging.Subscriber.HW@1.0.0-alpha10%2Bb45
+- pkg:nuget/Otc.Messaging.Subscriber.HW@1.0.0-alpha11%2Bb47
+- pkg:nuget/Otc.Messaging.Subscriber.HW@1.0.0-alpha12%2Bb49
+- pkg:nuget/Otc.Messaging.Subscriber.HW@1.0.0-alpha13%2Bb51
+- pkg:nuget/Otc.Messaging.Subscriber.HW@1.0.0-alpha14%2Bb55
+- pkg:nuget/Otc.Messaging.Subscriber.HW@1.0.0-alpha15%2Bb62
+- pkg:nuget/Otc.Messaging.Subscriber.HW@1.0.0-alpha8%2Bb39
+- pkg:nuget/Otc.Messaging.Subscriber.HW@1.0.0-alpha9%2Bb42
+- pkg:nuget/Otc.Messaging.Subscriber.HW@2.0.1
+- pkg:nuget/Otc.Messaging.Subscriber.HW@3.0.0
+- pkg:nuget/Otc.Messaging.Subscriber.HW@3.0.1

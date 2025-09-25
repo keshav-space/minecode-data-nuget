@@ -1,0 +1,12 @@
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@10.0.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@10.1.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@8.0.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@8.1.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@8.2.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@8.2.1
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@9.0.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@9.1.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@9.1.1
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@9.2.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@9.3.0
+- pkg:nuget/Xunit.DependencyInjection.AspNetCoreTesting@9.4.0

@@ -1,0 +1,4 @@
+- pkg:nuget/AMMS.SSO.Service.PostgreSql@1.5.0
+- pkg:nuget/AMMS.SSO.Service.PostgreSql@1.6.0
+- pkg:nuget/AMMS.SSO.Service.PostgreSql@1.7.0
+- pkg:nuget/AMMS.SSO.Service.PostgreSql@1.7.3%2Bbuild.250918

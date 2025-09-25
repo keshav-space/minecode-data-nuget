@@ -1,0 +1,5 @@
+- pkg:nuget/ToolNET.NLog.Kafka@5.0.0
+- pkg:nuget/ToolNET.NLog.Kafka@5.0.1
+- pkg:nuget/ToolNET.NLog.Kafka@5.0.2
+- pkg:nuget/ToolNET.NLog.Kafka@5.0.8
+- pkg:nuget/ToolNET.NLog.Kafka@5.1.0

@@ -1,0 +1,10 @@
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.0.1
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.0.2
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.25.1
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.27.1
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.32.1
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.33.2
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.34.1
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.37.1
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.38.1
+- pkg:nuget/llama_cpp.runtime.ubuntu.20.04-arm64.runtime.native.llama.cpp.GNU@1.56.1

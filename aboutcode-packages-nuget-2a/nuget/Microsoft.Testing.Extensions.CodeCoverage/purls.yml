@@ -1,0 +1,16 @@
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.10.1
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.10.1-preview.24069.1
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.10.3
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.10.4
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.11.3
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.11.5
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.12.2
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.12.3
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.12.4
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.12.5
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.12.6
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.13.0
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.13.1
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.14.1
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@17.14.2
+- pkg:nuget/Microsoft.Testing.Extensions.CodeCoverage@18.1.0-preview.25412.3

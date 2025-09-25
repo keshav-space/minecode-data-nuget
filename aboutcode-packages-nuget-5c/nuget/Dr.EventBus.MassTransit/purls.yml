@@ -1,0 +1,6 @@
+- pkg:nuget/Dr.EventBus.MassTransit@1.0.0
+- pkg:nuget/Dr.EventBus.MassTransit@1.0.1
+- pkg:nuget/Dr.EventBus.MassTransit@8.0.0
+- pkg:nuget/Dr.EventBus.MassTransit@8.0.1
+- pkg:nuget/Dr.EventBus.MassTransit@8.1.0
+- pkg:nuget/Dr.EventBus.MassTransit@8.2.0

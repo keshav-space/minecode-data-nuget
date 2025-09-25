@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.TeamFoundation.Build.Client@11.0.60610.1
+- pkg:nuget/Microsoft.TeamFoundation.Build.Client@12.0.21005.1

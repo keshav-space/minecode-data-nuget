@@ -1,0 +1,12 @@
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@140.17267.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@140.17279.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@140.17282.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@140.17283.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@150.18018.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@150.18022.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@150.18040.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@150.18068.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@150.18085.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@150.18092.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@150.18096.0-xplat
+- pkg:nuget/Microsoft.SqlServer.SqlEnum@150.18097.0-xplat

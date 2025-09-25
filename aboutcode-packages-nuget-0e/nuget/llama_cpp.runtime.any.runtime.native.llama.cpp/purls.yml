@@ -1,0 +1,5 @@
+- pkg:nuget/llama_cpp.runtime.any.runtime.native.llama.cpp@1.25.1
+- pkg:nuget/llama_cpp.runtime.any.runtime.native.llama.cpp@1.33.2
+- pkg:nuget/llama_cpp.runtime.any.runtime.native.llama.cpp@1.37.1
+- pkg:nuget/llama_cpp.runtime.any.runtime.native.llama.cpp@1.38.1
+- pkg:nuget/llama_cpp.runtime.any.runtime.native.llama.cpp@1.56.1
