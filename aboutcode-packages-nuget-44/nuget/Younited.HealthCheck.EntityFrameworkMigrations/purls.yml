@@ -1,0 +1,6 @@
+- pkg:nuget/Younited.HealthCheck.EntityFrameworkMigrations@1.0.0
+- pkg:nuget/Younited.HealthCheck.EntityFrameworkMigrations@3.1.11
+- pkg:nuget/Younited.HealthCheck.EntityFrameworkMigrations@3.1.4
+- pkg:nuget/Younited.HealthCheck.EntityFrameworkMigrations@5.0.2
+- pkg:nuget/Younited.HealthCheck.EntityFrameworkMigrations@7.0.0
+- pkg:nuget/Younited.HealthCheck.EntityFrameworkMigrations@8.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/DotNetFreeSwitch@0.0.1
+- pkg:nuget/DotNetFreeSwitch@1.0.0
+- pkg:nuget/DotNetFreeSwitch@1.1.0
+- pkg:nuget/DotNetFreeSwitch@2.0.0
+- pkg:nuget/DotNetFreeSwitch@2.1.0

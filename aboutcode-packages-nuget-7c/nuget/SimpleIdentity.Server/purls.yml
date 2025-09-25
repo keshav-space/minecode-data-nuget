@@ -1,0 +1,5 @@
+- pkg:nuget/SimpleIdentity.Server@1.0.0
+- pkg:nuget/SimpleIdentity.Server@1.0.0-pre
+- pkg:nuget/SimpleIdentity.Server@1.0.1-pre
+- pkg:nuget/SimpleIdentity.Server@1.0.2-pre
+- pkg:nuget/SimpleIdentity.Server@1.0.3-pre

@@ -1,0 +1,4 @@
+- pkg:nuget/Xamarin.GooglePlayServices.Identity.Credentials@116.0.0-alpha04
+- pkg:nuget/Xamarin.GooglePlayServices.Identity.Credentials@116.0.0.1-alpha04
+- pkg:nuget/Xamarin.GooglePlayServices.Identity.Credentials@116.0.0.2-alpha04
+- pkg:nuget/Xamarin.GooglePlayServices.Identity.Credentials@116.0.0.3-alpha04

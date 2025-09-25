@@ -1,0 +1,5 @@
+- pkg:nuget/HiQPdf.LatestChromium.Windows@17.0.3
+- pkg:nuget/HiQPdf.LatestChromium.Windows@17.5.0
+- pkg:nuget/HiQPdf.LatestChromium.Windows@17.5.1
+- pkg:nuget/HiQPdf.LatestChromium.Windows@17.5.3
+- pkg:nuget/HiQPdf.LatestChromium.Windows@17.5.5

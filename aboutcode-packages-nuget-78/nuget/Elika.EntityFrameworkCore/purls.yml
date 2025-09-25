@@ -1,0 +1,12 @@
+- pkg:nuget/Elika.EntityFrameworkCore@0.10.0
+- pkg:nuget/Elika.EntityFrameworkCore@0.2.0
+- pkg:nuget/Elika.EntityFrameworkCore@0.25.0
+- pkg:nuget/Elika.EntityFrameworkCore@0.25.1
+- pkg:nuget/Elika.EntityFrameworkCore@0.28.0
+- pkg:nuget/Elika.EntityFrameworkCore@0.28.1
+- pkg:nuget/Elika.EntityFrameworkCore@0.28.2
+- pkg:nuget/Elika.EntityFrameworkCore@0.28.3
+- pkg:nuget/Elika.EntityFrameworkCore@0.29.1
+- pkg:nuget/Elika.EntityFrameworkCore@0.3.0
+- pkg:nuget/Elika.EntityFrameworkCore@0.30.0
+- pkg:nuget/Elika.EntityFrameworkCore@0.30.1

@@ -1,0 +1,8 @@
+- pkg:nuget/BimLab.BimMonitor.Sdk@2020.2.2
+- pkg:nuget/BimLab.BimMonitor.Sdk@2020.2.3-dev01
+- pkg:nuget/BimLab.BimMonitor.Sdk@2020.5.1-dev01
+- pkg:nuget/BimLab.BimMonitor.Sdk@2020.5.1-dev02
+- pkg:nuget/BimLab.BimMonitor.Sdk@2020.6.1
+- pkg:nuget/BimLab.BimMonitor.Sdk@2020.6.2
+- pkg:nuget/BimLab.BimMonitor.Sdk@2020.6.3
+- pkg:nuget/BimLab.BimMonitor.Sdk@2020.8.1

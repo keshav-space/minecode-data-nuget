@@ -1,0 +1,4 @@
+- pkg:nuget/ScottBrady.IdentityModel.AspNetCore@1.0.0
+- pkg:nuget/ScottBrady.IdentityModel.AspNetCore@2.0.0
+- pkg:nuget/ScottBrady.IdentityModel.AspNetCore@2.1.0
+- pkg:nuget/ScottBrady.IdentityModel.AspNetCore@2.2.0

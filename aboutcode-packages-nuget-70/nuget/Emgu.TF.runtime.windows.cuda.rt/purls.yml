@@ -1,0 +1,2 @@
+- pkg:nuget/Emgu.TF.runtime.windows.cuda.rt@10.2.89
+- pkg:nuget/Emgu.TF.runtime.windows.cuda.rt@11.1.218

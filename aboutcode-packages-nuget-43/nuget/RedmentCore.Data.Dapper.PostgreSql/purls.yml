@@ -1,0 +1,4 @@
+- pkg:nuget/RedmentCore.Data.Dapper.PostgreSql@1.0.0
+- pkg:nuget/RedmentCore.Data.Dapper.PostgreSql@1.0.1
+- pkg:nuget/RedmentCore.Data.Dapper.PostgreSql@6.1.0
+- pkg:nuget/RedmentCore.Data.Dapper.PostgreSql@8.0.0

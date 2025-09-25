@@ -1,0 +1,2 @@
+- pkg:nuget/EventSourcing.CRUD.Infrastructure.Snapshots@1.0.0
+- pkg:nuget/EventSourcing.CRUD.Infrastructure.Snapshots@1.0.1

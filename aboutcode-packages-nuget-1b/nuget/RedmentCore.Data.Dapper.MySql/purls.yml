@@ -1,0 +1,4 @@
+- pkg:nuget/RedmentCore.Data.Dapper.MySql@1.0.0
+- pkg:nuget/RedmentCore.Data.Dapper.MySql@1.0.1
+- pkg:nuget/RedmentCore.Data.Dapper.MySql@6.1.0
+- pkg:nuget/RedmentCore.Data.Dapper.MySql@8.0.0

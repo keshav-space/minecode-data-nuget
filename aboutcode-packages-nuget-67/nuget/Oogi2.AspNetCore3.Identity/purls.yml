@@ -1,0 +1,5 @@
+- pkg:nuget/Oogi2.AspNetCore3.Identity@1.0.0
+- pkg:nuget/Oogi2.AspNetCore3.Identity@2.0.0
+- pkg:nuget/Oogi2.AspNetCore3.Identity@2.1.0
+- pkg:nuget/Oogi2.AspNetCore3.Identity@2.1.1
+- pkg:nuget/Oogi2.AspNetCore3.Identity@2.2.1

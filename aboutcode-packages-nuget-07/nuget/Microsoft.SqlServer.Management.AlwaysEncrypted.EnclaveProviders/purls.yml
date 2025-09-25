@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.EnclaveProviders@1.0.0-beta
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.EnclaveProviders@2.0.2
+- pkg:nuget/Microsoft.SqlServer.Management.AlwaysEncrypted.EnclaveProviders@2.0.3

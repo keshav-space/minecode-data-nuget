@@ -1,0 +1,8 @@
+- pkg:nuget/AspNetCore.WeixinOAuth@1.1.0-preview1-70325
+- pkg:nuget/AspNetCore.WeixinOAuth@1.1.1-alpha-70325
+- pkg:nuget/AspNetCore.WeixinOAuth@2.0.0-alpha-70820
+- pkg:nuget/AspNetCore.WeixinOAuth@2.0.0-alpha-71117
+- pkg:nuget/AspNetCore.WeixinOAuth@2.0.0-beta-71129
+- pkg:nuget/AspNetCore.WeixinOAuth@2.0.0-beta-71203
+- pkg:nuget/AspNetCore.WeixinOAuth@2.1.300-beta-80611
+- pkg:nuget/AspNetCore.WeixinOAuth@2.1.301

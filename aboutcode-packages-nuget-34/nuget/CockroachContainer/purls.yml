@@ -1,0 +1,5 @@
+- pkg:nuget/CockroachContainer@5.0.0
+- pkg:nuget/CockroachContainer@7.0.0
+- pkg:nuget/CockroachContainer@8.0.0
+- pkg:nuget/CockroachContainer@8.0.1
+- pkg:nuget/CockroachContainer@9.0.0

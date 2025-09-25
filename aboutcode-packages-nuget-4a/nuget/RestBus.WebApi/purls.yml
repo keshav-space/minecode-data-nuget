@@ -1,0 +1,12 @@
+- pkg:nuget/RestBus.WebApi@0.4.0-beta
+- pkg:nuget/RestBus.WebApi@0.4.2-beta
+- pkg:nuget/RestBus.WebApi@0.4.8-beta
+- pkg:nuget/RestBus.WebApi@0.5.0-beta
+- pkg:nuget/RestBus.WebApi@0.5.2-beta
+- pkg:nuget/RestBus.WebApi@0.5.3-beta
+- pkg:nuget/RestBus.WebApi@0.5.4-beta
+- pkg:nuget/RestBus.WebApi@0.5.5-beta
+- pkg:nuget/RestBus.WebApi@0.5.6-beta
+- pkg:nuget/RestBus.WebApi@0.5.6-rc1
+- pkg:nuget/RestBus.WebApi@0.5.7
+- pkg:nuget/RestBus.WebApi@0.5.8

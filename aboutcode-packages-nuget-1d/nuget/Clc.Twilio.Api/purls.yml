@@ -1,0 +1,3 @@
+- pkg:nuget/Clc.Twilio.Api@1.0.0
+- pkg:nuget/Clc.Twilio.Api@2.0.0-alpha
+- pkg:nuget/Clc.Twilio.Api@2.0.1-alpha

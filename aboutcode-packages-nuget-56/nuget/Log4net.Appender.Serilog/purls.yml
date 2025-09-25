@@ -1,0 +1,7 @@
+- pkg:nuget/Log4net.Appender.Serilog@1.0.0-Beta
+- pkg:nuget/Log4net.Appender.Serilog@1.0.0.3-Beta
+- pkg:nuget/Log4net.Appender.Serilog@1.0.11
+- pkg:nuget/Log4net.Appender.Serilog@1.0.7-Beta
+- pkg:nuget/Log4net.Appender.Serilog@1.0.9
+- pkg:nuget/Log4net.Appender.Serilog@1.2.0
+- pkg:nuget/Log4net.Appender.Serilog@2.0.0

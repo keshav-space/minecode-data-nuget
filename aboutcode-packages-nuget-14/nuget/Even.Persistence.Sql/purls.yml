@@ -1,0 +1,3 @@
+- pkg:nuget/Even.Persistence.Sql@0.0.2-alpha01
+- pkg:nuget/Even.Persistence.Sql@0.1.0
+- pkg:nuget/Even.Persistence.Sql@0.1.1

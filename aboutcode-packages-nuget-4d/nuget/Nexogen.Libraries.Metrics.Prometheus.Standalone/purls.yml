@@ -1,0 +1,9 @@
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@2.5.0
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@2.6.0
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@3.0.1
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@3.1.0-rc.1
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@3.2.0
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@3.2.0-rc.1
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@3.3.0
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@3.3.1
+- pkg:nuget/Nexogen.Libraries.Metrics.Prometheus.Standalone@3.3.2

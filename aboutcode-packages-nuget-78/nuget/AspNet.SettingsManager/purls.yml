@@ -1,0 +1,5 @@
+- pkg:nuget/AspNet.SettingsManager@1.0.1
+- pkg:nuget/AspNet.SettingsManager@1.1.0
+- pkg:nuget/AspNet.SettingsManager@1.2.0
+- pkg:nuget/AspNet.SettingsManager@1.3.0
+- pkg:nuget/AspNet.SettingsManager@1.3.1

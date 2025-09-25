@@ -1,0 +1,5 @@
+- pkg:nuget/FakeItEasy.AutoFake@1.0.1
+- pkg:nuget/FakeItEasy.AutoFake@1.0.2
+- pkg:nuget/FakeItEasy.AutoFake@2.0.0
+- pkg:nuget/FakeItEasy.AutoFake@3.0.0
+- pkg:nuget/FakeItEasy.AutoFake@3.1.0

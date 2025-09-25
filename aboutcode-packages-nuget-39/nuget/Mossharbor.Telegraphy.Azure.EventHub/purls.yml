@@ -1,0 +1,5 @@
+- pkg:nuget/Mossharbor.Telegraphy.Azure.EventHub@1.0.1
+- pkg:nuget/Mossharbor.Telegraphy.Azure.EventHub@2.0.0
+- pkg:nuget/Mossharbor.Telegraphy.Azure.EventHub@3.0.0
+- pkg:nuget/Mossharbor.Telegraphy.Azure.EventHub@3.0.1
+- pkg:nuget/Mossharbor.Telegraphy.Azure.EventHub@3.2.0

@@ -1,0 +1,9 @@
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.12.0
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.12.0-alpha.1
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.12.0-alpha.2
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.12.0-beta.1
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.12.1
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.12.2
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.12.2-beta.1
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.13.0
+- pkg:nuget/NClient.CodeGeneration.Facades.NSwag@0.13.0-beta.1

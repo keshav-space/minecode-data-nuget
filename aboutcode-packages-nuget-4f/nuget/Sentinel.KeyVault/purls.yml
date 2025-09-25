@@ -1,0 +1,4 @@
+- pkg:nuget/Sentinel.KeyVault@0.2.0-CI00009
+- pkg:nuget/Sentinel.KeyVault@0.2.0-CI00010
+- pkg:nuget/Sentinel.KeyVault@1.0.0
+- pkg:nuget/Sentinel.KeyVault@1.0.0-CI00000

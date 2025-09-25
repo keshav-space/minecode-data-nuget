@@ -1,0 +1,4 @@
+- pkg:nuget/LowKey.Data.MySql@0.0.2
+- pkg:nuget/LowKey.Data.MySql@0.0.2-merge.63
+- pkg:nuget/LowKey.Data.MySql@0.0.2-samples.61
+- pkg:nuget/LowKey.Data.MySql@0.0.2-samples.62

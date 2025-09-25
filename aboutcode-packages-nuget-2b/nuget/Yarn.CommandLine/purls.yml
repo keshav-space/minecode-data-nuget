@@ -1,0 +1,8 @@
+- pkg:nuget/Yarn.CommandLine@1.13.0
+- pkg:nuget/Yarn.CommandLine@1.13.0-rc1
+- pkg:nuget/Yarn.CommandLine@1.15.2
+- pkg:nuget/Yarn.CommandLine@1.16.0
+- pkg:nuget/Yarn.CommandLine@1.17.3
+- pkg:nuget/Yarn.CommandLine@1.19.1
+- pkg:nuget/Yarn.CommandLine@1.21.1
+- pkg:nuget/Yarn.CommandLine@1.22.4

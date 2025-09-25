@@ -1,0 +1,6 @@
+- pkg:nuget/Shawarma.AspNetCore.Hosting@1.0.0
+- pkg:nuget/Shawarma.AspNetCore.Hosting@1.0.0-alpha001
+- pkg:nuget/Shawarma.AspNetCore.Hosting@1.0.0-alpha002
+- pkg:nuget/Shawarma.AspNetCore.Hosting@2.0.0
+- pkg:nuget/Shawarma.AspNetCore.Hosting@2.0.1
+- pkg:nuget/Shawarma.AspNetCore.Hosting@2.1.0

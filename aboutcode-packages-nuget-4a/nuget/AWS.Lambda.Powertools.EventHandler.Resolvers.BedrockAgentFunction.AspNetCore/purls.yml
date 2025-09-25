@@ -1,0 +1,1 @@
+- pkg:nuget/AWS.Lambda.Powertools.EventHandler.Resolvers.BedrockAgentFunction.AspNetCore@1.0.0

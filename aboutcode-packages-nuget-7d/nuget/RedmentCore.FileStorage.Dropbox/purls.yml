@@ -1,0 +1,3 @@
+- pkg:nuget/RedmentCore.FileStorage.Dropbox@1.0.0
+- pkg:nuget/RedmentCore.FileStorage.Dropbox@6.1.0
+- pkg:nuget/RedmentCore.FileStorage.Dropbox@8.0.0

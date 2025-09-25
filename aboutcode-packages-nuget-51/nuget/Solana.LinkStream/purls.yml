@@ -1,0 +1,7 @@
+- pkg:nuget/Solana.LinkStream@1.0.0
+- pkg:nuget/Solana.LinkStream@1.0.0-NetStandard2.0
+- pkg:nuget/Solana.LinkStream@4.0.0
+- pkg:nuget/Solana.LinkStream@4.0.1
+- pkg:nuget/Solana.LinkStream@6.0.0
+- pkg:nuget/Solana.LinkStream@6.0.1
+- pkg:nuget/Solana.LinkStream@8.0.1

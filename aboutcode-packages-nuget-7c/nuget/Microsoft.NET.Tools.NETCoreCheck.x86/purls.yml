@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.NET.Tools.NETCoreCheck.x86@5.0.0
+- pkg:nuget/Microsoft.NET.Tools.NETCoreCheck.x86@6.0.0
+- pkg:nuget/Microsoft.NET.Tools.NETCoreCheck.x86@6.0.0-preview.1.21179.1
+- pkg:nuget/Microsoft.NET.Tools.NETCoreCheck.x86@7.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Sqlite.Database.Management@0.1.0
+- pkg:nuget/Sqlite.Database.Management@0.2.0
+- pkg:nuget/Sqlite.Database.Management@0.3.0
+- pkg:nuget/Sqlite.Database.Management@1.0.0
+- pkg:nuget/Sqlite.Database.Management@2.0.0
+- pkg:nuget/Sqlite.Database.Management@3.0.0

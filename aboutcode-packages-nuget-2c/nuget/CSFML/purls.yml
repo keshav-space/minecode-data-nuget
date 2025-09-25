@@ -1,0 +1,8 @@
+- pkg:nuget/CSFML@2.5.0
+- pkg:nuget/CSFML@2.5.1
+- pkg:nuget/CSFML@2.5.2
+- pkg:nuget/CSFML@2.6.0
+- pkg:nuget/CSFML@2.6.1
+- pkg:nuget/CSFML@3.0.0-rc.1
+- pkg:nuget/CSFML@3.0.0-rc.2
+- pkg:nuget/CSFML@3.0.0-rc.3

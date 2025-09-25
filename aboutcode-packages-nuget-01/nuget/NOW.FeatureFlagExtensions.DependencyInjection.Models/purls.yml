@@ -1,0 +1,4 @@
+- pkg:nuget/NOW.FeatureFlagExtensions.DependencyInjection.Models@1.0.0-preview001
+- pkg:nuget/NOW.FeatureFlagExtensions.DependencyInjection.Models@1.1.0-preview
+- pkg:nuget/NOW.FeatureFlagExtensions.DependencyInjection.Models@1.2.0-preview
+- pkg:nuget/NOW.FeatureFlagExtensions.DependencyInjection.Models@1.2.1-preview

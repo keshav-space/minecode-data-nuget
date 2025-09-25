@@ -1,0 +1,6 @@
+- pkg:nuget/Jones.EntityFrameworkCore@1.0.0
+- pkg:nuget/Jones.EntityFrameworkCore@2.0.0
+- pkg:nuget/Jones.EntityFrameworkCore@3.0.0
+- pkg:nuget/Jones.EntityFrameworkCore@3.0.1
+- pkg:nuget/Jones.EntityFrameworkCore@3.1.0
+- pkg:nuget/Jones.EntityFrameworkCore@3.1.1

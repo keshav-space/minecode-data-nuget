@@ -1,0 +1,6 @@
+- pkg:nuget/BlazorFluentValidation@1.0.0-beta
+- pkg:nuget/BlazorFluentValidation@1.0.1-beta
+- pkg:nuget/BlazorFluentValidation@1.0.2-beta
+- pkg:nuget/BlazorFluentValidation@1.0.3-beta
+- pkg:nuget/BlazorFluentValidation@1.0.4-beta
+- pkg:nuget/BlazorFluentValidation@2.0.0

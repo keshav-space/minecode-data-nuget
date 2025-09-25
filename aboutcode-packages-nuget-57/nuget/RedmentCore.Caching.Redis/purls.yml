@@ -1,0 +1,2 @@
+- pkg:nuget/RedmentCore.Caching.Redis@1.0.0
+- pkg:nuget/RedmentCore.Caching.Redis@6.1.0

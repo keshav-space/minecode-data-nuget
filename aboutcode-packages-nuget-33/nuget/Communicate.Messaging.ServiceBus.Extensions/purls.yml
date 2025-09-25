@@ -1,0 +1,5 @@
+- pkg:nuget/Communicate.Messaging.ServiceBus.Extensions@2.1.2
+- pkg:nuget/Communicate.Messaging.ServiceBus.Extensions@2.2.1
+- pkg:nuget/Communicate.Messaging.ServiceBus.Extensions@2.2.2
+- pkg:nuget/Communicate.Messaging.ServiceBus.Extensions@2.2.3
+- pkg:nuget/Communicate.Messaging.ServiceBus.Extensions@2.2.4

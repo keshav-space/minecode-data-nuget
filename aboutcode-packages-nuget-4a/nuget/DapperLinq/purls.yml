@@ -1,0 +1,4 @@
+- pkg:nuget/DapperLinq@1.0.0
+- pkg:nuget/DapperLinq@1.0.0-beta
+- pkg:nuget/DapperLinq@1.1.0
+- pkg:nuget/DapperLinq@1.1.0-beta

@@ -1,0 +1,4 @@
+- pkg:nuget/LowKey.Data.MultiTenancy.ClaimBased@0.0.1
+- pkg:nuget/LowKey.Data.MultiTenancy.ClaimBased@0.0.1-merge.63
+- pkg:nuget/LowKey.Data.MultiTenancy.ClaimBased@0.0.1-samples.61
+- pkg:nuget/LowKey.Data.MultiTenancy.ClaimBased@0.0.1-samples.62

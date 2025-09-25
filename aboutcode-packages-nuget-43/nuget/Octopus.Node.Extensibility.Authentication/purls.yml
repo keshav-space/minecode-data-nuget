@@ -1,0 +1,5 @@
+- pkg:nuget/Octopus.Node.Extensibility.Authentication@5.0.0
+- pkg:nuget/Octopus.Node.Extensibility.Authentication@6.0.0
+- pkg:nuget/Octopus.Node.Extensibility.Authentication@7.0.0
+- pkg:nuget/Octopus.Node.Extensibility.Authentication@8.0.0
+- pkg:nuget/Octopus.Node.Extensibility.Authentication@8.1.0

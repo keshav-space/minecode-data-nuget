@@ -1,0 +1,4 @@
+- pkg:nuget/RedmentCore.Caching.DistributedRedisCache@1.0.0
+- pkg:nuget/RedmentCore.Caching.DistributedRedisCache@6.1.0
+- pkg:nuget/RedmentCore.Caching.DistributedRedisCache@6.1.0.1
+- pkg:nuget/RedmentCore.Caching.DistributedRedisCache@8.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/StudioFreesia.CommandLineUtils.Template@0.0.0-local
+- pkg:nuget/StudioFreesia.CommandLineUtils.Template@0.1.0%2B13
+- pkg:nuget/StudioFreesia.CommandLineUtils.Template@0.1.1

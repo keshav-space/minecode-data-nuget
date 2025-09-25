@@ -1,0 +1,5 @@
+- pkg:nuget/RedmentCore.Data.EntityFramework.MySql@1.0.0
+- pkg:nuget/RedmentCore.Data.EntityFramework.MySql@1.0.1
+- pkg:nuget/RedmentCore.Data.EntityFramework.MySql@6.1.0
+- pkg:nuget/RedmentCore.Data.EntityFramework.MySql@6.1.1
+- pkg:nuget/RedmentCore.Data.EntityFramework.MySql@8.0.0

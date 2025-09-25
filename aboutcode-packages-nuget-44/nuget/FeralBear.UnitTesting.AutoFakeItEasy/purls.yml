@@ -1,0 +1,15 @@
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.0.1-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.0.2-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.0.3-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.1.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.10.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.11.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.12.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.2.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.3.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.4.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.6.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.7.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.8.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@0.9.0-beta
+- pkg:nuget/FeralBear.UnitTesting.AutoFakeItEasy@2.1.0-beta

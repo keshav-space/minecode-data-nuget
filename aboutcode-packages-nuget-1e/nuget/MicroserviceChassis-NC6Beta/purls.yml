@@ -1,0 +1,4 @@
+- pkg:nuget/MicroserviceChassis-NC6Beta@6.0.999-alpha
+- pkg:nuget/MicroserviceChassis-NC6Beta@6.1.0-alpha
+- pkg:nuget/MicroserviceChassis-NC6Beta@6.2.0-alpha
+- pkg:nuget/MicroserviceChassis-NC6Beta@6.3.0-alpha

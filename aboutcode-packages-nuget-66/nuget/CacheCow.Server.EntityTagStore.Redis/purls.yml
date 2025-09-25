@@ -1,0 +1,5 @@
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis@0.5.9-alpha
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis@0.6.3-beta
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis@0.6.6-beta
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis@1.0.0-beta
+- pkg:nuget/CacheCow.Server.EntityTagStore.Redis@1.1.0

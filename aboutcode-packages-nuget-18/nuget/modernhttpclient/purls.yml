@@ -1,0 +1,17 @@
+- pkg:nuget/modernhttpclient@1.1.0
+- pkg:nuget/modernhttpclient@1.2.0
+- pkg:nuget/modernhttpclient@1.2.1
+- pkg:nuget/modernhttpclient@1.2.2
+- pkg:nuget/modernhttpclient@2.0.0
+- pkg:nuget/modernhttpclient@2.0.1
+- pkg:nuget/modernhttpclient@2.1.0
+- pkg:nuget/modernhttpclient@2.1.1
+- pkg:nuget/modernhttpclient@2.1.2
+- pkg:nuget/modernhttpclient@2.1.3
+- pkg:nuget/modernhttpclient@2.1.4
+- pkg:nuget/modernhttpclient@2.1.5
+- pkg:nuget/modernhttpclient@2.2.0
+- pkg:nuget/modernhttpclient@2.3.0
+- pkg:nuget/modernhttpclient@2.4.0
+- pkg:nuget/modernhttpclient@2.4.1
+- pkg:nuget/modernhttpclient@2.4.2

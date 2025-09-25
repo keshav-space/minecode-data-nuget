@@ -1,0 +1,13 @@
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@1.0.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@1.1.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@2.0.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@2.1.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@2.2.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@2.3.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@3.0.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@3.0.1
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@3.1.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@3.1.1
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@4.0.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@4.1.0
+- pkg:nuget/Amazon.Lambda.Logging.AspNetCore@4.1.1

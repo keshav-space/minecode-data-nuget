@@ -1,0 +1,3 @@
+- pkg:nuget/M.YZ.Basement.Messaging.IdempotentConsumers.Store.Sql@6.0.101
+- pkg:nuget/M.YZ.Basement.Messaging.IdempotentConsumers.Store.Sql@6.0.101.1
+- pkg:nuget/M.YZ.Basement.Messaging.IdempotentConsumers.Store.Sql@6.0.2-beta.1
