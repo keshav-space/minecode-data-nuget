@@ -1,0 +1,5 @@
+- pkg:nuget/Neanic.Core@8.0.0
+- pkg:nuget/Neanic.Core@9.0.1
+- pkg:nuget/Neanic.Core@9.1.0-dev-2
+- pkg:nuget/Neanic.Core@9.1.0-dev-3
+- pkg:nuget/Neanic.Core@9.1.0-dev-4

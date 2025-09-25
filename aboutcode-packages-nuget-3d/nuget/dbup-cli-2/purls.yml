@@ -1,0 +1,5 @@
+- pkg:nuget/dbup-cli-2@2.0.0
+- pkg:nuget/dbup-cli-2@2.0.1
+- pkg:nuget/dbup-cli-2@3.0.0
+- pkg:nuget/dbup-cli-2@3.0.0-beta
+- pkg:nuget/dbup-cli-2@3.0.1

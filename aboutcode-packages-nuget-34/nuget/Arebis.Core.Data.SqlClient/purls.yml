@@ -1,0 +1,3 @@
+- pkg:nuget/Arebis.Core.Data.SqlClient@6.1.0
+- pkg:nuget/Arebis.Core.Data.SqlClient@6.1.1
+- pkg:nuget/Arebis.Core.Data.SqlClient@8.0.0

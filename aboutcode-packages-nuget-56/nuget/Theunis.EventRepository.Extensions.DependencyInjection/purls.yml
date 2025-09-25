@@ -1,0 +1,5 @@
+- pkg:nuget/Theunis.EventRepository.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/Theunis.EventRepository.Extensions.DependencyInjection@2.0.0
+- pkg:nuget/Theunis.EventRepository.Extensions.DependencyInjection@3.0.0
+- pkg:nuget/Theunis.EventRepository.Extensions.DependencyInjection@4.0.0
+- pkg:nuget/Theunis.EventRepository.Extensions.DependencyInjection@9.0.0

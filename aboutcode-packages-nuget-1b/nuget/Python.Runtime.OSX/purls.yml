@@ -1,0 +1,10 @@
+- pkg:nuget/Python.Runtime.OSX@2.7.1
+- pkg:nuget/Python.Runtime.OSX@2.7.2
+- pkg:nuget/Python.Runtime.OSX@3.5.1
+- pkg:nuget/Python.Runtime.OSX@3.5.2
+- pkg:nuget/Python.Runtime.OSX@3.6.0
+- pkg:nuget/Python.Runtime.OSX@3.6.1
+- pkg:nuget/Python.Runtime.OSX@3.6.2
+- pkg:nuget/Python.Runtime.OSX@3.7.0
+- pkg:nuget/Python.Runtime.OSX@3.7.1
+- pkg:nuget/Python.Runtime.OSX@3.7.2

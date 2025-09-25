@@ -1,0 +1,6 @@
+- pkg:nuget/FastCSharp.CircuitBreaker@0.0.0-alpha
+- pkg:nuget/FastCSharp.CircuitBreaker@0.1.0
+- pkg:nuget/FastCSharp.CircuitBreaker@0.2.0
+- pkg:nuget/FastCSharp.CircuitBreaker@1.0.0
+- pkg:nuget/FastCSharp.CircuitBreaker@1.2.0
+- pkg:nuget/FastCSharp.CircuitBreaker@2.1.0

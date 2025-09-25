@@ -1,0 +1,9 @@
+- pkg:nuget/AspNetCore.UnquotedJson@0.0.1
+- pkg:nuget/AspNetCore.UnquotedJson@0.0.2
+- pkg:nuget/AspNetCore.UnquotedJson@0.0.3
+- pkg:nuget/AspNetCore.UnquotedJson@1.0.22
+- pkg:nuget/AspNetCore.UnquotedJson@1.0.23
+- pkg:nuget/AspNetCore.UnquotedJson@1.0.24
+- pkg:nuget/AspNetCore.UnquotedJson@1.0.25
+- pkg:nuget/AspNetCore.UnquotedJson@1.0.26
+- pkg:nuget/AspNetCore.UnquotedJson@1.0.27

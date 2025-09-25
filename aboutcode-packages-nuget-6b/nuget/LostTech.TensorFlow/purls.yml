@@ -1,0 +1,12 @@
+- pkg:nuget/LostTech.TensorFlow@1.15.0
+- pkg:nuget/LostTech.TensorFlow@1.15.0-CI-20200813-001
+- pkg:nuget/LostTech.TensorFlow@1.15.0-CI-20201020-001
+- pkg:nuget/LostTech.TensorFlow@1.15.0-RC0
+- pkg:nuget/LostTech.TensorFlow@1.15.0-RC1
+- pkg:nuget/LostTech.TensorFlow@2.4.1-preview1
+- pkg:nuget/LostTech.TensorFlow@2.5.0-b0
+- pkg:nuget/LostTech.TensorFlow@2.5.0-preview1
+- pkg:nuget/LostTech.TensorFlow@2.5.0-preview2
+- pkg:nuget/LostTech.TensorFlow@2.5.0-preview3-a0
+- pkg:nuget/LostTech.TensorFlow@2.5.0-preview4
+- pkg:nuget/LostTech.TensorFlow@2.5.0-rc1

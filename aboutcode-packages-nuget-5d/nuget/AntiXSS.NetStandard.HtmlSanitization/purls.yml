@@ -1,0 +1,6 @@
+- pkg:nuget/AntiXSS.NetStandard.HtmlSanitization@0.1.111
+- pkg:nuget/AntiXSS.NetStandard.HtmlSanitization@0.1.125
+- pkg:nuget/AntiXSS.NetStandard.HtmlSanitization@0.1.87
+- pkg:nuget/AntiXSS.NetStandard.HtmlSanitization@0.2.0
+- pkg:nuget/AntiXSS.NetStandard.HtmlSanitization@0.2.1
+- pkg:nuget/AntiXSS.NetStandard.HtmlSanitization@0.2.1-beta.1

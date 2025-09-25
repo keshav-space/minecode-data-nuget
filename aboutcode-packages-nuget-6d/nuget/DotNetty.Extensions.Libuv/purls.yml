@@ -1,0 +1,2 @@
+- pkg:nuget/DotNetty.Extensions.Libuv@1.0.0
+- pkg:nuget/DotNetty.Extensions.Libuv@2.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Dispatching.EventHubs@4.0.0
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Dispatching.EventHubs@4.0.0-rc4
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Dispatching.EventHubs@5.0.0
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Dispatching.EventHubs@5.1.0
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Dispatching.EventHubs@5.1.1
+- pkg:nuget/MessageHandler.Runtime.AtomicProcessing.Dispatching.EventHubs@5.1.2

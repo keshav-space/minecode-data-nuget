@@ -1,0 +1,6 @@
+- pkg:nuget/SSavel.V8Utils.Windows@0.5.0-prerelease
+- pkg:nuget/SSavel.V8Utils.Windows@0.6.0-prerelease
+- pkg:nuget/SSavel.V8Utils.Windows@0.7.0-RC1
+- pkg:nuget/SSavel.V8Utils.Windows@0.8.0-RC1
+- pkg:nuget/SSavel.V8Utils.Windows@0.8.0-RC2
+- pkg:nuget/SSavel.V8Utils.Windows@0.8.0-RC3

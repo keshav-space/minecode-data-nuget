@@ -1,0 +1,4 @@
+- pkg:nuget/Arcus.Templates.AzureFunctions.ServiceBus.Queue@0.8.0
+- pkg:nuget/Arcus.Templates.AzureFunctions.ServiceBus.Queue@1.0.0
+- pkg:nuget/Arcus.Templates.AzureFunctions.ServiceBus.Queue@1.1.0
+- pkg:nuget/Arcus.Templates.AzureFunctions.ServiceBus.Queue@2.0.0

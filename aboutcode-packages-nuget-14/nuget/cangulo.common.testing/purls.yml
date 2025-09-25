@@ -1,0 +1,4 @@
+- pkg:nuget/cangulo.common.testing@0.0.0.1-beta
+- pkg:nuget/cangulo.common.testing@0.0.1-beta
+- pkg:nuget/cangulo.common.testing@0.0.2-beta
+- pkg:nuget/cangulo.common.testing@1.0.0-alpha

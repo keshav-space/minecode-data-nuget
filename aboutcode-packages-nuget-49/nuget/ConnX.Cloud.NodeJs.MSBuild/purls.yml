@@ -1,0 +1,6 @@
+- pkg:nuget/ConnX.Cloud.NodeJs.MSBuild@1.0.0
+- pkg:nuget/ConnX.Cloud.NodeJs.MSBuild@1.0.11-beta-ge9eea0448e
+- pkg:nuget/ConnX.Cloud.NodeJs.MSBuild@1.1.2-alpha-gaa61902573
+- pkg:nuget/ConnX.Cloud.NodeJs.MSBuild@1.2.3-alpha-g0058820a8d
+- pkg:nuget/ConnX.Cloud.NodeJs.MSBuild@1.2.4
+- pkg:nuget/ConnX.Cloud.NodeJs.MSBuild@1.3.2-alpha-g978f1b8879

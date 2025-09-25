@@ -1,0 +1,2 @@
+- pkg:nuget/Micro.Serilog.Sinks.RabbitMQ@1.0.0
+- pkg:nuget/Micro.Serilog.Sinks.RabbitMQ@1.0.1

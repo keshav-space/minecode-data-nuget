@@ -1,0 +1,3 @@
+- pkg:nuget/APF.Test.Core@8.0.0-Test
+- pkg:nuget/APF.Test.Core@8.0.0-Test-Dev
+- pkg:nuget/APF.Test.Core@8.0.0-Test-Prod

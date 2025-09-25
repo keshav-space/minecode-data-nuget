@@ -1,0 +1,5 @@
+- pkg:nuget/Speedy.EntityFrameworkCore@4.4.15-RC2
+- pkg:nuget/Speedy.EntityFrameworkCore@4.4.16-RC2
+- pkg:nuget/Speedy.EntityFrameworkCore@4.4.17-RC2
+- pkg:nuget/Speedy.EntityFrameworkCore@4.4.18-RC2
+- pkg:nuget/Speedy.EntityFrameworkCore@4.4.19

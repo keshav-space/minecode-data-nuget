@@ -1,0 +1,8 @@
+- pkg:nuget/FastCSharp.Publisher@0.0.0-alpha
+- pkg:nuget/FastCSharp.Publisher@0.1.0-alpha
+- pkg:nuget/FastCSharp.Publisher@0.2.0-alpha
+- pkg:nuget/FastCSharp.Publisher@0.2.1-alpha
+- pkg:nuget/FastCSharp.Publisher@1.0.0
+- pkg:nuget/FastCSharp.Publisher@2.1.0
+- pkg:nuget/FastCSharp.Publisher@2.2.0
+- pkg:nuget/FastCSharp.Publisher@2.3.0

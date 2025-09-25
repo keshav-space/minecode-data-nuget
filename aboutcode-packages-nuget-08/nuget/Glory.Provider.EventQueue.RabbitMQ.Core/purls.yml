@@ -1,0 +1,2 @@
+- pkg:nuget/Glory.Provider.EventQueue.RabbitMQ.Core@0.9.1
+- pkg:nuget/Glory.Provider.EventQueue.RabbitMQ.Core@0.9.3

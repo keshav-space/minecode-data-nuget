@@ -1,0 +1,2 @@
+- pkg:nuget/OpenTelemetry.ResourceDetectors.AWS@1.3.0-beta.1
+- pkg:nuget/OpenTelemetry.ResourceDetectors.AWS@1.4.0-beta.1

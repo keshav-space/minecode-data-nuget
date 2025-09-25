@@ -1,0 +1,6 @@
+- pkg:nuget/FastCSharp.Subscriber@0.0.0-alpha
+- pkg:nuget/FastCSharp.Subscriber@1.0.0
+- pkg:nuget/FastCSharp.Subscriber@2.0.0
+- pkg:nuget/FastCSharp.Subscriber@2.1.0
+- pkg:nuget/FastCSharp.Subscriber@2.2.0
+- pkg:nuget/FastCSharp.Subscriber@2.3.0

@@ -1,0 +1,7 @@
+- pkg:nuget/PTI.Microservices.Library.AzureBlobStorage@2.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.AzureBlobStorage@2.0.0.1-preview
+- pkg:nuget/PTI.Microservices.Library.AzureBlobStorage@2.0.0.2-preview
+- pkg:nuget/PTI.Microservices.Library.AzureBlobStorage@2.0.0.3-preview
+- pkg:nuget/PTI.Microservices.Library.AzureBlobStorage@6.0.0-preview
+- pkg:nuget/PTI.Microservices.Library.AzureBlobStorage@7.0.0
+- pkg:nuget/PTI.Microservices.Library.AzureBlobStorage@7.0.0.1

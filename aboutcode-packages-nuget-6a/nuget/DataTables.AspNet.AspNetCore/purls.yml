@@ -1,0 +1,5 @@
+- pkg:nuget/DataTables.AspNet.AspNetCore@2.0.0
+- pkg:nuget/DataTables.AspNet.AspNetCore@2.0.0-beta3
+- pkg:nuget/DataTables.AspNet.AspNetCore@2.0.2
+- pkg:nuget/DataTables.AspNet.AspNetCore@3.0.0-preview.18
+- pkg:nuget/DataTables.AspNet.AspNetCore@3.0.0-preview.19

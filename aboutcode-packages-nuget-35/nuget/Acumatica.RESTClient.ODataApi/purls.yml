@@ -1,0 +1,13 @@
+- pkg:nuget/Acumatica.RESTClient.ODataApi@3.0.0-alpha
+- pkg:nuget/Acumatica.RESTClient.ODataApi@3.2.0
+- pkg:nuget/Acumatica.RESTClient.ODataApi@3.2.1
+- pkg:nuget/Acumatica.RESTClient.ODataApi@3.3.0
+- pkg:nuget/Acumatica.RESTClient.ODataApi@3.5.0
+- pkg:nuget/Acumatica.RESTClient.ODataApi@4.0.4-alpha
+- pkg:nuget/Acumatica.RESTClient.ODataApi@4.1.0
+- pkg:nuget/Acumatica.RESTClient.ODataApi@4.2.0
+- pkg:nuget/Acumatica.RESTClient.ODataApi@5.0.0-alpha
+- pkg:nuget/Acumatica.RESTClient.ODataApi@5.1.0-beta
+- pkg:nuget/Acumatica.RESTClient.ODataApi@5.2.1-beta
+- pkg:nuget/Acumatica.RESTClient.ODataApi@5.3.0
+- pkg:nuget/Acumatica.RESTClient.ODataApi@5.4.0

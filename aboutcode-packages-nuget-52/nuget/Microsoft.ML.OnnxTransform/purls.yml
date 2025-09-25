@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.ML.OnnxTransform@0.10.0
+- pkg:nuget/Microsoft.ML.OnnxTransform@0.6.0
+- pkg:nuget/Microsoft.ML.OnnxTransform@0.7.0
+- pkg:nuget/Microsoft.ML.OnnxTransform@0.8.0
+- pkg:nuget/Microsoft.ML.OnnxTransform@0.9.0

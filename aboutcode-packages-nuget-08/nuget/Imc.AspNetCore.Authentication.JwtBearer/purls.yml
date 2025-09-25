@@ -1,0 +1,2 @@
+- pkg:nuget/Imc.AspNetCore.Authentication.JwtBearer@1.0.0
+- pkg:nuget/Imc.AspNetCore.Authentication.JwtBearer@1.0.1

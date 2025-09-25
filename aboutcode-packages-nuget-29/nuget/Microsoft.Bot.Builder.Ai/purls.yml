@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Bot.Builder.Ai@4.0.0-alpha201802123
+- pkg:nuget/Microsoft.Bot.Builder.Ai@4.0.0-alpha20180221
+- pkg:nuget/Microsoft.Bot.Builder.Ai@4.0.0-alpha2018031101
+- pkg:nuget/Microsoft.Bot.Builder.Ai@4.0.0-alpha2018031301

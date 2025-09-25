@@ -1,0 +1,5 @@
+- pkg:nuget/Psi.Domain.Abstractions.Entity@1.0.0
+- pkg:nuget/Psi.Domain.Abstractions.Entity@1.0.0.1
+- pkg:nuget/Psi.Domain.Abstractions.Entity@1.0.0.2
+- pkg:nuget/Psi.Domain.Abstractions.Entity@2.0.0
+- pkg:nuget/Psi.Domain.Abstractions.Entity@3.0.0

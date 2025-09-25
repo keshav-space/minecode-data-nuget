@@ -1,0 +1,4 @@
+- pkg:nuget/Dapper.Encrypt@2.0.0-g
+- pkg:nuget/Dapper.Encrypt@2.1.0-g
+- pkg:nuget/Dapper.Encrypt@2.1.1-g
+- pkg:nuget/Dapper.Encrypt@2.1.2-g

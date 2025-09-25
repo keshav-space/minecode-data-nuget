@@ -1,0 +1,5 @@
+- pkg:nuget/Brandgroup.SerilogExtensions2.Sinks.MySql@1.0.0
+- pkg:nuget/Brandgroup.SerilogExtensions2.Sinks.MySql@1.0.1
+- pkg:nuget/Brandgroup.SerilogExtensions2.Sinks.MySql@1.1.0
+- pkg:nuget/Brandgroup.SerilogExtensions2.Sinks.MySql@1.1.1
+- pkg:nuget/Brandgroup.SerilogExtensions2.Sinks.MySql@1.1.2

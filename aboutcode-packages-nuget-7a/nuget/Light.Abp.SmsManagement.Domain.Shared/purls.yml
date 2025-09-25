@@ -1,0 +1,5 @@
+- pkg:nuget/Light.Abp.SmsManagement.Domain.Shared@2.3.0
+- pkg:nuget/Light.Abp.SmsManagement.Domain.Shared@2.3.1
+- pkg:nuget/Light.Abp.SmsManagement.Domain.Shared@2.7.0
+- pkg:nuget/Light.Abp.SmsManagement.Domain.Shared@3.0.4
+- pkg:nuget/Light.Abp.SmsManagement.Domain.Shared@3.1.2

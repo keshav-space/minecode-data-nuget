@@ -1,0 +1,2 @@
+- pkg:nuget/DependencyOfDependency@1.0.0
+- pkg:nuget/DependencyOfDependency@3.0.0

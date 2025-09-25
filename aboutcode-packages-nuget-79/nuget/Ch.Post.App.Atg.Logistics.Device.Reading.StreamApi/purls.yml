@@ -1,0 +1,6 @@
+- pkg:nuget/Ch.Post.App.Atg.Logistics.Device.Reading.StreamApi@0.2.0
+- pkg:nuget/Ch.Post.App.Atg.Logistics.Device.Reading.StreamApi@0.2.0-feature-define-api.2
+- pkg:nuget/Ch.Post.App.Atg.Logistics.Device.Reading.StreamApi@0.2.0-feature-define-api.3
+- pkg:nuget/Ch.Post.App.Atg.Logistics.Device.Reading.StreamApi@0.2.1
+- pkg:nuget/Ch.Post.App.Atg.Logistics.Device.Reading.StreamApi@0.2.1-fix-remove-leading-slash-in-topicpath.1
+- pkg:nuget/Ch.Post.App.Atg.Logistics.Device.Reading.StreamApi@0.2.2

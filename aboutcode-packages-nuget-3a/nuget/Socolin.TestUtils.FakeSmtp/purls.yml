@@ -1,0 +1,4 @@
+- pkg:nuget/Socolin.TestUtils.FakeSmtp@1.0.0
+- pkg:nuget/Socolin.TestUtils.FakeSmtp@1.0.1
+- pkg:nuget/Socolin.TestUtils.FakeSmtp@1.0.2
+- pkg:nuget/Socolin.TestUtils.FakeSmtp@1.0.3

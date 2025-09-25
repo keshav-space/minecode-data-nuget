@@ -1,0 +1,4 @@
+- pkg:nuget/42.Monorepo.GitVersioning@1.0.1
+- pkg:nuget/42.Monorepo.GitVersioning@1.0.2
+- pkg:nuget/42.Monorepo.GitVersioning@1.1.1
+- pkg:nuget/42.Monorepo.GitVersioning@1.2.3

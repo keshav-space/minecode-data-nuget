@@ -1,0 +1,3 @@
+- pkg:nuget/Jmg.AspNetCore.TypedRouting@0.0.0-bootstrap
+- pkg:nuget/Jmg.AspNetCore.TypedRouting@0.0.1-bootstrap
+- pkg:nuget/Jmg.AspNetCore.TypedRouting@0.0.2-bootstrap

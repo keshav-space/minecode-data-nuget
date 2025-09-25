@@ -1,0 +1,9 @@
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0.1
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0.1-alpha
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0.2
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0.2-alpha
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0.2-alpha2
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0.2-alpha3
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0.2-alpha4
+- pkg:nuget/MyNuGetTestingLibrary@1.0.0.2-alpha5
