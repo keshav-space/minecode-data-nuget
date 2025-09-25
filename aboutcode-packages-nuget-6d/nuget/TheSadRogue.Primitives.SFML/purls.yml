@@ -1,0 +1,16 @@
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-alpha1
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-alpha1-debug
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-alpha2
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-alpha2-debug
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-alpha3
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-alpha3-debug
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-alpha4
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-alpha4-debug
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.0-debug
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.1
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.0.1-debug
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.1.0
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.1.0-debug
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.1.1
+- pkg:nuget/TheSadRogue.Primitives.SFML@1.1.1-debug

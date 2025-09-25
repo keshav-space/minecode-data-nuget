@@ -1,0 +1,16 @@
+- pkg:nuget/Rebus.AzureQueues@0.2.0
+- pkg:nuget/Rebus.AzureQueues@0.3.0
+- pkg:nuget/Rebus.AzureQueues@0.4.0
+- pkg:nuget/Rebus.AzureQueues@0.5.0
+- pkg:nuget/Rebus.AzureQueues@0.6.0
+- pkg:nuget/Rebus.AzureQueues@1.0.0
+- pkg:nuget/Rebus.AzureQueues@1.1.0
+- pkg:nuget/Rebus.AzureQueues@2.0.0
+- pkg:nuget/Rebus.AzureQueues@2.0.1
+- pkg:nuget/Rebus.AzureQueues@3.0.0
+- pkg:nuget/Rebus.AzureQueues@3.0.0-b1
+- pkg:nuget/Rebus.AzureQueues@3.1.0
+- pkg:nuget/Rebus.AzureQueues@4.0.0
+- pkg:nuget/Rebus.AzureQueues@4.0.0-alpha01
+- pkg:nuget/Rebus.AzureQueues@4.0.0-alpha02
+- pkg:nuget/Rebus.AzureQueues@4.0.0-alpha03

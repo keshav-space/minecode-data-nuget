@@ -1,0 +1,4 @@
+- pkg:nuget/ManagePackageSource@0.0.2
+- pkg:nuget/ManagePackageSource@0.1.0
+- pkg:nuget/ManagePackageSource@0.1.0.12
+- pkg:nuget/ManagePackageSource@0.1.0.14

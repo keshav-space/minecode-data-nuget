@@ -1,0 +1,11 @@
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@1.1.1-ci0009
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@1.1.1-ci0010
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@1.1.1-ci0014
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@1.1.1-ci0015
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@1.1.1-ci0016
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@2.0.0
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@2.0.1
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@2.0.1-ci0002
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@2.0.2-ci0002
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@2.0.2-ci0003
+- pkg:nuget/Serilog.Sinks.NamedPipe.Factories@3.0.0

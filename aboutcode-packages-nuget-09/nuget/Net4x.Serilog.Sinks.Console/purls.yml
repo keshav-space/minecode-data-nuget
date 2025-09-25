@@ -1,0 +1,4 @@
+- pkg:nuget/Net4x.Serilog.Sinks.Console@4.1.1
+- pkg:nuget/Net4x.Serilog.Sinks.Console@4.1.1-at20230411064343
+- pkg:nuget/Net4x.Serilog.Sinks.Console@4.1.1-at20230501050759
+- pkg:nuget/Net4x.Serilog.Sinks.Console@4.2.0

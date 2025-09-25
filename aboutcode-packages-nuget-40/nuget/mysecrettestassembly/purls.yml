@@ -1,0 +1,5 @@
+- pkg:nuget/mysecrettestassembly@1.0.0
+- pkg:nuget/mysecrettestassembly@2.0.0
+- pkg:nuget/mysecrettestassembly@3.0.0
+- pkg:nuget/mysecrettestassembly@34.0.0
+- pkg:nuget/mysecrettestassembly@4.0.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Build.Versioning@0.1.0-pre-10
+- pkg:nuget/Build.Versioning@0.1.0-pre-9
+- pkg:nuget/Build.Versioning@0.2.0-pre
+- pkg:nuget/Build.Versioning@0.2.0-pre-4

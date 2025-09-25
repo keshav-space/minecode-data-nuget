@@ -1,0 +1,17 @@
+- pkg:nuget/Rsk.Enforcer.AspNetCore@1.0.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@1.1.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@1.2.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@1.2.0-beta1
+- pkg:nuget/Rsk.Enforcer.AspNetCore@1.4.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@1.4.1
+- pkg:nuget/Rsk.Enforcer.AspNetCore@1.4.2
+- pkg:nuget/Rsk.Enforcer.AspNetCore@2.0.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@2.1.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@3.0.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@3.0.1
+- pkg:nuget/Rsk.Enforcer.AspNetCore@3.0.2
+- pkg:nuget/Rsk.Enforcer.AspNetCore@4.0.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@4.1.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@5.0.0
+- pkg:nuget/Rsk.Enforcer.AspNetCore@5.0.0-preview2
+- pkg:nuget/Rsk.Enforcer.AspNetCore@5.1.0

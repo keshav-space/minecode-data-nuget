@@ -1,0 +1,14 @@
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.1.302.33
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.2.502.25
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.2.502.26
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.3.492.10
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.3.492.27
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.4.110
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.4.288.28
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.5.288.23
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.5.288.31
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.6.303.29
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.6.303.7
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.7.299.2
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.7.299.4
+- pkg:nuget/v8.Full.symbols.v141_clang-x64@7.8.102

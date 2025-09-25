@@ -1,0 +1,11 @@
+- pkg:nuget/MongoInMemory@1.19.9.10
+- pkg:nuget/MongoInMemory@1.19.9.11
+- pkg:nuget/MongoInMemory@1.19.9.12
+- pkg:nuget/MongoInMemory@1.19.9.13
+- pkg:nuget/MongoInMemory@1.19.9.14
+- pkg:nuget/MongoInMemory@1.19.9.7
+- pkg:nuget/MongoInMemory@1.19.9.8
+- pkg:nuget/MongoInMemory@1.19.9.9
+- pkg:nuget/MongoInMemory@1.20.3.1
+- pkg:nuget/MongoInMemory@1.20.3.2
+- pkg:nuget/MongoInMemory@1.20.3.3

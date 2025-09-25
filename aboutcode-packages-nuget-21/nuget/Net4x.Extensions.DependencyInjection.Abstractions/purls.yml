@@ -1,0 +1,4 @@
+- pkg:nuget/Net4x.Extensions.DependencyInjection.Abstractions@1.0.3
+- pkg:nuget/Net4x.Extensions.DependencyInjection.Abstractions@2.2.1-at20230411061659
+- pkg:nuget/Net4x.Extensions.DependencyInjection.Abstractions@2.3.0
+- pkg:nuget/Net4x.Extensions.DependencyInjection.Abstractions@2.5.0

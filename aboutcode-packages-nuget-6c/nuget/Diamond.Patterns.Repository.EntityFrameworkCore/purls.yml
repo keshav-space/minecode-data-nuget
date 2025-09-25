@@ -1,0 +1,4 @@
+- pkg:nuget/Diamond.Patterns.Repository.EntityFrameworkCore@2.12.0
+- pkg:nuget/Diamond.Patterns.Repository.EntityFrameworkCore@2.13.0
+- pkg:nuget/Diamond.Patterns.Repository.EntityFrameworkCore@2.14.0
+- pkg:nuget/Diamond.Patterns.Repository.EntityFrameworkCore@2.16.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Net4x.Extensions.Logging.Abstractions@2.2.0
+- pkg:nuget/Net4x.Extensions.Logging.Abstractions@2.2.1-at20230411061704
+- pkg:nuget/Net4x.Extensions.Logging.Abstractions@2.3.0
+- pkg:nuget/Net4x.Extensions.Logging.Abstractions@2.3.0-at20230501051547
+- pkg:nuget/Net4x.Extensions.Logging.Abstractions@2.5.0

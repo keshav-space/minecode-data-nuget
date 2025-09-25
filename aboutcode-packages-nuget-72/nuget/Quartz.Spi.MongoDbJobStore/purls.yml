@@ -1,0 +1,14 @@
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@1.0.15
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@1.0.17
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@1.0.21
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@1.0.22
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@2.0.0
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@3.0.1
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@3.0.3
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@3.0.4
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@3.0.5
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@3.1.0
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@4.0.0-preview.1
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@4.0.0-preview.2
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@4.0.0-preview.3
+- pkg:nuget/Quartz.Spi.MongoDbJobStore@4.0.0-preview.9

@@ -1,0 +1,6 @@
+- pkg:nuget/Net4x.AspNetCore.JsonPatch@2.2.0
+- pkg:nuget/Net4x.AspNetCore.JsonPatch@2.2.1-at20230409083001
+- pkg:nuget/Net4x.AspNetCore.JsonPatch@2.2.1-at20230411061658
+- pkg:nuget/Net4x.AspNetCore.JsonPatch@2.3.0
+- pkg:nuget/Net4x.AspNetCore.JsonPatch@2.3.0-at20230430063241
+- pkg:nuget/Net4x.AspNetCore.JsonPatch@2.5.0

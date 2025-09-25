@@ -1,0 +1,9 @@
+- pkg:nuget/Module.WebApi@0.0.1-alpha
+- pkg:nuget/Module.WebApi@0.0.2-alpha
+- pkg:nuget/Module.WebApi@0.0.2.1-alpha
+- pkg:nuget/Module.WebApi@0.0.3-beta
+- pkg:nuget/Module.WebApi@0.0.4-beta
+- pkg:nuget/Module.WebApi@0.0.4.1-beta
+- pkg:nuget/Module.WebApi@0.0.4.2-beta
+- pkg:nuget/Module.WebApi@0.0.4.3-beta
+- pkg:nuget/Module.WebApi@0.0.4.4-beta

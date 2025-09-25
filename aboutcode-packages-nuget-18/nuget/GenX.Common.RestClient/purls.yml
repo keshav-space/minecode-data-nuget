@@ -1,0 +1,3 @@
+- pkg:nuget/GenX.Common.RestClient@2.0.0
+- pkg:nuget/GenX.Common.RestClient@3.0.0
+- pkg:nuget/GenX.Common.RestClient@3.0.1

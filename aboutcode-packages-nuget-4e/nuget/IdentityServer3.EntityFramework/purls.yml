@@ -1,0 +1,13 @@
+- pkg:nuget/IdentityServer3.EntityFramework@2.0.0
+- pkg:nuget/IdentityServer3.EntityFramework@2.0.0-beta1
+- pkg:nuget/IdentityServer3.EntityFramework@2.0.0-beta2
+- pkg:nuget/IdentityServer3.EntityFramework@2.0.0-rc1
+- pkg:nuget/IdentityServer3.EntityFramework@2.2.0
+- pkg:nuget/IdentityServer3.EntityFramework@2.3.0
+- pkg:nuget/IdentityServer3.EntityFramework@2.4.0
+- pkg:nuget/IdentityServer3.EntityFramework@2.4.1
+- pkg:nuget/IdentityServer3.EntityFramework@2.4.2
+- pkg:nuget/IdentityServer3.EntityFramework@2.5.0
+- pkg:nuget/IdentityServer3.EntityFramework@2.5.1
+- pkg:nuget/IdentityServer3.EntityFramework@2.6.0
+- pkg:nuget/IdentityServer3.EntityFramework@2.6.1

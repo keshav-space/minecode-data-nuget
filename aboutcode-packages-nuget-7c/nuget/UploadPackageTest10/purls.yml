@@ -1,0 +1,6 @@
+- pkg:nuget/UploadPackageTest10@1.0.0
+- pkg:nuget/UploadPackageTest10@1.0.0-beta001
+- pkg:nuget/UploadPackageTest10@1.0.0-beta002
+- pkg:nuget/UploadPackageTest10@1.0.0-beta003
+- pkg:nuget/UploadPackageTest10@1.0.1
+- pkg:nuget/UploadPackageTest10@1.0.2

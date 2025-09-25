@@ -1,0 +1,14 @@
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2020.2.2210.20
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2020.3.2307.19
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2020.3.2311.24
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2020.3.2311.8
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.0.2403.18
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.1.2408.28
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.2.2409.19
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.3.2410.28
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.3.2411.13
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.3.2411.7
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.3.2412.5
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.4.2503.21
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.4.2504.8
+- pkg:nuget/Novalys.VisualGuard.Security.VGIdentityServerClient@2024.5.2507.29

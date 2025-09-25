@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Memory.Sqlite@0.10.72.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Memory.Sqlite@0.8.11.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Memory.Sqlite@0.8.40.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Memory.Sqlite@0.8.48.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Memory.Sqlite@0.8.56.1-preview
+- pkg:nuget/Microsoft.SemanticKernel.Skills.Memory.Sqlite@0.9.61.1-preview

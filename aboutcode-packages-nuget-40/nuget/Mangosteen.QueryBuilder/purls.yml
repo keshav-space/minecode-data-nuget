@@ -1,0 +1,16 @@
+- pkg:nuget/Mangosteen.QueryBuilder@0.1.2-alpha
+- pkg:nuget/Mangosteen.QueryBuilder@0.1.2-beta
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.0-alpha
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.1-alpha
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.1-beta
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.1-beta2
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.2
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.2-dynamic-sql
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.3
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.4
+- pkg:nuget/Mangosteen.QueryBuilder@0.2.5
+- pkg:nuget/Mangosteen.QueryBuilder@0.3.0
+- pkg:nuget/Mangosteen.QueryBuilder@0.3.0-rc1
+- pkg:nuget/Mangosteen.QueryBuilder@0.3.1
+- pkg:nuget/Mangosteen.QueryBuilder@0.3.3
+- pkg:nuget/Mangosteen.QueryBuilder@0.3.3-icon

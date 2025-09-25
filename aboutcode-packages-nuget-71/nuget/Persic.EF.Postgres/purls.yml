@@ -1,0 +1,12 @@
+- pkg:nuget/Persic.EF.Postgres@2025.103.125.1-ef-postgres
+- pkg:nuget/Persic.EF.Postgres@2025.103.126.2
+- pkg:nuget/Persic.EF.Postgres@2025.104.107.3-v0.4
+- pkg:nuget/Persic.EF.Postgres@2025.104.107.4-v0.3
+- pkg:nuget/Persic.EF.Postgres@2025.104.108.5
+- pkg:nuget/Persic.EF.Postgres@2025.104.130.6
+- pkg:nuget/Persic.EF.Postgres@2025.104.130.7-v0.4
+- pkg:nuget/Persic.EF.Postgres@2025.105.122.8-postgres-search-playground
+- pkg:nuget/Persic.EF.Postgres@2025.105.122.9
+- pkg:nuget/Persic.EF.Postgres@2025.105.129.10
+- pkg:nuget/Persic.EF.Postgres@2025.106.102.11
+- pkg:nuget/Persic.EF.Postgres@2025.106.102.12-v0.5

@@ -1,0 +1,5 @@
+- pkg:nuget/Topshelf.FSharp@1.0.0
+- pkg:nuget/Topshelf.FSharp@2.0.0
+- pkg:nuget/Topshelf.FSharp@2.0.1
+- pkg:nuget/Topshelf.FSharp@2.1.0
+- pkg:nuget/Topshelf.FSharp@3.0.0

@@ -1,0 +1,6 @@
+- pkg:nuget/Arbor.ModelBinding.NewtonsoftJson@2.0.0
+- pkg:nuget/Arbor.ModelBinding.NewtonsoftJson@2.2.0
+- pkg:nuget/Arbor.ModelBinding.NewtonsoftJson@2.3.0
+- pkg:nuget/Arbor.ModelBinding.NewtonsoftJson@2.4.0
+- pkg:nuget/Arbor.ModelBinding.NewtonsoftJson@2.5.0
+- pkg:nuget/Arbor.ModelBinding.NewtonsoftJson@2.6.0

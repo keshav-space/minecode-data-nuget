@@ -1,0 +1,17 @@
+- pkg:nuget/Trustpilot.FSharp.Flow@0.0.1-alpha
+- pkg:nuget/Trustpilot.FSharp.Flow@0.0.1-beta
+- pkg:nuget/Trustpilot.FSharp.Flow@0.0.1-tango
+- pkg:nuget/Trustpilot.FSharp.Flow@0.0.2-delta
+- pkg:nuget/Trustpilot.FSharp.Flow@0.0.3
+- pkg:nuget/Trustpilot.FSharp.Flow@0.1.0
+- pkg:nuget/Trustpilot.FSharp.Flow@0.2.0
+- pkg:nuget/Trustpilot.FSharp.Flow@0.2.1
+- pkg:nuget/Trustpilot.FSharp.Flow@0.2.2
+- pkg:nuget/Trustpilot.FSharp.Flow@0.3.0
+- pkg:nuget/Trustpilot.FSharp.Flow@0.4.0
+- pkg:nuget/Trustpilot.FSharp.Flow@0.4.1
+- pkg:nuget/Trustpilot.FSharp.Flow@0.4.2
+- pkg:nuget/Trustpilot.FSharp.Flow@0.4.3
+- pkg:nuget/Trustpilot.FSharp.Flow@0.4.4
+- pkg:nuget/Trustpilot.FSharp.Flow@0.5.0
+- pkg:nuget/Trustpilot.FSharp.Flow@0.6.0

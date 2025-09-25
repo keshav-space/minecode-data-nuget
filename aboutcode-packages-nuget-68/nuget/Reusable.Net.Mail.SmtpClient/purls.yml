@@ -1,0 +1,13 @@
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@3.78.0
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@3.96.0
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@4.0.2
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@4.0.3
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@4.1.0
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@4.10.0
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@4.2.0
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@4.4.2
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@4.5.1
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@4.6.0
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@6.1.0
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@7.1.0
+- pkg:nuget/Reusable.Net.Mail.SmtpClient@7.2.2

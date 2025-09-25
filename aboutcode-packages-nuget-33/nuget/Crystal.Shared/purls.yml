@@ -1,0 +1,17 @@
+- pkg:nuget/Crystal.Shared@1.2.1
+- pkg:nuget/Crystal.Shared@1.2.3
+- pkg:nuget/Crystal.Shared@1.2.3.3
+- pkg:nuget/Crystal.Shared@1.2.3.5
+- pkg:nuget/Crystal.Shared@1.4.1.14
+- pkg:nuget/Crystal.Shared@1.4.3
+- pkg:nuget/Crystal.Shared@1.4.4
+- pkg:nuget/Crystal.Shared@1.4.5
+- pkg:nuget/Crystal.Shared@1.4.7
+- pkg:nuget/Crystal.Shared@2.0.0
+- pkg:nuget/Crystal.Shared@2.1.0
+- pkg:nuget/Crystal.Shared@2.1.2
+- pkg:nuget/Crystal.Shared@3.0.1
+- pkg:nuget/Crystal.Shared@3.0.3
+- pkg:nuget/Crystal.Shared@3.0.4
+- pkg:nuget/Crystal.Shared@3.0.5
+- pkg:nuget/Crystal.Shared@3.0.6

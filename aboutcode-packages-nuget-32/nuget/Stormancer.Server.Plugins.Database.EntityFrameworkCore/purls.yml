@@ -1,0 +1,12 @@
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.10-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.11-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.12-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.14-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.15
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.15-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.16-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.17-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.18-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.8-pre
+- pkg:nuget/Stormancer.Server.Plugins.Database.EntityFrameworkCore@0.1.0.9-pre

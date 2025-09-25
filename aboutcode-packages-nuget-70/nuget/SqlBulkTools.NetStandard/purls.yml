@@ -1,0 +1,14 @@
+- pkg:nuget/SqlBulkTools.NetStandard@1.0.0
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.11
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.12
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.13
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.14
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.15
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.16
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.18
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.22
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.23
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.28
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.29
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.30
+- pkg:nuget/SqlBulkTools.NetStandard@2.1.32

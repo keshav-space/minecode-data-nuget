@@ -1,0 +1,3 @@
+- pkg:nuget/Menistar.EntityFrameworkCore.SoftDelete@5.0.0
+- pkg:nuget/Menistar.EntityFrameworkCore.SoftDelete@5.0.1
+- pkg:nuget/Menistar.EntityFrameworkCore.SoftDelete@5.0.1-beta

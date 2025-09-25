@@ -1,0 +1,12 @@
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.17-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.35-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.44-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.53-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.54-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.58-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.6-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.68-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.70-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.71-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.77-alpha
+- pkg:nuget/GitDotNet.Microsoft.Extensions.DependencyInjection@0.1.80-alpha

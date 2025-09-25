@@ -1,0 +1,4 @@
+- pkg:nuget/Idea.Query.EntityFrameworkCore@1.0.0
+- pkg:nuget/Idea.Query.EntityFrameworkCore@1.0.1
+- pkg:nuget/Idea.Query.EntityFrameworkCore@1.0.2
+- pkg:nuget/Idea.Query.EntityFrameworkCore@1.0.3

@@ -1,0 +1,4 @@
+- pkg:nuget/Net4x.Serilog.Sinks.File@5.0.1
+- pkg:nuget/Net4x.Serilog.Sinks.File@5.0.1-at20230411065456
+- pkg:nuget/Net4x.Serilog.Sinks.File@5.0.1-at20230501041400
+- pkg:nuget/Net4x.Serilog.Sinks.File@5.1.0

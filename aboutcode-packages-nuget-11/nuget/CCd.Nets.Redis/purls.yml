@@ -1,0 +1,13 @@
+- pkg:nuget/CCd.Nets.Redis@2.2302.2
+- pkg:nuget/CCd.Nets.Redis@3.2303.0
+- pkg:nuget/CCd.Nets.Redis@3.2303.15
+- pkg:nuget/CCd.Nets.Redis@3.2306.3
+- pkg:nuget/CCd.Nets.Redis@3.2309.0
+- pkg:nuget/CCd.Nets.Redis@3.2309.1
+- pkg:nuget/CCd.Nets.Redis@3.2310.17
+- pkg:nuget/CCd.Nets.Redis@3.2312.14
+- pkg:nuget/CCd.Nets.Redis@3.2404.0
+- pkg:nuget/CCd.Nets.Redis@3.2405.18
+- pkg:nuget/CCd.Nets.Redis@5.2409.0
+- pkg:nuget/CCd.Nets.Redis@5.2411.0
+- pkg:nuget/CCd.Nets.Redis@5.2505.0
