@@ -1,0 +1,7 @@
+- pkg:nuget/Athena.Infrastructure.EfCore@6.0.0
+- pkg:nuget/Athena.Infrastructure.EfCore@6.0.1
+- pkg:nuget/Athena.Infrastructure.EfCore@6.0.2
+- pkg:nuget/Athena.Infrastructure.EfCore@6.1.0
+- pkg:nuget/Athena.Infrastructure.EfCore@7.0.0
+- pkg:nuget/Athena.Infrastructure.EfCore@7.0.0-preview.20231013.1
+- pkg:nuget/Athena.Infrastructure.EfCore@8.0.0

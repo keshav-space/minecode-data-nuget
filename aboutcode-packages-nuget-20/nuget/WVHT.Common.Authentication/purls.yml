@@ -1,0 +1,4 @@
+- pkg:nuget/WVHT.Common.Authentication@1.0.0
+- pkg:nuget/WVHT.Common.Authentication@6.0.0
+- pkg:nuget/WVHT.Common.Authentication@6.1.0
+- pkg:nuget/WVHT.Common.Authentication@8.0.0

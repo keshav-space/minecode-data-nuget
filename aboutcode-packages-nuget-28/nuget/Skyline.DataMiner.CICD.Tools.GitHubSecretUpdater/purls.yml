@@ -1,0 +1,3 @@
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.GitHubSecretUpdater@1.0.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.GitHubSecretUpdater@1.0.0.3
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.GitHubSecretUpdater@2.0.1

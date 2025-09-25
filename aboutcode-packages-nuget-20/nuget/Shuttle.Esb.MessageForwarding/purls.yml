@@ -1,0 +1,4 @@
+- pkg:nuget/Shuttle.Esb.MessageForwarding@14.0.0
+- pkg:nuget/Shuttle.Esb.MessageForwarding@14.0.1
+- pkg:nuget/Shuttle.Esb.MessageForwarding@15.0.0
+- pkg:nuget/Shuttle.Esb.MessageForwarding@20.0.0

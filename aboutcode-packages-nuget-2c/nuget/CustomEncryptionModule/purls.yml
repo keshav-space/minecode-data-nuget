@@ -1,0 +1,4 @@
+- pkg:nuget/CustomEncryptionModule@1.0.0
+- pkg:nuget/CustomEncryptionModule@1.1.0
+- pkg:nuget/CustomEncryptionModule@1.2.0
+- pkg:nuget/CustomEncryptionModule@2.0.0

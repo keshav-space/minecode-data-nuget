@@ -1,0 +1,8 @@
+- pkg:nuget/Shuttle.Esb.Kafka@13.0.0
+- pkg:nuget/Shuttle.Esb.Kafka@13.1.0
+- pkg:nuget/Shuttle.Esb.Kafka@13.2.0
+- pkg:nuget/Shuttle.Esb.Kafka@13.2.1
+- pkg:nuget/Shuttle.Esb.Kafka@14.0.0
+- pkg:nuget/Shuttle.Esb.Kafka@14.0.1
+- pkg:nuget/Shuttle.Esb.Kafka@15.0.0
+- pkg:nuget/Shuttle.Esb.Kafka@20.0.0

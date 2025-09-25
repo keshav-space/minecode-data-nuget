@@ -1,0 +1,13 @@
+- pkg:nuget/Serilog.UI.MongoDbProvider@1.0.5
+- pkg:nuget/Serilog.UI.MongoDbProvider@2.0.0
+- pkg:nuget/Serilog.UI.MongoDbProvider@2.1.0
+- pkg:nuget/Serilog.UI.MongoDbProvider@2.1.2
+- pkg:nuget/Serilog.UI.MongoDbProvider@2.2.0
+- pkg:nuget/Serilog.UI.MongoDbProvider@2.2.1
+- pkg:nuget/Serilog.UI.MongoDbProvider@2.3.0
+- pkg:nuget/Serilog.UI.MongoDbProvider@2.3.1
+- pkg:nuget/Serilog.UI.MongoDbProvider@3.0.0
+- pkg:nuget/Serilog.UI.MongoDbProvider@3.0.0-alpha.1
+- pkg:nuget/Serilog.UI.MongoDbProvider@3.0.0-alpha.2
+- pkg:nuget/Serilog.UI.MongoDbProvider@3.1.0
+- pkg:nuget/Serilog.UI.MongoDbProvider@4.0.0

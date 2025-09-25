@@ -1,0 +1,11 @@
+- pkg:nuget/Ionad.Fody@0.1.0-alpha
+- pkg:nuget/Ionad.Fody@0.2.0
+- pkg:nuget/Ionad.Fody@0.2.4
+- pkg:nuget/Ionad.Fody@0.3.3
+- pkg:nuget/Ionad.Fody@0.3.4
+- pkg:nuget/Ionad.Fody@1.0.1
+- pkg:nuget/Ionad.Fody@1.0.2
+- pkg:nuget/Ionad.Fody@2.0.0
+- pkg:nuget/Ionad.Fody@2.0.1
+- pkg:nuget/Ionad.Fody@2.1.0
+- pkg:nuget/Ionad.Fody@2.2.0

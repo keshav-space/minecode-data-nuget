@@ -1,0 +1,5 @@
+- pkg:nuget/openapi-to-terraform@0.0.12
+- pkg:nuget/openapi-to-terraform@0.0.13
+- pkg:nuget/openapi-to-terraform@0.0.13-beta1
+- pkg:nuget/openapi-to-terraform@0.0.13-beta2
+- pkg:nuget/openapi-to-terraform@0.0.13-beta5

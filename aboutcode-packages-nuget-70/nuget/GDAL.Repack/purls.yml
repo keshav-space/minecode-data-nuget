@@ -1,0 +1,4 @@
+- pkg:nuget/GDAL.Repack@2.4.0-beta
+- pkg:nuget/GDAL.Repack@2.4.1-beta
+- pkg:nuget/GDAL.Repack@2.4.3-alpha
+- pkg:nuget/GDAL.Repack@2.4.4

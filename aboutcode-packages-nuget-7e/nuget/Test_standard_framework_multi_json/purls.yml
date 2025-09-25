@@ -1,0 +1,5 @@
+- pkg:nuget/Test_standard_framework_multi_json@1.0.0
+- pkg:nuget/Test_standard_framework_multi_json@1.1.0
+- pkg:nuget/Test_standard_framework_multi_json@2.0.0
+- pkg:nuget/Test_standard_framework_multi_json@2.1.0
+- pkg:nuget/Test_standard_framework_multi_json@2.2.0

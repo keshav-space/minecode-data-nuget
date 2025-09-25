@@ -1,0 +1,3 @@
+- pkg:nuget/Link.Cloud.Core.EventProducers.EmailSender@1.0.20
+- pkg:nuget/Link.Cloud.Core.EventProducers.EmailSender@1.0.21
+- pkg:nuget/Link.Cloud.Core.EventProducers.EmailSender@1.0.22

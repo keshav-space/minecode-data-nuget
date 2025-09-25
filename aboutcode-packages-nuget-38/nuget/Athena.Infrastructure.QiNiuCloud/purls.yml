@@ -1,0 +1,5 @@
+- pkg:nuget/Athena.Infrastructure.QiNiuCloud@6.0.0
+- pkg:nuget/Athena.Infrastructure.QiNiuCloud@7.0.0
+- pkg:nuget/Athena.Infrastructure.QiNiuCloud@7.0.0-preview.20231013.1
+- pkg:nuget/Athena.Infrastructure.QiNiuCloud@7.0.0-preview.20231020.1
+- pkg:nuget/Athena.Infrastructure.QiNiuCloud@8.0.0

@@ -1,0 +1,2 @@
+- pkg:nuget/Gems.TestInfrastructure.Redis@1.0.1
+- pkg:nuget/Gems.TestInfrastructure.Redis@7.0.0

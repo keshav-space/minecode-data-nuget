@@ -1,0 +1,14 @@
+- pkg:nuget/AvroSourceGenerator@0.1.0
+- pkg:nuget/AvroSourceGenerator@0.1.0-preview.6
+- pkg:nuget/AvroSourceGenerator@0.1.1
+- pkg:nuget/AvroSourceGenerator@0.1.1-preview.1
+- pkg:nuget/AvroSourceGenerator@0.2.0
+- pkg:nuget/AvroSourceGenerator@0.2.0-preview.1
+- pkg:nuget/AvroSourceGenerator@0.2.0-preview.2
+- pkg:nuget/AvroSourceGenerator@0.2.1
+- pkg:nuget/AvroSourceGenerator@0.2.1-preview1
+- pkg:nuget/AvroSourceGenerator@0.2.1-preview2
+- pkg:nuget/AvroSourceGenerator@0.2.2
+- pkg:nuget/AvroSourceGenerator@0.2.3
+- pkg:nuget/AvroSourceGenerator@0.2.3-preview.1
+- pkg:nuget/AvroSourceGenerator@0.3.0-preview.1

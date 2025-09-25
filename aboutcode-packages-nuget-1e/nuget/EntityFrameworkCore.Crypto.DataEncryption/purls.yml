@@ -1,0 +1,5 @@
+- pkg:nuget/EntityFrameworkCore.Crypto.DataEncryption@8.0.0
+- pkg:nuget/EntityFrameworkCore.Crypto.DataEncryption@8.0.1
+- pkg:nuget/EntityFrameworkCore.Crypto.DataEncryption@8.0.2
+- pkg:nuget/EntityFrameworkCore.Crypto.DataEncryption@8.0.3
+- pkg:nuget/EntityFrameworkCore.Crypto.DataEncryption@9.0.0

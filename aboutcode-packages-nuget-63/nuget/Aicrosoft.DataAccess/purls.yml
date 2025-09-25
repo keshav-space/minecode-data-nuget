@@ -1,0 +1,8 @@
+- pkg:nuget/Aicrosoft.DataAccess@6.1.6
+- pkg:nuget/Aicrosoft.DataAccess@6.1.7
+- pkg:nuget/Aicrosoft.DataAccess@6.2.1
+- pkg:nuget/Aicrosoft.DataAccess@6.3.2
+- pkg:nuget/Aicrosoft.DataAccess@6.4.0
+- pkg:nuget/Aicrosoft.DataAccess@8.1.0
+- pkg:nuget/Aicrosoft.DataAccess@8.1.0-dev.240716.12
+- pkg:nuget/Aicrosoft.DataAccess@8.2.0

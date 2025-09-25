@@ -1,0 +1,5 @@
+- pkg:nuget/NationalInstruments.TestStand.API@22.0.0-dev.7
+- pkg:nuget/NationalInstruments.TestStand.API@22.0.0-dev.8
+- pkg:nuget/NationalInstruments.TestStand.API@22.0.0-dev.9
+- pkg:nuget/NationalInstruments.TestStand.API@23.0.0
+- pkg:nuget/NationalInstruments.TestStand.API@23.0.0-dev.1

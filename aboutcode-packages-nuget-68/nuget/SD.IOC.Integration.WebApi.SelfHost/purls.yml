@@ -1,0 +1,5 @@
+- pkg:nuget/SD.IOC.Integration.WebApi.SelfHost@2.0.0
+- pkg:nuget/SD.IOC.Integration.WebApi.SelfHost@2.0.1
+- pkg:nuget/SD.IOC.Integration.WebApi.SelfHost@2.0.2
+- pkg:nuget/SD.IOC.Integration.WebApi.SelfHost@2.0.3
+- pkg:nuget/SD.IOC.Integration.WebApi.SelfHost@2.1.0

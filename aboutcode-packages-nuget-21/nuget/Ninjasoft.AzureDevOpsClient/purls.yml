@@ -1,0 +1,9 @@
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@1.0.0
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@1.1.0
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@1.2.0
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@1.3.0
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@1.4.0
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@1.5.0
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@1.5.1
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@2.0.0
+- pkg:nuget/Ninjasoft.AzureDevOpsClient@2.1.0-alpha

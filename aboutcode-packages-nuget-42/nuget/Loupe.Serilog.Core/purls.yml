@@ -1,0 +1,6 @@
+- pkg:nuget/Loupe.Serilog.Core@4.8.0
+- pkg:nuget/Loupe.Serilog.Core@4.9.0
+- pkg:nuget/Loupe.Serilog.Core@4.9.1
+- pkg:nuget/Loupe.Serilog.Core@4.9.2
+- pkg:nuget/Loupe.Serilog.Core@4.9.4.1
+- pkg:nuget/Loupe.Serilog.Core@5.0.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/libc.litedb@1.0.0
+- pkg:nuget/libc.litedb@1.1.0
+- pkg:nuget/libc.litedb@1.5.0
+- pkg:nuget/libc.litedb@2.0.0

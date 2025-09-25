@@ -1,0 +1,4 @@
+- pkg:nuget/CR.AggregateRepository.EventStore@1.0.0
+- pkg:nuget/CR.AggregateRepository.EventStore@1.0.0-rc0001
+- pkg:nuget/CR.AggregateRepository.EventStore@1.0.0-rc0002
+- pkg:nuget/CR.AggregateRepository.EventStore@2.0.0

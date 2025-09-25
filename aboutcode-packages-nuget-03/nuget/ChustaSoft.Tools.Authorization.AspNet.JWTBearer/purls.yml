@@ -1,0 +1,6 @@
+- pkg:nuget/ChustaSoft.Tools.Authorization.AspNet.JWTBearer@4.0.0
+- pkg:nuget/ChustaSoft.Tools.Authorization.AspNet.JWTBearer@4.0.0-alpha.1
+- pkg:nuget/ChustaSoft.Tools.Authorization.AspNet.JWTBearer@4.0.0-alpha.2
+- pkg:nuget/ChustaSoft.Tools.Authorization.AspNet.JWTBearer@4.0.0-alpha.3
+- pkg:nuget/ChustaSoft.Tools.Authorization.AspNet.JWTBearer@4.1.0-beta.1
+- pkg:nuget/ChustaSoft.Tools.Authorization.AspNet.JWTBearer@4.1.0-beta.2

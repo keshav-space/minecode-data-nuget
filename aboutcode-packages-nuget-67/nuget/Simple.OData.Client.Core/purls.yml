@@ -1,0 +1,6 @@
+- pkg:nuget/Simple.OData.Client.Core@1.0.0
+- pkg:nuget/Simple.OData.Client.Core@6.1.0-CI-20240523-165733
+- pkg:nuget/Simple.OData.Client.Core@6.1.0-CI-20240523-171023
+- pkg:nuget/Simple.OData.Client.Core@6.1.0-CI-20240523-191115
+- pkg:nuget/Simple.OData.Client.Core@6.1.0-CI-20240523-192330
+- pkg:nuget/Simple.OData.Client.Core@6.1.0-CI-20240712-015507

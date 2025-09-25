@@ -1,0 +1,16 @@
+- pkg:nuget/WebDriver.IEDriverServer.win32@2.34.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@2.42.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@2.44.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@2.49.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@2.53.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@2.53.1
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.0.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.141.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.150.1
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.4.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.5.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.5.1
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.6.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.7.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.8.0
+- pkg:nuget/WebDriver.IEDriverServer.win32@3.9.0

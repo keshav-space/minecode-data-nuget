@@ -1,0 +1,4 @@
+- pkg:nuget/MnM.Common.Data.DynamoDB.DependencyInjection@0.2.1-ci20240509T043713
+- pkg:nuget/MnM.Common.Data.DynamoDB.DependencyInjection@0.2.2-ci20240513T230547
+- pkg:nuget/MnM.Common.Data.DynamoDB.DependencyInjection@0.2.3-ci20240528T124605
+- pkg:nuget/MnM.Common.Data.DynamoDB.DependencyInjection@0.2.4-ci20240528T232039

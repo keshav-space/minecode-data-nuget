@@ -1,0 +1,5 @@
+- pkg:nuget/SemVer.Net@0.0.1-alpha
+- pkg:nuget/SemVer.Net@1.0.0
+- pkg:nuget/SemVer.Net@1.0.1
+- pkg:nuget/SemVer.Net@1.0.2
+- pkg:nuget/SemVer.Net@2.0.0

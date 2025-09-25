@@ -1,0 +1,15 @@
+- pkg:nuget/Dataworx.Common@0.2.1
+- pkg:nuget/Dataworx.Common@0.2.1-Pre-10
+- pkg:nuget/Dataworx.Common@0.2.1-Pre-11
+- pkg:nuget/Dataworx.Common@0.2.1-Pre-local
+- pkg:nuget/Dataworx.Common@0.2.1-Pre-test
+- pkg:nuget/Dataworx.Common@0.3.0
+- pkg:nuget/Dataworx.Common@0.3.0-Pre-12
+- pkg:nuget/Dataworx.Common@0.3.1-Pre-13
+- pkg:nuget/Dataworx.Common@0.3.1-Pre-14
+- pkg:nuget/Dataworx.Common@0.3.2
+- pkg:nuget/Dataworx.Common@0.3.2-Pre-16
+- pkg:nuget/Dataworx.Common@0.3.3
+- pkg:nuget/Dataworx.Common@0.3.3-Pre-17
+- pkg:nuget/Dataworx.Common@0.3.4
+- pkg:nuget/Dataworx.Common@0.3.4-Pre-18

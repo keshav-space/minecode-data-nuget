@@ -1,0 +1,5 @@
+- pkg:nuget/Ofl.Extensions.NodaTime@1.0.2
+- pkg:nuget/Ofl.Extensions.NodaTime@2.0.3
+- pkg:nuget/Ofl.Extensions.NodaTime@2.1.4
+- pkg:nuget/Ofl.Extensions.NodaTime@3.0.6
+- pkg:nuget/Ofl.Extensions.NodaTime@3.0.7

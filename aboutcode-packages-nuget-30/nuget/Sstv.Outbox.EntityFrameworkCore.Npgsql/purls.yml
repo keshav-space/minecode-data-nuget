@@ -1,0 +1,3 @@
+- pkg:nuget/Sstv.Outbox.EntityFrameworkCore.Npgsql@1.0.0
+- pkg:nuget/Sstv.Outbox.EntityFrameworkCore.Npgsql@2.0.0
+- pkg:nuget/Sstv.Outbox.EntityFrameworkCore.Npgsql@3.0.0

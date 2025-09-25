@@ -1,0 +1,14 @@
+- pkg:nuget/Athena.Infrastructure.Swagger@6.0.0
+- pkg:nuget/Athena.Infrastructure.Swagger@6.0.1
+- pkg:nuget/Athena.Infrastructure.Swagger@6.0.2
+- pkg:nuget/Athena.Infrastructure.Swagger@6.0.3
+- pkg:nuget/Athena.Infrastructure.Swagger@6.0.4
+- pkg:nuget/Athena.Infrastructure.Swagger@6.0.4-preview.20230727.1
+- pkg:nuget/Athena.Infrastructure.Swagger@6.0.4-preview.20230730.1
+- pkg:nuget/Athena.Infrastructure.Swagger@6.0.4-preview.20230730.2
+- pkg:nuget/Athena.Infrastructure.Swagger@7.0.0
+- pkg:nuget/Athena.Infrastructure.Swagger@7.0.0-preview.20231013.1
+- pkg:nuget/Athena.Infrastructure.Swagger@7.0.1
+- pkg:nuget/Athena.Infrastructure.Swagger@7.0.2-preview.20231128.1
+- pkg:nuget/Athena.Infrastructure.Swagger@7.0.5
+- pkg:nuget/Athena.Infrastructure.Swagger@8.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Rabbit.Components.Data.EntityFramework@1.1.4.5
+- pkg:nuget/Rabbit.Components.Data.EntityFramework@1.1.4.6
+- pkg:nuget/Rabbit.Components.Data.EntityFramework@1.1.4.7-beta1
+- pkg:nuget/Rabbit.Components.Data.EntityFramework@1.2.0
+- pkg:nuget/Rabbit.Components.Data.EntityFramework@1.2.0.1

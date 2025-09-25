@@ -1,0 +1,5 @@
+- pkg:nuget/RedCorners.Forms.ZXing@8.47.1-alpha
+- pkg:nuget/RedCorners.Forms.ZXing@8.47.2-alpha
+- pkg:nuget/RedCorners.Forms.ZXing@8.47.3
+- pkg:nuget/RedCorners.Forms.ZXing@9.0.0
+- pkg:nuget/RedCorners.Forms.ZXing@9.0.1

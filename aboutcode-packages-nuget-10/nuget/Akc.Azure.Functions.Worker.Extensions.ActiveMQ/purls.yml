@@ -1,0 +1,11 @@
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.10
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.2-preview
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.5
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.6-preview
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.7
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.8
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.8-preview.1157
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.8-preview.1159
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.8-preview.1160
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.8-preview.1163
+- pkg:nuget/Akc.Azure.Functions.Worker.Extensions.ActiveMQ@0.0.9

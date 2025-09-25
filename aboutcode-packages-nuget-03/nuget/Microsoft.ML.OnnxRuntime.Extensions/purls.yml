@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.10.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.11.0-dev-20240524-2333-8d8670f7
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.12.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.13.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.14.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.8.0
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.8.0-alpha
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.8.0-alpha.1
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.8.0-beta
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.8.1-alpha
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Extensions@0.9.0

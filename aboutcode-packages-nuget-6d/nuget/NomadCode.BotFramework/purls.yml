@@ -1,0 +1,5 @@
+- pkg:nuget/NomadCode.BotFramework@0.4.1-preview
+- pkg:nuget/NomadCode.BotFramework@0.4.3-preview
+- pkg:nuget/NomadCode.BotFramework@0.4.4-preview
+- pkg:nuget/NomadCode.BotFramework@0.4.5-preview
+- pkg:nuget/NomadCode.BotFramework@0.4.6-preview

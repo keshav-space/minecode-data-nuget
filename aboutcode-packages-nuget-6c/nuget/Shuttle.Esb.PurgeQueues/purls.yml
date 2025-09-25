@@ -1,0 +1,3 @@
+- pkg:nuget/Shuttle.Esb.PurgeQueues@14.0.0
+- pkg:nuget/Shuttle.Esb.PurgeQueues@15.0.0
+- pkg:nuget/Shuttle.Esb.PurgeQueues@20.0.0

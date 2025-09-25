@@ -1,0 +1,16 @@
+- pkg:nuget/Homer.Domain@1.0.196
+- pkg:nuget/Homer.Domain@1.0.197
+- pkg:nuget/Homer.Domain@1.0.198-Debug
+- pkg:nuget/Homer.Domain@1.0.199-Debug
+- pkg:nuget/Homer.Domain@1.0.199-Release
+- pkg:nuget/Homer.Domain@1.0.200-Debug
+- pkg:nuget/Homer.Domain@1.0.200-Release
+- pkg:nuget/Homer.Domain@1.0.201-Debug
+- pkg:nuget/Homer.Domain@1.0.201-Release
+- pkg:nuget/Homer.Domain@1.0.202-Debug
+- pkg:nuget/Homer.Domain@1.0.202-Release
+- pkg:nuget/Homer.Domain@1.0.20240620.3
+- pkg:nuget/Homer.Domain@1.20240620.1
+- pkg:nuget/Homer.Domain@10.0.0
+- pkg:nuget/Homer.Domain@20240619.21.0
+- pkg:nuget/Homer.Domain@20240619.28.0

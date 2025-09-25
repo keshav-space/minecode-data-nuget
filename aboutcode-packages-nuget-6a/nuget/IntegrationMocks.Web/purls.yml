@@ -1,0 +1,4 @@
+- pkg:nuget/IntegrationMocks.Web@0.0.0-main
+- pkg:nuget/IntegrationMocks.Web@0.0.1-main
+- pkg:nuget/IntegrationMocks.Web@0.0.2-main
+- pkg:nuget/IntegrationMocks.Web@0.1.0

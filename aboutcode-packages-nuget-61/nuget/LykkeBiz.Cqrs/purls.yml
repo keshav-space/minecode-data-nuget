@@ -1,0 +1,15 @@
+- pkg:nuget/LykkeBiz.Cqrs@1.0.1
+- pkg:nuget/LykkeBiz.Cqrs@10.0.0
+- pkg:nuget/LykkeBiz.Cqrs@11.0.3
+- pkg:nuget/LykkeBiz.Cqrs@11.1.0
+- pkg:nuget/LykkeBiz.Cqrs@12.0.0
+- pkg:nuget/LykkeBiz.Cqrs@12.0.2
+- pkg:nuget/LykkeBiz.Cqrs@12.0.3
+- pkg:nuget/LykkeBiz.Cqrs@13.0.0
+- pkg:nuget/LykkeBiz.Cqrs@13.0.1
+- pkg:nuget/LykkeBiz.Cqrs@13.0.2
+- pkg:nuget/LykkeBiz.Cqrs@14.0.0
+- pkg:nuget/LykkeBiz.Cqrs@14.1.0
+- pkg:nuget/LykkeBiz.Cqrs@15.0.0
+- pkg:nuget/LykkeBiz.Cqrs@16.0.0
+- pkg:nuget/LykkeBiz.Cqrs@16.0.1

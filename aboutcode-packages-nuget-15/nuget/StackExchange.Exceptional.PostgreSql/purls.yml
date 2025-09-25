@@ -1,0 +1,12 @@
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@1.0.0
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@1.0.1
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.0.0
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.0.0-rc1-00187
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.0.0-rc2.12
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.0.0-rc2.27
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.0.0-rc2.28
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.0.0-rc2.4
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.1.0
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.2.17
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@2.2.32
+- pkg:nuget/StackExchange.Exceptional.PostgreSql@3.0.1

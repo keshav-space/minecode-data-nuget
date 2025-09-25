@@ -1,0 +1,2 @@
+- pkg:nuget/Gems.TestInfrastructure.MsSql@1.0.1
+- pkg:nuget/Gems.TestInfrastructure.MsSql@7.0.0

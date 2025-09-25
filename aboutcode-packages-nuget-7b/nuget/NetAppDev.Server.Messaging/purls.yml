@@ -1,0 +1,5 @@
+- pkg:nuget/NetAppDev.Server.Messaging@1.0.0
+- pkg:nuget/NetAppDev.Server.Messaging@1.1.0
+- pkg:nuget/NetAppDev.Server.Messaging@1.1.2
+- pkg:nuget/NetAppDev.Server.Messaging@1.1.3
+- pkg:nuget/NetAppDev.Server.Messaging@1.1.5

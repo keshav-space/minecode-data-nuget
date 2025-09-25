@@ -1,0 +1,6 @@
+- pkg:nuget/NServiceBus.Extensions.DependencyInjection@1.0.0
+- pkg:nuget/NServiceBus.Extensions.DependencyInjection@1.0.1
+- pkg:nuget/NServiceBus.Extensions.DependencyInjection@1.1.0
+- pkg:nuget/NServiceBus.Extensions.DependencyInjection@2.0.0
+- pkg:nuget/NServiceBus.Extensions.DependencyInjection@2.0.0-beta.2
+- pkg:nuget/NServiceBus.Extensions.DependencyInjection@2.0.0-rc.2

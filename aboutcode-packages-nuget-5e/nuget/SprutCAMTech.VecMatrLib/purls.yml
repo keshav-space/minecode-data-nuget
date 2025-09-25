@@ -1,0 +1,4 @@
+- pkg:nuget/SprutCAMTech.VecMatrLib@17.0.1
+- pkg:nuget/SprutCAMTech.VecMatrLib@17.0.100-rc%2Bfb585b4562f43d4d131f855ce7717c6b69325567
+- pkg:nuget/SprutCAMTech.VecMatrLib@17.0.2%2B49497e940b4b83798f4fa48e4b70782411888e61
+- pkg:nuget/SprutCAMTech.VecMatrLib@18.0.0%2B2dfc0da58a5c03b6954c018180990867527f90da

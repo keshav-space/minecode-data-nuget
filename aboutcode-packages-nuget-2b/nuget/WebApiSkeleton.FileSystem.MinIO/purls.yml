@@ -1,0 +1,4 @@
+- pkg:nuget/WebApiSkeleton.FileSystem.MinIO@1.1.0
+- pkg:nuget/WebApiSkeleton.FileSystem.MinIO@1.1.1
+- pkg:nuget/WebApiSkeleton.FileSystem.MinIO@1.1.2
+- pkg:nuget/WebApiSkeleton.FileSystem.MinIO@1.1.3

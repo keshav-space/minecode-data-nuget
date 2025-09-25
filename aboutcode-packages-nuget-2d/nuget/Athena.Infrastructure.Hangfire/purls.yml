@@ -1,0 +1,10 @@
+- pkg:nuget/Athena.Infrastructure.Hangfire@6.0.0
+- pkg:nuget/Athena.Infrastructure.Hangfire@6.0.1
+- pkg:nuget/Athena.Infrastructure.Hangfire@6.0.2
+- pkg:nuget/Athena.Infrastructure.Hangfire@7.0.0
+- pkg:nuget/Athena.Infrastructure.Hangfire@7.0.0-preview.20231013.1
+- pkg:nuget/Athena.Infrastructure.Hangfire@7.0.0-preview.20231020.1
+- pkg:nuget/Athena.Infrastructure.Hangfire@7.0.1-preview.20231204.1
+- pkg:nuget/Athena.Infrastructure.Hangfire@7.0.1-preview.20231204.2
+- pkg:nuget/Athena.Infrastructure.Hangfire@7.0.5
+- pkg:nuget/Athena.Infrastructure.Hangfire@8.0.0

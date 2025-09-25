@@ -1,0 +1,14 @@
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.0.0
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.11.0
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.12.0
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.12.1
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.12.2
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.13.0
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.13.1
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.14.0
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.14.1
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.14.2
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.14.3
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.15.0
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.15.1
+- pkg:nuget/Lightstreamer.DotNetStandard.Adapters@1.15.2

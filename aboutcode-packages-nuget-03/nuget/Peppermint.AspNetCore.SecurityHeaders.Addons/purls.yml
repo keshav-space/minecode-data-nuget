@@ -1,0 +1,5 @@
+- pkg:nuget/Peppermint.AspNetCore.SecurityHeaders.Addons@1.0.0
+- pkg:nuget/Peppermint.AspNetCore.SecurityHeaders.Addons@1.0.3
+- pkg:nuget/Peppermint.AspNetCore.SecurityHeaders.Addons@1.0.3-beta1
+- pkg:nuget/Peppermint.AspNetCore.SecurityHeaders.Addons@1.1.0-dotnet8
+- pkg:nuget/Peppermint.AspNetCore.SecurityHeaders.Addons@2.0.0

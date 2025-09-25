@@ -1,0 +1,3 @@
+- pkg:nuget/Ext.EnterpriseLibrary.Data.SqlServer.NetCore@6.3.3-r
+- pkg:nuget/Ext.EnterpriseLibrary.Data.SqlServer.NetCore@6.3.4-r
+- pkg:nuget/Ext.EnterpriseLibrary.Data.SqlServer.NetCore@6.3.5-f

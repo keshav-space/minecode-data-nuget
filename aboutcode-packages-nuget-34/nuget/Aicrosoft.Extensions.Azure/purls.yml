@@ -1,0 +1,6 @@
+- pkg:nuget/Aicrosoft.Extensions.Azure@6.3.2
+- pkg:nuget/Aicrosoft.Extensions.Azure@6.4.0
+- pkg:nuget/Aicrosoft.Extensions.Azure@8.2.0
+- pkg:nuget/Aicrosoft.Extensions.Azure@8.3.0
+- pkg:nuget/Aicrosoft.Extensions.Azure@8.5.0
+- pkg:nuget/Aicrosoft.Extensions.Azure@8.6.0

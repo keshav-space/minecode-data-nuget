@@ -1,0 +1,4 @@
+- pkg:nuget/libc.fluentmigrator@1.0.0
+- pkg:nuget/libc.fluentmigrator@1.1.0
+- pkg:nuget/libc.fluentmigrator@1.5.0
+- pkg:nuget/libc.fluentmigrator@2.0.0

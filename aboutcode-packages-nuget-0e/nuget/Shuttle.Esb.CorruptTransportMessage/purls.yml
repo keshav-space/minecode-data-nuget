@@ -1,0 +1,4 @@
+- pkg:nuget/Shuttle.Esb.CorruptTransportMessage@14.0.0
+- pkg:nuget/Shuttle.Esb.CorruptTransportMessage@14.0.1
+- pkg:nuget/Shuttle.Esb.CorruptTransportMessage@15.0.0
+- pkg:nuget/Shuttle.Esb.CorruptTransportMessage@20.0.0
