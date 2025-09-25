@@ -1,0 +1,8 @@
+- pkg:nuget/GithubNugetWorkflowPoc@0.3.0
+- pkg:nuget/GithubNugetWorkflowPoc@0.3.0-prerelease.0
+- pkg:nuget/GithubNugetWorkflowPoc@0.3.0-prerelease.1
+- pkg:nuget/GithubNugetWorkflowPoc@0.3.0-prerelease.2
+- pkg:nuget/GithubNugetWorkflowPoc@0.3.0-prerelease.3
+- pkg:nuget/GithubNugetWorkflowPoc@0.3.0-prerelease.4
+- pkg:nuget/GithubNugetWorkflowPoc@0.3.0-rc.0
+- pkg:nuget/GithubNugetWorkflowPoc@1.0.0

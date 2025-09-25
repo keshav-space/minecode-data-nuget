@@ -1,0 +1,3 @@
+- pkg:nuget/vallum.infra.extensions.Data.Mongo@1.0.1
+- pkg:nuget/vallum.infra.extensions.Data.Mongo@2.0.1
+- pkg:nuget/vallum.infra.extensions.Data.Mongo@2.0.2

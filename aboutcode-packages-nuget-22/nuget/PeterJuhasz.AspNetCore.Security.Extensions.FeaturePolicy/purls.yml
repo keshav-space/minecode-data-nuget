@@ -1,0 +1,3 @@
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.FeaturePolicy@3.0.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.FeaturePolicy@3.1.0
+- pkg:nuget/PeterJuhasz.AspNetCore.Security.Extensions.FeaturePolicy@6.0.0

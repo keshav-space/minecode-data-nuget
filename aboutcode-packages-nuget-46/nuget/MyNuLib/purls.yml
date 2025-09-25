@@ -1,0 +1,5 @@
+- pkg:nuget/MyNuLib@1.1.1.1
+- pkg:nuget/MyNuLib@1.1.1.10
+- pkg:nuget/MyNuLib@1.1.1.14
+- pkg:nuget/MyNuLib@1.1.1.2
+- pkg:nuget/MyNuLib@1.1.1.3
