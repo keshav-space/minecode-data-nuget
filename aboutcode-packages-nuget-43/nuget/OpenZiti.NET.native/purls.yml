@@ -1,0 +1,15 @@
+- pkg:nuget/OpenZiti.NET.native@0.30.8.132
+- pkg:nuget/OpenZiti.NET.native@0.30.8.144
+- pkg:nuget/OpenZiti.NET.native@0.30.9.135
+- pkg:nuget/OpenZiti.NET.native@0.34.4-update-for-vcpkgrc162
+- pkg:nuget/OpenZiti.NET.native@0.34.4-update-for-vcpkgrc163
+- pkg:nuget/OpenZiti.NET.native@0.34.4.153
+- pkg:nuget/OpenZiti.NET.native@0.35.0-allow-skip-initialization-of-samplesrc175
+- pkg:nuget/OpenZiti.NET.native@0.35.0.167
+- pkg:nuget/OpenZiti.NET.native@0.35.0.168
+- pkg:nuget/OpenZiti.NET.native@0.35.0.172
+- pkg:nuget/OpenZiti.NET.native@0.35.0.174
+- pkg:nuget/OpenZiti.NET.native@0.35.0.176
+- pkg:nuget/OpenZiti.NET.native@0.35.0.177
+- pkg:nuget/OpenZiti.NET.native@0.35.12.178
+- pkg:nuget/OpenZiti.NET.native@0.36.0.179

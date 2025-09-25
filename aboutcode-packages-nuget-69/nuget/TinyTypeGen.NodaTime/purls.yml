@@ -1,0 +1,17 @@
+- pkg:nuget/TinyTypeGen.NodaTime@0.10.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.11.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.14.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.15.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.2.1
+- pkg:nuget/TinyTypeGen.NodaTime@0.3.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.4.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.4.1
+- pkg:nuget/TinyTypeGen.NodaTime@0.4.2
+- pkg:nuget/TinyTypeGen.NodaTime@0.4.3
+- pkg:nuget/TinyTypeGen.NodaTime@0.4.4
+- pkg:nuget/TinyTypeGen.NodaTime@0.4.5
+- pkg:nuget/TinyTypeGen.NodaTime@0.6.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.6.1
+- pkg:nuget/TinyTypeGen.NodaTime@0.7.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.8.0
+- pkg:nuget/TinyTypeGen.NodaTime@0.9.0

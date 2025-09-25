@@ -1,0 +1,16 @@
+- pkg:nuget/NHibernate.Caches.SysCache@3.2.0.4000
+- pkg:nuget/NHibernate.Caches.SysCache@3.3.2.4000
+- pkg:nuget/NHibernate.Caches.SysCache@3.3.3.4000
+- pkg:nuget/NHibernate.Caches.SysCache@4.0.0.4000
+- pkg:nuget/NHibernate.Caches.SysCache@5.0.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.0.0-Alpha1
+- pkg:nuget/NHibernate.Caches.SysCache@5.1.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.2.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.3.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.4.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.5.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.5.1
+- pkg:nuget/NHibernate.Caches.SysCache@5.6.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.7.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.8.0
+- pkg:nuget/NHibernate.Caches.SysCache@5.9.0

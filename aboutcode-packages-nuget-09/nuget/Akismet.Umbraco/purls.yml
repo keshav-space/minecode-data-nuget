@@ -1,0 +1,13 @@
+- pkg:nuget/Akismet.Umbraco@1.0.0
+- pkg:nuget/Akismet.Umbraco@2.0.0
+- pkg:nuget/Akismet.Umbraco@2.0.0-beta1
+- pkg:nuget/Akismet.Umbraco@2.0.0-beta2
+- pkg:nuget/Akismet.Umbraco@2.0.0.1
+- pkg:nuget/Akismet.Umbraco@3.0.0
+- pkg:nuget/Akismet.Umbraco@3.0.1
+- pkg:nuget/Akismet.Umbraco@4.0.0
+- pkg:nuget/Akismet.Umbraco@4.0.1
+- pkg:nuget/Akismet.Umbraco@4.0.2
+- pkg:nuget/Akismet.Umbraco@4.0.3
+- pkg:nuget/Akismet.Umbraco@5.0.0-beta1
+- pkg:nuget/Akismet.Umbraco@5.0.0-beta2

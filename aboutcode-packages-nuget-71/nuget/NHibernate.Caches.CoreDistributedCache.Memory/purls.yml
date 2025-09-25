@@ -1,0 +1,9 @@
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.3.0
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.3.1
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.4.0
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.5.0
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.5.1
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.6.0
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.7.0
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.8.0
+- pkg:nuget/NHibernate.Caches.CoreDistributedCache.Memory@5.9.0

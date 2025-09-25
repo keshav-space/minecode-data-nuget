@@ -1,0 +1,15 @@
+- pkg:nuget/SvgHelper.Blazor@1.0.0
+- pkg:nuget/SvgHelper.Blazor@2.0.1
+- pkg:nuget/SvgHelper.Blazor@3.0.1
+- pkg:nuget/SvgHelper.Blazor@3.0.2
+- pkg:nuget/SvgHelper.Blazor@4.0.1
+- pkg:nuget/SvgHelper.Blazor@4.0.2
+- pkg:nuget/SvgHelper.Blazor@4.0.3
+- pkg:nuget/SvgHelper.Blazor@4.0.4
+- pkg:nuget/SvgHelper.Blazor@5.0.1
+- pkg:nuget/SvgHelper.Blazor@5.0.2
+- pkg:nuget/SvgHelper.Blazor@5.0.3
+- pkg:nuget/SvgHelper.Blazor@7.0.1
+- pkg:nuget/SvgHelper.Blazor@7.0.2
+- pkg:nuget/SvgHelper.Blazor@8.0.1
+- pkg:nuget/SvgHelper.Blazor@9.0.1

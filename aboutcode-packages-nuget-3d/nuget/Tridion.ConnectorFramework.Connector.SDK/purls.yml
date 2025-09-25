@@ -1,0 +1,5 @@
+- pkg:nuget/Tridion.ConnectorFramework.Connector.SDK@42.0.0
+- pkg:nuget/Tridion.ConnectorFramework.Connector.SDK@42.1.0
+- pkg:nuget/Tridion.ConnectorFramework.Connector.SDK@42.2.1
+- pkg:nuget/Tridion.ConnectorFramework.Connector.SDK@9.1.0
+- pkg:nuget/Tridion.ConnectorFramework.Connector.SDK@9.5.0

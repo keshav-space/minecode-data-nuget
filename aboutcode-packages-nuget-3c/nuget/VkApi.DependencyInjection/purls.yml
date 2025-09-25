@@ -1,0 +1,3 @@
+- pkg:nuget/VkApi.DependencyInjection@0.0.1
+- pkg:nuget/VkApi.DependencyInjection@0.0.3
+- pkg:nuget/VkApi.DependencyInjection@0.0.5

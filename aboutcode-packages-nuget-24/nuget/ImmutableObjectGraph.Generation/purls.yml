@@ -1,0 +1,11 @@
+- pkg:nuget/ImmutableObjectGraph.Generation@1.0.0-beta-ga4f404d7fb
+- pkg:nuget/ImmutableObjectGraph.Generation@1.0.0-beta5-gcca633c3de
+- pkg:nuget/ImmutableObjectGraph.Generation@1.0.15185-beta6
+- pkg:nuget/ImmutableObjectGraph.Generation@1.0.15192-beta7
+- pkg:nuget/ImmutableObjectGraph.Generation@1.1.66-beta-ga7d88d7b6e
+- pkg:nuget/ImmutableObjectGraph.Generation@1.1.68-beta
+- pkg:nuget/ImmutableObjectGraph.Generation@1.1.7-beta
+- pkg:nuget/ImmutableObjectGraph.Generation@1.1.77-beta
+- pkg:nuget/ImmutableObjectGraph.Generation@1.1.83-beta
+- pkg:nuget/ImmutableObjectGraph.Generation@1.1.98-beta
+- pkg:nuget/ImmutableObjectGraph.Generation@1.2.19-beta

@@ -1,0 +1,15 @@
+- pkg:nuget/Beyova.Azure.Storage@1.0.0
+- pkg:nuget/Beyova.Azure.Storage@1.1.0-preview01
+- pkg:nuget/Beyova.Azure.Storage@1.1.0-preview02
+- pkg:nuget/Beyova.Azure.Storage@2.5.1
+- pkg:nuget/Beyova.Azure.Storage@2.5.2
+- pkg:nuget/Beyova.Azure.Storage@2.5.3
+- pkg:nuget/Beyova.Azure.Storage@2.5.4
+- pkg:nuget/Beyova.Azure.Storage@2.5.5
+- pkg:nuget/Beyova.Azure.Storage@2.5.7
+- pkg:nuget/Beyova.Azure.Storage@2.5.8
+- pkg:nuget/Beyova.Azure.Storage@2.6.0
+- pkg:nuget/Beyova.Azure.Storage@2.6.1
+- pkg:nuget/Beyova.Azure.Storage@2.6.2
+- pkg:nuget/Beyova.Azure.Storage@2.7.0
+- pkg:nuget/Beyova.Azure.Storage@2.7.1

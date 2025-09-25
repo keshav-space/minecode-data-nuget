@@ -1,0 +1,4 @@
+- pkg:nuget/TagCache.Redis.Json.Net@0.0.0.20
+- pkg:nuget/TagCache.Redis.Json.Net@1.0.0
+- pkg:nuget/TagCache.Redis.Json.Net@1.0.0.1
+- pkg:nuget/TagCache.Redis.Json.Net@1.0.0.2

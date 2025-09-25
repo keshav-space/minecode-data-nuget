@@ -1,0 +1,6 @@
+- pkg:nuget/InjectedTests.Extensions.Hosting@1.0.0
+- pkg:nuget/InjectedTests.Extensions.Hosting@1.0.1
+- pkg:nuget/InjectedTests.Extensions.Hosting@1.1.0
+- pkg:nuget/InjectedTests.Extensions.Hosting@1.2.0
+- pkg:nuget/InjectedTests.Extensions.Hosting@2.0.0
+- pkg:nuget/InjectedTests.Extensions.Hosting@2.0.0-rc0000

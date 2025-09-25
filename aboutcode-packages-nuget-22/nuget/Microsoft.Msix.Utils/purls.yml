@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Msix.Utils@1.0.200812001
+- pkg:nuget/Microsoft.Msix.Utils@1.0.200918001
+- pkg:nuget/Microsoft.Msix.Utils@1.0.210112002
+- pkg:nuget/Microsoft.Msix.Utils@2.0.3
+- pkg:nuget/Microsoft.Msix.Utils@2.1.0
+- pkg:nuget/Microsoft.Msix.Utils@2.1.1

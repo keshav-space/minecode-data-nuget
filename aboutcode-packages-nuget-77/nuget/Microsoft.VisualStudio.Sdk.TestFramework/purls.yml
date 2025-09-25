@@ -1,0 +1,9 @@
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@16.5.22-beta
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@17.0.15
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@17.1.3-alpha
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@17.11.53
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@17.11.66
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@17.11.8
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@17.2.5
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@17.2.7
+- pkg:nuget/Microsoft.VisualStudio.Sdk.TestFramework@17.6.16

@@ -1,0 +1,4 @@
+- pkg:nuget/MicroElements.NSwag.FluentValidation@6.0.0
+- pkg:nuget/MicroElements.NSwag.FluentValidation@6.0.0-beta.3
+- pkg:nuget/MicroElements.NSwag.FluentValidation@6.1.0
+- pkg:nuget/MicroElements.NSwag.FluentValidation@6.1.1

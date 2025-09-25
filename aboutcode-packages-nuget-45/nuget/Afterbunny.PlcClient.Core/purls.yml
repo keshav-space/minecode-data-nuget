@@ -1,0 +1,11 @@
+- pkg:nuget/Afterbunny.PlcClient.Core@1.0.0
+- pkg:nuget/Afterbunny.PlcClient.Core@2.0.0
+- pkg:nuget/Afterbunny.PlcClient.Core@2.1.0
+- pkg:nuget/Afterbunny.PlcClient.Core@2.2.0
+- pkg:nuget/Afterbunny.PlcClient.Core@3.0.0
+- pkg:nuget/Afterbunny.PlcClient.Core@3.1.0
+- pkg:nuget/Afterbunny.PlcClient.Core@3.2.0
+- pkg:nuget/Afterbunny.PlcClient.Core@4.0.0
+- pkg:nuget/Afterbunny.PlcClient.Core@4.2.0
+- pkg:nuget/Afterbunny.PlcClient.Core@4.6.1
+- pkg:nuget/Afterbunny.PlcClient.Core@4.7.0

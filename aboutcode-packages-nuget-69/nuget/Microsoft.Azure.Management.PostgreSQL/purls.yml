@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Management.PostgreSQL@0.9.0-preview
+- pkg:nuget/Microsoft.Azure.Management.PostgreSQL@0.9.5-preview
+- pkg:nuget/Microsoft.Azure.Management.PostgreSQL@1.0.0
+- pkg:nuget/Microsoft.Azure.Management.PostgreSQL@2.0.0

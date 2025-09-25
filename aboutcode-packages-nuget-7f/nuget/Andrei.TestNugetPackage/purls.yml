@@ -1,0 +1,6 @@
+- pkg:nuget/Andrei.TestNugetPackage@0.0.1
+- pkg:nuget/Andrei.TestNugetPackage@0.0.3.2%2Bsomething
+- pkg:nuget/Andrei.TestNugetPackage@0.0.3.8
+- pkg:nuget/Andrei.TestNugetPackage@0.0.4.16
+- pkg:nuget/Andrei.TestNugetPackage@0.0.4.18
+- pkg:nuget/Andrei.TestNugetPackage@0.0.4.26

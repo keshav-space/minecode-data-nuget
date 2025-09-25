@@ -1,0 +1,9 @@
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230517.85145-eap02
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230531.131733-eap03
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230608.94613-eap04
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230613.105940-eap05
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230623.112700-eap06
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230630.80421-eap07
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230708.200100-eap08
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230713.135750-eap09
+- pkg:nuget/JetBrains.Psi.Features.VisualStudio.AI@232.0.20230720.115717-eap10

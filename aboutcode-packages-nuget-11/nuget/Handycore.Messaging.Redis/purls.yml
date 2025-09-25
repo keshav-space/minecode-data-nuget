@@ -1,0 +1,8 @@
+- pkg:nuget/Handycore.Messaging.Redis@4.11.0
+- pkg:nuget/Handycore.Messaging.Redis@4.12.0
+- pkg:nuget/Handycore.Messaging.Redis@4.13.0
+- pkg:nuget/Handycore.Messaging.Redis@5.0.0
+- pkg:nuget/Handycore.Messaging.Redis@5.16.0
+- pkg:nuget/Handycore.Messaging.Redis@5.18.0
+- pkg:nuget/Handycore.Messaging.Redis@5.5.0
+- pkg:nuget/Handycore.Messaging.Redis@5.9.0

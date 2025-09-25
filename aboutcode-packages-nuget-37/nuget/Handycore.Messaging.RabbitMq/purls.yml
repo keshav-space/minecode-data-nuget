@@ -1,0 +1,8 @@
+- pkg:nuget/Handycore.Messaging.RabbitMq@4.11.0
+- pkg:nuget/Handycore.Messaging.RabbitMq@4.12.0
+- pkg:nuget/Handycore.Messaging.RabbitMq@4.13.0
+- pkg:nuget/Handycore.Messaging.RabbitMq@5.0.0
+- pkg:nuget/Handycore.Messaging.RabbitMq@5.16.0
+- pkg:nuget/Handycore.Messaging.RabbitMq@5.18.0
+- pkg:nuget/Handycore.Messaging.RabbitMq@5.5.0
+- pkg:nuget/Handycore.Messaging.RabbitMq@5.9.0

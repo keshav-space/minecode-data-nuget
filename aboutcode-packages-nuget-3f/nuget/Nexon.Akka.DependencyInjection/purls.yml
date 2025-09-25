@@ -1,0 +1,3 @@
+- pkg:nuget/Nexon.Akka.DependencyInjection@1.4.16.100
+- pkg:nuget/Nexon.Akka.DependencyInjection@1.4.16.200
+- pkg:nuget/Nexon.Akka.DependencyInjection@1.4.16.300

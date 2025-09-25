@@ -1,0 +1,17 @@
+- pkg:nuget/CloudBeat.Kit.MSTest@3.0.0
+- pkg:nuget/CloudBeat.Kit.MSTest@4.0.0
+- pkg:nuget/CloudBeat.Kit.MSTest@4.1.0
+- pkg:nuget/CloudBeat.Kit.MSTest@4.1.2
+- pkg:nuget/CloudBeat.Kit.MSTest@4.3.0
+- pkg:nuget/CloudBeat.Kit.MSTest@4.4.0
+- pkg:nuget/CloudBeat.Kit.MSTest@4.5.0
+- pkg:nuget/CloudBeat.Kit.MSTest@4.6.0
+- pkg:nuget/CloudBeat.Kit.MSTest@4.6.1
+- pkg:nuget/CloudBeat.Kit.MSTest@4.7.0
+- pkg:nuget/CloudBeat.Kit.MSTest@4.7.1
+- pkg:nuget/CloudBeat.Kit.MSTest@4.7.2
+- pkg:nuget/CloudBeat.Kit.MSTest@4.8.1
+- pkg:nuget/CloudBeat.Kit.MSTest@5.0.0
+- pkg:nuget/CloudBeat.Kit.MSTest@5.1.0
+- pkg:nuget/CloudBeat.Kit.MSTest@5.5.0
+- pkg:nuget/CloudBeat.Kit.MSTest@5.5.2

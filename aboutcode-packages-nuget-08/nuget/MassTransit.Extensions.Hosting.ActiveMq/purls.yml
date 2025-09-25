@@ -1,0 +1,5 @@
+- pkg:nuget/MassTransit.Extensions.Hosting.ActiveMq@1.0.10
+- pkg:nuget/MassTransit.Extensions.Hosting.ActiveMq@1.0.11
+- pkg:nuget/MassTransit.Extensions.Hosting.ActiveMq@1.0.7
+- pkg:nuget/MassTransit.Extensions.Hosting.ActiveMq@1.0.8
+- pkg:nuget/MassTransit.Extensions.Hosting.ActiveMq@1.0.9

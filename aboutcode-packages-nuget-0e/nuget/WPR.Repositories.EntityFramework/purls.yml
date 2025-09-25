@@ -1,0 +1,7 @@
+- pkg:nuget/WPR.Repositories.EntityFramework@1.0.0
+- pkg:nuget/WPR.Repositories.EntityFramework@6.0.0
+- pkg:nuget/WPR.Repositories.EntityFramework@7.0.0
+- pkg:nuget/WPR.Repositories.EntityFramework@8.0.0
+- pkg:nuget/WPR.Repositories.EntityFramework@8.0.1
+- pkg:nuget/WPR.Repositories.EntityFramework@8.0.2
+- pkg:nuget/WPR.Repositories.EntityFramework@8.0.3

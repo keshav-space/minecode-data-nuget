@@ -1,0 +1,15 @@
+- pkg:nuget/NServiceBus.MessagePack@0.1.0
+- pkg:nuget/NServiceBus.MessagePack@1.0.0
+- pkg:nuget/NServiceBus.MessagePack@1.0.0-beta0001
+- pkg:nuget/NServiceBus.MessagePack@1.0.0-beta0002
+- pkg:nuget/NServiceBus.MessagePack@1.1.0-beta001
+- pkg:nuget/NServiceBus.MessagePack@1.1.0-beta002
+- pkg:nuget/NServiceBus.MessagePack@2.0.0
+- pkg:nuget/NServiceBus.MessagePack@2.0.0-beta001
+- pkg:nuget/NServiceBus.MessagePack@3.0.0
+- pkg:nuget/NServiceBus.MessagePack@4.0.0
+- pkg:nuget/NServiceBus.MessagePack@4.0.1
+- pkg:nuget/NServiceBus.MessagePack@4.0.2
+- pkg:nuget/NServiceBus.MessagePack@4.0.3
+- pkg:nuget/NServiceBus.MessagePack@5.0.0
+- pkg:nuget/NServiceBus.MessagePack@5.0.1

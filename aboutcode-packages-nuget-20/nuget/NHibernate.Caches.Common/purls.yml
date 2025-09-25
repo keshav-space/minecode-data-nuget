@@ -1,0 +1,6 @@
+- pkg:nuget/NHibernate.Caches.Common@5.5.0
+- pkg:nuget/NHibernate.Caches.Common@5.5.1
+- pkg:nuget/NHibernate.Caches.Common@5.6.0
+- pkg:nuget/NHibernate.Caches.Common@5.7.0
+- pkg:nuget/NHibernate.Caches.Common@5.8.0
+- pkg:nuget/NHibernate.Caches.Common@5.9.0

@@ -1,0 +1,3 @@
+- pkg:nuget/HashDiff.Core@1.0.0
+- pkg:nuget/HashDiff.Core@1.0.0-alpha
+- pkg:nuget/HashDiff.Core@1.1.0

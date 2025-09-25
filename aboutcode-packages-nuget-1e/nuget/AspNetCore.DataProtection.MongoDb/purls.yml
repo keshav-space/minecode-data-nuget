@@ -1,0 +1,15 @@
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@1.0.0
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@2.0.0
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@2.1.0
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@2.1.1
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@2.2.0
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@2.3.16
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@2.3.17
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@5.0.2
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@5.0.3
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@5.0.5
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@6.0.0
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@6.0.1
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@7.0.0
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@8.0.0
+- pkg:nuget/AspNetCore.DataProtection.MongoDb@8.0.1

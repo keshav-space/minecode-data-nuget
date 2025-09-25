@@ -1,0 +1,7 @@
+- pkg:nuget/NuGetUtils.MSBuild.Exec@1.0.0%2Bd04b2e188f837c7a7dd00c36a9c584a51d7728e6
+- pkg:nuget/NuGetUtils.MSBuild.Exec@2.0.0%2B4d1bc2c5db1c6c62081a0c7baf391d371a45cb39
+- pkg:nuget/NuGetUtils.MSBuild.Exec@2.0.1%2B190d18cb3241291b85ccd7cf9359445f4ad4cfd3
+- pkg:nuget/NuGetUtils.MSBuild.Exec@2.0.2%2Bd367ae1ac03a171e9f109cbeb4e756f66e92ce9d
+- pkg:nuget/NuGetUtils.MSBuild.Exec@2.0.3%2B3f4cd20195340a2d019adfbdfc2afb9c94661429
+- pkg:nuget/NuGetUtils.MSBuild.Exec@2.0.4%2B7c44ae703b2910217260b443ed6928bca4533a9e
+- pkg:nuget/NuGetUtils.MSBuild.Exec@2.0.5%2B5aa9e5c36af6476d7e8111472b06228457611ba8

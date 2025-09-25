@@ -1,0 +1,5 @@
+- pkg:nuget/Native.WinDivert@1.4.3
+- pkg:nuget/Native.WinDivert@2.2.0
+- pkg:nuget/Native.WinDivert@2.2.0-alpha1
+- pkg:nuget/Native.WinDivert@2.2.1
+- pkg:nuget/Native.WinDivert@2.2.2

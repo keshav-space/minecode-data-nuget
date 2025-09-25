@@ -1,0 +1,2 @@
+- pkg:nuget/TestPackage.MinClientVersion@1.0.0
+- pkg:nuget/TestPackage.MinClientVersion@1.1.0

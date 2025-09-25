@@ -1,0 +1,2 @@
+- pkg:nuget/MassTransit.Extensions.Hosting.AzureServiceBusCore@1.0.10
+- pkg:nuget/MassTransit.Extensions.Hosting.AzureServiceBusCore@1.0.11

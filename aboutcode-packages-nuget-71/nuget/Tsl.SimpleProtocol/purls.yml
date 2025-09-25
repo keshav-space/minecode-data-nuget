@@ -1,0 +1,4 @@
+- pkg:nuget/Tsl.SimpleProtocol@0.4.0-beta
+- pkg:nuget/Tsl.SimpleProtocol@0.8.1-beta
+- pkg:nuget/Tsl.SimpleProtocol@0.9.1-beta
+- pkg:nuget/Tsl.SimpleProtocol@6.1.0-beta

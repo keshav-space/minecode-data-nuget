@@ -1,0 +1,15 @@
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.2
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.2-BetaCPMSupport
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.2-BetaCPMSupport2
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.2-BetaCPMSupport3
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.2-BetaCPMSupport4
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.2-BetaCPMSupport5
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.3
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.4
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.5
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.6
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@1.0.7
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@2.0.1
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@2.0.2
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.NuGetChangeVersion@2.0.3

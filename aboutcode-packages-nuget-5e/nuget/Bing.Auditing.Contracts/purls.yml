@@ -1,0 +1,14 @@
+- pkg:nuget/Bing.Auditing.Contracts@2.2.9
+- pkg:nuget/Bing.Auditing.Contracts@2.2.9-preview-20230313-1
+- pkg:nuget/Bing.Auditing.Contracts@2.2.9-preview-20230313-2
+- pkg:nuget/Bing.Auditing.Contracts@2.2.9-preview-20230327-1
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20230511-1
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20230511-2
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20230613-1
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20230712-1
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20231007-1
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20231024-1
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20240415-1
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20240417-1
+- pkg:nuget/Bing.Auditing.Contracts@6.0.0-preview-20250319-1

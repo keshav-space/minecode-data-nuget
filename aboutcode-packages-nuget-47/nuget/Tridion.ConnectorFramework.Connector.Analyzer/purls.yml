@@ -1,0 +1,5 @@
+- pkg:nuget/Tridion.ConnectorFramework.Connector.Analyzer@42.0.0
+- pkg:nuget/Tridion.ConnectorFramework.Connector.Analyzer@42.1.0
+- pkg:nuget/Tridion.ConnectorFramework.Connector.Analyzer@42.2.1
+- pkg:nuget/Tridion.ConnectorFramework.Connector.Analyzer@9.1.0
+- pkg:nuget/Tridion.ConnectorFramework.Connector.Analyzer@9.5.0

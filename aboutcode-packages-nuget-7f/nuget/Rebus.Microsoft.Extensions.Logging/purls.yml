@@ -1,0 +1,12 @@
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@1.0.0
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@1.0.0-a1
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@1.0.0-a2
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@1.0.0-a3
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@1.0.1
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@2.0.0
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@3.0.0
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@3.0.0-a1
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@4.0.0
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@5.0.0
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@5.0.0-alpha01
+- pkg:nuget/Rebus.Microsoft.Extensions.Logging@5.1.0

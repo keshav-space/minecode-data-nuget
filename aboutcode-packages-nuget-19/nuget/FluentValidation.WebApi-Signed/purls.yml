@@ -1,0 +1,16 @@
+- pkg:nuget/FluentValidation.WebApi-Signed@5.1.0
+- pkg:nuget/FluentValidation.WebApi-Signed@5.4.0
+- pkg:nuget/FluentValidation.WebApi-Signed@5.5.0
+- pkg:nuget/FluentValidation.WebApi-Signed@5.6.0
+- pkg:nuget/FluentValidation.WebApi-Signed@5.6.1
+- pkg:nuget/FluentValidation.WebApi-Signed@5.6.2
+- pkg:nuget/FluentValidation.WebApi-Signed@6.0.0
+- pkg:nuget/FluentValidation.WebApi-Signed@6.0.1
+- pkg:nuget/FluentValidation.WebApi-Signed@6.0.2
+- pkg:nuget/FluentValidation.WebApi-Signed@6.1.0
+- pkg:nuget/FluentValidation.WebApi-Signed@6.2.0
+- pkg:nuget/FluentValidation.WebApi-Signed@6.2.0-beta1
+- pkg:nuget/FluentValidation.WebApi-Signed@6.2.1
+- pkg:nuget/FluentValidation.WebApi-Signed@6.2.1-beta1
+- pkg:nuget/FluentValidation.WebApi-Signed@6.4.0-beta1
+- pkg:nuget/FluentValidation.WebApi-Signed@7.0.0

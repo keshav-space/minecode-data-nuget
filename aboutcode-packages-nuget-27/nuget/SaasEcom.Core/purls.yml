@@ -1,0 +1,16 @@
+- pkg:nuget/SaasEcom.Core@0.1.0
+- pkg:nuget/SaasEcom.Core@1.0.0
+- pkg:nuget/SaasEcom.Core@1.0.0-alpha1
+- pkg:nuget/SaasEcom.Core@1.0.0-alpha2
+- pkg:nuget/SaasEcom.Core@1.0.0-alpha3
+- pkg:nuget/SaasEcom.Core@1.0.0-beta
+- pkg:nuget/SaasEcom.Core@1.0.0-beta2
+- pkg:nuget/SaasEcom.Core@1.0.0-beta3
+- pkg:nuget/SaasEcom.Core@1.0.1
+- pkg:nuget/SaasEcom.Core@1.1.0
+- pkg:nuget/SaasEcom.Core@1.1.1
+- pkg:nuget/SaasEcom.Core@1.1.2
+- pkg:nuget/SaasEcom.Core@1.1.3
+- pkg:nuget/SaasEcom.Core@1.1.4
+- pkg:nuget/SaasEcom.Core@1.1.5
+- pkg:nuget/SaasEcom.Core@1.1.6

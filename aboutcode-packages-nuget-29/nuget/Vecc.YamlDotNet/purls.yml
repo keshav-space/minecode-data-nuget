@@ -1,0 +1,12 @@
+- pkg:nuget/Vecc.YamlDotNet@0.0.1-aot
+- pkg:nuget/Vecc.YamlDotNet@0.0.10-test-0000
+- pkg:nuget/Vecc.YamlDotNet@0.0.11-test-0000
+- pkg:nuget/Vecc.YamlDotNet@0.0.12-test-0000
+- pkg:nuget/Vecc.YamlDotNet@0.0.13-test-0000
+- pkg:nuget/Vecc.YamlDotNet@0.0.14-test-0000
+- pkg:nuget/Vecc.YamlDotNet@0.0.2-aot
+- pkg:nuget/Vecc.YamlDotNet@0.0.3-aot
+- pkg:nuget/Vecc.YamlDotNet@0.0.4-aot
+- pkg:nuget/Vecc.YamlDotNet@0.0.5-aot
+- pkg:nuget/Vecc.YamlDotNet@0.0.6-aot
+- pkg:nuget/Vecc.YamlDotNet@1.0.0-aot

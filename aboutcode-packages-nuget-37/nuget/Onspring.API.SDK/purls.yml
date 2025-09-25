@@ -1,0 +1,14 @@
+- pkg:nuget/Onspring.API.SDK@1.0.0
+- pkg:nuget/Onspring.API.SDK@1.1.0
+- pkg:nuget/Onspring.API.SDK@1.1.1
+- pkg:nuget/Onspring.API.SDK@1.1.2
+- pkg:nuget/Onspring.API.SDK@2.0.0
+- pkg:nuget/Onspring.API.SDK@2.1.0
+- pkg:nuget/Onspring.API.SDK@2.2.0-prerelease
+- pkg:nuget/Onspring.API.SDK@3.0.0-prerelease
+- pkg:nuget/Onspring.API.SDK@4.0.0-alpha
+- pkg:nuget/Onspring.API.SDK@4.0.1
+- pkg:nuget/Onspring.API.SDK@4.0.1-alpha
+- pkg:nuget/Onspring.API.SDK@4.0.2
+- pkg:nuget/Onspring.API.SDK@4.0.3
+- pkg:nuget/Onspring.API.SDK@4.0.4

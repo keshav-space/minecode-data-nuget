@@ -1,0 +1,16 @@
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@2.3.10
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@2.3.11
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@2.3.12
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@2.3.13
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@2.3.14
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@2.3.15
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@2.3.16
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@2.3.17
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@5.0.2
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@5.0.3
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@5.0.5
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@6.0.0
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@6.0.1
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@7.0.0
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@8.0.0
+- pkg:nuget/AspNetCore.Authentication.Cookies.MongoDb@8.0.1

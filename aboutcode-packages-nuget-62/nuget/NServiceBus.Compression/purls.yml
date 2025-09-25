@@ -1,0 +1,6 @@
+- pkg:nuget/NServiceBus.Compression@1.0.0
+- pkg:nuget/NServiceBus.Compression@2.0.0
+- pkg:nuget/NServiceBus.Compression@3.0.0
+- pkg:nuget/NServiceBus.Compression@4.0.0
+- pkg:nuget/NServiceBus.Compression@5.0.0
+- pkg:nuget/NServiceBus.Compression@5.0.1

@@ -1,0 +1,17 @@
+- pkg:nuget/CloudBeat.Kit.Playwright@4.0.0
+- pkg:nuget/CloudBeat.Kit.Playwright@4.1.2
+- pkg:nuget/CloudBeat.Kit.Playwright@4.2.0-rc.1
+- pkg:nuget/CloudBeat.Kit.Playwright@4.3.0
+- pkg:nuget/CloudBeat.Kit.Playwright@4.4.0
+- pkg:nuget/CloudBeat.Kit.Playwright@4.5.0
+- pkg:nuget/CloudBeat.Kit.Playwright@4.6.0
+- pkg:nuget/CloudBeat.Kit.Playwright@4.6.1
+- pkg:nuget/CloudBeat.Kit.Playwright@4.6.2
+- pkg:nuget/CloudBeat.Kit.Playwright@4.7.0
+- pkg:nuget/CloudBeat.Kit.Playwright@4.7.1
+- pkg:nuget/CloudBeat.Kit.Playwright@4.7.2
+- pkg:nuget/CloudBeat.Kit.Playwright@4.7.3
+- pkg:nuget/CloudBeat.Kit.Playwright@4.8.0
+- pkg:nuget/CloudBeat.Kit.Playwright@4.8.1
+- pkg:nuget/CloudBeat.Kit.Playwright@5.0.0
+- pkg:nuget/CloudBeat.Kit.Playwright@5.5.0

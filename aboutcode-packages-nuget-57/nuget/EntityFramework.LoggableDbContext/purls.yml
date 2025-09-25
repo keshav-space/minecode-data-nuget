@@ -1,0 +1,2 @@
+- pkg:nuget/EntityFramework.LoggableDbContext@1.0.0
+- pkg:nuget/EntityFramework.LoggableDbContext@1.0.0-beta1

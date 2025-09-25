@@ -1,0 +1,16 @@
+- pkg:nuget/MSTestX.Console@0.16.0
+- pkg:nuget/MSTestX.Console@0.16.1
+- pkg:nuget/MSTestX.Console@0.16.2
+- pkg:nuget/MSTestX.Console@0.17.0
+- pkg:nuget/MSTestX.Console@0.17.1
+- pkg:nuget/MSTestX.Console@0.18.0
+- pkg:nuget/MSTestX.Console@0.19.0
+- pkg:nuget/MSTestX.Console@0.20.0
+- pkg:nuget/MSTestX.Console@0.30.0
+- pkg:nuget/MSTestX.Console@0.31.0
+- pkg:nuget/MSTestX.Console@0.32.0
+- pkg:nuget/MSTestX.Console@0.33.0
+- pkg:nuget/MSTestX.Console@0.34.0
+- pkg:nuget/MSTestX.Console@0.35.0
+- pkg:nuget/MSTestX.Console@0.36.0
+- pkg:nuget/MSTestX.Console@0.37.0

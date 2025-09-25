@@ -1,0 +1,6 @@
+- pkg:nuget/InjectedTests.AspNetCore.Mvc.Testing@1.0.0
+- pkg:nuget/InjectedTests.AspNetCore.Mvc.Testing@1.0.1
+- pkg:nuget/InjectedTests.AspNetCore.Mvc.Testing@1.1.0
+- pkg:nuget/InjectedTests.AspNetCore.Mvc.Testing@1.2.0
+- pkg:nuget/InjectedTests.AspNetCore.Mvc.Testing@2.0.0
+- pkg:nuget/InjectedTests.AspNetCore.Mvc.Testing@2.0.0-rc0000

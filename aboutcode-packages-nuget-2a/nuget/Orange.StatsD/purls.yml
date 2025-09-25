@@ -1,0 +1,5 @@
+- pkg:nuget/Orange.StatsD@1.0.0-CI-20190601-002152
+- pkg:nuget/Orange.StatsD@1.0.0-CI-20190601-004450
+- pkg:nuget/Orange.StatsD@1.0.0-CI-20190602-202736
+- pkg:nuget/Orange.StatsD@1.0.0-CI-20190602-212831
+- pkg:nuget/Orange.StatsD@1.0.0-alpha

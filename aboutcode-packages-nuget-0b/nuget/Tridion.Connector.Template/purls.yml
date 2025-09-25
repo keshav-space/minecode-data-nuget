@@ -1,0 +1,5 @@
+- pkg:nuget/Tridion.Connector.Template@42.0.0
+- pkg:nuget/Tridion.Connector.Template@42.1.0
+- pkg:nuget/Tridion.Connector.Template@42.2.1
+- pkg:nuget/Tridion.Connector.Template@9.1.0
+- pkg:nuget/Tridion.Connector.Template@9.5.0

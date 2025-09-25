@@ -1,0 +1,5 @@
+- pkg:nuget/MicroElements.OpenApi.FluentValidation@6.0.0
+- pkg:nuget/MicroElements.OpenApi.FluentValidation@6.0.0-beta.1
+- pkg:nuget/MicroElements.OpenApi.FluentValidation@6.0.0-beta.3
+- pkg:nuget/MicroElements.OpenApi.FluentValidation@6.1.0
+- pkg:nuget/MicroElements.OpenApi.FluentValidation@6.1.1

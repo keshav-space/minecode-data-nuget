@@ -1,0 +1,10 @@
+- pkg:nuget/Tools.Net.Mongo.Core@1.0.0
+- pkg:nuget/Tools.Net.Mongo.Core@1.0.0-alpha
+- pkg:nuget/Tools.Net.Mongo.Core@2.0.0
+- pkg:nuget/Tools.Net.Mongo.Core@2.0.0-beta
+- pkg:nuget/Tools.Net.Mongo.Core@2.0.0-rc
+- pkg:nuget/Tools.Net.Mongo.Core@3.0.0
+- pkg:nuget/Tools.Net.Mongo.Core@3.1.0
+- pkg:nuget/Tools.Net.Mongo.Core@3.2.0
+- pkg:nuget/Tools.Net.Mongo.Core@3.3.0
+- pkg:nuget/Tools.Net.Mongo.Core@3.4.0

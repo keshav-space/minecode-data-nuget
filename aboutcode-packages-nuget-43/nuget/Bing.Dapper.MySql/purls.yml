@@ -1,0 +1,10 @@
+- pkg:nuget/Bing.Dapper.MySql@6.0.0
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20230511-1
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20230511-2
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20230613-1
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20230712-1
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20231007-1
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20231024-1
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20240415-1
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20240417-1
+- pkg:nuget/Bing.Dapper.MySql@6.0.0-preview-20250319-1
