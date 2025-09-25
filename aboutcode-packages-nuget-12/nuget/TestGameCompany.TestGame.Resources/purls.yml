@@ -1,0 +1,11 @@
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.0
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.1
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.2
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.3
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.4-alpha.0.0.1
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.4-alpha.0.0.2
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.4-vsh003
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.4-vsh004
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.4-vsh005-mw001-sys001
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.4-vsh006-mw001-sys001
+- pkg:nuget/TestGameCompany.TestGame.Resources@1.0.4-vsh006-mw002-sys001

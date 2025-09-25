@@ -1,0 +1,5 @@
+- pkg:nuget/Infrastructure.BarcodeReader.Interface@1.0.0
+- pkg:nuget/Infrastructure.BarcodeReader.Interface@1.0.1
+- pkg:nuget/Infrastructure.BarcodeReader.Interface@1.0.2
+- pkg:nuget/Infrastructure.BarcodeReader.Interface@1.0.3
+- pkg:nuget/Infrastructure.BarcodeReader.Interface@2019.5.23.6

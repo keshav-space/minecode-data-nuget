@@ -1,0 +1,4 @@
+- pkg:nuget/Finch.Abstractions.Sqlite@0.0.1
+- pkg:nuget/Finch.Abstractions.Sqlite@0.0.102
+- pkg:nuget/Finch.Abstractions.Sqlite@0.0.103
+- pkg:nuget/Finch.Abstractions.Sqlite@0.0.104

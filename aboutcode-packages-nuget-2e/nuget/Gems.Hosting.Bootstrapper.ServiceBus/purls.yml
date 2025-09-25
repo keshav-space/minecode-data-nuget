@@ -1,0 +1,3 @@
+- pkg:nuget/Gems.Hosting.Bootstrapper.ServiceBus@4.0.24-clickocean
+- pkg:nuget/Gems.Hosting.Bootstrapper.ServiceBus@4.2.0
+- pkg:nuget/Gems.Hosting.Bootstrapper.ServiceBus@4.200.1

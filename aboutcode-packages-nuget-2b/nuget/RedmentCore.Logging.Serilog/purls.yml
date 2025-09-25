@@ -1,0 +1,4 @@
+- pkg:nuget/RedmentCore.Logging.Serilog@1.0.0
+- pkg:nuget/RedmentCore.Logging.Serilog@1.0.1
+- pkg:nuget/RedmentCore.Logging.Serilog@6.1.0.1
+- pkg:nuget/RedmentCore.Logging.Serilog@8.0.0

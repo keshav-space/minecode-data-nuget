@@ -1,0 +1,5 @@
+- pkg:nuget/MyLibraries.MyEthernetLib.Net@3.7.6.23
+- pkg:nuget/MyLibraries.MyEthernetLib.Net@4.7.6.23
+- pkg:nuget/MyLibraries.MyEthernetLib.Net@6.8.6.23
+- pkg:nuget/MyLibraries.MyEthernetLib.Net@7.8.6.23
+- pkg:nuget/MyLibraries.MyEthernetLib.Net@8.9.6.23

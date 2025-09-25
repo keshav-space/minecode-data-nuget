@@ -1,0 +1,4 @@
+- pkg:nuget/ScikitLearn@0.0.1
+- pkg:nuget/ScikitLearn@1.0.0
+- pkg:nuget/ScikitLearn@1.1.0
+- pkg:nuget/ScikitLearn@1.7.1-rc1

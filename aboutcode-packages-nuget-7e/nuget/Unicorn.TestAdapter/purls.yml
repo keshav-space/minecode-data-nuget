@@ -1,0 +1,8 @@
+- pkg:nuget/Unicorn.TestAdapter@2.2.1
+- pkg:nuget/Unicorn.TestAdapter@2.2.2
+- pkg:nuget/Unicorn.TestAdapter@2.3.0
+- pkg:nuget/Unicorn.TestAdapter@3.0.0
+- pkg:nuget/Unicorn.TestAdapter@3.1.0
+- pkg:nuget/Unicorn.TestAdapter@3.2.0
+- pkg:nuget/Unicorn.TestAdapter@4.0.0
+- pkg:nuget/Unicorn.TestAdapter@5.0.0

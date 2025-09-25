@@ -1,0 +1,6 @@
+- pkg:nuget/Cloud.File.Storage.Manager.AzureBlob@1.0.0
+- pkg:nuget/Cloud.File.Storage.Manager.AzureBlob@2.0.0
+- pkg:nuget/Cloud.File.Storage.Manager.AzureBlob@2.0.1
+- pkg:nuget/Cloud.File.Storage.Manager.AzureBlob@3.0.0
+- pkg:nuget/Cloud.File.Storage.Manager.AzureBlob@3.0.1
+- pkg:nuget/Cloud.File.Storage.Manager.AzureBlob@3.1.0

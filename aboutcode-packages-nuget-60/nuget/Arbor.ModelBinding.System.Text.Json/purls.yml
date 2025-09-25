@@ -1,0 +1,5 @@
+- pkg:nuget/Arbor.ModelBinding.System.Text.Json@2.2.0
+- pkg:nuget/Arbor.ModelBinding.System.Text.Json@2.3.0
+- pkg:nuget/Arbor.ModelBinding.System.Text.Json@2.4.0
+- pkg:nuget/Arbor.ModelBinding.System.Text.Json@2.5.0
+- pkg:nuget/Arbor.ModelBinding.System.Text.Json@2.6.0

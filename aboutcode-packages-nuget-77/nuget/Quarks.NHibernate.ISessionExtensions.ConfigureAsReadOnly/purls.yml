@@ -1,0 +1,2 @@
+- pkg:nuget/Quarks.NHibernate.ISessionExtensions.ConfigureAsReadOnly@1.0.0
+- pkg:nuget/Quarks.NHibernate.ISessionExtensions.ConfigureAsReadOnly@1.0.1

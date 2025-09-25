@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Enrichers.Amazon@1.0.0-ci-20250705-230826
+- pkg:nuget/Serilog.Enrichers.Amazon@1.0.0-ci-20250705-232929
+- pkg:nuget/Serilog.Enrichers.Amazon@1.0.0-ci-20250706-001123
+- pkg:nuget/Serilog.Enrichers.Amazon@1.0.0-ci-20250706-015808

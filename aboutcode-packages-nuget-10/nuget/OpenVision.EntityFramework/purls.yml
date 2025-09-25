@@ -1,0 +1,4 @@
+- pkg:nuget/OpenVision.EntityFramework@1.0.0.10-alpha
+- pkg:nuget/OpenVision.EntityFramework@1.0.0.11-alpha
+- pkg:nuget/OpenVision.EntityFramework@1.0.0.8-alpha
+- pkg:nuget/OpenVision.EntityFramework@1.0.0.9-alpha

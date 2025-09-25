@@ -1,0 +1,2 @@
+- pkg:nuget/Ninject.Web.WebApi.SelfHost@3.3.0
+- pkg:nuget/Ninject.Web.WebApi.SelfHost@3.3.1

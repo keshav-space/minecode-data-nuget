@@ -1,0 +1,2 @@
+- pkg:nuget/OpenTelemetry.Contrib.Instrumentation.AWS@1.0.1
+- pkg:nuget/OpenTelemetry.Contrib.Instrumentation.AWS@1.0.2

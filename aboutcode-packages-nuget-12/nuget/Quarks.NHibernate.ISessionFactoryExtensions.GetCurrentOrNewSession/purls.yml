@@ -1,0 +1,1 @@
+- pkg:nuget/Quarks.NHibernate.ISessionFactoryExtensions.GetCurrentOrNewSession@1.0.0

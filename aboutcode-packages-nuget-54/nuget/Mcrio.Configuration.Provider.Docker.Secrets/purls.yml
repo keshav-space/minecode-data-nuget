@@ -1,0 +1,2 @@
+- pkg:nuget/Mcrio.Configuration.Provider.Docker.Secrets@1.0.0
+- pkg:nuget/Mcrio.Configuration.Provider.Docker.Secrets@1.0.1

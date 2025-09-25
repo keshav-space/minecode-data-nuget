@@ -1,0 +1,8 @@
+- pkg:nuget/APF.Core.Invoice.Common@6.0.0
+- pkg:nuget/APF.Core.Invoice.Common@6.0.0.1
+- pkg:nuget/APF.Core.Invoice.Common@6.0.0.2-Beta-01
+- pkg:nuget/APF.Core.Invoice.Common@8.0.0-preview.1
+- pkg:nuget/APF.Core.Invoice.Common@8.0.0.1
+- pkg:nuget/APF.Core.Invoice.Common@8.0.0.1-Beta-01
+- pkg:nuget/APF.Core.Invoice.Common@8.0.0.1-migration
+- pkg:nuget/APF.Core.Invoice.Common@8.0.0.12-beta-migration

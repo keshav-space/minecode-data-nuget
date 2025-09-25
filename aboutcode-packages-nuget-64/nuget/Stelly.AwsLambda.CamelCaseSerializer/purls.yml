@@ -1,0 +1,3 @@
+- pkg:nuget/Stelly.AwsLambda.CamelCaseSerializer@0.2.0
+- pkg:nuget/Stelly.AwsLambda.CamelCaseSerializer@1.0.0
+- pkg:nuget/Stelly.AwsLambda.CamelCaseSerializer@2.0.0

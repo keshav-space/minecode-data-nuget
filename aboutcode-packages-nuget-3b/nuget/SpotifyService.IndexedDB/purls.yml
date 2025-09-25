@@ -1,0 +1,4 @@
+- pkg:nuget/SpotifyService.IndexedDB@1.5.0-preview
+- pkg:nuget/SpotifyService.IndexedDB@1.5.1-preview
+- pkg:nuget/SpotifyService.IndexedDB@1.5.12-preview
+- pkg:nuget/SpotifyService.IndexedDB@1.5.5-preview

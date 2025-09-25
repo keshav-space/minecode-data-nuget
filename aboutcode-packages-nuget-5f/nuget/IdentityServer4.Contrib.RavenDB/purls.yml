@@ -1,0 +1,2 @@
+- pkg:nuget/IdentityServer4.Contrib.RavenDB@1.0.0
+- pkg:nuget/IdentityServer4.Contrib.RavenDB@1.0.1

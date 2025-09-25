@@ -1,0 +1,12 @@
+- pkg:nuget/TestDynamo.Lambda@0.1.0-alpha
+- pkg:nuget/TestDynamo.Lambda@0.1.1-alpha
+- pkg:nuget/TestDynamo.Lambda@0.1.5-alpha
+- pkg:nuget/TestDynamo.Lambda@0.6.0
+- pkg:nuget/TestDynamo.Lambda@0.7.0
+- pkg:nuget/TestDynamo.Lambda@0.7.1
+- pkg:nuget/TestDynamo.Lambda@0.7.2
+- pkg:nuget/TestDynamo.Lambda@0.8.0
+- pkg:nuget/TestDynamo.Lambda@0.8.1
+- pkg:nuget/TestDynamo.Lambda@0.9.0
+- pkg:nuget/TestDynamo.Lambda@1.0.0
+- pkg:nuget/TestDynamo.Lambda@1.1.0

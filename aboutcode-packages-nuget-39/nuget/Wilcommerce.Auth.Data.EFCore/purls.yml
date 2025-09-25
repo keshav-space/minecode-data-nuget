@@ -1,0 +1,5 @@
+- pkg:nuget/Wilcommerce.Auth.Data.EFCore@1.0.0
+- pkg:nuget/Wilcommerce.Auth.Data.EFCore@1.0.0-rc1
+- pkg:nuget/Wilcommerce.Auth.Data.EFCore@1.0.0-rc2
+- pkg:nuget/Wilcommerce.Auth.Data.EFCore@1.0.0-rc3
+- pkg:nuget/Wilcommerce.Auth.Data.EFCore@1.0.0-rc4

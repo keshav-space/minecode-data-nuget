@@ -1,0 +1,3 @@
+- pkg:nuget/SQLitePCLRawEx.provider.e_sqlite3@2.1.0
+- pkg:nuget/SQLitePCLRawEx.provider.e_sqlite3@2.1.1-pre20220801064809
+- pkg:nuget/SQLitePCLRawEx.provider.e_sqlite3@2.1.2-pre20220801070813

@@ -1,0 +1,8 @@
+- pkg:nuget/NServiceBus.Extensions.Logging@1.0.0
+- pkg:nuget/NServiceBus.Extensions.Logging@1.0.0-alpha0005
+- pkg:nuget/NServiceBus.Extensions.Logging@2.0.0
+- pkg:nuget/NServiceBus.Extensions.Logging@2.0.0-beta.2
+- pkg:nuget/NServiceBus.Extensions.Logging@2.0.0-rc.2
+- pkg:nuget/NServiceBus.Extensions.Logging@2.0.1
+- pkg:nuget/NServiceBus.Extensions.Logging@3.0.0
+- pkg:nuget/NServiceBus.Extensions.Logging@3.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/CdkCloudFormation.PaloAltoNetworksCloudNGFWRuleStack@1.1.0-alpha.5
+- pkg:nuget/CdkCloudFormation.PaloAltoNetworksCloudNGFWRuleStack@1.1.0-alpha.6
+- pkg:nuget/CdkCloudFormation.PaloAltoNetworksCloudNGFWRuleStack@1.1.0-alpha.7
+- pkg:nuget/CdkCloudFormation.PaloAltoNetworksCloudNGFWRuleStack@2.0.0-alpha.7
+- pkg:nuget/CdkCloudFormation.PaloAltoNetworksCloudNGFWRuleStack@2.0.2-alpha.7

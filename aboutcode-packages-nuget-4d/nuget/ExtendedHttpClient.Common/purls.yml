@@ -1,0 +1,4 @@
+- pkg:nuget/ExtendedHttpClient.Common@0.0.1
+- pkg:nuget/ExtendedHttpClient.Common@0.0.2
+- pkg:nuget/ExtendedHttpClient.Common@0.0.3
+- pkg:nuget/ExtendedHttpClient.Common@0.0.4

@@ -1,0 +1,6 @@
+- pkg:nuget/RedmentCore.Platform.Authentication.Microsoft@6.0.0
+- pkg:nuget/RedmentCore.Platform.Authentication.Microsoft@6.0.0.1
+- pkg:nuget/RedmentCore.Platform.Authentication.Microsoft@6.0.0.2
+- pkg:nuget/RedmentCore.Platform.Authentication.Microsoft@8.0.0
+- pkg:nuget/RedmentCore.Platform.Authentication.Microsoft@8.0.0.1
+- pkg:nuget/RedmentCore.Platform.Authentication.Microsoft@8.0.0.2

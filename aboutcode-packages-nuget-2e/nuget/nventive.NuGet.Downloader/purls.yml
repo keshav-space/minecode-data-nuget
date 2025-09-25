@@ -1,0 +1,4 @@
+- pkg:nuget/nventive.NuGet.Downloader@2.0.0
+- pkg:nuget/nventive.NuGet.Downloader@2.1.0
+- pkg:nuget/nventive.NuGet.Downloader@2.1.1
+- pkg:nuget/nventive.NuGet.Downloader@2.2.0-alpha0006
