@@ -1,0 +1,5 @@
+- pkg:nuget/Emgu.TF.Lite.runtime.debian-arm64@2.10.1.1493
+- pkg:nuget/Emgu.TF.Lite.runtime.debian-arm64@2.15.0.1583
+- pkg:nuget/Emgu.TF.Lite.runtime.debian-arm64@2.16.1.1623
+- pkg:nuget/Emgu.TF.Lite.runtime.debian-arm64@2.19.0.1709
+- pkg:nuget/Emgu.TF.Lite.runtime.debian-arm64@2.8.0.1418

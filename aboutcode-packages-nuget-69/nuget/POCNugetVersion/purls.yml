@@ -1,0 +1,4 @@
+- pkg:nuget/POCNugetVersion@1.0.6-preview
+- pkg:nuget/POCNugetVersion@1.0.7-preview
+- pkg:nuget/POCNugetVersion@1.1.0-preview
+- pkg:nuget/POCNugetVersion@1.1.1-preview

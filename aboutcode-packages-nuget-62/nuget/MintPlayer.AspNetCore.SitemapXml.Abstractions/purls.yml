@@ -1,0 +1,3 @@
+- pkg:nuget/MintPlayer.AspNetCore.SitemapXml.Abstractions@7.0.0
+- pkg:nuget/MintPlayer.AspNetCore.SitemapXml.Abstractions@8.0.0
+- pkg:nuget/MintPlayer.AspNetCore.SitemapXml.Abstractions@9.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword@6.0.0
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword@6.0.1
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword@7.0.0
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword@8.0.0
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword@9.0.0

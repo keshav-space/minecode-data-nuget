@@ -1,0 +1,5 @@
+- pkg:nuget/DNCB.AspNetCoreSecurityHeaders@0.0.1-alpha
+- pkg:nuget/DNCB.AspNetCoreSecurityHeaders@0.0.1-beta
+- pkg:nuget/DNCB.AspNetCoreSecurityHeaders@0.0.1-rc
+- pkg:nuget/DNCB.AspNetCoreSecurityHeaders@0.0.2-alpha
+- pkg:nuget/DNCB.AspNetCoreSecurityHeaders@0.0.2-beta

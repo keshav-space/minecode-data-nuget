@@ -1,0 +1,5 @@
+- pkg:nuget/Albatross.CodeGen.CommandLine@7.6.2%2B437464d
+- pkg:nuget/Albatross.CodeGen.CommandLine@7.6.3%2B7ac34a2
+- pkg:nuget/Albatross.CodeGen.CommandLine@8.0.0%2B119a216
+- pkg:nuget/Albatross.CodeGen.CommandLine@8.0.1%2Bd4d8556
+- pkg:nuget/Albatross.CodeGen.CommandLine@8.0.2%2Bd22a9fa

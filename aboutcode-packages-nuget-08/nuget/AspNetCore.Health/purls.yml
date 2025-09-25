@@ -1,0 +1,4 @@
+- pkg:nuget/AspNetCore.Health@1.0.0
+- pkg:nuget/AspNetCore.Health@1.0.0-beta-0012
+- pkg:nuget/AspNetCore.Health@2.0.0
+- pkg:nuget/AspNetCore.Health@2.0.1

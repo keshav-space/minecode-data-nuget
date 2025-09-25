@@ -1,0 +1,3 @@
+- pkg:nuget/VersionManager@1.0.0
+- pkg:nuget/VersionManager@2.0.0
+- pkg:nuget/VersionManager@2.0.1

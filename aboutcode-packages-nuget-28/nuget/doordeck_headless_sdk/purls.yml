@@ -1,0 +1,4 @@
+- pkg:nuget/doordeck_headless_sdk@0.3.0
+- pkg:nuget/doordeck_headless_sdk@0.47.0-dev.4.uncommitted%2Bnuget.publish.63f0504
+- pkg:nuget/doordeck_headless_sdk@0.49.0
+- pkg:nuget/doordeck_headless_sdk@0.50.0

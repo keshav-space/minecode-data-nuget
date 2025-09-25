@@ -1,0 +1,7 @@
+- pkg:nuget/Swagger.DependencyInjection@1.0.0
+- pkg:nuget/Swagger.DependencyInjection@7.0.0
+- pkg:nuget/Swagger.DependencyInjection@7.1.0
+- pkg:nuget/Swagger.DependencyInjection@8.0.0
+- pkg:nuget/Swagger.DependencyInjection@8.0.1
+- pkg:nuget/Swagger.DependencyInjection@8.1.0
+- pkg:nuget/Swagger.DependencyInjection@8.2.1

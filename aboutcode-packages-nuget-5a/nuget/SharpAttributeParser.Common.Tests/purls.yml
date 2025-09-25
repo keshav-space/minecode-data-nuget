@@ -1,0 +1,4 @@
+- pkg:nuget/SharpAttributeParser.Common.Tests@6.0.1
+- pkg:nuget/SharpAttributeParser.Common.Tests@6.0.2
+- pkg:nuget/SharpAttributeParser.Common.Tests@6.1.0
+- pkg:nuget/SharpAttributeParser.Common.Tests@6.1.0-alpha.9

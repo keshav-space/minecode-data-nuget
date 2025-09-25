@@ -1,0 +1,7 @@
+- pkg:nuget/EFContinuousMigrations@1.0.0
+- pkg:nuget/EFContinuousMigrations@3.1.17
+- pkg:nuget/EFContinuousMigrations@3.1.18
+- pkg:nuget/EFContinuousMigrations@5.0.7
+- pkg:nuget/EFContinuousMigrations@5.0.8
+- pkg:nuget/EFContinuousMigrations@5.0.9
+- pkg:nuget/EFContinuousMigrations@6.0.4

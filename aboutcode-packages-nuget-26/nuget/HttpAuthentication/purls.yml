@@ -1,0 +1,4 @@
+- pkg:nuget/HttpAuthentication@1.0.0
+- pkg:nuget/HttpAuthentication@1.0.1
+- pkg:nuget/HttpAuthentication@1.1.0
+- pkg:nuget/HttpAuthentication@1.2.0

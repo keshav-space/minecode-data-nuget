@@ -1,0 +1,4 @@
+- pkg:nuget/MintPlayer.AspNetCore.Hsts@6.0.0
+- pkg:nuget/MintPlayer.AspNetCore.Hsts@7.0.0
+- pkg:nuget/MintPlayer.AspNetCore.Hsts@8.0.0
+- pkg:nuget/MintPlayer.AspNetCore.Hsts@9.0.0

@@ -1,0 +1,7 @@
+- pkg:nuget/OpenTelemetry.Extensions@1.0.0-beta.3
+- pkg:nuget/OpenTelemetry.Extensions@1.0.0-beta.4
+- pkg:nuget/OpenTelemetry.Extensions@1.0.0-beta.5
+- pkg:nuget/OpenTelemetry.Extensions@1.0.0-beta2.438
+- pkg:nuget/OpenTelemetry.Extensions@1.0.0-beta2.88
+- pkg:nuget/OpenTelemetry.Extensions@1.10.0-beta.1
+- pkg:nuget/OpenTelemetry.Extensions@1.11.0-beta.1

@@ -1,0 +1,11 @@
+- pkg:nuget/Candor.Security.AzureStorageProvider@1.0.0
+- pkg:nuget/Candor.Security.AzureStorageProvider@1.0.1
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.0.0
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.1.0.1
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.1.0.2
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.1.1
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.3.0
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.3.1
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.3.2
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.5.0
+- pkg:nuget/Candor.Security.AzureStorageProvider@2.6.0

@@ -1,0 +1,5 @@
+- pkg:nuget/PagSeguro.DotNet.Sdk.Orders@1.5.0
+- pkg:nuget/PagSeguro.DotNet.Sdk.Orders@1.6.0
+- pkg:nuget/PagSeguro.DotNet.Sdk.Orders@2.0.0
+- pkg:nuget/PagSeguro.DotNet.Sdk.Orders@3.0.0
+- pkg:nuget/PagSeguro.DotNet.Sdk.Orders@3.1.0

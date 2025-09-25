@@ -1,0 +1,4 @@
+- pkg:nuget/OpenSharp.AspNetUtils@6.0.0
+- pkg:nuget/OpenSharp.AspNetUtils@7.0.0
+- pkg:nuget/OpenSharp.AspNetUtils@7.0.1
+- pkg:nuget/OpenSharp.AspNetUtils@9.0.0

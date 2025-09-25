@@ -1,0 +1,8 @@
+- pkg:nuget/Microsoft.Azure.WebJobs.Host.TestCommon@3.0.14
+- pkg:nuget/Microsoft.Azure.WebJobs.Host.TestCommon@3.0.19
+- pkg:nuget/Microsoft.Azure.WebJobs.Host.TestCommon@3.0.25
+- pkg:nuget/Microsoft.Azure.WebJobs.Host.TestCommon@3.0.27
+- pkg:nuget/Microsoft.Azure.WebJobs.Host.TestCommon@3.0.30
+- pkg:nuget/Microsoft.Azure.WebJobs.Host.TestCommon@3.0.37
+- pkg:nuget/Microsoft.Azure.WebJobs.Host.TestCommon@3.0.39
+- pkg:nuget/Microsoft.Azure.WebJobs.Host.TestCommon@3.0.41

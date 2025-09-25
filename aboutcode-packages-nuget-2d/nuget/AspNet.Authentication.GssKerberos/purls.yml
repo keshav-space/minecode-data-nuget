@@ -1,0 +1,3 @@
+- pkg:nuget/AspNet.Authentication.GssKerberos@8.0.12-dev
+- pkg:nuget/AspNet.Authentication.GssKerberos@8.0.13-dev
+- pkg:nuget/AspNet.Authentication.GssKerberos@8.0.14

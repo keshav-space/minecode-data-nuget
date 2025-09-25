@@ -1,0 +1,4 @@
+- pkg:nuget/KnightBus.Azure.Storage.Management@1.0.0
+- pkg:nuget/KnightBus.Azure.Storage.Management@1.1.0
+- pkg:nuget/KnightBus.Azure.Storage.Management@2.1.0
+- pkg:nuget/KnightBus.Azure.Storage.Management@2.2.0

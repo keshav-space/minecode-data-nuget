@@ -1,0 +1,4 @@
+- pkg:nuget/Contrib.Extensions.Configuration.VariablesSubstitution@0.1.0-beta1
+- pkg:nuget/Contrib.Extensions.Configuration.VariablesSubstitution@1.0.0
+- pkg:nuget/Contrib.Extensions.Configuration.VariablesSubstitution@1.1.0
+- pkg:nuget/Contrib.Extensions.Configuration.VariablesSubstitution@1.2.0

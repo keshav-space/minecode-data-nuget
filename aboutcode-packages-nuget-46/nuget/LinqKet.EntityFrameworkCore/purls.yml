@@ -1,0 +1,5 @@
+- pkg:nuget/LinqKet.EntityFrameworkCore@6.0.0
+- pkg:nuget/LinqKet.EntityFrameworkCore@7.0.0
+- pkg:nuget/LinqKet.EntityFrameworkCore@7.0.6
+- pkg:nuget/LinqKet.EntityFrameworkCore@8.0.0
+- pkg:nuget/LinqKet.EntityFrameworkCore@9.0.2

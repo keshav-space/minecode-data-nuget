@@ -1,0 +1,2 @@
+- pkg:nuget/JobMan.Storage.PostgreSql@0.1.0-alpha
+- pkg:nuget/JobMan.Storage.PostgreSql@0.4.2

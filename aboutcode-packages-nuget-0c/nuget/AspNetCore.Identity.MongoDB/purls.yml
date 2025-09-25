@@ -1,0 +1,6 @@
+- pkg:nuget/AspNetCore.Identity.MongoDB@1.0.0-rc
+- pkg:nuget/AspNetCore.Identity.MongoDB@1.0.0-rc1-1
+- pkg:nuget/AspNetCore.Identity.MongoDB@1.0.0-rc2
+- pkg:nuget/AspNetCore.Identity.MongoDB@1.0.0-rc2-1
+- pkg:nuget/AspNetCore.Identity.MongoDB@1.0.0-rc2-2
+- pkg:nuget/AspNetCore.Identity.MongoDB@1.0.0-rc3

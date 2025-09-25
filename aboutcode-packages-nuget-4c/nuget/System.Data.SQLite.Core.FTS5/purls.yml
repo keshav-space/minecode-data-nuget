@@ -1,0 +1,4 @@
+- pkg:nuget/System.Data.SQLite.Core.FTS5@1.0.0.1
+- pkg:nuget/System.Data.SQLite.Core.FTS5@1.0.109.1
+- pkg:nuget/System.Data.SQLite.Core.FTS5@1.0.114
+- pkg:nuget/System.Data.SQLite.Core.FTS5@1.0.114.1

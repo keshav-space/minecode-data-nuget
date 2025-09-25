@@ -1,0 +1,6 @@
+- pkg:nuget/teamcity-rest-client@0.1.4-beta
+- pkg:nuget/teamcity-rest-client@0.1.5-beta
+- pkg:nuget/teamcity-rest-client@0.1.6-beta
+- pkg:nuget/teamcity-rest-client@0.1.7-beta
+- pkg:nuget/teamcity-rest-client@0.1.8-beta
+- pkg:nuget/teamcity-rest-client@0.1.9-beta

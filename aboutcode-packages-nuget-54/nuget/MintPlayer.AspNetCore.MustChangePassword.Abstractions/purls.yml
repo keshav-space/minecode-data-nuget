@@ -1,0 +1,4 @@
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword.Abstractions@6.0.0
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword.Abstractions@7.0.0
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword.Abstractions@8.0.0
+- pkg:nuget/MintPlayer.AspNetCore.MustChangePassword.Abstractions@9.0.0

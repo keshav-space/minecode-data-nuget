@@ -1,0 +1,7 @@
+- pkg:nuget/EntityFrameworkCore.BootKit.Postgre@8.5.0
+- pkg:nuget/EntityFrameworkCore.BootKit.Postgre@8.5.1
+- pkg:nuget/EntityFrameworkCore.BootKit.Postgre@8.6.0
+- pkg:nuget/EntityFrameworkCore.BootKit.Postgre@8.7.0
+- pkg:nuget/EntityFrameworkCore.BootKit.Postgre@8.7.1
+- pkg:nuget/EntityFrameworkCore.BootKit.Postgre@8.8.0
+- pkg:nuget/EntityFrameworkCore.BootKit.Postgre@8.9.0

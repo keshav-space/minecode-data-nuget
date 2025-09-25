@@ -1,0 +1,12 @@
+- pkg:nuget/NLog.LiteDB@1.0.0-CI00001
+- pkg:nuget/NLog.LiteDB@1.0.0.2
+- pkg:nuget/NLog.LiteDB@1.0.0.8
+- pkg:nuget/NLog.LiteDB@2018.9.1.15
+- pkg:nuget/NLog.LiteDB@2018.9.1.4
+- pkg:nuget/NLog.LiteDB@2018.9.1.5
+- pkg:nuget/NLog.LiteDB@2018.9.2.1
+- pkg:nuget/NLog.LiteDB@2018.9.2.4
+- pkg:nuget/NLog.LiteDB@2018.9.2.5
+- pkg:nuget/NLog.LiteDB@2019.3.22.2
+- pkg:nuget/NLog.LiteDB@2019.3.22.3
+- pkg:nuget/NLog.LiteDB@2020.12.2.2

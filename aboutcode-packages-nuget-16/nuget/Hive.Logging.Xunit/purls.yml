@@ -1,0 +1,13 @@
+- pkg:nuget/Hive.Logging.Xunit@7.1.2
+- pkg:nuget/Hive.Logging.Xunit@7.1.4
+- pkg:nuget/Hive.Logging.Xunit@7.1.5
+- pkg:nuget/Hive.Logging.Xunit@7.1.5-cors0004
+- pkg:nuget/Hive.Logging.Xunit@7.2.0-cors0011
+- pkg:nuget/Hive.Logging.Xunit@7.2.0-cors0012
+- pkg:nuget/Hive.Logging.Xunit@7.2.0-cors0013
+- pkg:nuget/Hive.Logging.Xunit@7.4.0-additional-start0001
+- pkg:nuget/Hive.Logging.Xunit@7.5.0-net8-0039
+- pkg:nuget/Hive.Logging.Xunit@7.5.0-net8-0040
+- pkg:nuget/Hive.Logging.Xunit@7.5.0-net8-0041
+- pkg:nuget/Hive.Logging.Xunit@7.5.0-net8-0042
+- pkg:nuget/Hive.Logging.Xunit@7.5.0-net8-0047

@@ -1,0 +1,5 @@
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Client.WebSocketChannel@0.1.0-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Client.WebSocketChannel@0.2.1-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Client.WebSocketChannel@0.3.0-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Client.WebSocketChannel@0.4.0-beta
+- pkg:nuget/Akka.Interfaced.SlimSocketFork.Client.WebSocketChannel@0.4.2-beta

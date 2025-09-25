@@ -1,0 +1,5 @@
+- pkg:nuget/PowerShellTypeProvider@0.2.0-alpha
+- pkg:nuget/PowerShellTypeProvider@0.2.1-alpha
+- pkg:nuget/PowerShellTypeProvider@0.2.2
+- pkg:nuget/PowerShellTypeProvider@0.3.0
+- pkg:nuget/PowerShellTypeProvider@0.3.1

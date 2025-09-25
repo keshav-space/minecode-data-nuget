@@ -1,0 +1,7 @@
+- pkg:nuget/NLog.Extensions.AzureFileSystem@1.0.0
+- pkg:nuget/NLog.Extensions.AzureFileSystem@1.0.37
+- pkg:nuget/NLog.Extensions.AzureFileSystem@1.0.41
+- pkg:nuget/NLog.Extensions.AzureFileSystem@1.0.44
+- pkg:nuget/NLog.Extensions.AzureFileSystem@1.0.50
+- pkg:nuget/NLog.Extensions.AzureFileSystem@1.0.53
+- pkg:nuget/NLog.Extensions.AzureFileSystem@1.0.57

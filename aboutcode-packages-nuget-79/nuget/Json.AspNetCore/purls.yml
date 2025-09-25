@@ -1,0 +1,8 @@
+- pkg:nuget/Json.AspNetCore@1.0.0
+- pkg:nuget/Json.AspNetCore@1.0.1
+- pkg:nuget/Json.AspNetCore@1.0.3
+- pkg:nuget/Json.AspNetCore@7.0.0
+- pkg:nuget/Json.AspNetCore@8.0.0
+- pkg:nuget/Json.AspNetCore@8.1.0
+- pkg:nuget/Json.AspNetCore@8.1.1
+- pkg:nuget/Json.AspNetCore@8.2.0

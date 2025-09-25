@@ -1,0 +1,4 @@
+- pkg:nuget/Butterfly.Db.Postgres@2.0.0
+- pkg:nuget/Butterfly.Db.Postgres@2.0.1
+- pkg:nuget/Butterfly.Db.Postgres@2.0.2
+- pkg:nuget/Butterfly.Db.Postgres@2.1.0

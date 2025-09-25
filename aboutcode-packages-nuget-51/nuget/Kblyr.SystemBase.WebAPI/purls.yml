@@ -1,0 +1,9 @@
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.4.1
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.5.0
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.5.2
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.5.3
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.6.0
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.7.0
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.7.0-test
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.8.0
+- pkg:nuget/Kblyr.SystemBase.WebAPI@0.8.3

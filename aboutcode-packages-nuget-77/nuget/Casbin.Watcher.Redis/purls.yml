@@ -1,0 +1,5 @@
+- pkg:nuget/Casbin.Watcher.Redis@1.0.2
+- pkg:nuget/Casbin.Watcher.Redis@1.1.0
+- pkg:nuget/Casbin.Watcher.Redis@1.1.1
+- pkg:nuget/Casbin.Watcher.Redis@1.2.0
+- pkg:nuget/Casbin.Watcher.Redis@1.2.1

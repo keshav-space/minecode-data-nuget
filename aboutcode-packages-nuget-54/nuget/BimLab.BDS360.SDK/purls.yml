@@ -1,0 +1,6 @@
+- pkg:nuget/BimLab.BDS360.SDK@2021.6.2
+- pkg:nuget/BimLab.BDS360.SDK@2022.1.0
+- pkg:nuget/BimLab.BDS360.SDK@2022.2.0-dev01
+- pkg:nuget/BimLab.BDS360.SDK@2022.2.0-dev02
+- pkg:nuget/BimLab.BDS360.SDK@2022.2.0-dev03
+- pkg:nuget/BimLab.BDS360.SDK@2022.2.1

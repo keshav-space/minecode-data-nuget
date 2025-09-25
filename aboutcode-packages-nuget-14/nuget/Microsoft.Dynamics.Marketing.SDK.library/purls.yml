@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@17.0.3709
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@17.0.3709.1
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@17.0.3709.2
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@17.2.13
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@19.0.0
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@19.2.0
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@19.3.0
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@19.3.0.1
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@19.4.0
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@19.5.0
+- pkg:nuget/Microsoft.Dynamics.Marketing.SDK.library@19.6.0
