@@ -1,0 +1,5 @@
+- pkg:nuget/AspNetCore.Testing.MadeEasy@1.0.0-beta1
+- pkg:nuget/AspNetCore.Testing.MadeEasy@6.0.0
+- pkg:nuget/AspNetCore.Testing.MadeEasy@6.1.0
+- pkg:nuget/AspNetCore.Testing.MadeEasy@6.2.0
+- pkg:nuget/AspNetCore.Testing.MadeEasy@6.3.0

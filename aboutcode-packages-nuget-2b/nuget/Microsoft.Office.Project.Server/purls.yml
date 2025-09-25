@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Office.Project.Server@1.0.0
+- pkg:nuget/Microsoft.Office.Project.Server@1.0.1
+- pkg:nuget/Microsoft.Office.Project.Server@1.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/IronSoftware.Abstractions@2024.11.8
+- pkg:nuget/IronSoftware.Abstractions@2025.1.28
+- pkg:nuget/IronSoftware.Abstractions@2025.2.6
+- pkg:nuget/IronSoftware.Abstractions@2025.3.1
+- pkg:nuget/IronSoftware.Abstractions@2025.4.2

@@ -1,0 +1,4 @@
+- pkg:nuget/System.Data.SQLite.Test@1.0.91.3
+- pkg:nuget/System.Data.SQLite.Test@1.0.91.4
+- pkg:nuget/System.Data.SQLite.Test@1.0.94.1
+- pkg:nuget/System.Data.SQLite.Test@1.0.94.2

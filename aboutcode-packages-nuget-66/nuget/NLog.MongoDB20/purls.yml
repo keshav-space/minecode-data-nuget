@@ -1,0 +1,5 @@
+- pkg:nuget/NLog.MongoDB20@1.0.0
+- pkg:nuget/NLog.MongoDB20@1.0.0-CI00002
+- pkg:nuget/NLog.MongoDB20@1.0.0-CI00003
+- pkg:nuget/NLog.MongoDB20@1.0.1
+- pkg:nuget/NLog.MongoDB20@1.0.5

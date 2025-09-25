@@ -1,0 +1,2 @@
+- pkg:nuget/llama_cpp.runtime.ubuntu.18.04-x64.runtime.native.llama.cpp.GNU@1.0.1
+- pkg:nuget/llama_cpp.runtime.ubuntu.18.04-x64.runtime.native.llama.cpp.GNU@1.0.2

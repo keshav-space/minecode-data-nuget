@@ -1,0 +1,4 @@
+- pkg:nuget/Raccoon.Devkits.SessionAuthorization.SqlServer@1.0.0
+- pkg:nuget/Raccoon.Devkits.SessionAuthorization.SqlServer@2.0.0
+- pkg:nuget/Raccoon.Devkits.SessionAuthorization.SqlServer@2.1.0
+- pkg:nuget/Raccoon.Devkits.SessionAuthorization.SqlServer@3.0.0

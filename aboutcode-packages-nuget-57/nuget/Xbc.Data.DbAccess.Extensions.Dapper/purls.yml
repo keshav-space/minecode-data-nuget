@@ -1,0 +1,3 @@
+- pkg:nuget/Xbc.Data.DbAccess.Extensions.Dapper@1.1.1
+- pkg:nuget/Xbc.Data.DbAccess.Extensions.Dapper@1.2.1
+- pkg:nuget/Xbc.Data.DbAccess.Extensions.Dapper@1.2.2

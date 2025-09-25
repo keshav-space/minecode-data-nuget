@@ -1,0 +1,4 @@
+- pkg:nuget/TeleScope.Connectors.Smtp@1.0.0
+- pkg:nuget/TeleScope.Connectors.Smtp@1.1.0
+- pkg:nuget/TeleScope.Connectors.Smtp@2.0.0
+- pkg:nuget/TeleScope.Connectors.Smtp@2.0.1

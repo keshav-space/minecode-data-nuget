@@ -1,0 +1,6 @@
+- pkg:nuget/boost_python310-vc142@1.78.0
+- pkg:nuget/boost_python310-vc142@1.79.0
+- pkg:nuget/boost_python310-vc142@1.80.0
+- pkg:nuget/boost_python310-vc142@1.81.0
+- pkg:nuget/boost_python310-vc142@1.82.0
+- pkg:nuget/boost_python310-vc142@1.83.0

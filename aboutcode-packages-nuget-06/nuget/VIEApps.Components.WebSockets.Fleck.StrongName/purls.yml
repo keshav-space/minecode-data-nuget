@@ -1,0 +1,4 @@
+- pkg:nuget/VIEApps.Components.WebSockets.Fleck.StrongName@10.1.16.1804
+- pkg:nuget/VIEApps.Components.WebSockets.Fleck.StrongName@10.1.17.1804
+- pkg:nuget/VIEApps.Components.WebSockets.Fleck.StrongName@10.1.18.1805
+- pkg:nuget/VIEApps.Components.WebSockets.Fleck.StrongName@10.2.1.1805

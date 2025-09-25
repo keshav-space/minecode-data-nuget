@@ -1,0 +1,5 @@
+- pkg:nuget/Aicrosoft.Apt.CLI@8.1.0
+- pkg:nuget/Aicrosoft.Apt.CLI@8.1.0-dev.240716.12
+- pkg:nuget/Aicrosoft.Apt.CLI@8.2.0
+- pkg:nuget/Aicrosoft.Apt.CLI@8.3.0
+- pkg:nuget/Aicrosoft.Apt.CLI@8.5.0

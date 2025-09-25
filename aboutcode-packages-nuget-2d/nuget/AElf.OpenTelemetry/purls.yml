@@ -1,0 +1,6 @@
+- pkg:nuget/AElf.OpenTelemetry@1.0.0
+- pkg:nuget/AElf.OpenTelemetry@1.0.1
+- pkg:nuget/AElf.OpenTelemetry@8.0.5
+- pkg:nuget/AElf.OpenTelemetry@8.0.6
+- pkg:nuget/AElf.OpenTelemetry@8.2.0
+- pkg:nuget/AElf.OpenTelemetry@8.2.1

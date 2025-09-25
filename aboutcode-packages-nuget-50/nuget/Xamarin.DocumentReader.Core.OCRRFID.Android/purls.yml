@@ -1,0 +1,5 @@
+- pkg:nuget/Xamarin.DocumentReader.Core.OCRRFID.Android@7.3.257-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OCRRFID.Android@7.3.260-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OCRRFID.Android@7.3.282-beta
+- pkg:nuget/Xamarin.DocumentReader.Core.OCRRFID.Android@7.3.296-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OCRRFID.Android@7.3.309-rc

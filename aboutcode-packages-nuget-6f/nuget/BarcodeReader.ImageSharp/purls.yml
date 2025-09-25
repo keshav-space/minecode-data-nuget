@@ -1,0 +1,4 @@
+- pkg:nuget/BarcodeReader.ImageSharp@1.0.0
+- pkg:nuget/BarcodeReader.ImageSharp@1.1.1
+- pkg:nuget/BarcodeReader.ImageSharp@2.0.0
+- pkg:nuget/BarcodeReader.ImageSharp@2.0.1

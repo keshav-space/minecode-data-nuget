@@ -1,0 +1,5 @@
+- pkg:nuget/Chromely.CefGlue.Gtk@4.0.70
+- pkg:nuget/Chromely.CefGlue.Gtk@4.0.70.1
+- pkg:nuget/Chromely.CefGlue.Gtk@68.0.0-beta01
+- pkg:nuget/Chromely.CefGlue.Gtk@68.0.0-beta02
+- pkg:nuget/Chromely.CefGlue.Gtk@68.0.0-beta03

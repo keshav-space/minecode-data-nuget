@@ -1,0 +1,5 @@
+- pkg:nuget/GirCore.GObject-2.0.Integration@0.6.0
+- pkg:nuget/GirCore.GObject-2.0.Integration@0.6.2
+- pkg:nuget/GirCore.GObject-2.0.Integration@0.6.3
+- pkg:nuget/GirCore.GObject-2.0.Integration@0.7.0-preview.1
+- pkg:nuget/GirCore.GObject-2.0.Integration@0.7.0-preview.2

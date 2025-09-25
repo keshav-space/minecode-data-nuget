@@ -1,0 +1,3 @@
+- pkg:nuget/Azure.Messaging.EventGrid.Namespaces@1.0.0
+- pkg:nuget/Azure.Messaging.EventGrid.Namespaces@1.0.0-beta.1
+- pkg:nuget/Azure.Messaging.EventGrid.Namespaces@1.1.0

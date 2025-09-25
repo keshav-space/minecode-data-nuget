@@ -1,0 +1,4 @@
+- pkg:nuget/CdIts.NetTopologySuite.GeoPackage.FeatureReader@1.0.0
+- pkg:nuget/CdIts.NetTopologySuite.GeoPackage.FeatureReader@1.0.0-pre
+- pkg:nuget/CdIts.NetTopologySuite.GeoPackage.FeatureReader@2.0.0
+- pkg:nuget/CdIts.NetTopologySuite.GeoPackage.FeatureReader@2.1.0

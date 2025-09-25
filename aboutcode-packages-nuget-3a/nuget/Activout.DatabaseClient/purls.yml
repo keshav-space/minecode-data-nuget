@@ -1,0 +1,5 @@
+- pkg:nuget/Activout.DatabaseClient@1.0.0
+- pkg:nuget/Activout.DatabaseClient@1.0.1
+- pkg:nuget/Activout.DatabaseClient@3.0.0-beta
+- pkg:nuget/Activout.DatabaseClient@4.0.0
+- pkg:nuget/Activout.DatabaseClient@5.0.0-rc1

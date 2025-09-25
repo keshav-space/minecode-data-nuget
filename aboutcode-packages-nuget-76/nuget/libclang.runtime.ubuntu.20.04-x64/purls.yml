@@ -1,0 +1,6 @@
+- pkg:nuget/libclang.runtime.ubuntu.20.04-x64@10.0.0
+- pkg:nuget/libclang.runtime.ubuntu.20.04-x64@11.0.0
+- pkg:nuget/libclang.runtime.ubuntu.20.04-x64@12.0.0
+- pkg:nuget/libclang.runtime.ubuntu.20.04-x64@13.0.0
+- pkg:nuget/libclang.runtime.ubuntu.20.04-x64@14.0.0
+- pkg:nuget/libclang.runtime.ubuntu.20.04-x64@15.0.0

@@ -1,0 +1,12 @@
+- pkg:nuget/SlackApi.NetCore@1.0.0-alpha1
+- pkg:nuget/SlackApi.NetCore@1.0.10-alpha
+- pkg:nuget/SlackApi.NetCore@1.0.10-beta
+- pkg:nuget/SlackApi.NetCore@1.0.11-alpha
+- pkg:nuget/SlackApi.NetCore@1.0.5
+- pkg:nuget/SlackApi.NetCore@1.0.7
+- pkg:nuget/SlackApi.NetCore@1.0.8-beta
+- pkg:nuget/SlackApi.NetCore@2.0.0-CI-20181212-034328
+- pkg:nuget/SlackApi.NetCore@2.0.0-CI-20181215-223416
+- pkg:nuget/SlackApi.NetCore@2.0.0-CI-20190108-054643
+- pkg:nuget/SlackApi.NetCore@2.0.0-CI-20190125-070523
+- pkg:nuget/SlackApi.NetCore@2.0.0-CI-20190212-013043

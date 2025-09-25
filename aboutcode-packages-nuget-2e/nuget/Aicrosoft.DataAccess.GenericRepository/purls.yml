@@ -1,0 +1,4 @@
+- pkg:nuget/Aicrosoft.DataAccess.GenericRepository@6.4.0
+- pkg:nuget/Aicrosoft.DataAccess.GenericRepository@8.1.0
+- pkg:nuget/Aicrosoft.DataAccess.GenericRepository@8.1.0-dev.240716.12
+- pkg:nuget/Aicrosoft.DataAccess.GenericRepository@8.2.0

@@ -1,0 +1,5 @@
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Exporter.ApplicationInsights@0.0.1-alpha
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Exporter.ApplicationInsights@0.0.2-alpha
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Exporter.ApplicationInsights@0.0.3-alpha
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Exporter.ApplicationInsights@1.0.0
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Exporter.ApplicationInsights@2.0.0

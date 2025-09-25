@@ -1,0 +1,4 @@
+- pkg:nuget/Zitron.Standard.Http@1.1.0-beta
+- pkg:nuget/Zitron.Standard.Http@1.2.0-beta
+- pkg:nuget/Zitron.Standard.Http@1.3.0-beta
+- pkg:nuget/Zitron.Standard.Http@1.4.0-beta

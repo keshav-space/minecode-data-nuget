@@ -1,0 +1,4 @@
+- pkg:nuget/Cloudsume.Client@1.0.0-beta.1
+- pkg:nuget/Cloudsume.Client@2.0.0
+- pkg:nuget/Cloudsume.Client@2.0.0-beta.1
+- pkg:nuget/Cloudsume.Client@3.0.0

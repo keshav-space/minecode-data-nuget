@@ -1,0 +1,5 @@
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Abstractions@0.0.1-alpha
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Abstractions@0.0.2-alpha
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Abstractions@0.0.3-alpha
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Abstractions@1.0.0
+- pkg:nuget/CelloMicros.Monitoring.OpenCensus.Abstractions@2.0.0

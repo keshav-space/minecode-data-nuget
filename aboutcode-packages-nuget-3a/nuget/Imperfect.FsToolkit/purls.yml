@@ -1,0 +1,5 @@
+- pkg:nuget/Imperfect.FsToolkit@5.2.143
+- pkg:nuget/Imperfect.FsToolkit@6.0.0
+- pkg:nuget/Imperfect.FsToolkit@6.0.1-alpha1
+- pkg:nuget/Imperfect.FsToolkit@6.0.1-alpha2
+- pkg:nuget/Imperfect.FsToolkit@7.0.0-alpha1

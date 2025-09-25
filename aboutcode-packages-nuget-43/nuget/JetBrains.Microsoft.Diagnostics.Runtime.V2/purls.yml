@@ -1,0 +1,3 @@
+- pkg:nuget/JetBrains.Microsoft.Diagnostics.Runtime.V2@2.0.20210126.19
+- pkg:nuget/JetBrains.Microsoft.Diagnostics.Runtime.V2@2.0.20210225.20
+- pkg:nuget/JetBrains.Microsoft.Diagnostics.Runtime.V2@2.0.20210303.21

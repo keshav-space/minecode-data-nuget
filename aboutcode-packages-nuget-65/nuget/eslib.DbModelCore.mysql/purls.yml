@@ -1,0 +1,3 @@
+- pkg:nuget/eslib.DbModelCore.mysql@1.0.5.3
+- pkg:nuget/eslib.DbModelCore.mysql@1.0.5.4
+- pkg:nuget/eslib.DbModelCore.mysql@2.0.0

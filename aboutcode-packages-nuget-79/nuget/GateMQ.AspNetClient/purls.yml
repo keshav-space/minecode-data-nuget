@@ -1,0 +1,9 @@
+- pkg:nuget/GateMQ.AspNetClient@0.17.0-ci.6
+- pkg:nuget/GateMQ.AspNetClient@0.18.0-ci.3
+- pkg:nuget/GateMQ.AspNetClient@0.19.0-ci.3
+- pkg:nuget/GateMQ.AspNetClient@0.20.0-ci.3
+- pkg:nuget/GateMQ.AspNetClient@0.21.0-ci.3
+- pkg:nuget/GateMQ.AspNetClient@0.22.0-ci.5
+- pkg:nuget/GateMQ.AspNetClient@0.23.0-ci.3
+- pkg:nuget/GateMQ.AspNetClient@0.24.0-ci.7
+- pkg:nuget/GateMQ.AspNetClient@0.25.0-ci.31

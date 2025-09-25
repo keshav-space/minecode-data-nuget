@@ -1,0 +1,3 @@
+- pkg:nuget/Open.Telemetry.TraceListener@0.1.0%2B2
+- pkg:nuget/Open.Telemetry.TraceListener@0.5.0
+- pkg:nuget/Open.Telemetry.TraceListener@0.6.0

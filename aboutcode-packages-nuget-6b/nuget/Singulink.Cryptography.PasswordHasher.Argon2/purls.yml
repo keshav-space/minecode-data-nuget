@@ -1,0 +1,6 @@
+- pkg:nuget/Singulink.Cryptography.PasswordHasher.Argon2@1.0.0
+- pkg:nuget/Singulink.Cryptography.PasswordHasher.Argon2@1.0.1
+- pkg:nuget/Singulink.Cryptography.PasswordHasher.Argon2@1.0.2
+- pkg:nuget/Singulink.Cryptography.PasswordHasher.Argon2@1.0.3
+- pkg:nuget/Singulink.Cryptography.PasswordHasher.Argon2@2.0.0
+- pkg:nuget/Singulink.Cryptography.PasswordHasher.Argon2@3.0.0

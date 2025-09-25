@@ -1,0 +1,13 @@
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@0.0.3
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@0.0.5
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.10.150-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.10.230-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.10.90-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.7.10091-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.7.11132
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.7.11261
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.8.1133-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.8.1171-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.8.1791
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.8.1911
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration@1.9.25180

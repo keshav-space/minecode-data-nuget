@@ -1,0 +1,2 @@
+- pkg:nuget/IdentityServer3.Integration.AspNetCore@1.0.0
+- pkg:nuget/IdentityServer3.Integration.AspNetCore@1.0.0-rc2

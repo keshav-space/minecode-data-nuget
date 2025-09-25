@@ -1,0 +1,4 @@
+- pkg:nuget/NetChris.Web.SelfTest.Client@1.0.0
+- pkg:nuget/NetChris.Web.SelfTest.Client@2.0.0
+- pkg:nuget/NetChris.Web.SelfTest.Client@2.0.1
+- pkg:nuget/NetChris.Web.SelfTest.Client@2.1.0

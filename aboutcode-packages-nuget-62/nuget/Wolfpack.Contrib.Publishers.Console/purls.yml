@@ -1,0 +1,7 @@
+- pkg:nuget/Wolfpack.Contrib.Publishers.Console@1.0.0
+- pkg:nuget/Wolfpack.Contrib.Publishers.Console@2.3.0.3
+- pkg:nuget/Wolfpack.Contrib.Publishers.Console@2.3.0.5
+- pkg:nuget/Wolfpack.Contrib.Publishers.Console@2.4.0
+- pkg:nuget/Wolfpack.Contrib.Publishers.Console@3.0.10-pre
+- pkg:nuget/Wolfpack.Contrib.Publishers.Console@3.0.12-pre
+- pkg:nuget/Wolfpack.Contrib.Publishers.Console@3.0.13-pre

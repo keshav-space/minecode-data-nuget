@@ -1,0 +1,14 @@
+- pkg:nuget/AtomicClock@0.0.35-trunk
+- pkg:nuget/AtomicClock@0.0.36-trunk
+- pkg:nuget/AtomicClock@0.0.37-trunk
+- pkg:nuget/AtomicClock@0.0.41-master
+- pkg:nuget/AtomicClock@0.0.42-master
+- pkg:nuget/AtomicClock@0.0.43-master
+- pkg:nuget/AtomicClock@0.0.47-master
+- pkg:nuget/AtomicClock@0.0.48-master
+- pkg:nuget/AtomicClock@0.0.53-master
+- pkg:nuget/AtomicClock@0.0.54-master
+- pkg:nuget/AtomicClock@0.0.62-master
+- pkg:nuget/AtomicClock@0.0.65-master
+- pkg:nuget/AtomicClock@0.0.75-master
+- pkg:nuget/AtomicClock@1.0.0

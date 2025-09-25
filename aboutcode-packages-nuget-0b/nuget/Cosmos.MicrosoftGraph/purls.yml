@@ -1,0 +1,14 @@
+- pkg:nuget/Cosmos.MicrosoftGraph@8.0.10.12
+- pkg:nuget/Cosmos.MicrosoftGraph@8.0.10.18
+- pkg:nuget/Cosmos.MicrosoftGraph@8.0.10.20
+- pkg:nuget/Cosmos.MicrosoftGraph@8.0.10.24
+- pkg:nuget/Cosmos.MicrosoftGraph@8.0.10.26
+- pkg:nuget/Cosmos.MicrosoftGraph@8.0.10.28
+- pkg:nuget/Cosmos.MicrosoftGraph@8.0.10.4
+- pkg:nuget/Cosmos.MicrosoftGraph@8.0.11.31
+- pkg:nuget/Cosmos.MicrosoftGraph@8.1.0.1
+- pkg:nuget/Cosmos.MicrosoftGraph@9.0.0.5
+- pkg:nuget/Cosmos.MicrosoftGraph@9.0.3.5
+- pkg:nuget/Cosmos.MicrosoftGraph@9.0.3.6
+- pkg:nuget/Cosmos.MicrosoftGraph@9.0.3.7
+- pkg:nuget/Cosmos.MicrosoftGraph@9.0.3.8

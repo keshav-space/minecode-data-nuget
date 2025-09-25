@@ -1,0 +1,6 @@
+- pkg:nuget/EnkiSmtpServer@1.6.0
+- pkg:nuget/EnkiSmtpServer@1.6.1
+- pkg:nuget/EnkiSmtpServer@1.6.2-beta
+- pkg:nuget/EnkiSmtpServer@1.6.3-beta
+- pkg:nuget/EnkiSmtpServer@1.6.4-beta
+- pkg:nuget/EnkiSmtpServer@1.6.5-beta

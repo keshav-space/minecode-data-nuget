@@ -1,0 +1,5 @@
+- pkg:nuget/Gigya.Microdot.Common.Tests@4.0.0
+- pkg:nuget/Gigya.Microdot.Common.Tests@4.0.1
+- pkg:nuget/Gigya.Microdot.Common.Tests@4.0.2
+- pkg:nuget/Gigya.Microdot.Common.Tests@4.0.3
+- pkg:nuget/Gigya.Microdot.Common.Tests@4.1.5

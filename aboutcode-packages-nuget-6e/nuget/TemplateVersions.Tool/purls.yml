@@ -1,0 +1,5 @@
+- pkg:nuget/TemplateVersions.Tool@1.7.22
+- pkg:nuget/TemplateVersions.Tool@1.7.23
+- pkg:nuget/TemplateVersions.Tool@2.0.0
+- pkg:nuget/TemplateVersions.Tool@2.1.37
+- pkg:nuget/TemplateVersions.Tool@3.0.41

@@ -1,0 +1,4 @@
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.iOS@7.3.259-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.iOS@7.3.281-beta
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.iOS@7.3.295-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.iOS@7.3.308-rc

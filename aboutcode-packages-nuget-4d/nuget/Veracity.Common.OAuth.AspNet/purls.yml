@@ -1,0 +1,11 @@
+- pkg:nuget/Veracity.Common.OAuth.AspNet@2.2.0
+- pkg:nuget/Veracity.Common.OAuth.AspNet@2.2.1
+- pkg:nuget/Veracity.Common.OAuth.AspNet@2.2.3
+- pkg:nuget/Veracity.Common.OAuth.AspNet@2.2.5
+- pkg:nuget/Veracity.Common.OAuth.AspNet@2.2.6
+- pkg:nuget/Veracity.Common.OAuth.AspNet@2.2.7
+- pkg:nuget/Veracity.Common.OAuth.AspNet@3.0.0
+- pkg:nuget/Veracity.Common.OAuth.AspNet@3.0.0-rc1
+- pkg:nuget/Veracity.Common.OAuth.AspNet@3.0.1
+- pkg:nuget/Veracity.Common.OAuth.AspNet@3.5.0
+- pkg:nuget/Veracity.Common.OAuth.AspNet@3.5.1

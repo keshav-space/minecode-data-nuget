@@ -1,0 +1,17 @@
+- pkg:nuget/MvvmMicro@0.9.0-rc
+- pkg:nuget/MvvmMicro@0.9.1-rc
+- pkg:nuget/MvvmMicro@1.0.0
+- pkg:nuget/MvvmMicro@1.0.0-rc.10
+- pkg:nuget/MvvmMicro@1.0.0-rc.11
+- pkg:nuget/MvvmMicro@1.0.0-rc.12
+- pkg:nuget/MvvmMicro@1.0.1
+- pkg:nuget/MvvmMicro@1.1.0-rc
+- pkg:nuget/MvvmMicro@1.2.0
+- pkg:nuget/MvvmMicro@1.2.0-rc
+- pkg:nuget/MvvmMicro@1.2.1
+- pkg:nuget/MvvmMicro@1.2.2-rc
+- pkg:nuget/MvvmMicro@2.0.0
+- pkg:nuget/MvvmMicro@2.0.0-rc.1
+- pkg:nuget/MvvmMicro@2.0.0-rc.2
+- pkg:nuget/MvvmMicro@2.0.1
+- pkg:nuget/MvvmMicro@2.1.0

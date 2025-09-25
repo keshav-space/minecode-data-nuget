@@ -1,0 +1,12 @@
+- pkg:nuget/Xomega.Framework.AspNetCore@3.0.0
+- pkg:nuget/Xomega.Framework.AspNetCore@3.0.1
+- pkg:nuget/Xomega.Framework.AspNetCore@3.1.0
+- pkg:nuget/Xomega.Framework.AspNetCore@3.2.0
+- pkg:nuget/Xomega.Framework.AspNetCore@4.0.0
+- pkg:nuget/Xomega.Framework.AspNetCore@4.1.0
+- pkg:nuget/Xomega.Framework.AspNetCore@4.2.0
+- pkg:nuget/Xomega.Framework.AspNetCore@4.2.1
+- pkg:nuget/Xomega.Framework.AspNetCore@4.3.0
+- pkg:nuget/Xomega.Framework.AspNetCore@4.3.1
+- pkg:nuget/Xomega.Framework.AspNetCore@4.4.0
+- pkg:nuget/Xomega.Framework.AspNetCore@4.4.1

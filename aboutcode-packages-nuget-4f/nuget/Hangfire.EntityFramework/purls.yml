@@ -1,0 +1,2 @@
+- pkg:nuget/Hangfire.EntityFramework@0.1.0-alpha1
+- pkg:nuget/Hangfire.EntityFramework@0.2.0-beta1

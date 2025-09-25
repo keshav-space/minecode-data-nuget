@@ -1,0 +1,4 @@
+- pkg:nuget/Heirloom.Drawing.OpenGLES@1.0.0-alpha
+- pkg:nuget/Heirloom.Drawing.OpenGLES@1.0.0-beta
+- pkg:nuget/Heirloom.Drawing.OpenGLES@1.1.0-beta
+- pkg:nuget/Heirloom.Drawing.OpenGLES@1.1.1-beta

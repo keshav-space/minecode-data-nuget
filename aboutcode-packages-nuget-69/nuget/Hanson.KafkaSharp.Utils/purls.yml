@@ -1,0 +1,14 @@
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.0.0
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.0.0-alpha1
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.0.0-alpha2
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.0.1
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.1.0
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.1.1
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.2.0
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.2.1
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.2.2
+- pkg:nuget/Hanson.KafkaSharp.Utils@1.3.0
+- pkg:nuget/Hanson.KafkaSharp.Utils@2.0.0
+- pkg:nuget/Hanson.KafkaSharp.Utils@2.1.0
+- pkg:nuget/Hanson.KafkaSharp.Utils@3.0.0
+- pkg:nuget/Hanson.KafkaSharp.Utils@3.0.1

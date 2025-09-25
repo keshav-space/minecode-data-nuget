@@ -1,0 +1,4 @@
+- pkg:nuget/Sonya.AspNetCore.Domain@1.0.0
+- pkg:nuget/Sonya.AspNetCore.Domain@2.0.0
+- pkg:nuget/Sonya.AspNetCore.Domain@3.0.0
+- pkg:nuget/Sonya.AspNetCore.Domain@4.0.0

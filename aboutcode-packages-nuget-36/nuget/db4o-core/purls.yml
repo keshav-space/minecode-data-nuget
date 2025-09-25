@@ -1,0 +1,4 @@
+- pkg:nuget/db4o-core@8.1.0
+- pkg:nuget/db4o-core@8.1.1
+- pkg:nuget/db4o-core@8.1.5
+- pkg:nuget/db4o-core@8.1.6

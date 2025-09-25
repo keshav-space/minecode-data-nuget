@@ -1,0 +1,5 @@
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.Android@7.3.256-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.Android@7.3.259-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.Android@7.3.281-beta
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.Android@7.3.295-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.OCR.Android@7.3.308-rc

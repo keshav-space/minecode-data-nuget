@@ -1,0 +1,3 @@
+- pkg:nuget/Wkhtmltopdf.PdfOptions.NetCore@1.0.0
+- pkg:nuget/Wkhtmltopdf.PdfOptions.NetCore@1.1.0
+- pkg:nuget/Wkhtmltopdf.PdfOptions.NetCore@2.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.Office365.ReportingWebServiceClient@1.0.0
+- pkg:nuget/Microsoft.Office365.ReportingWebServiceClient@1.0.1
+- pkg:nuget/Microsoft.Office365.ReportingWebServiceClient@1.0.1.1
+- pkg:nuget/Microsoft.Office365.ReportingWebServiceClient@1.0.2
+- pkg:nuget/Microsoft.Office365.ReportingWebServiceClient@1.0.3

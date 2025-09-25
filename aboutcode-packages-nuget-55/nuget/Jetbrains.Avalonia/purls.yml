@@ -1,0 +1,4 @@
+- pkg:nuget/Jetbrains.Avalonia@0.10.0
+- pkg:nuget/Jetbrains.Avalonia@0.10.1-cibuild102-beta
+- pkg:nuget/Jetbrains.Avalonia@0.10.999-cibuild55-beta
+- pkg:nuget/Jetbrains.Avalonia@0.10.999-cibuild73-beta

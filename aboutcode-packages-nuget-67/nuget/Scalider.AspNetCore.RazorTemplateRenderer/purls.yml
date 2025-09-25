@@ -1,0 +1,5 @@
+- pkg:nuget/Scalider.AspNetCore.RazorTemplateRenderer@1.0.0
+- pkg:nuget/Scalider.AspNetCore.RazorTemplateRenderer@1.0.0-preview
+- pkg:nuget/Scalider.AspNetCore.RazorTemplateRenderer@1.0.0-preview2
+- pkg:nuget/Scalider.AspNetCore.RazorTemplateRenderer@1.0.0-preview3
+- pkg:nuget/Scalider.AspNetCore.RazorTemplateRenderer@1.0.1

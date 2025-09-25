@@ -1,0 +1,6 @@
+- pkg:nuget/Ayaka.MultiTenancy.Abstractions@1.1.0-preview
+- pkg:nuget/Ayaka.MultiTenancy.Abstractions@1.2.0-preview
+- pkg:nuget/Ayaka.MultiTenancy.Abstractions@2.0.0-preview
+- pkg:nuget/Ayaka.MultiTenancy.Abstractions@2.0.1-preview
+- pkg:nuget/Ayaka.MultiTenancy.Abstractions@2.1.0-preview
+- pkg:nuget/Ayaka.MultiTenancy.Abstractions@2.2.0-preview

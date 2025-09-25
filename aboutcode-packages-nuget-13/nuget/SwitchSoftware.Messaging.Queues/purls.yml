@@ -1,0 +1,6 @@
+- pkg:nuget/SwitchSoftware.Messaging.Queues@2.0.0
+- pkg:nuget/SwitchSoftware.Messaging.Queues@3.1.1
+- pkg:nuget/SwitchSoftware.Messaging.Queues@3.1.3
+- pkg:nuget/SwitchSoftware.Messaging.Queues@6.0.1
+- pkg:nuget/SwitchSoftware.Messaging.Queues@7.0.0
+- pkg:nuget/SwitchSoftware.Messaging.Queues@8.0.0

@@ -1,0 +1,5 @@
+- pkg:nuget/MassTransit.Integration.Composition@1.0.1
+- pkg:nuget/MassTransit.Integration.Composition@1.0.2
+- pkg:nuget/MassTransit.Integration.Composition@1.0.3
+- pkg:nuget/MassTransit.Integration.Composition@1.0.5
+- pkg:nuget/MassTransit.Integration.Composition@1.0.6

@@ -1,0 +1,2 @@
+- pkg:nuget/NEventStore.Persistence.RavenDB@5.0.0.86
+- pkg:nuget/NEventStore.Persistence.RavenDB@5.2.0

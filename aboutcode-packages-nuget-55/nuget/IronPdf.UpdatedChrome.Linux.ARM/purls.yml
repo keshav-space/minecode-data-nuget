@@ -1,0 +1,6 @@
+- pkg:nuget/IronPdf.UpdatedChrome.Linux.ARM@2025.5.6
+- pkg:nuget/IronPdf.UpdatedChrome.Linux.ARM@2025.6.5
+- pkg:nuget/IronPdf.UpdatedChrome.Linux.ARM@2025.6.8
+- pkg:nuget/IronPdf.UpdatedChrome.Linux.ARM@2025.7.17
+- pkg:nuget/IronPdf.UpdatedChrome.Linux.ARM@2025.8.8
+- pkg:nuget/IronPdf.UpdatedChrome.Linux.ARM@2025.9.4

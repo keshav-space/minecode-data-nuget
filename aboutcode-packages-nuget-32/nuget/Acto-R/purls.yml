@@ -1,0 +1,12 @@
+- pkg:nuget/Acto-R@1.0.0
+- pkg:nuget/Acto-R@1.0.0-alfa
+- pkg:nuget/Acto-R@1.0.0-alfa-build2
+- pkg:nuget/Acto-R@1.0.0-alfa-build3
+- pkg:nuget/Acto-R@1.0.0-beta-build1
+- pkg:nuget/Acto-R@1.0.0-beta-build2
+- pkg:nuget/Acto-R@1.0.0-beta-netstandard2
+- pkg:nuget/Acto-R@1.0.0-gamma-netstandard2
+- pkg:nuget/Acto-R@1.0.1
+- pkg:nuget/Acto-R@1.0.2
+- pkg:nuget/Acto-R@1.0.3
+- pkg:nuget/Acto-R@1.0.4

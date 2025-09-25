@@ -1,0 +1,13 @@
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.10.1-alpha.1
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.11.0
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.11.0-alpha.1
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.11.0-beta.1
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.12.0
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.12.0-alpha.1
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.12.0-alpha.2
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.12.0-beta.1
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.12.1
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.12.2
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.12.2-beta.1
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.13.0
+- pkg:nuget/NClient.Providers.Transport.RestSharp@0.13.0-beta.1

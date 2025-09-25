@@ -1,0 +1,11 @@
+- pkg:nuget/DbTool.DbProvider.PostgreSql@1.5.0
+- pkg:nuget/DbTool.DbProvider.PostgreSql@1.5.0-preview-20210315-153017
+- pkg:nuget/DbTool.DbProvider.PostgreSql@1.5.1
+- pkg:nuget/DbTool.DbProvider.PostgreSql@1.5.2
+- pkg:nuget/DbTool.DbProvider.PostgreSql@1.5.3
+- pkg:nuget/DbTool.DbProvider.PostgreSql@1.6.0
+- pkg:nuget/DbTool.DbProvider.PostgreSql@2.0.0
+- pkg:nuget/DbTool.DbProvider.PostgreSql@2.0.1
+- pkg:nuget/DbTool.DbProvider.PostgreSql@2.1.0
+- pkg:nuget/DbTool.DbProvider.PostgreSql@2.1.1
+- pkg:nuget/DbTool.DbProvider.PostgreSql@3.0.0

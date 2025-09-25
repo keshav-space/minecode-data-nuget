@@ -1,0 +1,3 @@
+- pkg:nuget/Xam.Plugin.NotificationHub@0.0.1-beta-2
+- pkg:nuget/Xam.Plugin.NotificationHub@1.0.0-beta-1
+- pkg:nuget/Xam.Plugin.NotificationHub@1.0.0-rc-1

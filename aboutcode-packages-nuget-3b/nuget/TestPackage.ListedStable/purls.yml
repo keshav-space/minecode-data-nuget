@@ -1,0 +1,6 @@
+- pkg:nuget/TestPackage.ListedStable@1.0.0
+- pkg:nuget/TestPackage.ListedStable@2.0.0
+- pkg:nuget/TestPackage.ListedStable@2.0.1
+- pkg:nuget/TestPackage.ListedStable@2.0.2
+- pkg:nuget/TestPackage.ListedStable@2.0.5
+- pkg:nuget/TestPackage.ListedStable@2.0.6
