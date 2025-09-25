@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Azure.Cosmos.Aot@0.1.0-preview.1
+- pkg:nuget/Microsoft.Azure.Cosmos.Aot@0.1.1-preview.1
+- pkg:nuget/Microsoft.Azure.Cosmos.Aot@0.1.2-preview.1
+- pkg:nuget/Microsoft.Azure.Cosmos.Aot@0.1.2-preview.2

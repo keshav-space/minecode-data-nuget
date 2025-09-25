@@ -1,0 +1,2 @@
+- pkg:nuget/Ci.Base.Logging.Serilog@5.0.0
+- pkg:nuget/Ci.Base.Logging.Serilog@5.0.2

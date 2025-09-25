@@ -1,0 +1,7 @@
+- pkg:nuget/Solidworks.EPDM.Interop@15.2.0
+- pkg:nuget/Solidworks.EPDM.Interop@15.2.1
+- pkg:nuget/Solidworks.EPDM.Interop@17.2.0
+- pkg:nuget/Solidworks.EPDM.Interop@17.2.1
+- pkg:nuget/Solidworks.EPDM.Interop@17.5.0
+- pkg:nuget/Solidworks.EPDM.Interop@17.5.1
+- pkg:nuget/Solidworks.EPDM.Interop@19.4.0

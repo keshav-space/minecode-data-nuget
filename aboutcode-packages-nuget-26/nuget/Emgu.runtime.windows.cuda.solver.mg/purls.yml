@@ -1,0 +1,4 @@
+- pkg:nuget/Emgu.runtime.windows.cuda.solver.mg@11.1.301
+- pkg:nuget/Emgu.runtime.windows.cuda.solver.mg@11.3.44
+- pkg:nuget/Emgu.runtime.windows.cuda.solver.mg@11.6.112
+- pkg:nuget/Emgu.runtime.windows.cuda.solver.mg@11.8.86

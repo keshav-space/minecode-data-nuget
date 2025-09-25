@@ -1,0 +1,5 @@
+- pkg:nuget/Python.Runtime.Mono@2.7.1
+- pkg:nuget/Python.Runtime.Mono@3.5.1
+- pkg:nuget/Python.Runtime.Mono@3.6.0
+- pkg:nuget/Python.Runtime.Mono@3.6.1
+- pkg:nuget/Python.Runtime.Mono@3.7.1

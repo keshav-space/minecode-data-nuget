@@ -1,0 +1,10 @@
+- pkg:nuget/Cake.BenchmarkDotNet@0.1.11
+- pkg:nuget/Cake.BenchmarkDotNet@0.1.12
+- pkg:nuget/Cake.BenchmarkDotNet@0.1.5
+- pkg:nuget/Cake.BenchmarkDotNet@0.1.7
+- pkg:nuget/Cake.BenchmarkDotNet@0.2.18-prerelease
+- pkg:nuget/Cake.BenchmarkDotNet@0.2.23
+- pkg:nuget/Cake.BenchmarkDotNet@0.2.23-prerelease
+- pkg:nuget/Cake.BenchmarkDotNet@0.2.27-prerelease
+- pkg:nuget/Cake.BenchmarkDotNet@0.2.29
+- pkg:nuget/Cake.BenchmarkDotNet@0.2.29-prerelease

@@ -1,0 +1,7 @@
+- pkg:nuget/Waybit.Abstractions.Repository.EntityFrameworkCore@0.1.0-unstable-1
+- pkg:nuget/Waybit.Abstractions.Repository.EntityFrameworkCore@0.1.0-unstable-3
+- pkg:nuget/Waybit.Abstractions.Repository.EntityFrameworkCore@1.0.0
+- pkg:nuget/Waybit.Abstractions.Repository.EntityFrameworkCore@1.0.0-unstable-5
+- pkg:nuget/Waybit.Abstractions.Repository.EntityFrameworkCore@1.0.0-unstable-6
+- pkg:nuget/Waybit.Abstractions.Repository.EntityFrameworkCore@1.0.0-unstable-8
+- pkg:nuget/Waybit.Abstractions.Repository.EntityFrameworkCore@1.0.0-unstable-9

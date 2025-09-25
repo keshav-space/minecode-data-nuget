@@ -1,0 +1,2 @@
+- pkg:nuget/EFCore.Caching.Queries.Redis@1.0.0
+- pkg:nuget/EFCore.Caching.Queries.Redis@1.0.1

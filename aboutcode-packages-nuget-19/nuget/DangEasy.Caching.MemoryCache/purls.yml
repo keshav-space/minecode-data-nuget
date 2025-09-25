@@ -1,0 +1,3 @@
+- pkg:nuget/DangEasy.Caching.MemoryCache@1.0.0
+- pkg:nuget/DangEasy.Caching.MemoryCache@2.0.0
+- pkg:nuget/DangEasy.Caching.MemoryCache@2.1.0

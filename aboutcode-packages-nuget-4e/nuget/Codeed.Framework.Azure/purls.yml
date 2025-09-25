@@ -1,0 +1,8 @@
+- pkg:nuget/Codeed.Framework.Azure@6.0.6-beta.1
+- pkg:nuget/Codeed.Framework.Azure@6.0.6-beta.2
+- pkg:nuget/Codeed.Framework.Azure@6.0.7
+- pkg:nuget/Codeed.Framework.Azure@6.0.8
+- pkg:nuget/Codeed.Framework.Azure@8.0.0-beta.2
+- pkg:nuget/Codeed.Framework.Azure@8.0.0-beta1
+- pkg:nuget/Codeed.Framework.Azure@8.0.0-beta2
+- pkg:nuget/Codeed.Framework.Azure@8.0.0-beta3

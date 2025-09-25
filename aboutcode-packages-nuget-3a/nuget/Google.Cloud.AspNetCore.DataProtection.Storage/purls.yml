@@ -1,0 +1,4 @@
+- pkg:nuget/Google.Cloud.AspNetCore.DataProtection.Storage@1.0.0-alpha01
+- pkg:nuget/Google.Cloud.AspNetCore.DataProtection.Storage@1.0.0-alpha02
+- pkg:nuget/Google.Cloud.AspNetCore.DataProtection.Storage@1.0.0-alpha03
+- pkg:nuget/Google.Cloud.AspNetCore.DataProtection.Storage@1.0.0-alpha04

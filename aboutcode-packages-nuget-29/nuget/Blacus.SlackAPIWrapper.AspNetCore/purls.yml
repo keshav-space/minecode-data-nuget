@@ -1,0 +1,2 @@
+- pkg:nuget/Blacus.SlackAPIWrapper.AspNetCore@8.1.1-beta
+- pkg:nuget/Blacus.SlackAPIWrapper.AspNetCore@9.1.1-beta

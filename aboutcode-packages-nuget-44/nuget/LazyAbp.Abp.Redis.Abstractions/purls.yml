@@ -1,0 +1,3 @@
+- pkg:nuget/LazyAbp.Abp.Redis.Abstractions@1.0.0
+- pkg:nuget/LazyAbp.Abp.Redis.Abstractions@1.0.1
+- pkg:nuget/LazyAbp.Abp.Redis.Abstractions@1.0.2

@@ -1,0 +1,4 @@
+- pkg:nuget/Pulumi.Cloudamqp@0.0.1-preview-alpha.1575644278%2Bg3eaccea
+- pkg:nuget/Pulumi.Cloudamqp@0.0.1-preview-alpha.1575644948%2Bgb433ad8
+- pkg:nuget/Pulumi.Cloudamqp@1.0.0-preview
+- pkg:nuget/Pulumi.Cloudamqp@1.1.0-preview-alpha.1575913619%2Bgfdb6c18

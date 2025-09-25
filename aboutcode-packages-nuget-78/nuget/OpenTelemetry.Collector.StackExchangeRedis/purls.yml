@@ -1,0 +1,2 @@
+- pkg:nuget/OpenTelemetry.Collector.StackExchangeRedis@0.2.0-alpha.100
+- pkg:nuget/OpenTelemetry.Collector.StackExchangeRedis@0.2.0-alpha.5

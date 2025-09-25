@@ -1,0 +1,14 @@
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@1.0.15-g1c730b552c
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@1.0.2
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@1.0.2-g1d704a6f6e
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@1.0.5-beta-g97f8e9a156
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@1.1.4
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@1.2.4
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@1.2.9
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@1.3.4-v1-0003-0000
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@2.0.2
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@3.0.3-alpha
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@3.0.5-alpha
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@3.0.6-alpha
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@3.0.7
+- pkg:nuget/Serilog.Sinks.Loki.YetAnother@3.1.2-alpha

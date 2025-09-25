@@ -1,0 +1,2 @@
+- pkg:nuget/Ci.Base.Business.Service.EntityFrameworkCore.SqlServer@5.0.0
+- pkg:nuget/Ci.Base.Business.Service.EntityFrameworkCore.SqlServer@5.0.2

@@ -1,0 +1,8 @@
+- pkg:nuget/AspNetCore.DataProtection.MySql@1.0.0
+- pkg:nuget/AspNetCore.DataProtection.MySql@1.0.0-beta-23
+- pkg:nuget/AspNetCore.DataProtection.MySql@1.0.1-beta-24
+- pkg:nuget/AspNetCore.DataProtection.MySql@1.0.1-beta-25
+- pkg:nuget/AspNetCore.DataProtection.MySql@1.0.1-beta-26
+- pkg:nuget/AspNetCore.DataProtection.MySql@1.0.1-beta-28
+- pkg:nuget/AspNetCore.DataProtection.MySql@1.0.3
+- pkg:nuget/AspNetCore.DataProtection.MySql@1.1.0

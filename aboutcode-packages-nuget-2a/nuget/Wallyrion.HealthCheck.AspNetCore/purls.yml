@@ -1,0 +1,2 @@
+- pkg:nuget/Wallyrion.HealthCheck.AspNetCore@0.1.0-beta
+- pkg:nuget/Wallyrion.HealthCheck.AspNetCore@0.2.20-beta

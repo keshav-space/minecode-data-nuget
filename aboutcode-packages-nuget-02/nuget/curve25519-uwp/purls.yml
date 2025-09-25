@@ -1,0 +1,5 @@
+- pkg:nuget/curve25519-uwp@1.0.0
+- pkg:nuget/curve25519-uwp@1.0.1
+- pkg:nuget/curve25519-uwp@1.0.2
+- pkg:nuget/curve25519-uwp@1.0.3
+- pkg:nuget/curve25519-uwp@1.0.4

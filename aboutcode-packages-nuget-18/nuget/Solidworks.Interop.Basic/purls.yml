@@ -1,0 +1,11 @@
+- pkg:nuget/Solidworks.Interop.Basic@15.1.0
+- pkg:nuget/Solidworks.Interop.Basic@15.1.1
+- pkg:nuget/Solidworks.Interop.Basic@15.1.2
+- pkg:nuget/Solidworks.Interop.Basic@15.5.2
+- pkg:nuget/Solidworks.Interop.Basic@17.5.0
+- pkg:nuget/Solidworks.Interop.Basic@17.5.1
+- pkg:nuget/Solidworks.Interop.Basic@17.5.2
+- pkg:nuget/Solidworks.Interop.Basic@18.1.0
+- pkg:nuget/Solidworks.Interop.Basic@18.1.1
+- pkg:nuget/Solidworks.Interop.Basic@18.4.0
+- pkg:nuget/Solidworks.Interop.Basic@19.4.0

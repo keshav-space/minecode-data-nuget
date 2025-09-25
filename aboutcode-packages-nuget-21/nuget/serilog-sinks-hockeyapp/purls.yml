@@ -1,0 +1,2 @@
+- pkg:nuget/serilog-sinks-hockeyapp@0.1.11
+- pkg:nuget/serilog-sinks-hockeyapp@0.1.12

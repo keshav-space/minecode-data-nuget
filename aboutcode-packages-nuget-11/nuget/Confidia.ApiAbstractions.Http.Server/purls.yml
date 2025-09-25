@@ -1,0 +1,5 @@
+- pkg:nuget/Confidia.ApiAbstractions.Http.Server@1.0.0
+- pkg:nuget/Confidia.ApiAbstractions.Http.Server@1.0.2
+- pkg:nuget/Confidia.ApiAbstractions.Http.Server@2.0.0
+- pkg:nuget/Confidia.ApiAbstractions.Http.Server@2.0.1
+- pkg:nuget/Confidia.ApiAbstractions.Http.Server@3.0.0
