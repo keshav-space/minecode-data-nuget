@@ -1,0 +1,8 @@
+- pkg:nuget/GroupDocs.Search.NETFramework@24.12.0
+- pkg:nuget/GroupDocs.Search.NETFramework@25.1.0
+- pkg:nuget/GroupDocs.Search.NETFramework@25.2.0
+- pkg:nuget/GroupDocs.Search.NETFramework@25.2.0-alpha-20250224081546
+- pkg:nuget/GroupDocs.Search.NETFramework@25.4.0
+- pkg:nuget/GroupDocs.Search.NETFramework@25.4.0-alpha-20250403072820
+- pkg:nuget/GroupDocs.Search.NETFramework@25.5.0
+- pkg:nuget/GroupDocs.Search.NETFramework@25.9.0

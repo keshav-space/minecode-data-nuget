@@ -1,0 +1,4 @@
+- pkg:nuget/JsonApiDotNetCore.OpenApi.Swashbuckle@5.7.0-preview.1
+- pkg:nuget/JsonApiDotNetCore.OpenApi.Swashbuckle@5.7.1-preview.2
+- pkg:nuget/JsonApiDotNetCore.OpenApi.Swashbuckle@5.8.0-preview.3
+- pkg:nuget/JsonApiDotNetCore.OpenApi.Swashbuckle@5.8.1-preview.4

@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.TensorRT.cuda11.nvinfer_vc_plugin_10.runtime.json@10.5.0.18
+- pkg:nuget/NtvLibs.TensorRT.cuda11.nvinfer_vc_plugin_10.runtime.json@10.8.0.43

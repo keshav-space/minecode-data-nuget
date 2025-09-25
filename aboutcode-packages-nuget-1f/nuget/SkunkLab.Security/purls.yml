@@ -1,0 +1,5 @@
+- pkg:nuget/SkunkLab.Security@0.9.0-prerelease
+- pkg:nuget/SkunkLab.Security@1.0.0
+- pkg:nuget/SkunkLab.Security@1.1.0
+- pkg:nuget/SkunkLab.Security@1.2.0
+- pkg:nuget/SkunkLab.Security@3.0.2

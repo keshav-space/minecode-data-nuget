@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.OnnxRuntimeGenAI.CPU.onnxruntime-genai.runtime.win-x64@0.4.0
+- pkg:nuget/NtvLibs.OnnxRuntimeGenAI.CPU.onnxruntime-genai.runtime.win-x64@0.7.0

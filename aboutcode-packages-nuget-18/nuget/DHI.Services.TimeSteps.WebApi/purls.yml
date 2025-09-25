@@ -1,0 +1,7 @@
+- pkg:nuget/DHI.Services.TimeSteps.WebApi@2.0.0
+- pkg:nuget/DHI.Services.TimeSteps.WebApi@2.0.0-rc1
+- pkg:nuget/DHI.Services.TimeSteps.WebApi@3.0.0
+- pkg:nuget/DHI.Services.TimeSteps.WebApi@3.1.0
+- pkg:nuget/DHI.Services.TimeSteps.WebApi@3.2.0
+- pkg:nuget/DHI.Services.TimeSteps.WebApi@3.2.1
+- pkg:nuget/DHI.Services.TimeSteps.WebApi@3.2.2

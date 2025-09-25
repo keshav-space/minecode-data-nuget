@@ -1,0 +1,9 @@
+- pkg:nuget/Elmah.AspNetCore@0.0.0-preview.0.162
+- pkg:nuget/Elmah.AspNetCore@1.0.0
+- pkg:nuget/Elmah.AspNetCore@1.0.0-preview.0
+- pkg:nuget/Elmah.AspNetCore@1.0.0-preview.1
+- pkg:nuget/Elmah.AspNetCore@1.0.0-preview.2
+- pkg:nuget/Elmah.AspNetCore@1.0.0-preview.3
+- pkg:nuget/Elmah.AspNetCore@1.0.1
+- pkg:nuget/Elmah.AspNetCore@1.0.2
+- pkg:nuget/Elmah.AspNetCore@1.0.3

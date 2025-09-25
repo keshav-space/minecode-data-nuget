@@ -1,0 +1,4 @@
+- pkg:nuget/log4net.Appender.Splunk@1.0.0
+- pkg:nuget/log4net.Appender.Splunk@2.0.0
+- pkg:nuget/log4net.Appender.Splunk@2.1.0
+- pkg:nuget/log4net.Appender.Splunk@2.2.0

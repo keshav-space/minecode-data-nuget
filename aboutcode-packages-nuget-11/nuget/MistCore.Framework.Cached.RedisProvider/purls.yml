@@ -1,0 +1,4 @@
+- pkg:nuget/MistCore.Framework.Cached.RedisProvider@1.0.0
+- pkg:nuget/MistCore.Framework.Cached.RedisProvider@1.0.1
+- pkg:nuget/MistCore.Framework.Cached.RedisProvider@1.0.2
+- pkg:nuget/MistCore.Framework.Cached.RedisProvider@1.0.3

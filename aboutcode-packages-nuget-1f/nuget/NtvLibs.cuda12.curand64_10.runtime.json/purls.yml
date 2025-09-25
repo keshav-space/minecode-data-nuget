@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.cuda12.curand64_10.runtime.json@12.6.2
+- pkg:nuget/NtvLibs.cuda12.curand64_10.runtime.json@12.8.1

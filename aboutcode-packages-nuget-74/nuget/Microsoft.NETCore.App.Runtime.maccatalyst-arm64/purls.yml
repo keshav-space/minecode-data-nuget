@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.NETCore.App.Runtime.maccatalyst-arm64@6.0.0-preview.2.21154.6
+- pkg:nuget/Microsoft.NETCore.App.Runtime.maccatalyst-arm64@6.0.0-preview.3.21201.4

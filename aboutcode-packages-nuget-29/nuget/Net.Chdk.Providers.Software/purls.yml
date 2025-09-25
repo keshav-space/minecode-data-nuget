@@ -1,0 +1,5 @@
+- pkg:nuget/Net.Chdk.Providers.Software@0.1.0-alpha
+- pkg:nuget/Net.Chdk.Providers.Software@0.2.0-alpha
+- pkg:nuget/Net.Chdk.Providers.Software@0.3.1-alpha
+- pkg:nuget/Net.Chdk.Providers.Software@0.3.2-alpha
+- pkg:nuget/Net.Chdk.Providers.Software@0.5.0-alpha

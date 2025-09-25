@@ -1,0 +1,5 @@
+- pkg:nuget/Sample.CoreEventSender@1.0.0
+- pkg:nuget/Sample.CoreEventSender@1.0.1
+- pkg:nuget/Sample.CoreEventSender@1.0.2
+- pkg:nuget/Sample.CoreEventSender@20200528.5.0
+- pkg:nuget/Sample.CoreEventSender@20200528.7.0

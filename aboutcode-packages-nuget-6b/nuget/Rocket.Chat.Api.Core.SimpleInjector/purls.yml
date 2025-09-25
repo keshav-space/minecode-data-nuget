@@ -1,0 +1,4 @@
+- pkg:nuget/Rocket.Chat.Api.Core.SimpleInjector@1.0.1
+- pkg:nuget/Rocket.Chat.Api.Core.SimpleInjector@1.0.2
+- pkg:nuget/Rocket.Chat.Api.Core.SimpleInjector@1.0.3
+- pkg:nuget/Rocket.Chat.Api.Core.SimpleInjector@1.0.4

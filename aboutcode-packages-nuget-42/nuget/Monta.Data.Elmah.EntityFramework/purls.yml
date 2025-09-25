@@ -1,0 +1,4 @@
+- pkg:nuget/Monta.Data.Elmah.EntityFramework@1.0.0
+- pkg:nuget/Monta.Data.Elmah.EntityFramework@1.0.1-Beta1
+- pkg:nuget/Monta.Data.Elmah.EntityFramework@1.5.0
+- pkg:nuget/Monta.Data.Elmah.EntityFramework@1.5.1

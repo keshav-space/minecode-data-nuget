@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.onnxruntime_providers_shared.runtime.linux-x64@1.19.2
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.onnxruntime_providers_shared.runtime.linux-x64@1.21.0

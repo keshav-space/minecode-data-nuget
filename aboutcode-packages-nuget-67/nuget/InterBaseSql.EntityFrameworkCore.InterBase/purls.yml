@@ -1,0 +1,8 @@
+- pkg:nuget/InterBaseSql.EntityFrameworkCore.InterBase@10.0.2
+- pkg:nuget/InterBaseSql.EntityFrameworkCore.InterBase@10.0.3
+- pkg:nuget/InterBaseSql.EntityFrameworkCore.InterBase@7.10.2
+- pkg:nuget/InterBaseSql.EntityFrameworkCore.InterBase@7.11.0
+- pkg:nuget/InterBaseSql.EntityFrameworkCore.InterBase@7.12.1
+- pkg:nuget/InterBaseSql.EntityFrameworkCore.InterBase@7.13.6
+- pkg:nuget/InterBaseSql.EntityFrameworkCore.InterBase@7.13.7
+- pkg:nuget/InterBaseSql.EntityFrameworkCore.InterBase@7.14.6

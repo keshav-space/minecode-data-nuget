@@ -1,0 +1,2 @@
+- pkg:nuget/OutputCacheRedis.DependencyInjection@0.1.2
+- pkg:nuget/OutputCacheRedis.DependencyInjection@1.0.0

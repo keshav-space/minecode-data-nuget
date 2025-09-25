@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.cuda11.Tensorrt.onnxruntime_providers_tensorrt.runtime.json@1.19.2
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.cuda11.Tensorrt.onnxruntime_providers_tensorrt.runtime.json@1.21.0

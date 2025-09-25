@@ -1,0 +1,4 @@
+- pkg:nuget/LiteDbMigrator@1.0.0
+- pkg:nuget/LiteDbMigrator@2.0.0
+- pkg:nuget/LiteDbMigrator@2.0.1
+- pkg:nuget/LiteDbMigrator@2.0.2-beta

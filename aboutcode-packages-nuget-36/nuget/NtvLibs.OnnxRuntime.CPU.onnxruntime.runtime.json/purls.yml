@@ -1,0 +1,3 @@
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.onnxruntime.runtime.json@1.15.1
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.onnxruntime.runtime.json@1.19.2
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.onnxruntime.runtime.json@1.21.0

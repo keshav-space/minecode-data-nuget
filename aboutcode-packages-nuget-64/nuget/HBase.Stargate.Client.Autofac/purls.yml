@@ -1,0 +1,8 @@
+- pkg:nuget/HBase.Stargate.Client.Autofac@1.0.0
+- pkg:nuget/HBase.Stargate.Client.Autofac@1.0.0-beta1
+- pkg:nuget/HBase.Stargate.Client.Autofac@1.0.0-beta2
+- pkg:nuget/HBase.Stargate.Client.Autofac@1.0.0-beta3
+- pkg:nuget/HBase.Stargate.Client.Autofac@1.0.0-beta4
+- pkg:nuget/HBase.Stargate.Client.Autofac@1.0.0-beta5
+- pkg:nuget/HBase.Stargate.Client.Autofac@1.1.0
+- pkg:nuget/HBase.Stargate.Client.Autofac@1.1.1

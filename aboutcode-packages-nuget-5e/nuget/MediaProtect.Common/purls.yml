@@ -1,0 +1,5 @@
+- pkg:nuget/MediaProtect.Common@15.0.0-alpha0001
+- pkg:nuget/MediaProtect.Common@15.0.0-beta0001
+- pkg:nuget/MediaProtect.Common@16.0.0
+- pkg:nuget/MediaProtect.Common@16.0.0-beta0001
+- pkg:nuget/MediaProtect.Common@16.0.0-rc0001

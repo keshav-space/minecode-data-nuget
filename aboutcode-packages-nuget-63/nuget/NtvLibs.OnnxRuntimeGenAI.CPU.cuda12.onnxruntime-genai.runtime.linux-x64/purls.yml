@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.OnnxRuntimeGenAI.CPU.cuda12.onnxruntime-genai.runtime.linux-x64@0.4.0
+- pkg:nuget/NtvLibs.OnnxRuntimeGenAI.CPU.cuda12.onnxruntime-genai.runtime.linux-x64@0.7.0

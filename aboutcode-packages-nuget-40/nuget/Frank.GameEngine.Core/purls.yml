@@ -1,0 +1,5 @@
+- pkg:nuget/Frank.GameEngine.Core@0.1.0
+- pkg:nuget/Frank.GameEngine.Core@0.1.6-preview
+- pkg:nuget/Frank.GameEngine.Core@0.2.1-preview
+- pkg:nuget/Frank.GameEngine.Core@0.2.8-preview
+- pkg:nuget/Frank.GameEngine.Core@0.3.0

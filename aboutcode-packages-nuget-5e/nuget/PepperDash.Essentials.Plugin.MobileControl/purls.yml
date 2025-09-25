@@ -1,0 +1,6 @@
+- pkg:nuget/PepperDash.Essentials.Plugin.MobileControl@3.1.1-alpha-347
+- pkg:nuget/PepperDash.Essentials.Plugin.MobileControl@3.1.1-hotfix-342
+- pkg:nuget/PepperDash.Essentials.Plugin.MobileControl@3.1.1-hotfix-343
+- pkg:nuget/PepperDash.Essentials.Plugin.MobileControl@3.1.1-hotfix-344
+- pkg:nuget/PepperDash.Essentials.Plugin.MobileControl@3.2.0
+- pkg:nuget/PepperDash.Essentials.Plugin.MobileControl@3.2.0-feature-move-messengers-out.3

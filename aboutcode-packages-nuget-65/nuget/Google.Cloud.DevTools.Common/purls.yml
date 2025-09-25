@@ -1,0 +1,11 @@
+- pkg:nuget/Google.Cloud.DevTools.Common@1.0.0
+- pkg:nuget/Google.Cloud.DevTools.Common@1.0.0-alpha01
+- pkg:nuget/Google.Cloud.DevTools.Common@1.0.0-alpha02
+- pkg:nuget/Google.Cloud.DevTools.Common@1.0.0-alpha03
+- pkg:nuget/Google.Cloud.DevTools.Common@1.1.0
+- pkg:nuget/Google.Cloud.DevTools.Common@2.0.0
+- pkg:nuget/Google.Cloud.DevTools.Common@2.0.0-beta01
+- pkg:nuget/Google.Cloud.DevTools.Common@2.1.0
+- pkg:nuget/Google.Cloud.DevTools.Common@3.0.0
+- pkg:nuget/Google.Cloud.DevTools.Common@3.1.1
+- pkg:nuget/Google.Cloud.DevTools.Common@3.2.0

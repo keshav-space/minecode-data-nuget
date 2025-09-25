@@ -1,0 +1,4 @@
+- pkg:nuget/OrderPreservingEncryptionDotNet@0.1.0-release0001-0016
+- pkg:nuget/OrderPreservingEncryptionDotNet@1.0.0
+- pkg:nuget/OrderPreservingEncryptionDotNet@1.0.1-rc0000
+- pkg:nuget/OrderPreservingEncryptionDotNet@1.1.0-rc0000

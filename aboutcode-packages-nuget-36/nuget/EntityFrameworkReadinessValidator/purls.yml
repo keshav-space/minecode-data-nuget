@@ -1,0 +1,5 @@
+- pkg:nuget/EntityFrameworkReadinessValidator@0.1.0
+- pkg:nuget/EntityFrameworkReadinessValidator@0.1.1
+- pkg:nuget/EntityFrameworkReadinessValidator@0.1.2
+- pkg:nuget/EntityFrameworkReadinessValidator@0.1.3
+- pkg:nuget/EntityFrameworkReadinessValidator@1.0.0-rc1

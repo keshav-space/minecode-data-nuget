@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.cuda12.curand64_10.runtime.win-x64@12.6.2
+- pkg:nuget/NtvLibs.cuda12.curand64_10.runtime.win-x64@12.8.1

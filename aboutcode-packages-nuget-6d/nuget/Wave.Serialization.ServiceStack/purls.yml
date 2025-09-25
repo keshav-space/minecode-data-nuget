@@ -1,0 +1,8 @@
+- pkg:nuget/Wave.Serialization.ServiceStack@1.0.2-alpha
+- pkg:nuget/Wave.Serialization.ServiceStack@1.0.3-alpha
+- pkg:nuget/Wave.Serialization.ServiceStack@1.0.4-alpha
+- pkg:nuget/Wave.Serialization.ServiceStack@1.0.5-alpha
+- pkg:nuget/Wave.Serialization.ServiceStack@1.0.6-alpha
+- pkg:nuget/Wave.Serialization.ServiceStack@1.0.7-alpha
+- pkg:nuget/Wave.Serialization.ServiceStack@1.0.8-rc
+- pkg:nuget/Wave.Serialization.ServiceStack@1.0.9-rc

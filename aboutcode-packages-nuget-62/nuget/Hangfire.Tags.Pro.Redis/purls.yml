@@ -1,0 +1,4 @@
+- pkg:nuget/Hangfire.Tags.Pro.Redis@1.0.0
+- pkg:nuget/Hangfire.Tags.Pro.Redis@1.8.0
+- pkg:nuget/Hangfire.Tags.Pro.Redis@1.9.1-beta.1
+- pkg:nuget/Hangfire.Tags.Pro.Redis@3.0.0-beta.1

@@ -1,0 +1,6 @@
+- pkg:nuget/OneInc.ProcessOne.RestApi.Client.Javascript@0.0.0.1
+- pkg:nuget/OneInc.ProcessOne.RestApi.Client.Javascript@0.0.1-pre-release
+- pkg:nuget/OneInc.ProcessOne.RestApi.Client.Javascript@0.0.2-pre-release
+- pkg:nuget/OneInc.ProcessOne.RestApi.Client.Javascript@0.0.3-pre-release
+- pkg:nuget/OneInc.ProcessOne.RestApi.Client.Javascript@1.0.0-pre-release
+- pkg:nuget/OneInc.ProcessOne.RestApi.Client.Javascript@3.3.8.1

@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.tvos-x64@6.0.0-preview.1.21102.12
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.tvos-x64@6.0.0-preview.2.21154.6

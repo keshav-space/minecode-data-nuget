@@ -1,0 +1,8 @@
+- pkg:nuget/Goffo.ActiveDirectory@1.0.0
+- pkg:nuget/Goffo.ActiveDirectory@1.1.0
+- pkg:nuget/Goffo.ActiveDirectory@2.0.0
+- pkg:nuget/Goffo.ActiveDirectory@2.1.0
+- pkg:nuget/Goffo.ActiveDirectory@3.0.0
+- pkg:nuget/Goffo.ActiveDirectory@3.1.0
+- pkg:nuget/Goffo.ActiveDirectory@4.0.0
+- pkg:nuget/Goffo.ActiveDirectory@5.0.0

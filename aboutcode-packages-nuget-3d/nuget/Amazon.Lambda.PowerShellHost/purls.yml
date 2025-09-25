@@ -1,0 +1,7 @@
+- pkg:nuget/Amazon.Lambda.PowerShellHost@1.0.0
+- pkg:nuget/Amazon.Lambda.PowerShellHost@2.0.0
+- pkg:nuget/Amazon.Lambda.PowerShellHost@2.1.0
+- pkg:nuget/Amazon.Lambda.PowerShellHost@2.2.0
+- pkg:nuget/Amazon.Lambda.PowerShellHost@3.0.0
+- pkg:nuget/Amazon.Lambda.PowerShellHost@3.0.1
+- pkg:nuget/Amazon.Lambda.PowerShellHost@3.0.2

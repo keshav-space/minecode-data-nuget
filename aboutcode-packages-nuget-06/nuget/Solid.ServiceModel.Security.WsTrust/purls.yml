@@ -1,0 +1,8 @@
+- pkg:nuget/Solid.ServiceModel.Security.WsTrust@0.1.40-beta
+- pkg:nuget/Solid.ServiceModel.Security.WsTrust@0.2.0-beta
+- pkg:nuget/Solid.ServiceModel.Security.WsTrust@0.2.1-beta
+- pkg:nuget/Solid.ServiceModel.Security.WsTrust@1.0.0
+- pkg:nuget/Solid.ServiceModel.Security.WsTrust@1.0.1
+- pkg:nuget/Solid.ServiceModel.Security.WsTrust@4.0.0
+- pkg:nuget/Solid.ServiceModel.Security.WsTrust@4.0.1
+- pkg:nuget/Solid.ServiceModel.Security.WsTrust@4.0.2

@@ -1,0 +1,7 @@
+- pkg:nuget/Egil.Orleans.EventSourcing@0.0.0-alpha.0.99
+- pkg:nuget/Egil.Orleans.EventSourcing@0.3.3
+- pkg:nuget/Egil.Orleans.EventSourcing@0.4.4
+- pkg:nuget/Egil.Orleans.EventSourcing@0.5.4
+- pkg:nuget/Egil.Orleans.EventSourcing@0.6.3
+- pkg:nuget/Egil.Orleans.EventSourcing@0.7.2
+- pkg:nuget/Egil.Orleans.EventSourcing@0.8.3

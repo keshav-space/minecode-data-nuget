@@ -1,0 +1,6 @@
+- pkg:nuget/MyNet.Utilities.Authentication.Windows@1.0.1
+- pkg:nuget/MyNet.Utilities.Authentication.Windows@1.1.0
+- pkg:nuget/MyNet.Utilities.Authentication.Windows@5.0.0
+- pkg:nuget/MyNet.Utilities.Authentication.Windows@5.0.0-pre
+- pkg:nuget/MyNet.Utilities.Authentication.Windows@6.0.0
+- pkg:nuget/MyNet.Utilities.Authentication.Windows@7.0.0

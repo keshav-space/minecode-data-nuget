@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.Windows.AI.MachineLearning@0.3.131-beta
+- pkg:nuget/Microsoft.Windows.AI.MachineLearning@0.3.134-beta

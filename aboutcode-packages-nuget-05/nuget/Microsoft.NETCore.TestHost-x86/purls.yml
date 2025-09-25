@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.NETCore.TestHost-x86@1.0.0-beta-23019
+- pkg:nuget/Microsoft.NETCore.TestHost-x86@1.0.0-beta-23109
+- pkg:nuget/Microsoft.NETCore.TestHost-x86@1.0.0-beta-23123
+- pkg:nuget/Microsoft.NETCore.TestHost-x86@1.0.0-beta-23225

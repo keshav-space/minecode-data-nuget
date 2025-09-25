@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.cuDNN.cuda12.cudnn64_9.runtime.win-x64@9.5.0.50
+- pkg:nuget/NtvLibs.cuDNN.cuda12.cudnn64_9.runtime.win-x64@9.8.0.87

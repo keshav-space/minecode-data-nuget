@@ -1,0 +1,2 @@
+- pkg:nuget/Microsoft.SqlServer.IntegrationServices.Build@1.0.0
+- pkg:nuget/Microsoft.SqlServer.IntegrationServices.Build@1.1.0

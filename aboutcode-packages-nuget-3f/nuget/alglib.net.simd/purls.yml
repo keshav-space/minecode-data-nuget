@@ -1,0 +1,4 @@
+- pkg:nuget/alglib.net.simd@3.18.0
+- pkg:nuget/alglib.net.simd@3.18.1
+- pkg:nuget/alglib.net.simd@3.18.2
+- pkg:nuget/alglib.net.simd@3.19.0

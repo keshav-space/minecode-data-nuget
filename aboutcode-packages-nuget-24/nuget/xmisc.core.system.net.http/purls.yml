@@ -1,0 +1,4 @@
+- pkg:nuget/xmisc.core.system.net.http@4.0.76-alpha
+- pkg:nuget/xmisc.core.system.net.http@6.0.4
+- pkg:nuget/xmisc.core.system.net.http@8.2.8
+- pkg:nuget/xmisc.core.system.net.http@9.0.8

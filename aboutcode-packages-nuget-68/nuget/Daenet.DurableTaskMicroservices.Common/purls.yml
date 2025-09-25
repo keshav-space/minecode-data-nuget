@@ -1,0 +1,4 @@
+- pkg:nuget/Daenet.DurableTaskMicroservices.Common@0.0.1
+- pkg:nuget/Daenet.DurableTaskMicroservices.Common@0.0.2
+- pkg:nuget/Daenet.DurableTaskMicroservices.Common@0.0.3
+- pkg:nuget/Daenet.DurableTaskMicroservices.Common@1.0.0

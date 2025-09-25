@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.cuDNN.cuda12.cudnn_engines_precompiled64_9.runtime.win-x64.f01@9.5.0.50
+- pkg:nuget/NtvLibs.cuDNN.cuda12.cudnn_engines_precompiled64_9.runtime.win-x64.f01@9.8.0.87

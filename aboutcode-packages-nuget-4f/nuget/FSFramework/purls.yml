@@ -1,0 +1,4 @@
+- pkg:nuget/FSFramework@1.0.0-preview-1
+- pkg:nuget/FSFramework@1.1.0
+- pkg:nuget/FSFramework@2.0.0
+- pkg:nuget/FSFramework@2.0.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Kesoft.AspNet.Identity.MySql@1.0.10
+- pkg:nuget/Kesoft.AspNet.Identity.MySql@1.0.11
+- pkg:nuget/Kesoft.AspNet.Identity.MySql@1.0.12
+- pkg:nuget/Kesoft.AspNet.Identity.MySql@1.0.13
+- pkg:nuget/Kesoft.AspNet.Identity.MySql@1.0.15

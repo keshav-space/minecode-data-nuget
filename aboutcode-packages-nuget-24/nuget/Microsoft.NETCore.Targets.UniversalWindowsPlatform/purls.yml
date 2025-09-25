@@ -1,0 +1,5 @@
+- pkg:nuget/Microsoft.NETCore.Targets.UniversalWindowsPlatform@1.0.0-beta-23019
+- pkg:nuget/Microsoft.NETCore.Targets.UniversalWindowsPlatform@1.0.0-beta-23109
+- pkg:nuget/Microsoft.NETCore.Targets.UniversalWindowsPlatform@5.0.0
+- pkg:nuget/Microsoft.NETCore.Targets.UniversalWindowsPlatform@5.0.1-beta-23225
+- pkg:nuget/Microsoft.NETCore.Targets.UniversalWindowsPlatform@5.0.1-beta-23516

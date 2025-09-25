@@ -1,0 +1,3 @@
+- pkg:nuget/EnqueueIt.Redis.Free@0.1.0-beta
+- pkg:nuget/EnqueueIt.Redis.Free@0.1.0-rc
+- pkg:nuget/EnqueueIt.Redis.Free@0.1.1-beta

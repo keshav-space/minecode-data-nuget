@@ -1,0 +1,11 @@
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@1.0.0
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@1.1.0
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@1.2.0
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@1.3.0
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@2.0.0
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@2.0.0-rc.1
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@2.0.0-rc.2
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@2.0.0-rc.3
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@2.0.0-rc.4
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@3.0.0
+- pkg:nuget/Serilog.Sinks.Http.LogzIo@4.0.0

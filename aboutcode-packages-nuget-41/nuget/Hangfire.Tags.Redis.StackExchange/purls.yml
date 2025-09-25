@@ -1,0 +1,5 @@
+- pkg:nuget/Hangfire.Tags.Redis.StackExchange@1.0.0
+- pkg:nuget/Hangfire.Tags.Redis.StackExchange@1.0.0-alpha.1
+- pkg:nuget/Hangfire.Tags.Redis.StackExchange@1.8.0
+- pkg:nuget/Hangfire.Tags.Redis.StackExchange@1.9.1-beta.1
+- pkg:nuget/Hangfire.Tags.Redis.StackExchange@1.9.2-beta.1

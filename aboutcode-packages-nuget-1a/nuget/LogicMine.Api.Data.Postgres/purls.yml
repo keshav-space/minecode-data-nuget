@@ -1,0 +1,4 @@
+- pkg:nuget/LogicMine.Api.Data.Postgres@1.1.0
+- pkg:nuget/LogicMine.Api.Data.Postgres@1.1.5
+- pkg:nuget/LogicMine.Api.Data.Postgres@1.3.0
+- pkg:nuget/LogicMine.Api.Data.Postgres@1.4.0

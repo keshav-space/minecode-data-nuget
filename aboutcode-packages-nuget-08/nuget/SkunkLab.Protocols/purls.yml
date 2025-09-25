@@ -1,0 +1,5 @@
+- pkg:nuget/SkunkLab.Protocols@0.9.0-prerelease
+- pkg:nuget/SkunkLab.Protocols@1.0.0
+- pkg:nuget/SkunkLab.Protocols@1.1.0
+- pkg:nuget/SkunkLab.Protocols@1.2.0
+- pkg:nuget/SkunkLab.Protocols@3.0.2

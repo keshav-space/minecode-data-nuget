@@ -1,0 +1,9 @@
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.10.0
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.10.1
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.10.2
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.9.0
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.9.2
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.9.5
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.9.7
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.9.8
+- pkg:nuget/MassTransit.Courier.MongoDbIntegration@2.9.9

@@ -1,0 +1,2 @@
+- pkg:nuget/RnCore.Metrics.InfluxDB@9.0.100
+- pkg:nuget/RnCore.Metrics.InfluxDB@9.1.100

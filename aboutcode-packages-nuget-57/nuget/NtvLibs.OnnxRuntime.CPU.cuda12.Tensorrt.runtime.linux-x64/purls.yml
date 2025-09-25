@@ -1,0 +1,2 @@
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.cuda12.Tensorrt.runtime.linux-x64@1.19.2
+- pkg:nuget/NtvLibs.OnnxRuntime.CPU.cuda12.Tensorrt.runtime.linux-x64@1.21.0

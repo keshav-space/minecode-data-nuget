@@ -1,0 +1,9 @@
+- pkg:nuget/GSqlQuery.Sqlite@1.0.0
+- pkg:nuget/GSqlQuery.Sqlite@1.0.0-alpha
+- pkg:nuget/GSqlQuery.Sqlite@1.0.0-rc
+- pkg:nuget/GSqlQuery.Sqlite@2.0.0
+- pkg:nuget/GSqlQuery.Sqlite@2.0.0-RC
+- pkg:nuget/GSqlQuery.Sqlite@2.0.1
+- pkg:nuget/GSqlQuery.Sqlite@3.0.0
+- pkg:nuget/GSqlQuery.Sqlite@3.0.0-beta
+- pkg:nuget/GSqlQuery.Sqlite@3.0.0-rc
