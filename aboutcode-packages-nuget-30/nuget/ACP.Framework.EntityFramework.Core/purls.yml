@@ -1,0 +1,3 @@
+- pkg:nuget/ACP.Framework.EntityFramework.Core@1.0.0
+- pkg:nuget/ACP.Framework.EntityFramework.Core@1.0.1
+- pkg:nuget/ACP.Framework.EntityFramework.Core@1.0.2

@@ -1,0 +1,5 @@
+- pkg:nuget/Shuttle.Core.Data.Logging@15.0.0
+- pkg:nuget/Shuttle.Core.Data.Logging@16.0.0
+- pkg:nuget/Shuttle.Core.Data.Logging@16.0.1
+- pkg:nuget/Shuttle.Core.Data.Logging@17.0.0
+- pkg:nuget/Shuttle.Core.Data.Logging@20.0.0

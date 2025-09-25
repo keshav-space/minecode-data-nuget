@@ -1,0 +1,5 @@
+- pkg:nuget/Extensions.DependencyInjection.Factories@2.0.0
+- pkg:nuget/Extensions.DependencyInjection.Factories@2.1.0
+- pkg:nuget/Extensions.DependencyInjection.Factories@2.2.0
+- pkg:nuget/Extensions.DependencyInjection.Factories@2.2.1
+- pkg:nuget/Extensions.DependencyInjection.Factories@2.3.0

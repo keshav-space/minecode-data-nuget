@@ -1,0 +1,5 @@
+- pkg:nuget/Havit.Data.EntityFrameworkCore.Abstractions@2.0.0
+- pkg:nuget/Havit.Data.EntityFrameworkCore.Abstractions@2.0.1
+- pkg:nuget/Havit.Data.EntityFrameworkCore.Abstractions@2.1.0
+- pkg:nuget/Havit.Data.EntityFrameworkCore.Abstractions@2.1.0-preview01
+- pkg:nuget/Havit.Data.EntityFrameworkCore.Abstractions@2.1.1

@@ -1,0 +1,6 @@
+- pkg:nuget/WebApi.TestHarness@1.0.0
+- pkg:nuget/WebApi.TestHarness@1.1.0
+- pkg:nuget/WebApi.TestHarness@1.5.1
+- pkg:nuget/WebApi.TestHarness@2.0.0
+- pkg:nuget/WebApi.TestHarness@2.1.0
+- pkg:nuget/WebApi.TestHarness@3.1.0

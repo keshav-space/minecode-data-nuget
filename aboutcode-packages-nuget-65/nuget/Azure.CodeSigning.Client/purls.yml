@@ -1,0 +1,7 @@
+- pkg:nuget/Azure.CodeSigning.Client@1.0.29
+- pkg:nuget/Azure.CodeSigning.Client@1.0.30
+- pkg:nuget/Azure.CodeSigning.Client@1.0.33
+- pkg:nuget/Azure.CodeSigning.Client@1.0.34
+- pkg:nuget/Azure.CodeSigning.Client@1.0.38
+- pkg:nuget/Azure.CodeSigning.Client@1.0.43
+- pkg:nuget/Azure.CodeSigning.Client@1.0.47

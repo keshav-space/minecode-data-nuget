@@ -1,0 +1,8 @@
+- pkg:nuget/protobuf-net.GrpcLite@0.1.13
+- pkg:nuget/protobuf-net.GrpcLite@0.1.4
+- pkg:nuget/protobuf-net.GrpcLite@0.1.5
+- pkg:nuget/protobuf-net.GrpcLite@1.0.221-g04a071f10f
+- pkg:nuget/protobuf-net.GrpcLite@1.0.225-g8ef8019e8e
+- pkg:nuget/protobuf-net.GrpcLite@1.0.231-g74e4f0bb53
+- pkg:nuget/protobuf-net.GrpcLite@1.0.232-g9f7b0ac948
+- pkg:nuget/protobuf-net.GrpcLite@1.0.233-g99e5165eb1

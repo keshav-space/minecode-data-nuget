@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Fabric@0.1.30-rc
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Fabric@0.1.32-rc
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Fabric@0.1.40-rc
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Fabric@0.1.51-rc
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Fabric@0.1.54-rc
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.Fabric@0.2.29-rc

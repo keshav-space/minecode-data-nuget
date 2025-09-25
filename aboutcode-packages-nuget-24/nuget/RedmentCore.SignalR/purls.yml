@@ -1,0 +1,3 @@
+- pkg:nuget/RedmentCore.SignalR@1.0.0
+- pkg:nuget/RedmentCore.SignalR@6.1.0.1
+- pkg:nuget/RedmentCore.SignalR@8.0.0

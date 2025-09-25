@@ -1,0 +1,4 @@
+- pkg:nuget/Polyfill.System.Buffers.NET40@0.0.1
+- pkg:nuget/Polyfill.System.Buffers.NET40@0.0.2
+- pkg:nuget/Polyfill.System.Buffers.NET40@0.0.3
+- pkg:nuget/Polyfill.System.Buffers.NET40@0.0.4

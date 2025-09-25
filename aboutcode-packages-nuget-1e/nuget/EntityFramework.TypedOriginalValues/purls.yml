@@ -1,0 +1,12 @@
+- pkg:nuget/EntityFramework.TypedOriginalValues@0.1.0-prerelease
+- pkg:nuget/EntityFramework.TypedOriginalValues@0.2.0-prerelease
+- pkg:nuget/EntityFramework.TypedOriginalValues@0.3.0-prerelease
+- pkg:nuget/EntityFramework.TypedOriginalValues@0.3.1
+- pkg:nuget/EntityFramework.TypedOriginalValues@0.3.1-prerelease
+- pkg:nuget/EntityFramework.TypedOriginalValues@0.4.0-prerelease
+- pkg:nuget/EntityFramework.TypedOriginalValues@0.4.2-prerelease
+- pkg:nuget/EntityFramework.TypedOriginalValues@0.4.3-prerelease
+- pkg:nuget/EntityFramework.TypedOriginalValues@1.0.0
+- pkg:nuget/EntityFramework.TypedOriginalValues@1.0.1
+- pkg:nuget/EntityFramework.TypedOriginalValues@1.1.0
+- pkg:nuget/EntityFramework.TypedOriginalValues@1.1.1

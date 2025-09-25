@@ -1,0 +1,6 @@
+- pkg:nuget/EnyimMemcached@2.11.0
+- pkg:nuget/EnyimMemcached@2.12.0
+- pkg:nuget/EnyimMemcached@2.13.0
+- pkg:nuget/EnyimMemcached@2.14.0-rc1
+- pkg:nuget/EnyimMemcached@2.16.0
+- pkg:nuget/EnyimMemcached@2.7.0

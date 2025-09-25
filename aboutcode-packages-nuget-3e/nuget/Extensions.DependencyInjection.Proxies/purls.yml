@@ -1,0 +1,6 @@
+- pkg:nuget/Extensions.DependencyInjection.Proxies@1.0.0
+- pkg:nuget/Extensions.DependencyInjection.Proxies@2.0.0
+- pkg:nuget/Extensions.DependencyInjection.Proxies@2.1.0
+- pkg:nuget/Extensions.DependencyInjection.Proxies@2.2.0
+- pkg:nuget/Extensions.DependencyInjection.Proxies@2.2.1
+- pkg:nuget/Extensions.DependencyInjection.Proxies@2.3.0

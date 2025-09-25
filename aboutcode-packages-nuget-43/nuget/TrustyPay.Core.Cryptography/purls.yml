@@ -1,0 +1,3 @@
+- pkg:nuget/TrustyPay.Core.Cryptography@0.0.1
+- pkg:nuget/TrustyPay.Core.Cryptography@0.0.2
+- pkg:nuget/TrustyPay.Core.Cryptography@0.0.3

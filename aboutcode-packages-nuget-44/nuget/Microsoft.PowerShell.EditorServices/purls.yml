@@ -1,0 +1,11 @@
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.2.0.133
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.3.0.140
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.3.1.146
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.4.0.234
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.4.1.240
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.4.2.264
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.4.3.277
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.5.0.304
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.6.0.345
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.6.1.356
+- pkg:nuget/Microsoft.PowerShell.EditorServices@0.6.2.389

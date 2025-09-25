@@ -1,0 +1,10 @@
+- pkg:nuget/Microsoft.AppCenter.Auth@2.0.0
+- pkg:nuget/Microsoft.AppCenter.Auth@2.1.0
+- pkg:nuget/Microsoft.AppCenter.Auth@2.1.1
+- pkg:nuget/Microsoft.AppCenter.Auth@2.2.1-preview
+- pkg:nuget/Microsoft.AppCenter.Auth@2.3.0-preview
+- pkg:nuget/Microsoft.AppCenter.Auth@2.4.0-preview
+- pkg:nuget/Microsoft.AppCenter.Auth@2.5.0
+- pkg:nuget/Microsoft.AppCenter.Auth@2.6.1
+- pkg:nuget/Microsoft.AppCenter.Auth@2.6.2
+- pkg:nuget/Microsoft.AppCenter.Auth@2.6.4

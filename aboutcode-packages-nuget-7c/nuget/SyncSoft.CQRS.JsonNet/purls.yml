@@ -1,0 +1,5 @@
+- pkg:nuget/SyncSoft.CQRS.JsonNet@1.1.13.3-beta
+- pkg:nuget/SyncSoft.CQRS.JsonNet@1.1.13.4-beta
+- pkg:nuget/SyncSoft.CQRS.JsonNet@1.1.17
+- pkg:nuget/SyncSoft.CQRS.JsonNet@1.1.18
+- pkg:nuget/SyncSoft.CQRS.JsonNet@1.2.0

@@ -1,0 +1,4 @@
+- pkg:nuget/Nancy.Metadata.Swagger@1.0.1-alpha
+- pkg:nuget/Nancy.Metadata.Swagger@1.0.2
+- pkg:nuget/Nancy.Metadata.Swagger@1.1.0-pre
+- pkg:nuget/Nancy.Metadata.Swagger@1.1.1-pre

@@ -1,0 +1,12 @@
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@4.0.20.301
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@4.0.20.302
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@5.0.10.302
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@5.0.10.303
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@5.0.3.300
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@5.0.4.300
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@5.0.8.301
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@6.0.11.300
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@6.0.2.300
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@6.0.4.300
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@6.0.7.300
+- pkg:nuget/Huawei.Hms.NetworkFrameworkCompat@7.0.2.301

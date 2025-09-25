@@ -1,0 +1,3 @@
+- pkg:nuget/CoreCover.Extensions.OpenCoverReport@0.1.8-prerelease
+- pkg:nuget/CoreCover.Extensions.OpenCoverReport@0.1.9
+- pkg:nuget/CoreCover.Extensions.OpenCoverReport@0.1.9-prerelease0212

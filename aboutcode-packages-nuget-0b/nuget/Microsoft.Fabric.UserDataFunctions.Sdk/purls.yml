@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Fabric.UserDataFunctions.Sdk@0.1.30-rc
+- pkg:nuget/Microsoft.Fabric.UserDataFunctions.Sdk@0.1.32-rc
+- pkg:nuget/Microsoft.Fabric.UserDataFunctions.Sdk@0.1.40-rc
+- pkg:nuget/Microsoft.Fabric.UserDataFunctions.Sdk@0.1.51-rc
+- pkg:nuget/Microsoft.Fabric.UserDataFunctions.Sdk@0.1.54-rc
+- pkg:nuget/Microsoft.Fabric.UserDataFunctions.Sdk@0.2.23-rc

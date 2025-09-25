@@ -1,0 +1,8 @@
+- pkg:nuget/Cosmos.Common.AspNetCore@1.0.1
+- pkg:nuget/Cosmos.Common.AspNetCore@1.0.2
+- pkg:nuget/Cosmos.Common.AspNetCore@5.0.0
+- pkg:nuget/Cosmos.Common.AspNetCore@5.0.10
+- pkg:nuget/Cosmos.Common.AspNetCore@5.0.10.1
+- pkg:nuget/Cosmos.Common.AspNetCore@5.0.5
+- pkg:nuget/Cosmos.Common.AspNetCore@6.0.0
+- pkg:nuget/Cosmos.Common.AspNetCore@6.0.3

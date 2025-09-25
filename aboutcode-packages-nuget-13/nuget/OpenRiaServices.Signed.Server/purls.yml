@@ -1,0 +1,13 @@
+- pkg:nuget/OpenRiaServices.Signed.Server@4.4.0
+- pkg:nuget/OpenRiaServices.Signed.Server@4.4.0-Beta2
+- pkg:nuget/OpenRiaServices.Signed.Server@4.4.0-Beta3
+- pkg:nuget/OpenRiaServices.Signed.Server@4.4.0.1
+- pkg:nuget/OpenRiaServices.Signed.Server@4.4.1
+- pkg:nuget/OpenRiaServices.Signed.Server@4.4.1.1
+- pkg:nuget/OpenRiaServices.Signed.Server@4.4.1.2
+- pkg:nuget/OpenRiaServices.Signed.Server@4.5.0
+- pkg:nuget/OpenRiaServices.Signed.Server@4.5.0-rc1
+- pkg:nuget/OpenRiaServices.Signed.Server@4.5.0-rc2
+- pkg:nuget/OpenRiaServices.Signed.Server@4.5.1
+- pkg:nuget/OpenRiaServices.Signed.Server@4.5.1-beta1
+- pkg:nuget/OpenRiaServices.Signed.Server@4.6.0

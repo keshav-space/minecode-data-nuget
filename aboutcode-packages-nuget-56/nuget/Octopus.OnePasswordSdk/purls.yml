@@ -1,0 +1,11 @@
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.26-mattr-rsb-new-library
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.27
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.29-mattr-rsb-support-connect
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.31
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.33
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.34-mattr-rsb-fix-assembly-name
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.35-mattr-rsb-fix-namespace
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.36
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.37-mattr-rsb-fix-namespace
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.38-mattr-rsb-less-public
+- pkg:nuget/Octopus.OnePasswordSdk@0.0.39

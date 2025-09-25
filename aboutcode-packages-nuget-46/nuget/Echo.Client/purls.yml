@@ -1,0 +1,5 @@
+- pkg:nuget/Echo.Client@1.0.0
+- pkg:nuget/Echo.Client@2.0.0
+- pkg:nuget/Echo.Client@3.0.0
+- pkg:nuget/Echo.Client@4.0.0
+- pkg:nuget/Echo.Client@4.0.1

@@ -1,0 +1,6 @@
+- pkg:nuget/OpenRiaServices.Signed.Silverlight.DomainDataSource@4.4.0
+- pkg:nuget/OpenRiaServices.Signed.Silverlight.DomainDataSource@4.4.0-Beta2
+- pkg:nuget/OpenRiaServices.Signed.Silverlight.DomainDataSource@4.5.0
+- pkg:nuget/OpenRiaServices.Signed.Silverlight.DomainDataSource@4.5.0-rc2
+- pkg:nuget/OpenRiaServices.Signed.Silverlight.DomainDataSource@4.5.1
+- pkg:nuget/OpenRiaServices.Signed.Silverlight.DomainDataSource@4.6.0

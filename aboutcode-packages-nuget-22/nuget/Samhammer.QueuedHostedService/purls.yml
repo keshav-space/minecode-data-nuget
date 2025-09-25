@@ -1,0 +1,6 @@
+- pkg:nuget/Samhammer.QueuedHostedService@1.0.0
+- pkg:nuget/Samhammer.QueuedHostedService@1.0.1
+- pkg:nuget/Samhammer.QueuedHostedService@1.0.2
+- pkg:nuget/Samhammer.QueuedHostedService@6.0.0
+- pkg:nuget/Samhammer.QueuedHostedService@8.0.0
+- pkg:nuget/Samhammer.QueuedHostedService@8.0.1

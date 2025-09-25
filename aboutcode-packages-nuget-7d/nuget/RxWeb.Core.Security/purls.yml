@@ -1,0 +1,9 @@
+- pkg:nuget/RxWeb.Core.Security@1.0.0
+- pkg:nuget/RxWeb.Core.Security@2.0.0
+- pkg:nuget/RxWeb.Core.Security@2.0.1
+- pkg:nuget/RxWeb.Core.Security@2.0.1-beta1
+- pkg:nuget/RxWeb.Core.Security@3.0.1
+- pkg:nuget/RxWeb.Core.Security@3.0.2
+- pkg:nuget/RxWeb.Core.Security@3.0.2-preview1
+- pkg:nuget/RxWeb.Core.Security@3.0.2-preview2
+- pkg:nuget/RxWeb.Core.Security@8.0.0

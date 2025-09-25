@@ -1,0 +1,4 @@
+- pkg:nuget/albert.nuget.test@1.0.0
+- pkg:nuget/albert.nuget.test@2.0.0
+- pkg:nuget/albert.nuget.test@3.0.0
+- pkg:nuget/albert.nuget.test@4.0.0

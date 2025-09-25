@@ -1,0 +1,13 @@
+- pkg:nuget/RoslynTester@0.0.1
+- pkg:nuget/RoslynTester@0.0.2
+- pkg:nuget/RoslynTester@0.0.3-rc2
+- pkg:nuget/RoslynTester@1.0.0-rc2
+- pkg:nuget/RoslynTester@1.1.0-rc2
+- pkg:nuget/RoslynTester@1.2.0-rc2
+- pkg:nuget/RoslynTester@1.3.0-rc2
+- pkg:nuget/RoslynTester@1.4.0
+- pkg:nuget/RoslynTester@1.5.0
+- pkg:nuget/RoslynTester@1.6.0
+- pkg:nuget/RoslynTester@1.6.1
+- pkg:nuget/RoslynTester@1.6.2
+- pkg:nuget/RoslynTester@1.6.3

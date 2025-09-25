@@ -1,0 +1,4 @@
+- pkg:nuget/mscorlib.Polyfill.NET40@0.0.1
+- pkg:nuget/mscorlib.Polyfill.NET40@0.0.2
+- pkg:nuget/mscorlib.Polyfill.NET40@0.0.3
+- pkg:nuget/mscorlib.Polyfill.NET40@0.0.4

@@ -1,0 +1,4 @@
+- pkg:nuget/FSharp.Tools@0.8.3
+- pkg:nuget/FSharp.Tools@0.8.4-alpha
+- pkg:nuget/FSharp.Tools@0.8.5-alpha
+- pkg:nuget/FSharp.Tools@0.8.6-alpha

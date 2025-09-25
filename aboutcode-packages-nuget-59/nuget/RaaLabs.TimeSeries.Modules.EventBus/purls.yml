@@ -1,0 +1,6 @@
+- pkg:nuget/RaaLabs.TimeSeries.Modules.EventBus@6.6.0
+- pkg:nuget/RaaLabs.TimeSeries.Modules.EventBus@6.7.0
+- pkg:nuget/RaaLabs.TimeSeries.Modules.EventBus@6.7.1
+- pkg:nuget/RaaLabs.TimeSeries.Modules.EventBus@6.7.3
+- pkg:nuget/RaaLabs.TimeSeries.Modules.EventBus@6.7.4
+- pkg:nuget/RaaLabs.TimeSeries.Modules.EventBus@6.8.0

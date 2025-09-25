@@ -1,0 +1,6 @@
+- pkg:nuget/Microsoft.Agents.M365Copilot.Beta@1.0.0-preview.1
+- pkg:nuget/Microsoft.Agents.M365Copilot.Beta@1.0.0-preview.2
+- pkg:nuget/Microsoft.Agents.M365Copilot.Beta@1.0.0-preview.3
+- pkg:nuget/Microsoft.Agents.M365Copilot.Beta@1.0.0-preview.5
+- pkg:nuget/Microsoft.Agents.M365Copilot.Beta@1.0.0-preview.6
+- pkg:nuget/Microsoft.Agents.M365Copilot.Beta@1.0.0-preview.7

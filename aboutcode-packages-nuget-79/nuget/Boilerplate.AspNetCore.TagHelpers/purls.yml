@@ -1,0 +1,10 @@
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@1.0.0
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@1.0.0-rc2-final-0001
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@1.0.1
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@2.0.0
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@2.1.0
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@2.3.0
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@2.3.1
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@2.3.2
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@2.3.3
+- pkg:nuget/Boilerplate.AspNetCore.TagHelpers@3.0.0

@@ -1,0 +1,3 @@
+- pkg:nuget/Microsoft.Azure.Management.DataLake.AnalyticsJob@0.9.4-preview
+- pkg:nuget/Microsoft.Azure.Management.DataLake.AnalyticsJob@0.9.5-preview
+- pkg:nuget/Microsoft.Azure.Management.DataLake.AnalyticsJob@0.9.6-preview

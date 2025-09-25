@@ -1,0 +1,9 @@
+- pkg:nuget/MySql.Data.OpenTelemetry@8.1.0
+- pkg:nuget/MySql.Data.OpenTelemetry@8.2.0
+- pkg:nuget/MySql.Data.OpenTelemetry@8.3.0
+- pkg:nuget/MySql.Data.OpenTelemetry@8.4.0
+- pkg:nuget/MySql.Data.OpenTelemetry@9.0.0
+- pkg:nuget/MySql.Data.OpenTelemetry@9.1.0
+- pkg:nuget/MySql.Data.OpenTelemetry@9.2.0
+- pkg:nuget/MySql.Data.OpenTelemetry@9.3.0
+- pkg:nuget/MySql.Data.OpenTelemetry@9.4.0

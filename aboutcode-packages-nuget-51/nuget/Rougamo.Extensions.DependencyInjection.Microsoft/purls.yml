@@ -1,0 +1,11 @@
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@10.0.0-preview-1758426744
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@3.0.0-preview-1726685652
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@3.0.1
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@6.0.0-preview-1726686074
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@6.0.1
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@7.0.0-preview-1726686520
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@7.0.1
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@8.0.0-preview-1726686900
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@8.0.1
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@9.0.0
+- pkg:nuget/Rougamo.Extensions.DependencyInjection.Microsoft@9.0.0-preview-1733591092

@@ -1,0 +1,3 @@
+- pkg:nuget/ServiceFabricSdkContrib.Application@0.0.2-beta
+- pkg:nuget/ServiceFabricSdkContrib.Application@0.0.3-beta
+- pkg:nuget/ServiceFabricSdkContrib.Application@0.0.4-beta

@@ -1,0 +1,14 @@
+- pkg:nuget/sas.simulators.nunit@0.0.10
+- pkg:nuget/sas.simulators.nunit@0.0.14
+- pkg:nuget/sas.simulators.nunit@0.0.15
+- pkg:nuget/sas.simulators.nunit@0.0.18
+- pkg:nuget/sas.simulators.nunit@0.0.19
+- pkg:nuget/sas.simulators.nunit@0.0.29
+- pkg:nuget/sas.simulators.nunit@0.0.30
+- pkg:nuget/sas.simulators.nunit@0.0.34
+- pkg:nuget/sas.simulators.nunit@0.0.37-samples-soap.1
+- pkg:nuget/sas.simulators.nunit@0.0.38
+- pkg:nuget/sas.simulators.nunit@0.0.6
+- pkg:nuget/sas.simulators.nunit@0.0.8
+- pkg:nuget/sas.simulators.nunit@1.0.0
+- pkg:nuget/sas.simulators.nunit@1.0.2

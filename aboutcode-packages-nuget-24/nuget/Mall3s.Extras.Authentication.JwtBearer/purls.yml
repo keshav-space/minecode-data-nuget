@@ -1,0 +1,5 @@
+- pkg:nuget/Mall3s.Extras.Authentication.JwtBearer@10.5.0
+- pkg:nuget/Mall3s.Extras.Authentication.JwtBearer@10.52.0
+- pkg:nuget/Mall3s.Extras.Authentication.JwtBearer@5.5.0
+- pkg:nuget/Mall3s.Extras.Authentication.JwtBearer@6.5.0
+- pkg:nuget/Mall3s.Extras.Authentication.JwtBearer@6.5.2

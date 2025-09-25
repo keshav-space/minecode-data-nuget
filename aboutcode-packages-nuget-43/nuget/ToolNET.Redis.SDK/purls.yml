@@ -1,0 +1,5 @@
+- pkg:nuget/ToolNET.Redis.SDK@6.0.0
+- pkg:nuget/ToolNET.Redis.SDK@6.0.1
+- pkg:nuget/ToolNET.Redis.SDK@6.0.2
+- pkg:nuget/ToolNET.Redis.SDK@6.0.5
+- pkg:nuget/ToolNET.Redis.SDK@6.0.8

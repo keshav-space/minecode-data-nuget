@@ -1,0 +1,7 @@
+- pkg:nuget/sas.simulators.http.nsubstitute@0.0.29
+- pkg:nuget/sas.simulators.http.nsubstitute@0.0.30
+- pkg:nuget/sas.simulators.http.nsubstitute@0.0.34
+- pkg:nuget/sas.simulators.http.nsubstitute@0.0.37-samples-soap.1
+- pkg:nuget/sas.simulators.http.nsubstitute@0.0.38
+- pkg:nuget/sas.simulators.http.nsubstitute@1.0.0
+- pkg:nuget/sas.simulators.http.nsubstitute@1.0.2

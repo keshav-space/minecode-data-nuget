@@ -1,0 +1,15 @@
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.1.5
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.1.6
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.2.46
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.51
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.56
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.57
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.58
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.59
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.66
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.68
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.69
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.70
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@3.3.72
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@4.0.102
+- pkg:nuget/RabbitMQ.MessageBus.Protobuf@4.0.103

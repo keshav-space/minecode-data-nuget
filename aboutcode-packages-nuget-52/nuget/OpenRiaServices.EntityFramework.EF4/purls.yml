@@ -1,0 +1,13 @@
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.3.0
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.4.0
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.4.0-Beta1
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.4.0-Beta2
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.4.0.1
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.4.0.3
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.4.1
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.5.0
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.5.0-rc1
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.5.0-rc2
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.5.1
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.6.0
+- pkg:nuget/OpenRiaServices.EntityFramework.EF4@4.6.0-preview0001

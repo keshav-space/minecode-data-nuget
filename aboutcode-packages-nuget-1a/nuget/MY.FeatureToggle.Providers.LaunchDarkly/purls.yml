@@ -1,0 +1,5 @@
+- pkg:nuget/MY.FeatureToggle.Providers.LaunchDarkly@1.0.0
+- pkg:nuget/MY.FeatureToggle.Providers.LaunchDarkly@1.2.0
+- pkg:nuget/MY.FeatureToggle.Providers.LaunchDarkly@2.0.0
+- pkg:nuget/MY.FeatureToggle.Providers.LaunchDarkly@3.0.0
+- pkg:nuget/MY.FeatureToggle.Providers.LaunchDarkly@3.1.0

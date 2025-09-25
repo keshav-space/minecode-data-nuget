@@ -1,0 +1,5 @@
+- pkg:nuget/SaferString@1.0.0-PreRelease
+- pkg:nuget/SaferString@1.0.3
+- pkg:nuget/SaferString@1.1.10
+- pkg:nuget/SaferString@1.1.11
+- pkg:nuget/SaferString@1.1.14

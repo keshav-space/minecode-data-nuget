@@ -1,0 +1,4 @@
+- pkg:nuget/Echo.Server@1.0.0
+- pkg:nuget/Echo.Server@2.0.0
+- pkg:nuget/Echo.Server@3.0.0
+- pkg:nuget/Echo.Server@4.0.0

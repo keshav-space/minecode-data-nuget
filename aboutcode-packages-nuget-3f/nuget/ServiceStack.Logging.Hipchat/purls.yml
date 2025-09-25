@@ -1,0 +1,5 @@
+- pkg:nuget/ServiceStack.Logging.Hipchat@0.0.1
+- pkg:nuget/ServiceStack.Logging.Hipchat@0.0.3
+- pkg:nuget/ServiceStack.Logging.Hipchat@0.0.4
+- pkg:nuget/ServiceStack.Logging.Hipchat@0.0.5
+- pkg:nuget/ServiceStack.Logging.Hipchat@0.0.6

@@ -1,0 +1,5 @@
+- pkg:nuget/EnyimMemcached-log4net@2.11.0
+- pkg:nuget/EnyimMemcached-log4net@2.12.0
+- pkg:nuget/EnyimMemcached-log4net@2.13.0
+- pkg:nuget/EnyimMemcached-log4net@2.16.0
+- pkg:nuget/EnyimMemcached-log4net@2.7.0

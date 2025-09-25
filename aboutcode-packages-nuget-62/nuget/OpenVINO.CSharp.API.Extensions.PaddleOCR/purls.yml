@@ -1,0 +1,5 @@
+- pkg:nuget/OpenVINO.CSharp.API.Extensions.PaddleOCR@1.0.0
+- pkg:nuget/OpenVINO.CSharp.API.Extensions.PaddleOCR@1.0.1
+- pkg:nuget/OpenVINO.CSharp.API.Extensions.PaddleOCR@1.0.2
+- pkg:nuget/OpenVINO.CSharp.API.Extensions.PaddleOCR@1.0.3
+- pkg:nuget/OpenVINO.CSharp.API.Extensions.PaddleOCR@1.0.4

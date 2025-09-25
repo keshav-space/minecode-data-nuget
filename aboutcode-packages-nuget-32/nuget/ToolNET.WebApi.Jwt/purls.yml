@@ -1,0 +1,9 @@
+- pkg:nuget/ToolNET.WebApi.Jwt@6.0.0
+- pkg:nuget/ToolNET.WebApi.Jwt@7.0.0
+- pkg:nuget/ToolNET.WebApi.Jwt@7.0.1
+- pkg:nuget/ToolNET.WebApi.Jwt@7.0.2
+- pkg:nuget/ToolNET.WebApi.Jwt@7.0.3
+- pkg:nuget/ToolNET.WebApi.Jwt@7.0.6
+- pkg:nuget/ToolNET.WebApi.Jwt@7.0.8
+- pkg:nuget/ToolNET.WebApi.Jwt@7.1.0
+- pkg:nuget/ToolNET.WebApi.Jwt@7.1.1

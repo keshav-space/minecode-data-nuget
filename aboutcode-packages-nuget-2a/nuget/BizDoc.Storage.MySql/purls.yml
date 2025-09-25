@@ -1,0 +1,6 @@
+- pkg:nuget/BizDoc.Storage.MySql@6.8.1
+- pkg:nuget/BizDoc.Storage.MySql@7.0.0
+- pkg:nuget/BizDoc.Storage.MySql@7.1.0
+- pkg:nuget/BizDoc.Storage.MySql@7.2.0
+- pkg:nuget/BizDoc.Storage.MySql@8.2.0
+- pkg:nuget/BizDoc.Storage.MySql@8.2.1
